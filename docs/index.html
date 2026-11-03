@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Veille composants PC — bonnes affaires</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Veille composants PC</h1>
+    <p class="sub">Algorithme déterministe : décote vs prix médian observé sur 30 jours, et prix cibles de ma liste.</p>
+    <p id="meta" class="meta">Chargement…</p>
+    <ul id="sources" class="sources"></ul>
+  </header>
+
+  <main>
+    <section>
+      <h2>Ma liste</h2>
+      <div id="watchlist" class="cards"></div>
+    </section>
+
+    <section>
+      <h2>Opportunités</h2>
+      <div class="filters">
+        <label>Catégorie
+          <select id="f-cat">
+            <option value="">Toutes</option>
+            <option value="GPU">Cartes graphiques</option>
+            <option value="CPU">Processeurs</option>
+            <option value="RAM">Mémoire vive</option>
+            <option value="SSD">SSD</option>
+            <option value="MB">Cartes mères</option>
+            <option value="PSU">Alimentations</option>
+          </select>
+        </label>
+        <label>État
+          <select id="f-cond">
+            <option value="">Neuf et occasion</option>
+            <option value="new">Neuf</option>
+            <option value="used">Occasion</option>
+          </select>
+        </label>
+      </div>
+      <div class="table-wrap">
+        <table id="opps">
+          <thead>
+            <tr>
+              <th data-key="discount_pct" class="num">Décote</th>
+              <th data-key="title">Annonce</th>
+              <th data-key="effective_eur" class="num">Prix (port inclus)</th>
+              <th data-key="median_eur" class="num">Médiane 30 j</th>
+              <th data-key="merchant">Marchand</th>
+              <th data-key="source">Source</th>
+              <th data-key="posted_at">Âge</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p id="opps-empty" class="empty" hidden>Aucune opportunité pour le moment. L'historique des prix se construit au fil des passes : il faut au moins 5 prix observés pour qu'un modèle ait une référence.</p>
+    </section>
+
+    <section>
+      <details>
+        <summary><h2>Non classées et annonces en dollars</h2></summary>
+        <p class="sub">Annonces récentes non reconnues par l'algorithme, et bons plans américains (r/buildapcsales) affichés à titre indicatif.</p>
+        <ul id="unclassified" class="plain"></ul>
+      </details>
+    </section>
+  </main>
+
+  <footer>
+    <p>Sources : flux RSS Dealabs, flux Reddit r/buildapcsales, API eBay (si configurée). Aucune donnée personnelle, aucun traceur.</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
