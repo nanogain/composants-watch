@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime
 
 
@@ -21,6 +21,7 @@ class Listing:
     category: str | None = None
     model: str | None = None
     image_url: str | None = None
+    attrs: dict = field(default_factory=dict)
 
     @property
     def effective_eur(self) -> float | None:
