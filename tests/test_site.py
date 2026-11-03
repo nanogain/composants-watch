@@ -26,6 +26,17 @@ class SiteTest(unittest.TestCase):
         self.assertNotIn("innerHTML", self.js)
         self.assertNotIn("insertAdjacentHTML", self.js)
 
+    def test_tabs_and_scripts(self):
+        self.assertIn("Bonnes affaires", self.html)
+        self.assertIn("Configurateur", self.html)
+        self.assertRegex(self.html, r'<script[^>]+src="compat\.js"')
+        self.assertRegex(self.html, r'<script[^>]+src="config\.js"')
+        cfg = (DOCS / "config.js").read_text(encoding="utf-8")
+        self.assertNotIn("innerHTML", cfg)
+        self.assertNotIn("insertAdjacentHTML", cfg)
+        self.assertRegex(cfg, r"fetch\(\s*['\"]data/catalog\.json")
+        self.assertNotRegex(cfg, r"fetch\(\s*['\"]https?://")
+
     def test_french_and_nojekyll(self):
         self.assertIn('lang="fr"', self.html)
         self.assertTrue((DOCS / ".nojekyll").exists())

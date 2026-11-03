@@ -1,6 +1,7 @@
 "use strict";
 (function () {
-  const CAT = { GPU: "Carte graphique", CPU: "Processeur", RAM: "Mémoire", SSD: "SSD", MB: "Carte mère", PSU: "Alimentation" };
+  const CAT = { GPU: "Carte graphique", CPU: "Processeur", RAM: "Mémoire", SSD: "SSD", MB: "Carte mère", PSU: "Alimentation",
+    COOL: "Ventirad", CASE: "Boîtier", MON: "Écran", KBD: "Clavier" };
   const SRC = { dealabs: "Dealabs", reddit: "Reddit", ebay: "eBay" };
   const STATUS = { ok: "OK", down: "en panne", disabled: "désactivée" };
   const eur = (v) => (v == null ? "—" : v.toLocaleString("fr-FR", { style: "currency", currency: "EUR" }));

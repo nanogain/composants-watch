@@ -1,0 +1,255 @@
+{
+ "generated_at": "2026-11-03T09:00:00Z",
+ "version": 1,
+ "items": [
+  {
+   "id": "dealabs:1",
+   "category": "CPU",
+   "model": "CPU:Ryzen 7 7800X3D",
+   "title": "CPU:Ryzen 7 7800X3D titre 1",
+   "condition": "new",
+   "effective_eur": 349.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "socket": "AM5",
+    "tdp_w": 120,
+    "igpu": true
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-1",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:2",
+   "category": "CPU",
+   "model": "CPU:Ryzen 5 7600",
+   "title": "CPU:Ryzen 5 7600 titre 2",
+   "condition": "new",
+   "effective_eur": 189.0,
+   "median_eur": 236.0,
+   "deal": true,
+   "discount_pct": 20.0,
+   "attrs": {
+    "socket": "AM5",
+    "tdp_w": 65,
+    "igpu": true
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-2",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:3",
+   "category": "CPU",
+   "model": "CPU:Ryzen 5 5600X",
+   "title": "CPU:Ryzen 5 5600X titre 3",
+   "condition": "new",
+   "effective_eur": 99.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "socket": "AM4",
+    "tdp_w": 65,
+    "igpu": false
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-3",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:4",
+   "category": "MB",
+   "model": "MB:B650",
+   "title": "MB:B650 titre 4",
+   "condition": "new",
+   "effective_eur": 159.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "socket": "AM5",
+    "ddr": 5,
+    "form": "ATX"
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-4",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:5",
+   "category": "MB",
+   "model": "MB:B550",
+   "title": "MB:B550 titre 5",
+   "condition": "new",
+   "effective_eur": 89.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "socket": "AM4",
+    "ddr": 4,
+    "form": "mATX"
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-5",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:6",
+   "category": "RAM",
+   "model": "RAM:DDR5-32Go-6000",
+   "title": "RAM:DDR5-32Go-6000 titre 6",
+   "condition": "new",
+   "effective_eur": 95.0,
+   "median_eur": 110.0,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "ddr": 5
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-6",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:7",
+   "category": "GPU",
+   "model": "GPU:RTX 4070 Super",
+   "title": "GPU:RTX 4070 Super titre 7",
+   "condition": "new",
+   "effective_eur": 579.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "tdp_w": 220
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-7",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:8",
+   "category": "SSD",
+   "model": "SSD:NVMe-1To",
+   "title": "SSD:NVMe-1To titre 8",
+   "condition": "new",
+   "effective_eur": 59.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {},
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-8",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:9",
+   "category": "PSU",
+   "model": "PSU:750W-Gold",
+   "title": "PSU:750W-Gold titre 9",
+   "condition": "new",
+   "effective_eur": 89.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "watts": 750
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-9",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:10",
+   "category": "CASE",
+   "model": "CASE:ATX",
+   "title": "CASE:ATX titre 10",
+   "condition": "new",
+   "effective_eur": 79.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "max_form": "ATX"
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-10",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:11",
+   "category": "COOL",
+   "model": "COOL:Air",
+   "title": "COOL:Air titre 11",
+   "condition": "new",
+   "effective_eur": 35.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "type": "air",
+    "sockets": [
+     "AM4",
+     "AM5"
+    ]
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-11",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:12",
+   "category": "MON",
+   "model": "MON:27-QHD-180Hz",
+   "title": "MON:27-QHD-180Hz titre 12",
+   "condition": "new",
+   "effective_eur": 169.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "inches": 27,
+    "res": "QHD",
+    "hz": 180
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-12",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "id": "dealabs:13",
+   "category": "KBD",
+   "model": "KBD:Mécanique-TKL",
+   "title": "KBD:Mécanique-TKL titre 13",
+   "condition": "new",
+   "effective_eur": 49.0,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "type": "Mécanique",
+    "layout": "TKL"
+   },
+   "merchant": "LDLC",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/x-13",
+   "posted_at": "2026-11-03T08:00:00+00:00"
+  }
+ ]
+}

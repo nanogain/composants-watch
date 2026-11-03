@@ -12,9 +12,13 @@
     <p class="sub">Algorithme déterministe : décote vs prix médian observé sur 30 jours, et prix cibles de ma liste.</p>
     <p id="meta" class="meta">Chargement…</p>
     <ul id="sources" class="sources"></ul>
+    <nav id="tabs" class="tabs">
+      <button type="button" class="tab active" data-tab="deals">Bonnes affaires</button>
+      <button type="button" class="tab" data-tab="config">Configurateur</button>
+    </nav>
   </header>
 
-  <main>
+  <main id="tab-deals">
     <section>
       <h2>Ma liste</h2>
       <div id="watchlist" class="cards"></div>
@@ -32,6 +36,10 @@
             <option value="SSD">SSD</option>
             <option value="MB">Cartes mères</option>
             <option value="PSU">Alimentations</option>
+            <option value="COOL">Ventirads et AIO</option>
+            <option value="CASE">Boîtiers</option>
+            <option value="MON">Écrans</option>
+            <option value="KBD">Claviers</option>
           </select>
         </label>
         <label>État
@@ -70,9 +78,23 @@
     </section>
   </main>
 
+  <main id="tab-config" hidden>
+    <section>
+      <h2>Configurateur</h2>
+      <p class="sub">Compose une configuration avec les annonces récentes reconnues. Les contrôles de compatibilité sont déterministes : ✅ compatible, ❌ incompatible, ❔ information manquante, ⚠️ juste.</p>
+      <p id="cfg-msg" class="meta"></p>
+      <div class="cfg-grid">
+        <div id="cfg-slots"></div>
+        <aside id="cfg-recap"></aside>
+      </div>
+    </section>
+  </main>
+
   <footer>
     <p>Sources : flux RSS Dealabs, flux Reddit r/buildapcsales, API eBay (si configurée). Aucune donnée personnelle, aucun traceur.</p>
   </footer>
+  <script src="compat.js"></script>
   <script src="app.js"></script>
+  <script src="config.js"></script>
 </body>
 </html>
