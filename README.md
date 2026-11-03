@@ -62,25 +62,35 @@ Un modèle mal écrit apparaît sur la page avec le badge « modèle jamais vu �
 
 ## Mise en place de GitHub (une fois)
 
-1. Sur GitHub, crée un dépôt **public** nommé `composants-watch`, vide.
-2. Crée un jeton à droits réduits : *Settings → Developer settings → Personal access
-   tokens → Fine-grained tokens*. Accès au seul dépôt `composants-watch`, permission
-   **Contents : Read and write**, rien d'autre.
-3. Sur le Pi :
+Dépôt : <https://github.com/nanogain/composants-watch> (public).
+
+Le Pi publie avec une **clé de déploiement** SSH limitée à ce seul dépôt :
+
+1. Clé dédiée sur le Pi :
    ```bash
-   mkdir -p ~/.config/composants-watch
-   ( umask 077; cat > ~/.config/composants-watch/token )   # colle le jeton, Entrée, puis Ctrl+D
+   ssh-keygen -t ed25519 -N "" -C "composants-watch deploy" -f ~/.ssh/composants_watch_deploy
+   cat ~/.ssh/composants_watch_deploy.pub
+   ```
+2. Sur GitHub : *Settings → Deploy keys → Add deploy key*, coller la clé publique,
+   cocher **Allow write access**.
+3. Dans le dépôt local :
+   ```bash
    cd ~/composants-watch
-   git remote add origin https://github.com/<ton-compte>/composants-watch.git
+   git remote add origin git@github.com:nanogain/composants-watch.git
+   git config core.sshCommand "ssh -i ~/.ssh/composants_watch_deploy -o IdentitiesOnly=yes -o BatchMode=yes"
    python3 watch.py --verbose
    ```
-   La première passe pousse la branche `main`.
 4. Sur GitHub : *Settings → Pages → Build and deployment → Deploy from a branch*,
    branche `main`, dossier `/docs`. La page est ensuite disponible sur
-   `https://<ton-compte>.github.io/composants-watch/`.
+   <https://nanogain.github.io/composants-watch/>.
 
-Le jeton n'est jamais écrit dans le dépôt ni dans `.git/config` : il est transmis à
-`git push` par en-tête, à chaque passe.
+Chaque passe publie uniquement `docs/data/deals.json`, sur `main`, et seulement si
+son contenu a changé.
+
+Variante sans SSH : un remote `https://` avec un jeton à droits réduits (*Fine-grained
+token*, permission *Contents: Read and write* sur ce seul dépôt) dans
+`~/.config/composants-watch/token` (mode 600). Le jeton est transmis à `git push` par
+l'environnement, jamais écrit dans le dépôt ni dans `.git/config`.
 
 ## eBay (optionnel)
 
