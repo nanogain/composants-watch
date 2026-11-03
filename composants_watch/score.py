@@ -45,7 +45,7 @@ def score(listings: list[dict], store, cfg: dict, watchlist: list[dict], now: da
     live = [r for r in listings if not r["expired"]]
     opportunities, unclassified = [], []
     for r in live:
-        if r["model"] is None:
+        if r["model"] is None or r["price_eur"] is None:
             unclassified.append({"title": r["title"], "price_raw": r["price_raw"], "source": r["source"],
                                  "url": r["url"], "posted_at": r["posted_at"]})
             continue

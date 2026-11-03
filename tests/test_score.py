@@ -97,7 +97,7 @@ class ScoreTest(unittest.TestCase):
         res = self.run_score()
         self.assertEqual(self.opp_ids(res), [])
         self.assertEqual(len(self.s.observations(M, "new", NOW - timedelta(days=30))), 5)
-        self.assertEqual([u["title"] for u in res["unclassified"]], ["[Cooler] thing"])
+        self.assertEqual(sorted(u["title"] for u in res["unclassified"]), ["MSI RTX 4070 Super", "[Cooler] thing"])
 
     def test_new_and_used_separate_medians(self):
         self.seed([600] * 5)
