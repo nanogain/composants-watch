@@ -1,0 +1,33 @@
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+DEFAULTS = {
+    "dealabs_groups": ["cartes-graphiques", "processeurs", "memoire-vive", "ssd",
+                       "cartes-meres", "alimentations-pc", "informatique"],
+    "reddit_enabled": True,
+    "ebay_enabled": True,
+    "discount_min": 0.15,
+    "suspect_above": 0.70,
+    "median_window_days": 30,
+    "median_min_obs": 5,
+    "ebay_min_listings": 3,
+    "retention_days": 7,
+    "down_after_failures": 5,
+}
+
+
+def load_config(path="config.json") -> dict:
+    cfg = dict(DEFAULTS)
+    p = Path(path)
+    if p.exists():
+        cfg.update(json.loads(p.read_text(encoding="utf-8")))
+    return cfg
+
+
+def load_watchlist(path="watchlist.json") -> list[dict]:
+    p = Path(path)
+    if not p.exists():
+        return []
+    return json.loads(p.read_text(encoding="utf-8"))

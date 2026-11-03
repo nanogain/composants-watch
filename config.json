@@ -1,0 +1,20 @@
+{
+  "dealabs_groups": [
+    "cartes-graphiques",
+    "processeurs",
+    "memoire-vive",
+    "ssd",
+    "cartes-meres",
+    "alimentations-pc",
+    "informatique"
+  ],
+  "reddit_enabled": true,
+  "ebay_enabled": true,
+  "discount_min": 0.15,
+  "suspect_above": 0.7,
+  "median_window_days": 30,
+  "median_min_obs": 5,
+  "ebay_min_listings": 3,
+  "retention_days": 7,
+  "down_after_failures": 5
+}
