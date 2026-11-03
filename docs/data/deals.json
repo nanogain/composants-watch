@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T21:38:00Z",
+ "generated_at": "2026-11-03T22:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-03T21:38:00.714434+00:00"
+   "last_ok": "2026-11-03T22:08:00.662150+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T21:38:00.714434+00:00"
+   "last_ok": "2026-11-03T22:08:00.662150+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Monitor] AOC 2K 26.5\" QD-OLED Monitor ($289.99 - $231.99 with coupon code SAVE20TECH)",
+   "price_raw": "$289.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn6mu9/monitor_aoc_2k_265_qdoled_monitor_28999_23199/",
+   "posted_at": "2026-11-03T22:03:03+00:00"
+  },
+  {
+   "title": "[Bunlde] (Micro Center Instore only) Intel Core Ultra 5 250KF + ASUS B860M-A Prime Motherboard + 32gb DDR5 G.Skill 6000 $499.99",
+   "price_raw": "$499.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn6glg/bunlde_micro_center_instore_only_intel_core_ultra/",
+   "posted_at": "2026-11-03T21:56:17+00:00"
+  },
   {
    "title": "[Via Paypal] Tablette 11,2\" Xiaomi Pad 8 2026 - 12/256Go, Snapdragon 8s Gen 4, 3,2K/144Hz, Grise, 9200mAh, Charge turbo 45W, Version Globale",
    "price_raw": "274,81€",
@@ -571,24 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-13-macbook-neo-a18-pro-3445127",
    "posted_at": "2026-11-03T10:26:47+00:00"
-  },
-  {
-   "title": "Pack serveur NAS Synology DS225+ 2 baies + 2 disque 2 To BarraCuda SATA III",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-serveur-nas-synology-ds225-2-baies-2-disque-2-to-barracuda-sata-iii-3445120",
-   "posted_at": "2026-11-03T10:21:46+00:00"
-  },
-  {
-   "title": "Liseuse électronique magnétique XTEINK X3 - Écran E-Ink Carta 1300 3,7”, Wi-Fi, Bluetooth, carte mémoire 16 Go, 58g, coque incluse",
-   "price_raw": "51,69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/liseuse-electronique-magnetique-xteink-x3-ecran-e-ink-carta-1300-37-wi-fi-bluetooth-carte-memoire-16-go-58-g-coque-incluse-3445118",
-   "posted_at": "2026-11-03T10:19:07+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 221,
+  "listings_seen": 224,
   "models_with_reference": 7
  }
 }
