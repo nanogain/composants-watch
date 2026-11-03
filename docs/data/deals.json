@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T22:08:00Z",
+ "generated_at": "2026-11-03T22:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-03T22:08:00.662150+00:00"
+   "items": 343,
+   "last_ok": "2026-11-03T22:38:00.620181+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T22:08:00.662150+00:00"
+   "last_ok": "2026-11-03T22:38:00.620181+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Via Paypal] Tablette 11,2\" Xiaomi Pad 8 Pro 2026 - 12/512Go, Snapdragon 8 Elite, 3,2k/144 Hz, Grise, 9200mAh, HyperCharge 67W, Wi-Fi 7",
+   "price_raw": "377,13€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/via-paypal-tablette-112-xiaomi-pad-8-pro-2026-12512go-32k-144-hz-snapdragon-8-elite-9200mah-hypercharge-67w-wi-fi-7-3445682",
+   "posted_at": "2026-11-03T22:23:07+00:00"
+  },
+  {
+   "title": "PC Portable 16\" MSI Pulse A16 AI+ C3HWGKG-004FR - AMD Ryzen AI 7 350,16 Go DDR5, SSD 1 To, RTX5070 8 Go",
+   "price_raw": "1 599,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-gaming-msi-pulse-a16-ai-c3hwgkg-004fr-amd-ryzen-ai-7-350-16gb-ddr5-ssd-1tb-rtx5070-8gb-16-qhd-240hz-windows-11-famille-3445672",
+   "posted_at": "2026-11-03T22:08:20+00:00"
+  },
+  {
+   "title": "[Monitor] Acer Predator X34 F1 34\" 3440×1440 360Hz Penta Tandem QD-OLED, HDMI 2.1, USB-C 65W is $694.99 at B&H",
+   "price_raw": "$694.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn72j7/monitor_acer_predator_x34_f1_34_34401440_360hz/",
+   "posted_at": "2026-11-03T22:20:14+00:00"
+  },
   {
    "title": "[Monitor] AOC 2K 26.5\" QD-OLED Monitor ($289.99 - $231.99 with coupon code SAVE20TECH)",
    "price_raw": "$289.99",
@@ -564,31 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-cooler-master-masterframe-360-stage-lcd-3441803",
    "posted_at": "2026-10-30T08:09:14+00:00"
-  },
-  {
-   "title": "Boîtier PC Mars Gaming MC-Novam - Double fenêtre verre trempé, Noir",
-   "price_raw": "42,30€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-mars-gaming-mc-novam-double-fenetre-verre-trempe-noir-3441061",
-   "posted_at": "2026-10-29T06:40:34+00:00"
-  },
-  {
-   "title": "PC Portable 14\" ASUS S5406SAL-SF312W - OLED, Intel Core Ultra 5 226V, 16 Go RAM LPDDR5x, SSD 512 Go, Wifi 7",
-   "price_raw": "779,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-vivobook-s14-oled-s5406sal-sf315w-14-oled-wuxga-60-hz-copilot-pc-intel-core-ultra-ai-5-16-go-ram-512-go-ssd-argent-3445141",
-   "posted_at": "2026-11-03T10:35:45+00:00"
-  },
-  {
-   "title": "PC Portable 13\" Apple MacBook Neo A18 Pro - 8Go RAM, 512Go SSD",
-   "price_raw": "799€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-13-macbook-neo-a18-pro-3445127",
-   "posted_at": "2026-11-03T10:26:47+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 224,
+  "listings_seen": 227,
   "models_with_reference": 7
  }
 }
