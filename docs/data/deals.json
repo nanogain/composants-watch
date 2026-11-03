@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T14:08:00Z",
+ "generated_at": "2026-11-03T14:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 341,
-   "last_ok": "2026-11-03T14:08:00.695617+00:00"
+   "last_ok": "2026-11-03T14:38:00.680352+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T14:08:00.695617+00:00"
+   "last_ok": "2026-11-03T14:38:00.680352+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -31,6 +31,23 @@
  ],
  "opportunities": [
   {
+   "title": "Clavier Sans Fil Bluetooth + 2,4GHz Cherry KW 9200 Mini - Azerty, Noir",
+   "model": "KBD:Membrane-Complet",
+   "category": "KBD",
+   "condition": "new",
+   "price_eur": 19.99,
+   "shipping_eur": null,
+   "effective_eur": 19.99,
+   "median_eur": 59.99,
+   "discount_pct": 66.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Darty",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/clavier-sans-fil-bluetooth-24ghz-cherry-kw-9200-mini-azerty-noir-3443976",
+   "posted_at": "2026-11-02T07:41:32+00:00"
+  },
+  {
    "title": "Clavier mécanique Machenike KG98 96% - Tri-mode, Hot-swap, Switches Ice Cream Pro Max Orange, Qwerty US",
    "model": "KBD:Mécanique-Complet",
    "category": "KBD",
@@ -46,23 +63,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/clavier-mecanique-machenike-kg98-96-tri-mode-hot-swap-switches-ice-cream-pro-max-orange-qwerty-us-3442223",
    "posted_at": "2026-10-30T17:08:26+00:00"
-  },
-  {
-   "title": "Clavier Sans Fil Bluetooth + 2,4GHz Cherry KW 9200 Mini - Azerty, Noir",
-   "model": "KBD:Membrane-Complet",
-   "category": "KBD",
-   "condition": "new",
-   "price_eur": 19.99,
-   "shipping_eur": null,
-   "effective_eur": 19.99,
-   "median_eur": 55.56,
-   "discount_pct": 64.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Darty",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/clavier-sans-fil-bluetooth-24ghz-cherry-kw-9200-mini-azerty-noir-3443976",
-   "posted_at": "2026-11-02T07:41:32+00:00"
   },
   {
    "title": "Boîtier PC Antec AX20 ATX",
@@ -253,6 +253,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Subblim Wireless Mini Mouse Souris optique sans fil Noir",
+   "price_raw": "3,47€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/subblim-wireless-mini-mouse-souris-optique-sans-fil-noir-3445347",
+   "posted_at": "2026-11-03T14:32:13+00:00"
+  },
   {
    "title": "Souris sans fil Logitech MX Master 4, Gris pâle (ODR de 15€ ou 40€ pour 2 articles gamme MX par Logitech)",
    "price_raw": "99,99€",
@@ -595,17 +602,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-samsung-odyssey-g91f-ls49fg910euxen-49-incurve-3444965",
    "posted_at": "2026-11-03T07:33:44+00:00"
-  },
-  {
-   "title": "Caméra TP-Link Tapo C225 - 2K, Détection Personnes, Animaux & Véhicules, Enregistrement Cloud ou SD",
-   "price_raw": "49,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/camera-tp-link-tapo-c225-2k-detection-personnesanimauxvehicules-enregistrement-cloud-ou-sd-3444938",
-   "posted_at": "2026-11-03T06:53:11+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 191,
+  "listings_seen": 193,
   "models_with_reference": 7
  }
 }
