@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T12:38:00Z",
+ "generated_at": "2026-11-03T13:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-03T12:38:00.677693+00:00"
+   "items": 338,
+   "last_ok": "2026-11-03T13:08:00.673449+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T12:38:00.677693+00:00"
+   "last_ok": "2026-11-03T13:08:00.673449+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Apple MacBook 14,2\" Pro M5 Pro - 24 Go RAM, SSD 1 To, CPU 15 cœurs et GPU 16 cœurs, Couleur Argent",
+   "price_raw": "2 604€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-m5-pro-24-go-ram-ssd-1-to-cpu-15-coeurs-et-gpu-16-coeurs-couleur-argent-3445259",
+   "posted_at": "2026-11-03T12:41:26+00:00"
+  },
+  {
+   "title": "Routeur Wifi TP-Link Deco BE22 (2 pack) Wifi 7",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/routeur-wifi-tp-link-deco-be22-2-pack-wifi-7-3445280",
+   "posted_at": "2026-11-03T13:05:21+00:00"
+  },
   {
    "title": "[Club+] Ordinateur 15\" Apple MACBOOK Air Puce M5 CPU 10 / GPU 10 - RAM 24Go / 1To SSD Bleu ciel Sans Chargeur (via 100€ remise fidelité)",
    "price_raw": "1 999,99€",
@@ -571,24 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/gigabyte-a16-16-165-hz-ryzen-7-260-rtx-5070-16-go-ssd-1-to-win-11-3444776",
    "posted_at": "2026-11-02T20:33:55+00:00"
-  },
-  {
-   "title": "Tablette 11\" Xiaomi Redmi Pad 2 - 128Go, 4Go de Ram,",
-   "price_raw": "139,30€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/xiaomi-redmi-pad-2-version-globale-wifi11-pouces-ecran-25k-ultra-clair-mediatek-helio-g100-ultra-tablette-mi-ecran-90hz-9000mah-3444762",
-   "posted_at": "2026-11-02T20:24:42+00:00"
-  },
-  {
-   "title": "Répéteur Flintronic AX1500 Wifi 6 - 1201Mbps 5GHz et 300Mbps 2,4GHz, Adapté à Tout Routeur WiFi (vendeur tiers)",
-   "price_raw": "19,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/repeteur-ax1500-wifi-6-1201mbps-5ghz-et-300mbps-24ghz-adapte-a-tout-routeur-wifi-3444725",
-   "posted_at": "2026-11-02T19:47:36+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 181,
+  "listings_seen": 184,
   "models_with_reference": 7
  }
 }
