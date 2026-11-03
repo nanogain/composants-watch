@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T10:38:00Z",
+ "generated_at": "2026-11-03T10:47:35Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 198,
-   "last_ok": "2026-11-03T10:38:00.661076+00:00"
+   "items": 338,
+   "last_ok": "2026-11-03T10:47:35.371031+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T10:38:00.661076+00:00"
+   "last_ok": "2026-11-03T10:47:35.371031+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -30,6 +30,74 @@
   }
  ],
  "opportunities": [
+  {
+   "title": "Clavier mécanique Machenike KG98 96% - Tri-mode, Hot-swap, Switches Ice Cream Pro Max Orange, Qwerty US",
+   "model": "KBD:Mécanique-Complet",
+   "category": "KBD",
+   "condition": "new",
+   "price_eur": 29.99,
+   "shipping_eur": null,
+   "effective_eur": 29.99,
+   "median_eur": 86.04,
+   "discount_pct": 65.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "JoyBuy",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/clavier-mecanique-machenike-kg98-96-tri-mode-hot-swap-switches-ice-cream-pro-max-orange-qwerty-us-3442223",
+   "posted_at": "2026-10-30T17:08:26+00:00"
+  },
+  {
+   "title": "Clavier Sans Fil Bluetooth + 2,4GHz Cherry KW 9200 Mini - Azerty, Noir",
+   "model": "KBD:Membrane-Complet",
+   "category": "KBD",
+   "condition": "new",
+   "price_eur": 19.99,
+   "shipping_eur": null,
+   "effective_eur": 19.99,
+   "median_eur": 55.56,
+   "discount_pct": 64.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Darty",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/clavier-sans-fil-bluetooth-24ghz-cherry-kw-9200-mini-azerty-noir-3443976",
+   "posted_at": "2026-11-02T07:41:32+00:00"
+  },
+  {
+   "title": "Boîtier PC Antec AX20 ATX",
+   "model": "CASE:ATX",
+   "category": "CASE",
+   "condition": "new",
+   "price_eur": 26.94,
+   "shipping_eur": null,
+   "effective_eur": 26.94,
+   "median_eur": 63.23,
+   "discount_pct": 57.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Grosbill",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/atec-ax20-boitier-pc-atx-3444485",
+   "posted_at": "2026-11-02T15:37:42+00:00"
+  },
+  {
+   "title": "Boîtier PC Antec AX61 Elite noir - ATX, 4 ventilateurs ARGB 120 mm",
+   "model": "CASE:ATX",
+   "category": "CASE",
+   "condition": "new",
+   "price_eur": 34.0,
+   "shipping_eur": null,
+   "effective_eur": 34.0,
+   "median_eur": 63.23,
+   "discount_pct": 46.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Grosbill",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-antec-ax61-elite-noir-atx-4-ventilateurs-argb-120-mm-3444517",
+   "posted_at": "2026-11-02T16:15:54+00:00"
+  },
   {
    "title": "SSD interne Netac NV3000 M2 - 1 To",
    "model": "SSD:NVMe-1To",
@@ -65,6 +133,23 @@
    "posted_at": "2026-11-01T11:54:24+00:00"
   },
   {
+   "title": "Boitier PC be quiet! Pure Base 501 - boîtier midi tower",
+   "model": "CASE:ATX",
+   "category": "CASE",
+   "condition": "new",
+   "price_eur": 44.9,
+   "shipping_eur": null,
+   "effective_eur": 44.9,
+   "median_eur": 63.23,
+   "discount_pct": 29.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Alternate",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/be-quiet-pure-base-501-boitier-midi-tower-3444654",
+   "posted_at": "2026-11-02T18:31:39+00:00"
+  },
+  {
    "title": "SSD NVME Lexar NQ790 1To Gen4x4 7000 Mo/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -97,6 +182,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-nv3000-nvme-m2-2280-1to-3444172",
    "posted_at": "2026-11-02T10:02:33+00:00"
+  },
+  {
+   "title": "Boitier PC Deepcool CH260, Mini tour, Format M-ATX - Noir",
+   "model": "CASE:mATX",
+   "category": "CASE",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": null,
+   "effective_eur": 49.99,
+   "median_eur": 65.15,
+   "discount_pct": 23.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Grosbill",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-deepcool-ch260-mini-tour-format-m-atx-noir-3440758",
+   "posted_at": "2026-10-28T15:43:52+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe Lexar NQ790 - 1 To, 7 000 Mo/s, PCIe 4.0 Gen4",
@@ -135,6 +237,76 @@
  ],
  "unclassified": [
   {
+   "title": "Carte de capture Elgato 4K X - 4K144, latence ultra-basse, PS5|Pro, Xbox Series XIS, Switch 2, HDMI 2.1, VRR, HDR10, USB 3.2, PC/Mac/iPad",
+   "price_raw": "229,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/elgato-4k-x-carte-de-capture-4k144-latence-ultra-basse-ps5pro-xbox-series-xis-switch-2-hdmi-21-vrr-hdr10-usb-32-pcmacipad-3444523",
+   "posted_at": "2026-11-02T16:21:59+00:00"
+  },
+  {
+   "title": "Smartphone 6,8\" realme 16 Pro Plus 5G - Écran AMOLED incurvé, 144 Hz, batterie",
+   "price_raw": "294,60€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/smartphone-5g-realme-16-pro-plus-ecran-amoled-incurve-de-68-pouces-144-hz-batterie-3444240",
+   "posted_at": "2026-11-02T11:12:41+00:00"
+  },
+  {
+   "title": "Sélection d'Accessoires Informatiques en promotion - Ex : Clavier gaming sans fil trimode Alienware AW920K",
+   "price_raw": "168€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/selection-daccessoires-informatiques-en-promotion-ex-clavier-gaming-sans-fil-trimode-alienware-aw920k-3444242",
+   "posted_at": "2026-11-02T11:20:16+00:00"
+  },
+  {
+   "title": "Serrure Connectée / Smartlock Ezviz DL01 Pro + Clavier + Hub",
+   "price_raw": "69,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/serrure-connectee-ezviz-serrure-dl01-pro-clavier-hub-3443951",
+   "posted_at": "2026-11-02T07:22:57+00:00"
+  },
+  {
+   "title": "Smartphone 4,5\" Unihertz Titan 2 - RAM 12 Go, 512 Go, Dimensity 7300, Clavier Physique, Double Écran, Origine SK",
+   "price_raw": "319,36€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/smartphone-unihertz-titan-2-5g-12-go-ram-512-go-dimensity-7300-clavier-physique-double-ecran-3443219",
+   "posted_at": "2026-11-01T09:37:16+00:00"
+  },
+  {
+   "title": "Boîtier PC CORSAIR 5000D RS ARGB Blanc + Refroidissement Nautilus Corsair 360 ARGB + Alimentation Corsair RM750e 750W",
+   "price_raw": "229,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-5000d-rs-argb-blanc-refroidissement-360-argb-alimentation-rm750e-750w-3444126",
+   "posted_at": "2026-11-02T09:27:22+00:00"
+  },
+  {
+   "title": "Boitier PC Cooler Master MasterFrame 360 Stage LCD",
+   "price_raw": "149,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-cooler-master-masterframe-360-stage-lcd-3441803",
+   "posted_at": "2026-10-30T08:09:14+00:00"
+  },
+  {
+   "title": "Boîtier PC Mars Gaming MC-Novam - Double fenêtre verre trempé, Noir",
+   "price_raw": "42,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-mars-gaming-mc-novam-double-fenetre-verre-trempe-noir-3441061",
+   "posted_at": "2026-10-29T06:40:34+00:00"
+  },
+  {
+   "title": "Boitier PC Duo O11 Vision-M + O11 Vision-M 9.2\" LCD Noir",
+   "price_raw": "10€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/duo-o11-vision-m-o11-vision-m-92-lcd-noir-3439955",
+   "posted_at": "2026-10-27T14:55:24+00:00"
+  },
+  {
+   "title": "PC Portable 14\" ASUS S5406SAL-SF312W - OLED, Intel Core Ultra 5 226V, 16 Go RAM LPDDR5x, SSD 512 Go, Wifi 7",
+   "price_raw": "779,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/asus-vivobook-s14-oled-s5406sal-sf315w-14-oled-wuxga-60-hz-copilot-pc-intel-core-ultra-ai-5-16-go-ram-512-go-ssd-argent-3445141",
+   "posted_at": "2026-11-03T10:35:45+00:00"
+  },
+  {
    "title": "PC Portable 13\" Apple MacBook Neo A18 Pro - 8Go RAM, 512Go SSD",
    "price_raw": "799€",
    "source": "dealabs",
@@ -161,27 +333,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-tactile-honor-pad-20-pro-8256go-3444159",
    "posted_at": "2026-11-03T10:14:08+00:00"
-  },
-  {
-   "title": "Clavier Mécanique Akko Lord of the Mysteries 5108 V5 - 8K, QWERTY",
-   "price_raw": "116,79€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/akko-lord-of-the-mysteries-5108-v5-mechanical-keyboard-8k-3445109",
-   "posted_at": "2026-11-03T10:10:10+00:00"
-  },
-  {
-   "title": "Écran PC incurvé 34\" AOC CU34G4 - WQHD, 3440 x 1440, Fast VA, 180Hz, 1 ms, HDR10, Adaptive Sync",
-   "price_raw": "198,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-34-aoc-cu34g4-wqhd-3440-x-1440-fast-va-180hz-1-ms-hdr10-adaptive-sync-3445096",
-   "posted_at": "2026-11-03T09:49:43+00:00"
-  },
-  {
-   "title": "Écran PC 27\" MSI PRO MP271 E14A - Full HD, 144 Hz 1 ms, IPS FreeSync avec haut-parleurs (84.99€ pour les nouveaux clients)",
-   "price_raw": "94,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/moniteur-msi-pro-mp271-e14a-27-full-hd-144-hz-1-ms-ips-freesync-avec-haut-parleurs-8499eur-pour-les-nouveaux-clients-3445089",
-   "posted_at": "2026-11-03T09:44:21+00:00"
   },
   {
    "title": "Carte Mère Soyo Eternel B650ITX - WiFi 6, DDR5, socket AM5, compatible Ryzen 9600X 9800X",
@@ -282,13 +433,6 @@
    "posted_at": "2026-10-28T07:56:45+00:00"
   },
   {
-   "title": "Ventirad Cooler Master V4 ALPHA 3DHP (AM4, AM5 LGA 1700 / 1200 / 115x-)",
-   "price_raw": "24,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ventirad-cooler-master-v4-alpha-3dhp-3440419",
-   "posted_at": "2026-10-28T09:05:21+00:00"
-  },
-  {
    "title": "Alimentation PC Msi MAG A650BNL",
    "price_raw": "41,10€",
    "source": "dealabs",
@@ -301,13 +445,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-filaire-gamer-logitech-g-g502x-capteur-hero-25k-13-boutons-3445073",
    "posted_at": "2026-11-03T09:27:15+00:00"
-  },
-  {
-   "title": "Ecran PC Incurvé 32\" AOC CQ32G4VE - QHD, 180Hz, Dalle Fast VA, 0,5ms (139,95€ pour les Nouveaux Clients)",
-   "price_raw": "149,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-gamer-aoc-32-qhd-180hz-dalle-fast-va-05ms-cq32g4ve-13995eur-pour-les-nouveaux-clients-avec-le-code-hello10-3445060",
-   "posted_at": "2026-11-03T09:17:24+00:00"
   },
   {
    "title": "PC Portable 16\" ASUS VIVOBOOK S16 S3607NA-SH065W - OLED, 60Hz, Snapdragon X2 ELITE, 16 Go RAM, 1 To SSD",
@@ -329,13 +466,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-34-msi-341cqp-qd-oled-3445021",
    "posted_at": "2026-11-03T08:41:59+00:00"
-  },
-  {
-   "title": "Ecran PC 24\" Philips 24E2N1100LB - Full HD VA, 100 Hz, 1 ms (49,99€ pour les nouveaux clients)",
-   "price_raw": "59,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-philips-24e2n1100lb-full-hd-va-100-hz-1-ms-3445005",
-   "posted_at": "2026-11-03T08:36:50+00:00"
   },
   {
    "title": "Ecran Portable Tactile 15,6\" Verbatim - 4K, HDR, Noir (via coupon)",
@@ -401,25 +531,11 @@
    "posted_at": "2026-11-02T23:27:30+00:00"
   },
   {
-   "title": "Ecran PC incurvé 49\" Philips Evnia 8000 49M2C8900L - DualQHD, QD-OLED 144 Hz, courbé 1800R, HDR True Black 400",
-   "price_raw": "699,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-philips-evnia-49m2c8900l-49-dqhd-oled-144-hz-3444855",
-   "posted_at": "2026-11-02T23:13:39+00:00"
-  },
-  {
    "title": "Boîtier PC corsair 3500x blanc",
    "price_raw": "64,90€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-3500x-blanc-3444843",
    "posted_at": "2026-11-02T22:41:51+00:00"
-  },
-  {
-   "title": "Écran PC 27\" Lenovo L27-4r - Full HD, 165 Hz, 1 ms, AMD FreeSync, 99% sRGB, Haut-parleurs",
-   "price_raw": "99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-lenovo-l27-4r-full-hd-165-hz-1-ms-amd-freesync-99-srgb-haut-parleurs-3444781",
-   "posted_at": "2026-11-02T20:42:27+00:00"
   },
   {
    "title": "PC Portable 16\" Gigabyte A16 - 165 Hz, Ryzen 7 260, RTX 5070, 16 Go, SSD 1 To, Win 11 (Vendeur Tiers)",
@@ -436,39 +552,11 @@
    "posted_at": "2026-11-02T20:24:42+00:00"
   },
   {
-   "title": "Ecran PC Gamer 24\" MSI G242L E14 - Full HD 144 Hz, Dalle IPS, 1 ms",
-   "price_raw": "74,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-24-msi-g242l-e14-full-hd-144-hz-dalle-ips-1-ms-3444756",
-   "posted_at": "2026-11-02T20:19:45+00:00"
-  },
-  {
-   "title": "Boitier PC GSI SmartAssembly ARGB Glass Micro-ATX PC case - Mid tower, Micro-ATX, Tempered Glass, Black avec Alimentation de 650W",
-   "price_raw": "60,40€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-gsi-smartassembly-argb-glass-micro-atx-pc-case-mid-tower-micro-atx-tempered-glass-black-650-watts-bronze-power-supply-3444746",
-   "posted_at": "2026-11-02T20:10:06+00:00"
-  },
-  {
    "title": "Répéteur Flintronic AX1500 Wifi 6 - 1201Mbps 5GHz et 300Mbps 2,4GHz, Adapté à Tout Routeur WiFi (vendeur tiers)",
    "price_raw": "19,49€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/repeteur-ax1500-wifi-6-1201mbps-5ghz-et-300mbps-24ghz-adapte-a-tout-routeur-wifi-3444725",
    "posted_at": "2026-11-02T19:47:36+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" AOC Q27G42XE - QHD, IPS, 180Hz, 1ms, HDR10",
-   "price_raw": "118,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-aoc-q27g42xe-qhd-ips-180hz-1ms-hdr10-3444715",
-   "posted_at": "2026-11-02T19:32:21+00:00"
-  },
-  {
-   "title": "Écran PC 27\" MSI MAG 274QP - WQHD, 240Hz, QD-OLED, HDR, 0.03ms",
-   "price_raw": "346,12€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-msi-mag-274qp-qd-oled-x24-27-wqhd-240hz-qd-oled-hdr-003ms-3444710",
-   "posted_at": "2026-11-02T19:28:39+00:00"
   },
   {
    "title": "[RAM] (Microcenter In Store Only) G.Skill Flare X5 32GB (2 x 16GB) DDR5-6000 CL36 Dual Channel Kit | White | Dual OC Profile Support - ($399.99)",
@@ -483,10 +571,24 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xmds7g/cooler_sudokoo_sk620v_white_6999_at_newegg/",
    "posted_at": "2026-11-02T23:59:48+00:00"
+  },
+  {
+   "title": "[RAM] Corsair SHUGO 2x16GB DDR5-6000 CL28 Memory Kit - $556.99",
+   "price_raw": "$556.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmatfq/ram_corsair_shugo_2x16gb_ddr56000_cl28_memory_kit/",
+   "posted_at": "2026-11-02T21:56:20+00:00"
+  },
+  {
+   "title": "[Controller] Razer Raiju & Wolverine Controller white version $120 and 110 on woot for sale",
+   "price_raw": "$120",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmao6u/controller_razer_raiju_wolverine_controller_white/",
+   "posted_at": "2026-11-02T21:50:38+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 127,
-  "models_with_reference": 2
+  "listings_seen": 172,
+  "models_with_reference": 7
  }
 }
