@@ -4,8 +4,8 @@ import json
 from pathlib import Path
 
 DEFAULTS = {
-    "dealabs_groups": ["cartes-graphiques", "processeurs", "memoire-vive", "ssd",
-                       "cartes-meres", "alimentations-pc", "informatique"],
+    "dealabs_groups": ["cartes-graphiques", "processeurs", "ram", "ssd",
+                       "cartes-meres", "alimentation-pc", "informatique"],
     "reddit_enabled": True,
     "ebay_enabled": True,
     "discount_min": 0.15,
