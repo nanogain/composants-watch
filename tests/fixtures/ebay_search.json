@@ -1,0 +1,14 @@
+{"total": 3, "itemSummaries": [
+ {"itemId": "v1|1111|0", "title": "MSI GeForce RTX 4070 SUPER Ventus 2X 12G", "price": {"value": "589.90", "currency": "EUR"},
+  "shippingOptions": [{"shippingCostType": "FIXED", "shippingCost": {"value": "9.90", "currency": "EUR"}}],
+  "condition": "Neuf", "conditionId": "1000", "itemWebUrl": "https://www.ebay.fr/itm/1111",
+  "seller": {"username": "vendeur1"}, "itemCreationDate": "2026-11-02T10:00:00.000Z",
+  "image": {"imageUrl": "https://i.ebayimg.com/1.jpg"}, "buyingOptions": ["FIXED_PRICE"]},
+ {"itemId": "v1|2222|0", "title": "RTX 4070 Super Founders", "price": {"value": "520.00", "currency": "EUR"},
+  "condition": "Occasion", "conditionId": "3000", "itemWebUrl": "https://www.ebay.fr/itm/2222",
+  "seller": {"username": "vendeur2"}, "itemCreationDate": "2026-11-01T08:00:00.000Z", "buyingOptions": ["FIXED_PRICE"]},
+ {"itemId": "v1|3333|0", "title": "Gigabyte RTX 4070 SUPER Eagle", "price": {"value": "610.00", "currency": "EUR"},
+  "shippingOptions": [{"shippingCostType": "FIXED", "shippingCost": {"value": "0.00", "currency": "EUR"}}],
+  "condition": "New", "conditionId": "1000", "itemWebUrl": "https://www.ebay.fr/itm/3333",
+  "seller": {"username": "vendeur3"}, "itemCreationDate": "2026-11-02T12:00:00.000Z", "buyingOptions": ["FIXED_PRICE"]}
+]}
