@@ -10,6 +10,23 @@
   const a = (item) => (item && item.attrs) || {};
   const known = (v) => v !== undefined && v !== null;
 
+  // Même fixation : AM4/AM5 d'un côté, LGA1700/LGA1851 de l'autre.
+  const MOUNT = { AM4: "AM", AM5: "AM", LGA1700: "LGA17", LGA1851: "LGA17", LGA1200: "LGA12" };
+  const vendor = (s) => (s.startsWith("AM") ? "amd" : "intel");
+
+  function coolerCheck(sockets, x) {
+    if (!known(sockets) || !known(x)) {
+      return { rule: "cooler", status: "unknown", message: "Sockets supportés par le ventirad non indiqués : à vérifier." };
+    }
+    if (sockets.includes(x) || sockets.some((s) => MOUNT[s] && MOUNT[s] === MOUNT[x])) {
+      return { rule: "cooler", status: "ok", message: "Ventirad compatible " + x + "." };
+    }
+    if (!sockets.some((s) => vendor(s) === vendor(x))) {
+      return { rule: "cooler", status: "unknown", message: "Le titre du ventirad ne cite que " + sockets.join(", ") + " : support " + x + " à vérifier." };
+    }
+    return { rule: "cooler", status: "ko", message: "Ventirad sans support " + x + " (supporte " + sockets.join(", ") + ")." };
+  }
+
   function rules(sel) {
     const out = [];
     const { cpu, mb, ram, gpu, psu, cool } = sel;
@@ -38,14 +55,7 @@
           ? { rule: "form", status: "ok", message: "Carte mère " + x + " dans un boîtier " + y + "." }
           : { rule: "form", status: "ko", message: "Carte mère " + x + " trop grande pour un boîtier " + y + "." });
     }
-    if (cool && cpu) {
-      const s = a(cool).sockets, x = a(cpu).socket;
-      out.push(!known(s) || !known(x)
-        ? { rule: "cooler", status: "unknown", message: "Sockets supportés par le ventirad non indiqués : à vérifier." }
-        : s.includes(x)
-          ? { rule: "cooler", status: "ok", message: "Ventirad compatible " + x + "." }
-          : { rule: "cooler", status: "ko", message: "Ventirad sans support " + x + " (supporte " + s.join(", ") + ")." });
-    }
+    if (cool && cpu) out.push(coolerCheck(a(cool).sockets, a(cpu).socket));
     if (cpu && !gpu && a(cpu).igpu === false) {
       out.push({ rule: "display", status: "ko", message: "Processeur sans graphique intégré et aucune carte graphique : pas d'affichage." });
     }

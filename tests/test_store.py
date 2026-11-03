@@ -110,10 +110,10 @@ CREATE TABLE source_health(source TEXT PRIMARY KEY, consecutive_failures INTEGER
             db.commit(); db.close()
             s = Store(path)
             rows = s.recent_listings(7, NOW)
-            self.assertEqual(rows[0]["attrs"], {})
+            self.assertEqual(rows[0]["attrs"], {"tdp_w": 220})  # rempli à la migration
             s.upsert(make_listing(source_id="2", attrs={"tdp_w": 220}), NOW)
             self.assertEqual({r["source_id"]: r["attrs"] for r in s.recent_listings(7, NOW)},
-                             {"1": {}, "2": {"tdp_w": 220}})
+                             {"1": {"tdp_w": 220}, "2": {"tdp_w": 220}})
             s.db.close()
 
     def test_expired_flag_updated(self):

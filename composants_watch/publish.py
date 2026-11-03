@@ -61,6 +61,8 @@ def git_push(repo: Path, rel_paths: str | list[str], token_path: Path, now: date
     repo = Path(repo)
     paths = [rel_paths] if isinstance(rel_paths, str) else list(rel_paths)
     paths = [p for p in paths if (repo / p).exists()]
+    if not paths:  # sans chemin, git add/commit porteraient sur tout l'index
+        return False, "rien à publier"
     try:
         _git(repo, "add", "--", *paths)
         if _git(repo, "diff", "--cached", "--quiet", "--", *paths).returncode == 1:

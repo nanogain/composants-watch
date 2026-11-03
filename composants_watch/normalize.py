@@ -22,8 +22,11 @@ EXCLUDE = re.compile(
 # Exclusions fortes, testées AVANT le nom de produit en tête de titre.
 HARD_EXCLUDE = re.compile(
     r"smartphone|serrure|smartlock|cylindre|carte\s*de\s*capture|^\s*s[ée]lection|"
-    r"pack\s*combo|\bcombo\b|\bsouris\b|\bcasque\b|"
+    r"pack\s*combo|^\s*(?:\[[^\]]*\]\s*)*(?:souris|casque)\b|"
+    r"[ée]cran\s+de\s+(?:projection|protection)|vid[ée]o-?projecteur|"
     r"bo[iî]tier\s+(?:ssd|externe|disque|hdd|nvme|m\.2|usb)", _I)
+# Un « boîtier » n'est un boîtier PC qu'avec un indice explicite (Android TV, CPL…).
+CASE_CTX = re.compile(r"bo[iî]tier\s+(?:pc|gaming|gamer)\b|atx|itx|\btour\b|tower", _I)
 
 # Nom de produit en tête de titre (après d'éventuels tags [Prime], [Fnac+]…).
 _LEAD = re.compile(r"^\s*((?:\[[^\]]*\]\s*)*)(.*)$", re.S)
@@ -206,7 +209,10 @@ def _peripheral(t: str) -> str | None:
     for tag in re.findall(r"\[([^\]]*)\]", tags):
         if (cat := _TAG_CAT.get(tag.strip().upper())):
             return cat
-    return next((cat for cat, rx in _NOUN if rx.search(rest)), None)
+    cat = next((cat for cat, rx in _NOUN if rx.search(rest)), None)
+    if cat == "CASE" and not CASE_CTX.search(t):
+        return None
+    return cat
 
 
 def normalize(title: str, hint_category: str | None = None) -> tuple[str | None, str | None]:

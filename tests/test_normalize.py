@@ -134,6 +134,16 @@ NEW_CASES = [
     ("Boitier PC Corsair 3500X mi-tour - Verre trempé, USB-C, blanc", ("CASE", "CASE:ATX")),
     ("Sélection de Boitiers PC Asus en promotion - Ex : A21 Plus à 64.99€", (None, None)),
     ("[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis - $49.99", ("CASE", "CASE:ATX")),
+    # Cadeaux mentionnés : le composant reste reconnu
+    ("Carte graphique MSI RTX 4070 Super Ventus + casque offert", ("GPU", "GPU:RTX 4070 Super")),
+    ("AMD Ryzen 7 7800X3D + souris offerte", ("CPU", "CPU:Ryzen 7 7800X3D")),
+    ("Souris gamer Razer DeathAdder", (None, None)),
+    ("Casque sans fil Sony WH-1000XM5", (None, None)),
+    # Faux boîtiers / faux écrans
+    ("Boîtier Android TV Xiaomi Mi Box S 4K", (None, None)),
+    ("Boîtier CPL TP-Link TL-PA7017", (None, None)),
+    ("Ecran de projection 100 pouces", (None, None)),
+    ("Écran de protection verre trempé iPhone", (None, None)),
     # Toujours exclus
     ("Boîtier SSD M.2. NVMe SATA Ugreen - 20 Gbps USB 3.2 Gen 2", (None, None)),
     ("Boitier SSD 40 Gbps QwiizlabL - Thunderbolt USB4 Aluminium", (None, None)),

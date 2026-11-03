@@ -28,7 +28,14 @@ t("form itx in matx", () => assert.equal(check({ mb: mb({ form: "ITX" }), case: 
 t("form unknown", () => assert.equal(check({ mb: mb({ form: undefined }), case: kase("ATX") }, "form").status, "unknown"));
 t("form unknown case", () => assert.equal(check({ mb: mb(), case: kase(null) }, "form").status, "unknown"));
 t("cooler ok", () => assert.equal(check({ cpu: cpu(), cool: cool(["AM4", "AM5"]) }, "cooler").status, "ok"));
-t("cooler ko", () => assert.equal(check({ cpu: cpu(), cool: cool(["LGA1700"]) }, "cooler").status, "ko"));
+t("cooler ko", () => assert.equal(check({ cpu: cpu({ socket: "LGA1200" }), cool: cool(["LGA1700", "AM5"]) }, "cooler").status, "ko"));
+t("cooler AM4 mount fits AM5", () => assert.equal(check({ cpu: cpu(), cool: cool(["AM4"]) }, "cooler").status, "ok"));
+t("cooler LGA1700 mount fits LGA1851", () =>
+  assert.equal(check({ cpu: cpu({ socket: "LGA1851" }), cool: cool(["AM5", "LGA1700"]) }, "cooler").status, "ok"));
+t("cooler AMD-only list with Intel cpu is unknown", () =>
+  assert.equal(check({ cpu: cpu({ socket: "LGA1700" }), cool: cool(["AM4", "AM5"]) }, "cooler").status, "unknown"));
+t("cooler partial list does not mark cpu list", () =>
+  assert.equal(Compat.compatibleWith(cpu({ socket: "LGA1851" }), "cpu", { cool: cool(["AM4", "AM5"]) }), true));
 t("cooler unknown", () => assert.equal(check({ cpu: cpu(), cool: cool(null) }, "cooler").status, "unknown"));
 t("power numbers", () => {
   const r = Compat.evaluate({ cpu: cpu(), gpu: gpu(220), psu: psu(750) });

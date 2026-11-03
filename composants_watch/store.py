@@ -34,6 +34,11 @@ class Store:
         cols = {r["name"] for r in self.db.execute("PRAGMA table_info(listings)")}
         if "attrs" not in cols:  # base v1 : migration en place, données conservées
             self.db.execute("ALTER TABLE listings ADD COLUMN attrs TEXT DEFAULT '{}'")
+            from .normalize import attributes  # rétro-remplissage : pas de ❔ pendant 7 jours
+            for r in self.db.execute("SELECT source, source_id, category, model, title FROM listings").fetchall():
+                self.db.execute("UPDATE listings SET attrs=? WHERE source=? AND source_id=?",
+                                (json.dumps(attributes(r["category"], r["model"], r["title"]), ensure_ascii=False),
+                                 r["source"], r["source_id"]))
             self.db.commit()
 
     def upsert(self, li: Listing, now: datetime) -> None:
