@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T19:38:00Z",
+ "generated_at": "2026-11-03T20:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-03T19:38:00.673371+00:00"
+   "items": 344,
+   "last_ok": "2026-11-03T20:08:00.670912+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T19:38:00.673371+00:00"
+   "last_ok": "2026-11-03T20:08:00.670912+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "GL.iNet GL-MT3000 (Beryl AX) Routeur Gigabit de voyage sans fil Wi-Fi 6, connectez le Wi-Fi public et hôtel, portail captif, sécurité ciblée",
+   "price_raw": "76,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/glinet-gl-mt3000-beryl-ax-routeur-gigabit-de-voyage-sans-fil-wi-fi-6-connectez-le-wi-fi-public-et-hotel-portail-captif-securite-ciblee-3445605",
+   "posted_at": "2026-11-03T20:07:00+00:00"
+  },
+  {
+   "title": "Apple Mac Mini avec Puce Apple M6 - 16Go, 256 Go",
+   "price_raw": "948€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-m6-16-go-ram-256-go-ssd-gpu-12-coeurs-3445601",
+   "posted_at": "2026-11-03T20:00:39+00:00"
+  },
   {
    "title": "Tablette 13\" Lenovo Idea Tab Pro Gen 2 - 3.5K, RAM 8 Go, 128 Go + Stylet inclus, Jelly Mint",
    "price_raw": "399€",
@@ -571,24 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/console-548-anbernic-rg557-amoled-fhd-android-14-dimensity-8300-12-go-ddr5-wifi-6e-sans-jeux-3444428",
    "posted_at": "2026-11-02T14:33:52+00:00"
-  },
-  {
-   "title": "Mini PC CHUWI LarkBox X - Intel i3-1220P, 8 Go DDR4 SODIMM, SSD 256 Go, WiFi 6 & BT 5.2, Windows 11 Pro ( via Paypal )",
-   "price_raw": "186,75€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-larkbox-x-intel-i3-1220p-8-go-ddr4-sodimm-ssd-256-go-wifi-6-bt-52-windows-11-pro-via-paypal-3444255",
-   "posted_at": "2026-11-02T11:32:59+00:00"
-  },
-  {
-   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
-   "price_raw": "96,32€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ddr3-m2-2280-sata-de-128-go-wifi-5-bt-42-windows-11-pro-3443849",
-   "posted_at": "2026-11-02T06:21:47+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 214,
+  "listings_seen": 217,
   "models_with_reference": 7
  }
 }
