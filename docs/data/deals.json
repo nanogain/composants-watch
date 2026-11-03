@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T17:38:00Z",
+ "generated_at": "2026-11-03T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-03T17:38:00.671929+00:00"
+   "items": 340,
+   "last_ok": "2026-11-03T18:08:00.692286+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T17:38:00.671929+00:00"
+   "last_ok": "2026-11-03T18:08:00.692286+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -106,8 +106,8 @@
    "price_eur": 92.39,
    "shipping_eur": null,
    "effective_eur": 92.39,
-   "median_eur": 149.99,
-   "discount_pct": 38.4,
+   "median_eur": 138.73,
+   "discount_pct": 33.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -123,8 +123,8 @@
    "price_eur": 94.77,
    "shipping_eur": null,
    "effective_eur": 94.77,
-   "median_eur": 149.99,
-   "discount_pct": 36.8,
+   "median_eur": 138.73,
+   "discount_pct": 31.7,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -140,8 +140,8 @@
    "price_eur": 96.99,
    "shipping_eur": null,
    "effective_eur": 96.99,
-   "median_eur": 149.99,
-   "discount_pct": 35.3,
+   "median_eur": 138.73,
+   "discount_pct": 30.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -167,40 +167,6 @@
    "posted_at": "2026-11-02T18:31:39+00:00"
   },
   {
-   "title": "SSD NVME Lexar NQ790 1To Gen4x4 7000 Mo/s",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 109.0,
-   "shipping_eur": null,
-   "effective_eur": 109.0,
-   "median_eur": 149.99,
-   "discount_pct": 27.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Galaxus",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-nvme-nq790-1to-gen4-7000mos-3441085",
-   "posted_at": "2026-10-29T07:23:28+00:00"
-  },
-  {
-   "title": "Disque SSD interne Netac NV3000 NVMe M.2 2280 - 1 To",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 113.02,
-   "shipping_eur": null,
-   "effective_eur": 113.02,
-   "median_eur": 149.99,
-   "discount_pct": 24.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-nv3000-nvme-m2-2280-1to-3444172",
-   "posted_at": "2026-11-02T10:02:33+00:00"
-  },
-  {
    "title": "Boitier PC Deepcool CH260, Mini tour, Format M-ATX - Noir",
    "model": "CASE:mATX",
    "category": "CASE",
@@ -218,41 +184,65 @@
    "posted_at": "2026-10-28T15:43:52+00:00"
   },
   {
-   "title": "SSD Interne M.2 NVMe Lexar NQ790 - 1 To, 7 000 Mo/s, PCIe 4.0 Gen4",
+   "title": "SSD NVME Lexar NQ790 1To Gen4x4 7000 Mo/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
    "condition": "new",
-   "price_eur": 119.0,
+   "price_eur": 109.0,
    "shipping_eur": null,
-   "effective_eur": 119.0,
-   "median_eur": 149.99,
-   "discount_pct": 20.7,
+   "effective_eur": 109.0,
+   "median_eur": 138.73,
+   "discount_pct": 21.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "Galaxus",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-nvme-lexar-nq790-1-to-7-000-mos-pcie-40-m2-gen4-3445026",
-   "posted_at": "2026-11-03T08:45:03+00:00"
+   "url": "https://www.dealabs.com/bons-plans/ssd-nvme-nq790-1to-gen4-7000mos-3441085",
+   "posted_at": "2026-10-29T07:23:28+00:00"
   },
   {
-   "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
+   "title": "Disque SSD interne Netac NV3000 NVMe M.2 2280 - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
    "condition": "new",
-   "price_eur": 127.47,
+   "price_eur": 113.02,
    "shipping_eur": null,
-   "effective_eur": 127.47,
-   "median_eur": 149.99,
-   "discount_pct": 15.0,
+   "effective_eur": 113.02,
+   "median_eur": 138.73,
+   "discount_pct": 18.5,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/fanxiang-s880-m2-ssd-7300mbs-1tb2tb4tb-m2-nvme-ssd-drive-pcie-40x4-disque-dur-interne-ssd-pour-ps5-ordinateur-portable-pc-3444444",
-   "posted_at": "2026-11-02T14:53:28+00:00"
+   "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-nv3000-nvme-m2-2280-1to-3444172",
+   "posted_at": "2026-11-02T10:02:33+00:00"
+  },
+  {
+   "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 113.56,
+   "shipping_eur": null,
+   "effective_eur": 113.56,
+   "median_eur": 138.73,
+   "discount_pct": 18.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
+   "posted_at": "2026-11-03T17:49:12+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[Keyboard] Keychron K4 RGB Hot Swappable Mechanical Keyboard - $59.99 (45% off)",
+   "price_raw": "$59.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmzxz7/keyboard_keychron_k4_rgb_hot_swappable_mechanical/",
+   "posted_at": "2026-11-03T17:54:30+00:00"
+  },
   {
    "title": "[Monitor] Amazon Basics 24\" Gaming Monitor - $69.99 (36% off)",
    "price_raw": "$69.99",
@@ -595,17 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-34-msi-341cqp-qd-oled-3445021",
    "posted_at": "2026-11-03T08:41:59+00:00"
-  },
-  {
-   "title": "Ecran Portable Tactile 15,6\" Verbatim - 4K, HDR, Noir (via coupon)",
-   "price_raw": "163,57€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-portable-tactile-156-verbatim-4k-hdr-noir-via-coupon-3445008",
-   "posted_at": "2026-11-03T08:23:59+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 196,
+  "listings_seen": 200,
   "models_with_reference": 7
  }
 }
