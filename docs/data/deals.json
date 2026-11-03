@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T11:08:00Z",
+ "generated_at": "2026-11-03T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-03T11:08:00.686012+00:00"
+   "items": 341,
+   "last_ok": "2026-11-03T11:38:00.620627+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T11:08:00.686012+00:00"
+   "last_ok": "2026-11-03T11:38:00.620627+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Club+] Ordinateur 15\" Apple MACBOOK Air Puce M5 CPU 10 / GPU 10 coeurs Mémoire RAM 24Go Stockage 1To SSD Bleu ciel Sans Chargeur",
+   "price_raw": "1 999,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/club-ordinateur-apple-macbook-air-15-puce-m5-cpu-10-gpu-10-coeurs-memoire-ram-24go-stockage-1to-ssd-bleu-ciel-3445203",
+   "posted_at": "2026-11-03T11:31:25+00:00"
+  },
+  {
+   "title": "Tablette 11\" Samsung Galaxy Tab A11+ - 6 Go RAM, 128 Go, écran 90 Hz",
+   "price_raw": "179,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-samsung-galaxy-tab-a11-11-6-go-ram-128-go-ecran-90-hz-3445196",
+   "posted_at": "2026-11-03T11:25:04+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Ninkear N16 Pro AI - Intel Core Ultra 5 115U (Via Paypal)",
+   "price_raw": "409,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ninkear-n16-pro-ai-ordinateur-portable-intel-core-ultra-5-115u-16-pouces-ecran-3445189",
+   "posted_at": "2026-11-03T11:19:20+00:00"
+  },
   {
    "title": "PC Portable 14,1\" FUCHU - Intel Atom A3950, 12Go RAM, 256Go SSD, W11",
    "price_raw": "127,68€",
@@ -564,31 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/repeteur-ax1500-wifi-6-1201mbps-5ghz-et-300mbps-24ghz-adapte-a-tout-routeur-wifi-3444725",
    "posted_at": "2026-11-02T19:47:36+00:00"
-  },
-  {
-   "title": "[RAM] (Microcenter In Store Only) G.Skill Flare X5 32GB (2 x 16GB) DDR5-6000 CL36 Dual Channel Kit | White | Dual OC Profile Support - ($399.99)",
-   "price_raw": "$399.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmkxkc/ram_microcenter_in_store_only_gskill_flare_x5/",
-   "posted_at": "2026-11-03T05:47:27+00:00"
-  },
-  {
-   "title": "[Cooler] Sudokoo SK620V (white) $69.99 at Newegg",
-   "price_raw": "$69.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmds7g/cooler_sudokoo_sk620v_white_6999_at_newegg/",
-   "posted_at": "2026-11-02T23:59:48+00:00"
-  },
-  {
-   "title": "[RAM] Corsair SHUGO 2x16GB DDR5-6000 CL28 Memory Kit - $556.99",
-   "price_raw": "$556.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmatfq/ram_corsair_shugo_2x16gb_ddr56000_cl28_memory_kit/",
-   "posted_at": "2026-11-02T21:56:20+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 175,
+  "listings_seen": 179,
   "models_with_reference": 7
  }
 }
