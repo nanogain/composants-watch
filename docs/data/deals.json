@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T14:38:00Z",
+ "generated_at": "2026-11-03T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 341,
-   "last_ok": "2026-11-03T14:38:00.680352+00:00"
+   "last_ok": "2026-11-03T15:08:00.619350+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T14:38:00.680352+00:00"
+   "last_ok": "2026-11-03T15:08:00.619350+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -254,7 +254,21 @@
  ],
  "unclassified": [
   {
-   "title": "Subblim Wireless Mini Mouse Souris optique sans fil Noir",
+   "title": "Imprimante 3D Snapmaker Artisan 3-in-1 3D Printer eu.snapmaker.com",
+   "price_raw": "3 146€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/snapmaker-artisan-3-in-1-3d-printer-3445366",
+   "posted_at": "2026-11-03T15:03:47+00:00"
+  },
+  {
+   "title": "Lampe LED Yeelight pour écran PC avec Télécommande - 42cm (Remise au Panier - Vendeur tiers)",
+   "price_raw": "24,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/barre-lumineuse-ecran-yeelight-42cm-usb-gradable-3445352",
+   "posted_at": "2026-11-03T14:46:57+00:00"
+  },
+  {
+   "title": "Mini Souris optique sans fil Subblim Wireless - Noir",
    "price_raw": "3,47€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/subblim-wireless-mini-mouse-souris-optique-sans-fil-noir-3445347",
@@ -399,13 +413,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-mars-gaming-mc-novam-double-fenetre-verre-trempe-noir-3441061",
    "posted_at": "2026-10-29T06:40:34+00:00"
-  },
-  {
-   "title": "Boitier PC Duo O11 Vision-M + O11 Vision-M 9.2\" LCD Noir",
-   "price_raw": "10€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/duo-o11-vision-m-o11-vision-m-92-lcd-noir-3439955",
-   "posted_at": "2026-10-27T14:55:24+00:00"
   },
   {
    "title": "PC Portable 14\" ASUS S5406SAL-SF312W - OLED, Intel Core Ultra 5 226V, 16 Go RAM LPDDR5x, SSD 512 Go, Wifi 7",
@@ -595,17 +602,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-msi-mpg-341cqpx-qd-oled-3444967",
    "posted_at": "2026-11-03T07:39:25+00:00"
-  },
-  {
-   "title": "Ecran PC Incurvé 49\" Samsung Odyssey G91F LS49FG910EUXEN",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-samsung-odyssey-g91f-ls49fg910euxen-49-incurve-3444965",
-   "posted_at": "2026-11-03T07:33:44+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 193,
+  "listings_seen": 194,
   "models_with_reference": 7
  }
 }
