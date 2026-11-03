@@ -8,15 +8,58 @@ from __future__ import annotations
 import re
 
 from .models import Listing
+from . import specs
 
 _I = re.IGNORECASE
 
 EXCLUDE = re.compile(
     r"pc\s*portable|laptop|notebook|pc\s*gamer|pc\s*fixe|pc\s*de\s*bureau|\bdesktop\b|"
-    r"gaming\s*pc|\bprebuilt\b|\bbo[iî]tier\b|ordinateur|mini\s*pc|macbook|mac\s*mini|\bimac\b|"
+    r"gaming\s*pc|\bprebuilt\b|ordinateur|mini\s*pc|macbook|mac\s*mini|\bimac\b|"
     r"\bexterne\b|\bportable\b|waterblock|backplate|\briser\b|c[aâ]ble|"
     r"pour\s*l.achat|[àa]\s*l.achat|compatible\s+(?:avec\s+)?(?:les?\s+)?(?:rtx|rx|gtx|geforce|radeon|ryzen|core)|"
-    r"\btour\b|\bcontroller\b|\bmanette\b|\bconsole\b|\bcase\]", _I)
+    r"\btour\b|\bcontroller\b|\bmanette\b|\bconsole\b", _I)
+
+# Exclusions fortes, testées AVANT le nom de produit en tête de titre.
+HARD_EXCLUDE = re.compile(
+    r"smartphone|serrure|smartlock|cylindre|carte\s*de\s*capture|^\s*s[ée]lection|"
+    r"pack\s*combo|^\s*(?:\[[^\]]*\]\s*)*(?:souris|casque)\b|"
+    r"[ée]cran\s+de\s+(?:projection|protection)|vid[ée]o-?projecteur|"
+    r"bo[iî]tier\s+(?:ssd|externe|disque|hdd|nvme|m\.2|usb)", _I)
+# Un « boîtier » n'est un boîtier PC qu'avec un indice explicite (Android TV, CPL…).
+CASE_CTX = re.compile(r"bo[iî]tier\s+(?:pc|gaming|gamer)\b|atx|itx|\btour\b|tower", _I)
+
+# Nom de produit en tête de titre (après d'éventuels tags [Prime], [Fnac+]…).
+_LEAD = re.compile(r"^\s*((?:\[[^\]]*\]\s*)*)(.*)$", re.S)
+_TAG_CAT = {"MONITOR": "MON", "KEYBOARD": "KBD", "COOLER": "COOL", "CASE": "CASE"}
+_NOUN = [
+    ("MON", re.compile(r"^(?:[ée]cran|moniteur|monitor)\b", _I)),
+    ("KBD", re.compile(r"^(?:clavier|keyboard)\b", _I)),
+    ("COOL", re.compile(r"^(?:ventirad|refroidisseur|kit\s*watercooling|watercooling|aio\b|cpu\s*cooler)", _I)),
+    ("CASE", re.compile(r"^bo[iî]tier", _I)),
+]
+
+MON_SIZE = re.compile(r"(\d{2}(?:[.,]\d{1,2})?)\s*(?:\"|''|”|“|″|pouces\b|inch)", _I)
+MON_RES = [
+    ("UWQHD", re.compile(r"3440\s*[x×]\s*1440|uwqhd", _I)),
+    ("DQHD", re.compile(r"5120\s*[x×]\s*1440|dual\s*qhd|\bdqhd\b", _I)),
+    ("UWFHD", re.compile(r"2560\s*[x×]\s*1080|uwfhd", _I)),
+    ("UHD", re.compile(r"3840\s*[x×]\s*2160|\b4k\b|\buhd\b", _I)),
+    ("QHD", re.compile(r"2560\s*[x×]\s*1440|\bw?qhd\b|1440p", _I)),
+    ("FHD", re.compile(r"1920\s*[x×]\s*1080|full\s*hd|\bfhd\b|1080p", _I)),
+]
+MON_HZ = re.compile(r"\b(\d{2,3})\s*hz\b", _I)
+
+KBD_MECH = re.compile(r"m[ée]cani|mechanical|magn[ée]tique|hall\s*effect|\bhe\b|switch", _I)
+KBD_PCT = re.compile(r"\b(60|65|75)\s*%")
+KBD_TKL = re.compile(r"\btkl\b|tenkeyless|\b80\s*%", _I)
+
+COOL_AIO = re.compile(r"\baio\b|watercooling|water\s*cooling|liquid|nautilus|kraken", _I)
+COOL_RAD = re.compile(r"\b(120|240|280|360|420)\s*(?:mm)?\b", _I)
+
+CASE_ATX = re.compile(r"(?<![\w-])e-?atx\b|(?<![\w-])atx\b", _I)
+CASE_MATX = re.compile(r"micro-?atx|\bm-?atx\b", _I)
+CASE_TOWER = re.compile(r"moyen[\s-]*tour|mid[\s-]*tower|midi[\s-]*tower|\bmi-tour|grand[\s-]*tour|full[\s-]*tower", _I)
+CASE_ITX = re.compile(r"itx", _I)
 
 GPU_RTX = re.compile(r"\brtx\s*([2-5]0[5-9]0)(\s*ti)?(\s*super)?\b", _I)
 GPU_BARE = re.compile(r"\b((?:30|40|50)[5-9]0)(\s*ti)?(\s*super)?\b", _I)
@@ -39,7 +82,7 @@ SSD_TB = re.compile(r"\b(\d+)\s*(?:to|tb)\b", _I)
 SSD_GB = re.compile(r"\b(\d{3,4})\s*(?:go|gb)\b", _I)
 
 MB_CTX = re.compile(r"carte\s*m[eè]re|motherboard|\bmobo\b", _I)
-MB_CHIP = re.compile(r"\b([bhxz]\d{3}e?)m?\b", _I)
+MB_CHIP = re.compile(r"\b([bhxz]\d{3}e?)(?:m|i)?\b", _I)
 MB_CHIP_A = re.compile(r"\b(a[56]20)m?\b", _I)
 
 PSU_W = re.compile(r"\b(\d{3,4})\s*w\b", _I)
@@ -123,8 +166,61 @@ def _psu(t: str) -> str | None:
     return f"PSU:{w.group(1)}W" + (f"-{cert.group(1).capitalize()}" if cert else "")
 
 
+def _mon(t: str) -> str | None:
+    size, hz = MON_SIZE.search(t), MON_HZ.search(t)
+    res = next((name for name, rx in MON_RES if rx.search(t)), None)
+    if not (size and hz and res):
+        return None
+    inches = round(float(size.group(1).replace(",", ".")))
+    return f"MON:{inches}-{res}-{hz.group(1)}Hz"
+
+
+def _kbd(t: str) -> str:
+    kind = "Mécanique" if KBD_MECH.search(t) else "Membrane"
+    pct = KBD_PCT.search(t)
+    layout = pct.group(1) if pct else ("TKL" if KBD_TKL.search(t) else "Complet")
+    return f"KBD:{kind}-{layout}"
+
+
+def _cool(t: str) -> str | None:
+    if not COOL_AIO.search(t):
+        return "COOL:Air"
+    rad = COOL_RAD.search(t)
+    return f"COOL:AIO-{rad.group(1)}" if rad else None
+
+
+def _case(t: str) -> str | None:
+    if CASE_ATX.search(t):
+        return "CASE:ATX"
+    if CASE_MATX.search(t):
+        return "CASE:mATX"
+    if CASE_TOWER.search(t):
+        return "CASE:ATX"
+    if CASE_ITX.search(t):
+        return "CASE:ITX"
+    return None
+
+
+_PERIPH = {"MON": _mon, "KBD": _kbd, "COOL": _cool, "CASE": _case}
+
+
+def _peripheral(t: str) -> str | None:
+    tags, rest = _LEAD.match(t).groups()
+    for tag in re.findall(r"\[([^\]]*)\]", tags):
+        if (cat := _TAG_CAT.get(tag.strip().upper())):
+            return cat
+    cat = next((cat for cat, rx in _NOUN if rx.search(rest)), None)
+    if cat == "CASE" and not CASE_CTX.search(t):
+        return None
+    return cat
+
+
 def normalize(title: str, hint_category: str | None = None) -> tuple[str | None, str | None]:
     t = title or ""
+    if HARD_EXCLUDE.search(t):
+        return None, None
+    if cat := _peripheral(t):
+        return cat, _PERIPH[cat](t)
     if EXCLUDE.search(t):
         return None, None
     if g := _gpu(t):
@@ -148,6 +244,56 @@ def normalize(title: str, hint_category: str | None = None) -> tuple[str | None,
     return hint_category, None
 
 
+MB_ITX = re.compile(r"\b[abhxz]\d{3}e?-?i\b|mini-?itx|\bitx\b", _I)
+MB_MATX = re.compile(r"\b[abhxz]\d{3}e?m\b|micro-?atx|\bm-?atx\b", _I)
+MB_ATX = re.compile(r"(?<![\w-])e-?atx\b|(?<![\w-])atx\b", _I)
+DDR4 = re.compile(r"ddr4|\bd4\b", _I)
+DDR5 = re.compile(r"ddr5|\bd5\b", _I)
+COOL_AM = re.compile(r"\bam([45])\b", _I)
+COOL_LGA = re.compile(r"lga\s*((?:\d{3,4}x?\s*/\s*)*\d{3,4}x?)", _I)
+LGA_KNOWN = {"1200", "1700", "1851"}
+
+
+def _clean(d: dict) -> dict:
+    return {k: v for k, v in d.items() if v is not None}
+
+
+def attributes(category: str | None, model: str | None, title: str) -> dict:
+    """Attributs techniques déterministes ; une clé absente signifie « inconnu »."""
+    t = title or ""
+    if category == "CPU" and model:
+        return _clean({"socket": specs.cpu_socket(model), "tdp_w": specs.cpu_tdp(model),
+                       "igpu": specs.cpu_igpu(model)})
+    if category == "MB" and model:
+        socket = specs.chipset_socket(model.removeprefix("MB:"))
+        ddr = 4 if DDR4.search(t) else 5 if DDR5.search(t) else specs.socket_ddr(socket)
+        form = ("ITX" if MB_ITX.search(t) else "mATX" if MB_MATX.search(t)
+                else "ATX" if MB_ATX.search(t) else None)
+        return _clean({"socket": socket, "ddr": ddr, "form": form})
+    if category == "RAM" and model:
+        return {"ddr": int(model[7])}
+    if category == "GPU" and model:
+        return _clean({"tdp_w": specs.gpu_tdp(model)})
+    if category == "PSU" and model:
+        return {"watts": int(re.match(r"PSU:(\d+)W", model).group(1))}
+    if category == "COOL":
+        sockets = {f"AM{m}" for m in COOL_AM.findall(t)}
+        for group in COOL_LGA.findall(t):
+            sockets |= {f"LGA{n}" for n in re.split(r"\s*/\s*", group) if n in LGA_KNOWN}
+        return _clean({"type": "aio" if COOL_AIO.search(t) else "air",
+                       "sockets": sorted(sockets) or None})
+    if category == "CASE" and model:
+        return {"max_form": model.removeprefix("CASE:")}
+    if category == "MON" and model:
+        inches, res, hz = model.removeprefix("MON:").split("-")
+        return {"inches": int(inches), "res": res, "hz": int(hz.removesuffix("Hz"))}
+    if category == "KBD" and model:
+        kind, layout = model.removeprefix("KBD:").split("-")
+        return {"type": kind, "layout": layout}
+    return {}
+
+
 def apply(listing: Listing) -> Listing:
     listing.category, listing.model = normalize(listing.title, listing.category)
+    listing.attrs = attributes(listing.category, listing.model, listing.title)
     return listing

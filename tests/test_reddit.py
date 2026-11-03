@@ -24,7 +24,8 @@ class RedditTest(unittest.TestCase):
                  "[GPU] RTX 5070 - $549": "GPU", "[CPU] 9800X3D $449": "CPU",
                  "[SSD] 2TB NVMe $99": "SSD", "[Motherboard] B650 $129": "MB",
                  "[MOBO] B650 $129": "MB", "[PSU] 850W $79": "PSU",
-                 "[Cooler] Sudokoo $69.99": None, "no prefix $5": None}
+                 "[Cooler] Sudokoo $69.99": "COOL", "[Monitor] x": "MON",
+                 "[Keyboard] x": "KBD", "[Case] x": "CASE", "[Headphones] x": None, "no prefix $5": None}
         for title, want in cases.items():
             with self.subTest(title=title):
                 self.assertEqual(reddit_category(title), want)

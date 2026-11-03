@@ -1,6 +1,7 @@
 """Historique SQLite local : annonces, observations de prix, santé des sources."""
 from __future__ import annotations
 
+import json
 import sqlite3
 from datetime import datetime, timedelta
 
@@ -10,7 +11,7 @@ SCHEMA = """
 CREATE TABLE IF NOT EXISTS listings(
   source TEXT, source_id TEXT, url TEXT, title TEXT, model TEXT, category TEXT,
   condition TEXT, merchant TEXT, price_raw TEXT, currency TEXT, posted_at TEXT,
-  first_seen TEXT, last_seen TEXT, expired INTEGER DEFAULT 0,
+  first_seen TEXT, last_seen TEXT, expired INTEGER DEFAULT 0, attrs TEXT DEFAULT '{}',
   PRIMARY KEY(source, source_id));
 CREATE TABLE IF NOT EXISTS observations(
   source TEXT, source_id TEXT, ts TEXT, price_eur REAL, shipping_eur REAL);
@@ -30,19 +31,31 @@ class Store:
         self.db = sqlite3.connect(path)
         self.db.row_factory = sqlite3.Row
         self.db.executescript(SCHEMA)
+        cols = {r["name"] for r in self.db.execute("PRAGMA table_info(listings)")}
+        if "attrs" not in cols:  # base v1 : migration en place, données conservées
+            self.db.execute("ALTER TABLE listings ADD COLUMN attrs TEXT DEFAULT '{}'")
+            from .normalize import attributes  # rétro-remplissage : pas de ❔ pendant 7 jours
+            for r in self.db.execute("SELECT source, source_id, category, model, title FROM listings").fetchall():
+                self.db.execute("UPDATE listings SET attrs=? WHERE source=? AND source_id=?",
+                                (json.dumps(attributes(r["category"], r["model"], r["title"]), ensure_ascii=False),
+                                 r["source"], r["source_id"]))
+            self.db.commit()
 
     def upsert(self, li: Listing, now: datetime) -> None:
         ts = now.isoformat()
         self.db.execute(
-            """INSERT INTO listings VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+            """INSERT INTO listings(source, source_id, url, title, model, category, condition,
+                 merchant, price_raw, currency, posted_at, first_seen, last_seen, expired, attrs)
+               VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
                ON CONFLICT(source, source_id) DO UPDATE SET
                  url=excluded.url, title=excluded.title, model=excluded.model,
                  category=excluded.category, condition=excluded.condition,
                  merchant=excluded.merchant, price_raw=excluded.price_raw,
-                 last_seen=excluded.last_seen, expired=excluded.expired""",
+                 last_seen=excluded.last_seen, expired=excluded.expired,
+                 attrs=excluded.attrs""",
             (li.source, li.source_id, li.url, li.title, li.model, li.category,
              li.condition, li.merchant, li.price_raw, li.currency,
-             li.posted_at.isoformat(), ts, ts, int(li.expired)))
+             li.posted_at.isoformat(), ts, ts, int(li.expired), json.dumps(li.attrs, ensure_ascii=False)))
         if li.price_eur is not None:
             last = self.db.execute(_LATEST, (li.source, li.source_id)).fetchone()
             if last is None or (last["price_eur"], last["shipping_eur"]) != (li.price_eur, li.shipping_eur):
@@ -61,6 +74,7 @@ class Store:
         for r in rows.fetchall():
             d = dict(r)
             d["expired"] = bool(d["expired"])
+            d["attrs"] = json.loads(d.get("attrs") or "{}")
             last = self.db.execute(_LATEST, (d["source"], d["source_id"])).fetchone()
             d["price_eur"] = last["price_eur"] if last else None
             d["shipping_eur"] = last["shipping_eur"] if last else None

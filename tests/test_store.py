@@ -85,6 +85,37 @@ class StoreTest(unittest.TestCase):
         self.s.upsert(make_listing(source="ebay", source_id="e"), NOW - timedelta(days=10))
         self.assertEqual(self.s.recent_listings(7, NOW), [])
 
+    def test_attrs_round_trip(self):
+        self.s.upsert(make_listing(attrs={"socket": "AM5"}), NOW)
+        self.assertEqual(self.s.recent_listings(7, NOW)[0]["attrs"], {"socket": "AM5"})
+        self.s.upsert(make_listing(attrs={"socket": "AM4", "ddr": 4}), NOW)
+        self.assertEqual(self.s.recent_listings(7, NOW)[0]["attrs"], {"socket": "AM4", "ddr": 4})
+
+    def test_migrates_v1_database(self):
+        import sqlite3
+        import tempfile
+        from pathlib import Path
+        with tempfile.TemporaryDirectory() as d:
+            path = str(Path(d) / "v1.db")
+            db = sqlite3.connect(path)
+            db.executescript("""
+CREATE TABLE listings(source TEXT, source_id TEXT, url TEXT, title TEXT, model TEXT, category TEXT,
+  condition TEXT, merchant TEXT, price_raw TEXT, currency TEXT, posted_at TEXT,
+  first_seen TEXT, last_seen TEXT, expired INTEGER DEFAULT 0, PRIMARY KEY(source, source_id));
+CREATE TABLE observations(source TEXT, source_id TEXT, ts TEXT, price_eur REAL, shipping_eur REAL);
+CREATE TABLE source_health(source TEXT PRIMARY KEY, consecutive_failures INTEGER, last_ok TEXT, last_error TEXT);""")
+            db.execute("INSERT INTO listings VALUES('dealabs','1','u','t','GPU:RTX 4070 Super','GPU','new','m',"
+                       "'600€','EUR',?,?,?,0)", (NOW.isoformat(),) * 3)
+            db.execute("INSERT INTO observations VALUES('dealabs','1',?,600.0,NULL)", (NOW.isoformat(),))
+            db.commit(); db.close()
+            s = Store(path)
+            rows = s.recent_listings(7, NOW)
+            self.assertEqual(rows[0]["attrs"], {"tdp_w": 220})  # rempli à la migration
+            s.upsert(make_listing(source_id="2", attrs={"tdp_w": 220}), NOW)
+            self.assertEqual({r["source_id"]: r["attrs"] for r in s.recent_listings(7, NOW)},
+                             {"1": {"tdp_w": 220}, "2": {"tdp_w": 220}})
+            s.db.close()
+
     def test_expired_flag_updated(self):
         self.s.upsert(make_listing(), NOW)
         self.s.upsert(make_listing(expired=True), NOW)

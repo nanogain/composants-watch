@@ -1,7 +1,8 @@
 # composants-watch
 
 Veille **entièrement déterministe** (aucun LLM) du marché des composants PC : cartes
-graphiques, processeurs, mémoire vive, SSD, cartes mères, alimentations. Elle tourne
+graphiques, processeurs, mémoire vive, SSD, cartes mères, alimentations, ventirads et
+AIO, boîtiers, écrans et claviers. Elle tourne
 sur un Raspberry Pi et publie les bonnes affaires sur une page GitHub Pages.
 
 Une annonce est signalée si :
@@ -57,8 +58,36 @@ première passe.
 | SSD | `SSD:NVMe-2To`, `SSD:SATA-1To`, `SSD:NVMe-500Go` |
 | Carte mère | `MB:B650`, `MB:Z790`, `MB:X870E` |
 | Alimentation | `PSU:850W-Gold`, `PSU:1000W-Platinum` |
+| Ventirad / AIO | `COOL:Air`, `COOL:AIO-360` |
+| Boîtier | `CASE:ATX`, `CASE:mATX`, `CASE:ITX` (plus grand format accepté) |
+| Écran | `MON:27-QHD-165Hz` (pouces, FHD/QHD/UHD/UWQHD/UWFHD/DQHD, fréquence) |
+| Clavier | `KBD:Mécanique-TKL`, `KBD:Membrane-Complet` (Complet, TKL, 75, 65, 60) |
+
+Pour les ventirads, boîtiers, écrans et claviers, les prix d'une même description varient
+beaucoup : la détection de décote y est moins fiable, ces catégories servent surtout au
+configurateur et à la liste.
 
 Un modèle mal écrit apparaît sur la page avec le badge « modèle jamais vu ».
+
+## Configurateur
+
+L'onglet **Configurateur** de la page permet de composer une configuration avec toutes les
+annonces récentes reconnues (`docs/data/catalog.json`, publié à chaque passe). Les bonnes
+affaires sont marquées « ★ » en tête de liste. Les contrôles sont déterministes :
+
+| Contrôle | Règle |
+|---|---|
+| Socket | processeur et carte mère (chipset → socket : B650 → AM5, B550 → AM4, Z790 → LGA1700…) |
+| Mémoire | DDR4/DDR5 de la RAM = celle de la carte mère (titre, sinon AM5/LGA1851 → DDR5, AM4 → DDR4) |
+| Format | carte mère (ATX, mATX, ITX) ≤ format maximal du boîtier |
+| Ventirad | sockets indiqués dans le titre du ventirad |
+| Alimentation | besoin ≈ TDP processeur + TDP carte graphique + 100 W ; ⚠️ si marge < 20 % |
+| Affichage | processeur sans graphique intégré (F, KF, Ryzen 5000 sans G) sans carte graphique |
+
+❔ signale une information absente du titre : à vérifier sur la fiche du produit, comme la
+longueur de la carte graphique et la hauteur du ventirad (non vérifiées). Les tables de
+sockets et de consommation sont dans `composants_watch/specs.py`. La configuration est
+gardée dans le navigateur ; une annonce disparue est signalée et exclue du total.
 
 ## Mise en place de GitHub (une fois)
 

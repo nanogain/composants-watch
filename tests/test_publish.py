@@ -165,6 +165,29 @@ class GitPushSafetyTest(GitPushTest):
         self.assertEqual(files, [self.rel])
 
 
+class GitPushManyTest(GitPushTest):
+    def test_git_push_publishes_both_files_only(self):
+        cat = "docs/data/catalog.json"
+        (self.repo / cat).write_text("{}")
+        (self.repo / "other.txt").write_text("x")
+        git(self.repo, "add", "other.txt")
+        ok, msg = git_push(self.repo, [self.rel, cat], self.token, NOW)
+        self.assertTrue(ok, msg)
+        files = sorted(git(self.remote, "show", "--name-only", "--format=", "main").split())
+        self.assertEqual(files, [cat, self.rel])
+
+
+class GitPushNothingTest(GitPushTest):
+    def test_no_existing_path_commits_nothing(self):
+        (self.repo / "other.txt").write_text("x")
+        git(self.repo, "add", "other.txt")
+        head = git(self.repo, "rev-parse", "HEAD")
+        ok, msg = git_push(self.repo, ["docs/data/absent.json"], self.token, NOW)
+        self.assertFalse(ok)
+        self.assertEqual(msg, "rien à publier")
+        self.assertEqual(git(self.repo, "rev-parse", "HEAD"), head)
+
+
 class RepoIgnoreTest(unittest.TestCase):
     def test_deals_json_not_ignored_but_db_is(self):
         root = Path(__file__).resolve().parent.parent

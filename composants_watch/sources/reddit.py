@@ -13,7 +13,8 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 _PREFIX = re.compile(r"^\s*\[([^\]]+)\]")
 _USD = re.compile(r"\$\s?\d[\d,]*(?:\.\d{1,2})?")
 _CATS = {"RAM": "RAM", "MEMORY": "RAM", "GPU": "GPU", "CPU": "CPU", "SSD": "SSD",
-         "NVME": "SSD", "MOTHERBOARD": "MB", "MOBO": "MB", "MB": "MB", "PSU": "PSU"}
+         "NVME": "SSD", "MOTHERBOARD": "MB", "MOBO": "MB", "MB": "MB", "PSU": "PSU",
+         "MONITOR": "MON", "KEYBOARD": "KBD", "COOLER": "COOL", "CASE": "CASE"}
 
 
 def reddit_category(title: str) -> str | None:
