@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T12:08:00Z",
+ "generated_at": "2026-11-03T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-03T12:08:00.616538+00:00"
+   "items": 339,
+   "last_ok": "2026-11-03T12:38:00.677693+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T12:08:00.616538+00:00"
+   "last_ok": "2026-11-03T12:38:00.677693+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -588,7 +588,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 180,
+  "listings_seen": 181,
   "models_with_reference": 7
  }
 }
