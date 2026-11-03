@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T15:08:00Z",
+ "generated_at": "2026-11-03T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 341,
-   "last_ok": "2026-11-03T15:08:00.619350+00:00"
+   "items": 342,
+   "last_ok": "2026-11-03T16:38:00.672666+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T15:08:00.619350+00:00"
+   "last_ok": "2026-11-03T16:38:00.672666+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -253,6 +253,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC Firebat R3, Ryzen 5 7430U, 16 Go de LPDDR4, SSD 512 Go, WiFi6 & BT 5.2, Windows 11 (252,45€ via Paypal)",
+   "price_raw": "272,45€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-firebat-r3-ryzen-5-7430u-16-go-de-lpddr4-ssd-512-go-wifi6-bt-52-windows-11-25245eur-via-paypal-3445415",
+   "posted_at": "2026-11-03T16:14:44+00:00"
+  },
   {
    "title": "Imprimante 3D Snapmaker Artisan 3-in-1 3D Printer eu.snapmaker.com",
    "price_raw": "3 146€",
@@ -595,17 +602,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-resine-elegoo-saturn-4-ultra-16k-150-mmh-ia-212118220-mm-27299-via-paypal-3444986",
    "posted_at": "2026-11-03T08:07:18+00:00"
-  },
-  {
-   "title": "Ecran PC 34\" MSI MPG 341CQPX è QD-OLED",
-   "price_raw": "649,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-msi-mpg-341cqpx-qd-oled-3444967",
-   "posted_at": "2026-11-03T07:39:25+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 194,
+  "listings_seen": 195,
   "models_with_reference": 7
  }
 }
