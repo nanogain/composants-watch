@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T22:38:00Z",
+ "generated_at": "2026-11-03T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-03T22:38:00.620181+00:00"
+   "last_ok": "2026-11-03T23:38:00.626568+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T22:38:00.620181+00:00"
+   "last_ok": "2026-11-03T23:38:00.626568+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Headphones] Sony WH-1000XM5 Wireless Noise Canceling Headphones Black, Refurbished - $127.99 (w/code: SAVE20TECH)",
+   "price_raw": "$127.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn8vmm/headphones_sony_wh1000xm5_wireless_noise/",
+   "posted_at": "2026-11-03T23:37:32+00:00"
+  },
   {
    "title": "[Via Paypal] Tablette 11,2\" Xiaomi Pad 8 Pro 2026 - 12/512Go, Snapdragon 8 Elite, 3,2k/144 Hz, Grise, 9200mAh, HyperCharge 67W, Wi-Fi 7",
    "price_raw": "377,13€",
@@ -578,17 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-5000d-rs-argb-blanc-refroidissement-360-argb-alimentation-rm750e-750w-3444126",
    "posted_at": "2026-11-02T09:27:22+00:00"
-  },
-  {
-   "title": "Boitier PC Cooler Master MasterFrame 360 Stage LCD",
-   "price_raw": "149,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-cooler-master-masterframe-360-stage-lcd-3441803",
-   "posted_at": "2026-10-30T08:09:14+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 227,
+  "listings_seen": 228,
   "models_with_reference": 7
  }
 }
