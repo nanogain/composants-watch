@@ -5,7 +5,9 @@ from pathlib import Path
 
 DEFAULTS = {
     "dealabs_groups": ["cartes-graphiques", "processeurs", "ram", "ssd",
-                       "cartes-meres", "alimentation-pc", "informatique"],
+                       "cartes-meres", "alimentation-pc", "informatique",
+                       "ecrans", "claviers", "claviers-gamer", "ventirad", "watercooling",
+                       "boitiers-pc"],
     "reddit_enabled": True,
     "ebay_enabled": True,
     "discount_min": 0.15,

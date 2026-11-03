@@ -58,7 +58,7 @@ CASES = [
     ("PC portable Lenovo Legion RTX 4060", (None, None)),
     ("[Prebuilt] Powerspec G536 - 12gb 5070, 32gb ram, 7500x3D", (None, None)),
     ("PC Gamer Ryzen 7 7800X3D RTX 4070 Super", (None, None)),
-    ("Boîtier PC MSI MPG Velox 100R - Support Vertical pour Carte Graphique", (None, None)),
+    ("Boîtier PC MSI MPG Velox 100R - Support Vertical pour Carte Graphique", ("CASE", None)),
     ("[Controller] PowerA Enhanced Wireless Controller - $24.99", (None, None)),
     ("Waterblock EK pour RTX 4080", (None, None)),
     ("Câble HDMI 2.1 compatible RTX 4090", (None, None)),
@@ -79,7 +79,73 @@ CASES = [
 ]
 
 
+NEW_CASES = [
+    # Écrans (titres réels Dealabs)
+    ('Écran PC incurvé 34" AOC CU34G4 - WQHD, 3440 x 1440, Fast VA, 180Hz, 1 ms', ("MON", "MON:34-UWQHD-180Hz")),
+    ('Écran PC 27" MSI PRO MP271 E14A - Full HD, 144 Hz 1 ms, IPS FreeSync', ("MON", "MON:27-FHD-144Hz")),
+    ('Ecran PC Incurvé 32" AOC CQ32G4VE - QHD, 180Hz, Dalle Fast VA, 0,5ms', ("MON", "MON:32-QHD-180Hz")),
+    ('Ecran PC 24" Philips 24E2N1100LB - Full HD VA, 100 Hz, 1 ms', ("MON", "MON:24-FHD-100Hz")),
+    ('Ecran PC Gamer 24" MSI G242L E14 - Full HD 144 Hz, Dalle IPS, 1 ms', ("MON", "MON:24-FHD-144Hz")),
+    ('Écran PC 27" MSI MAG 274QP - WQHD, 240Hz, QD-OLED, HDR, 0.03ms', ("MON", "MON:27-QHD-240Hz")),
+    ('Écran PC 23.8" AOC 24G50F - FHD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync', ("MON", "MON:24-FHD-180Hz")),
+    ("Ecran PC 27'' Iiyama Prolite XB2791HS-B1 - IPS, FHD, 120Hz, 1ms", ("MON", "MON:27-FHD-120Hz")),
+    ('Ecran PC 24" HKC B2422F - QHD (2560 × 1440), IPS, 100Hz', ("MON", "MON:24-QHD-100Hz")),
+    ('Écran PC 34" Samsung Odyssey G5 G55T - incurvé, UWQHD, 165 Hz', ("MON", "MON:34-UWQHD-165Hz")),
+    ('Écran PC 49" Samsung Odyssey G9 - Dual QHD, 144 Hz, 0,03 ms', ("MON", "MON:49-DQHD-144Hz")),
+    ('Écran PC 37" Samsung Odyssey G7 G75F – 4K UHD, 165 Hz, 1 ms', ("MON", "MON:37-UHD-165Hz")),
+    ('Ecran 34" MSI 341CQP QD OLED - 175Hz', ("MON", None)),
+    ('Écran 27" compatible G-Sync pour RTX 4070', ("MON", None)),
+    ('Moniteur LG 24GS60F 24" Full HD 180 Hz IPS', ("MON", "MON:24-FHD-180Hz")),
+    ('[Monitor] Acer Nitro KG271U F3 27" 1440p IPS 320Hz FreeSync - $159', ("MON", "MON:27-QHD-320Hz")),
+    ('Smartphone 6,8" realme 16 Pro Plus 5G - Écran AMOLED incurvé, 144 Hz', (None, None)),
+    ("Carte de capture Elgato 4K X - 4K144, latence ultra-basse", (None, None)),
+    # Claviers
+    ("Clavier Mécanique Akko Lord of the Mysteries 5108 V5 - 8K, QWERTY", ("KBD", "KBD:Mécanique-Complet")),
+    ("Clavier gaming Azerty SteelSeries Apex 3 TKL RVB - lavande", ("KBD", "KBD:Membrane-TKL")),
+    ("Clavier mécanique filaire RK Royal Kludge R75 - TKL 75%, switches K-Silver", ("KBD", "KBD:Mécanique-75")),
+    ("Clavier magnétique The G-Lab Keyz Titanium HE - 65% Hot Swap, Hall Effect", ("KBD", "KBD:Mécanique-65")),
+    ("Clavier mécanique Machenike KG98 96% - Tri-mode, Hot-swap", ("KBD", "KBD:Mécanique-Complet")),
+    ("Clavier filaire Corsair K55 Core RGB", ("KBD", "KBD:Membrane-Complet")),
+    ("Clavier mécanique sans fil Cherry MX 8.2 TKL – AZERTY, Cherry MX Red", ("KBD", "KBD:Mécanique-TKL")),
+    ("Clavier gamer mécanique pour PC gamer 60%", ("KBD", "KBD:Mécanique-60")),
+    ("Serrure Connectée / Smartlock Ezviz DL01 Pro + Clavier + Hub", (None, None)),
+    ("Pack Combo Logitech Clavier MX Keys S + Souris MX Master 3S", (None, None)),
+    ("Sélection d'Accessoires Informatiques en promotion - Ex : Clavier gaming sans fil", (None, None)),
+    # Ventirads / AIO
+    ("Ventirad Cooler Master Hyper 612 Apex", ("COOL", "COOL:Air")),
+    ("Ventirad Cooler Master V4 ALPHA 3DHP (AM4, AM5 LGA 1700 / 1200 / 115x-)", ("COOL", "COOL:Air")),
+    ("Ventirad Thermalright Peerless Assassin 120 White ARGB (vendeur tiers)", ("COOL", "COOL:Air")),
+    ("Ventirad CPU DeepCool AK500 Digital SE - Blanc", ("COOL", "COOL:Air")),
+    ("[Prime] Refroidisseur d'air CPU Ventirad Scythe Kotetsu Mark 3, 120 mm AMD AM5/AM4", ("COOL", "COOL:Air")),
+    ("Watercooling AIO Arctic Liquid Freezer III 360", ("COOL", "COOL:AIO-360")),
+    ("Kit watercooling 240 mm ARGB", ("COOL", "COOL:AIO-240")),
+    ("[Cooler] Zalman CNPS20X Dual-Tower 140mm ARGB Air Cooler AM5", ("COOL", "COOL:Air")),
+    ("[Cooler] NZXT Kraken 360 RGB AIO Liquid Cooler - $99", ("COOL", "COOL:AIO-360")),
+    ("Processeur AMD Ryzen 7 9700X - 8 coeurs, AM5, 65W, sans ventirad", ("CPU", "CPU:Ryzen 7 9700X")),
+    # Boîtiers
+    ("Boitier PC GSI SmartAssembly ARGB Glass Micro-ATX PC case - Mid tower, Micro-ATX", ("CASE", "CASE:mATX")),
+    ("Boîtier PC Antec AX61 Elite noir - ATX, 4 ventilateurs ARGB 120 mm", ("CASE", "CASE:ATX")),
+    ("Boîtier PC CORSAIR 5000D RS ARGB Blanc + Refroidissement Nautilus Corsair 360 ARGB", ("CASE", None)),
+    ("Boitier PC Deepcool CH260, Mini tour, Format M-ATX - Noir", ("CASE", "CASE:mATX")),
+    ("Boitier PC Corsair 3200D RS ARGB - Moyen Tour, 3 Ventilateurs", ("CASE", "CASE:ATX")),
+    ("Boîtier PC Asus Prime AP202 ARGB - mATX & Mini-ITX, Verre trempé incurvé", ("CASE", "CASE:mATX")),
+    ("Boîtier Mini-ITX Fractal Terra", ("CASE", "CASE:ITX")),
+    ("Boitier PC Thermalright A70 - ATX, supporte Carte mère ATX/GPU 420mm", ("CASE", "CASE:ATX")),
+    ("Boitier PC Corsair 3500X mi-tour - Verre trempé, USB-C, blanc", ("CASE", "CASE:ATX")),
+    ("Sélection de Boitiers PC Asus en promotion - Ex : A21 Plus à 64.99€", (None, None)),
+    ("[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis - $49.99", ("CASE", "CASE:ATX")),
+    # Toujours exclus
+    ("PC gamer Ryzen 7 7800X3D RTX 4070 Super boîtier ATX", (None, None)),
+    ("Casque gamer HyperX Cloud II", (None, None)),
+]
+
+
 class NormalizeTest(unittest.TestCase):
+    def test_new_categories(self):
+        for title, want in NEW_CASES:
+            with self.subTest(title=title):
+                self.assertEqual(normalize(title), want)
+
     def test_table(self):
         for title, want in CASES:
             with self.subTest(title=title):
