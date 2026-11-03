@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T13:08:00Z",
+ "generated_at": "2026-11-03T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-03T13:08:00.673449+00:00"
+   "items": 341,
+   "last_ok": "2026-11-03T13:38:00.618048+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T13:08:00.673449+00:00"
+   "last_ok": "2026-11-03T13:38:00.618048+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -114,6 +114,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-nv3000-m2-1-to-3441243",
    "posted_at": "2026-10-29T10:48:31+00:00"
+  },
+  {
+   "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 94.77,
+   "shipping_eur": null,
+   "effective_eur": 94.77,
+   "median_eur": 149.99,
+   "discount_pct": 36.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
+   "posted_at": "2026-11-03T13:34:10+00:00"
   },
   {
    "title": "SSD M2 NVMe Cusu 3500Q - 1 To (Gen3)",
@@ -236,6 +253,41 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC Chuwi AuBox - Ryzen 7 8745HS, 780M, RAM 16 Go DDR5 5600Mhz, SSD 512 Go, eGPU Oculink, USB 4, Wi-Fi6, BT5.3, W11 (387,05€ via Paypal)",
+   "price_raw": "420,05€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-ryzen-7-8745hs-780m-16-go-ddr5-5600-ssd-512-go-egpu-sur-oculink-ou-usb4-wifi6-bt53-w11pro-38705eur-via-paypal-3445296",
+   "posted_at": "2026-11-03T13:24:49+00:00"
+  },
+  {
+   "title": "Tablette 9,7\" Xiaomi Redmi Pad 2 - 4 Go / 128 Go, 2K, 120 Hz, Batterie 7600 mAh (vendeur tiers)",
+   "price_raw": "144,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-xiaomi-redmi-pad-2-97-4-go-128-go-ecran-97-2k-120-hz-batterie-7600-mah-3445295",
+   "posted_at": "2026-11-03T13:21:39+00:00"
+  },
+  {
+   "title": "Projecteur a detection de présence et alimentation solaire",
+   "price_raw": "34,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/projecteur-a-detection-de-presence-et-alimentation-solaire-3445287",
+   "posted_at": "2026-11-03T13:10:07+00:00"
+  },
+  {
+   "title": "Imprimante et graveuse laser Bambu Lab H2S Laser Full Cambo",
+   "price_raw": "1 511,60€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-et-graveuse-laser-bambu-lab-h2s-laser-full-cambo-3445279",
+   "posted_at": "2026-11-03T13:08:53+00:00"
+  },
+  {
+   "title": "Mini PC Acer Gadget E10 ETBox AI P09H - Intel Core Ultra 7 256V, RAM 16 Go LPDDR5X 8533Mhz, SSD 1 To PCle 4.0 (Via Paypal)",
+   "price_raw": "462,79€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-acer-gadget-e10-etbox-ai-p09h-intel-core-ultra-7-256v-16-go-lpddr5x-8533mts-ssd-1-to-pcle-40-3445270",
+   "posted_at": "2026-11-03T12:59:28+00:00"
+  },
   {
    "title": "Apple MacBook 14,2\" Pro M5 Pro - 24 Go RAM, SSD 1 To, CPU 15 cœurs et GPU 16 cœurs, Couleur Argent",
    "price_raw": "2 604€",
@@ -550,45 +602,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nas-synology-diskstation-ds225-3444876",
    "posted_at": "2026-11-03T00:32:11+00:00"
-  },
-  {
-   "title": "Imprimante 3D Elegoo Centauri Carbon 2 Combo",
-   "price_raw": "359€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-elegoo-centauri-carbon-2-combo-3444867",
-   "posted_at": "2026-11-02T23:41:40+00:00"
-  },
-  {
-   "title": "PC Portable 14\" HP OmniBook 3 Next Gen AI 14-hz0036nfx - OLED Snapdragon X, 8 Go de RAM, 512 Go de SSD, Azerty Win.11 Home",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-hp-omnibook-3-next-gen-ai-14-hz0036nfx-14-oled-snapdragon-x-8-go-ram-512-go-ssd-bleu-3444861",
-   "posted_at": "2026-11-02T23:41:08+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Samsung Galaxy Book 6 - LCD, Intel Core 5 315, 8 Go de RAM DDR5, 256 Go de SSD (Sans Chargeur)",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-14-samsung-galaxy-book-6-lcd-intel-core-5-315-8-go-ram-ddr5-ssd-256-go-3444857",
-   "posted_at": "2026-11-02T23:27:30+00:00"
-  },
-  {
-   "title": "Boîtier PC corsair 3500x blanc",
-   "price_raw": "64,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-3500x-blanc-3444843",
-   "posted_at": "2026-11-02T22:41:51+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Gigabyte A16 - 165 Hz, Ryzen 7 260, RTX 5070, 16 Go, SSD 1 To, Win 11 (Vendeur Tiers)",
-   "price_raw": "1 504,89€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/gigabyte-a16-16-165-hz-ryzen-7-260-rtx-5070-16-go-ssd-1-to-win-11-3444776",
-   "posted_at": "2026-11-02T20:33:55+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 184,
+  "listings_seen": 190,
   "models_with_reference": 7
  }
 }
