@@ -64,6 +64,17 @@ class StoreTest(unittest.TestCase):
         ids = [r["source_id"] for r in self.s.recent_listings(7, NOW)]
         self.assertEqual(ids, ["new"])
 
+    def test_retention_uses_posting_date(self):
+        self.s.upsert(make_listing(source_id="oldpost", posted_at=NOW - timedelta(days=20)), NOW)
+        self.s.upsert(make_listing(source_id="fresh"), NOW)
+        self.assertEqual([r["source_id"] for r in self.s.recent_listings(7, NOW)], ["fresh"])
+
+    def test_observations_ignore_old_postings(self):
+        self.s.upsert(make_listing(source_id="oldpost", posted_at=NOW - timedelta(days=40)), NOW)
+        self.s.upsert(make_listing(source_id="fresh"), NOW)
+        obs = self.s.observations("GPU:RTX 4070 Super", "new", NOW - timedelta(days=30))
+        self.assertEqual([o[1] for o in obs], ["fresh"])
+
     def test_expired_flag_updated(self):
         self.s.upsert(make_listing(), NOW)
         self.s.upsert(make_listing(expired=True), NOW)

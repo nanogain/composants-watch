@@ -53,7 +53,8 @@ class Store:
     def recent_listings(self, days: int, now: datetime) -> list[dict]:
         since = (now - timedelta(days=days)).isoformat()
         rows = self.db.execute(
-            "SELECT * FROM listings WHERE first_seen >= ? ORDER BY first_seen DESC", (since,))
+            "SELECT * FROM listings WHERE first_seen >= ? AND posted_at >= ? ORDER BY first_seen DESC",
+            (since, since))
         out = []
         for r in rows.fetchall():
             d = dict(r)
@@ -68,8 +69,8 @@ class Store:
                      exclude=None) -> list[tuple[str, str, float]]:
         rows = self.db.execute(
             """SELECT l.source, l.source_id, l.title FROM listings l
-               WHERE l.model=? AND l.condition=? AND l.last_seen >= ?""",
-            (model, condition, since.isoformat())).fetchall()
+               WHERE l.model=? AND l.condition=? AND l.last_seen >= ? AND l.posted_at >= ?""",
+            (model, condition, since.isoformat(), since.isoformat())).fetchall()
         out = []
         for r in rows:
             if exclude and exclude(r["title"]):
