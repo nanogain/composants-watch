@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T10:47:35Z",
+ "generated_at": "2026-11-03T11:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-03T10:47:35.371031+00:00"
+   "items": 339,
+   "last_ok": "2026-11-03T11:08:00.686012+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T10:47:35.371031+00:00"
+   "last_ok": "2026-11-03T11:08:00.686012+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -72,8 +72,8 @@
    "price_eur": 26.94,
    "shipping_eur": null,
    "effective_eur": 26.94,
-   "median_eur": 63.23,
-   "discount_pct": 57.4,
+   "median_eur": 63.54,
+   "discount_pct": 57.6,
    "target_hit": false,
    "suspect": false,
    "merchant": "Grosbill",
@@ -89,8 +89,8 @@
    "price_eur": 34.0,
    "shipping_eur": null,
    "effective_eur": 34.0,
-   "median_eur": 63.23,
-   "discount_pct": 46.2,
+   "median_eur": 63.54,
+   "discount_pct": 46.5,
    "target_hit": false,
    "suspect": false,
    "merchant": "Grosbill",
@@ -140,8 +140,8 @@
    "price_eur": 44.9,
    "shipping_eur": null,
    "effective_eur": 44.9,
-   "median_eur": 63.23,
-   "discount_pct": 29.0,
+   "median_eur": 63.54,
+   "discount_pct": 29.3,
    "target_hit": false,
    "suspect": false,
    "merchant": "Alternate",
@@ -236,6 +236,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 14,1\" FUCHU - Intel Atom A3950, 12Go RAM, 256Go SSD, W11",
+   "price_raw": "127,68€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-3445155",
+   "posted_at": "2026-11-03T10:50:40+00:00"
+  },
   {
    "title": "Carte de capture Elgato 4K X - 4K144, latence ultra-basse, PS5|Pro, Xbox Series XIS, Switch 2, HDMI 2.1, VRR, HDR10, USB 3.2, PC/Mac/iPad",
    "price_raw": "229,95€",
@@ -578,17 +585,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xmatfq/ram_corsair_shugo_2x16gb_ddr56000_cl28_memory_kit/",
    "posted_at": "2026-11-02T21:56:20+00:00"
-  },
-  {
-   "title": "[Controller] Razer Raiju & Wolverine Controller white version $120 and 110 on woot for sale",
-   "price_raw": "$120",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmao6u/controller_razer_raiju_wolverine_controller_white/",
-   "posted_at": "2026-11-02T21:50:38+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 172,
+  "listings_seen": 175,
   "models_with_reference": 7
  }
 }
