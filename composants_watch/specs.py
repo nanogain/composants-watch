@@ -30,6 +30,14 @@ GPU_TDP = {
     "Arc A750": 225, "Arc A770": 225, "Arc B570": 150, "Arc B580": 190,
 }
 
+# TDP constructeur des Ryzen « X » courants (la règle générique sert de repli).
+RYZEN_TDP = {
+    "5600X": 65, "5700X": 65, "5800X": 105, "5900X": 105, "5950X": 105,
+    "7600X": 105, "7700X": 105, "7900X": 170, "7950X": 170,
+    "9600X": 65, "9700X": 65, "9900X": 120, "9950X": 170,
+    "7900X3D": 120, "7950X3D": 120, "9900X3D": 120, "9950X3D": 170,
+}
+
 _RYZEN = re.compile(r"^CPU:Ryzen ([3579]) (\d)(\d{3})(X3D|XT|X|G|F)?$")
 _CORE = re.compile(r"^CPU:Core i([3579])-(\d{2})(\d{3})([KFST]*)$")
 _ULTRA = re.compile(r"^CPU:Core Ultra ([579]) (2\d{2})([KF]*)$")
@@ -56,6 +64,9 @@ def cpu_socket(model: str) -> str | None:
 def cpu_tdp(model: str) -> int | None:
     if m := _RYZEN.match(model or ""):
         tier, series, suffix = int(m.group(1)), int(m.group(2)), m.group(4) or ""
+        exact = RYZEN_TDP.get(f"{m.group(2)}{m.group(3)}{suffix}")
+        if exact:
+            return exact
         if suffix == "X3D":
             return 120
         if suffix in ("X", "XT"):

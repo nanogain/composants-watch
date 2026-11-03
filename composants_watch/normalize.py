@@ -22,7 +22,8 @@ EXCLUDE = re.compile(
 # Exclusions fortes, testées AVANT le nom de produit en tête de titre.
 HARD_EXCLUDE = re.compile(
     r"smartphone|serrure|smartlock|cylindre|carte\s*de\s*capture|^\s*s[ée]lection|"
-    r"pack\s*combo|\bcombo\b|\bsouris\b|\bcasque\b", _I)
+    r"pack\s*combo|\bcombo\b|\bsouris\b|\bcasque\b|"
+    r"bo[iî]tier\s+(?:ssd|externe|disque|hdd|nvme|m\.2|usb)", _I)
 
 # Nom de produit en tête de titre (après d'éventuels tags [Prime], [Fnac+]…).
 _LEAD = re.compile(r"^\s*((?:\[[^\]]*\]\s*)*)(.*)$", re.S)

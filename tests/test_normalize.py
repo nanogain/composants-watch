@@ -135,6 +135,9 @@ NEW_CASES = [
     ("Sélection de Boitiers PC Asus en promotion - Ex : A21 Plus à 64.99€", (None, None)),
     ("[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis - $49.99", ("CASE", "CASE:ATX")),
     # Toujours exclus
+    ("Boîtier SSD M.2. NVMe SATA Ugreen - 20 Gbps USB 3.2 Gen 2", (None, None)),
+    ("Boitier SSD 40 Gbps QwiizlabL - Thunderbolt USB4 Aluminium", (None, None)),
+    ("Boîtier externe disque dur 3.5 USB 3.0", (None, None)),
     ("PC gamer Ryzen 7 7800X3D RTX 4070 Super boîtier ATX", (None, None)),
     ("Casque gamer HyperX Cloud II", (None, None)),
 ]

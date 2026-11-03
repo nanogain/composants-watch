@@ -22,7 +22,10 @@ class SpecsTest(unittest.TestCase):
         self.check(cpu_tdp, {
             "CPU:Ryzen 7 7800X3D": 120, "CPU:Ryzen 9 9950X": 170, "CPU:Ryzen 5 7600": 65,
             "CPU:Core i9-14900K": 253, "CPU:Core i5-13600KF": 181, "CPU:Core i5-12400F": 65,
-            "CPU:Core Ultra 7 265K": 250, "CPU:Core Ultra 5 245": 65, "CPU:Core i7-9700K": None})
+            "CPU:Core Ultra 7 265K": 250, "CPU:Core Ultra 5 245": 65, "CPU:Core i7-9700K": None,
+            "CPU:Ryzen 7 9700X": 65, "CPU:Ryzen 5 9600X": 65, "CPU:Ryzen 7 5700X": 65, "CPU:Ryzen 7 5800X": 105,
+            "CPU:Ryzen 7 7700X": 105, "CPU:Ryzen 9 9900X": 120, "CPU:Ryzen 9 9950X3D": 170,
+            "CPU:Ryzen 9 7950X3D": 120, "CPU:Ryzen 7 9800X3D": 120})
 
     def test_cpu_igpu(self):
         self.check(cpu_igpu, {
