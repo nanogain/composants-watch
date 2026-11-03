@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T09:55:13Z",
+ "generated_at": "2026-11-03T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 196,
-   "last_ok": "2026-11-03T09:55:13.335604+00:00"
+   "items": 198,
+   "last_ok": "2026-11-03T10:38:00.661076+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T09:55:13.335604+00:00"
+   "last_ok": "2026-11-03T10:38:00.661076+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -134,6 +134,41 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 13\" Apple MacBook Neo A18 Pro - 8Go RAM, 512Go SSD",
+   "price_raw": "799€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-13-macbook-neo-a18-pro-3445127",
+   "posted_at": "2026-11-03T10:26:47+00:00"
+  },
+  {
+   "title": "Pack serveur NAS Synology DS225+ 2 baies + 2 disque 2 To BarraCuda SATA III",
+   "price_raw": "599,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-serveur-nas-synology-ds225-2-baies-2-disque-2-to-barracuda-sata-iii-3445120",
+   "posted_at": "2026-11-03T10:21:46+00:00"
+  },
+  {
+   "title": "Liseuse électronique magnétique XTEINK X3 - Écran E-Ink Carta 1300 3,7”, Wi-Fi, Bluetooth, carte mémoire 16 Go, 58g, coque incluse",
+   "price_raw": "51,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/liseuse-electronique-magnetique-xteink-x3-ecran-e-ink-carta-1300-37-wi-fi-bluetooth-carte-memoire-16-go-58-g-coque-incluse-3445118",
+   "posted_at": "2026-11-03T10:19:07+00:00"
+  },
+  {
+   "title": "Tablette tactile Honor Pad 20 Pro - 8/256Go",
+   "price_raw": "378,28€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-honor-pad-20-pro-8256go-3444159",
+   "posted_at": "2026-11-03T10:14:08+00:00"
+  },
+  {
+   "title": "Clavier Mécanique Akko Lord of the Mysteries 5108 V5 - 8K, QWERTY",
+   "price_raw": "116,79€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/akko-lord-of-the-mysteries-5108-v5-mechanical-keyboard-8k-3445109",
+   "posted_at": "2026-11-03T10:10:10+00:00"
+  },
   {
    "title": "Écran PC incurvé 34\" AOC CU34G4 - WQHD, 3440 x 1440, Fast VA, 180Hz, 1 ms, HDR10, Adaptive Sync",
    "price_raw": "198,99€",
@@ -448,45 +483,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xmds7g/cooler_sudokoo_sk620v_white_6999_at_newegg/",
    "posted_at": "2026-11-02T23:59:48+00:00"
-  },
-  {
-   "title": "[RAM] Corsair SHUGO 2x16GB DDR5-6000 CL28 Memory Kit - $556.99",
-   "price_raw": "$556.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmatfq/ram_corsair_shugo_2x16gb_ddr56000_cl28_memory_kit/",
-   "posted_at": "2026-11-02T21:56:20+00:00"
-  },
-  {
-   "title": "[Controller] Razer Raiju & Wolverine Controller white version $120 and 110 on woot for sale",
-   "price_raw": "$120",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmao6u/controller_razer_raiju_wolverine_controller_white/",
-   "posted_at": "2026-11-02T21:50:38+00:00"
-  },
-  {
-   "title": "[Prebuilt] Powerspec G536 - 12gb 5070, 32gb ram, 7500x3D, 1tb NVME - $1599 (Normally $2000)",
-   "price_raw": "$1599",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm8gm8/prebuilt_powerspec_g536_12gb_5070_32gb_ram/",
-   "posted_at": "2026-11-02T20:25:47+00:00"
-  },
-  {
-   "title": "[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99",
-   "price_raw": "$49.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/",
-   "posted_at": "2026-11-02T20:12:34+00:00"
-  },
-  {
-   "title": "[Controller] PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2/Switch Lite/OLED - $24.99 (64% off)",
-   "price_raw": "$24.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7stx/controller_powera_enhanced_wireless_controller/",
-   "posted_at": "2026-11-02T20:01:24+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 122,
+  "listings_seen": 127,
   "models_with_reference": 2
  }
 }
