@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T18:08:00Z",
+ "generated_at": "2026-11-03T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-03T18:08:00.692286+00:00"
+   "last_ok": "2026-11-03T18:38:00.676565+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T18:08:00.692286+00:00"
+   "last_ok": "2026-11-03T18:38:00.676565+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Alimentation modulaire MSI Mag A850GLS PCIE5 ATX 3.1, 80 PLUS Gold",
+   "price_raw": "109,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-mag-a850gls-pcie5-alimentation-modulaire-atx-31-80-plus-gold-3445511",
+   "posted_at": "2026-11-03T18:30:41+00:00"
+  },
+  {
+   "title": "[Headphones] SENNHEISER Professional IE 100 PRO, IEM - $74.39 (32% off)",
+   "price_raw": "$74.39",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn0tsc/headphones_sennheiser_professional_ie_100_pro_iem/",
+   "posted_at": "2026-11-03T18:25:24+00:00"
+  },
+  {
+   "title": "[Keyboard] LEMOKEY P1 Pro Wireless Custom Mechanical Keyboard w/Knob - $74.99 (44% off)",
+   "price_raw": "$74.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn0prf/keyboard_lemokey_p1_pro_wireless_custom/",
+   "posted_at": "2026-11-03T18:21:23+00:00"
+  },
+  {
+   "title": "[Fan] Thermaltake CT120 EX Infinity ARGB Fan (3-Pack) - $24.99 (64% off)",
+   "price_raw": "$24.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn0lts/fan_thermaltake_ct120_ex_infinity_argb_fan_3pack/",
+   "posted_at": "2026-11-03T18:17:36+00:00"
+  },
   {
    "title": "[Keyboard] Keychron K4 RGB Hot Swappable Mechanical Keyboard - $59.99 (45% off)",
    "price_raw": "$59.99",
@@ -557,38 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/alimentation-msi-mag-a650bnl-3444796",
    "posted_at": "2026-11-02T21:01:05+00:00"
-  },
-  {
-   "title": "Souris filaire gamer Logitech G G502X - Capteur Hero 25K, 13 Boutons",
-   "price_raw": "34,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-filaire-gamer-logitech-g-g502x-capteur-hero-25k-13-boutons-3445073",
-   "posted_at": "2026-11-03T09:27:15+00:00"
-  },
-  {
-   "title": "PC Portable 16\" ASUS VIVOBOOK S16 S3607NA-SH065W - OLED, 60Hz, Snapdragon X2 ELITE, 16 Go RAM, 1 To SSD",
-   "price_raw": "949,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-vivobook-s16-s3607na-sh065w-16-oled-60-hz-snapdragon-x2-elite-16-go-ram-1-to-ssd-bleu-3445059",
-   "posted_at": "2026-11-03T09:16:15+00:00"
-  },
-  {
-   "title": "GoPro HERO13 Black Action Cam + Collection d’objectifs",
-   "price_raw": "479,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/gopro-hero13-black-action-cam-collection-dobjectifs-3445050",
-   "posted_at": "2026-11-03T09:10:31+00:00"
-  },
-  {
-   "title": "Ecran 34\" MSI 341CQP QD OLED - 175Hz",
-   "price_raw": "599,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-34-msi-341cqp-qd-oled-3445021",
-   "posted_at": "2026-11-03T08:41:59+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 200,
+  "listings_seen": 204,
   "models_with_reference": 7
  }
 }
