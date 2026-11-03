@@ -112,3 +112,12 @@ class GitPushTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RepoIgnoreTest(unittest.TestCase):
+    def test_deals_json_not_ignored_but_db_is(self):
+        root = Path(__file__).resolve().parent.parent
+        r = subprocess.run(["git", "check-ignore", "-q", "docs/data/deals.json"], cwd=root)
+        self.assertEqual(r.returncode, 1, "docs/data/deals.json est ignoré par .gitignore")
+        r = subprocess.run(["git", "check-ignore", "-q", "data/watch.db"], cwd=root)
+        self.assertEqual(r.returncode, 0)
