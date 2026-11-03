@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T20:38:00Z",
+ "generated_at": "2026-11-03T21:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-03T20:38:00.626032+00:00"
+   "last_ok": "2026-11-03T21:08:00.672356+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T20:38:00.626032+00:00"
+   "last_ok": "2026-11-03T21:08:00.672356+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Boitier NVME SSD Acasis 80Gbps M.2 , Thunderbolt 5",
+   "price_raw": "126,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-nvme-ssd-acasis-80gbps-m2-thunderbolt-5-3445640",
+   "posted_at": "2026-11-03T20:59:14+00:00"
+  },
+  {
+   "title": "[Mouse] LOGITECH G PRO 2 LIGHTSPEED MAGENTA (Restock) $59.99",
+   "price_raw": "$59.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn4h0b/mouse_logitech_g_pro_2_lightspeed_magenta_restock/",
+   "posted_at": "2026-11-03T20:38:44+00:00"
+  },
   {
    "title": "Souris filaire Logitech G G502 X - capteur gaming HERO 25K",
    "price_raw": "38,45€",
@@ -571,24 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
    "posted_at": "2026-11-01T14:41:23+00:00"
-  },
-  {
-   "title": "Mini PC MLLSE M6, Core i5-12450H, 16 Go de DDR4-3200, SSD M.2 Sata 512 Go, WiFi 6 & BT 5.2, Win 11 Pro (240,47€ via Paypal)",
-   "price_raw": "260,47€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-mllse-m6-core-i5-12450h-16-go-de-ddr4-3200-ssd-m2-sata-512-go-wifi-6-bt-52-win-11-pro-24047eur-via-paypal-3444751",
-   "posted_at": "2026-11-02T20:19:46+00:00"
-  },
-  {
-   "title": "Mini PC GMKtec M3 Pro - Intel Core i5-13500H, 16Go DDR4, PCIe 3.0 512GB SSD, Triple 4K, LAN 2.5G, WiFi 6, BT 5.2 (Vendeur tiers, Via coupon)",
-   "price_raw": "464,96€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/gmktec-m3-pro-mini-intel-core-i5-13500h-16gb-ddr4-pcie-30-512gb-ssd-triple-4k-lan-25g-wifi-6-bt-52-vendeur-tiers-via-coupon-3444483",
-   "posted_at": "2026-11-02T15:33:40+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 217,
+  "listings_seen": 219,
   "models_with_reference": 7
  }
 }
