@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T13:38:00Z",
+ "generated_at": "2026-11-03T14:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 341,
-   "last_ok": "2026-11-03T13:38:00.618048+00:00"
+   "last_ok": "2026-11-03T14:08:00.695617+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T13:38:00.618048+00:00"
+   "last_ok": "2026-11-03T14:08:00.695617+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -253,6 +253,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Souris sans fil Logitech MX Master 4, Gris pâle (ODR de 15€ ou 40€ pour 2 articles gamme MX par Logitech)",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-logitech-sans-fil-mx-master-4-gris-pale-odr-de-15e-ou-40e-pour-2-articles-gamme-mx-par-logitech-3445316",
+   "posted_at": "2026-11-03T13:46:46+00:00"
+  },
   {
    "title": "Mini PC Chuwi AuBox - Ryzen 7 8745HS, 780M, RAM 16 Go DDR5 5600Mhz, SSD 512 Go, eGPU Oculink, USB 4, Wi-Fi6, BT5.3, W11 (387,05€ via Paypal)",
    "price_raw": "420,05€",
@@ -595,17 +602,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/camera-tp-link-tapo-c225-2k-detection-personnesanimauxvehicules-enregistrement-cloud-ou-sd-3444938",
    "posted_at": "2026-11-03T06:53:11+00:00"
-  },
-  {
-   "title": "Serveur NAS Synology DiskStation DS225+ - 2 Baies, Sans Disque Dur",
-   "price_raw": "275€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nas-synology-diskstation-ds225-3444876",
-   "posted_at": "2026-11-03T00:32:11+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 190,
+  "listings_seen": 191,
   "models_with_reference": 7
  }
 }
