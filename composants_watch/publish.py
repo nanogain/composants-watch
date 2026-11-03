@@ -25,20 +25,28 @@ def build_payload(scored: dict, health: dict, now: datetime, version: int = 1,
     return {"generated_at": _iso(now), "version": version, "sources": sources, **scored}
 
 
+def _comparable(d: dict) -> dict:
+    """Contenu sans les horodatages qui bougent à chaque passe."""
+    out = {k: v for k, v in d.items() if k != "generated_at"}
+    out["sources"] = {n: {k: v for k, v in s.items() if k != "last_ok"}
+                      for n, s in (d.get("sources") or {}).items()}
+    return out
+
+
 def write_json(payload: dict, path: Path) -> bool:
+    """Écrit atomiquement si le contenu a changé ; renvoie True si écrit."""
     path = Path(path)
-    strip = lambda d: {k: v for k, v in d.items() if k != "generated_at"}
-    changed = True
     if path.exists():
         try:
-            changed = strip(json.loads(path.read_text(encoding="utf-8"))) != strip(payload)
+            if _comparable(json.loads(path.read_text(encoding="utf-8"))) == _comparable(payload):
+                return False
         except ValueError:
             pass
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
     os.replace(tmp, path)
-    return changed
+    return True
 
 
 def _git(repo: Path, *args: str, extra: list[str] | None = None) -> subprocess.CompletedProcess:

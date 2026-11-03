@@ -34,12 +34,21 @@ class PayloadTest(unittest.TestCase):
         p = build_payload(SCORED, {"reddit": {"consecutive_failures": 4, "last_ok": None, "items": 0}}, NOW)
         self.assertEqual(p["sources"]["reddit"]["status"], "ok")
 
+    def test_last_ok_change_alone_is_not_a_change(self):
+        with tempfile.TemporaryDirectory() as d:
+            path = Path(d) / "deals.json"
+            h = lambda t: {"dealabs": {"consecutive_failures": 0, "last_ok": t, "items": 3}}
+            self.assertTrue(write_json(build_payload(SCORED, h("a"), NOW), path))
+            self.assertFalse(write_json(build_payload(SCORED, h("b"), NOW), path))
+            down = {"dealabs": {"consecutive_failures": 5, "last_ok": "a", "items": 0}}
+            self.assertTrue(write_json(build_payload(SCORED, down, NOW), path))
+
     def test_write_json_unchanged_returns_false(self):
         with tempfile.TemporaryDirectory() as d:
             path = Path(d) / "data" / "deals.json"
             self.assertTrue(write_json(build_payload(SCORED, {}, NOW), path))
             self.assertFalse(write_json(build_payload(SCORED, {}, NOW + timedelta(minutes=30)), path))
-            self.assertEqual(json.loads(path.read_text())["generated_at"], "2026-11-03T12:30:00Z")
+            self.assertEqual(json.loads(path.read_text())["generated_at"], "2026-11-03T12:00:00Z")
             changed = dict(SCORED, stats={"listings_seen": 3, "models_with_reference": 0})
             self.assertTrue(write_json(build_payload(changed, {}, NOW), path))
 
