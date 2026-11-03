@@ -1,0 +1,73 @@
+"""Génération de deals.json et publication git (jeton passé par en-tête, jamais stocké)."""
+from __future__ import annotations
+
+import base64
+import json
+import os
+import subprocess
+from datetime import datetime, timezone
+from pathlib import Path
+
+
+def _iso(dt: datetime) -> str:
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def build_payload(scored: dict, health: dict, now: datetime, version: int = 1,
+                  down_after: int = 5) -> dict:
+    sources = {}
+    for name, h in health.items():
+        if h.get("disabled"):
+            sources[name] = {"status": "disabled", "items": 0, "last_ok": None}
+        else:
+            status = "down" if h.get("consecutive_failures", 0) >= down_after else "ok"
+            sources[name] = {"status": status, "items": h.get("items", 0), "last_ok": h.get("last_ok")}
+    return {"generated_at": _iso(now), "version": version, "sources": sources, **scored}
+
+
+def write_json(payload: dict, path: Path) -> bool:
+    path = Path(path)
+    strip = lambda d: {k: v for k, v in d.items() if k != "generated_at"}
+    changed = True
+    if path.exists():
+        try:
+            changed = strip(json.loads(path.read_text(encoding="utf-8"))) != strip(payload)
+        except ValueError:
+            pass
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    os.replace(tmp, path)
+    return changed
+
+
+def _git(repo: Path, *args: str, extra: list[str] | None = None) -> subprocess.CompletedProcess:
+    env = dict(os.environ, GIT_TERMINAL_PROMPT="0")
+    return subprocess.run(["git", *(extra or []), *args], cwd=repo, capture_output=True,
+                          text=True, timeout=120, env=env)
+
+
+def git_push(repo: Path, rel_path: str, token_path: Path, now: datetime) -> tuple[bool, str]:
+    repo = Path(repo)
+    _git(repo, "add", rel_path)
+    if _git(repo, "diff", "--cached", "--quiet").returncode == 1:
+        c = _git(repo, "commit", "-q", "-m", f"data: mise à jour {_iso(now)}")
+        if c.returncode != 0:
+            return False, f"commit impossible : {c.stderr.strip()}"
+    url = _git(repo, "remote", "get-url", "origin").stdout.strip()
+    extra: list[str] = []
+    token = ""
+    if url.startswith("https://"):
+        token_path = Path(token_path)
+        if not token_path.exists():
+            return False, "token absent"
+        token = token_path.read_text(encoding="utf-8").strip()
+        basic = base64.b64encode(f"x-access-token:{token}".encode()).decode()
+        extra = ["-c", f"http.extraHeader=Authorization: Basic {basic}"]
+    p = _git(repo, "push", "-q", "origin", "HEAD", extra=extra)
+    if p.returncode != 0:
+        msg = p.stderr.strip()
+        if token:
+            msg = msg.replace(token, "***")
+        return False, f"push échoué : {msg[-300:]}"
+    return True, "ok"
