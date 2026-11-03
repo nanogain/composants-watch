@@ -2,6 +2,7 @@ import json
 import subprocess
 import tempfile
 import unittest
+from unittest import mock
 from datetime import timedelta
 from pathlib import Path
 
@@ -112,6 +113,56 @@ class GitPushTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class GitPushSafetyTest(GitPushTest):
+    def test_token_never_in_argv(self):
+        import composants_watch.publish as pub
+        git(self.repo, "remote", "set-url", "origin", "https://127.0.0.1:9/x/y.git")
+        self.token.write_text("SECRET-TOKEN-123")
+        import base64
+        b64 = base64.b64encode(b"x-access-token:SECRET-TOKEN-123").decode()
+        real = subprocess.run
+        seen = []
+
+        def spy(args, **kw):
+            seen.append(" ".join(args))
+            return real(args, **kw)
+        with mock.patch.object(pub.subprocess, "run", side_effect=spy):
+            git_push(self.repo, self.rel, self.token, NOW)
+        self.assertTrue(seen)
+        for a in seen:
+            self.assertNotIn("SECRET-TOKEN-123", a)
+            self.assertNotIn(b64, a)
+
+    def test_timeout_returns_false_without_secret(self):
+        import composants_watch.publish as pub
+        git(self.repo, "remote", "set-url", "origin", "https://github.com/x/y.git")
+        self.token.write_text("SECRET-TOKEN-123")
+        real = subprocess.run
+
+        def slow(args, **kw):
+            if "push" in args:
+                raise subprocess.TimeoutExpired(args, 120)
+            return real(args, **kw)
+        with mock.patch.object(pub.subprocess, "run", side_effect=slow):
+            ok, msg = git_push(self.repo, self.rel, self.token, NOW)
+        self.assertFalse(ok)
+        self.assertIn("délai", msg)
+        self.assertNotIn("SECRET", msg)
+
+    def test_pushes_to_main_from_other_branch(self):
+        git(self.repo, "checkout", "-q", "-b", "feat/x")
+        ok, msg = git_push(self.repo, self.rel, self.token, NOW)
+        self.assertTrue(ok, msg)
+        self.assertTrue(git(self.remote, "log", "-1", "--format=%s", "main").startswith("data: mise à jour"))
+
+    def test_only_deals_json_committed(self):
+        (self.repo / "secret.txt").write_text("perso")
+        git(self.repo, "add", "secret.txt")
+        git_push(self.repo, self.rel, self.token, NOW)
+        files = git(self.remote, "show", "--name-only", "--format=", "main").split()
+        self.assertEqual(files, [self.rel])
 
 
 class RepoIgnoreTest(unittest.TestCase):

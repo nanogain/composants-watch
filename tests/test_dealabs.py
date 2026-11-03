@@ -60,5 +60,23 @@ class DealabsTest(unittest.TestCase):
         self.assertEqual(len(listings), 1)
 
 
+class DealabsRobustnessTest(unittest.TestCase):
+    def test_bad_item_skipped_not_whole_feed(self):
+        bad = item().replace("<pubDate>Sun, 01 Nov 2026 08:19:46 +0100</pubDate>", "<pubDate>n/a</pubDate>")
+        ls = parse_dealabs(rss(bad + item(link="https://www.dealabs.com/bons-plans/y-456")))
+        self.assertEqual([li.source_id for li in ls], ["456"])
+
+    def test_unexpected_error_in_one_group_isolated(self):
+        import http.client
+
+        def get(url):
+            if url.endswith("/ssd"):
+                raise http.client.IncompleteRead(b"")
+            return rss(item())
+        listings, failed = fetch_dealabs(["cartes-graphiques", "ssd"], get=get)
+        self.assertEqual(failed, ["ssd"])
+        self.assertEqual(len(listings), 1)
+
+
 if __name__ == "__main__":
     unittest.main()

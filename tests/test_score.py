@@ -140,6 +140,29 @@ class ScoreTest(unittest.TestCase):
         self.add("exp", 400.0, expired=True, url="https://x/a-exp")
         self.assertEqual(self.opp_ids(self.run_score()), [])
 
+    def test_zero_price_never_scored_nor_in_median(self):
+        self.seed([600] * 5)
+        self.add("free", 0.0, url="https://x/a-free")
+        res = self.run_score([{"model": M, "label": "4070S", "target_eur": 550}])
+        self.assertEqual(self.opp_ids(res), [])
+        self.assertFalse(res["watchlist"][0]["target_hit"])
+        self.assertEqual(res["watchlist"][0]["median_30d"], 600.0)
+
+    def test_implausibly_low_target_hit_is_suspect_and_last(self):
+        self.add("acc", 100.0, url="https://x/a-acc")      # 18 % de la cible, aucune médiane
+        self.add("real", 540.0, url="https://x/a-real")
+        res = self.run_score([{"model": M, "label": "4070S", "target_eur": 550}])
+        self.assertEqual(self.opp_ids(res), ["real", "acc"])
+        self.assertTrue(res["opportunities"][1]["suspect"])
+        self.assertEqual(res["watchlist"][0]["best"]["price_eur"], 540.0)
+
+    def test_suspect_target_hit_sorted_after_plain_discount(self):
+        self.seed([600] * 5)
+        self.add("scamtgt", 100.0, url="https://x/a-scamtgt")
+        self.add("disc", 480.0, url="https://x/a-disc")
+        res = self.run_score([{"model": M, "label": "4070S", "target_eur": 470}])
+        self.assertEqual(self.opp_ids(res), ["disc", "scamtgt"])
+
     def test_item_fields(self):
         self.seed([600] * 5)
         self.add("cheap", 500.0, url="https://x/a-cheap")

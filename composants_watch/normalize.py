@@ -13,7 +13,9 @@ _I = re.IGNORECASE
 
 EXCLUDE = re.compile(
     r"pc\s*portable|laptop|notebook|pc\s*gamer|pc\s*fixe|pc\s*de\s*bureau|\bdesktop\b|"
-    r"gaming\s*pc|\bprebuilt\b|\bbo[iî]tier\b|"
+    r"gaming\s*pc|\bprebuilt\b|\bbo[iî]tier\b|ordinateur|mini\s*pc|macbook|mac\s*mini|\bimac\b|"
+    r"\bexterne\b|\bportable\b|waterblock|backplate|\briser\b|c[aâ]ble|"
+    r"pour\s*l.achat|[àa]\s*l.achat|compatible\s+(?:avec\s+)?(?:les?\s+)?(?:rtx|rx|gtx|geforce|radeon|ryzen|core)|"
     r"\btour\b|\bcontroller\b|\bmanette\b|\bconsole\b|\bcase\]", _I)
 
 GPU_RTX = re.compile(r"\brtx\s*([2-5]0[5-9]0)(\s*ti)?(\s*super)?\b", _I)

@@ -10,6 +10,7 @@ EXCLUDE_RE = re.compile(
     r"\bmining\b|reconditionn|ne\s*fonctionne\s*pas", re.IGNORECASE)
 
 UNCLASSIFIED_MAX = 50
+IMPLAUSIBLE_VS_TARGET = 0.30   # cible « atteinte » à moins de 30 % du prix cible = accessoire probable
 
 
 def is_excluded(title: str) -> bool:
@@ -17,9 +18,14 @@ def is_excluded(title: str) -> bool:
 
 
 def reference_median(obs: list[tuple[str, str, float]], min_obs: int) -> float | None:
+    obs = [o for o in obs if o[2] > 0]
     if len(obs) < min_obs or len({(s, i) for s, i, _ in obs}) < 2:
         return None
     return round(statistics.median(p for _, _, p in obs), 2)
+
+
+def _scorable(eff: float | None) -> bool:
+    return eff is not None and eff > 0
 
 
 def _effective(row: dict) -> float | None:
@@ -50,28 +56,32 @@ def score(listings: list[dict], store, cfg: dict, watchlist: list[dict], now: da
                                  "url": r["url"], "posted_at": r["posted_at"]})
             continue
         eff = _effective(r)
-        if eff is None or is_excluded(r["title"]):
+        if not _scorable(eff) or is_excluded(r["title"]):
             continue
         median = ref(r["model"], r["condition"])
         discount = round((1 - eff / median) * 100, 1) if median else None
-        target_hit = r["model"] in targets and eff <= targets[r["model"]]
+        target = targets.get(r["model"])
+        target_hit = target is not None and eff <= target
         if not target_hit and (discount is None or discount < cfg["discount_min"] * 100):
             continue
+        suspect = ((discount is not None and discount > cfg["suspect_above"] * 100)
+                   or (target_hit and eff < IMPLAUSIBLE_VS_TARGET * target))
         opportunities.append({
             "title": r["title"], "model": r["model"], "category": r["category"],
             "condition": r["condition"], "price_eur": r["price_eur"], "shipping_eur": r["shipping_eur"],
             "effective_eur": eff, "median_eur": median, "discount_pct": discount,
             "target_hit": target_hit,
-            "suspect": discount is not None and discount > cfg["suspect_above"] * 100,
+            "suspect": suspect,
             "merchant": r["merchant"], "source": r["source"], "url": r["url"], "posted_at": r["posted_at"],
         })
-    opportunities.sort(key=lambda o: (not o["target_hit"], o["suspect"], -(o["discount_pct"] or 0)))
+    opportunities.sort(key=lambda o: (o["suspect"], not o["target_hit"], -(o["discount_pct"] or 0)))
 
     wl = []
     for w in watchlist:
         model = w["model"]
-        cands = [r for r in live if r["model"] == model and _effective(r) is not None
-                 and not is_excluded(r["title"])]
+        target = float(w["target_eur"])
+        cands = [r for r in live if r["model"] == model and _scorable(_effective(r))
+                 and not is_excluded(r["title"]) and _effective(r) >= IMPLAUSIBLE_VS_TARGET * target]
         best = min(cands, key=_effective, default=None)
         median = ref(model, "new")
         wl.append({

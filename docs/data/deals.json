@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T09:36:21Z",
+ "generated_at": "2026-11-03T09:43:07Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 196,
-   "last_ok": "2026-11-03T09:36:21.437133+00:00"
+   "last_ok": "2026-11-03T09:43:07.967342+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T09:36:21.437133+00:00"
+   "last_ok": "2026-11-03T09:43:07.967342+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -142,11 +142,39 @@
    "posted_at": "2026-11-01T14:41:23+00:00"
   },
   {
+   "title": "Mini PC MLLSE M6, Core i5-12450H, 16 Go de DDR4-3200, SSD M.2 Sata 512 Go, WiFi 6 & BT 5.2, Win 11 Pro (240,47€ via Paypal)",
+   "price_raw": "260,47€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-mllse-m6-core-i5-12450h-16-go-de-ddr4-3200-ssd-m2-sata-512-go-wifi-6-bt-52-win-11-pro-24047eur-via-paypal-3444751",
+   "posted_at": "2026-11-02T20:19:46+00:00"
+  },
+  {
+   "title": "Mini PC GMKtec M3 Pro - Intel Core i5-13500H, 16Go DDR4, PCIe 3.0 512GB SSD, Triple 4K, LAN 2.5G, WiFi 6, BT 5.2 (Vendeur tiers, Via coupon)",
+   "price_raw": "464,96€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gmktec-m3-pro-mini-intel-core-i5-13500h-16gb-ddr4-pcie-30-512gb-ssd-triple-4k-lan-25g-wifi-6-bt-52-vendeur-tiers-via-coupon-3444483",
+   "posted_at": "2026-11-02T15:33:40+00:00"
+  },
+  {
    "title": "Console 5,48\" Anbernic RG557 - AMOLED FHD, Android 14, Dimensity 8300, 12 Go DDR5, WiFi 6E (sans jeux)",
    "price_raw": "195,35€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/console-548-anbernic-rg557-amoled-fhd-android-14-dimensity-8300-12-go-ddr5-wifi-6e-sans-jeux-3444428",
    "posted_at": "2026-11-02T14:33:52+00:00"
+  },
+  {
+   "title": "Mini PC CHUWI LarkBox X - Intel i3-1220P, 8 Go DDR4 SODIMM, SSD 256 Go, WiFi 6 & BT 5.2, Windows 11 Pro ( via Paypal )",
+   "price_raw": "186,75€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-larkbox-x-intel-i3-1220p-8-go-ddr4-sodimm-ssd-256-go-wifi-6-bt-52-windows-11-pro-via-paypal-3444255",
+   "posted_at": "2026-11-02T11:32:59+00:00"
+  },
+  {
+   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
+   "price_raw": "96,32€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ddr3-m2-2280-sata-de-128-go-wifi-5-bt-42-windows-11-pro-3443849",
+   "posted_at": "2026-11-02T06:21:47+00:00"
   },
   {
    "title": "PC de bureau PCCom Work - Intel Ultra 225 (avec iGpu), 32Go DDR5, 1To SN3000, H810M, Pure Rock, 500W",
@@ -182,6 +210,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ugreen-boitier-m2-ssd-nvme-sata-20-gbps-usb-32-gen-2-3443762",
    "posted_at": "2026-11-01T21:34:04+00:00"
+  },
+  {
+   "title": "Apple MacBook Air 13\" M5 16 Go de RAM, SSD 512 Go Bleu Nuit ou Bleu Ciel",
+   "price_raw": "1 199€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-m5-16-go-de-ram-ssd-512-go-bleu-nuit-ou-bleu-ciel-3442233",
+   "posted_at": "2026-10-30T17:27:26+00:00"
   },
   {
    "title": "Station d'Accueil Orico Magnétique USB C avec Boîtier SSD M.2 NVMe - 8 en 1 avec HDMI 4K@60 Hz,PD 100 W (Vendeur Tiers)",
@@ -448,45 +483,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7bzf/headphones_razer_kraken_kitty_v2_usb_wired/",
    "posted_at": "2026-11-02T19:44:27+00:00"
-  },
-  {
-   "title": "[Cooler] (OPEN BOX) Noctua NH-U12A chromax black -120mm Single-Tower CPU Cooler Dual Fan NF-A12x25 - ($75.26)",
-   "price_raw": "$75.26",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm6s6h/cooler_open_box_noctua_nhu12a_chromax_black_120mm/",
-   "posted_at": "2026-11-02T19:24:19+00:00"
-  },
-  {
-   "title": "[Headphones] Sennheiser ACCENTUM ANC Wireless Headphones (Open Box) - $66.45 (67% off)",
-   "price_raw": "$66.45",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm6hxe/headphones_sennheiser_accentum_anc_wireless/",
-   "posted_at": "2026-11-02T19:13:45+00:00"
-  },
-  {
-   "title": "[Prebuilt] iBUYPOWER Element Gaming PC Desktop — AMD Ryzen 7 9800X3D — AMD Radeon RX 9070 GRE, 12GB — 32GB DDR5 RAM — 2TB NVMe SSD at Costco at $1800",
-   "price_raw": "$1800",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm491i/prebuilt_ibuypower_element_gaming_pc_desktop_amd/",
-   "posted_at": "2026-11-02T17:54:54+00:00"
-  },
-  {
-   "title": "[Monitor] ABS 24\" (23.8\" viewable) Full HD 1080P 260Hz IPS with AMD FreeSync 1ms HDR400 Anti-Glare Low Blue Light HDMI DisplayPort VESA Mount Gaming Computer Monitor GF241NE - $89.00 (16% off)",
-   "price_raw": "$89.00",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm2qyt/monitor_abs_24_238_viewable_full_hd_1080p_260hz/",
-   "posted_at": "2026-11-02T17:01:18+00:00"
-  },
-  {
-   "title": "[PSU] ASRock Taichi TC-1300T 1300W 80 PLUS TITANIUM ATX3.1 & PCIe5.1 - $199.99 (55% off on Newegg) A+ rated",
-   "price_raw": "$199.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm2p85/psu_asrock_taichi_tc1300t_1300w_80_plus_titanium/",
-   "posted_at": "2026-11-02T16:59:46+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 121,
+  "listings_seen": 120,
   "models_with_reference": 2
  }
 }

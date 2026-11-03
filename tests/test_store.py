@@ -75,6 +75,16 @@ class StoreTest(unittest.TestCase):
         obs = self.s.observations("GPU:RTX 4070 Super", "new", NOW - timedelta(days=30))
         self.assertEqual([o[1] for o in obs], ["fresh"])
 
+    def test_old_ebay_listing_still_live(self):
+        self.s.upsert(make_listing(source="ebay", source_id="e", posted_at=NOW - timedelta(days=60)), NOW)
+        self.assertEqual([r["source_id"] for r in self.s.recent_listings(7, NOW)], ["e"])
+        obs = self.s.observations("GPU:RTX 4070 Super", "new", NOW - timedelta(days=30))
+        self.assertEqual([o[1] for o in obs], ["e"])
+
+    def test_ebay_listing_not_seen_recently_dropped(self):
+        self.s.upsert(make_listing(source="ebay", source_id="e"), NOW - timedelta(days=10))
+        self.assertEqual(self.s.recent_listings(7, NOW), [])
+
     def test_expired_flag_updated(self):
         self.s.upsert(make_listing(), NOW)
         self.s.upsert(make_listing(expired=True), NOW)
