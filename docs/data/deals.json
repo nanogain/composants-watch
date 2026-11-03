@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T09:43:07Z",
+ "generated_at": "2026-11-03T09:55:13Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 196,
-   "last_ok": "2026-11-03T09:43:07.967342+00:00"
+   "last_ok": "2026-11-03T09:55:13.335604+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T09:43:07.967342+00:00"
+   "last_ok": "2026-11-03T09:55:13.335604+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -134,6 +134,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Écran PC incurvé 34\" AOC CU34G4 - WQHD, 3440 x 1440, Fast VA, 180Hz, 1 ms, HDR10, Adaptive Sync",
+   "price_raw": "198,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-34-aoc-cu34g4-wqhd-3440-x-1440-fast-va-180hz-1-ms-hdr10-adaptive-sync-3445096",
+   "posted_at": "2026-11-03T09:49:43+00:00"
+  },
+  {
+   "title": "Écran PC 27\" MSI PRO MP271 E14A - Full HD, 144 Hz 1 ms, IPS FreeSync avec haut-parleurs (84.99€ pour les nouveaux clients)",
+   "price_raw": "94,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/moniteur-msi-pro-mp271-e14a-27-full-hd-144-hz-1-ms-ips-freesync-avec-haut-parleurs-8499eur-pour-les-nouveaux-clients-3445089",
+   "posted_at": "2026-11-03T09:44:21+00:00"
+  },
   {
    "title": "Carte Mère Soyo Eternel B650ITX - WiFi 6, DDR5, socket AM5, compatible Ryzen 9600X 9800X",
    "price_raw": "82,06€",
@@ -469,24 +483,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7stx/controller_powera_enhanced_wireless_controller/",
    "posted_at": "2026-11-02T20:01:24+00:00"
-  },
-  {
-   "title": "[Cooler] Zalman CNPS20X Extreme Performance Dual-Tower 140mm ARGB Air Cooler 300W TDP, AM4/AM5/LGA1700/1851/2011 - $23.99 (KITS FOR AM5/LGA1700/1851 INCLUDED + EXTRA GREASE)",
-   "price_raw": "$23.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7jyh/cooler_zalman_cnps20x_extreme_performance/",
-   "posted_at": "2026-11-02T19:52:44+00:00"
-  },
-  {
-   "title": "[Headphones] Razer Kraken Kitty V2 USB Wired Headset Hello Kitty Edition - $39.99 (64% off)",
-   "price_raw": "$39.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7bzf/headphones_razer_kraken_kitty_v2_usb_wired/",
-   "posted_at": "2026-11-02T19:44:27+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 120,
+  "listings_seen": 122,
   "models_with_reference": 2
  }
 }
