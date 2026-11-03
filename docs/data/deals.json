@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T16:38:00Z",
+ "generated_at": "2026-11-03T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 342,
-   "last_ok": "2026-11-03T16:38:00.672666+00:00"
+   "last_ok": "2026-11-03T17:38:00.671929+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T16:38:00.672666+00:00"
+   "last_ok": "2026-11-03T17:38:00.671929+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -253,6 +253,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Monitor] Amazon Basics 24\" Gaming Monitor - $69.99 (36% off)",
+   "price_raw": "$69.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmz4pc/monitor_amazon_basics_24_gaming_monitor_6999_36/",
+   "posted_at": "2026-11-03T17:25:04+00:00"
+  },
   {
    "title": "Mini PC Firebat R3, Ryzen 5 7430U, 16 Go de LPDDR4, SSD 512 Go, WiFi6 & BT 5.2, Windows 11 (252,45€ via Paypal)",
    "price_raw": "272,45€",
@@ -595,17 +602,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-portable-tactile-156-verbatim-4k-hdr-noir-via-coupon-3445008",
    "posted_at": "2026-11-03T08:23:59+00:00"
-  },
-  {
-   "title": "Imprimante 3D résine ELEGOO Saturn 4 Ultra 16K - 150 mm/h, IA, 212×118×220 mm (272,99€ Via Paypal)",
-   "price_raw": "305,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-resine-elegoo-saturn-4-ultra-16k-150-mmh-ia-212118220-mm-27299-via-paypal-3444986",
-   "posted_at": "2026-11-03T08:07:18+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 195,
+  "listings_seen": 196,
   "models_with_reference": 7
  }
 }
