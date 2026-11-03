@@ -8,6 +8,7 @@ from __future__ import annotations
 import re
 
 from .models import Listing
+from . import specs
 
 _I = re.IGNORECASE
 
@@ -77,7 +78,7 @@ SSD_TB = re.compile(r"\b(\d+)\s*(?:to|tb)\b", _I)
 SSD_GB = re.compile(r"\b(\d{3,4})\s*(?:go|gb)\b", _I)
 
 MB_CTX = re.compile(r"carte\s*m[eè]re|motherboard|\bmobo\b", _I)
-MB_CHIP = re.compile(r"\b([bhxz]\d{3}e?)m?\b", _I)
+MB_CHIP = re.compile(r"\b([bhxz]\d{3}e?)(?:m|i)?\b", _I)
 MB_CHIP_A = re.compile(r"\b(a[56]20)m?\b", _I)
 
 PSU_W = re.compile(r"\b(\d{3,4})\s*w\b", _I)
@@ -236,6 +237,56 @@ def normalize(title: str, hint_category: str | None = None) -> tuple[str | None,
     return hint_category, None
 
 
+MB_ITX = re.compile(r"\b[abhxz]\d{3}e?-?i\b|mini-?itx|\bitx\b", _I)
+MB_MATX = re.compile(r"\b[abhxz]\d{3}e?m\b|micro-?atx|\bm-?atx\b", _I)
+MB_ATX = re.compile(r"(?<![\w-])e-?atx\b|(?<![\w-])atx\b", _I)
+DDR4 = re.compile(r"ddr4|\bd4\b", _I)
+DDR5 = re.compile(r"ddr5|\bd5\b", _I)
+COOL_AM = re.compile(r"\bam([45])\b", _I)
+COOL_LGA = re.compile(r"lga\s*((?:\d{3,4}x?\s*/\s*)*\d{3,4}x?)", _I)
+LGA_KNOWN = {"1200", "1700", "1851"}
+
+
+def _clean(d: dict) -> dict:
+    return {k: v for k, v in d.items() if v is not None}
+
+
+def attributes(category: str | None, model: str | None, title: str) -> dict:
+    """Attributs techniques déterministes ; une clé absente signifie « inconnu »."""
+    t = title or ""
+    if category == "CPU" and model:
+        return _clean({"socket": specs.cpu_socket(model), "tdp_w": specs.cpu_tdp(model),
+                       "igpu": specs.cpu_igpu(model)})
+    if category == "MB" and model:
+        socket = specs.chipset_socket(model.removeprefix("MB:"))
+        ddr = 4 if DDR4.search(t) else 5 if DDR5.search(t) else specs.socket_ddr(socket)
+        form = ("ITX" if MB_ITX.search(t) else "mATX" if MB_MATX.search(t)
+                else "ATX" if MB_ATX.search(t) else None)
+        return _clean({"socket": socket, "ddr": ddr, "form": form})
+    if category == "RAM" and model:
+        return {"ddr": int(model[7])}
+    if category == "GPU" and model:
+        return _clean({"tdp_w": specs.gpu_tdp(model)})
+    if category == "PSU" and model:
+        return {"watts": int(re.match(r"PSU:(\d+)W", model).group(1))}
+    if category == "COOL":
+        sockets = {f"AM{m}" for m in COOL_AM.findall(t)}
+        for group in COOL_LGA.findall(t):
+            sockets |= {f"LGA{n}" for n in re.split(r"\s*/\s*", group) if n in LGA_KNOWN}
+        return _clean({"type": "aio" if COOL_AIO.search(t) else "air",
+                       "sockets": sorted(sockets) or None})
+    if category == "CASE" and model:
+        return {"max_form": model.removeprefix("CASE:")}
+    if category == "MON" and model:
+        inches, res, hz = model.removeprefix("MON:").split("-")
+        return {"inches": int(inches), "res": res, "hz": int(hz.removesuffix("Hz"))}
+    if category == "KBD" and model:
+        kind, layout = model.removeprefix("KBD:").split("-")
+        return {"type": kind, "layout": layout}
+    return {}
+
+
 def apply(listing: Listing) -> Listing:
     listing.category, listing.model = normalize(listing.title, listing.category)
+    listing.attrs = attributes(listing.category, listing.model, listing.title)
     return listing
