@@ -1,0 +1,10 @@
+[Unit]
+Description=composants-watch - passe toutes les 30 minutes
+
+[Timer]
+OnCalendar=*:07,37
+Persistent=true
+RandomizedDelaySec=60
+
+[Install]
+WantedBy=timers.target

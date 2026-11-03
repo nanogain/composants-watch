@@ -1,0 +1,11 @@
+[Unit]
+Description=composants-watch - une passe de veille des composants PC
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/composants-watch
+ExecStart=/usr/bin/python3 %h/composants-watch/watch.py
+TimeoutStartSec=600
+Nice=10

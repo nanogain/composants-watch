@@ -1,0 +1,492 @@
+{
+ "generated_at": "2026-11-03T09:36:21Z",
+ "version": 1,
+ "sources": {
+  "dealabs": {
+   "status": "ok",
+   "items": 196,
+   "last_ok": "2026-11-03T09:36:21.437133+00:00"
+  },
+  "reddit": {
+   "status": "ok",
+   "items": 25,
+   "last_ok": "2026-11-03T09:36:21.437133+00:00"
+  },
+  "ebay": {
+   "status": "disabled",
+   "items": 0,
+   "last_ok": null
+  }
+ },
+ "watchlist": [
+  {
+   "model": "GPU:RTX 4070 Super",
+   "label": "RTX 4070 Super",
+   "target_eur": 550.0,
+   "best": null,
+   "median_30d": null,
+   "target_hit": false,
+   "never_seen": true
+  }
+ ],
+ "opportunities": [
+  {
+   "title": "SSD interne Netac NV3000 M2 - 1 To",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 92.39,
+   "shipping_eur": null,
+   "effective_eur": 92.39,
+   "median_eur": 149.99,
+   "discount_pct": 38.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-nv3000-m2-1-to-3441243",
+   "posted_at": "2026-10-29T10:48:31+00:00"
+  },
+  {
+   "title": "SSD M2 NVMe Cusu 3500Q - 1 To (Gen3)",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 96.99,
+   "shipping_eur": null,
+   "effective_eur": 96.99,
+   "median_eur": 149.99,
+   "discount_pct": 35.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
+   "posted_at": "2026-11-01T11:54:24+00:00"
+  },
+  {
+   "title": "SSD NVME Lexar NQ790 1To Gen4x4 7000 Mo/s",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.0,
+   "shipping_eur": null,
+   "effective_eur": 109.0,
+   "median_eur": 149.99,
+   "discount_pct": 27.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Galaxus",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-nvme-nq790-1to-gen4-7000mos-3441085",
+   "posted_at": "2026-10-29T07:23:28+00:00"
+  },
+  {
+   "title": "Disque SSD interne Netac NV3000 NVMe M.2 2280 - 1 To",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 113.02,
+   "shipping_eur": null,
+   "effective_eur": 113.02,
+   "median_eur": 149.99,
+   "discount_pct": 24.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-nv3000-nvme-m2-2280-1to-3444172",
+   "posted_at": "2026-11-02T10:02:33+00:00"
+  },
+  {
+   "title": "SSD Interne M.2 NVMe Lexar NQ790 - 1 To, 7 000 Mo/s, PCIe 4.0 Gen4",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 119.0,
+   "shipping_eur": null,
+   "effective_eur": 119.0,
+   "median_eur": 149.99,
+   "discount_pct": 20.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Galaxus",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-nvme-lexar-nq790-1-to-7-000-mos-pcie-40-m2-gen4-3445026",
+   "posted_at": "2026-11-03T08:45:03+00:00"
+  },
+  {
+   "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 127.47,
+   "shipping_eur": null,
+   "effective_eur": 127.47,
+   "median_eur": 149.99,
+   "discount_pct": 15.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/fanxiang-s880-m2-ssd-7300mbs-1tb2tb4tb-m2-nvme-ssd-drive-pcie-40x4-disque-dur-interne-ssd-pour-ps5-ordinateur-portable-pc-3444444",
+   "posted_at": "2026-11-02T14:53:28+00:00"
+  }
+ ],
+ "unclassified": [
+  {
+   "title": "Carte Mère Soyo Eternel B650ITX - WiFi 6, DDR5, socket AM5, compatible Ryzen 9600X 9800X",
+   "price_raw": "82,06€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
+   "posted_at": "2026-11-01T14:41:23+00:00"
+  },
+  {
+   "title": "Console 5,48\" Anbernic RG557 - AMOLED FHD, Android 14, Dimensity 8300, 12 Go DDR5, WiFi 6E (sans jeux)",
+   "price_raw": "195,35€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/console-548-anbernic-rg557-amoled-fhd-android-14-dimensity-8300-12-go-ddr5-wifi-6e-sans-jeux-3444428",
+   "posted_at": "2026-11-02T14:33:52+00:00"
+  },
+  {
+   "title": "PC de bureau PCCom Work - Intel Ultra 225 (avec iGpu), 32Go DDR5, 1To SN3000, H810M, Pure Rock, 500W",
+   "price_raw": "786€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-intel-ultra-225-avec-igpu-32go-ddr5-1to-sn3000-h810m-pure-rock-500w-3443664",
+   "posted_at": "2026-11-01T18:59:02+00:00"
+  },
+  {
+   "title": "[Via Paypal] PC portable Ninkear A15 - 15.6\" FHD IPS, Ryzen 5 5500U, 16Go DDR4, SSD 512Go, Wi-Fi 6, Windows 11, QWERTY",
+   "price_raw": "277,62€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/via-paypal-pc-portable-ninkear-a15-156-fhd-ips-ryzen-5-5500u-16go-ddr4-ssd-512go-wi-fi-6-windows-11-qwerty-3443251",
+   "posted_at": "2026-11-01T09:41:50+00:00"
+  },
+  {
+   "title": "Kit mémoire RAM DDR4 Netac Shadow III - 32 Go (2x16 Go) - 3200, CL16",
+   "price_raw": "119,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/memoire-ram-netac-32go-ddr4-3200-2x-16go-3442953",
+   "posted_at": "2026-10-31T23:57:56+00:00"
+  },
+  {
+   "title": "Boitier SSD 40 Gbps QwiizlabL - Thunderbolt USB4 Aluminium étui (Vendeur tiers)",
+   "price_raw": "45,59€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-ssd-40-gbps-qwiizlabl-thunderbolt-usb4-aluminium-etui-vendeur-tiers-3444339",
+   "posted_at": "2026-11-02T13:06:48+00:00"
+  },
+  {
+   "title": "Boîtier SSD M.2. NVMe SATA Ugreen - 20 Gbps USB 3.2 Gen 2 (vendeur tiers)",
+   "price_raw": "30,87€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-boitier-m2-ssd-nvme-sata-20-gbps-usb-32-gen-2-3443762",
+   "posted_at": "2026-11-01T21:34:04+00:00"
+  },
+  {
+   "title": "Station d'Accueil Orico Magnétique USB C avec Boîtier SSD M.2 NVMe - 8 en 1 avec HDMI 4K@60 Hz,PD 100 W (Vendeur Tiers)",
+   "price_raw": "39,19€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/orico-station-daccueil-magnetique-usb-c-avec-boitier-ssd-m2-nvme-docking-station-8-en-1-avec-hdmi-4k-at-60-hzpd-100-w-3440869",
+   "posted_at": "2026-10-28T19:07:45+00:00"
+  },
+  {
+   "title": "Hub USB C Orico - avec Boîtier SSD NVMe M.2, Station d'Accueil 10 en 1, avec Ventilateur Intégré, Adaptateur SSD 10 Gbps (Vendeur Tiers)",
+   "price_raw": "67,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/orico-hub-usb-c-avec-boitier-ssd-nvme-m2-station-daccueil-usb-c-10-en-1-avec-ventilateur-integre-adaptateur-ssd-10-gbps-usb32-gen2-3440362",
+   "posted_at": "2026-10-28T07:56:45+00:00"
+  },
+  {
+   "title": "Ventirad Cooler Master V4 ALPHA 3DHP (AM4, AM5 LGA 1700 / 1200 / 115x-)",
+   "price_raw": "24,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ventirad-cooler-master-v4-alpha-3dhp-3440419",
+   "posted_at": "2026-10-28T09:05:21+00:00"
+  },
+  {
+   "title": "Alimentation PC Msi MAG A650BNL",
+   "price_raw": "41,10€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/alimentation-msi-mag-a650bnl-3444796",
+   "posted_at": "2026-11-02T21:01:05+00:00"
+  },
+  {
+   "title": "Souris filaire gamer Logitech G G502X - Capteur Hero 25K, 13 Boutons",
+   "price_raw": "34,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-filaire-gamer-logitech-g-g502x-capteur-hero-25k-13-boutons-3445073",
+   "posted_at": "2026-11-03T09:27:15+00:00"
+  },
+  {
+   "title": "Ecran PC Incurvé 32\" AOC CQ32G4VE - QHD, 180Hz, Dalle Fast VA, 0,5ms (139,95€ pour les Nouveaux Clients)",
+   "price_raw": "149,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-gamer-aoc-32-qhd-180hz-dalle-fast-va-05ms-cq32g4ve-13995eur-pour-les-nouveaux-clients-avec-le-code-hello10-3445060",
+   "posted_at": "2026-11-03T09:17:24+00:00"
+  },
+  {
+   "title": "PC Portable 16\" ASUS VIVOBOOK S16 S3607NA-SH065W - OLED, 60Hz, Snapdragon X2 ELITE, 16 Go RAM, 1 To SSD",
+   "price_raw": "949,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-vivobook-s16-s3607na-sh065w-16-oled-60-hz-snapdragon-x2-elite-16-go-ram-1-to-ssd-bleu-3445059",
+   "posted_at": "2026-11-03T09:16:15+00:00"
+  },
+  {
+   "title": "GoPro HERO13 Black Action Cam + Collection d’objectifs",
+   "price_raw": "479,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gopro-hero13-black-action-cam-collection-dobjectifs-3445050",
+   "posted_at": "2026-11-03T09:10:31+00:00"
+  },
+  {
+   "title": "Ecran 34\" MSI 341CQP QD OLED - 175Hz",
+   "price_raw": "599,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-34-msi-341cqp-qd-oled-3445021",
+   "posted_at": "2026-11-03T08:41:59+00:00"
+  },
+  {
+   "title": "Ecran PC 24\" Philips 24E2N1100LB - Full HD VA, 100 Hz, 1 ms (49,99€ pour les nouveaux clients)",
+   "price_raw": "59,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-philips-24e2n1100lb-full-hd-va-100-hz-1-ms-3445005",
+   "posted_at": "2026-11-03T08:36:50+00:00"
+  },
+  {
+   "title": "Ecran Portable Tactile 15,6\" Verbatim - 4K, HDR, Noir (via coupon)",
+   "price_raw": "163,57€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-portable-tactile-156-verbatim-4k-hdr-noir-via-coupon-3445008",
+   "posted_at": "2026-11-03T08:23:59+00:00"
+  },
+  {
+   "title": "Imprimante 3D résine ELEGOO Saturn 4 Ultra 16K - 150 mm/h, IA, 212×118×220 mm (272,99€ Via Paypal)",
+   "price_raw": "305,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-resine-elegoo-saturn-4-ultra-16k-150-mmh-ia-212118220-mm-27299-via-paypal-3444986",
+   "posted_at": "2026-11-03T08:07:18+00:00"
+  },
+  {
+   "title": "Ecran PC 34\" MSI MPG 341CQPX è QD-OLED",
+   "price_raw": "649,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-msi-mpg-341cqpx-qd-oled-3444967",
+   "posted_at": "2026-11-03T07:39:25+00:00"
+  },
+  {
+   "title": "Ecran PC Incurvé 49\" Samsung Odyssey G91F LS49FG910EUXEN",
+   "price_raw": "599,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-samsung-odyssey-g91f-ls49fg910euxen-49-incurve-3444965",
+   "posted_at": "2026-11-03T07:33:44+00:00"
+  },
+  {
+   "title": "Caméra TP-Link Tapo C225 - 2K, Détection Personnes, Animaux & Véhicules, Enregistrement Cloud ou SD",
+   "price_raw": "49,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/camera-tp-link-tapo-c225-2k-detection-personnesanimauxvehicules-enregistrement-cloud-ou-sd-3444938",
+   "posted_at": "2026-11-03T06:53:11+00:00"
+  },
+  {
+   "title": "Serveur NAS Synology DiskStation DS225+ - 2 Baies, Sans Disque Dur",
+   "price_raw": "275€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nas-synology-diskstation-ds225-3444876",
+   "posted_at": "2026-11-03T00:32:11+00:00"
+  },
+  {
+   "title": "Imprimante 3D Elegoo Centauri Carbon 2 Combo",
+   "price_raw": "359€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-elegoo-centauri-carbon-2-combo-3444867",
+   "posted_at": "2026-11-02T23:41:40+00:00"
+  },
+  {
+   "title": "PC Portable 14\" HP OmniBook 3 Next Gen AI 14-hz0036nfx - OLED Snapdragon X, 8 Go de RAM, 512 Go de SSD, Azerty Win.11 Home",
+   "price_raw": "599,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-hp-omnibook-3-next-gen-ai-14-hz0036nfx-14-oled-snapdragon-x-8-go-ram-512-go-ssd-bleu-3444861",
+   "posted_at": "2026-11-02T23:41:08+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Samsung Galaxy Book 6 - LCD, Intel Core 5 315, 8 Go de RAM DDR5, 256 Go de SSD (Sans Chargeur)",
+   "price_raw": "599,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-14-samsung-galaxy-book-6-lcd-intel-core-5-315-8-go-ram-ddr5-ssd-256-go-3444857",
+   "posted_at": "2026-11-02T23:27:30+00:00"
+  },
+  {
+   "title": "Ecran PC incurvé 49\" Philips Evnia 8000 49M2C8900L - DualQHD, QD-OLED 144 Hz, courbé 1800R, HDR True Black 400",
+   "price_raw": "699,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-philips-evnia-49m2c8900l-49-dqhd-oled-144-hz-3444855",
+   "posted_at": "2026-11-02T23:13:39+00:00"
+  },
+  {
+   "title": "Boîtier PC corsair 3500x blanc",
+   "price_raw": "64,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-3500x-blanc-3444843",
+   "posted_at": "2026-11-02T22:41:51+00:00"
+  },
+  {
+   "title": "Écran PC 27\" Lenovo L27-4r - Full HD, 165 Hz, 1 ms, AMD FreeSync, 99% sRGB, Haut-parleurs",
+   "price_raw": "99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-lenovo-l27-4r-full-hd-165-hz-1-ms-amd-freesync-99-srgb-haut-parleurs-3444781",
+   "posted_at": "2026-11-02T20:42:27+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Gigabyte A16 - 165 Hz, Ryzen 7 260, RTX 5070, 16 Go, SSD 1 To, Win 11 (Vendeur Tiers)",
+   "price_raw": "1 504,89€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gigabyte-a16-16-165-hz-ryzen-7-260-rtx-5070-16-go-ssd-1-to-win-11-3444776",
+   "posted_at": "2026-11-02T20:33:55+00:00"
+  },
+  {
+   "title": "Tablette 11\" Xiaomi Redmi Pad 2 - 128Go, 4Go de Ram,",
+   "price_raw": "139,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/xiaomi-redmi-pad-2-version-globale-wifi11-pouces-ecran-25k-ultra-clair-mediatek-helio-g100-ultra-tablette-mi-ecran-90hz-9000mah-3444762",
+   "posted_at": "2026-11-02T20:24:42+00:00"
+  },
+  {
+   "title": "Ecran PC Gamer 24\" MSI G242L E14 - Full HD 144 Hz, Dalle IPS, 1 ms",
+   "price_raw": "74,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-24-msi-g242l-e14-full-hd-144-hz-dalle-ips-1-ms-3444756",
+   "posted_at": "2026-11-02T20:19:45+00:00"
+  },
+  {
+   "title": "Boitier PC GSI SmartAssembly ARGB Glass Micro-ATX PC case - Mid tower, Micro-ATX, Tempered Glass, Black avec Alimentation de 650W",
+   "price_raw": "60,40€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-gsi-smartassembly-argb-glass-micro-atx-pc-case-mid-tower-micro-atx-tempered-glass-black-650-watts-bronze-power-supply-3444746",
+   "posted_at": "2026-11-02T20:10:06+00:00"
+  },
+  {
+   "title": "Répéteur Flintronic AX1500 Wifi 6 - 1201Mbps 5GHz et 300Mbps 2,4GHz, Adapté à Tout Routeur WiFi (vendeur tiers)",
+   "price_raw": "19,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/repeteur-ax1500-wifi-6-1201mbps-5ghz-et-300mbps-24ghz-adapte-a-tout-routeur-wifi-3444725",
+   "posted_at": "2026-11-02T19:47:36+00:00"
+  },
+  {
+   "title": "Ecran PC 27\" AOC Q27G42XE - QHD, IPS, 180Hz, 1ms, HDR10",
+   "price_raw": "118,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-aoc-q27g42xe-qhd-ips-180hz-1ms-hdr10-3444715",
+   "posted_at": "2026-11-02T19:32:21+00:00"
+  },
+  {
+   "title": "Écran PC 27\" MSI MAG 274QP - WQHD, 240Hz, QD-OLED, HDR, 0.03ms",
+   "price_raw": "346,12€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-msi-mag-274qp-qd-oled-x24-27-wqhd-240hz-qd-oled-hdr-003ms-3444710",
+   "posted_at": "2026-11-02T19:28:39+00:00"
+  },
+  {
+   "title": "[RAM] (Microcenter In Store Only) G.Skill Flare X5 32GB (2 x 16GB) DDR5-6000 CL36 Dual Channel Kit | White | Dual OC Profile Support - ($399.99)",
+   "price_raw": "$399.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmkxkc/ram_microcenter_in_store_only_gskill_flare_x5/",
+   "posted_at": "2026-11-03T05:47:27+00:00"
+  },
+  {
+   "title": "[Cooler] Sudokoo SK620V (white) $69.99 at Newegg",
+   "price_raw": "$69.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmds7g/cooler_sudokoo_sk620v_white_6999_at_newegg/",
+   "posted_at": "2026-11-02T23:59:48+00:00"
+  },
+  {
+   "title": "[RAM] Corsair SHUGO 2x16GB DDR5-6000 CL28 Memory Kit - $556.99",
+   "price_raw": "$556.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmatfq/ram_corsair_shugo_2x16gb_ddr56000_cl28_memory_kit/",
+   "posted_at": "2026-11-02T21:56:20+00:00"
+  },
+  {
+   "title": "[Controller] Razer Raiju & Wolverine Controller white version $120 and 110 on woot for sale",
+   "price_raw": "$120",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmao6u/controller_razer_raiju_wolverine_controller_white/",
+   "posted_at": "2026-11-02T21:50:38+00:00"
+  },
+  {
+   "title": "[Prebuilt] Powerspec G536 - 12gb 5070, 32gb ram, 7500x3D, 1tb NVME - $1599 (Normally $2000)",
+   "price_raw": "$1599",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm8gm8/prebuilt_powerspec_g536_12gb_5070_32gb_ram/",
+   "posted_at": "2026-11-02T20:25:47+00:00"
+  },
+  {
+   "title": "[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99",
+   "price_raw": "$49.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/",
+   "posted_at": "2026-11-02T20:12:34+00:00"
+  },
+  {
+   "title": "[Controller] PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2/Switch Lite/OLED - $24.99 (64% off)",
+   "price_raw": "$24.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7stx/controller_powera_enhanced_wireless_controller/",
+   "posted_at": "2026-11-02T20:01:24+00:00"
+  },
+  {
+   "title": "[Cooler] Zalman CNPS20X Extreme Performance Dual-Tower 140mm ARGB Air Cooler 300W TDP, AM4/AM5/LGA1700/1851/2011 - $23.99 (KITS FOR AM5/LGA1700/1851 INCLUDED + EXTRA GREASE)",
+   "price_raw": "$23.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7jyh/cooler_zalman_cnps20x_extreme_performance/",
+   "posted_at": "2026-11-02T19:52:44+00:00"
+  },
+  {
+   "title": "[Headphones] Razer Kraken Kitty V2 USB Wired Headset Hello Kitty Edition - $39.99 (64% off)",
+   "price_raw": "$39.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7bzf/headphones_razer_kraken_kitty_v2_usb_wired/",
+   "posted_at": "2026-11-02T19:44:27+00:00"
+  },
+  {
+   "title": "[Cooler] (OPEN BOX) Noctua NH-U12A chromax black -120mm Single-Tower CPU Cooler Dual Fan NF-A12x25 - ($75.26)",
+   "price_raw": "$75.26",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm6s6h/cooler_open_box_noctua_nhu12a_chromax_black_120mm/",
+   "posted_at": "2026-11-02T19:24:19+00:00"
+  },
+  {
+   "title": "[Headphones] Sennheiser ACCENTUM ANC Wireless Headphones (Open Box) - $66.45 (67% off)",
+   "price_raw": "$66.45",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm6hxe/headphones_sennheiser_accentum_anc_wireless/",
+   "posted_at": "2026-11-02T19:13:45+00:00"
+  },
+  {
+   "title": "[Prebuilt] iBUYPOWER Element Gaming PC Desktop — AMD Ryzen 7 9800X3D — AMD Radeon RX 9070 GRE, 12GB — 32GB DDR5 RAM — 2TB NVMe SSD at Costco at $1800",
+   "price_raw": "$1800",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm491i/prebuilt_ibuypower_element_gaming_pc_desktop_amd/",
+   "posted_at": "2026-11-02T17:54:54+00:00"
+  },
+  {
+   "title": "[Monitor] ABS 24\" (23.8\" viewable) Full HD 1080P 260Hz IPS with AMD FreeSync 1ms HDR400 Anti-Glare Low Blue Light HDMI DisplayPort VESA Mount Gaming Computer Monitor GF241NE - $89.00 (16% off)",
+   "price_raw": "$89.00",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm2qyt/monitor_abs_24_238_viewable_full_hd_1080p_260hz/",
+   "posted_at": "2026-11-02T17:01:18+00:00"
+  },
+  {
+   "title": "[PSU] ASRock Taichi TC-1300T 1300W 80 PLUS TITANIUM ATX3.1 & PCIe5.1 - $199.99 (55% off on Newegg) A+ rated",
+   "price_raw": "$199.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xm2p85/psu_asrock_taichi_tc1300t_1300w_80_plus_titanium/",
+   "posted_at": "2026-11-02T16:59:46+00:00"
+  }
+ ],
+ "stats": {
+  "listings_seen": 121,
+  "models_with_reference": 2
+ }
+}
