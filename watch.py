@@ -16,12 +16,13 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable
 
+from composants_watch.catalog import build_catalog
 from composants_watch.config import load_config, load_watchlist
 from composants_watch.http import FetchError
 from composants_watch.models import Listing
 from composants_watch.normalize import apply
 from composants_watch.publish import build_payload, git_push, write_json
-from composants_watch.score import score
+from composants_watch.score import make_ref, score
 from composants_watch.sources.dealabs import fetch_dealabs, parse_dealabs
 from composants_watch.sources.ebay import (GENERIC_QUERIES, ebay_reference, fetch_ebay,
                                            load_credentials)
@@ -31,6 +32,7 @@ from composants_watch.store import Store
 HERE = Path(__file__).resolve().parent
 SECRETS = Path.home() / ".config" / "composants-watch"
 DEALS_REL = "docs/data/deals.json"
+CATALOG_REL = "docs/data/catalog.json"
 log = logging.getLogger("composants-watch")
 
 
@@ -61,14 +63,17 @@ def run_pass(cfg: dict, watchlist: list[dict], root: Path, *,
         health[name] = {**store.record_source(name, True, None, now), "items": len(items)}
         log.info("source %s : %d annonces", name, len(items))
 
-    scored = score(store.recent_listings(cfg["retention_days"], now), store, cfg, watchlist, now,
-                   ebay_reference(collected, cfg["ebay_min_listings"]))
+    recent = store.recent_listings(cfg["retention_days"], now)
+    ref = make_ref(store, cfg, now, ebay_reference(collected, cfg["ebay_min_listings"]))
+    scored = score(recent, store, cfg, watchlist, now, ref=ref)
+    catalog = build_catalog(recent, scored, ref, now)
     payload = build_payload(scored, health, now, down_after=cfg["down_after_failures"])
     changed = write_json(payload, root / DEALS_REL)
+    write_json(catalog, root / CATALOG_REL)
     log.info("deals.json %s — %d opportunités", "mis à jour" if changed else "inchangé",
              len(payload["opportunities"]))
     if push:
-        ok, msg = git_push(root, DEALS_REL, token_path, now)
+        ok, msg = git_push(root, [DEALS_REL, CATALOG_REL], token_path, now)
         (log.info if ok else log.error)("publication : %s", msg)
     return payload
 

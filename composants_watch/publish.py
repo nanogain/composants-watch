@@ -57,12 +57,14 @@ def _git(repo: Path, *args: str, env_extra: dict | None = None) -> subprocess.Co
                           text=True, timeout=120, env=env)
 
 
-def git_push(repo: Path, rel_path: str, token_path: Path, now: datetime) -> tuple[bool, str]:
+def git_push(repo: Path, rel_paths: str | list[str], token_path: Path, now: datetime) -> tuple[bool, str]:
     repo = Path(repo)
+    paths = [rel_paths] if isinstance(rel_paths, str) else list(rel_paths)
+    paths = [p for p in paths if (repo / p).exists()]
     try:
-        _git(repo, "add", "--", rel_path)
-        if _git(repo, "diff", "--cached", "--quiet", "--", rel_path).returncode == 1:
-            c = _git(repo, "commit", "-q", "-m", f"data: mise à jour {_iso(now)}", "--", rel_path)
+        _git(repo, "add", "--", *paths)
+        if _git(repo, "diff", "--cached", "--quiet", "--", *paths).returncode == 1:
+            c = _git(repo, "commit", "-q", "-m", f"data: mise à jour {_iso(now)}", "--", *paths)
             if c.returncode != 0:
                 return False, f"commit impossible : {c.stderr.strip()[-300:]}"
         url = _git(repo, "remote", "get-url", "origin").stdout.strip()

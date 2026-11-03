@@ -52,6 +52,15 @@ class RunPassTest(unittest.TestCase):
         self.assertEqual(p["watchlist"][0]["best"]["price_eur"], 500.0)  # normalisé par la passe
         self.assertTrue(p["watchlist"][0]["target_hit"])
 
+    def test_watch_writes_catalog(self):
+        watch.run_pass(dict(DEFAULTS), WL, self.root,
+                       fetchers={"dealabs": lambda: [make_listing(title="MSI RTX 4070 SUPER Ventus",
+                                                                  model=None, category=None)]},
+                       push=False, now=NOW)
+        cat = json.loads((self.root / "docs" / "data" / "catalog.json").read_text())
+        self.assertEqual(len(cat["items"]), 1)
+        self.assertEqual(cat["items"][0]["attrs"], {"tdp_w": 220})
+
     def test_source_down_after_5(self):
         def boom():
             raise FetchError("down")

@@ -34,10 +34,9 @@ def _effective(row: dict) -> float | None:
     return round(row["price_eur"] + (row["shipping_eur"] or 0.0), 2)
 
 
-def score(listings: list[dict], store, cfg: dict, watchlist: list[dict], now: datetime,
-          ebay_ref: dict[str, float] | None = None) -> dict:
+def make_ref(store, cfg: dict, now: datetime, ebay_ref: dict[str, float] | None = None):
+    """Médiane de référence (model, condition) mise en cache : locale, sinon eBay."""
     since = now - timedelta(days=cfg["median_window_days"])
-    targets = {w["model"]: float(w["target_eur"]) for w in watchlist}
     refs: dict[tuple[str, str], float | None] = {}
 
     def ref(model: str, condition: str) -> float | None:
@@ -47,6 +46,17 @@ def score(listings: list[dict], store, cfg: dict, watchlist: list[dict], now: da
                                      cfg["median_min_obs"])
             refs[key] = local if local is not None else (ebay_ref or {}).get(f"{model}|{condition}")
         return refs[key]
+
+    ref.cache = refs
+    return ref
+
+
+def score(listings: list[dict], store, cfg: dict, watchlist: list[dict], now: datetime,
+          ebay_ref: dict[str, float] | None = None, ref=None) -> dict:
+    since = now - timedelta(days=cfg["median_window_days"])
+    targets = {w["model"]: float(w["target_eur"]) for w in watchlist}
+    ref = ref or make_ref(store, cfg, now, ebay_ref)
+    refs = ref.cache
 
     live = [r for r in listings if not r["expired"]]
     opportunities, unclassified = [], []
