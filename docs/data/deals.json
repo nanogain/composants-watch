@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T21:08:00Z",
+ "generated_at": "2026-11-03T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-03T21:08:00.672356+00:00"
+   "last_ok": "2026-11-03T21:38:00.714434+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-03T21:08:00.672356+00:00"
+   "last_ok": "2026-11-03T21:38:00.714434+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Via Paypal] Tablette 11,2\" Xiaomi Pad 8 2026 - 12/256Go, Snapdragon 8s Gen 4, 3,2K/144Hz, Grise, 9200mAh, Charge turbo 45W, Version Globale",
+   "price_raw": "274,81€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/via-paypal-tablette-112-xiaomi-pad-8-2026-12256go-snapdragon-8s-gen-4-32k144hz-grise-9200mah-charge-turbo-45w-version-globale-3445658",
+   "posted_at": "2026-11-03T21:34:05+00:00"
+  },
+  {
+   "title": "[RAM] USED LIKED NEW PNY DDR5 16GB (1x16GB) 5600MHz CL46 Performance Desktop Memory sold by Amazon Resale | YMMV - $162.49",
+   "price_raw": "$162.49",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn5wi9/ram_used_liked_new_pny_ddr5_16gb_1x16gb_5600mhz/",
+   "posted_at": "2026-11-03T21:33:53+00:00"
+  },
   {
    "title": "Boitier NVME SSD Acasis 80Gbps M.2 , Thunderbolt 5",
    "price_raw": "126,69€",
@@ -571,24 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/liseuse-electronique-magnetique-xteink-x3-ecran-e-ink-carta-1300-37-wi-fi-bluetooth-carte-memoire-16-go-58-g-coque-incluse-3445118",
    "posted_at": "2026-11-03T10:19:07+00:00"
-  },
-  {
-   "title": "Tablette tactile Honor Pad 20 Pro - 8/256Go",
-   "price_raw": "378,28€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-honor-pad-20-pro-8256go-3444159",
-   "posted_at": "2026-11-03T10:14:08+00:00"
-  },
-  {
-   "title": "Carte Mère Soyo Eternel B650ITX - WiFi 6, DDR5, socket AM5, compatible Ryzen 9600X 9800X",
-   "price_raw": "82,06€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
-   "posted_at": "2026-11-01T14:41:23+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 219,
+  "listings_seen": 221,
   "models_with_reference": 7
  }
 }
