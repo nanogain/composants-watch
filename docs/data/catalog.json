@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T08:38:00Z",
+ "generated_at": "2026-11-04T09:08:00Z",
  "version": 1,
  "items": [
   {
@@ -263,30 +263,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-5000d-rs-argb-blanc-refroidissement-360-argb-alimentation-rm750e-750w-3444126",
    "posted_at": "2026-11-02T09:27:22+00:00"
-  },
-  {
-   "id": "dealabs:3440419",
-   "category": "COOL",
-   "model": "COOL:Air",
-   "title": "Ventirad Cooler Master V4 ALPHA 3DHP (AM4, AM5 LGA 1700 / 1200 / 115x-)",
-   "condition": "new",
-   "effective_eur": 24.95,
-   "median_eur": 24.99,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "type": "air",
-    "sockets": [
-     "AM4",
-     "AM5",
-     "LGA1200",
-     "LGA1700"
-    ]
-   },
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ventirad-cooler-master-v4-alpha-3dhp-3440419",
-   "posted_at": "2026-10-28T09:05:21+00:00"
   },
   {
    "id": "dealabs:3442142",
@@ -795,15 +771,34 @@
    "posted_at": "2026-11-04T08:17:27+00:00"
   },
   {
+   "id": "dealabs:3445904",
+   "category": "KBD",
+   "model": "KBD:Membrane-Complet",
+   "title": "Clavier filaire MSI Forge GK110 - à membrane, RGB, touches multimédia, base antidérapante, inclinaison réglable",
+   "condition": "new",
+   "effective_eur": 19.92,
+   "median_eur": 46.87,
+   "deal": true,
+   "discount_pct": 57.5,
+   "attrs": {
+    "type": "Membrane",
+    "layout": "Complet"
+   },
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/clavier-filaire-msi-forge-gk110-a-membrane-rgb-touches-multimedia-base-antiderapante-inclinaison-reglable-3445904",
+   "posted_at": "2026-11-04T09:00:17+00:00"
+  },
+  {
    "id": "dealabs:3443976",
    "category": "KBD",
    "model": "KBD:Membrane-Complet",
    "title": "Clavier Sans Fil Bluetooth + 2,4GHz Cherry KW 9200 Mini - Azerty, Noir",
    "condition": "new",
    "effective_eur": 19.99,
-   "median_eur": 59.99,
+   "median_eur": 46.87,
    "deal": true,
-   "discount_pct": 66.7,
+   "discount_pct": 57.4,
    "attrs": {
     "type": "Membrane",
     "layout": "Complet"
@@ -896,7 +891,7 @@
    "title": "Clavier Logitech Signature Slim K950",
    "condition": "new",
    "effective_eur": 59.99,
-   "median_eur": 59.99,
+   "median_eur": 46.87,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -915,7 +910,7 @@
    "title": "Clavier sans fil Apple Magic Keyboard",
    "condition": "new",
    "effective_eur": 77.38,
-   "median_eur": 59.99,
+   "median_eur": 46.87,
    "deal": false,
    "discount_pct": null,
    "attrs": {
