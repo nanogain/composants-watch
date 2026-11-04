@@ -60,3 +60,7 @@ footer { font-size:.85rem; padding:24px 16px 40px; }
 #cfg-recap { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:4px 16px 14px; position:sticky; top:12px; }
 #cfg-recap h2 { margin:12px 0 4px; }
 .cfg-total { font-size:1.2rem; margin:6px 0; }
+
+input.search { font:inherit; padding:4px 6px; border-radius:6px; border:1px solid var(--line); background:var(--card); color:var(--fg); }
+input.search.price { width:7em; }
+#all-table th { cursor:default; }

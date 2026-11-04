@@ -76,5 +76,14 @@ class ConfigUiTest(unittest.TestCase):
         self.assertEqual(run("search")["opts"], ["", "dealabs:3"])
 
 
+    def test_all_listings_search(self):
+        r = run("all_search")
+        self.assertEqual(r["rowsAll"], r["total"])
+        self.assertGreater(r["rows"], 0)
+        self.assertLess(r["rows"], r["total"])
+        self.assertTrue(all("ryzen" in t.lower() for t in r["titles"]), r["titles"])
+        self.assertRegex(r["count"], r"^\d+ résultats?$")
+        self.assertIn("indisponibles", r["meta"])
+
 if __name__ == "__main__":
     unittest.main()
