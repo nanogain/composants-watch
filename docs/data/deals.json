@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T00:08:00Z",
+ "generated_at": "2026-11-04T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-04T00:08:00.684314+00:00"
+   "last_ok": "2026-11-04T02:08:00.626170+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T00:08:00.684314+00:00"
+   "last_ok": "2026-11-04T02:08:00.626170+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Laptop] BestBuy, Open Box-Excellent ASUS - ROG Strix G16 16\" FHD 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB Memory - GeForce RTX 5070 Ti - 1TB Storage - Eclipse Gray $1677. $1604 for Good condition at Local Store",
+   "price_raw": "$1677",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnblg3/laptop_bestbuy_open_boxexcellent_asus_rog_strix/",
+   "posted_at": "2026-11-04T01:42:14+00:00"
+  },
   {
    "title": "[Headphones] Apple AirPods Pro 3 with MagSafe Charging Case USB-C | MFHP4LL/A, Refurbished - $127.99 (w/code: SAVE20TECH)",
    "price_raw": "$127.99",
@@ -578,17 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/serrure-connectee-ezviz-serrure-dl01-pro-clavier-hub-3443951",
    "posted_at": "2026-11-02T07:22:57+00:00"
-  },
-  {
-   "title": "Smartphone 4,5\" Unihertz Titan 2 - RAM 12 Go, 512 Go, Dimensity 7300, Clavier Physique, Double Écran, Origine SK",
-   "price_raw": "319,36€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/smartphone-unihertz-titan-2-5g-12-go-ram-512-go-dimensity-7300-clavier-physique-double-ecran-3443219",
-   "posted_at": "2026-11-01T09:37:16+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 229,
+  "listings_seen": 230,
   "models_with_reference": 7
  }
 }
