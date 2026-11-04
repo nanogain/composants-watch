@@ -1,21 +1,26 @@
 {
- "generated_at": "2026-11-04T11:08:00Z",
+ "generated_at": "2026-11-04T11:24:51Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-04T11:08:00.690208+00:00"
+   "last_ok": "2026-11-04T11:24:51.143071+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T11:08:00.690208+00:00"
+   "last_ok": "2026-11-04T11:24:51.143071+00:00"
   },
   "ebay": {
-   "status": "disabled",
-   "items": 0,
-   "last_ok": null
+   "status": "ok",
+   "items": 371,
+   "last_ok": "2026-11-04T11:24:51.143071+00:00"
+  },
+  "dealabs_verif": {
+   "status": "ok",
+   "items": 80,
+   "last_ok": "2026-11-04T11:24:51.143071+00:00"
   }
  },
  "watchlist": [
@@ -23,132 +28,18 @@
    "model": "GPU:RTX 4070 Super",
    "label": "RTX 4070 Super",
    "target_eur": 550.0,
-   "best": null,
+   "best": {
+    "price_eur": 937.6,
+    "url": "https://www.ebay.fr/itm/257717864803?_skw=RTX+4070+Super&hash=item3c012e8963:g:c10AAeSwKVxql8gu",
+    "merchant": "eBay · necrosiak (100,0 %, 338 avis)",
+    "source": "ebay"
+   },
    "median_30d": null,
    "target_hit": false,
-   "never_seen": true
+   "never_seen": false
   }
  ],
  "opportunities": [
-  {
-   "title": "Clavier mécanique Machenike KG98 96% - Tri-mode, Hot-swap, Switches Ice Cream Pro Max Orange, Qwerty US",
-   "model": "KBD:Mécanique-Complet",
-   "category": "KBD",
-   "condition": "new",
-   "price_eur": 29.99,
-   "shipping_eur": null,
-   "effective_eur": 29.99,
-   "median_eur": 86.04,
-   "discount_pct": 65.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "JoyBuy",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/clavier-mecanique-machenike-kg98-96-tri-mode-hot-swap-switches-ice-cream-pro-max-orange-qwerty-us-3442223",
-   "posted_at": "2026-10-30T17:08:26+00:00"
-  },
-  {
-   "title": "Boîtier PC Antec AX20 ATX",
-   "model": "CASE:ATX",
-   "category": "CASE",
-   "condition": "new",
-   "price_eur": 26.94,
-   "shipping_eur": null,
-   "effective_eur": 26.94,
-   "median_eur": 64.08,
-   "discount_pct": 58.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Grosbill",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/atec-ax20-boitier-pc-atx-3444485",
-   "posted_at": "2026-11-02T15:37:42+00:00"
-  },
-  {
-   "title": "Clavier filaire MSI Forge GK110 - à membrane, RGB, touches multimédia, base antidérapante, inclinaison réglable",
-   "model": "KBD:Membrane-Complet",
-   "category": "KBD",
-   "condition": "new",
-   "price_eur": 19.92,
-   "shipping_eur": null,
-   "effective_eur": 19.92,
-   "median_eur": 46.87,
-   "discount_pct": 57.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/clavier-filaire-msi-forge-gk110-a-membrane-rgb-touches-multimedia-base-antiderapante-inclinaison-reglable-3445904",
-   "posted_at": "2026-11-04T09:00:17+00:00"
-  },
-  {
-   "title": "Clavier Sans Fil Bluetooth + 2,4GHz Cherry KW 9200 Mini - Azerty, Noir",
-   "model": "KBD:Membrane-Complet",
-   "category": "KBD",
-   "condition": "new",
-   "price_eur": 19.99,
-   "shipping_eur": null,
-   "effective_eur": 19.99,
-   "median_eur": 46.87,
-   "discount_pct": 57.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Darty",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/clavier-sans-fil-bluetooth-24ghz-cherry-kw-9200-mini-azerty-noir-3443976",
-   "posted_at": "2026-11-02T07:41:32+00:00"
-  },
-  {
-   "title": "Boîtier PC Antec AX61 Elite noir - ATX, 4 ventilateurs ARGB 120 mm",
-   "model": "CASE:ATX",
-   "category": "CASE",
-   "condition": "new",
-   "price_eur": 34.0,
-   "shipping_eur": null,
-   "effective_eur": 34.0,
-   "median_eur": 64.08,
-   "discount_pct": 46.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Grosbill",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-antec-ax61-elite-noir-atx-4-ventilateurs-argb-120-mm-3444517",
-   "posted_at": "2026-11-02T16:15:54+00:00"
-  },
-  {
-   "title": "Boitier PC be quiet! Pure Base 501 - boîtier midi tower",
-   "model": "CASE:ATX",
-   "category": "CASE",
-   "condition": "new",
-   "price_eur": 44.9,
-   "shipping_eur": null,
-   "effective_eur": 44.9,
-   "median_eur": 64.08,
-   "discount_pct": 29.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Alternate",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/be-quiet-pure-base-501-boitier-midi-tower-3444654",
-   "posted_at": "2026-11-02T18:31:39+00:00"
-  },
-  {
-   "title": "SSD interne Netac NV3000 M2 - 1 To",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 92.39,
-   "shipping_eur": null,
-   "effective_eur": 92.39,
-   "median_eur": 127.47,
-   "discount_pct": 27.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-nv3000-m2-1-to-3441243",
-   "posted_at": "2026-10-29T10:48:31+00:00"
-  },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
    "model": "SSD:NVMe-1To",
@@ -157,8 +48,8 @@
    "price_eur": 94.77,
    "shipping_eur": null,
    "effective_eur": 94.77,
-   "median_eur": 127.47,
-   "discount_pct": 25.7,
+   "median_eur": 135.67,
+   "discount_pct": 30.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -167,394 +58,377 @@
    "posted_at": "2026-11-03T13:34:10+00:00"
   },
   {
-   "title": "SSD M2 NVMe Cusu 3500Q - 1 To (Gen3)",
+   "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
    "condition": "new",
-   "price_eur": 96.99,
+   "price_eur": 113.56,
    "shipping_eur": null,
-   "effective_eur": 96.99,
-   "median_eur": 127.47,
-   "discount_pct": 23.9,
+   "effective_eur": 113.56,
+   "median_eur": 135.67,
+   "discount_pct": 16.3,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
-   "posted_at": "2026-11-01T11:54:24+00:00"
-  },
-  {
-   "title": "Boitier PC Deepcool CH260, Mini tour, Format M-ATX - Noir",
-   "model": "CASE:mATX",
-   "category": "CASE",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": null,
-   "effective_eur": 49.99,
-   "median_eur": 65.15,
-   "discount_pct": 23.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Grosbill",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-deepcool-ch260-mini-tour-format-m-atx-noir-3440758",
-   "posted_at": "2026-10-28T15:43:52+00:00"
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
+   "posted_at": "2026-11-03T17:49:12+00:00"
   }
  ],
  "unclassified": [
   {
-   "title": "PC de Bureau CSL Sprint 5787 - R7 5700, RTX 5060 TI 8G, 32 Go DDR4, 1To SSD NVMe",
-   "price_raw": "1 099€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-csl-computer-r7-5700-rtx-5060-ti-8g-32-go-ddr4-3446054",
-   "posted_at": "2026-11-04T11:04:32+00:00"
+   "title": "Carte graphique Gigabyte GTX 1070 G1 Gaming 8Go - Parfait état / Boîte d'origine",
+   "price_raw": "83.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257832749452?_skw=carte+graphique&hash=item3c0807898c:g:DjwAAeSwdV1q6i63",
+   "posted_at": "2026-11-03T19:00:53+00:00"
   },
   {
-   "title": "Carte Son Externe USB Fosi Audio K5 Pro - Amplificateur Casque Hi-Fi, Entrée Micro 3,5mm",
-   "price_raw": "42,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-son-externe-usb-fosi-audio-k5-pro-amplificateur-casque-hi-fi-entree-micro-35-mm-3446028",
-   "posted_at": "2026-11-04T10:33:35+00:00"
+   "title": "ASUS ROG STRIX GTX 1060 6 Go DDR5 carte graphique HDMI/DP/DVI",
+   "price_raw": "57.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257832314766?_skw=carte+graphique&hash=item3c0800e78e:g:kmMAAeSwqj9q6e0b",
+   "posted_at": "2026-11-03T14:38:12+00:00"
   },
   {
-   "title": "20% de remise fidélité sur les PC, TV, Smartphones, Tablettes et GEM dès 450€ d'achat (Apple & promos inclus - hors catalogue Black Friday)",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/20-de-remise-fidelite-sur-les-pc-tv-smartphones-tablettes-et-gem-des-450eur-dachat-apple-promos-inclus-hors-catalogue-black-friday-3446027",
-   "posted_at": "2026-11-04T10:33:22+00:00"
+   "title": "Carte Graphique MSI Nvidia Geforce GTX 1050 TI Gaming X 4Go",
+   "price_raw": "59.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940047880219?_skw=carte+graphique&hash=itemdadf38501b:g:PUwAAeSwFppq4fA3",
+   "posted_at": "2026-10-28T12:53:50+00:00"
   },
   {
-   "title": "Pack Clavier et Souris Filaire Trust Taro",
-   "price_raw": "14,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/trust-taro-pack-clavier-et-souris-filaires-azerty-francais-noir-3446016",
-   "posted_at": "2026-11-04T10:32:22+00:00"
+   "title": "carte graphique Nvidia RTX A400 4gb GDDR6",
+   "price_raw": "156.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117491414269?_skw=carte+graphique&hash=item1b5b08b4fd:g:9JgAAeSwR9Rq1Pl9",
+   "posted_at": "2026-10-28T07:16:49+00:00"
   },
   {
-   "title": "[Other] Refurbished Sabrent USB 3.0 Hard Drive Enclosure, 2.5 / 3.5 HDD Sata Adapter - $7.99 w/ code SABRENT",
-   "price_raw": "$7.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnk5zl/other_refurbished_sabrent_usb_30_hard_drive/",
-   "posted_at": "2026-11-04T09:45:54+00:00"
+   "title": "PNY Quadro P1000 4Go GDDR5 Carte Graphique Low Profile",
+   "price_raw": "68.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800509318203?_skw=carte+graphique&hash=itemba6212d43b:g:zZwAAeSwNrZpF3Xs",
+   "posted_at": "2026-08-14T23:00:42+00:00"
   },
   {
-   "title": "PC Portable 16\" MSI raider 16 HX B2WI-016FR - QHD, 240hz, Intel Core Ultra AI 9, 32 Go RAM, 1 To SSD, Nvidia Geforce RTX 5080",
-   "price_raw": "2 799,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-msi-gaming-raider-16-hx-b2wi-016fr-16-qhd-240-hz-intel-core-ultra-ai-9-32-go-ram-1-to-ssd-nvidia-geforce-rtx-5080-anthracite-3445966",
-   "posted_at": "2026-11-04T09:36:56+00:00"
+   "title": "Carte graphique NVIDIA NVS 510 2Go DDR3 4x Mini DisplayPort x16 Garantie : 2 ans",
+   "price_raw": "26.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800837402505?_skw=carte+graphique&hash=itemba75a0ff89:g:kUMAAeSwIhZq3h9y&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mKrZpoyzY6M7e%2Be2S%2BN9PhBEztcTIzdOfwD6gAp%2FOWdKmv1YaquCYbTpyjQlwHWEjMtTUabvwcXYtVIjaahqKMNG1kY9O5U8fyYhd8oprpHpX%2FtXoBBpADYZTM5G%2FgQ25iK%2BcrXjSDEljbgEvOB4RJUe8bYOPcwfdBnz7kR7pIkHimvCnoIX5UIUaUU8KEH9Rv8yXKwqojhofswPb%2FNbUipUCP%2F7TpxTIvQojEzb2AHtXgq8Gwt%2FYXtKP8Suz07YgIB6Gw%2F4%2ByI80lC5OcLsPdwiDzTUXA4SGT6TVBNdiwkQ%3D%3D",
+   "posted_at": "2026-10-25T16:32:30+00:00"
   },
   {
-   "title": "[Keyboard] Rosewill Neon S75 Wireless Mechanical Gaming Keyboard, 80-Key Layout w/ Volume Knob, Bluetooth / 2.4GHz / USB-C, Hot-Swappable Red Switches, RGB Backlit, 6000mAh Battery, Black - $35.99 (w/code: SSF74444)",
-   "price_raw": "$35.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnixy8/keyboard_rosewill_neon_s75_wireless_mechanical/",
-   "posted_at": "2026-11-04T08:24:11+00:00"
+   "title": "Carte graphique NVIDIA Tesla K20",
+   "price_raw": "37.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940011871694?_skw=carte+graphique&hash=itemdadd12ddce:g:2SgAAeSwBVpqznQi",
+   "posted_at": "2026-10-13T18:13:20+00:00"
   },
   {
-   "title": "[Other] GLORIOUS Gaming Wooden Keyboard Wrist Rest (Compact) - White Ash Wood, Medium-Coarse Grain, Smooth Surface, Sweat & Oil Resistant, Easy Clean, Anti-Slip Rubber Base, 13\" x 4\" x 0.79\" - Onyx -$5.99",
-   "price_raw": "$5.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnix0n/other_glorious_gaming_wooden_keyboard_wrist_rest/",
-   "posted_at": "2026-11-04T08:22:27+00:00"
+   "title": "Carte graphique GPU Nvidia Gigabyte Geforce GTX 760 OC 4GB",
+   "price_raw": "39.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407259973060?_skw=carte+graphique&hash=item5ed29605c4:g:PD8AAeSwSaZqvp44",
+   "posted_at": "2026-10-01T18:06:41+00:00"
   },
   {
-   "title": "APPLE iPad 11\" A16 128GB",
-   "price_raw": "439,69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-ipad-11-a16-128gb-3445861",
-   "posted_at": "2026-11-04T07:58:47+00:00"
+   "title": "Carte graphique amd Radeon re 640 4g cpu vrai",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327181422728?_skw=carte+graphique&hash=item4c2d885088:g:hfkAAeSwAyNqFygN",
+   "posted_at": "2026-05-27T17:25:19+00:00"
   },
   {
-   "title": "Reconditionné : PC portable 14\" Dell Latitude 3410 - i5, 16Go RAM, 256Go SSD",
-   "price_raw": "469€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-dell-latitude-3410-i5-16-go-ram-ssd-256-go-reconditionne-3445755",
-   "posted_at": "2026-11-04T05:27:47+00:00"
+   "title": "Carte Graphique Rebtech AMD RX 470 8go Mining Edition USB - Occasion",
+   "price_raw": "39.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/356628816519?_skw=carte+graphique&hash=item5308bbe287:g:42AAAOSwIvVklBnE",
+   "posted_at": "2025-03-03T06:10:30+00:00"
   },
   {
-   "title": "[Mouse] End Game Gear OP1 8K v2 49.5g Mouse - $51.25 - Free shipping for Prime members",
-   "price_raw": "$51.25",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnffre/mouse_end_game_gear_op1_8k_v2_495g_mouse_5125/",
-   "posted_at": "2026-11-04T04:56:30+00:00"
+   "title": "Carte Graphique Nvidia Tesla C2050 3go  Dvi Ok",
+   "price_raw": "45.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168837182757?_skw=carte+graphique&hash=item274f7af525:g:Ms8AAeSwByhq6vvd",
+   "posted_at": "2026-11-04T09:34:24+00:00"
   },
   {
-   "title": "[Laptop] BestBuy, Open Box-Excellent ASUS - ROG Strix G16 16\" FHD 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB Memory - GeForce RTX 5070 Ti - 1TB Storage - Eclipse Gray $1677. $1604 for Good condition at Local Store",
-   "price_raw": "$1677",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnblg3/laptop_bestbuy_open_boxexcellent_asus_rog_strix/",
-   "posted_at": "2026-11-04T01:42:14+00:00"
+   "title": "adaptateur 12 broches males pour carte graphique certifié nvidia RTX",
+   "price_raw": "7.59 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128172884058?_skw=carte+graphique&hash=item1dd7b3005a:g:ARAAAeSwli9qeumY",
+   "posted_at": "2026-11-03T14:25:21+00:00"
   },
   {
-   "title": "[Headphones] Apple AirPods Pro 3 with MagSafe Charging Case USB-C | MFHP4LL/A, Refurbished - $127.99 (w/code: SAVE20TECH)",
-   "price_raw": "$127.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn95ve/headphones_apple_airpods_pro_3_with_magsafe/",
-   "posted_at": "2026-11-03T23:50:09+00:00"
+   "title": "Carte Vidéo Graphique Dell AMD Radeon R5 340X 2GB PCIe DVI+DP Low Profile (LP)",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/265665152860?_skw=carte+graphique&hash=item3ddae0875c:g:1ygAAOSwxStiaVJi",
+   "posted_at": "2022-04-27T14:30:55+00:00"
   },
   {
-   "title": "[Headphones] Sony WH-1000XM5 Wireless Noise Canceling Headphones Black, Refurbished - $127.99 (w/code: SAVE20TECH)",
-   "price_raw": "$127.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn8vmm/headphones_sony_wh1000xm5_wireless_noise/",
-   "posted_at": "2026-11-03T23:37:32+00:00"
+   "title": "Carte graphique AMD ATI radeon R9 270 2GB",
+   "price_raw": "29.82 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318839954859?_skw=carte+graphique&hash=item4a3c579dab:g:vEIAAeSw7cVqnwkz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k2WaDytDCgMIkdylyjx%2F2mHHOhTGG7qaOPcAflWdfxrSbIHi%2Bzq8dkNFMd91eQyiEFmXbc8gibUHiK7dH9wl7Fx9g1u0YpVcJiqwXwmkhb9Jsg4dGSmVFol%2Bw7Cp5RQ6W5IVov0%2B68rVnYMzA9jGh%2BsTO6eg01ZrOuVWsMqgf%2FloRo3vFNnv7YMdE4H72eaKjucp%2FReeRQgkPOnFvbiWk5cK9y2zWlVvDf8LZfHlAINxeysXRnv72vsd4R8XN5gTIfh7ElYV15cAwPuR%2BzShWnUqY7bpNdCuoJObDM4OqacA%3D%3D",
+   "posted_at": "2026-09-07T18:59:39+00:00"
   },
   {
-   "title": "[Via Paypal] Tablette 11,2\" Xiaomi Pad 8 Pro 2026 - 12/512Go, Snapdragon 8 Elite, 3,2k/144 Hz, Grise, 9200mAh, HyperCharge 67W, Wi-Fi 7",
-   "price_raw": "377,13€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/via-paypal-tablette-112-xiaomi-pad-8-pro-2026-12512go-32k-144-hz-snapdragon-8-elite-9200mah-hypercharge-67w-wi-fi-7-3445682",
-   "posted_at": "2026-11-03T22:23:07+00:00"
+   "title": "Carte graphique MSI GeForce GT 710 2GD3H LP 2 Go DDR3 HDMI DVI VGA",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/155784771757?_skw=carte+graphique&hash=item24457ef8ad:g:~mAAAOSwAvtlC0FM&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nyTxemkv50OWP8s1BDiR8OYgZFD6PQDQHZgetmjo%2F8lijwV148TVi8PMdY42z0eQo%2BHn%2BpZJ1RVczDbXrvNhAK5uvO8BXnlkLTMk4xWAKW03cMFpIPGlmjdkrJSooNS5p0syJ8zaRjjmjMPbhZ6jtVDJwWURNPlT1XG8DJPqTExlSNqJSYZkkNmXatvwQn1xkVVN%2BrPl3zRvW4SRr7QjraBAU22zhz%2B5PK2VWFwMKNIXEJclbfrcBnSdwWmSeMvaDBtTDQPHXyVsvkEGnmlx8O0kK%2FXfmbAOsitrVKYPZ3zg%3D%3D",
+   "posted_at": "2023-09-20T19:02:18+00:00"
   },
   {
-   "title": "PC Portable 16\" MSI Pulse A16 AI+ C3HWGKG-004FR - AMD Ryzen AI 7 350,16 Go DDR5, SSD 1 To, RTX5070 8 Go",
-   "price_raw": "1 599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-gaming-msi-pulse-a16-ai-c3hwgkg-004fr-amd-ryzen-ai-7-350-16gb-ddr5-ssd-1tb-rtx5070-8gb-16-qhd-240hz-windows-11-famille-3445672",
-   "posted_at": "2026-11-03T22:08:20+00:00"
+   "title": "Carte Vidéo Graphique Hp NVIDIA GT 730 2GB GDDR5 DVI+DP - Low & Standard Profile",
+   "price_raw": "32.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/265981439713?_skw=carte+graphique&hash=item3dedbaaee1:g:rm0AAOSwmllmcD3b",
+   "posted_at": "2022-11-09T18:06:29+00:00"
   },
   {
-   "title": "[Monitor] Acer Predator X34 F1 34\" 3440×1440 360Hz Penta Tandem QD-OLED, HDMI 2.1, USB-C 65W is $694.99 at B&H",
-   "price_raw": "$694.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn72j7/monitor_acer_predator_x34_f1_34_34401440_360hz/",
-   "posted_at": "2026-11-03T22:20:14+00:00"
+   "title": "S3 Trio64V2/DX - Carte graphique - PCI - VGA",
+   "price_raw": "21.49 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267832073568?_skw=carte+graphique&hash=item3e5c091d60:g:9GUAAeSwxF9q6d9r",
+   "posted_at": "2026-11-03T13:20:30+00:00"
   },
   {
-   "title": "[Monitor] AOC 2K 26.5\" QD-OLED Monitor ($289.99 - $231.99 with coupon code SAVE20TECH)",
-   "price_raw": "$289.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn6mu9/monitor_aoc_2k_265_qdoled_monitor_28999_23199/",
-   "posted_at": "2026-11-03T22:03:03+00:00"
+   "title": "Carte graphique Sapphire ATI Radeon HD 5870 1GB",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/317395956426?_skw=carte+graphique&hash=item49e645f2ca:g:qrMAAeSwQ1po6O1i&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nnmY%2Bt7%2BlNWQCHvjg5LIVVjP4GOXrSCxJLQLJPJ9yHsnTxm1I68yBpPJlEXNQICvGsWFKID3zm5yu2lcHqYwaOk0Vbtmx%2F7wv8Rv%2BcXUs%2Bq9LD2BCqY8NiOpOpp7Svb4%2BLwiKmIFicVL7TpCmCc7ywqmoTEemHQNrKx%2FDCrkG1NntFQAZ5UFEWQ4PSORdyFQzoFO31or5oQOvoYenI%2BtEk28Yo5E4dcWFxnaQIRIINwU9%2BPcIwq3iglia0jsitEDl0CIlCnaZcFMmuhxpwnQIBbxWKNsEUN5zph4Z%2FoDrcCA%3D%3D",
+   "posted_at": "2025-10-10T11:30:24+00:00"
   },
   {
-   "title": "[Bunlde] (Micro Center Instore only) Intel Core Ultra 5 250KF + ASUS B860M-A Prime Motherboard + 32gb DDR5 G.Skill 6000 $499.99",
-   "price_raw": "$499.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn6glg/bunlde_micro_center_instore_only_intel_core_ultra/",
-   "posted_at": "2026-11-03T21:56:17+00:00"
+   "title": "Carte graphique Sapphire Vapor-X HD 5750 1GB",
+   "price_raw": "23.58 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318358577848?_skw=carte+graphique&hash=item4a1fa662b8:g:jTAAAeSwhrZqFE68&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kIrQkcpj7Fi0AY6anHCoChD7uE46zdMlcXllERZ%2BOwx81p5ZRzUjuCH03EVkFGSJQKlfVljUcXfiIG3rzaCiyLZ5kmn5WZXNxqtBmPaWSBdGpcz2KmBYuu57GAKdTXr%2FG%2FfVU%2FI%2F84saZAww7UMExbJE0zNKxygCBbSsU0w%2BefgnRoPTUyET2JcfmAInZVZz8aopLnCSjJ3Qfm46yx5wxRjG3KLLco0%2F3C2J8txrwF1CzDIsct1iARVkKOCucgIbPhUZQ%2FFM1itwof94fh4vZF8WxCVRKZFXIq08wWG8VFAg%3D%3D",
+   "posted_at": "2026-05-25T13:32:40+00:00"
   },
   {
-   "title": "[Via Paypal] Tablette 11,2\" Xiaomi Pad 8 2026 - 12/256Go, Snapdragon 8s Gen 4, 3,2K/144Hz, Grise, 9200mAh, Charge turbo 45W, Version Globale",
-   "price_raw": "274,81€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/via-paypal-tablette-112-xiaomi-pad-8-2026-12256go-snapdragon-8s-gen-4-32k144hz-grise-9200mah-charge-turbo-45w-version-globale-3445658",
-   "posted_at": "2026-11-03T21:34:05+00:00"
+   "title": "PNY Quadro P4000 8Go GDDR5 Carte Graphique (VCQP4000-PB)",
+   "price_raw": "119.26 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198766174420?_skw=carte+graphique&hash=item2e476320d4:g:pEkAAeSwIG5q6Oe~",
+   "posted_at": "2026-11-02T19:43:47+00:00"
   },
   {
-   "title": "[RAM] USED LIKED NEW PNY DDR5 16GB (1x16GB) 5600MHz CL46 Performance Desktop Memory sold by Amazon Resale | YMMV - $162.49",
-   "price_raw": "$162.49",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn5wi9/ram_used_liked_new_pny_ddr5_16gb_1x16gb_5600mhz/",
-   "posted_at": "2026-11-03T21:33:53+00:00"
+   "title": "MSI GeForce GT 710 1GB DDR3 LP Carte Graphique Low Profile HDMI DVI VGA",
+   "price_raw": "24.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366365525313?_skw=carte+graphique&hash=item554d164541:g:NikAAeSwbc9pqFdf",
+   "posted_at": "2026-04-23T20:04:59+00:00"
   },
   {
-   "title": "Boitier NVME SSD Acasis 80Gbps M.2 , Thunderbolt 5",
-   "price_raw": "126,69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-nvme-ssd-acasis-80gbps-m2-thunderbolt-5-3445640",
-   "posted_at": "2026-11-03T20:59:14+00:00"
+   "title": "PNY NVIDIA GeForce 8800 GTS – Carte Graphique PCI Express – Vintage Rétro",
+   "price_raw": "35.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377603324772?_skw=carte+graphique&hash=item57eae97b64:g:ZnYAAeSwynJq4dJ9",
+   "posted_at": "2026-10-28T10:48:15+00:00"
   },
   {
-   "title": "[Mouse] LOGITECH G PRO 2 LIGHTSPEED MAGENTA (Restock) $59.99",
-   "price_raw": "$59.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn4h0b/mouse_logitech_g_pro_2_lightspeed_magenta_restock/",
-   "posted_at": "2026-11-03T20:38:44+00:00"
+   "title": "Carte Graphique XFX Nvidia Geforce GTX 285 1 Go PCI-E",
+   "price_raw": "39.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137876624075?_skw=carte+graphique&hash=item201a1652cb:g:t04AAeSwquRq30vc",
+   "posted_at": "2026-10-26T12:48:34+00:00"
   },
   {
-   "title": "Souris filaire Logitech G G502 X - capteur gaming HERO 25K",
-   "price_raw": "38,45€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-filaire-logitech-g-g502-x-capteur-gaming-hero-25k-3445616",
-   "posted_at": "2026-11-03T20:21:20+00:00"
+   "title": "Carte graphique MSI N640 2GB",
+   "price_raw": "24.62 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318840025695?_skw=carte+graphique&hash=item4a3c58b25f:g:drAAAeSw90tqnw2c&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kF4ECVM4TuhX8C1UP%2BDCjWXeiles%2Fp9a2JJ8CrKXhf7w0NOKnzBXoLWpcuinrwaLf%2BYpAzXbNOECKFOB6fzGQU5FPIGspYaVkvbCLvenncTaFgkr1DDE4f9pP8Bs8y3ZB5en5vcVoHctn9BsDMNJ6Uy3y9YQtOFvLhnMK%2FJtipkWK3u98d6UEqc%2FJvRrmqhUKFHhqt%2FJOap%2Flv4NEFcJf3vfvn3CVyE%2FEG9YotNKzPzGIhpIAqcLr7rFuCN0kSzOOWZcEUMxeKgk5htrCl7x67HsJeqaKmzbU3LF7Mt5MQKg%3D%3D",
+   "posted_at": "2026-09-07T19:16:59+00:00"
   },
   {
-   "title": "Routeur Wi-Fi 6 de voyage sans fil Gigabit GL.iNet GL-MT3000 (Beryl AX) - connectez le Wi-Fi public/hôtel, portail captif, sécurité ciblée",
-   "price_raw": "76,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/glinet-gl-mt3000-beryl-ax-routeur-gigabit-de-voyage-sans-fil-wi-fi-6-connectez-le-wi-fi-public-et-hotel-portail-captif-securite-ciblee-3445605",
-   "posted_at": "2026-11-03T20:07:00+00:00"
+   "title": "Intel Core i5 Processeur i5-4440 SR14F 3,10 GHz CPU",
+   "price_raw": "13.12 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327436115905?_skw=processeur&hash=item4c3cb69fc1:g:GvgAAeSwXJlq6Q4-",
+   "posted_at": "2026-11-02T22:28:15+00:00"
   },
   {
-   "title": "Apple Mac Mini avec Puce Apple M6 - 16Go, 256 Go",
-   "price_raw": "948€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-m6-16-go-ram-256-go-ssd-gpu-12-coeurs-3445601",
-   "posted_at": "2026-11-03T20:00:39+00:00"
+   "title": "Processeurs Intel Core i3 i5 i7 Xeon E5 – LGA 1150 1151 1155 – Plusieurs modèles",
+   "price_raw": "8.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377488237358?_skw=processeur&hash=item57e40d632e:g:cC4AAeSwf8pqo87r",
+   "posted_at": "2026-09-12T22:00:43+00:00"
   },
   {
-   "title": "Tablette 13\" Lenovo Idea Tab Pro Gen 2 - 3.5K, RAM 8 Go, 128 Go + Stylet inclus, Jelly Mint",
-   "price_raw": "399€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-13-lenovo-idea-tab-pro-gen-2-35k-ram-8-go-128-go-stylet-inclus-jelly-mint-3445572",
-   "posted_at": "2026-11-03T19:26:45+00:00"
+   "title": "INTEL - CPU Processeur XEON E3-1240v5 à 3,5 GHz - SR2LD",
+   "price_raw": "8.66 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/326654568781?_skw=processeur&hash=item4c0e21294d:g:SJQAAeSwKqBoWPUz",
+   "posted_at": "2025-06-23T06:34:17+00:00"
   },
   {
-   "title": "Tablette 11\" Lenovo Yoga Tab Gen 2 - 2.5K 90Hz, Dimensity 6300, 8 Go RAM, 256 Go, 7040 mAh",
-   "price_raw": "529,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-11-lenovo-yoga-tab-gen-2-25k-90hz-dimensity-6300-4-go-ram-256-go-7040-mah-3445562",
-   "posted_at": "2026-11-03T19:18:47+00:00"
+   "title": "Intel Core i5-760 Processeur Core i5 2,80 GHz Numéro pièce SLBRP",
+   "price_raw": "10.28 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327436114818?_skw=processeur&hash=item4c3cb69b82:g:QDkAAeSwzqNq6Q3F",
+   "posted_at": "2026-11-02T22:26:36+00:00"
   },
   {
-   "title": "PC de bureau Lenovo LOQ Tower 26ADR10 - Ryzen 7 8745HX, RTX 5060, 16 Go RAM, 512 Go SSD, Win 11",
-   "price_raw": "1 299,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-fixe-gamer-lenovo-loq-tower-26adr10-ryzen-7-8745hx-rtx-5060-16-go-ram-512-go-ssd-win-11-3445559",
-   "posted_at": "2026-11-03T19:16:28+00:00"
+   "title": "Processeur I5-6500 3.20GHZ",
+   "price_raw": "13.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318405603245?_skw=processeur&hash=item4a2273efad:g:QXUAAeSwsfZqIJoX",
+   "posted_at": "2026-06-03T21:18:34+00:00"
   },
   {
-   "title": "PC portable 15,3\" Lenovo LOQ 15AHP11 - WUXGA 165Hz, Ryzen 7 250, RTX 5060 115W, 16 Go, 512 Go, Sans OS + Souris",
-   "price_raw": "1 449,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-153-lenovo-loq-15ahp11-wuxga-165hz-ryzen-7-250-rtx-5060-115w-16-go-512-go-sans-os-souris-3445553",
-   "posted_at": "2026-11-03T19:10:21+00:00"
+   "title": "Processeur CPU pour ordinateur portable Intel i7-4702MQ 2,2ghz  SR15J QEJQ ES",
+   "price_raw": "39.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960084117919?_skw=processeur&hash=itemdf8979099f:g:bjsAAeSwY95q1Psa&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7knu1zMW3hwDZx8iiOhcEs%2B1YBhog1rkVIqQjeZqaF%2F3%2ByFDxiR60%2FLpVwwp8IMYH8jMvJ33IuBEu7jMfy%2BMF3MWapXy9H%2F0h7htHB0EKTYFR1nZ3yalfx20m4oWWhzWIRm3K%2F11tpXWIpzzd22o6H0%2B7reRu%2Fw4kyfaRY%2BRgnEiAVTvZJxodG1gCPdvvDgCU53WqRBX1v427q8ZYx37G8E3XTckbJW%2FiMEYQKH%2B9grN15rk%2F8ghx2qDiYaRjD2AuG4C4Qtx5pDd8qerDraiuzQUq9aLOdjAY6UnnfkSdJ3Tw%3D%3D",
+   "posted_at": "2026-10-18T17:10:55+00:00"
   },
   {
-   "title": "PC portable 14\" Lenovo Chromebook 14M9610 - OLED WUXGA, Kompanio Ultra 910, RAM 16 Go, SSD 256 Go",
-   "price_raw": "649,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-lenovo-chromebook-14m9610-oled-wuxga-kompanio-ultra-910-ram-16-go-ssd-256-go-3445547",
-   "posted_at": "2026-11-03T19:08:58+00:00"
+   "title": "Processeur Intel I3 350M SLBU5 2.267GHz 3Mo Socket G1   🚚 Envoi Rapide 🚚",
+   "price_raw": "18.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227594527274?_skw=processeur&hash=item34fdb0e22a:g:YiAAAeSwJy1q6O2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l6E5WMzhfFLVNXXkp%2Fq4w1wvaUNZscn2QjOnmg2Ea%2Be8yVyHG6R1auVTWEOI9jvqbRtQDLwC5M6D8FBQHvs4km1vPwbzldJ83zpJxWvEW1HHNHMwrXGyrG0DrsFZbqpG2cpDFCfUqMsgNJUWjgsn07S3Jv2hWPDd%2B%2B%2BeyPkqcCqMparUrS8WSOcc%2FuxmFgTxSqv0dMGI6v21xuIVclIRh3UE9mAxsGSLS3k9FgF2dCzjLIIRFJXzxoylsz4k%2FzLF8eXJZq44VIoU972yLvllbL544UNhl5syy0slyMIpREFA%3D%3D",
+   "posted_at": "2026-11-02T20:09:51+00:00"
   },
   {
-   "title": "[PSU] ASRock PRO 1000G, 1000W, ATX 3.1 - $69.99 (36% off, SPL B+)",
-   "price_raw": "$69.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn28dl/psu_asrock_pro_1000g_1000w_atx_31_6999_36_off_spl/",
-   "posted_at": "2026-11-03T19:16:18+00:00"
+   "title": "Lot 16 x Processeurs  (AM4/AM2, LGA1151/1150/1366/775)",
+   "price_raw": "55.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407289260043?_skw=processeur&hash=item5ed454e80b:g:R~MAAeSwOW9qzzkA",
+   "posted_at": "2026-10-14T08:20:45+00:00"
   },
   {
-   "title": "Boitier NVME SSD ACASIS 80Gbps M.2 , Thunderbolt 5 (Vendeur tiers)",
-   "price_raw": "161,68€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acasis-80gbps-m2-nvme-ssd-gehause-thunderbolt-5-3445530",
-   "posted_at": "2026-11-03T18:48:55+00:00"
+   "title": "Intel i486 SX A80486SX-25 CPU processeur 25 MHz Socket PGA 168 1 cœur 80486",
+   "price_raw": "16.15 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137636185869?_skw=processeur&hash=item200bc1870d:g:UWAAAeSwRqBqhJw5",
+   "posted_at": "2026-08-18T17:55:29+00:00"
   },
   {
-   "title": "PC Portable 14\" Lenovo Yoga Slim 7 - OLED WUXGA, Core Ultra 5 322, RAM 16 Go, SSD 512 Go, Sans OS",
-   "price_raw": "899,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-lenovo-yoga-slim-7-oled-wuxga-core-ultra-5-322-ram-16-go-ssd-512-go-sans-os-3445536",
-   "posted_at": "2026-11-03T18:57:47+00:00"
+   "title": "Processeur CPU Intel Xeon E3-1220 V3 SR154 3.10Ghz LGA1150 Quad Core",
+   "price_raw": "9.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/304471909652?_skw=processeur&hash=item46e3f0a514:g:4kEAAeSwkElq6tZU",
+   "posted_at": "2022-05-03T11:02:32+00:00"
   },
   {
-   "title": "[Keyboard] Logitech POP Mechanical Wireless Keyboard - $49.99 (50% off)",
-   "price_raw": "$49.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn1a89/keyboard_logitech_pop_mechanical_wireless/",
-   "posted_at": "2026-11-03T18:42:16+00:00"
+   "title": "Barrette RAM Crucial 4 Go DDR4 DIMM",
+   "price_raw": "10.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840089965282?_skw=ddr4&hash=itemc3994392e2:g:NUIAAeSwPWJq6l7K",
+   "posted_at": "2026-11-03T22:23:13+00:00"
   },
   {
-   "title": "Alimentation modulaire MSI Mag A850GLS PCIE5 ATX 3.1, 80 PLUS Gold",
-   "price_raw": "109,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-mag-a850gls-pcie5-alimentation-modulaire-atx-31-80-plus-gold-3445511",
-   "posted_at": "2026-11-03T18:30:41+00:00"
+   "title": "Micron RAM 8 Go DDR4 SDRAM PC4-2666V SO-DIMM 260 broches MTA8ATF1G64HZ-2G6E1",
+   "price_raw": "26.89 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206641682484?_skw=ddr4&hash=item301ccdd834:g:ziEAAeSwmZNqzWbG",
+   "posted_at": "2026-10-20T20:50:44+00:00"
   },
   {
-   "title": "[Headphones] SENNHEISER Professional IE 100 PRO, IEM - $74.39 (32% off)",
-   "price_raw": "$74.39",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn0tsc/headphones_sennheiser_professional_ie_100_pro_iem/",
-   "posted_at": "2026-11-03T18:25:24+00:00"
+   "title": "SK hynix 8 Go DDR4 SO-DIMM 260 broches PC4-2400T HMA81GS6AFR8N-UH",
+   "price_raw": "30.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206660862804?_skw=ddr4&hash=item301df28354:g:xjEAAeSweZpq4wnp",
+   "posted_at": "2026-10-29T08:57:16+00:00"
   },
   {
-   "title": "[Keyboard] LEMOKEY P1 Pro Wireless Custom Mechanical Keyboard w/Knob - $74.99 (44% off)",
-   "price_raw": "$74.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn0prf/keyboard_lemokey_p1_pro_wireless_custom/",
-   "posted_at": "2026-11-03T18:21:23+00:00"
+   "title": "Samsung 4Go SODIMM DDR4 - M471A5244CB0-CRC - PC4-2400T",
+   "price_raw": "18.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257820475461?_skw=ddr4&hash=item3c074c4045:g:h-YAAeSw7Vdq4MRO",
+   "posted_at": "2026-10-27T15:36:18+00:00"
   },
   {
-   "title": "[Fan] Thermaltake CT120 EX Infinity ARGB Fan (3-Pack) - $24.99 (64% off)",
-   "price_raw": "$24.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xn0lts/fan_thermaltake_ct120_ex_infinity_argb_fan_3pack/",
-   "posted_at": "2026-11-03T18:17:36+00:00"
+   "title": "16 Go Ram DDR4 - lot de 2 x 8 Go - samsung so-dimm - 3200 AA",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287663787534?_skw=ddr4&hash=item42fa190e0e:g:POcAAeSw5K5q2Saj",
+   "posted_at": "2026-10-21T20:58:03+00:00"
   },
   {
-   "title": "[Keyboard] Keychron K4 RGB Hot Swappable Mechanical Keyboard - $59.99 (45% off)",
-   "price_raw": "$59.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmzxz7/keyboard_keychron_k4_rgb_hot_swappable_mechanical/",
-   "posted_at": "2026-11-03T17:54:30+00:00"
+   "title": "SK hynix RAM 4 Go DDR4 SDRAM PC4-2133P DIMM 288 broches Non ECC HMA451U6AFR8N-TF",
+   "price_raw": "12.22 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206640621842?_skw=ddr4&hash=item301cbda912:g:WGEAAeSwdI9q10Dh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mzPLTpPpbSR0L6SHCU9zJNR130LBWDF2amaWY97FW7CEkLTZnGeUysD4VT%2FAmUAL4zRGhXk5EfCmhcvrsZDfh9gSozix%2B8KozCVBHTxBvifD715XAI91IYFuP9ui3DQKtmlPXuGE1m4eMM%2B%2BU2jFOpMDsjly7qn3bJKezPyT3x4bLNc3ZqrCutmlKAC8XzKAuXyJNwbecYOOQ9%2Bbs06nVVifImVLqjv63%2BEhRKWyMnuvm8Vv8PzW1YO7Mi0EWlnA8POeemUf6cFZ7pAmaqLQWi",
+   "posted_at": "2026-10-20T10:32:34+00:00"
   },
   {
-   "title": "[Monitor] Amazon Basics 24\" Gaming Monitor - $69.99 (36% off)",
-   "price_raw": "$69.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xmz4pc/monitor_amazon_basics_24_gaming_monitor_6999_36/",
-   "posted_at": "2026-11-03T17:25:04+00:00"
+   "title": "Micron RAM 8 Go DDR4 SDRAM PC4-2133P ECC Rdimm serveur MTA18ASF1G72PZ-2G1A2IG",
+   "price_raw": "19.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206649075486?_skw=ddr4&hash=item301d3ea71e:g:QZMAAeSwh3NqmE8D&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lOhqNvRBTIFI%2BdnPpo3D00gnhaTVPSAurZ%2BrGowtLalyK9X3i3FexylVc%2BrQJc0WbiHvQumqQfXjEf3rffByHh%2FiBeog5gRsakwVRvq7A1bY2bwE%2FgccU5xTDpjSahNOoQPx0Tyq%2FXdM3hx1nub3IhQtcnwoZjz2Osfmubxec5dnvNpWM7DKybH%2F5d%2FjSORPLm4Nw9a06q5Uq%2Fx1SwM39vy0l%2FUHtA%2BwHz19M%2Fe1rWqO8Y9UaAI8iUY20xJHr2BQ%2BTxvDkrBf6vVgyKjQw9QMW",
+   "posted_at": "2026-10-23T22:35:53+00:00"
   },
   {
-   "title": "Mini PC Firebat R3, Ryzen 5 7430U, 16 Go de LPDDR4, SSD 512 Go, WiFi6 & BT 5.2, Windows 11 (252,45€ via Paypal)",
-   "price_raw": "272,45€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-firebat-r3-ryzen-5-7430u-16-go-de-lpddr4-ssd-512-go-wifi6-bt-52-windows-11-25245eur-via-paypal-3445415",
-   "posted_at": "2026-11-03T16:14:44+00:00"
+   "title": "RAM 8 Go DDR4 SO-DIMM PC4-2133P 2400T 2666V PC portable (Reconditionné Grade A)",
+   "price_raw": "39.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366319876746?_skw=ddr4&hash=item554a5dba8a:g:aMwAAeSw7Ddqez6X",
+   "posted_at": "2026-04-01T13:32:52+00:00"
   },
   {
-   "title": "Imprimante 3D Snapmaker Artisan 3-in-1 3D Printer eu.snapmaker.com",
-   "price_raw": "3 146€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/snapmaker-artisan-3-in-1-3d-printer-3445366",
-   "posted_at": "2026-11-03T15:03:47+00:00"
+   "title": "Barrettes Mémoire RAM Micron 16GB DDR4 2Rx8 PC4-2666V-UB1-11 NON-ECC UDIMM",
+   "price_raw": "69.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/278227870343?_skw=ddr4&hash=item40c7ac6287:g:UDQAAeSwvM9qacyt",
+   "posted_at": "2026-07-29T10:55:01+00:00"
   },
   {
-   "title": "Lampe LED Yeelight pour écran PC avec Télécommande - 42cm (Remise au Panier - Vendeur tiers)",
-   "price_raw": "24,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/barre-lumineuse-ecran-yeelight-42cm-usb-gradable-3445352",
-   "posted_at": "2026-11-03T14:46:57+00:00"
+   "title": "RAM SODIMM - Laptop - 8 Gb 1Rx8 DDR4 2666V Samsung ",
+   "price_raw": "29.81 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287017891578?_skw=ddr4&hash=item42d39976fa:g:l9YAAeSwTThpQ7nf",
+   "posted_at": "2025-12-18T08:25:19+00:00"
   },
   {
-   "title": "Mini Souris optique sans fil Subblim Wireless - Noir",
-   "price_raw": "3,47€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/subblim-wireless-mini-mouse-souris-optique-sans-fil-noir-3445347",
-   "posted_at": "2026-11-03T14:32:13+00:00"
+   "title": "Kingston 8GB 1Rx8 DDR4 PC4-2666V SO-DIMM RAM Laptop 9995624-060.A00G",
+   "price_raw": "37.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128107999166?_skw=ddr4&hash=item1dd3d4efbe:g:DCoAAeSwm~FqvZAn&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krUjomkSk%2BQV%2BnSuw%2FuaOvd3RukjtEpx1l9jtBe7QA36TQ24zLNbV3WNwl7iSjSKjTk3J03TWtCyMfdhkmx4iQdX6Wu3DJ4zBwW8wAjZikSMHAOZO9fgQDSp5Y0o5iJkK6TSGIpVMOcVBQHPYB2qlfcV%2Faieo55wMESSW%2FrPl0IViikAe6quUYr%2FBFPyXt70gn5e%2Br0aYBBG8Zs%2BroUSMUiylRieoE1GjHA7o1o3omrV250YhN4ZUB2RrnZnY52ylD4%2FeKwIrXYmpU8Gu3zurV",
+   "posted_at": "2026-09-30T22:47:05+00:00"
   },
   {
-   "title": "Souris sans fil Logitech MX Master 4, Gris pâle (ODR de 15€ ou 40€ pour 2 articles gamme MX par Logitech)",
-   "price_raw": "99,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-logitech-sans-fil-mx-master-4-gris-pale-odr-de-15e-ou-40e-pour-2-articles-gamme-mx-par-logitech-3445316",
-   "posted_at": "2026-11-03T13:46:46+00:00"
+   "title": "SK hynix 8 Go DDR4 SO-DIMM PC4-3200AA 260 broches HMA81GS6CJR8N-XN",
+   "price_raw": "34.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147656076337?_skw=ddr4&hash=item2260fcec31:g:ra0AAeSwZmVq4qFf",
+   "posted_at": "2026-10-29T01:33:24+00:00"
   },
   {
-   "title": "Mini PC Chuwi AuBox - Ryzen 7 8745HS, 780M, RAM 16 Go DDR5 5600Mhz, SSD 512 Go, eGPU Oculink, USB 4, Wi-Fi6, BT5.3, W11 (387,05€ via Paypal)",
-   "price_raw": "420,05€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-ryzen-7-8745hs-780m-16-go-ddr5-5600-ssd-512-go-egpu-sur-oculink-ou-usb4-wifi6-bt53-w11pro-38705eur-via-paypal-3445296",
-   "posted_at": "2026-11-03T13:24:49+00:00"
+   "title": "Samsung Hynix 4Go SO-DIMM  DDR4-2133T",
+   "price_raw": "12.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257733382839?_skw=ddr4&hash=item3c021b52b7:g:ROIAAeSwWS1qQh99",
+   "posted_at": "2026-09-09T14:51:56+00:00"
   },
   {
-   "title": "Tablette 9,7\" Xiaomi Redmi Pad 2 - 4 Go / 128 Go, 2K, 120 Hz, Batterie 7600 mAh (vendeur tiers)",
-   "price_raw": "144,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-xiaomi-redmi-pad-2-97-4-go-128-go-ecran-97-2k-120-hz-batterie-7600-mah-3445295",
-   "posted_at": "2026-11-03T13:21:39+00:00"
+   "title": "SK hynix 16GB 1Rx8 PC4-3200AA Laptop RAM DDR4 3200Mhz SO-DIMM",
+   "price_raw": "56.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307252036464?_skw=ddr4&hash=item4789a60370:g:ly0AAeSw7ydqrlOa",
+   "posted_at": "2026-10-27T15:44:03+00:00"
   },
   {
-   "title": "Projecteur a detection de présence et alimentation solaire",
-   "price_raw": "34,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/projecteur-a-detection-de-presence-et-alimentation-solaire-3445287",
-   "posted_at": "2026-11-03T13:10:07+00:00"
+   "title": "🟢Mémoire DDR4 8Go 1Rx8 PC4-2666V KINGSTON Occasion Origine HP",
+   "price_raw": "28.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117467256490?_skw=ddr4&hash=item1b599816aa:g:opwAAOSwu6hkxRwm",
+   "posted_at": "2026-10-15T08:46:55+00:00"
   },
   {
-   "title": "Imprimante et graveuse laser Bambu Lab H2S Laser Full Cambo",
-   "price_raw": "1 511,60€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-et-graveuse-laser-bambu-lab-h2s-laser-full-cambo-3445279",
-   "posted_at": "2026-11-03T13:08:53+00:00"
+   "title": "SK hynix 8Go RAM DDR4 SO-DIMM PC4-2400T 1Rx8 HMA81GS6AFR8N-UH",
+   "price_raw": "30.34 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137857780373?_skw=ddr4&hash=item2018f6ca95:g:YTYAAeSwSgxq1mc~",
+   "posted_at": "2026-10-19T19:02:12+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 241,
+  "listings_seen": 479,
   "models_with_reference": 7
  }
 }
