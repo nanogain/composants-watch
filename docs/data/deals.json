@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T07:38:00Z",
+ "generated_at": "2026-11-04T08:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-04T07:38:00.617629+00:00"
+   "items": 344,
+   "last_ok": "2026-11-04T08:08:00.669773+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T07:38:00.617629+00:00"
+   "last_ok": "2026-11-04T08:08:00.669773+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "APPLE iPad 11\" A16 128GB",
+   "price_raw": "439,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-ipad-11-a16-128gb-3445861",
+   "posted_at": "2026-11-04T07:58:47+00:00"
+  },
   {
    "title": "Reconditionné : PC portable 14\" Dell Latitude 3410 - i5, 16Go RAM, 256Go SSD",
    "price_raw": "469€",
@@ -578,13 +585,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/elgato-4k-x-carte-de-capture-4k144-latence-ultra-basse-ps5pro-xbox-series-xis-switch-2-hdmi-21-vrr-hdr10-usb-32-pcmacipad-3444523",
    "posted_at": "2026-11-02T16:21:59+00:00"
-  },
-  {
-   "title": "Smartphone 6,8\" realme 16 Pro Plus 5G - Écran AMOLED incurvé, 144 Hz, batterie",
-   "price_raw": "294,60€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/smartphone-5g-realme-16-pro-plus-ecran-amoled-incurve-de-68-pouces-144-hz-batterie-3444240",
-   "posted_at": "2026-11-02T11:12:41+00:00"
   }
  ],
  "stats": {
