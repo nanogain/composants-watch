@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-04T10:38:00Z",
+ "generated_at": "2026-11-04T11:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-04T10:38:00.683331+00:00"
+   "last_ok": "2026-11-04T11:08:00.690208+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T10:38:00.683331+00:00"
+   "last_ok": "2026-11-04T11:08:00.690208+00:00"
   },
   "ebay": {
-   "status": "ok",
+   "status": "disabled",
    "items": 0,
    "last_ok": null
   }
@@ -203,7 +203,14 @@
  ],
  "unclassified": [
   {
-   "title": "Carte son externe USB Fosi Audio K5 Pro – Amplificateur casque Hi-Fi, entrée micro 3,5 mm",
+   "title": "PC de Bureau CSL Sprint 5787 - R7 5700, RTX 5060 TI 8G, 32 Go DDR4, 1To SSD NVMe",
+   "price_raw": "1 099€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-csl-computer-r7-5700-rtx-5060-ti-8g-32-go-ddr4-3446054",
+   "posted_at": "2026-11-04T11:04:32+00:00"
+  },
+  {
+   "title": "Carte Son Externe USB Fosi Audio K5 Pro - Amplificateur Casque Hi-Fi, Entrée Micro 3,5mm",
    "price_raw": "42,39€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-son-externe-usb-fosi-audio-k5-pro-amplificateur-casque-hi-fi-entree-micro-35-mm-3446028",
@@ -544,17 +551,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-et-graveuse-laser-bambu-lab-h2s-laser-full-cambo-3445279",
    "posted_at": "2026-11-03T13:08:53+00:00"
-  },
-  {
-   "title": "Mini PC Acer Gadget E10 ETBox AI P09H - Intel Core Ultra 7 256V, RAM 16 Go LPDDR5X 8533Mhz, SSD 1 To PCle 4.0 (Via Paypal)",
-   "price_raw": "462,79€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-acer-gadget-e10-etbox-ai-p09h-intel-core-ultra-7-256v-16-go-lpddr5x-8533mts-ssd-1-to-pcle-40-3445270",
-   "posted_at": "2026-11-03T12:59:28+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 240,
+  "listings_seen": 241,
   "models_with_reference": 7
  }
 }
