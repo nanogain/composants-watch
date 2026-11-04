@@ -81,6 +81,18 @@ class LivenessTest(unittest.TestCase):
         self.assertLessEqual(r["checked"], 3)
         self.assertEqual(r["stopped"], "budget")
 
+    def test_failing_pages_rotate_out_of_the_front(self):
+        s = store_with("p1", "p2", "p3", "3446028")  # p1..p3 plus récentes : en tête de file
+        page = lambda url: ACTIVE.encode() if url.endswith("3446028") else b"<html>"
+        r = verify_dealabs(s, NOW, dict(DEFAULTS), get=page)
+        self.assertEqual((r["checked"], r["stopped"]), (0, "failures"))
+        r = verify_dealabs(s, NOW + timedelta(minutes=30), dict(DEFAULTS), get=page)
+        self.assertEqual(r["checked"], 1)
+        self.assertEqual([x["source_id"] for x in s.recent_listings(7, NOW + timedelta(minutes=30), visible_hours=6)],
+                         ["3446028"])
+        # réessayées après l'intervalle de revérification
+        self.assertEqual([i for i, _ in s.to_check(NOW + timedelta(hours=3, minutes=1), 7, 3, 10)], ["p1", "p2", "p3"])
+
     def test_page_without_flag_is_failure(self):
         s = store_with("1")
         r = verify_dealabs(s, NOW, dict(DEFAULTS), get=lambda url: b"<html>")

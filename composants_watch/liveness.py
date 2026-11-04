@@ -38,6 +38,7 @@ def verify_dealabs(store, now: datetime, cfg: dict, get=http_get, clock=time.mon
         except FetchError as e:
             expired = True if any(g in str(e) for g in _GONE) else None
         if expired is None:
+            store.mark_attempt("dealabs", sid, now)
             res["failures"] += 1
             streak += 1
             if streak >= 3:

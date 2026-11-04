@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS listings(
   source TEXT, source_id TEXT, url TEXT, title TEXT, model TEXT, category TEXT,
   condition TEXT, merchant TEXT, price_raw TEXT, currency TEXT, posted_at TEXT,
   first_seen TEXT, last_seen TEXT, expired INTEGER DEFAULT 0, attrs TEXT DEFAULT '{}',
-  checked_at TEXT, PRIMARY KEY(source, source_id));
+  checked_at TEXT, attempted_at TEXT, PRIMARY KEY(source, source_id));
 CREATE TABLE IF NOT EXISTS observations(
   source TEXT, source_id TEXT, ts TEXT, price_eur REAL, shipping_eur REAL);
 CREATE INDEX IF NOT EXISTS obs_key ON observations(source, source_id, ts);
@@ -40,9 +40,10 @@ class Store:
                                 (json.dumps(attributes(r["category"], r["model"], r["title"]), ensure_ascii=False),
                                  r["source"], r["source_id"]))
             self.db.commit()
-        if "checked_at" not in cols:  # base v2 : jamais vérifiée
-            self.db.execute("ALTER TABLE listings ADD COLUMN checked_at TEXT")
-            self.db.commit()
+        for col in ("checked_at", "attempted_at"):  # base v2 : jamais vérifiée
+            if col not in cols:
+                self.db.execute(f"ALTER TABLE listings ADD COLUMN {col} TEXT")
+        self.db.commit()
 
     def upsert(self, li: Listing, now: datetime) -> None:
         ts = now.isoformat()
@@ -100,16 +101,24 @@ class Store:
             """SELECT source_id, url FROM listings
                WHERE source='dealabs' AND expired=0 AND posted_at >= ?
                  AND (checked_at IS NULL OR checked_at < ?)
+                 AND (attempted_at IS NULL OR attempted_at < ?)
                ORDER BY checked_at IS NOT NULL, CASE WHEN checked_at IS NULL THEN posted_at END DESC,
                         checked_at ASC
                LIMIT ?""",
             ((now - timedelta(days=days)).isoformat(),
+             (now - timedelta(hours=recheck_hours)).isoformat(),
              (now - timedelta(hours=recheck_hours)).isoformat(), limit))
         return [(r["source_id"], r["url"]) for r in rows.fetchall()]
 
     def mark_checked(self, source: str, source_id: str, expired: bool, now: datetime) -> None:
         self.db.execute("UPDATE listings SET expired=?, checked_at=? WHERE source=? AND source_id=?",
                         (int(expired), now.isoformat(), source, source_id))
+        self.db.commit()
+
+    def mark_attempt(self, source: str, source_id: str, now: datetime) -> None:
+        """Vérification sans conclusion : l'annonce repasse en fin de file jusqu'à la prochaine revérification."""
+        self.db.execute("UPDATE listings SET attempted_at=? WHERE source=? AND source_id=?",
+                        (now.isoformat(), source, source_id))
         self.db.commit()
 
     def expire_missing(self, source: str, seen_ids: set[str], now: datetime) -> int:
