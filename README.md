@@ -11,6 +11,10 @@ Une annonce est signalée si :
 - **décote** : son prix est au moins 15 % sous la médiane des prix observés sur 30 jours
   pour le même modèle et le même état (neuf ou occasion). Il faut au moins 5 prix observés.
 
+Pour les claviers, ventirads et boîtiers, seule la cible de `watchlist.json` compte : un
+même modèle canonique (« clavier membrane complet », « ventirad ») couvre des produits trop
+différents pour qu'une décote ait un sens.
+
 Une décote de plus de 70 % est marquée « à vérifier » (erreur de reconnaissance
 probable, ou arnaque). Les annonces « HS », « pour pièces », « boîte vide », « lot de »,
 « mining » ou « reconditionné » ne comptent jamais.
@@ -21,9 +25,26 @@ probable, ou arnaque). Les annonces « HS », « pour pièces », « boîte vide
 |---|---|---|
 | Dealabs | flux RSS publics par groupe | neuf, modéré par la communauté |
 | Reddit r/buildapcsales | flux Atom public | marché US, prix en dollars, affichés à titre indicatif |
-| eBay.fr | API officielle Browse | optionnelle, nécessite une clé développeur gratuite |
+| eBay.fr | API officielle Browse | annonces normales, filtrées (voir Fiabilité) ; clé développeur gratuite |
 
 leboncoin n'est pas utilisé : ses CGU interdisent l'extraction automatique.
+
+## Fiabilité des annonces affichées
+
+- **Dealabs** : le flux RSS n'indique pas les bons plans expirés. À chaque passe, le Pi
+  lit la page de l'annonce (indicateur `isExpired`) : au plus 80 pages et 240 s par
+  passe, 2 s entre deux pages, arrêt après 3 échecs consécutifs. Chaque annonce est
+  revérifiée toutes les 3 h. Une annonce n'est affichée que si elle a été **vérifiée
+  active il y a moins de 6 h** ; une annonce supprimée (404) ou fusionnée dans une autre
+  est retirée. L'état de cette vérification apparaît dans les sources (« Vérification
+  Dealabs »).
+- **eBay.fr** : une requête par catégorie (restreinte à la catégorie eBay) et une par
+  composant de `watchlist.json`, 50 résultats chacune. Ne sont gardées que les annonces
+  à prix fixe (sans enchère), hors « pour pièces », livrables en France et expédiées
+  depuis l'Union européenne, d'un vendeur **professionnel** ou ayant **au moins 98 %
+  d'avis positifs sur au moins 50 évaluations**. Une annonce absente du dernier passage
+  réussi disparaît de la page.
+- **Reddit** : aucune information d'expiration ; affiché 48 h après publication.
 
 ## Fonctionnement
 
@@ -36,7 +57,16 @@ python3 -m unittest discover -s tests -v
 
 L'historique des prix est dans `data/watch.db` (SQLite, reste sur le Pi). Seul
 `docs/data/deals.json` est publié. Le journal est dans `logs/watch.log`.
-Les réglages (seuils, groupes Dealabs) sont dans `config.json`.
+Les réglages sont dans `config.json` (valeurs par défaut dans `composants_watch/config.py`) :
+
+| Clé | Défaut | Rôle |
+|---|---|---|
+| `discount_min` / `suspect_above` | 0,15 / 0,70 | décote minimale, décote « à vérifier » |
+| `retention_days` | 7 | durée de vie d'une annonce |
+| `verify_max_pages` / `verify_budget_s` | 80 / 240 | plafonds de vérification Dealabs par passe |
+| `verify_recheck_hours` / `verify_visible_hours` | 3 / 6 | revérification, fraîcheur exigée pour l'affichage |
+| `reddit_display_hours` | 48 | durée d'affichage Reddit |
+| `ebay_enabled` / `ebay_limit` | true / 50 | source eBay, résultats par requête |
 
 Au démarrage, la base est vide : les décotes n'apparaissent qu'une fois l'historique
 construit (quelques jours selon les modèles). Les prix cibles fonctionnent dès la
@@ -68,6 +98,14 @@ beaucoup : la détection de décote y est moins fiable, ces catégories servent 
 configurateur et à la liste.
 
 Un modèle mal écrit apparaît sur la page avec le badge « modèle jamais vu ».
+
+## Toutes les annonces
+
+Sous « Opportunités », la section **Toutes les annonces** permet de chercher dans toutes
+les annonces fiables reconnues (`docs/data/catalog.json`), bonnes affaires ou non :
+texte libre (sans accents ni majuscules, tous les mots doivent apparaître), catégorie,
+neuf/occasion, source et prix maximum. Tri par prix croissant, 200 lignes au plus ;
+les bonnes affaires sont marquées ★.
 
 ## Configurateur
 
@@ -113,17 +151,19 @@ Le Pi publie avec une **clé de déploiement** SSH limitée à ce seul dépôt :
    branche `main`, dossier `/docs`. La page est ensuite disponible sur
    <https://nanogain.github.io/composants-watch/>.
 
-Chaque passe publie uniquement `docs/data/deals.json`, sur `main`, et seulement si
-son contenu a changé.
+Chaque passe publie uniquement `docs/data/deals.json` et `docs/data/catalog.json`, sur
+`main`, et seulement si leur contenu a changé.
 
 Variante sans SSH : un remote `https://` avec un jeton à droits réduits (*Fine-grained
 token*, permission *Contents: Read and write* sur ce seul dépôt) dans
 `~/.config/composants-watch/token` (mode 600). Le jeton est transmis à `git push` par
 l'environnement, jamais écrit dans le dépôt ni dans `.git/config`.
 
-## eBay (optionnel)
+## eBay
 
-Crée une application sur <https://developer.ebay.com> (clés *Production*), puis :
+Crée une application sur <https://developer.ebay.com> et des clés **Production** (pas
+*Sandbox*) ; pour activer le jeu de clés, déclare l'exemption de la notification de
+suppression de compte (« I do not persist eBay data »). Puis :
 
 ```bash
 ( umask 077; cat > ~/.config/composants-watch/ebay.json <<'JSON'
