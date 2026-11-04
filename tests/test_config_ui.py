@@ -84,6 +84,37 @@ class ConfigUiTest(unittest.TestCase):
         self.assertTrue(all("ryzen" in t.lower() for t in r["titles"]), r["titles"])
         self.assertRegex(r["count"], r"^\d+ résultats?$")
         self.assertIn("indisponibles", r["meta"])
+    def test_ai_generate(self):
+        r = run("ai_generate")
+        self.assertEqual(r["usageOpts"], ["office", "game1080", "game1440", "game4k", "create", "dev"])
+        self.assertEqual(r["apiCalls"], 1)
+        self.assertEqual(r["key"], "sk-test")
+        self.assertTrue(r["applyExists"])
+        self.assertIn("Total", r["resultText"])
+        self.assertIn("Bon équilibre pour le 1440p.", r["resultText"])
+        self.assertIn("284,00", r["resultText"])
+        self.assertNotIn("non conforme", r["resultText"])
+        self.assertEqual(r["selected"], {"cpu": "dealabs:2", "mb": "dealabs:4", "ram": "dealabs:6", "gpu": "dealabs:7",
+                                         "ssd": "dealabs:8", "psu": "dealabs:9", "case": "dealabs:10", "cool": "dealabs:11",
+                                         "mon": "dealabs:12"})
+        self.assertEqual(r["resultAfter"], "")
+        self.assertEqual(r["saved"]["cpu"]["id"], "dealabs:2")
+        self.assertEqual(r["saved"]["mon"]["id"], "dealabs:12")
+        self.assertEqual(json.loads(r["prefs"]), {"budget": 1500, "usage": "game1440"})
+
+    def test_ai_no_key(self):
+        r = run("ai_no_key")
+        self.assertEqual(r["apiCalls"], 0)
+        self.assertIn("Colle ta clé API Anthropic", r["status"])
+
+    def test_ai_key_saved_and_forgotten(self):
+        r = run("ai_key_saved")
+        self.assertEqual(r["after"]["stored"], "sk-new")
+        self.assertEqual(r["after"]["field"], "")
+        self.assertIn("Clé API refusée", r["after"]["status"])
+        self.assertIsNone(r["forgotten"])
+        self.assertIn("Clé oubliée", r["statusForget"])
+
 
 if __name__ == "__main__":
     unittest.main()

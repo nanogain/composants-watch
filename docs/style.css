@@ -64,3 +64,11 @@ footer { font-size:.85rem; padding:24px 16px 40px; }
 input.search { font:inherit; padding:4px 6px; border-radius:6px; border:1px solid var(--line); background:var(--card); color:var(--fg); }
 input.search.price { width:7em; }
 #all-table th { cursor:default; }
+.ai { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:10px 12px; margin-bottom:16px; }
+.ai h3 { margin:0 0 8px; }
+.ai-controls { display:flex; gap:10px; flex-wrap:wrap; align-items:end; }
+.ai-controls label { display:flex; flex-direction:column; gap:4px; font-size:.9rem; }
+.ai-controls input, .ai-controls select { font:inherit; padding:4px 6px; border-radius:6px; border:1px solid var(--line); background:var(--card); color:var(--fg); }
+#ai-budget { width:7em; }
+.ai-warn { color:var(--warn); font-weight:600; }
+.ai-picks { margin:8px 0; padding-left:1.2em; }

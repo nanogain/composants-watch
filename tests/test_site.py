@@ -58,6 +58,17 @@ class SiteTest(unittest.TestCase):
         js = (DOCS / "search.js").read_text(encoding="utf-8")
         self.assertNotIn("innerHTML", js)
         self.assertRegex(self.js, r"fetch\(\s*['\"]data/catalog\.json")
+    def test_ai_section(self):
+        for ident in ('id="ai"', 'id="ai-budget"', 'id="ai-usage"', 'id="ai-key"', 'id="ai-forget"', 'id="ai-go"',
+                      'id="ai-status"', 'id="ai-result"'):
+            self.assertIn(ident, self.html)
+        self.assertIn("Générer une configuration", self.html)
+        self.assertLess(self.html.index('src="advisor.js"'), self.html.index('src="config.js"'))
+        self.assertLess(self.html.index('id="ai"'), self.html.index('class="cfg-grid"'))
+        js = (DOCS / "advisor.js").read_text(encoding="utf-8")
+        self.assertNotIn("innerHTML", js)
+        self.assertIn("https://api.anthropic.com/v1/messages", js)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -46,6 +46,9 @@ function makeEnv({ storage = {}, fetchImpl, hash = "#config" } = {}) {
   for (const t of ["deals", "config"]) { const b = mk("button", null, nav, "tab"); b.setAttribute("data-tab", t); }
   const deals = mk("main", "tab-deals"); mk("p", "meta", deals);
   const cfg = mk("main", "tab-config"); cfg.hidden = true;
+  const ai = mk("section", "ai", cfg);
+  mk("input", "ai-budget", ai).value = "1500"; mk("select", "ai-usage", ai); mk("input", "ai-key", ai);
+  mk("button", "ai-forget", ai); mk("button", "ai-go", ai); mk("p", "ai-status", ai); mk("div", "ai-result", ai);
   mk("p", "cfg-msg", cfg); mk("div", "cfg-slots", cfg); mk("aside", "cfg-recap", cfg);
   const listeners = {};
   const store = { ...storage };
@@ -72,6 +75,9 @@ function load(env) {
   delete require.cache[require.resolve(path.join(ROOT, "docs/compat.js"))];
   global.window.Compat = require(path.join(ROOT, "docs/compat.js"));
   global.Compat = global.window.Compat;
+  delete require.cache[require.resolve(path.join(ROOT, "docs/advisor.js"))];
+  global.window.Advisor = require(path.join(ROOT, "docs/advisor.js"));
+  global.Advisor = global.window.Advisor;
   const src = fs.readFileSync(path.join(ROOT, "docs/config.js"), "utf8");
   new Function(src)();
 }
@@ -160,6 +166,49 @@ const scenarios = {
     const body = env.document.getElementById("all-body");
     return { rowsAll, total: catalog.items.length, rows: body.children.length, count: env.document.getElementById("s-count").textContent,
       titles: body.children.map((r) => r.children[1].children[0].textContent), meta: env.document.getElementById("meta").textContent };
+  },
+  async ai_generate() {
+    const apiCalls = [];
+    const picks = { cpu: "dealabs:2", mb: "dealabs:4", ram: "dealabs:6", gpu: "dealabs:7", ssd: "dealabs:8",
+      psu: "dealabs:9", case: "dealabs:10", cool: "dealabs:11" };
+    const apiReply = { ok: true, status: 200, json: () => Promise.resolve({ stop_reason: "end_turn",
+      content: [{ type: "text", text: JSON.stringify({ picks, rationale: "Bon équilibre pour le 1440p." }) }] }) };
+    const fetchImpl = (url, init) => {
+      if (url === "data/catalog.json") return okFetch();
+      apiCalls.push({ url, init }); return Promise.resolve(apiReply);
+    };
+    const storage = { "cw-config-v1": JSON.stringify({ mon: { id: "dealabs:12", title: "Écran", effective_eur: 169 },
+      cpu: { id: "gone:1", title: "Vieux CPU", effective_eur: 10 } }), "cw-ai-key": "sk-test" };
+    const env = makeEnv({ fetchImpl, storage }); load(env); await tick();
+    const usageOpts = env.document.getElementById("ai-usage").options.map((o) => o.value);
+    env.document.getElementById("ai-go").dispatch("click"); await tick(); await tick();
+    const result = env.document.getElementById("ai-result");
+    const resultText = result.textContent;
+    const apply = env.document.getElementById("ai-apply");
+    const out = { apiCalls: apiCalls.length, key: apiCalls[0] && apiCalls[0].init.headers["x-api-key"], usageOpts,
+      resultText, applyExists: !!apply, status: env.document.getElementById("ai-status").textContent };
+    if (apply) apply.dispatch("click");
+    await tick();
+    const selected = {};
+    for (const s of ["cpu", "mb", "ram", "gpu", "ssd", "psu", "case", "cool", "mon"]) selected[s] = sel(env, s) ? sel(env, s).value : null;
+    return { ...out, selected, resultAfter: env.document.getElementById("ai-result").textContent,
+      saved: JSON.parse(env.store["cw-config-v1"]), prefs: env.store["cw-ai-prefs"] };
+  },
+  async ai_no_key() {
+    let apiCalls = 0;
+    const env = makeEnv({ fetchImpl: (url) => (url === "data/catalog.json" ? okFetch() : (apiCalls++, Promise.reject(new Error("x")))) });
+    load(env); await tick();
+    env.document.getElementById("ai-go").dispatch("click"); await tick();
+    return { apiCalls, status: env.document.getElementById("ai-status").textContent };
+  },
+  async ai_key_saved() {
+    const env = makeEnv({ fetchImpl: (url) => (url === "data/catalog.json" ? okFetch() : Promise.resolve({ ok: false, status: 401, json: () => Promise.resolve({}) })) });
+    load(env); await tick();
+    const key = env.document.getElementById("ai-key"); key.value = "sk-new";
+    env.document.getElementById("ai-go").dispatch("click"); await tick(); await tick();
+    const after = { stored: env.store["cw-ai-key"] ?? null, field: key.value, status: env.document.getElementById("ai-status").textContent };
+    env.document.getElementById("ai-forget").dispatch("click");
+    return { after, forgotten: env.store["cw-ai-key"] ?? null, statusForget: env.document.getElementById("ai-status").textContent };
   },
 };
 

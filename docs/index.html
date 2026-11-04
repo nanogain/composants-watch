@@ -144,6 +144,19 @@
       <h2>Configurateur</h2>
       <p class="sub">Compose une configuration avec les annonces récentes reconnues. Les contrôles de compatibilité sont déterministes : ✅ compatible, ❌ incompatible, ❔ information manquante, ⚠️ juste.</p>
       <p id="cfg-msg" class="meta"></p>
+      <section id="ai" class="ai">
+        <h3>Générer avec l'IA</h3>
+        <div class="ai-controls">
+          <label>Budget max (€) <input id="ai-budget" type="number" min="300" step="50" value="1000"></label>
+          <label>Usage <select id="ai-usage"></select></label>
+          <label>Clé API Anthropic <input id="ai-key" type="password" autocomplete="off" placeholder="sk-ant-…"></label>
+          <button id="ai-forget" type="button">Oublier la clé</button>
+        </div>
+        <p><button id="ai-go" type="button" disabled>Générer une configuration</button></p>
+        <p class="sub">Appel direct de ton navigateur à l'API Anthropic avec ta clé. Coût ≈ 0,10 à 0,30 € par génération. La clé reste dans ce navigateur.</p>
+        <p id="ai-status" class="meta" aria-live="polite"></p>
+        <div id="ai-result"></div>
+      </section>
       <div class="cfg-grid">
         <div id="cfg-slots"></div>
         <aside id="cfg-recap"></aside>
@@ -152,11 +165,12 @@
   </main>
 
   <footer>
-    <p>Sources : flux RSS Dealabs, flux Reddit r/buildapcsales, API eBay (si configurée). Aucune donnée personnelle, aucun traceur.</p>
+    <p>Sources : flux RSS Dealabs, flux Reddit r/buildapcsales, API eBay (si configurée). Aucune donnée personnelle, aucun traceur. Le conseiller IA n'appelle l'API Anthropic qu'à ta demande, avec ta clé.</p>
   </footer>
   <script src="compat.js"></script>
   <script src="search.js"></script>
   <script src="app.js"></script>
+  <script src="advisor.js"></script>
   <script src="config.js"></script>
 </body>
 </html>
