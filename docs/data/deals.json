@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-04T10:08:00Z",
+ "generated_at": "2026-11-04T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-04T10:08:00.659797+00:00"
+   "items": 344,
+   "last_ok": "2026-11-04T10:38:00.683331+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T10:08:00.659797+00:00"
+   "last_ok": "2026-11-04T10:38:00.683331+00:00"
   },
   "ebay": {
-   "status": "disabled",
+   "status": "ok",
    "items": 0,
    "last_ok": null
   }
@@ -202,6 +202,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Carte son externe USB Fosi Audio K5 Pro – Amplificateur casque Hi-Fi, entrée micro 3,5 mm",
+   "price_raw": "42,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-son-externe-usb-fosi-audio-k5-pro-amplificateur-casque-hi-fi-entree-micro-35-mm-3446028",
+   "posted_at": "2026-11-04T10:33:35+00:00"
+  },
+  {
+   "title": "20% de remise fidélité sur les PC, TV, Smartphones, Tablettes et GEM dès 450€ d'achat (Apple & promos inclus - hors catalogue Black Friday)",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/20-de-remise-fidelite-sur-les-pc-tv-smartphones-tablettes-et-gem-des-450eur-dachat-apple-promos-inclus-hors-catalogue-black-friday-3446027",
+   "posted_at": "2026-11-04T10:33:22+00:00"
+  },
+  {
+   "title": "Pack Clavier et Souris Filaire Trust Taro",
+   "price_raw": "14,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/trust-taro-pack-clavier-et-souris-filaires-azerty-francais-noir-3446016",
+   "posted_at": "2026-11-04T10:32:22+00:00"
+  },
   {
    "title": "[Other] Refurbished Sabrent USB 3.0 Hard Drive Enclosure, 2.5 / 3.5 HDD Sata Adapter - $7.99 w/ code SABRENT",
    "price_raw": "$7.99",
@@ -530,31 +551,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-acer-gadget-e10-etbox-ai-p09h-intel-core-ultra-7-256v-16-go-lpddr5x-8533mts-ssd-1-to-pcle-40-3445270",
    "posted_at": "2026-11-03T12:59:28+00:00"
-  },
-  {
-   "title": "Apple MacBook 14,2\" Pro M5 Pro - 24 Go RAM, SSD 1 To, CPU 15 cœurs et GPU 16 cœurs, Couleur Argent",
-   "price_raw": "2 604€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-m5-pro-24-go-ram-ssd-1-to-cpu-15-coeurs-et-gpu-16-coeurs-couleur-argent-3445259",
-   "posted_at": "2026-11-03T12:41:26+00:00"
-  },
-  {
-   "title": "Routeur Wifi TP-Link Deco BE22 (2 pack) Wifi 7",
-   "price_raw": "99,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/routeur-wifi-tp-link-deco-be22-2-pack-wifi-7-3445280",
-   "posted_at": "2026-11-03T13:05:21+00:00"
-  },
-  {
-   "title": "[Club+] Ordinateur 15\" Apple MACBOOK Air Puce M5 CPU 10 / GPU 10 - RAM 24Go / 1To SSD Bleu ciel Sans Chargeur (via 100€ remise fidelité)",
-   "price_raw": "1 999,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/club-ordinateur-apple-macbook-air-15-puce-m5-cpu-10-gpu-10-coeurs-memoire-ram-24go-stockage-1to-ssd-bleu-ciel-3445203",
-   "posted_at": "2026-11-03T11:31:25+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 237,
+  "listings_seen": 240,
   "models_with_reference": 7
  }
 }
