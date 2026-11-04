@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T02:08:00Z",
+ "generated_at": "2026-11-04T05:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-04T02:08:00.626170+00:00"
+   "last_ok": "2026-11-04T05:08:00.627906+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T02:08:00.626170+00:00"
+   "last_ok": "2026-11-04T05:08:00.627906+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Mouse] End Game Gear OP1 8K v2 49.5g Mouse - $51.25 - Free shipping for Prime members",
+   "price_raw": "$51.25",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnffre/mouse_end_game_gear_op1_8k_v2_495g_mouse_5125/",
+   "posted_at": "2026-11-04T04:56:30+00:00"
+  },
   {
    "title": "[Laptop] BestBuy, Open Box-Excellent ASUS - ROG Strix G16 16\" FHD 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB Memory - GeForce RTX 5070 Ti - 1TB Storage - Eclipse Gray $1677. $1604 for Good condition at Local Store",
    "price_raw": "$1677",
@@ -578,17 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/selection-daccessoires-informatiques-en-promotion-ex-clavier-gaming-sans-fil-trimode-alienware-aw920k-3444242",
    "posted_at": "2026-11-02T11:20:16+00:00"
-  },
-  {
-   "title": "Serrure Connectée / Smartlock Ezviz DL01 Pro + Clavier + Hub",
-   "price_raw": "69,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/serrure-connectee-ezviz-serrure-dl01-pro-clavier-hub-3443951",
-   "posted_at": "2026-11-02T07:22:57+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 230,
+  "listings_seen": 231,
   "models_with_reference": 7
  }
 }
