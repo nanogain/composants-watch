@@ -1,9 +1,10 @@
 # composants-watch
 
-Veille **entièrement déterministe** (aucun LLM) du marché des composants PC : cartes
+Veille **entièrement déterministe** (aucun LLM côté Pi) du marché des composants PC : cartes
 graphiques, processeurs, mémoire vive, SSD, cartes mères, alimentations, ventirads et
 AIO, boîtiers, écrans et claviers. Elle tourne
-sur un Raspberry Pi et publie les bonnes affaires sur une page GitHub Pages.
+sur un Raspberry Pi et publie les bonnes affaires sur une page GitHub Pages. Seul le
+configurateur propose, en option et dans ton navigateur, un conseiller IA (voir plus bas).
 
 Une annonce est signalée si :
 - **cible atteinte** : le composant est dans `watchlist.json` et son prix (port compris)
@@ -126,6 +127,29 @@ affaires sont marquées « ★ » en tête de liste. Les contrôles sont déterm
 longueur de la carte graphique et la hauteur du ventirad (non vérifiées). Les tables de
 sockets et de consommation sont dans `composants_watch/specs.py`. La configuration est
 gardée dans le navigateur ; une annonce disparue est signalée et exclue du total.
+
+### Conseiller IA (option)
+
+Le bloc **Générer avec l'IA** demande à Claude (`claude-opus-5-5`) une configuration pour
+un budget et un usage (bureautique, jeu 1080p/1440p/4K, création, développement),
+choisie **uniquement parmi les annonces du catalogue**, pour la tour : processeur, carte
+mère, mémoire, carte graphique, stockage, alimentation, boîtier, ventirad. L'écran et le
+clavier restent ceux que tu as choisis.
+
+- **Ta clé, ton navigateur** : l'appel part directement de la page vers l'API Anthropic
+  avec ta clé personnelle (<https://console.anthropic.com>). Elle est gardée dans le
+  `localStorage` de ton navigateur (bouton « Oublier la clé »), jamais publiée ni envoyée
+  au Pi. La page ne charge aucun script tiers.
+- **Coût** : ≈ 0,10 à 0,30 € par génération, à la charge de ta clé.
+- **Données envoyées** : le budget, l'usage et, pour chaque annonce de la tour, son
+  identifiant, son modèle, un titre court, son prix, son état et ses caractéristiques
+  connues.
+- **Revérification** : la proposition passe par les mêmes contrôles que le configurateur
+  (annonce existante et dans la bonne catégorie, socket, DDR, format, alimentation,
+  budget, total recalculé depuis le catalogue). En cas de problème, une seconde et
+  dernière demande est faite avec la liste des problèmes ; une proposition encore non
+  conforme est affichée avec un avertissement.
+- Rien ne change dans ta configuration tant que tu ne cliques pas sur **Appliquer**.
 
 ## Mise en place de GitHub (une fois)
 

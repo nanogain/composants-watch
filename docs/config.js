@@ -1,7 +1,8 @@
-/* Onglets + configurateur. Dépend de compat.js (window.Compat). Texte inséré uniquement via textContent. */
+/* Onglets + configurateur. Dépend de compat.js (window.Compat) et advisor.js (window.Advisor). Texte inséré uniquement via textContent. */
 "use strict";
 (function () {
   const C = window.Compat;
+  const AI = window.Advisor;
   const KEY = "cw-config-v1";
   const SLOT_INFO = {
     cpu: ["Processeur", "CPU"], mb: ["Carte mère", "MB"], ram: ["Mémoire", "RAM"], gpu: ["Carte graphique", "GPU"],
@@ -166,9 +167,87 @@
         }
         msg.textContent = (data.items || []).length + " annonces disponibles · catalogue du " + new Date(data.generated_at).toLocaleString("fr-FR");
         render();
+        const go = document.getElementById("ai-go");
+        if (go) go.disabled = false;
       })
       .catch((e) => { loading = false; msg.textContent = "Catalogue indisponible (" + e.message + "). Il sera publié au prochain passage du Pi."; });
   }
+
+  // ── conseiller IA ────────────────────────────────────────────────────────
+  const AI_KEY = "cw-ai-key", AI_PREFS = "cw-ai-prefs";
+  const store = {
+    get: (k) => { try { return localStorage.getItem(k); } catch (e) { return null; } },
+    set: (k, v) => { try { localStorage.setItem(k, v); } catch (e) { /* stockage plein ou interdit */ } },
+    del: (k) => { try { localStorage.removeItem(k); } catch (e) { /* idem */ } },
+  };
+
+  function renderProposal(box, r) {
+    const list = el("ul", { class: "ai-picks" });
+    for (const slot of Object.keys(AI.TOWER_SLOTS)) {
+      const it = r.selection[slot];
+      list.append(it
+        ? el("li", {}, SLOT_INFO[slot][0] + " : " + label(it) + " · " + eur(it.effective_eur) + " · ", link(it.url, "Voir l'annonce"))
+        : el("li", {}, SLOT_INFO[slot][0] + " : —"));
+    }
+    const checks = el("ul", { class: "plain" });
+    for (const c of C.evaluate(r.selection).checks) checks.append(el("li", { "data-status": c.status }, ICON[c.status] + " " + c.message));
+    const apply = el("button", { id: "ai-apply", type: "button" }, "Appliquer");
+    apply.addEventListener("click", () => {
+      for (const slot of Object.keys(AI.TOWER_SLOTS)) {
+        delete stale[slot];
+        if (r.selection[slot]) selection[slot] = r.selection[slot]; else delete selection[slot];
+      }
+      save(); render(); box.replaceChildren();
+    });
+    const dismiss = el("button", { id: "ai-dismiss", type: "button" }, "Ignorer");
+    dismiss.addEventListener("click", () => box.replaceChildren());
+    box.replaceChildren(
+      r.problems.length ? el("p", { class: "ai-warn" }, "⚠️ Proposition non conforme : " + r.problems.join(" ; ")) : "",
+      list,
+      el("p", { class: "cfg-total" }, "Total : ", el("strong", {}, eur(r.total))),
+      checks,
+      el("p", { class: "sub" }, r.rationale || ""),
+      el("div", { class: "cfg-buttons" }, apply, dismiss));
+  }
+
+  function bindAi() {
+    const go = document.getElementById("ai-go");
+    if (!go || !AI) return;
+    const budget = document.getElementById("ai-budget"), usage = document.getElementById("ai-usage");
+    const keyInput = document.getElementById("ai-key"), status = document.getElementById("ai-status");
+    const box = document.getElementById("ai-result");
+    for (const [code, name] of AI.USAGES) usage.append(el("option", { value: code }, name));
+    usage.value = "game1440";
+    try {
+      const p = JSON.parse(store.get(AI_PREFS) || "{}");
+      if (p && Number(p.budget) > 0) budget.value = String(p.budget);
+      if (p && AI.USAGES.some(([c]) => c === p.usage)) usage.value = p.usage;
+    } catch (e) { /* préférences illisibles : valeurs par défaut */ }
+    const keyHint = () => { keyInput.placeholder = store.get(AI_KEY) ? "clé enregistrée dans ce navigateur" : "sk-ant-…"; };
+    keyHint();
+    document.getElementById("ai-forget").addEventListener("click", () => { store.del(AI_KEY); keyHint(); status.textContent = "Clé oubliée."; });
+    go.addEventListener("click", async () => {
+      if (!catalog || go.dataset.busy === "1") return;
+      const typed = (keyInput.value || "").trim();
+      if (typed) { store.set(AI_KEY, typed); keyInput.value = ""; keyHint(); }
+      const key = typed || store.get(AI_KEY);
+      if (!key) { status.textContent = "Colle ta clé API Anthropic (console.anthropic.com)."; return; }
+      const b = Number(budget.value);
+      if (!(b > 0)) { status.textContent = "Indique un budget en euros."; return; }
+      store.set(AI_PREFS, JSON.stringify({ budget: b, usage: usage.value }));
+      go.disabled = true; go.dataset.busy = "1";
+      status.textContent = "Génération… (≈ 30 s)";
+      box.replaceChildren();
+      try {
+        const r = await AI.generate({ key, budget: b, usage: usage.value, items: catalog.items || [], catalogById: byId,
+          Compat: C, fetch: (u, i) => fetch(u, i) });
+        if (r.error) { status.textContent = r.error; return; }
+        status.textContent = r.attempts > 1 ? "Proposition corrigée après une seconde demande." : "";
+        renderProposal(box, r);
+      } finally { go.disabled = false; go.dataset.busy = ""; }
+    });
+  }
+  bindAi();
 
   // ── onglets ──────────────────────────────────────────────────────────────
   function show(tab) {
