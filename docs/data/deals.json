@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T08:08:00Z",
+ "generated_at": "2026-11-04T08:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-04T08:08:00.669773+00:00"
+   "items": 343,
+   "last_ok": "2026-11-04T08:38:00.676753+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T08:08:00.669773+00:00"
+   "last_ok": "2026-11-04T08:38:00.676753+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Keyboard] Rosewill Neon S75 Wireless Mechanical Gaming Keyboard, 80-Key Layout w/ Volume Knob, Bluetooth / 2.4GHz / USB-C, Hot-Swappable Red Switches, RGB Backlit, 6000mAh Battery, Black - $35.99 (w/code: SSF74444)",
+   "price_raw": "$35.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnixy8/keyboard_rosewill_neon_s75_wireless_mechanical/",
+   "posted_at": "2026-11-04T08:24:11+00:00"
+  },
+  {
+   "title": "[Other] GLORIOUS Gaming Wooden Keyboard Wrist Rest (Compact) - White Ash Wood, Medium-Coarse Grain, Smooth Surface, Sweat & Oil Resistant, Easy Clean, Anti-Slip Rubber Base, 13\" x 4\" x 0.79\" - Onyx -$5.99",
+   "price_raw": "$5.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnix0n/other_glorious_gaming_wooden_keyboard_wrist_rest/",
+   "posted_at": "2026-11-04T08:22:27+00:00"
+  },
   {
    "title": "APPLE iPad 11\" A16 128GB",
    "price_raw": "439,69€",
@@ -571,24 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-n16-pro-ai-ordinateur-portable-intel-core-ultra-5-115u-16-pouces-ecran-3445189",
    "posted_at": "2026-11-03T11:19:20+00:00"
-  },
-  {
-   "title": "PC Portable 14,1\" FUCHU - Intel Atom A3950, 12Go RAM, 256Go SSD, W11",
-   "price_raw": "127,68€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-3445155",
-   "posted_at": "2026-11-03T10:50:40+00:00"
-  },
-  {
-   "title": "Carte de capture Elgato 4K X - 4K144, latence ultra-basse, PS5|Pro, Xbox Series XIS, Switch 2, HDMI 2.1, VRR, HDR10, USB 3.2, PC/Mac/iPad",
-   "price_raw": "229,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/elgato-4k-x-carte-de-capture-4k144-latence-ultra-basse-ps5pro-xbox-series-xis-switch-2-hdmi-21-vrr-hdr10-usb-32-pcmacipad-3444523",
-   "posted_at": "2026-11-02T16:21:59+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 233,
+  "listings_seen": 235,
   "models_with_reference": 7
  }
 }
