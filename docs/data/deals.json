@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-04T22:38:00Z",
+ "generated_at": "2026-11-04T23:07:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-04T22:38:00.652516+00:00"
+   "last_ok": "2026-11-04T23:07:00.661110+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T22:38:00.652516+00:00"
+   "last_ok": "2026-11-04T23:07:00.661110+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-04T22:38:00.652516+00:00"
+   "items": 373,
+   "last_ok": "2026-11-04T23:07:00.661110+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 14,
-   "last_ok": "2026-11-04T22:38:00.652516+00:00"
+   "items": 0,
+   "last_ok": "2026-11-04T23:07:00.661110+00:00"
   }
  },
  "watchlist": [
@@ -177,23 +177,6 @@
    "posted_at": "2026-10-31T16:18:49+00:00"
   },
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 214.99,
-   "discount_pct": 20.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JC2WgOubzXhAu47CvThrZjmX5XuMoGSgQf7ZRbLLV7aPOc0xOu0V5TLktX4t7Qe3mf26Ue7J1oDUIj3R3A5rQGruUq7o22amZ7i17%2BVHAzjaoiFe3QaTaFcIbVxSYC5bOK%2Bqf6qULBFrpmOaT2aJ1EC",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
    "title": "SSD Micron 2200 256Go M.2 2280 NVMe PCIe Gen3 x4 – Testé – Santé 71%",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -228,6 +211,23 @@
    "posted_at": "2026-11-02T10:02:33+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 468.5,
+   "discount_pct": 16.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -247,32 +247,18 @@
  ],
  "unclassified": [
   {
+   "title": "Be Quiet! Pure Rock LP - Ventirad Processeur - Boîte Ouverte",
+   "price_raw": "35.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336527744828?_skw=ventirad&hash=item4e5a9ddf3c:g:ZrYAAeSwK89p2PZa",
+   "posted_at": "2026-04-10T13:10:09+00:00"
+  },
+  {
    "title": "Disque SSD SanDisk 64Go 2,5\" SATA III SDSSDP-064G Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800878076983?_skw=ssd&hash=itemba780da437:g:c7gAAeSwGZlq66~N&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kXzPnBI4X2kRAwwwSCZdjC9RQaAYquVBjHDesbP%2F5GLhemZ4meIf0aKPZYV%2F4w775jhTjdnw7CWZ2GylIXk%2Ba4nbsBYEKmNP1apVJgk1fbIB8Yhigjc227yZ5npQ6nL1V0%2BPkvCKKq3zPyp1y3Z5jHVUbnY9SzxiI5j1OvIorckYUt4dvCgVB4cFP%2FHGfSZcOpSITG5QSalj0%2FgCz5YrmiXo%2B7NuCDv7r4HyzNcZbAivsVwuW2BbQaakhtHVx1BPNYP4bjBvPDH6oX3pc0f3TA",
+   "url": "https://www.ebay.fr/itm/800878076983?_skw=ssd&hash=itemba780da437:g:c7gAAeSwGZlq66~N&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kXzPnBI4X2kRAwwwSCZdjC9RQaAYquVBjHDesbP%2F5GLhemZ4meIf0aKPZYV%2F4w775jhTjdnw7CWZ2GylIXk%2Ba4nbsBYEKmNP1apVJgk1fbIB8Yhigjc227yZ5npQ6nL1WPVr3kuv%2B2CvpiWu7waWqnj06Uk4mxgNxGgRLoOLCblakpnCZ6xtY6L2UFCij6DGIZ%2BntJTZdD8hckM854APg%2FGsrGNN%2Fh8KmI%2F7acsGlUJ4WZBI0geGL9PrQZOiHTvitHLUEuQrWzyAzp0VFC89VN",
    "posted_at": "2026-11-04T22:20:55+00:00"
-  },
-  {
-   "title": "Fikwot NVMe SSD M.2 PCIe 4.0 2280 Disque Dur SSD Internes PS5 Jusqu’à 7300 Mo/s",
-   "price_raw": "109.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366667754404?_skw=ssd&hash=item555f19eba4:g:E24AAeSwvqJqWE-H",
-   "posted_at": "2026-09-14T06:16:01+00:00"
-  },
-  {
-   "title": "OMOTON Clavier sans Fil Bluetooth AZERTY Rétroéclairé Métal Rechargeable",
-   "price_raw": "84.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635187153?_skw=clavier&hash=item225fbe2dd1:g:d7wAAeSwNZ9qzzXO&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kBqW%2FRXh1Ln1fVMULQADVoS9%2F%2Bz1rLKEozlEDjLoteanluDPds9oaF5WcbglENP18uL8SR8ZRnktWfY0G1mZA%2BvxJiDiZmUVsaWQiQVKJ9bxMZxYwxFEuSwnVq%2BNV5vybByinlJim2drcJKATuFgBeB7YApcDGl%2Fvf%2FdRMzBTLNCtFGLNxd8Z1hV1TFZhIvoAXILUZG5ZtIv3IjARFC2s2J8PUKTNU50RufSKqrwLM6Rk35JN4qxhQ6hUgXmSbPuaOpZxVpP1Lr2HK7%2Bz6fGNYVWq4zs76b2X9i%2B233rZncQ%3D%3D",
-   "posted_at": "2026-10-14T07:57:13+00:00"
-  },
-  {
-   "title": "Adaptateur Boîtier SSD M.2 NGFF B-Key vers SATA, compatible mSATA, noir",
-   "price_raw": "18.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800877995813?_skw=ssd&hash=itemba780c6725:g:9bcAAeSw~epq66kd",
-   "posted_at": "2026-11-04T21:52:43+00:00"
   },
   {
    "title": "Sac à dos Tucano Goal Bkgoal CP - Pour MacBook Air/Pro 13\" et les Ordinateurs portables jusqu'à 14\", Plusieurs coloris (tucano.com)",
@@ -327,7 +313,7 @@
    "title": "Carte graphique ASUS GeForce GT 520 2 Go DDR3 VGA HDMI DVI Rétro Gaming",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257829925486?_skw=carte+graphique&hash=item3c07dc726e:g:cQoAAeSw~0Fq6Gxe&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nhiDe2CuenYDf3UBrWBieMjGc3Nd4OgebR8W0ehT5iHt0H7XkHA0T3Tt%2FZRx4%2BiRTl2549WRsH4mo%2FOSU9ngJlbusGeTz4vvgaN3bE%2FmQjRFtLpzpNFG%2FepWuewzJgvbMR3KmT22eacEXcPttazMjhOcyLbh4yD4urulNx9Dvnw8dfQaxFpKiKttAjocKfDqDFXVIchQx01L426VREIv%2FFlNAuF2DuioITzkfxFXEzwg2QdYc%2BDhFSVPMdS6Wf%2FxX6hhr9Xdg%2FnFimH6o1BCTwSXyC378mOauQRpE2AYa7PQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/257829925486?_skw=carte+graphique&hash=item3c07dc726e:g:cQoAAeSw~0Fq6Gxe&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nhiDe2CuenYDf3UBrWBieMjGc3Nd4OgebR8W0ehT5iHt0H7XkHA0T3Tt%2FZRx4%2BiRTl2549WRsH4mo%2FOSU9ngJlbusGeTz4vvgaN3bE%2FmQjRFtLpzpNFG%2FepWuewzJgvbMTczWNiPEJ2%2BBl5PQ8DfK5KtRKXnBG1sVVU8l9ok2nqAg59N8d1PNcnL24mzsUtz7z%2BDB%2F3SlHqiguAqN3hzApa%2FswNe4Ato2EuyAtU7iro%2B5EXSuBFJrHN1MZLpMIlhH6DNR1DXLOBL7OXzmi83QZOA3cjN5H2eJphrk9lw3nWQ%3D%3D",
    "posted_at": "2026-11-02T11:00:55+00:00"
   },
   {
@@ -338,10 +324,17 @@
    "posted_at": "2026-09-18T20:25:15+00:00"
   },
   {
+   "title": "Fikwot NVMe SSD M.2 PCIe 4.0 2280 Disque Dur SSD Internes PS5 Jusqu’à 7300 Mo/s",
+   "price_raw": "175.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366667754404?_skw=ssd&hash=item555f19eba4:g:E24AAeSwvqJqWE-H",
+   "posted_at": "2026-09-14T06:16:01+00:00"
+  },
+  {
    "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
    "price_raw": "129.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk7rNeJz4Kyevd2g2kpeuALzkiWFHkBac5LKe8p8KqOwkIl2Vf0DU9LPv1iZHBR5spwEjT4VMmhefw0LJlciwmSIHNjkh3trO%2Fgh1Si6Zx5jwm6ZBEVYvsn5Hhir7%2Fq7cPm1Wih3Zu%2B2BPuPOw7d8rQPi13zBJ9QKZ12Vb4xzEPW1Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk5VYAn4yPJifzm4sOi6ZFC8FB7V8Uan%2F7FMLeUHmSdx8EUlW5QYbyWzH1I%2B3vxqz4G5e%2B%2BHfJLuTtCqMfD%2F9emvURq8IW%2BjAso8l2gKsb77I%2FxMWnbYy47ZxuWCm9bRfwDOugYnAMk0oJx6mlxrZC5wYXW3AYUj8XcYrYraq5a9tw%3D%3D",
    "posted_at": "2026-11-04T20:24:41+00:00"
   },
   {
@@ -404,7 +397,7 @@
    "title": "NZXT Phantom 410 Rouge ATX Rétro Gaming Boîtier PC Reconditionné Très Bon État",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257525514556?_skw=boitier+pc&hash=item3bf5b7813c:g:djEAAeSwPO5pwoeW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8hERltQi6oQxgHPBsTWUiCOLiyk8QyhLc8aP6xnPgWZwDzKtmNeKgIG%2BXerP2lRJwLBL8rZ6VYR3PcZKVFZSV838fOsTwjOZsWJLLDn%2FwDlFisiPSvNgP1LwaFJpbRldfZeV0JywTAvKAYDGGF1guzD6TlkBqc%2B9bmIJpxuc19mR8rrY7OLfLorsgfvFoSumjPKwEzMl5gz4bMG%2Fj%2BpHS1%2BjVzRDZvLR5zL%2BsiThy94zhjYcAKOePN3hQjm%2BqoUmtHMKXOPc%2FBWCSXjVA6gAbVQMHvTYos6dAskRCBPYO7w%3D%3D",
+   "url": "https://www.ebay.fr/itm/257525514556?_skw=boitier+pc&hash=item3bf5b7813c:g:djEAAeSwPO5pwoeW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8hERltQi6oQxgHPBsTWUiCOLiyk8QyhLc8aP6xnPgWZwDzKtmNeKgIG%2BXerP2lRJwLBL8rZ6VYR3PcZKVFZSV838fOsTwjOZsWJLLDn%2FwDlFisiPSvNgP1LwaFJpbRld9MRQCJWQ95eYY1r6jmDzkwtWJtv7cOF%2FCVSTgCHi8m4oyhv6neAf2nuba1y2QU2SJiBEn7AtU38xHqHLCQjOoPSuab4bkTz8SQlrY8oT56fru0NZOEQrDpssp3Kp702aS2IMEWxNk4qaufsrM6sVaJIcYxXLsPtZU6ALaLFykMQ%3D%3D",
    "posted_at": "2026-05-25T10:25:35+00:00"
   },
   {
@@ -471,6 +464,13 @@
    "posted_at": "2026-04-01T13:32:52+00:00"
   },
   {
+   "title": "Samsung 8 Go DDR4 SO-DIMM PC4-2666V 260 broches M471A1K43CB1-CTD",
+   "price_raw": "30.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940049020745?_skw=ddr4&hash=itemdadf49b749:g:k80AAeSwX9dq4wFp",
+   "posted_at": "2026-10-29T08:20:20+00:00"
+  },
+  {
    "title": "Ecran PC AOC 69 cm  27\" (IPS, 60Hz)",
    "price_raw": "80.00 EUR",
    "source": "ebay",
@@ -488,14 +488,14 @@
    "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
    "price_raw": "37.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIKu2iVYLevksgcduBpgeZY8FdFfZG8JAo1BfhafEv0ECbAHBBL3gv00ZbzcR3vu7hWibQQYOvTWW8osf9%2B0EzKK9A1MTtN8uTqAxdg%2B5Txx7R3DMurZRgeWuulysRm%2ByUDYpiaskLvoTstq8ga3TOYOiVjUK3xJ6Llz8Y%2FYBHB02w%3D%3D",
+   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIIalXz7Z2YYCLQeo%2BRGkywPd2iTdRitVu3yJ7fFWYvDbtNlAI9PCzLM2RgLreABqnxHIfKGODDKFVHr6QBVJVnc7QHlYJWAWnfdlLGbdGaCkTVbwRlF%2FA7t8WiDGSZJGidYL%2BKLWvX%2BvR0j5KLUvcL2wTakYsZNivFYVP8XiTCCzw%3D%3D",
    "posted_at": "2025-06-11T17:22:06+00:00"
   },
   {
    "title": "Kingston FURY Beast RGB 16 Go DDR5 6000MT/s CL30 DIMM AMD EXPO Intel XMP",
    "price_raw": "466.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318884520533?_skw=ddr5&hash=item4a3effa255:g:nmoAAeSwf8FqrHuj",
+   "url": "https://www.ebay.fr/itm/318884520533?_skw=ddr5&hash=item4a3effa255:g:nmoAAeSwf8FqrHuj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nmtdG0a64Ts2kTuw7JdajB2AX%2FDGI9Vms9R%2FU1cACZztvEz35KUVk0je5hbcRdrHhuttvMHHB%2Fko96f5oCIbm3rNLIFGxPxNhzhAHI9MNoGD8HVTPH%2B8Ai3NtIxcfUYUwIqjOUY8OYZrUyuAT%2F0%2BibQMnknwdmtVLBsWeDlKU8Q0b2O1a6mynM%2FCmQK%2FZ%2B%2B5laUntTCPGAwVUvdbEi5jfN9TBeKg1Ya0TjEMMC%2FS2OpE4bLrZTMqrvjKFt8PNoxM%2FigxlHMLukrFI4xJW8Cm8oPLh%2Fb1fQ3ERdf7fziWb7lw%3D%3D",
    "posted_at": "2026-09-17T23:45:52+00:00"
   },
   {
@@ -504,13 +504,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237145049844?_skw=watercooling&hash=item3736f24af4:g:8XcAAeSwFuJq4Bp7",
    "posted_at": "2026-10-26T11:36:15+00:00"
-  },
-  {
-   "title": "Dell P2217H Écran PC  22\" Full HD IPS – HDMI / Dp / VGA / USB – Pied Réglable A",
-   "price_raw": "59.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287487222087?_skw=%C3%A9cran+pc&hash=item42ef92e147:g:EvcAAeSw3mlqZ2I-",
-   "posted_at": "2026-07-27T13:52:01+00:00"
   },
   {
    "title": "[USB C Hub] Refurb SABRENT USB C Hub 5-in-1 Docking Station, 10Gbps USB-A & USB-C Ports, 4K HDMI Output, 100W PD Input, 80W Charging - $5.99 ($10.99 -$5 w/ code SABRENT)",
@@ -523,7 +516,7 @@
    "title": "Processeur Intel Xeon W3565 4 cœurs 3,20 GHz 8 Mo LGA1366 SLBEV Garantie : 2 ans",
    "price_raw": "43.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800844185757?_skw=processeur&hash=itemba7608809d:g:K9AAAeSwYSZq3i3E&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2NG7mqzUCD70rzVbts06sEJi%2BotBn5IrrggNat%2B%2FvJxtk%2F2b2UexZc89CTDGnrffWH0kh8Lam4wP5E47%2FMAtnduS5%2FD6ONnPMYZrjv6KgjNRSRsdTIWENUzFzgXm3a4u9pOlWXOLbcOG0LzAoAbjXG4xRNnNuftZx7q%2Fevh3Wv1jBf5EUcsFMHQ308sKu42rP9b3UTzbMQahx5saCTskNlXY%2Bw9iQCF47o038LyLFbuRvGFHzka6nczvm6xnBwEFndARtsXUsxHvVeUPtyr4LITnwhRAkuVASvmPIEvllJA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800844185757?_skw=processeur&hash=itemba7608809d:g:K9AAAeSwYSZq3i3E&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2NG7mqzUCD70rzVbts06sEJi%2BotBn5IrrggNat%2B%2FvJxtk%2F2b2UexZc89CTDGnrffWH0kh8Lam4wP5E47%2FMAtnduS5%2FD6ONnPMYZrjv6KgjNRSRsdTIWENUzFzgXm3a4uG6wpnXMZ9LwwWMznTvaN%2B4K1oMGTV495LtfPBCUZUIWpOnzZhvKThS8dclmuQMx37HOIIlgY3M538mXyh8blvICm4H4wchpM%2Bfn5Sj%2Bk2wSUfj9Ji5DrPcaZ0SL3Vr7HlOq5ZBra9iiN5z%2B%2FZElD67dRIdRKnQ5mlA8r5UPpqKw%3D%3D",
    "posted_at": "2026-10-27T12:05:41+00:00"
   },
   {
@@ -541,6 +534,13 @@
    "posted_at": "2026-11-04T11:59:35+00:00"
   },
   {
+   "title": "Écran Dell 17\" LCD 1280x1024 SXGA 60Hz 5:4 VGA Moniteur PC Testé",
+   "price_raw": "19.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/188746644834?_skw=%C3%A9cran+pc&hash=item2bf22d3d62:g:1XsAAeSwRydqcvtP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nDC5afySh90CvWk7232nlhUaMNKY0OveDhIHwUO3NF1ks2Klv5jUA13Tfdj3cGWvxm9Lm8aowSjJtVbynooQRthycv3htBMmlSh9w0Fm2wWsei1%2Flvr53gW4PtOclGsOrTbz9fRB0Y9nxIKgm5tcoVfrTw45k6BskS%2FObnGreEEKc5avBl7BBw2%2FTQGt7KzDh12CRAQ1mw4UEoWhCfbx66mLJtyPxLgApUnzA0QWD%2FbIFROAQyllNd4GJoT7cpIBzVymBojlFI1RczqysaMT0ppYK%2FTcgAgOarNNVZubU2ug%3D%3D",
+   "posted_at": "2026-08-05T09:13:53+00:00"
+  },
+  {
    "title": "Carte mère AMD avec son ventilateur",
    "price_raw": "16.15 EUR",
    "source": "ebay",
@@ -551,7 +551,7 @@
    "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
    "price_raw": "136.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvT0xuK%2Fxct0oVGiPToDDsEY9X%2BPDJLke8ONx7Vno1lx4ZVFNdeRFNBDsTKO9expDF%2Bd8W6wi%2BDzoEoN1dEcFLLS8d57B0zg0NbtTx982427AUrmc%2FeDE9t2pEIoExnMNoUNmMYkTMh%2BfBoNblrIyKe0V46nNFLpCNdeNQzbE1eI9Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvSLV5iMjNToPMby%2FkgWIAFLMefr5rT5XFjA%2Bvcw6AAo%2BuRNMTMApF00DgWfwhnYracim8HVc%2FvgU01aG9OsoRwlHFRLWRJmTSJ2bjs8%2B1NgyHgxjiSonpBpOVUqJbHYbX%2FUxc4gFomltm1FOu%2B0QZtcfMmxE8hi8cITRa2SMWLtUA%3D%3D",
    "posted_at": "2026-10-14T07:28:32+00:00"
   },
   {
@@ -586,7 +586,7 @@
    "title": "Carte graphique NVIDIA NVS 510 2Go DDR3 4x Mini DisplayPort x16 Garantie : 2 ans",
    "price_raw": "26.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837402505?_skw=carte+graphique&hash=itemba75a0ff89:g:kUMAAeSwIhZq3h9y&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mKrZpoyzY6M7e%2Be2S%2BN9PhBEztcTIzdOfwD6gAp%2FOWdKmv1YaquCYbTpyjQlwHWEjMtTUabvwcXYtVIjaahqKMNG1kY9O5U8fyYhd8oprpHpX%2FtXoBBpADYZTM5G%2FgQ24oA4HHYhWWCcnj6knrJdGnI4593YsLVbBlhrHJGudBY7ZrrC2Yo9YSRML3T7RkeIUfaxuE4TXdHiUXtKoTzhw47Kgp4KjV1uvjxm5Ci%2FnxIHX2xDzFR41hKbPXg4MMxy5hbFzA6CUjlzQH6PX7VWiv4ZWEpxAl23f4FOanLFdZHA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837402505?_skw=carte+graphique&hash=itemba75a0ff89:g:kUMAAeSwIhZq3h9y&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mKrZpoyzY6M7e%2Be2S%2BN9PhBEztcTIzdOfwD6gAp%2FOWdKmv1YaquCYbTpyjQlwHWEjMtTUabvwcXYtVIjaahqKMNG1kY9O5U8fyYhd8oprpHpX%2FtXoBBpADYZTM5G%2FgQ24bBjQDqyGQY8xLfwiEU901zZxxFFzgUf1Xst%2FTNcyZBL4G%2BuZVmToc7wKCzixjT38Zo8JJRShJGl52hgukOkFfDakVXItx9j37n50JFuASrAiRZLChm%2BD9JDCjmQr14ALlWHrVFu2h56g944R70uuGExAIY6d%2BGdITvb8auc0ZsA%3D%3D",
    "posted_at": "2026-10-25T16:32:30+00:00"
   },
   {
@@ -598,7 +598,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 721,
+  "listings_seen": 725,
   "models_with_reference": 16
  }
 }
