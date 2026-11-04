@@ -2,10 +2,10 @@
 (function () {
   const CAT = { GPU: "Carte graphique", CPU: "Processeur", RAM: "Mémoire", SSD: "SSD", MB: "Carte mère", PSU: "Alimentation",
     COOL: "Ventirad", CASE: "Boîtier", MON: "Écran", KBD: "Clavier" };
-  const SRC = { dealabs: "Dealabs", reddit: "Reddit", ebay: "eBay" };
+  const SRC = { dealabs: "Dealabs", reddit: "Reddit", ebay: "eBay", dealabs_verif: "Vérification Dealabs" };
   const STATUS = { ok: "OK", down: "en panne", disabled: "désactivée" };
   const eur = (v) => (v == null ? "—" : v.toLocaleString("fr-FR", { style: "currency", currency: "EUR" }));
-  let data = null, sortKey = null, sortAsc = false;
+  let data = null, catalog = null, sortKey = null, sortAsc = false;
 
   function el(tag, attrs, ...children) {
     const n = document.createElement(tag);
@@ -98,6 +98,36 @@
     if (!data.unclassified.length) ul.append(el("li", { class: "empty" }, "Rien pour le moment."));
   }
 
+  function renderAll() {
+    const tb = document.getElementById("all-body"), count = document.getElementById("s-count");
+    tb.replaceChildren();
+    if (!catalog) { count.textContent = "Annonces indisponibles."; return; }
+    const r = Search.filterItems(catalog.items || [], {
+      text: document.getElementById("s-text").value, category: document.getElementById("s-cat").value,
+      condition: document.getElementById("s-cond").value, source: document.getElementById("s-src").value,
+      maxPrice: document.getElementById("s-max").value });
+    count.textContent = r.total + " résultat" + (r.total > 1 ? "s" : "") +
+      (r.total > r.rows.length ? ", " + r.rows.length + " affichés : affine la recherche" : "");
+    for (const i of r.rows) {
+      const title = el("td", {}, link(i.url, i.title),
+        el("div", {}, (CAT[i.category] || "") + " · " + (i.condition === "used" ? "occasion" : "neuf")));
+      tb.append(el("tr", { class: i.deal ? "hit" : "" },
+        el("td", { class: "num" }, i.deal ? "★" : ""),
+        title,
+        el("td", { class: "num" }, eur(i.effective_eur)),
+        el("td", { class: "num" }, eur(i.median_eur)),
+        el("td", {}, i.merchant || "—"),
+        el("td", {}, SRC[i.source] || i.source),
+        el("td", {}, age(i.posted_at))));
+    }
+    document.getElementById("all-empty").hidden = r.rows.length > 0;
+  }
+
+  function bindAll() {
+    for (const id of ["s-text", "s-max"]) document.getElementById(id).addEventListener("input", renderAll);
+    for (const id of ["s-cat", "s-cond", "s-src"]) document.getElementById(id).addEventListener("change", renderAll);
+  }
+
   function bind() {
     document.getElementById("f-cat").addEventListener("change", renderOpps);
     document.getElementById("f-cond").addEventListener("change", renderOpps);
@@ -117,4 +147,10 @@
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((d) => { data = d; renderHeader(); renderWatchlist(); renderOpps(); renderUnclassified(); bind(); })
     .catch((e) => { document.getElementById("meta").textContent = "Données indisponibles (" + e.message + ")."; });
+
+  fetch("data/catalog.json", { cache: "no-store" })
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((c) => { catalog = c; })
+    .catch(() => { catalog = null; })
+    .then(() => { bindAll(); renderAll(); });
 })();

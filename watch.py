@@ -19,13 +19,13 @@ from typing import Callable
 from composants_watch.catalog import build_catalog
 from composants_watch.config import load_config, load_watchlist
 from composants_watch.http import FetchError
+from composants_watch.liveness import verify_dealabs
 from composants_watch.models import Listing
 from composants_watch.normalize import apply
 from composants_watch.publish import build_payload, git_push, write_json
 from composants_watch.score import make_ref, score
 from composants_watch.sources.dealabs import fetch_dealabs, parse_dealabs
-from composants_watch.sources.ebay import (GENERIC_QUERIES, ebay_reference, fetch_ebay,
-                                           load_credentials)
+from composants_watch.sources.ebay import ebay_queries, ebay_reference, fetch_ebay, load_credentials
 from composants_watch.sources.reddit import fetch_reddit, parse_reddit
 from composants_watch.store import Store
 
@@ -39,43 +39,63 @@ log = logging.getLogger("composants-watch")
 def run_pass(cfg: dict, watchlist: list[dict], root: Path, *,
              fetchers: dict[str, Callable[[], list[Listing]] | None], push: bool,
              now: datetime, db_path: str | None = None,
-             token_path: Path = SECRETS / "token") -> dict:
+             token_path: Path = SECRETS / "token",
+             verify: Callable[[Store, datetime], dict] | None = None) -> dict:
     root = Path(root)
     if db_path is None:
         (root / "data").mkdir(parents=True, exist_ok=True)
         db_path = str(root / "data" / "watch.db")
     store = Store(db_path)
-    health: dict[str, dict] = {}
-    collected: list[Listing] = []
-    for name, fetch in fetchers.items():
-        if fetch is None:
-            health[name] = {"disabled": True}
-            continue
-        try:
-            items = [apply(li) for li in fetch()]
-        except Exception as e:  # une source ne fait jamais tomber la passe
-            log.warning("source %s en échec : %s", name, e)
-            health[name] = {**store.record_source(name, False, str(e)[:200], now), "items": 0}
-            continue
-        for li in items:
-            store.upsert(li, now)
-        collected += items
-        health[name] = {**store.record_source(name, True, None, now), "items": len(items)}
-        log.info("source %s : %d annonces", name, len(items))
+    try:
+        health: dict[str, dict] = {}
+        collected: list[Listing] = []
+        for name, fetch in fetchers.items():
+            if fetch is None:
+                health[name] = {"disabled": True}
+                continue
+            try:
+                items = [apply(li) for li in fetch()]
+            except Exception as e:  # une source ne fait jamais tomber la passe
+                log.warning("source %s en échec : %s", name, e)
+                health[name] = {**store.record_source(name, False, str(e)[:200], now), "items": 0}
+                continue
+            for li in items:
+                store.upsert(li, now)
+            if name == "ebay":  # n'afficher que ce qui était en ligne au dernier passage réussi
+                store.expire_missing("ebay", {li.source_id for li in items}, now)
+            collected += items
+            health[name] = {**store.record_source(name, True, None, now), "items": len(items)}
+            log.info("source %s : %d annonces", name, len(items))
 
-    recent = store.recent_listings(cfg["retention_days"], now)
-    ref = make_ref(store, cfg, now, ebay_reference(collected, cfg["ebay_min_listings"]))
-    scored = score(recent, store, cfg, watchlist, now, ref=ref)
-    catalog = build_catalog(recent, scored, ref, now)
-    payload = build_payload(scored, health, now, down_after=cfg["down_after_failures"])
-    changed = write_json(payload, root / DEALS_REL)
-    write_json(catalog, root / CATALOG_REL)
-    log.info("deals.json %s — %d opportunités", "mis à jour" if changed else "inchangé",
-             len(payload["opportunities"]))
-    if push:
-        ok, msg = git_push(root, [DEALS_REL, CATALOG_REL], token_path, now)
-        (log.info if ok else log.error)("publication : %s", msg)
-    return payload
+        if verify is not None:
+            try:
+                r = verify(store, now)
+                ok = r["checked"] > 0 or (r["stopped"] is None and r["failures"] == 0)
+                health["dealabs_verif"] = {**store.record_source("dealabs_verif", ok, None if ok else
+                                                                 f"{r['failures']} échecs", now),
+                                           "items": r["checked"]}
+                log.info("vérification dealabs : %s", r)
+            except Exception as e:  # la vérification ne fait jamais tomber la passe
+                log.warning("vérification dealabs en échec : %s", e)
+                health["dealabs_verif"] = {**store.record_source("dealabs_verif", False, str(e)[:200], now),
+                                           "items": 0}
+
+        recent = store.recent_listings(cfg["retention_days"], now, visible_hours=cfg["verify_visible_hours"],
+                                       reddit_hours=cfg["reddit_display_hours"])
+        ref = make_ref(store, cfg, now, ebay_reference(collected, cfg["ebay_min_listings"]))
+        scored = score(recent, store, cfg, watchlist, now, ref=ref)
+        catalog = build_catalog(recent, scored, ref, now)
+        payload = build_payload(scored, health, now, down_after=cfg["down_after_failures"])
+        changed = write_json(payload, root / DEALS_REL)
+        write_json(catalog, root / CATALOG_REL)
+        log.info("deals.json %s — %d opportunités", "mis à jour" if changed else "inchangé",
+                 len(payload["opportunities"]))
+        if push:
+            ok, msg = git_push(root, [DEALS_REL, CATALOG_REL], token_path, now)
+            (log.info if ok else log.error)("publication : %s", msg)
+        return payload
+    finally:
+        store.db.close()
 
 
 def real_fetchers(cfg: dict, watchlist: list[dict]) -> dict:
@@ -88,12 +108,21 @@ def real_fetchers(cfg: dict, watchlist: list[dict]) -> dict:
         return listings
 
     creds = load_credentials(SECRETS / "ebay.json") if cfg["ebay_enabled"] else None
-    queries = [w.get("label", w["model"].split(":", 1)[-1]) for w in watchlist] + GENERIC_QUERIES
+    queries = ebay_queries(watchlist)
     return {
         "dealabs": dealabs,
         "reddit": fetch_reddit if cfg["reddit_enabled"] else None,
-        "ebay": (lambda: fetch_ebay(queries, creds)) if creds else None,
+        "ebay": (lambda: fetch_ebay(queries, creds, datetime.now(timezone.utc), limit=cfg["ebay_limit"]))
+        if creds else None,
     }
+
+
+def _dry_verify(store: Store, now: datetime) -> dict:
+    """Vérification simulée (--dry) : toutes les annonces Dealabs sont actives."""
+    todo = store.to_check(now, 3650, 0, 10**6)
+    for sid, _ in todo:
+        store.mark_checked("dealabs", sid, False, now)
+    return {"checked": len(todo), "expired": 0, "failures": 0, "stopped": None}
 
 
 def dry_fetchers() -> dict:
@@ -135,10 +164,11 @@ def main(argv: list[str] | None = None, root: Path | None = None) -> int:
         now = datetime.now(timezone.utc)
         if args.dry:
             run_pass(cfg, watchlist, root, fetchers=dry_fetchers(), push=False, now=now,
-                     db_path=":memory:")
+                     db_path=":memory:", verify=_dry_verify)
         else:
             run_pass(cfg, watchlist, root, fetchers=real_fetchers(cfg, watchlist),
-                     push=not args.no_push, now=now)
+                     push=not args.no_push, now=now,
+                     verify=lambda store, t: verify_dealabs(store, t, cfg))
     return 0
 
 

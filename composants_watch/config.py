@@ -17,6 +17,12 @@ DEFAULTS = {
     "ebay_min_listings": 3,
     "retention_days": 7,
     "down_after_failures": 5,
+    "verify_max_pages": 80,
+    "verify_budget_s": 240,
+    "verify_recheck_hours": 3,
+    "verify_visible_hours": 6,
+    "reddit_display_hours": 48,
+    "ebay_limit": 50,
 }
 
 

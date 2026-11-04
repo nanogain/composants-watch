@@ -147,7 +147,31 @@ const scenarios = {
     input.value = "5600"; input.dispatch("input");
     return { opts: sel(env, "cpu").options.map((o) => o.value) };
   },
+  async all_search() {
+    const env = makeEnv({ fetchImpl: (url) => (url === "data/catalog.json" ? okFetch() : Promise.resolve({ ok: false, status: 404 })) });
+    const deals = env.document.getElementById("tab-deals");
+    const add = (tag, id) => { const e = new El(tag); e.id = id; deals.append(e); return e; };
+    for (const id of ["s-text", "s-max"]) add("input", id);
+    for (const id of ["s-cat", "s-cond", "s-src"]) add("select", id);
+    add("p", "s-count"); add("tbody", "all-body"); add("p", "all-empty");
+    loadApp(env); await tick();
+    const rowsAll = env.document.getElementById("all-body").children.length;
+    const t = env.document.getElementById("s-text"); t.value = "ryzen"; t.dispatch("input");
+    const body = env.document.getElementById("all-body");
+    return { rowsAll, total: catalog.items.length, rows: body.children.length, count: env.document.getElementById("s-count").textContent,
+      titles: body.children.map((r) => r.children[1].children[0].textContent), meta: env.document.getElementById("meta").textContent };
+  },
 };
+
+function loadApp(env) {
+  for (const k of ["document", "location", "localStorage", "navigator", "fetch", "window"]) {
+    Object.defineProperty(global, k, { value: env[k], configurable: true, writable: true });
+  }
+  delete require.cache[require.resolve(path.join(ROOT, "docs/search.js"))];
+  global.Search = require(path.join(ROOT, "docs/search.js"));
+  global.Node = El;
+  new Function(fs.readFileSync(path.join(ROOT, "docs/app.js"), "utf8"))();
+}
 
 (async () => {
   const name = process.argv[2];

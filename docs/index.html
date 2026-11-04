@@ -69,6 +69,67 @@
       <p id="opps-empty" class="empty" hidden>Aucune opportunité pour le moment. L'historique des prix se construit au fil des passes : il faut au moins 5 prix observés pour qu'un modèle ait une référence.</p>
     </section>
 
+    <section id="all">
+      <h2>Toutes les annonces</h2>
+      <p class="sub">Annonces Dealabs vérifiées actives il y a moins de 6 h ; eBay : vendeurs fiables, expédition depuis l'UE. ★ = bonne affaire.</p>
+      <div class="filters">
+        <label>Recherche
+          <input id="s-text" type="search" class="search" placeholder="ex. rtx 4070, ddr5 32" autocomplete="off">
+        </label>
+        <label>Catégorie
+          <select id="s-cat">
+            <option value="">Toutes</option>
+            <option value="GPU">Cartes graphiques</option>
+            <option value="CPU">Processeurs</option>
+            <option value="RAM">Mémoire vive</option>
+            <option value="SSD">SSD</option>
+            <option value="MB">Cartes mères</option>
+            <option value="PSU">Alimentations</option>
+            <option value="COOL">Ventirads et AIO</option>
+            <option value="CASE">Boîtiers</option>
+            <option value="MON">Écrans</option>
+            <option value="KBD">Claviers</option>
+          </select>
+        </label>
+        <label>État
+          <select id="s-cond">
+            <option value="">Neuf et occasion</option>
+            <option value="new">Neuf</option>
+            <option value="used">Occasion</option>
+          </select>
+        </label>
+        <label>Source
+          <select id="s-src">
+            <option value="">Toutes</option>
+            <option value="dealabs">Dealabs</option>
+            <option value="ebay">eBay</option>
+            <option value="reddit">Reddit</option>
+          </select>
+        </label>
+        <label>Prix max (€)
+          <input id="s-max" type="number" min="0" step="1" class="search price">
+        </label>
+      </div>
+      <p id="s-count" class="meta"></p>
+      <div class="table-wrap">
+        <table id="all-table">
+          <thead>
+            <tr>
+              <th class="num">★</th>
+              <th>Annonce</th>
+              <th class="num">Prix (port inclus)</th>
+              <th class="num">Médiane 30 j</th>
+              <th>Marchand</th>
+              <th>Source</th>
+              <th>Âge</th>
+            </tr>
+          </thead>
+          <tbody id="all-body"></tbody>
+        </table>
+      </div>
+      <p id="all-empty" class="empty" hidden>Aucune annonce ne correspond.</p>
+    </section>
+
     <section>
       <details>
         <summary><h2>Non classées et annonces en dollars</h2></summary>
@@ -94,6 +155,7 @@
     <p>Sources : flux RSS Dealabs, flux Reddit r/buildapcsales, API eBay (si configurée). Aucune donnée personnelle, aucun traceur.</p>
   </footer>
   <script src="compat.js"></script>
+  <script src="search.js"></script>
   <script src="app.js"></script>
   <script src="config.js"></script>
 </body>

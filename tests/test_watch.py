@@ -10,7 +10,7 @@ from unittest import mock
 import watch
 from composants_watch.config import DEFAULTS
 from composants_watch.http import FetchError
-from tests.helpers import NOW, make_listing
+from tests.helpers import NOW, make_listing, verify_all_active
 
 WL = [{"model": "GPU:RTX 4070 Super", "label": "4070S", "target_eur": 550}]
 
@@ -56,7 +56,7 @@ class RunPassTest(unittest.TestCase):
         watch.run_pass(dict(DEFAULTS), WL, self.root,
                        fetchers={"dealabs": lambda: [make_listing(title="MSI RTX 4070 SUPER Ventus",
                                                                   model=None, category=None)]},
-                       push=False, now=NOW)
+                       push=False, now=NOW, verify=verify_all_active)
         cat = json.loads((self.root / "docs" / "data" / "catalog.json").read_text())
         self.assertEqual(len(cat["items"]), 1)
         self.assertEqual(cat["items"][0]["attrs"], {"tdp_w": 220})
@@ -77,6 +77,47 @@ class RunPassTest(unittest.TestCase):
             self.assertEqual(gp.call_count, 1)
         self.assertTrue((self.root / "docs" / "data" / "deals.json").exists())
 
+
+    def catalog_ids(self):
+        return [i["id"] for i in json.loads((self.root / "docs" / "data" / "catalog.json").read_text())["items"]]
+
+    def test_unverified_dealabs_hidden(self):
+        f = {"dealabs": lambda: [make_listing()]}
+        watch.run_pass(dict(DEFAULTS), WL, self.root, fetchers=f, push=False, now=NOW)
+        self.assertEqual(self.catalog_ids(), [])
+        watch.run_pass(dict(DEFAULTS), WL, self.root, fetchers=f, push=False, now=NOW, verify=verify_all_active)
+        self.assertEqual(self.catalog_ids(), ["dealabs:1"])
+
+    def test_ebay_missing_expired_only_when_ok(self):
+        e = lambda sid: make_listing(source="ebay", source_id=sid, url=f"https://www.ebay.fr/itm/{sid}")
+        run = lambda fetch, i: watch.run_pass(dict(DEFAULTS), WL, self.root, fetchers={"ebay": fetch},
+                                              push=False, now=NOW + timedelta(minutes=30 * i))
+        run(lambda: [e("e1"), e("e2")], 0)
+        self.assertEqual(sorted(self.catalog_ids()), ["ebay:e1", "ebay:e2"])
+        run(lambda: [e("e1")], 1)
+        self.assertEqual(self.catalog_ids(), ["ebay:e1"])
+
+        def boom():
+            raise FetchError("down")
+        run(boom, 2)
+        self.assertEqual(self.catalog_ids(), ["ebay:e1"])
+
+    def test_verify_health(self):
+        bad = lambda store, now: {"checked": 0, "expired": 0, "failures": 3, "stopped": "failures"}
+        p = watch.run_pass(dict(DEFAULTS), WL, self.root, fetchers={}, push=False, now=NOW, verify=bad)
+        self.assertEqual(p["sources"]["dealabs_verif"]["status"], "ok")
+        from composants_watch.store import Store
+        s = Store(str(self.root / "data" / "watch.db"))
+        self.assertEqual(s.source_health()["dealabs_verif"]["consecutive_failures"], 1)
+        s.db.close()
+
+        def crash(store, now):
+            raise RuntimeError("boom")
+        p = watch.run_pass(dict(DEFAULTS), WL, self.root, fetchers={}, push=False, now=NOW, verify=crash)
+        self.assertIn("dealabs_verif", p["sources"])
+        good = lambda store, now: {"checked": 4, "expired": 1, "failures": 0, "stopped": None}
+        p = watch.run_pass(dict(DEFAULTS), WL, self.root, fetchers={}, push=False, now=NOW, verify=good)
+        self.assertEqual((p["sources"]["dealabs_verif"]["status"], p["sources"]["dealabs_verif"]["items"]), ("ok", 4))
 
 class MainTest(unittest.TestCase):
     def setUp(self):

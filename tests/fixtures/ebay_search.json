@@ -1,14 +1,374 @@
-{"total": 3, "itemSummaries": [
- {"itemId": "v1|1111|0", "title": "MSI GeForce RTX 4070 SUPER Ventus 2X 12G", "price": {"value": "589.90", "currency": "EUR"},
-  "shippingOptions": [{"shippingCostType": "FIXED", "shippingCost": {"value": "9.90", "currency": "EUR"}}],
-  "condition": "Neuf", "conditionId": "1000", "itemWebUrl": "https://www.ebay.fr/itm/1111",
-  "seller": {"username": "vendeur1"}, "itemCreationDate": "2026-11-02T10:00:00.000Z",
-  "image": {"imageUrl": "https://i.ebayimg.com/1.jpg"}, "buyingOptions": ["FIXED_PRICE"]},
- {"itemId": "v1|2222|0", "title": "RTX 4070 Super Founders", "price": {"value": "520.00", "currency": "EUR"},
-  "condition": "Occasion", "conditionId": "3000", "itemWebUrl": "https://www.ebay.fr/itm/2222",
-  "seller": {"username": "vendeur2"}, "itemCreationDate": "2026-11-01T08:00:00.000Z", "buyingOptions": ["FIXED_PRICE"]},
- {"itemId": "v1|3333|0", "title": "Gigabyte RTX 4070 SUPER Eagle", "price": {"value": "610.00", "currency": "EUR"},
-  "shippingOptions": [{"shippingCostType": "FIXED", "shippingCost": {"value": "0.00", "currency": "EUR"}}],
-  "condition": "New", "conditionId": "1000", "itemWebUrl": "https://www.ebay.fr/itm/3333",
-  "seller": {"username": "vendeur3"}, "itemCreationDate": "2026-11-02T12:00:00.000Z", "buyingOptions": ["FIXED_PRICE"]}
-]}
+{
+ "href": "…",
+ "total": 6,
+ "limit": 50,
+ "offset": 0,
+ "itemSummaries": [
+  {
+   "itemId": "v1|100001|0",
+   "title": "Carte graphique MSI GeForce GT 710 2GD3H LP 2 Go DDR3 HDMI DVI VGA",
+   "categories": [
+    {
+     "categoryId": "27386",
+     "categoryName": "Cartes: graphiques, vidéo"
+    },
+    {
+     "categoryId": "58058",
+     "categoryName": "Informatique, réseaux"
+    },
+    {
+     "categoryId": "175673",
+     "categoryName": "Ordinateur: composants, pièces"
+    }
+   ],
+   "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/~mAAAOSwAvtlC0FM/s-l225.jpg"
+   },
+   "price": {
+    "value": "79.00",
+    "currency": "EUR"
+   },
+   "seller": {
+    "username": "vendeur1",
+    "feedbackPercentage": "99.2",
+    "feedbackScore": 1262,
+    "sellerAccountType": "BUSINESS"
+   },
+   "condition": "Neuf",
+   "conditionId": "1000",
+   "shippingOptions": [
+    {
+     "shippingCostType": "FIXED",
+     "shippingCost": {
+      "value": "0.00",
+      "currency": "EUR"
+     }
+    }
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "itemWebUrl": "https://www.ebay.fr/itm/100001",
+   "itemLocation": {
+    "country": "FR"
+   },
+   "adultOnly": false,
+   "unitPricingMeasure": "Unité",
+   "unitPrice": {
+    "value": "79.00",
+    "currency": "EUR"
+   },
+   "legacyItemId": "100001",
+   "availableCoupons": false,
+   "itemOriginDate": "2023-09-20T19:02:18.000Z",
+   "topRatedBuyingExperience": true,
+   "priorityListing": true,
+   "listingMarketplaceId": "EBAY_FR"
+  },
+  {
+   "itemId": "v1|100002|0",
+   "title": "Carte graphique Gigabyte GTX 1070 G1 Gaming 8Go - Parfait état / Boîte d'origine",
+   "categories": [
+    {
+     "categoryId": "27386",
+     "categoryName": "Cartes: graphiques, vidéo"
+    },
+    {
+     "categoryId": "58058",
+     "categoryName": "Informatique, réseaux"
+    },
+    {
+     "categoryId": "175673",
+     "categoryName": "Ordinateur: composants, pièces"
+    }
+   ],
+   "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/DjwAAeSwdV1q6i63/s-l225.jpg"
+   },
+   "price": {
+    "value": "83.80",
+    "currency": "EUR"
+   },
+   "seller": {
+    "username": "vendeur2",
+    "feedbackPercentage": "99.2",
+    "feedbackScore": 1234,
+    "sellerAccountType": "INDIVIDUAL"
+   },
+   "condition": "Occasion",
+   "conditionId": "3000",
+   "shippingOptions": [
+    {
+     "shippingCostType": "FIXED",
+     "shippingCost": {
+      "value": "0.00",
+      "currency": "EUR"
+     },
+     "minEstimatedDeliveryDate": "2026-11-09T23:00:00.000Z",
+     "maxEstimatedDeliveryDate": "2026-11-11T23:00:00.000Z"
+    }
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "itemWebUrl": "https://www.ebay.fr/itm/100002",
+   "itemLocation": {
+    "postalCode": "10***",
+    "country": "DE"
+   },
+   "adultOnly": false,
+   "legacyItemId": "100002",
+   "availableCoupons": false,
+   "itemOriginDate": "2026-11-03T19:00:53.000Z",
+   "topRatedBuyingExperience": false,
+   "priorityListing": false,
+   "listingMarketplaceId": "EBAY_FR"
+  },
+  {
+   "itemId": "v1|100003|0",
+   "title": "Carte graphique Gigabyte GTX 1070 G1 Gaming 8Go - Parfait état / Boîte d'origine",
+   "categories": [
+    {
+     "categoryId": "27386",
+     "categoryName": "Cartes: graphiques, vidéo"
+    },
+    {
+     "categoryId": "58058",
+     "categoryName": "Informatique, réseaux"
+    },
+    {
+     "categoryId": "175673",
+     "categoryName": "Ordinateur: composants, pièces"
+    }
+   ],
+   "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/DjwAAeSwdV1q6i63/s-l225.jpg"
+   },
+   "price": {
+    "value": "83.80",
+    "currency": "EUR"
+   },
+   "seller": {
+    "username": "vendeur3",
+    "feedbackPercentage": "0.0",
+    "feedbackScore": 695,
+    "sellerAccountType": "INDIVIDUAL"
+   },
+   "condition": "Occasion",
+   "conditionId": "3000",
+   "shippingOptions": [
+    {
+     "shippingCostType": "FIXED",
+     "shippingCost": {
+      "value": "0.00",
+      "currency": "EUR"
+     },
+     "minEstimatedDeliveryDate": "2026-11-09T23:00:00.000Z",
+     "maxEstimatedDeliveryDate": "2026-11-11T23:00:00.000Z"
+    }
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "itemWebUrl": "https://www.ebay.fr/itm/100003",
+   "itemLocation": {
+    "postalCode": "45***",
+    "country": "FR"
+   },
+   "adultOnly": false,
+   "legacyItemId": "100003",
+   "availableCoupons": false,
+   "itemOriginDate": "2026-11-03T19:00:53.000Z",
+   "topRatedBuyingExperience": false,
+   "priorityListing": false,
+   "listingMarketplaceId": "EBAY_FR"
+  },
+  {
+   "itemId": "v1|100004|0",
+   "title": "Carte graphique Gigabyte GTX 1070 G1 Gaming 8Go - Parfait état / Boîte d'origine",
+   "categories": [
+    {
+     "categoryId": "27386",
+     "categoryName": "Cartes: graphiques, vidéo"
+    },
+    {
+     "categoryId": "58058",
+     "categoryName": "Informatique, réseaux"
+    },
+    {
+     "categoryId": "175673",
+     "categoryName": "Ordinateur: composants, pièces"
+    }
+   ],
+   "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/DjwAAeSwdV1q6i63/s-l225.jpg"
+   },
+   "price": {
+    "value": "83.80",
+    "currency": "EUR"
+   },
+   "seller": {
+    "username": "vendeur4",
+    "feedbackPercentage": "100.0",
+    "feedbackScore": 300,
+    "sellerAccountType": "INDIVIDUAL"
+   },
+   "condition": "Occasion",
+   "conditionId": "3000",
+   "shippingOptions": [
+    {
+     "shippingCostType": "FIXED",
+     "shippingCost": {
+      "value": "0.00",
+      "currency": "EUR"
+     },
+     "minEstimatedDeliveryDate": "2026-11-09T23:00:00.000Z",
+     "maxEstimatedDeliveryDate": "2026-11-11T23:00:00.000Z"
+    }
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "AUCTION"
+   ],
+   "itemWebUrl": "https://www.ebay.fr/itm/100004",
+   "itemLocation": {
+    "postalCode": "45***",
+    "country": "FR"
+   },
+   "adultOnly": false,
+   "legacyItemId": "100004",
+   "availableCoupons": false,
+   "itemOriginDate": "2026-11-03T19:00:53.000Z",
+   "topRatedBuyingExperience": false,
+   "priorityListing": false,
+   "listingMarketplaceId": "EBAY_FR"
+  },
+  {
+   "itemId": "v1|100005|0",
+   "title": "Carte graphique Gigabyte GTX 1070 G1 Gaming 8Go - Parfait état / Boîte d'origine",
+   "categories": [
+    {
+     "categoryId": "27386",
+     "categoryName": "Cartes: graphiques, vidéo"
+    },
+    {
+     "categoryId": "58058",
+     "categoryName": "Informatique, réseaux"
+    },
+    {
+     "categoryId": "175673",
+     "categoryName": "Ordinateur: composants, pièces"
+    }
+   ],
+   "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/DjwAAeSwdV1q6i63/s-l225.jpg"
+   },
+   "price": {
+    "value": "83.80",
+    "currency": "EUR"
+   },
+   "seller": {
+    "username": "vendeur5",
+    "feedbackPercentage": "100.0",
+    "feedbackScore": 300,
+    "sellerAccountType": "INDIVIDUAL"
+   },
+   "condition": "Pour pièces détachées/ne fonctionne pas",
+   "conditionId": "7000",
+   "shippingOptions": [
+    {
+     "shippingCostType": "FIXED",
+     "shippingCost": {
+      "value": "0.00",
+      "currency": "EUR"
+     },
+     "minEstimatedDeliveryDate": "2026-11-09T23:00:00.000Z",
+     "maxEstimatedDeliveryDate": "2026-11-11T23:00:00.000Z"
+    }
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "itemWebUrl": "https://www.ebay.fr/itm/100005",
+   "itemLocation": {
+    "postalCode": "45***",
+    "country": "FR"
+   },
+   "adultOnly": false,
+   "legacyItemId": "100005",
+   "availableCoupons": false,
+   "itemOriginDate": "2026-11-03T19:00:53.000Z",
+   "topRatedBuyingExperience": false,
+   "priorityListing": false,
+   "listingMarketplaceId": "EBAY_FR"
+  },
+  {
+   "itemId": "v1|100006|0",
+   "title": "Carte graphique MSI GeForce GT 710 2GD3H LP 2 Go DDR3 HDMI DVI VGA",
+   "categories": [
+    {
+     "categoryId": "27386",
+     "categoryName": "Cartes: graphiques, vidéo"
+    },
+    {
+     "categoryId": "58058",
+     "categoryName": "Informatique, réseaux"
+    },
+    {
+     "categoryId": "175673",
+     "categoryName": "Ordinateur: composants, pièces"
+    }
+   ],
+   "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/~mAAAOSwAvtlC0FM/s-l225.jpg"
+   },
+   "price": {
+    "value": "79.00",
+    "currency": "EUR"
+   },
+   "seller": {
+    "username": "vendeur6",
+    "feedbackPercentage": "99.2",
+    "feedbackScore": 1262,
+    "sellerAccountType": "BUSINESS"
+   },
+   "condition": "Neuf",
+   "conditionId": "1000",
+   "shippingOptions": [
+    {
+     "shippingCostType": "FIXED",
+     "shippingCost": {
+      "value": "0.00",
+      "currency": "EUR"
+     },
+     "minEstimatedDeliveryDate": "2026-11-08T23:00:00.000Z",
+     "maxEstimatedDeliveryDate": "2026-11-12T23:00:00.000Z"
+    }
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "itemWebUrl": "https://www.ebay.fr/itm/100006",
+   "itemLocation": {
+    "country": "CN"
+   },
+   "adultOnly": false,
+   "unitPricingMeasure": "Unité",
+   "unitPrice": {
+    "value": "79.00",
+    "currency": "EUR"
+   },
+   "legacyItemId": "100006",
+   "availableCoupons": false,
+   "itemOriginDate": "2023-09-20T19:02:18.000Z",
+   "topRatedBuyingExperience": true,
+   "priorityListing": true,
+   "listingMarketplaceId": "EBAY_FR"
+  }
+ ]
+}
