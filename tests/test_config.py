@@ -43,5 +43,11 @@ class ConfigTest(unittest.TestCase):
         self.assertIsNone(make_listing(price_eur=None).effective_eur)
 
 
+    def test_v3_defaults(self):
+        cfg = load_config("/nonexistent/config.json")
+        self.assertEqual((cfg["verify_max_pages"], cfg["verify_budget_s"], cfg["verify_recheck_hours"],
+                          cfg["verify_visible_hours"], cfg["reddit_display_hours"], cfg["ebay_limit"]),
+                         (80, 240, 3, 6, 48, 50))
+
 if __name__ == "__main__":
     unittest.main()

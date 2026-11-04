@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS listings(
   source TEXT, source_id TEXT, url TEXT, title TEXT, model TEXT, category TEXT,
   condition TEXT, merchant TEXT, price_raw TEXT, currency TEXT, posted_at TEXT,
   first_seen TEXT, last_seen TEXT, expired INTEGER DEFAULT 0, attrs TEXT DEFAULT '{}',
-  PRIMARY KEY(source, source_id));
+  checked_at TEXT, PRIMARY KEY(source, source_id));
 CREATE TABLE IF NOT EXISTS observations(
   source TEXT, source_id TEXT, ts TEXT, price_eur REAL, shipping_eur REAL);
 CREATE INDEX IF NOT EXISTS obs_key ON observations(source, source_id, ts);
@@ -40,6 +40,9 @@ class Store:
                                 (json.dumps(attributes(r["category"], r["model"], r["title"]), ensure_ascii=False),
                                  r["source"], r["source_id"]))
             self.db.commit()
+        if "checked_at" not in cols:  # base v2 : jamais vérifiée
+            self.db.execute("ALTER TABLE listings ADD COLUMN checked_at TEXT")
+            self.db.commit()
 
     def upsert(self, li: Listing, now: datetime) -> None:
         ts = now.isoformat()
@@ -51,7 +54,9 @@ class Store:
                  url=excluded.url, title=excluded.title, model=excluded.model,
                  category=excluded.category, condition=excluded.condition,
                  merchant=excluded.merchant, price_raw=excluded.price_raw,
-                 last_seen=excluded.last_seen, expired=excluded.expired,
+                 last_seen=excluded.last_seen,
+                 expired=CASE WHEN listings.source='dealabs'
+                   THEN MAX(listings.expired, excluded.expired) ELSE excluded.expired END,
                  attrs=excluded.attrs""",
             (li.source, li.source_id, li.url, li.title, li.model, li.category,
              li.condition, li.merchant, li.price_raw, li.currency,
@@ -63,13 +68,21 @@ class Store:
                                 (li.source, li.source_id, ts, li.price_eur, li.shipping_eur))
         self.db.commit()
 
-    def recent_listings(self, days: int, now: datetime) -> list[dict]:
+    def recent_listings(self, days: int, now: datetime, visible_hours: float | None = None,
+                        reddit_hours: float | None = None) -> list[dict]:
+        """Annonces récentes ; visible_hours / reddit_hours appliquent la règle d'affichage v3."""
         since = (now - timedelta(days=days)).isoformat()
-        rows = self.db.execute(
-            """SELECT * FROM listings WHERE
-                 (source IN ('dealabs','reddit') AND first_seen >= ? AND posted_at >= ?)
-                 OR (source NOT IN ('dealabs','reddit') AND last_seen >= ?)
-               ORDER BY first_seen DESC""", (since, since, since))
+        sql = """SELECT * FROM listings WHERE
+                 ((source IN ('dealabs','reddit') AND first_seen >= ? AND posted_at >= ?)
+                 OR (source NOT IN ('dealabs','reddit') AND last_seen >= ?))"""
+        args: list = [since, since, since]
+        if visible_hours is not None:
+            sql += " AND (source != 'dealabs' OR (expired = 0 AND checked_at >= ?))"
+            args.append((now - timedelta(hours=visible_hours)).isoformat())
+        if reddit_hours is not None:
+            sql += " AND (source != 'reddit' OR posted_at >= ?)"
+            args.append((now - timedelta(hours=reddit_hours)).isoformat())
+        rows = self.db.execute(sql + " ORDER BY first_seen DESC", args)
         out = []
         for r in rows.fetchall():
             d = dict(r)
@@ -80,6 +93,36 @@ class Store:
             d["shipping_eur"] = last["shipping_eur"] if last else None
             out.append(d)
         return out
+
+    def to_check(self, now: datetime, days: int, recheck_hours: float, limit: int) -> list[tuple[str, str]]:
+        """Annonces Dealabs à (re)vérifier : jamais vérifiées (plus récentes d'abord), puis les plus anciennes."""
+        rows = self.db.execute(
+            """SELECT source_id, url FROM listings
+               WHERE source='dealabs' AND expired=0 AND posted_at >= ?
+                 AND (checked_at IS NULL OR checked_at < ?)
+               ORDER BY checked_at IS NOT NULL, CASE WHEN checked_at IS NULL THEN posted_at END DESC,
+                        checked_at ASC
+               LIMIT ?""",
+            ((now - timedelta(days=days)).isoformat(),
+             (now - timedelta(hours=recheck_hours)).isoformat(), limit))
+        return [(r["source_id"], r["url"]) for r in rows.fetchall()]
+
+    def mark_checked(self, source: str, source_id: str, expired: bool, now: datetime) -> None:
+        self.db.execute("UPDATE listings SET expired=?, checked_at=? WHERE source=? AND source_id=?",
+                        (int(expired), now.isoformat(), source, source_id))
+        self.db.commit()
+
+    def expire_missing(self, source: str, seen_ids: set[str], now: datetime) -> int:
+        """Marque expirées les annonces de `source` absentes de la dernière collecte réussie."""
+        n = 0
+        for r in self.db.execute("SELECT source_id FROM listings WHERE source=? AND expired=0",
+                                 (source,)).fetchall():
+            if r["source_id"] not in seen_ids:
+                self.db.execute("UPDATE listings SET expired=1 WHERE source=? AND source_id=?",
+                                (source, r["source_id"]))
+                n += 1
+        self.db.commit()
+        return n
 
     def observations(self, model: str, condition: str, since: datetime,
                      exclude=None) -> list[tuple[str, str, float]]:
