@@ -104,5 +104,25 @@ class EbayTest(unittest.TestCase):
         self.assertEqual(seen["headers"]["Authorization"],
                          "Basic " + base64.b64encode(b"id:sec").decode())
 
+    def test_category_hint_from_query(self):
+        from composants_watch.normalize import apply
+        data = json.loads(FIX.read_text())
+        data["itemSummaries"][0]["title"] = "Carte graphique Nvidia RTX A400 4gb GDDR6"
+        li = parse_ebay(data, NOW, "GPU")[0]
+        self.assertEqual(li.category, "GPU")
+        self.assertEqual((apply(li).category, li.model), ("GPU", None))
+        calls = []
+
+        def get(url, headers):
+            calls.append(url)
+            return json.dumps(data).encode()
+
+        ls = fetch_ebay([("watercooling", "131503")], {"client_id": "i", "client_secret": "s"}, NOW,
+                        get=get, post=lambda u, b, h: b'{"access_token": "T"}')
+        self.assertEqual(ls[0].category, "COOL")
+        ls = fetch_ebay([("x", None)], {"client_id": "i", "client_secret": "s"}, NOW,
+                        get=get, post=lambda u, b, h: b'{"access_token": "T"}')
+        self.assertIsNone(ls[0].category)
+
 if __name__ == "__main__":
     unittest.main()

@@ -172,5 +172,16 @@ class ScoreTest(unittest.TestCase):
                                   "merchant", "source", "url", "posted_at"})
 
 
+    def test_broad_categories_no_discount_but_target_ok(self):
+        k = "KBD:Membrane-Complet"
+        for i, p in enumerate([30.0, 32.0, 34.0, 33.0, 35.0]):
+            self.s.upsert(make_listing(source_id=f"k{i}", url=f"https://x/k-{i}", title="Clavier", price_eur=p,
+                                       category="KBD", model=k), NOW - timedelta(days=2))
+        self.s.upsert(make_listing(source_id="cheap", url="https://x/k-cheap", title="Clavier", price_eur=15.0,
+                                   category="KBD", model=k), NOW)
+        self.assertEqual(self.opp_ids(self.run_score()), [])
+        wl = [{"model": k, "label": "clavier", "target_eur": 20}]
+        self.assertEqual(self.opp_ids(self.run_score(wl)), ["cheap"])
+
 if __name__ == "__main__":
     unittest.main()

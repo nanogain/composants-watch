@@ -13,6 +13,9 @@ UNCLASSIFIED_MAX = 50
 IMPLAUSIBLE_VS_TARGET = 0.30   # cible « atteinte » à moins de 30 % du prix cible = accessoire probable
 
 
+BROAD_CATEGORIES = {"KBD", "COOL", "CASE"}  # pas de décote : seule la cible de la liste compte
+
+
 def is_excluded(title: str) -> bool:
     return bool(EXCLUDE_RE.search(title or ""))
 
@@ -72,6 +75,8 @@ def score(listings: list[dict], store, cfg: dict, watchlist: list[dict], now: da
         discount = round((1 - eff / median) * 100, 1) if median else None
         target = targets.get(r["model"])
         target_hit = target is not None and eff <= target
+        if r["category"] in BROAD_CATEGORIES:  # même modèle canonique, produits trop différents
+            discount = None
         if not target_hit and (discount is None or discount < cfg["discount_min"] * 100):
             continue
         suspect = ((discount is not None and discount > cfg["suspect_above"] * 100)

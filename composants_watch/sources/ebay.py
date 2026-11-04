@@ -22,6 +22,7 @@ CATEGORY_QUERIES = [("carte graphique", "27386"), ("processeur", "164"), ("ddr4"
                     ("ddr5", "170083"), ("ssd", "175669"), ("carte mère", "1244"),
                     ("alimentation pc", "42017"), ("boitier pc", "42014"), ("ventirad", "131486"),
                     ("watercooling", "131503"), ("écran pc", "80053"), ("clavier", "33963")]
+ID_CATEGORY = {v: k for k, v in CATEGORY_IDS.items()} | {"131503": "COOL"}
 EU = frozenset("AT BE BG CY CZ DE DK EE ES FI FR GR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK".split())
 FILTER = "buyingOptions:{FIXED_PRICE},deliveryCountry:FR"
 FOR_PARTS = "7000"
@@ -87,7 +88,7 @@ def _keep(it: dict) -> bool:
             and reliable_seller(it.get("seller") or {}))
 
 
-def parse_ebay(data: dict, now: datetime) -> list[Listing]:
+def parse_ebay(data: dict, now: datetime, category: str | None = None) -> list[Listing]:
     out = []
     for it in data.get("itemSummaries", []):
         if not _keep(it):
@@ -103,6 +104,7 @@ def parse_ebay(data: dict, now: datetime) -> list[Listing]:
             posted_at=(datetime.fromisoformat(created.replace("Z", "+00:00")).astimezone(timezone.utc)
                        if created else now),
             image_url=(it.get("image") or {}).get("imageUrl"),
+            category=category,  # indice : la catégorie eBay interrogée, si le titre ne suffit pas
         ))
     return out
 
@@ -122,7 +124,8 @@ def fetch_ebay(queries: list[tuple[str, str | None]], creds: dict, now: datetime
         params = {"q": q, "limit": limit, "filter": FILTER}
         if cat:
             params["category_ids"] = cat
-        for li in parse_ebay(json.loads(get(SEARCH_URL + "?" + urlencode(params), headers)), now):
+        for li in parse_ebay(json.loads(get(SEARCH_URL + "?" + urlencode(params), headers)), now,
+                              ID_CATEGORY.get(cat or "")):
             if li.source_id not in seen:
                 seen.add(li.source_id)
                 out.append(li)

@@ -9,12 +9,15 @@ from .http import FetchError, http_get
 
 _EXPIRED = re.compile(r'"isExpired":(true|false)')
 _GONE = ("HTTP 404", "HTTP 410")
+_CANONICAL = re.compile(r'<link rel="canonical" href="[^"]*-(\d+)"')
 
 
 def parse_expired(html: str, thread_id: str) -> bool | None:
-    """True/False si la page est bien celle de l'annonce `thread_id` et porte l'indicateur, sinon None."""
+    """True/False si la page est celle de l'annonce `thread_id` et porte l'indicateur ;
+    True aussi si l'annonce a été fusionnée dans une autre ; None si on ne peut pas conclure."""
     if f'"threadId":"{thread_id}"' not in html:
-        return None
+        c = _CANONICAL.search(html)  # doublon fusionné : Dealabs redirige vers une autre annonce
+        return True if c and c.group(1) != thread_id else None
     m = _EXPIRED.search(html)
     return None if m is None else m.group(1) == "true"
 

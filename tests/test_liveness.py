@@ -30,6 +30,12 @@ class LivenessTest(unittest.TestCase):
         self.assertIsNone(parse_expired("<html></html>", "1"))
         self.assertIsNone(parse_expired(ACTIVE, "999"))
 
+    def test_merged_deal_redirects_to_other_thread(self):
+        merged = '<link rel="canonical" href="https://www.dealabs.com/bons-plans/ssd-netac-3445486"/>' + ACTIVE
+        self.assertIs(parse_expired(merged, "3445940"), True)
+        same = '<link rel="canonical" href="https://www.dealabs.com/bons-plans/ssd-3445940"/><html>'
+        self.assertIsNone(parse_expired(same, "3445940"))
+
     def test_verify_marks_active_and_expired(self):
         s = store_with("3446028", "3401429", "404")
         pages = {"3446028": ACTIVE.encode(), "3401429": EXPIRED.encode()}
