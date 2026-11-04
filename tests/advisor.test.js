@@ -78,6 +78,18 @@ t("validate: gpu null", () => {
   const v = A.validate(res({ gpu: null, cpu: "dealabs:3", mb: "dealabs:5", ram: "dealabs:6" }), byId, 5000, Compat);
   assert.ok(v.problems.some((p) => p.includes("graphique")), v.problems);
 });
+t("validate: gpu null refusé pour le jeu", () => {
+  const v = A.validate(res({ gpu: null }), byId, 5000, Compat, "game4k");
+  assert.ok(v.problems.includes("Carte graphique : obligatoire pour cet usage."), v.problems);
+  for (const u of ["office", "dev"]) assert.deepStrictEqual(A.validate(res({ gpu: null }), byId, 5000, Compat, u).problems, []);
+});
+t("generate: gpu null en jeu → 2e demande", async () => {
+  const f = fakeFetch(apiReply(res({ gpu: null })), apiReply(res({})));
+  const r = await gen(f);
+  assert.strictEqual(f.calls.length, 2);
+  assert.ok(f.calls[1].body.messages[2].content.includes("obligatoire pour cet usage"));
+  assert.deepStrictEqual(r.problems, []);
+});
 t("validate: socket ko", () => {
   const v = A.validate(res({ cpu: "dealabs:3" }), byId, 5000, Compat);
   assert.ok(v.problems.some((p) => p.includes("incompatible")), v.problems);

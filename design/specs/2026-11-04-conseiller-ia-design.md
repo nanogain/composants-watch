@@ -92,7 +92,7 @@ Corps :
 `{selection, problems: [texte], total}` :
 1. chaque `id` doit exister dans le catalogue **et** appartenir à la catégorie de son
    emplacement, sinon problème « <emplacement> : annonce inconnue ou mal placée » ;
-2. `gpu: null` accepté seulement si l'`igpu` du processeur n'est pas `false` ;
+2. `gpu: null` accepté seulement si l'`igpu` du processeur n'est pas `false` et si l'usage est `office` ou `dev` (sinon « Carte graphique : obligatoire pour cet usage. ») ;
 3. `Compat.evaluate(selection)` : chaque contrôle `ko` (et `missing` non vide) devient un
    problème, avec le message du contrôle ;
 4. total recalculé à partir des `effective_eur` du catalogue ; total > budget → problème

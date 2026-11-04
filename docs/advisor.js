@@ -83,13 +83,18 @@
 
   const eur = (v) => Number(v).toLocaleString("fr-FR", { style: "currency", currency: "EUR" });
 
-  function validate(result, catalogById, budget, Compat) {
+  const NO_GPU_USAGES = new Set(["office", "dev"]);
+
+  function validate(result, catalogById, budget, Compat, usage) {
     const selection = {};
     const problems = [];
     const picks = (result && result.picks) || {};
     for (const [slot, cat] of Object.entries(TOWER_SLOTS)) {
       const id = picks[slot];
-      if (id == null && slot === "gpu") continue;
+      if (id == null && slot === "gpu") {
+        if (usage && !NO_GPU_USAGES.has(usage)) problems.push("Carte graphique : obligatoire pour cet usage.");
+        continue;
+      }
       const it = typeof id === "string" ? catalogById.get(id) : undefined;
       if (!it || it.category !== cat || typeof it.effective_eur !== "number") {
         problems.push(SLOT_LABEL[slot] + " : annonce inconnue ou mal placée (" + String(id) + ").");
@@ -148,11 +153,11 @@
   async function generate({ key, budget, usage, items, catalogById, Compat, fetch }) {
     const first = await call(fetch, key, buildRequest({ budget, usage, items }));
     if (first.error) return first;
-    const v1 = Object.assign(validate(first, catalogById, budget, Compat), { rationale: first.rationale, attempts: 1 });
+    const v1 = Object.assign(validate(first, catalogById, budget, Compat, usage), { rationale: first.rationale, attempts: 1 });
     if (!v1.problems.length) return v1;
     const second = await call(fetch, key, buildRequest({ budget, usage, items, previous: first, problems: v1.problems }));
     if (second.error) return v1;
-    return Object.assign(validate(second, catalogById, budget, Compat), { rationale: second.rationale, attempts: 2 });
+    return Object.assign(validate(second, catalogById, budget, Compat, usage), { rationale: second.rationale, attempts: 2 });
   }
 
   const api = { TOWER_SLOTS, SLOT_LABEL, USAGES, SCHEMA, MODEL, API_URL, compactCatalog, buildRequest, parseResponse, validate, generate };
