@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T05:08:00Z",
+ "generated_at": "2026-11-04T05:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-04T05:08:00.627906+00:00"
+   "items": 344,
+   "last_ok": "2026-11-04T05:38:00.677920+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T05:08:00.627906+00:00"
+   "last_ok": "2026-11-04T05:38:00.677920+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -236,6 +236,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC portable Dell Latitude 3410 – i5 / 16 Go RAM / SSD 256 Go – Reconditionné",
+   "price_raw": "469€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-dell-latitude-3410-i5-16-go-ram-ssd-256-go-reconditionne-3445755",
+   "posted_at": "2026-11-04T05:27:47+00:00"
+  },
   {
    "title": "[Mouse] End Game Gear OP1 8K v2 49.5g Mouse - $51.25 - Free shipping for Prime members",
    "price_raw": "$51.25",
@@ -578,17 +585,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/smartphone-5g-realme-16-pro-plus-ecran-amoled-incurve-de-68-pouces-144-hz-batterie-3444240",
    "posted_at": "2026-11-02T11:12:41+00:00"
-  },
-  {
-   "title": "Sélection d'Accessoires Informatiques en promotion - Ex : Clavier gaming sans fil trimode Alienware AW920K",
-   "price_raw": "168€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/selection-daccessoires-informatiques-en-promotion-ex-clavier-gaming-sans-fil-trimode-alienware-aw920k-3444242",
-   "posted_at": "2026-11-02T11:20:16+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 231,
+  "listings_seen": 232,
   "models_with_reference": 7
  }
 }
