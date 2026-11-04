@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T09:08:00Z",
+ "generated_at": "2026-11-04T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-04T09:08:00.621426+00:00"
+   "last_ok": "2026-11-04T09:38:00.672288+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T09:08:00.621426+00:00"
+   "last_ok": "2026-11-04T09:38:00.672288+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -55,8 +55,8 @@
    "price_eur": 26.94,
    "shipping_eur": null,
    "effective_eur": 26.94,
-   "median_eur": 63.54,
-   "discount_pct": 57.6,
+   "median_eur": 64.08,
+   "discount_pct": 58.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "Grosbill",
@@ -106,14 +106,31 @@
    "price_eur": 34.0,
    "shipping_eur": null,
    "effective_eur": 34.0,
-   "median_eur": 63.54,
-   "discount_pct": 46.5,
+   "median_eur": 64.08,
+   "discount_pct": 46.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "Grosbill",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-antec-ax61-elite-noir-atx-4-ventilateurs-argb-120-mm-3444517",
    "posted_at": "2026-11-02T16:15:54+00:00"
+  },
+  {
+   "title": "Boitier PC be quiet! Pure Base 501 - boîtier midi tower",
+   "model": "CASE:ATX",
+   "category": "CASE",
+   "condition": "new",
+   "price_eur": 44.9,
+   "shipping_eur": null,
+   "effective_eur": 44.9,
+   "median_eur": 64.08,
+   "discount_pct": 29.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Alternate",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/be-quiet-pure-base-501-boitier-midi-tower-3444654",
+   "posted_at": "2026-11-02T18:31:39+00:00"
   },
   {
    "title": "SSD interne Netac NV3000 M2 - 1 To",
@@ -123,8 +140,8 @@
    "price_eur": 92.39,
    "shipping_eur": null,
    "effective_eur": 92.39,
-   "median_eur": 138.73,
-   "discount_pct": 33.4,
+   "median_eur": 127.47,
+   "discount_pct": 27.5,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -140,8 +157,8 @@
    "price_eur": 94.77,
    "shipping_eur": null,
    "effective_eur": 94.77,
-   "median_eur": 138.73,
-   "discount_pct": 31.7,
+   "median_eur": 127.47,
+   "discount_pct": 25.7,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -157,31 +174,14 @@
    "price_eur": 96.99,
    "shipping_eur": null,
    "effective_eur": 96.99,
-   "median_eur": 138.73,
-   "discount_pct": 30.1,
+   "median_eur": 127.47,
+   "discount_pct": 23.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
    "posted_at": "2026-11-01T11:54:24+00:00"
-  },
-  {
-   "title": "Boitier PC be quiet! Pure Base 501 - boîtier midi tower",
-   "model": "CASE:ATX",
-   "category": "CASE",
-   "condition": "new",
-   "price_eur": 44.9,
-   "shipping_eur": null,
-   "effective_eur": 44.9,
-   "median_eur": 63.54,
-   "discount_pct": 29.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Alternate",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/be-quiet-pure-base-501-boitier-midi-tower-3444654",
-   "posted_at": "2026-11-02T18:31:39+00:00"
   },
   {
    "title": "Boitier PC Deepcool CH260, Mini tour, Format M-ATX - Noir",
@@ -199,57 +199,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-deepcool-ch260-mini-tour-format-m-atx-noir-3440758",
    "posted_at": "2026-10-28T15:43:52+00:00"
-  },
-  {
-   "title": "SSD NVME Lexar NQ790 1To Gen4x4 7000 Mo/s",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 109.0,
-   "shipping_eur": null,
-   "effective_eur": 109.0,
-   "median_eur": 138.73,
-   "discount_pct": 21.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Galaxus",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-nvme-nq790-1to-gen4-7000mos-3441085",
-   "posted_at": "2026-10-29T07:23:28+00:00"
-  },
-  {
-   "title": "Disque SSD interne Netac NV3000 NVMe M.2 2280 - 1 To",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 113.02,
-   "shipping_eur": null,
-   "effective_eur": 113.02,
-   "median_eur": 138.73,
-   "discount_pct": 18.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-nv3000-nvme-m2-2280-1to-3444172",
-   "posted_at": "2026-11-02T10:02:33+00:00"
-  },
-  {
-   "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 113.56,
-   "shipping_eur": null,
-   "effective_eur": 113.56,
-   "median_eur": 138.73,
-   "discount_pct": 18.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
-   "posted_at": "2026-11-03T17:49:12+00:00"
   }
  ],
  "unclassified": [
@@ -605,7 +554,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 235,
+  "listings_seen": 236,
   "models_with_reference": 7
  }
 }
