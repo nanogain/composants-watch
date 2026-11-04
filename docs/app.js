@@ -2,7 +2,7 @@
 (function () {
   const CAT = { GPU: "Carte graphique", CPU: "Processeur", RAM: "Mémoire", SSD: "SSD", MB: "Carte mère", PSU: "Alimentation",
     COOL: "Ventirad", CASE: "Boîtier", MON: "Écran", KBD: "Clavier" };
-  const SRC = { dealabs: "Dealabs", reddit: "Reddit", ebay: "eBay" };
+  const SRC = { dealabs: "Dealabs", reddit: "Reddit", ebay: "eBay", dealabs_verif: "Vérification Dealabs" };
   const STATUS = { ok: "OK", down: "en panne", disabled: "désactivée" };
   const eur = (v) => (v == null ? "—" : v.toLocaleString("fr-FR", { style: "currency", currency: "EUR" }));
   let data = null, sortKey = null, sortAsc = false;

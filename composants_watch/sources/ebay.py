@@ -16,8 +16,15 @@ from ..score import is_excluded
 TOKEN_URL = "https://api.ebay.com/identity/v1/oauth2/token"
 SEARCH_URL = "https://api.ebay.com/buy/browse/v1/item_summary/search"
 SCOPE = "https://api.ebay.com/oauth/api_scope"
-GENERIC_QUERIES = ["carte graphique", "processeur", "ddr5", "ssd nvme"]
-NEW_WORDS = {"neuf", "new"}
+CATEGORY_IDS = {"GPU": "27386", "CPU": "164", "RAM": "170083", "SSD": "175669", "MB": "1244",
+                "PSU": "42017", "CASE": "42014", "COOL": "131486", "MON": "80053", "KBD": "33963"}
+CATEGORY_QUERIES = [("carte graphique", "27386"), ("processeur", "164"), ("ddr4", "170083"),
+                    ("ddr5", "170083"), ("ssd", "175669"), ("carte mère", "1244"),
+                    ("alimentation pc", "42017"), ("boitier pc", "42014"), ("ventirad", "131486"),
+                    ("watercooling", "131503"), ("écran pc", "80053"), ("clavier", "33963")]
+EU = frozenset("AT BE BG CY CZ DE DK EE ES FI FR GR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK".split())
+FILTER = "buyingOptions:{FIXED_PRICE},deliveryCountry:FR"
+FOR_PARTS = "7000"
 
 
 def load_credentials(path: Path) -> dict | None:
@@ -48,32 +55,74 @@ def _eur(amount: dict | None) -> float | None:
     return round(float(amount["value"]), 2)
 
 
-def parse_ebay(data: dict) -> list[Listing]:
+def _num(v) -> float | None:
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return None
+
+
+def reliable_seller(seller: dict) -> bool:
+    """Professionnel, ou au moins 98 % d'avis positifs sur au moins 50 évaluations ("0.0" = note inconnue)."""
+    if seller.get("sellerAccountType") == "BUSINESS":
+        return True
+    pct, n = _num(seller.get("feedbackPercentage")), _num(seller.get("feedbackScore"))
+    return pct is not None and n is not None and pct >= 98 and n >= 50
+
+
+def _merchant(seller: dict) -> str:
+    name = seller.get("username", "?")
+    if seller.get("sellerAccountType") == "BUSINESS":
+        return f"eBay · {name} (pro)"
+    pct = f"{_num(seller.get('feedbackPercentage')):.1f}".replace(".", ",")
+    n = f"{int(_num(seller.get('feedbackScore'))):,}".replace(",", " ")
+    return f"eBay · {name} ({pct} %, {n} avis)"
+
+
+def _keep(it: dict) -> bool:
+    return ("AUCTION" not in (it.get("buyingOptions") or [])
+            and (it.get("price") or {}).get("currency") == "EUR"
+            and str(it.get("conditionId")) != FOR_PARTS
+            and (it.get("itemLocation") or {}).get("country") in EU
+            and reliable_seller(it.get("seller") or {}))
+
+
+def parse_ebay(data: dict, now: datetime) -> list[Listing]:
     out = []
     for it in data.get("itemSummaries", []):
+        if not _keep(it):
+            continue
         ship = (it.get("shippingOptions") or [{}])[0].get("shippingCost")
-        cond = (it.get("condition") or "").strip().lower()
+        created = it.get("itemCreationDate")
         out.append(Listing(
             source="ebay", source_id=it["itemId"], url=it.get("itemWebUrl", ""),
             title=it.get("title", ""), price_eur=_eur(it.get("price")),
-            price_raw=f"{it.get('price', {}).get('value', '')} {it.get('price', {}).get('currency', '')}".strip(),
-            currency=it.get("price", {}).get("currency", ""), shipping_eur=_eur(ship),
-            merchant=f"eBay · {it.get('seller', {}).get('username', '?')}",
-            condition="new" if cond in NEW_WORDS else "used",
-            posted_at=datetime.fromisoformat(it["itemCreationDate"].replace("Z", "+00:00")).astimezone(timezone.utc),
+            price_raw=f"{it['price'].get('value', '')} EUR",
+            currency="EUR", shipping_eur=_eur(ship), merchant=_merchant(it["seller"]),
+            condition="new" if str(it.get("conditionId")) == "1000" else "used",
+            posted_at=(datetime.fromisoformat(created.replace("Z", "+00:00")).astimezone(timezone.utc)
+                       if created else now),
             image_url=(it.get("image") or {}).get("imageUrl"),
         ))
     return out
 
 
-def fetch_ebay(queries: list[str], creds: dict,
+def ebay_queries(watchlist: list[dict]) -> list[tuple[str, str | None]]:
+    extra = [(w.get("label") or w["model"].split(":", 1)[-1], CATEGORY_IDS.get(w["model"].split(":", 1)[0]))
+             for w in watchlist]
+    return CATEGORY_QUERIES + extra
+
+
+def fetch_ebay(queries: list[tuple[str, str | None]], creds: dict, now: datetime, limit: int = 50,
                get=lambda url, headers: http_get(url, headers), post=_post) -> list[Listing]:
     token = get_token(creds, post=post)
     headers = {"Authorization": f"Bearer {token}", "X-EBAY-C-MARKETPLACE-ID": "EBAY_FR"}
     seen, out = set(), []
-    for q in queries:
-        url = SEARCH_URL + "?" + urlencode({"q": q, "filter": "buyingOptions:{FIXED_PRICE}", "limit": 50})
-        for li in parse_ebay(json.loads(get(url, headers))):
+    for q, cat in queries:
+        params = {"q": q, "limit": limit, "filter": FILTER}
+        if cat:
+            params["category_ids"] = cat
+        for li in parse_ebay(json.loads(get(SEARCH_URL + "?" + urlencode(params), headers)), now):
             if li.source_id not in seen:
                 seen.add(li.source_id)
                 out.append(li)

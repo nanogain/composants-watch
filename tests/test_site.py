@@ -44,5 +44,8 @@ class SiteTest(unittest.TestCase):
             self.assertIn(section, self.html)
 
 
+    def test_verif_source_label(self):
+        self.assertIn('dealabs_verif: "Vérification Dealabs"', (DOCS / "app.js").read_text(encoding="utf-8"))
+
 if __name__ == "__main__":
     unittest.main()

@@ -12,3 +12,11 @@ def make_listing(**kw) -> Listing:
                 category="GPU", model="GPU:RTX 4070 Super")
     base.update(kw)
     return Listing(**base)
+
+
+def verify_all_active(store, now) -> dict:
+    """Vérification simulée : toutes les annonces Dealabs sont actives."""
+    todo = store.to_check(now, 3650, 0, 10**6)
+    for sid, _ in todo:
+        store.mark_checked("dealabs", sid, False, now)
+    return {"checked": len(todo), "expired": 0, "failures": 0, "stopped": None}
