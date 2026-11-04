@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T09:38:00Z",
+ "generated_at": "2026-11-04T10:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-04T09:38:00.672288+00:00"
+   "last_ok": "2026-11-04T10:08:00.659797+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-04T09:38:00.672288+00:00"
+   "last_ok": "2026-11-04T10:08:00.659797+00:00"
   },
   "ebay": {
    "status": "disabled",
@@ -202,6 +202,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Other] Refurbished Sabrent USB 3.0 Hard Drive Enclosure, 2.5 / 3.5 HDD Sata Adapter - $7.99 w/ code SABRENT",
+   "price_raw": "$7.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xnk5zl/other_refurbished_sabrent_usb_30_hard_drive/",
+   "posted_at": "2026-11-04T09:45:54+00:00"
+  },
+  {
+   "title": "PC Portable 16\" MSI raider 16 HX B2WI-016FR - QHD, 240hz, Intel Core Ultra AI 9, 32 Go RAM, 1 To SSD, Nvidia Geforce RTX 5080",
+   "price_raw": "2 799,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-msi-gaming-raider-16-hx-b2wi-016fr-16-qhd-240-hz-intel-core-ultra-ai-9-32-go-ram-1-to-ssd-nvidia-geforce-rtx-5080-anthracite-3445966",
+   "posted_at": "2026-11-04T09:36:56+00:00"
+  },
   {
    "title": "[Keyboard] Rosewill Neon S75 Wireless Mechanical Gaming Keyboard, 80-Key Layout w/ Volume Knob, Bluetooth / 2.4GHz / USB-C, Hot-Swappable Red Switches, RGB Backlit, 6000mAh Battery, Black - $35.99 (w/code: SSF74444)",
    "price_raw": "$35.99",
@@ -537,24 +551,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/club-ordinateur-apple-macbook-air-15-puce-m5-cpu-10-gpu-10-coeurs-memoire-ram-24go-stockage-1to-ssd-bleu-ciel-3445203",
    "posted_at": "2026-11-03T11:31:25+00:00"
-  },
-  {
-   "title": "Tablette 11\" Samsung Galaxy Tab A11+ - 6 Go RAM, 128 Go, écran 90 Hz",
-   "price_raw": "179,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-samsung-galaxy-tab-a11-11-6-go-ram-128-go-ecran-90-hz-3445196",
-   "posted_at": "2026-11-03T11:25:04+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Ninkear N16 Pro AI - Intel Core Ultra 5 115U (Via Paypal)",
-   "price_raw": "409,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ninkear-n16-pro-ai-ordinateur-portable-intel-core-ultra-5-115u-16-pouces-ecran-3445189",
-   "posted_at": "2026-11-03T11:19:20+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 236,
+  "listings_seen": 237,
   "models_with_reference": 7
  }
 }
