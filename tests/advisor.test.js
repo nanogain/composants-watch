@@ -40,6 +40,17 @@ t("request: forme", () => {
   assert.ok(r.messages[0].content.includes("dealabs:11"));
   assert.ok(!("thinking" in r) && !("temperature" in r));
 });
+t("modèles", () => {
+  assert.deepStrictEqual(A.MODELS.map((m) => m[0]), ["claude-opus-5-5", "claude-sonnet-5-5", "claude-haiku-5-5"]);
+  assert.strictEqual(A.MODEL, "claude-opus-5-5");
+  const s5 = A.buildRequest({ budget: 1000, usage: "office", items, model: "claude-sonnet-5-5" });
+  assert.strictEqual(s5.model, "claude-sonnet-5-5");
+  assert.strictEqual(s5.fallbacks, "default");
+  const h = A.buildRequest({ budget: 1000, usage: "office", items, model: "claude-haiku-5-5" });
+  assert.strictEqual(h.model, "claude-haiku-5-5");
+  assert.ok(!("fallbacks" in h));
+  assert.strictEqual(A.buildRequest({ budget: 1000, usage: "office", items, model: "gpt-x" }).model, "claude-opus-5-5");
+});
 t("request: 2e tentative", () => {
   const r = A.buildRequest({ budget: 1000, usage: "office", items, previous: res({}), problems: ["Budget dépassé"] });
   assert.deepStrictEqual(r.messages.map((m) => m.role), ["user", "assistant", "user"]);
@@ -135,6 +146,16 @@ t("generate: conforme", async () => {
   assert.deepStrictEqual(r.problems, []);
   assert.strictEqual(r.total, 1284);
   assert.strictEqual(r.rationale, "ok");
+});
+t("generate: modèle choisi", async () => {
+  const f = fakeFetch(apiReply(res({})));
+  await A.generate({ key: "k", budget: 1500, usage: "game1440", items, catalogById: byId, Compat, fetch: f, model: "claude-haiku-5-5" });
+  assert.strictEqual(f.calls[0].body.model, "claude-haiku-5-5");
+  assert.ok(!("anthropic-beta" in f.calls[0].init.headers));
+  const g = fakeFetch(apiReply(res({})));
+  await A.generate({ key: "k", budget: 1500, usage: "game1440", items, catalogById: byId, Compat, fetch: g, model: "claude-sonnet-5-5" });
+  assert.strictEqual(g.calls[0].body.model, "claude-sonnet-5-5");
+  assert.strictEqual(g.calls[0].init.headers["anthropic-beta"], "server-side-fallback-2026-07-01");
 });
 t("generate: corrigé", async () => {
   const f = fakeFetch(apiReply(BAD), apiReply(res({})));

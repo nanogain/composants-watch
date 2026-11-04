@@ -100,7 +100,11 @@ class ConfigUiTest(unittest.TestCase):
         self.assertEqual(r["resultAfter"], "")
         self.assertEqual(r["saved"]["cpu"]["id"], "dealabs:2")
         self.assertEqual(r["saved"]["mon"]["id"], "dealabs:12")
-        self.assertEqual(json.loads(r["prefs"]), {"budget": 1500, "usage": "game1440"})
+        self.assertEqual(r["modelOpts"], ["claude-opus-5-5", "claude-sonnet-5-5", "claude-haiku-5-5"])
+        self.assertNotEqual(r["costBefore"], r["costAfter"])
+        self.assertIn("€", r["costAfter"])
+        self.assertEqual(r["apiModel"], "claude-sonnet-5-5")
+        self.assertEqual(json.loads(r["prefs"]), {"budget": 1500, "usage": "game1440", "model": "claude-sonnet-5-5"})
 
     def test_ai_no_key(self):
         r = run("ai_no_key")

@@ -214,15 +214,22 @@
     const go = document.getElementById("ai-go");
     if (!go || !AI) return;
     const budget = document.getElementById("ai-budget"), usage = document.getElementById("ai-usage");
+    const model = document.getElementById("ai-model"), cost = document.getElementById("ai-cost");
     const keyInput = document.getElementById("ai-key"), status = document.getElementById("ai-status");
     const box = document.getElementById("ai-result");
     for (const [code, name] of AI.USAGES) usage.append(el("option", { value: code }, name));
     usage.value = "game1440";
+    for (const [id, name] of AI.MODELS) model.append(el("option", { value: id }, name));
+    model.value = AI.MODEL;
+    const showCost = () => { cost.textContent = (AI.MODELS.find((m) => m[0] === model.value) || AI.MODELS[0])[2]; };
+    model.addEventListener("change", showCost);
     try {
       const p = JSON.parse(store.get(AI_PREFS) || "{}");
       if (p && Number(p.budget) > 0) budget.value = String(p.budget);
       if (p && AI.USAGES.some(([c]) => c === p.usage)) usage.value = p.usage;
+      if (p && AI.MODELS.some(([m]) => m === p.model)) model.value = p.model;
     } catch (e) { /* préférences illisibles : valeurs par défaut */ }
+    showCost();
     const keyHint = () => { keyInput.placeholder = store.get(AI_KEY) ? "clé enregistrée dans ce navigateur" : "sk-ant-…"; };
     keyHint();
     document.getElementById("ai-forget").addEventListener("click", () => { store.del(AI_KEY); keyHint(); status.textContent = "Clé oubliée."; });
@@ -234,13 +241,13 @@
       if (!key) { status.textContent = "Colle ta clé API Anthropic (console.anthropic.com)."; return; }
       const b = Number(budget.value);
       if (!(b > 0)) { status.textContent = "Indique un budget en euros."; return; }
-      store.set(AI_PREFS, JSON.stringify({ budget: b, usage: usage.value }));
+      store.set(AI_PREFS, JSON.stringify({ budget: b, usage: usage.value, model: model.value }));
       go.disabled = true; go.dataset.busy = "1";
       status.textContent = "Génération… (≈ 30 s)";
       box.replaceChildren();
       try {
         const r = await AI.generate({ key, budget: b, usage: usage.value, items: catalog.items || [], catalogById: byId,
-          Compat: C, fetch: (u, i) => fetch(u, i) });
+          Compat: C, fetch: (u, i) => fetch(u, i), model: model.value });
         if (r.error) { status.textContent = r.error; return; }
         status.textContent = r.attempts > 1 ? "Proposition corrigée après une seconde demande." : "";
         renderProposal(box, r);

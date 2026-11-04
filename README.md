@@ -130,7 +130,7 @@ gardée dans le navigateur ; une annonce disparue est signalée et exclue du tot
 
 ### Conseiller IA (option)
 
-Le bloc **Générer avec l'IA** demande à Claude (`claude-opus-5-5`) une configuration pour
+Le bloc **Générer avec l'IA** demande à Claude une configuration pour
 un budget et un usage (bureautique, jeu 1080p/1440p/4K, création, développement),
 choisie **uniquement parmi les annonces du catalogue**, pour la tour : processeur, carte
 mère, mémoire, carte graphique, stockage, alimentation, boîtier, ventirad. L'écran et le
@@ -140,7 +140,10 @@ clavier restent ceux que tu as choisis.
   avec ta clé personnelle (<https://console.anthropic.com>). Elle est gardée dans le
   `localStorage` de ton navigateur (bouton « Oublier la clé »), jamais publiée ni envoyée
   au Pi. La page ne charge aucun script tiers.
-- **Coût** : ≈ 0,10 à 0,30 € par génération, à la charge de ta clé.
+- **Modèle et coût** (à la charge de ta clé, estimation par génération) : Opus 5.5 par
+  défaut (≈ 0,10 à 0,30 €), Sonnet 5.5 (≈ 0,05 à 0,15 €) ou Haiku 5.5 (≈ 0,01 €, choix
+  moins sûrs, donc plus souvent une seconde demande). Le choix est retenu dans le
+  navigateur.
 - **Données envoyées** : le budget, l'usage et, pour chaque annonce de la tour, son
   identifiant, son modèle, un titre court, son prix, son état et ses caractéristiques
   connues.
