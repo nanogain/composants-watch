@@ -149,11 +149,12 @@
         <div class="ai-controls">
           <label>Budget max (€) <input id="ai-budget" type="number" min="300" step="50" value="1000"></label>
           <label>Usage <select id="ai-usage"></select></label>
+          <label>Modèle <select id="ai-model"></select></label>
           <label>Clé API Anthropic <input id="ai-key" type="password" autocomplete="off" placeholder="sk-ant-…"></label>
           <button id="ai-forget" type="button">Oublier la clé</button>
         </div>
         <p><button id="ai-go" type="button" disabled>Générer une configuration</button></p>
-        <p class="sub">Appel direct de ton navigateur à l'API Anthropic avec ta clé. Coût ≈ 0,10 à 0,30 € par génération. La clé reste dans ce navigateur.</p>
+        <p class="sub">Appel direct de ton navigateur à l'API Anthropic avec ta clé. Coût <span id="ai-cost">≈ 0,10 à 0,30 €</span> par génération. La clé reste dans ce navigateur.</p>
         <p id="ai-status" class="meta" aria-live="polite"></p>
         <div id="ai-result"></div>
       </section>

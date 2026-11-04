@@ -60,7 +60,7 @@ class SiteTest(unittest.TestCase):
         self.assertRegex(self.js, r"fetch\(\s*['\"]data/catalog\.json")
     def test_ai_section(self):
         for ident in ('id="ai"', 'id="ai-budget"', 'id="ai-usage"', 'id="ai-key"', 'id="ai-forget"', 'id="ai-go"',
-                      'id="ai-status"', 'id="ai-result"'):
+                      'id="ai-status"', 'id="ai-result"', 'id="ai-model"', 'id="ai-cost"'):
             self.assertIn(ident, self.html)
         self.assertIn("Générer une configuration", self.html)
         self.assertLess(self.html.index('src="advisor.js"'), self.html.index('src="config.js"'))

@@ -47,7 +47,7 @@ function makeEnv({ storage = {}, fetchImpl, hash = "#config" } = {}) {
   const deals = mk("main", "tab-deals"); mk("p", "meta", deals);
   const cfg = mk("main", "tab-config"); cfg.hidden = true;
   const ai = mk("section", "ai", cfg);
-  mk("input", "ai-budget", ai).value = "1500"; mk("select", "ai-usage", ai); mk("input", "ai-key", ai);
+  mk("input", "ai-budget", ai).value = "1500"; mk("select", "ai-usage", ai); mk("select", "ai-model", ai); mk("span", "ai-cost", ai); mk("input", "ai-key", ai);
   mk("button", "ai-forget", ai); mk("button", "ai-go", ai); mk("p", "ai-status", ai); mk("div", "ai-result", ai);
   mk("p", "cfg-msg", cfg); mk("div", "cfg-slots", cfg); mk("aside", "cfg-recap", cfg);
   const listeners = {};
@@ -181,12 +181,18 @@ const scenarios = {
       cpu: { id: "gone:1", title: "Vieux CPU", effective_eur: 10 } }), "cw-ai-key": "sk-test" };
     const env = makeEnv({ fetchImpl, storage }); load(env); await tick();
     const usageOpts = env.document.getElementById("ai-usage").options.map((o) => o.value);
+    const modelSel = env.document.getElementById("ai-model");
+    const modelOpts = modelSel.options.map((o) => o.value);
+    const costBefore = env.document.getElementById("ai-cost").textContent;
+    modelSel.value = "claude-sonnet-5-5"; modelSel.dispatch("change");
+    const costAfter = env.document.getElementById("ai-cost").textContent;
     env.document.getElementById("ai-go").dispatch("click"); await tick(); await tick();
     const result = env.document.getElementById("ai-result");
     const resultText = result.textContent;
     const apply = env.document.getElementById("ai-apply");
     const out = { apiCalls: apiCalls.length, key: apiCalls[0] && apiCalls[0].init.headers["x-api-key"], usageOpts,
-      resultText, applyExists: !!apply, status: env.document.getElementById("ai-status").textContent };
+      resultText, applyExists: !!apply, modelOpts, costBefore, costAfter,
+      apiModel: apiCalls[0] && JSON.parse(apiCalls[0].init.body).model, status: env.document.getElementById("ai-status").textContent };
     if (apply) apply.dispatch("click");
     await tick();
     const selected = {};
