@@ -91,6 +91,91 @@ t("validate: total recalculé", () => {
   assert.strictEqual(v.total, 1284);
 });
 
+// ── generate ───────────────────────────────────────────────────────────────
+const apiReply = (obj) => ({ ok: true, status: 200, json: () => Promise.resolve(reply(JSON.stringify(obj))) });
+const httpErr = (status, body) => ({ ok: false, status, json: () => (body ? Promise.resolve(body) : Promise.reject(new Error("x"))) });
+function fakeFetch(...responses) {
+  const calls = [];
+  const f = (url, init) => {
+    calls.push({ url, init, body: JSON.parse(init.body) });
+    const r = responses.shift();
+    return r instanceof Error ? Promise.reject(r) : Promise.resolve(r);
+  };
+  f.calls = calls;
+  return f;
+}
+const gen = (fetch, budget = 1500) => A.generate({ key: "sk-test", budget, usage: "game1440", items, catalogById: byId, Compat, fetch });
+const BAD = res({ cpu: "dealabs:3" });
+
+t("generate: conforme", async () => {
+  const f = fakeFetch(apiReply(res({})));
+  const r = await gen(f);
+  assert.strictEqual(f.calls.length, 1);
+  const { url, init, body } = f.calls[0];
+  assert.strictEqual(url, A.API_URL);
+  assert.strictEqual(init.method, "POST");
+  assert.strictEqual(init.headers["x-api-key"], "sk-test");
+  assert.strictEqual(init.headers["anthropic-dangerous-direct-browser-access"], "true");
+  assert.strictEqual(init.headers["anthropic-beta"], "server-side-fallback-2026-07-01");
+  assert.strictEqual(init.headers["anthropic-version"], "2023-06-01");
+  assert.strictEqual(body.model, "claude-opus-5-5");
+  assert.strictEqual(r.attempts, 1);
+  assert.deepStrictEqual(r.problems, []);
+  assert.strictEqual(r.total, 1284);
+  assert.strictEqual(r.rationale, "ok");
+});
+t("generate: corrigé", async () => {
+  const f = fakeFetch(apiReply(BAD), apiReply(res({})));
+  const r = await gen(f);
+  assert.strictEqual(f.calls.length, 2);
+  assert.strictEqual(f.calls[1].body.messages.length, 3);
+  assert.ok(f.calls[1].body.messages[2].content.includes("incompatible"));
+  assert.strictEqual(r.attempts, 2);
+  assert.deepStrictEqual(r.problems, []);
+});
+t("generate: toujours non conforme", async () => {
+  const f = fakeFetch(apiReply(BAD), apiReply(BAD), apiReply(res({})));
+  const r = await gen(f);
+  assert.strictEqual(f.calls.length, 2);
+  assert.ok(r.problems.length > 0);
+  assert.strictEqual(r.attempts, 2);
+});
+t("generate: 401", async () => {
+  const f = fakeFetch(httpErr(401, { error: { message: "invalid x-api-key" } }));
+  assert.deepStrictEqual(await gen(f), { error: "Clé API refusée. Vérifie-la sur console.anthropic.com." });
+  assert.strictEqual(f.calls.length, 1);
+});
+t("generate: 429 et 529", async () => {
+  for (const s of [429, 529]) {
+    assert.deepStrictEqual(await gen(fakeFetch(httpErr(s))), { error: "API saturée ou limite atteinte, réessaie dans une minute." });
+  }
+});
+t("generate: 500", async () => {
+  assert.deepStrictEqual(await gen(fakeFetch(httpErr(500, { error: { message: "boom" } }))), { error: "Erreur de l'API (500) : boom" });
+  const long = await gen(fakeFetch(httpErr(400, { error: { message: "y".repeat(500) } })));
+  assert.strictEqual(long.error, "Erreur de l'API (400) : " + "y".repeat(200));
+  assert.deepStrictEqual(await gen(fakeFetch(httpErr(502))), { error: "Erreur de l'API (502) : " });
+});
+t("generate: réseau", async () => {
+  assert.deepStrictEqual(await gen(fakeFetch(new TypeError("Failed to fetch"))), { error: "Réseau indisponible ou requête bloquée." });
+});
+t("generate: refus", async () => {
+  const f = fakeFetch({ ok: true, status: 200, json: () => Promise.resolve({ stop_reason: "refusal", content: [] }) });
+  assert.deepStrictEqual(await gen(f), { error: "Le modèle a refusé la demande." });
+});
+t("generate: illisible", async () => {
+  const f = fakeFetch({ ok: true, status: 200, json: () => Promise.resolve(reply("nope")) });
+  assert.deepStrictEqual(await gen(f), { error: "Réponse incomplète, réessaie." });
+});
+t("generate: 2e appel en erreur", async () => {
+  const f = fakeFetch(apiReply(BAD), httpErr(500, { error: { message: "boom" } }));
+  const r = await gen(f);
+  assert.ok(!r.error);
+  assert.ok(r.problems.length > 0);
+  assert.strictEqual(r.attempts, 1);
+  assert.strictEqual(r.selection.cpu.id, "dealabs:3");
+});
+
 (async () => {
   for (const [name, fn] of tests) {
     try { await fn(); } catch (e) { console.error("ÉCHEC " + name + "\n" + (e.stack || e)); process.exit(1); }

@@ -107,7 +107,55 @@
     return { selection, problems, total };
   }
 
-  const api = { TOWER_SLOTS, SLOT_LABEL, USAGES, SCHEMA, MODEL, API_URL, compactCatalog, buildRequest, parseResponse, validate };
+  const ERR = {
+    auth: "Clé API refusée. Vérifie-la sur console.anthropic.com.",
+    busy: "API saturée ou limite atteinte, réessaie dans une minute.",
+    network: "Réseau indisponible ou requête bloquée.",
+    refusal: "Le modèle a refusé la demande.",
+    incomplete: "Réponse incomplète, réessaie.",
+  };
+
+  // Un appel à l'API : {picks, rationale} ou {error: message affichable}.
+  async function call(fetchImpl, key, body) {
+    let resp;
+    try {
+      resp = await fetchImpl(API_URL, {
+        method: "POST",
+        headers: {
+          "x-api-key": key,
+          "anthropic-version": "2023-06-01",
+          "anthropic-beta": "server-side-fallback-2026-07-01",
+          "anthropic-dangerous-direct-browser-access": "true",
+          "content-type": "application/json",
+        },
+        body: JSON.stringify(body),
+      });
+    } catch (e) { return { error: ERR.network }; }
+    if (!resp.ok) {
+      if (resp.status === 401) return { error: ERR.auth };
+      if (resp.status === 429 || resp.status === 529) return { error: ERR.busy };
+      let msg = "";
+      try { const j = await resp.json(); msg = String((j && j.error && j.error.message) || ""); } catch (e) { /* corps illisible */ }
+      return { error: "Erreur de l'API (" + resp.status + ") : " + msg.slice(0, 200) };
+    }
+    let data;
+    try { data = await resp.json(); } catch (e) { return { error: ERR.incomplete }; }
+    const parsed = parseResponse(data);
+    return parsed.error ? { error: ERR[parsed.error] } : parsed;
+  }
+
+  // Au plus 2 appels : le second reçoit les problèmes trouvés par validate.
+  async function generate({ key, budget, usage, items, catalogById, Compat, fetch }) {
+    const first = await call(fetch, key, buildRequest({ budget, usage, items }));
+    if (first.error) return first;
+    const v1 = Object.assign(validate(first, catalogById, budget, Compat), { rationale: first.rationale, attempts: 1 });
+    if (!v1.problems.length) return v1;
+    const second = await call(fetch, key, buildRequest({ budget, usage, items, previous: first, problems: v1.problems }));
+    if (second.error) return v1;
+    return Object.assign(validate(second, catalogById, budget, Compat), { rationale: second.rationale, attempts: 2 });
+  }
+
+  const api = { TOWER_SLOTS, SLOT_LABEL, USAGES, SCHEMA, MODEL, API_URL, compactCatalog, buildRequest, parseResponse, validate, generate };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.Advisor = api;
 })(typeof window !== "undefined" ? window : this);
