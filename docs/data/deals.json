@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T15:08:00Z",
+ "generated_at": "2026-11-05T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-05T15:08:00.631465+00:00"
+   "last_ok": "2026-11-05T15:38:00.668678+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T15:08:00.631465+00:00"
+   "last_ok": "2026-11-05T15:38:00.668678+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-05T15:08:00.631465+00:00"
+   "items": 384,
+   "last_ok": "2026-11-05T15:38:00.668678+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-05T15:08:00.631465+00:00"
+   "items": 22,
+   "last_ok": "2026-11-05T15:38:00.668678+00:00"
   }
  },
  "watchlist": [
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAYuQO8XL7Y8BP5UbUR0ICmhL7NJnGUiQZwSvvniciwWVPP%2Bc2GK5Qm%2BT%2FTmWvLxAi3ZtP929LbKjF2v07o56vqEosoG%2FvFMGx6ujZMpPkraIOUPT2VPcsVRywWyW1RpcQK80zwIOeAbJ6pcxz4MPNl",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAZft9oYpOPvwTxucclekfsx14%2BPaoBQZ1JGeUV%2FIMFw%2FNaQe2fbQGZ5z%2FwqlbL%2BZdtivIKDstl89aXSEdUIUu9dAFDNHTsDOZcqlcCwt%2BrBcRJD7GtrSKHmu83Vck5OYv1v4oEGuj1GrMyywpJ2P3M",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -281,6 +281,20 @@
  ],
  "unclassified": [
   {
+   "title": "Console Asus ROG Xbox Ally - FHD IPS 7\" 120 Hz, Ryzen Z2 A, 16 Go LPDDR5X + 512 Go, 60 Wh",
+   "price_raw": "549,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/console-asus-rog-xbox-ally-fhd-ips-7-120-hz-ryzen-z2-a-16-go-lpddr5x-512-go-60-wh-3447115",
+   "posted_at": "2026-11-05T15:08:39+00:00"
+  },
+  {
+   "title": "[Bundle] MicroCenter In-Store Only - 7700X3D + 32GB Corsair 6000MHz CL38 + B650 Gaming X AX V2 - $649.99",
+   "price_raw": "$649.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xolqzf/bundle_microcenter_instore_only_7700x3d_32gb/",
+   "posted_at": "2026-11-05T15:36:29+00:00"
+  },
+  {
    "title": "Apple MacBook Air 15\" - Écran Liquid Retina, Mémoire unifiée 16 Go, SSD 1 to, Caméra Center Stage 12 MP, Touch ID, Wi-FI 7",
    "price_raw": "1 723,27€",
    "source": "dealabs",
@@ -319,7 +333,7 @@
    "title": "Crucial M500 240 Go mSATA SATA III MLC CT240M500SSD3 Garantie : 2 ans",
    "price_raw": "48.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I1eTNzM--vsVgB114KJdvdA1naFh%2BrU5kxNZxX85h8AX1%2BLPkY5vavTLeVSqKKVmwtzT%2Fw5Ov%2FEWwEd22hxj05hXJmKZzyT2vbYyKYPb%2Bd8WhcxE%2B2XywXzl65u1QJIE48WDaF%2FsuEI7t2j6fdvQdqz",
+   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I01VswshEqoc0lPMuZxIiC0pDUce%2BfKQ4kSM0Uyb9oQjckG4s5k6skbGH9o6%2B8DKu9l7IGNWFuww5%2BQLGcCGJIP5ZGhTdX0TS2pXB9ZZRC0WCwzOscR5n2q8PT3XgKbsewdBUAisIfgKg1QRtxnqZ4v",
    "posted_at": "2026-11-03T11:20:51+00:00"
   },
   {
@@ -354,8 +368,22 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHlLFaD1WOFqB5vXSACPL5Ba7d8crMUsA%2FBHopp7QkuE5tVIw65A2iveZviErNTgGVWAeTfAD1BqtDhzH7ssnxPeW7afMagYocOhIocmxeb%2BQQ8PRJ3sH5iuO93n8rG%2BSWE6CykfFq655E8tkNOkj2%2F",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBEaHeEGw2MF35hULd%2BgUwHx4CeHRMLqxwLQarmSmPAhLbev%2BoNzqghIXO1oRhXpb0DPBlqVwC90x%2Bzd93QqeT6LFfcIpl0r0F%2BP%2FU7iC6OAp69MWaG0QaYNH7BEgaziO%2Bgv3uf2qAr1hq8ByGBodzAD",
    "posted_at": "2026-11-05T14:01:33+00:00"
+  },
+  {
+   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
+   "price_raw": "63.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpA1sRzbdLoRs9NiAFSCZPFQ2xsfSnBa78GcUwcT%2BQbFsicPzK2PaAMxpgTk24txMEevFBJgdZk25e2zuj1au5S%2F67UIpxVBCi9VdilyBrM3LWcLc%2FQlvGk9474Wxn4lrhyDQ0uk97m6ub0H52fc6B4bqabFb%2BC1Sz4DCUU8vbjmCw%3D%3D",
+   "posted_at": "2026-11-03T15:45:35+00:00"
+  },
+  {
+   "title": "carte mere Asus p8z77-v socket intel lga1155 lga 1155 h77 p8z77 v",
+   "price_raw": "179.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/127990029536?_skw=carte+m%C3%A8re&hash=item1dccccdce0:g:vDoAAeSw6PpqYdlP",
+   "posted_at": "2026-07-23T09:06:53+00:00"
   },
   {
    "title": "BE QUIET! PURE BASE 501 Black – Boîtier PC GAMING ATX + 2 ventilateurs inclus",
@@ -403,7 +431,7 @@
    "title": "NVIDIA GeForce GT320 1Go DDR3 VGA DVI HDMI PCIe Carte Graphique",
    "price_raw": "17.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257696186324?_skw=carte+graphique&hash=item3bffe3bfd4:g:XO0AAeSwFLNqiYrK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l4S1v7ko1p186TlNp6jgbC1rTlCT2BgTGTlz2XEZRGebtYNgESYch4fwktDukWLNW9QZpCBFU3bGURTaJlLqdCsoYIa4EN1%2F5S2EVPdY3vHbzHA4SaLfmN5kdLNdp7lowqA0bX4axHieYgj7CEel1XE8JyRW4H6elPIPrTuFTK8KLSfU%2FTxfEozSav2Jpc63n%2FkDmyqzVXhu5nEqpn8xugXMkkemH9D9EY0ink7O41pYI%2BJ9idTj7j4OBE7M3RxgYIsa1L24dLaNZNnBMY8n2GXs9P2K8eM5vDLT2qJu28Qw%3D%3D",
+   "url": "https://www.ebay.fr/itm/257696186324?_skw=carte+graphique&hash=item3bffe3bfd4:g:XO0AAeSwFLNqiYrK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l4S1v7ko1p186TlNp6jgbC1rTlCT2BgTGTlz2XEZRGebtYNgESYch4fwktDukWLNW9QZpCBFU3bGURTaJlLqdCsoYIa4EN1%2F5S2EVPdY3vHbzHA4SaLfmN5kdLNdp7lowaJ0R8%2BvMD3dDx6gWsnKpubnkQB%2FoQGYmoS5le%2BjxXYJiGYobfeXltH9CIM%2BnuPMwjy%2FNQcX97ZVTk7Pt4d95ad9Nj833sHWgOuEsDFssvLO8yvIKI%2BKS1EIkoIf2wbP6%2FkzDVdKbuZ2YLn4AiDGQNufJgEeEXPZCumo4jHwju5A%3D%3D",
    "posted_at": "2026-08-22T11:42:08+00:00"
   },
   {
@@ -412,6 +440,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-hyte-x50-noir-blanc-et-version-mesh-3447026",
    "posted_at": "2026-11-05T13:03:17+00:00"
+  },
+  {
+   "title": "8GB SK Hynix Original 8GB (1x8GB) DDR5 4800 MHz PC5-4800B SODIMM NOTEBOOK",
+   "price_raw": "78.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/278358221264?_skw=ddr5&hash=item40cf7161d0:g:hNQAAeSwibxqoQY0",
+   "posted_at": "2026-09-09T07:12:03+00:00"
   },
   {
    "title": "Apple 27\" LED - Studio Display - Ecran PC 5K 5120 x 2880 pixels MFF24FD/A - NEUF",
@@ -522,7 +557,7 @@
    "title": "Lenovo ThinkStation P350 Tiny Carte mère Intel Q570 5B20U54754",
    "price_raw": "139.93 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDDASdVEw7tzwK1BH1Tf83LhTNWPVXBjpWjgNUiqN11Q2VTBF7jQLELeSJSBPYsVfWdPhwVo8DTp3NftY1D0Ugo7zBIFxTwW4TIP5VzuPyTbiLi3uh7LKVgWicmrTcXI3ZfslZasXGReXPLgbuZ%2FPPRK6JVuipp3%2FesbtpVJYcQabw%3D%3D",
+   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDAaSRqUp%2FyTwdGi%2FexKO6uknAiSOAMFd51E2wpff6xppx8PCfhBLeQKE2JKBXmLQ8xIfwexX3ETje3HtmsYsruvbUIL6FjFIQWvSMeINsI72UglIp9nxJdYeK2teyDN8RITg1Uv0CK%2FcK8WffttWPgaivAOZ3kpyJVMKU7tUu9b5A%3D%3D",
    "posted_at": "2026-08-30T12:42:24+00:00"
   },
   {
@@ -594,45 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-acer-nitro-anv17-41-r591-3446699",
    "posted_at": "2026-11-05T07:27:24+00:00"
-  },
-  {
-   "title": "[Monitor] 42” LG OLED C6 - $849.99",
-   "price_raw": "$849.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xochbo/monitor_42_lg_oled_c6_84999/",
-   "posted_at": "2026-11-05T07:21:45+00:00"
-  },
-  {
-   "title": "[Keyboard] Keychron K2 75% RGB Wireless Mechanical Keyboard, Brown/Red Switch - $35.99 (w/code: PCGAMING)",
-   "price_raw": "$35.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xoc6d9/keyboard_keychron_k2_75_rgb_wireless_mechanical/",
-   "posted_at": "2026-11-05T07:02:15+00:00"
-  },
-  {
-   "title": "PC Portable 18\" Asus ROG Strix G814PP-S9031W - AMD Ryzen 9 8940HX, RTX 5070 8 Go, RAM 32 Go DDR5 5200Mhz, SSD 1 To, WQXGA, Windows 11",
-   "price_raw": "2 299,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-gamer-asus-rog-strix-18-wqxga-240hz-amd-ryzen-9-8940hx-nvidia-geforce-rtx-5070-32-go-ram-ddr5-ssd-1-to-3446624",
-   "posted_at": "2026-11-05T02:13:43+00:00"
-  },
-  {
-   "title": "PC portable 14\" HP Omnibook X Flip 14-FM0007NFX - écran tactile OLED, Intel Core Ultra 7, 16 Go RAM, 512 Go SSD, Win 11",
-   "price_raw": "999,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/hp-omnibook-x-flip-14-fm0007nfx-14-oled-ecran-tactile-copilotpc-intel-core-ultra-7-16-go-ram-3446623",
-   "posted_at": "2026-11-05T02:08:35+00:00"
-  },
-  {
-   "title": "Mars gaming MC-S1 Rose, Boîtier PC Gaming Micro-ATX Compact, ARGB 12",
-   "price_raw": "36.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307264259128?_skw=boitier+pc&hash=item478a608438:g:~VUAAeSwicZq6bfS&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n6BoXlg8%2FQ39%2F46EjyZ9L2TLwPNhw8u2fM8REJqtTiPL%2FN4BVKYOVFOLQQcnrp4n%2BE9hH4XKdJ%2FaerwYquzZHVI3pnOqw36Cw9WmYGTSrQIU5yaGROC1qKifqIm5qa3Wa9FcWJ%2BxHrArXPRAT717dYBRmdzF35TDZWKtwkGElBWi6srCJxNtUx%2B8NQSO2%2BvzyRr%2BJc5Tt3DWQ5nh%2Bf7ptqi0GU7xrggid03vS%2FPARaOe1Fku7%2FLKAjsF3%2B7263Yr2zeO2uzCqXEC5NKKbK8QTQ9sNKAhHF0nwnFjzQnuejVw%3D%3D",
-   "posted_at": "2026-11-03T15:09:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 884,
+  "listings_seen": 888,
   "models_with_reference": 21
  }
 }
