@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T16:08:00Z",
+ "generated_at": "2026-11-05T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-05T16:08:00.620213+00:00"
+   "items": 346,
+   "last_ok": "2026-11-05T16:38:00.665027+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T16:08:00.620213+00:00"
+   "last_ok": "2026-11-05T16:38:00.665027+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-05T16:08:00.620213+00:00"
+   "items": 384,
+   "last_ok": "2026-11-05T16:38:00.665027+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 12,
-   "last_ok": "2026-11-05T16:08:00.620213+00:00"
+   "items": 79,
+   "last_ok": "2026-11-05T16:38:00.665027+00:00"
   }
  },
  "watchlist": [
@@ -281,6 +281,34 @@
  ],
  "unclassified": [
   {
+   "title": "[PREBUILT] Skytech Shadow 5 (Core Ultra 7 270K Plus, RTX 5070 12GB, 32GB DDR5, 1TB NVMe) is $1,699.99 @ Woot",
+   "price_raw": "$1,699.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xonaza/prebuilt_skytech_shadow_5_core_ultra_7_270k_plus/",
+   "posted_at": "2026-11-05T16:36:46+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast RGB DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C36 - AMD EXPO - No",
+   "price_raw": "463.09 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/335448538054?_skw=ddr5&hash=item4e1a4a7bc6:g:znMAAeSwPcZq69tH",
+   "posted_at": "2024-06-19T10:40:54+00:00"
+  },
+  {
+   "title": "mini-tour Thermaltake The Tower 200 Boîtier PC vert racing 2 ventilateurs",
+   "price_raw": "98.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237165549944?_skw=boitier+pc&hash=item37382b1978:g:K3UAAeSwq6Jq7Kxi",
+   "posted_at": "2026-11-05T16:18:35+00:00"
+  },
+  {
+   "title": "mini-tour Lian Li O11 Dynamic Mini V2 Boîtier, Boîtier gaming, Boîtier PC blanc",
+   "price_raw": "121.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267834474835?_skw=boitier+pc&hash=item3e5c2dc153:g:l50AAeSwWSVq7KbI",
+   "posted_at": "2026-11-05T15:54:42+00:00"
+  },
+  {
    "title": "[Bundle] Microcenter In Store Only - Ryzen 5 5600X3D, Gigabyte B550M DS3H AC R2 AM4, G.Skill Ripjaws V 16GB (2x8GB) DDR4-3200 - $249.99",
    "price_raw": "$249.99",
    "source": "reddit",
@@ -291,15 +319,8 @@
    "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm0FAGR%2BtXMr%2B2D7Iz21grp2x2P6cBpokLlS%2B3L%2FVb57Rd8uI0TAyPMFnPjGpriJfJ6PxYdgNUjPQ4o7Nx1dYFfUh2tsLf7RI8NtaRuCSWM5PqRxlEj6qsMa6cIa4%2BeC0XSb4xnoNQLKiKgWTrOwN%2BjimHlf6D6b5VqtaUsLbsdGw%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm9d34%2BLepQb5iRrXTTFSNIREp4ocIl8rmJBXCt1t0o7sJS1RLMiQt2JiQvjo9raoKWxZ8uXfp2SHBNAmkIkDHpjzruZP2gYlrCS%2B6DErlZ10LSUiTdM2osNO%2FN3AnPnaDYl4FpIb0uR50eju0TIo0eTVFdNk7DjdO4FT7bYnSwsA%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
-  },
-  {
-   "title": "8Go RAM Mémoire HP-Compaq Pavilion Gaming TG01-0204a",
-   "price_raw": "75.27 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/195757635757?_skw=ddr4&hash=item2d941078ad:g:nTkAAOSwPaJgeGLP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAv0CzgK1QtNeRgFY1bB2NpBebN07V9hOcl837S2iV00EN%2FeJ%2BK1Ge5%2FKBwORP2RYg6UZ5jjhrpWYgqQCcONTSFs4BoSGl70RgHDGQtm79iFABbIQeCq48IAXIklB2yw4s6Y0dKingYjDi0ZXwiZWV5HTcUmBAYk97qsQUwPab0qEKWF2lWYLVYaRoz1%2BxkilrICNgTSGcvWXUVzfF7kJQbKDq9Pwxj7qBeKTdy5Ngt1gFxUUrPa6aD2Z%2F8eodM9%2BPc4NKaC9yFeT650FOMC6d",
-   "posted_at": "2023-05-11T16:36:56+00:00"
   },
   {
    "title": "mini-tour Jonsbo C6 Handle Black Boîtier, Boîtier gaming, Boîtier PC noir",
@@ -323,7 +344,7 @@
    "posted_at": "2026-11-05T15:36:29+00:00"
   },
   {
-   "title": "Apple MacBook Air 15\" - Écran Liquid Retina, Mémoire unifiée 16 Go, SSD 1 to, Caméra Center Stage 12 MP, Touch ID, Wi-FI 7",
+   "title": "PC Portable 15\" Apple MacBook Air - Écran Liquid Retina, Mémoire unifiée 16 Go, SSD 1 to, Caméra Center Stage 12 MP, Touch ID, Wi-FI 7",
    "price_raw": "1 723,27€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-3447104",
@@ -361,7 +382,7 @@
    "title": "Crucial M500 240 Go mSATA SATA III MLC CT240M500SSD3 Garantie : 2 ans",
    "price_raw": "48.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I3sgUZ2k9x2FI7LhV9bXAd888lOLywwo4KwHvpPiuEBnQPX8UCkwBU6NErLrIrxww5u7n9DHM6SY6F9%2FOgf1%2FoSbyEkYmqZOY12A6NpydlSFrty6kwgLqNiOQdWvPitbxmwRAA8SfaPmp8%2FV9mGp%2FyS",
+   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I0I2mLRFIASFtEi2%2FY54%2B6aVeA%2FCfa8WiKB2XWh6iWxdKoHYHfGzOeJdYo4rdphn3BGnBiQEwQWNdioPfModyNmeGcrobW0Ae%2BYFaBIkgux8iHQip%2Ff1mDyPXBC0GmzIaHqJFVa6IzEjsEm95v1GEhB",
    "posted_at": "2026-11-03T11:20:51+00:00"
   },
   {
@@ -396,14 +417,14 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFlR%2B0VLR9J5q0s%2B4LBIlca5xJdMkYgzM1s7rFkZEKlZmgAFemkx3eXePCsTBV9%2BcIR8yDyVONruF1UbjgsWnjvzI8ZtZpRrrVJuZAQQN7nsx3xgzLDRwTMkIhFbEojtEpyZsE7cqC86KvelFiXQbsx",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBF6U3qWkvABmUE6QJ1RFWnB2wVJrE%2FPjkmwxOUKok7O6g9ywNFRdolRq7OTcKMqmxrZKSWxynbpPhec2E4pUKVnvR2udeJF8JrCyuRndYcK32MZwis8iOMNwzPELeD8tkx6W51MWoF%2BSHAPG7KPLwlm",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
    "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpAAoQAgu%2FSzksVAKzXMZlupL4P9hbLx0NPjOeJ5Nr3tODzQF5rhOGc86Et2nkDcKwPASFj2y%2BlhT530ZeZf6kDvU%2FsjTpqdlWL0lM69g3nC3KEHxFC5hoIri6JzNm4trcEhWgz4ap3uSA8wyO%2Bbw41j6Uki76oPDaYtV5z79IZRpg%3D%3D",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpCaQvJ2UpyBe%2FytsQFyvNTgkfnOT88hg4Uus6VhJw1S4pptTn%2Fh41vwR97ozgnaXdz5qZftyDG1C5xzZgYVXHA2BYJEtjC3fv7q6%2BfNagcghi6wQGpEmGO9x4v6vtXrg3oJPPG0yqOATipQwIDXsyf1N2zQluGhxk7kURy0y%2F8yZQ%3D%3D",
    "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
@@ -461,13 +482,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-hyte-x50-noir-blanc-et-version-mesh-3447026",
    "posted_at": "2026-11-05T13:03:17+00:00"
-  },
-  {
-   "title": "8GB SK Hynix Original 8GB (1x8GB) DDR5 4800 MHz PC5-4800B SODIMM NOTEBOOK",
-   "price_raw": "78.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/278358221264?_skw=ddr5&hash=item40cf7161d0:g:hNQAAeSwibxqoQY0",
-   "posted_at": "2026-09-09T07:12:03+00:00"
   },
   {
    "title": "Apple 27\" LED - Studio Display - Ecran PC 5K 5120 x 2880 pixels MFF24FD/A - NEUF",
@@ -578,7 +592,7 @@
    "title": "Lenovo ThinkStation P350 Tiny Carte mère Intel Q570 5B20U54754",
    "price_raw": "139.93 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDCEF0zdNVSCyGWiSX8NmYGKpwDh62sX9HjQ4%2FcGAYtbCjCq22WJAvfqtKgqZ%2BbhpRxzBahwUjRlUrZ7mtW2KtM4pgZ1FVyaKcRIy701BLdFinHltavnyvhqHKeyNIWYKoPUnM3lEk5HpS3m3Lgjy%2FLX9PhPMb5k%2F1tPmunzUU2bKA%3D%3D",
+   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDByOlC6Q51yn9eYIhAuBhysk63YEDT0Fq0BfpTSeZp2drxmQhfqprLQrUzwkQG6aHeJJ8rSzOp%2BjXzaPLZ7CN%2B4ulY0uqOSUhlMMGkdn8JtSc5kEKeG1UaPWZ3aDXw8aQVjobpTrnVAMtQrOD9p4K6hGw%2FX6S9xJfInG2ItJN1ITQ%3D%3D",
    "posted_at": "2026-08-30T12:42:24+00:00"
   },
   {
@@ -615,24 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-tactile-lenovo-legion-tab-88-wifi-256-go-gris-anthracite-etui-folio-ecran-de-protection-3446771",
    "posted_at": "2026-11-05T08:28:03+00:00"
-  },
-  {
-   "title": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh + Étui de protection (ODR de 30€ - Vendeur Darty)",
-   "price_raw": "159,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-etui-de-protection-odr-de-30eur-vendeur-darty-3446766",
-   "posted_at": "2026-11-05T08:25:46+00:00"
-  },
-  {
-   "title": "Boîtier PC CORSAIR 5000D RS ARGB Blanc + Refroidissement Nautilus Corsair 360 ARGB + Alimentation Corsair RM750e 750W",
-   "price_raw": "219,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-5000d-rs-argb-blanc-refroidissement-nautilus-corsair-360-argb-alimentation-corsair-rm750e-750w-3446729",
-   "posted_at": "2026-11-05T07:58:04+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 891,
+  "listings_seen": 897,
   "models_with_reference": 21
  }
 }
