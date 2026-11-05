@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T22:08:00Z",
+ "generated_at": "2026-11-05T22:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 341,
-   "last_ok": "2026-11-05T22:08:00.662558+00:00"
+   "items": 340,
+   "last_ok": "2026-11-05T22:38:00.621285+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T22:08:00.662558+00:00"
+   "last_ok": "2026-11-05T22:38:00.621285+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-05T22:08:00.662558+00:00"
+   "items": 374,
+   "last_ok": "2026-11-05T22:38:00.621285+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 25,
-   "last_ok": "2026-11-05T22:08:00.662558+00:00"
+   "items": 17,
+   "last_ok": "2026-11-05T22:38:00.621285+00:00"
   }
  },
  "watchlist": [
@@ -230,18 +230,25 @@
  ],
  "unclassified": [
   {
+   "title": "Ecran PC SAMSUNG - Odyssey G9 G91F (LS49FG910EUXEN) - 49 pouces - 5120 x 1440",
+   "price_raw": "589,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-samsung-odyssey-g9-g91f-ls49fg910euxen-49-pouces-5120-x-1440-3447361",
+   "posted_at": "2026-11-05T22:36:59+00:00"
+  },
+  {
+   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpC28dpN1EFiZxXHQyN3IcUxLwg5BSNLlJjAcz0IWSjp2Kw%2FeMD6v5vZnGzanMjMxzLFa0GPzRGtn77jXsFM0axLYnT%2BbXXtFhFSD%2FjCk5BUKj9%2FM9vAgeQBP95CPQGckMbMGL2znTbQJz3tMHKa855oE%2FAmVXCvF%2BkVbCJaS4aL3Q%3D%3D",
+   "posted_at": "2026-11-03T15:45:35+00:00"
+  },
+  {
    "title": "NAS Terramaster F2-425 - NAS à 2 baies, CPU Intel x86 Quad-Core, 4 Go de RAM, sans disque (Via Paiement Paypal)",
-   "price_raw": "",
+   "price_raw": "195,69€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nas-terramaster-f2-425-3447317",
    "posted_at": "2026-11-05T21:49:09+00:00"
-  },
-  {
-   "title": "Carte mère A2141 pour MacBook Pro 16\" 2019 | 2,3 GHz i9 | 32 Go | SSD 2 To...",
-   "price_raw": "379.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820321295538?_skw=carte+m%C3%A8re&hash=itembefef59cb2:g:aHsAAeSwy25q7Pue",
-   "posted_at": "2026-11-05T21:56:43+00:00"
   },
   {
    "title": "Souris Gaming Sans Fil Redragon M916 Pro - Triple Mode BT/2,4 GHz/Filaire, 4000 Hz, 26000 DPI, 5 Boutons (Vendeur Tiers)",
@@ -291,13 +298,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267797119884?_skw=boitier+pc&hash=item3e59f3c38c:g:iIsAAeSwHJdquS3F",
    "posted_at": "2026-09-27T15:07:16+00:00"
-  },
-  {
-   "title": "Ecran PC ordinateur VIEWSONIC VA2406-h 24\" FHD Dalle VA 4 MS 1xHDMI 1xVGA -",
-   "price_raw": "132.05 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920109646446?_skw=%C3%A9cran+pc&hash=itemd63acf026e:g:Z8gAAeSwajVq7Oqv",
-   "posted_at": "2026-11-05T20:46:06+00:00"
   },
   {
    "title": "SSD Portable Crucial X10 - 1 To, IP65, USB 3.2 Gen2x2, chiffré AES-256",
@@ -359,7 +359,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOiMd8IEGfr9ozgv7X%2BwkRFYdhBP%2FwTrQ8tyM0xTqq6iUBxCZTRI5aL53mbMxpG59ABHHWI1n3QfafU9%2BXTrdAZa2QqCcx2O5baXnkb4zntj2Lv66aYKq7cPSuC0bj8TBp76%2BvQd17pTZPagijVBoYvG79zLNZlprHBYuXBSGb7Y4w%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOgzLYYa%2BnpN0wSGj%2BdqzSTkr6JyWjxd7Ih6BMRPO63cFMRB2Ga9KOzCVmGOgnWO8hPeEx0Di4v2aexFWzmsbm0FDJzIWX3F33SWSg%2BYPSr9MPsPV4HDVJFFlyRxOvxwm%2F2LZ1aJiL2Lg5WvTcSO%2BFXPIGbZZ9KQYQpEsfHC0ZA5yQ%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -375,13 +375,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/940068620137?_skw=carte+graphique&hash=itemdae074c769:g:R8cAAeSw8NRqmHMT",
    "posted_at": "2026-11-05T19:48:02+00:00"
-  },
-  {
-   "title": "NAS Ugreen DH4300 PLUS",
-   "price_raw": "235,04€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nas-ugreen-dh4300-plus-3447287",
-   "posted_at": "2026-11-05T19:36:50+00:00"
   },
   {
    "title": "Souris sans fil Logitech G Pro X Superlight 2 SE - noir (Via Coupon)",
@@ -429,7 +422,7 @@
    "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZkqSYFMRj09s1S83Bvzzb8ykKcjBV5A%2FTbzeLfbqo6a7ZgHmipiqOGlTFOjZCf27MI8rxZkaDIy1nozjNv0p%2B4spmNKQFygvKAbuA12pt57zw%2BNIHiCOztivnbGrHdvVndVH4I4go6aKCCTu1ziYnmcAQvmVMVlchXS6wg9c%2Fr41Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZltGET%2Bhz0wfBz8nwRS51AZayHHUUHBA8Cyxk7zd2FurUVLi2u03uy%2Bh1wgSnGA6zjIRvfNwKAlyDkeIt7qXqMmWvkSV7B3%2Bs11x7sF8G3oFPCUY4MSiXcOEgXgLrbxYse2Um211J9q%2Bz%2Fuux5LHU%2BqRml547M3FiePKqVHnciaoQ%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
@@ -513,7 +506,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFTh8V15l84R2CHCEYSns%2BvlCZtVwyFp2xtYVApEWiwD4KbA6RAzmn%2Bgx4GGUVM2Tp2ciG3xYuMMk16Bzc3gbeRMgfPJ7DnUdeHGhofc2nnAY7W1O2pl%2BKgJ%2Blz1VNQO1dCoRPBF4zlPB40eJ7euAdv",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHUGlod1sdGjNY1YJfTMOBU1%2BMJz%2FNmFCe9tXknQaFBNR%2BOeCy0gWfPkv7ZGEylrxQU4Hs8za7chi%2BsM2dDEeI7AE%2F4f%2BK3DqFB9DDoFfBNHc0SIwQx11GQO5GhrvjzGEXgd50i2ihXtsENtHyrwm%2Fp",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -559,11 +552,11 @@
    "posted_at": "2026-11-05T13:10:28+00:00"
   },
   {
-   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
-   "price_raw": "57.90 EUR",
+   "title": "NVIDIA GeForce GT320 1Go DDR3 VGA DVI HDMI PCIe Carte Graphique",
+   "price_raw": "17.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpCVzC7ejQuzCZ9lrOr7Mau9OYZfYp4bGOoR8T%2F7IA7LOzIGBBpdAuDo2f27eBOc8ODY5sHMCl2PZFBBinPAFsIokxdQsXgS7HqpiJf0cTajc%2BHfsDIvYo0TqhkueO9vq3gzqvY6KF2JJZ8eLiwkCOiPat0f%2F2m9dsOaZTmCfo9hgg%3D%3D",
-   "posted_at": "2026-11-03T15:45:35+00:00"
+   "url": "https://www.ebay.fr/itm/257696186324?_skw=carte+graphique&hash=item3bffe3bfd4:g:XO0AAeSwFLNqiYrK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l4S1v7ko1p186TlNp6jgbC1rTlCT2BgTGTlz2XEZRGebtYNgESYch4fwktDukWLNW9QZpCBFU3bGURTaJlLqdCsoYIa4EN1%2F5S2EVPdY3vHbzHA4SaLfmN5kdLNdp7loxLOLFXPWCPv%2FwZR%2BtGSzMJz%2BL0nbp3z%2BHm%2F1VPfT2KIH62y7M8xO1wCfpVTKttMdoJ%2F3Oti5ZkBDbbtbz4v03sk9cUbEvwWi3SjWUFDekIZ9Sjn9RJG3ddO5RFncj2Fwkt8lU8XlgIYEBArWDxTs1E0VvaQkCbsBasmXvGfZFCWQ%3D%3D",
+   "posted_at": "2026-08-22T11:42:08+00:00"
   },
   {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
@@ -578,10 +571,17 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/158245549758?_skw=%C3%A9cran+pc&hash=item24d82b76be:g:yuEAAeSw8fBqah83",
    "posted_at": "2026-09-01T08:24:33+00:00"
+  },
+  {
+   "title": "[CPU] Microcenter in store only, AMD Ryzen 7 5800X3D Vermeer AM4 3.40GHz 8-Core Boxed Processor $279.99",
+   "price_raw": "$279.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/",
+   "posted_at": "2026-11-05T12:27:28+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 928,
+  "listings_seen": 930,
   "models_with_reference": 21
  }
 }
