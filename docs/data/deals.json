@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T21:08:00Z",
+ "generated_at": "2026-11-05T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-05T21:08:00.677377+00:00"
+   "items": 342,
+   "last_ok": "2026-11-05T21:38:00.622534+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T21:08:00.677377+00:00"
+   "last_ok": "2026-11-05T21:38:00.622534+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-05T21:08:00.677377+00:00"
+   "items": 377,
+   "last_ok": "2026-11-05T21:38:00.622534+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 19,
-   "last_ok": "2026-11-05T21:08:00.677377+00:00"
+   "items": 2,
+   "last_ok": "2026-11-05T21:38:00.622534+00:00"
   }
  },
  "watchlist": [
@@ -230,6 +230,20 @@
  ],
  "unclassified": [
   {
+   "title": "Souris Gaming Sans Fil Redragon M916 Pro - Triple Mode BT/2,4 GHz/Filaire, 4000 Hz, 26000 DPI, 5 Boutons (Vendeur Tiers)",
+   "price_raw": "31,81€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-redragon-m916-pro-triple-mode-bt24-ghzfilaire-4000-hz-26000-dpi-5-boutons-vendeur-tiers-3447334",
+   "posted_at": "2026-11-05T21:26:53+00:00"
+  },
+  {
+   "title": "Carte mère Supermicro A2SDI-4C-HLN4F mini ITX / NAS Carte mère / ECC support",
+   "price_raw": "190.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/406953607467?_skw=carte+m%C3%A8re&hash=item5ec053412b:g:OnwAAeSwDgxqFey-",
+   "posted_at": "2026-05-26T19:00:28+00:00"
+  },
+  {
    "title": "Carte graphique NVIDIA Quadro M4000 8GB GDDR5",
    "price_raw": "94.99 EUR",
    "source": "ebay",
@@ -331,7 +345,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOh%2FzTvRG596myRyDpmv9Zf%2BaAvW6mGgWISo5ToiV4ZGr4l0GicF3wqLNyMIOYO6u%2FLe%2Fm99R4%2FmOW94p8lHHtQUPN%2FL351amaAzsyvy3YTHGP4T2O0AAI4WGTCf6k8bd%2BjiSSxDgCOQiTJoiN12mbHtelxJ4yrMpz7wuNpuk9sBBw%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOhH6HralnnfiXjtYTnAL6gtTGSwCMfeBGsoRBbHQKsuYlfpFTlt0H2pk9Q7Mv734pXkF8ZFXXiau4uzKw0tkBSQj4pOG0RcaGzpt%2FzTjtWLAzH%2FllcqtksBYAIBtYxSw0W81VhlWCAqP%2BJWU2k69t%2BUYybuLBj52YkUrr4xe3Q1iA%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -401,7 +415,7 @@
    "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZnq5UzSAVs5sjKrnennio%2BZvAVhOlD0SIwDmZH0nHq4gNPxouWmP6ES4S15FTsBelhg4NLXIHVYm4LAH8VPMpKIwDg%2FFx2uuXhTPKb2vUJUOfKyKujkJgoaGpi9Blp6zvg2IHVm9MmORbTCkgwrzPeNLdU9yMtjZWc2kIbb0T40%2BA%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm2miow6f05hiQ7u2xerEA%2FzmB1N3ab7MGAs1VPsYKUdmvaq3ihaCpjMaLobwd09exHyk5HWUqaZXsyoOJr09fDk6PgcLNho6wPD4Cb37neI9GXkRAuYkQ%2BxYMehvscNYeG2lLRnuCJgGKrtBW5LcpYXwuYvzZDFOntFNLS%2BBDUQQ%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
@@ -485,7 +499,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHyO2g6K5qukKhibGF0bzT0JSJDNryae1xvhDBZItwl%2FXZzJCYPYQvBCxJN5TiELRzHkuRl%2BzLfnlW8CDJf7zHiHY2%2BQ9vGp%2Bfgo8OSvbRtOvU2yenmNLU0EnwNz2giFXDqhjUNAIBScDcGE0tz0rza",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHrewIGkh3YSL1fETdiLiz0uvpTiG19bzCL4vLxwbheeoqNEZgMyIFIyHp6cWBUJnJwy7KbmzWmahnh%2BalOcdq8zvXBxj3LKIqk4ujizvNpQubYkCDs7IqXCF%2BDnGpl7fmo%2FGDpJ7fDc3HHtl9h3XsO",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -508,6 +522,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/168828513207?_skw=boitier+pc&hash=item274ef6abb7:g:NsoAAeSw6Ltq5ccS",
    "posted_at": "2026-10-31T10:47:06+00:00"
+  },
+  {
+   "title": "Mécanique Gaming  Clavier AZERTY FR LED USB Gamer PC Rétroéclairé 1,5m Nedis",
+   "price_raw": "19.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206182422869?_skw=clavier&hash=item30016e1955:g:w4YAAeSw7PFpzRqQ",
+   "posted_at": "2026-04-01T13:28:48+00:00"
   },
   {
    "title": "Ensemble souris et clavier sans fil Logitech SilentTouch MK295",
@@ -557,31 +578,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3446973",
    "posted_at": "2026-11-05T11:46:45+00:00"
-  },
-  {
-   "title": "PC Portable 14,1\" Fuchu - Intel Atom A3950, RAM 12 Go, SSD 512 Go, Windows 11 Pro",
-   "price_raw": "143,96€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-de-bureau-fuchu-intel-atom-a3950-12-go-de-ram-512-gb-ssd-pc-141-pouces-windows-11-pro-ultra-fin-3446993",
-   "posted_at": "2026-11-05T12:07:24+00:00"
-  },
-  {
-   "title": "Souris sans fil Inphic PM6 Pro - Bluetooth, Rechargeable, Silencieuse, Tri-Mode, 6 Boutons, 2400 DPI, Noir (Via Coupon - Vendeur Tiers)",
-   "price_raw": "15,79€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-bluetooth-rechargeable-silencieuse-inphic-pm6-pro-tri-mode-6-boutons-3-dpi-noire-via-coupon-3446967",
-   "posted_at": "2026-11-05T11:39:47+00:00"
-  },
-  {
-   "title": "Alimentation PC ATX Semi Modulaire 80 Plus Gold EVGA 650 GQ 650 Watts",
-   "price_raw": "45.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137904555188?_skw=alimentation+pc&hash=item201bc084b4:g:powAAeSwfotq7Gys",
-   "posted_at": "2026-11-05T11:49:28+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 924,
-  "models_with_reference": 21
+  "listings_seen": 928,
+  "models_with_reference": 20
  }
 }
