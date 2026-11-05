@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T14:08:00Z",
+ "generated_at": "2026-11-05T14:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-05T14:08:00.671880+00:00"
+   "last_ok": "2026-11-05T14:38:00.680877+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T14:08:00.671880+00:00"
+   "last_ok": "2026-11-05T14:38:00.680877+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-05T14:08:00.671880+00:00"
+   "items": 392,
+   "last_ok": "2026-11-05T14:38:00.680877+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-05T14:08:00.671880+00:00"
+   "items": 14,
+   "last_ok": "2026-11-05T14:38:00.680877+00:00"
   }
  },
  "watchlist": [
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-512-go-gen3-3443396",
    "posted_at": "2026-11-01T12:39:46+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 214.99,
+   "discount_pct": 53.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDA2pWVePHhimnzkrR2VL%2B1MugL4ISm40YfYOcZtCbvvkqMsSNIZ3Wi79fBXhiDYcv4CerZjO%2FsaxX5vonyRwXcVl6uMTJjtq4XOtXIqZGZUtFEJr7iJp4i0R%2Ff946R5y0R%2FB5pJjLYGK4hFLgTn%2Beq",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "SSD M2 NVMe 2230 Kioxia EG6 TLC - 512 Go, Gen4, compatible Surface, Steam Deck",
@@ -228,23 +245,6 @@
    "posted_at": "2026-10-31T16:18:49+00:00"
   },
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 214.99,
-   "discount_pct": 20.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JBawKV0PDQxGtpzLVud1vmYLsPZSVflptm6RzGrOog8Zt7vFSZeQ7mJdjK75kmmxVwoSUpNKokjehz%2FH8vYkjAGoAHYObtBiY6R7dVZ9e5XFZFjBUU1kRwlCYQUXRa9sXiVUg3nMnGCgxibz0eh6Reg",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
    "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -281,7 +281,35 @@
  ],
  "unclassified": [
   {
-   "title": "Imprimante multifonctions monochrome Brother DCP-L1660W Noir (Avec ODR de 30€)",
+   "title": "Ecran PC Lenovo L24-45 - Full HD, 144Hz, 1ms, FreeSync (Vendeur Darty)",
+   "price_raw": "89,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-lenovo-l24-45-full-hd-144hz-1ms-freesync-vendeur-darty-3447078",
+   "posted_at": "2026-11-05T14:26:58+00:00"
+  },
+  {
+   "title": "[Headphones]Cert. Refurb: Sony WH-1000XM5 Wireless Noise Canceling Headphones - F/S - $128 w/ code SAVE20TECH",
+   "price_raw": "$128",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xok4xg/headphonescert_refurb_sony_wh1000xm5_wireless/",
+   "posted_at": "2026-11-05T14:32:47+00:00"
+  },
+  {
+   "title": "Samsung 16 Go DDR5 SO-DIMM PC5-4800B 262 broches Non ECC M97596-001",
+   "price_raw": "141.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206677592023?_skw=ddr5&hash=item301ef1c7d7:g:JjYAAeSwumxq7I6g",
+   "posted_at": "2026-11-05T14:13:30+00:00"
+  },
+  {
+   "title": "Crucial M500 240 Go mSATA SATA III MLC CT240M500SSD3 Garantie : 2 ans",
+   "price_raw": "48.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I212xAPixwBu8DUoIum8PQN91OGq96Gqg%2BRgyAuz%2BxM7i%2BvWoUe9UtHdeeanFgmCyOJWzQ5Y%2BeN82BOnxc87I4l6IO0THsXphtMtCT165X682FylCs92sGXNSpHb%2FBNKHhL307ToS3ozNlFBJjeTDx%2F",
+   "posted_at": "2026-11-03T11:20:51+00:00"
+  },
+  {
+   "title": "Imprimante Laser Multifonctions Monochrome Brother DCP-L1660W Noir (Avec ODR de 30€)",
    "price_raw": "119,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonctions-monochrome-brother-dcp-l1660w-noir-avec-odr-de-30eur-3447061",
@@ -312,14 +340,14 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHfuBvvW9pXhVVEwvCAgUsIP0DolDpXa%2FvQWX95QrjA%2FIa%2FKRZwGofTKkThHak2xjv2GZez%2Bq3EciPkZsnjjPeL0owWZOOkZnF9N4sZf86ATd5tzmNznftsWoYxZjiOUe07OJ44Quf8KHIhz4Gif8VQ",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHapetbplzW%2BKv38lOQ7HosljVRNySsQ43lLGX1lIGAFKRw9i%2FhPVX4QE7BvcqFaMKxtQwCAYuqOx33arTWB6ZiAKyw98BQHRqTUv2286J9LvWKfWbgGdC5LjtjYxuZ4zJYnSaHUJOnpZ3fFqL7RthS",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
    "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpBvdOJJv%2FYGd5MKhcjItyFNO9SLU%2FFx9%2Bh2rdJskGkkd34jBFqVrwty98qYSjzUfs%2BLzOeQwidHv53m1vqDV3nKEM4HqELboIXbw2COm%2B0xsn7PJNFijwQUoY6pRwuKFd%2FwWRKsdfEIZy1d6HsL%2FxVrILiAdEjba5nce%2F55w2IY9A%3D%3D",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpD4o4%2BBrlKzSnC9WraYWgSJUn4bFbv%2B2jgykVsDGeo1PvE5JLpeaAiVJk4zQY1eljkBMaDm5WRX3STR5Gvebg7H5RZR%2BXzMWTx4r3uy0EJNHrhn46fWWiJ%2BQN2ziHS3Ji%2BZ5XGjHHwukLSSdunUo8t6Qn7P%2BMbMUsG0QFjHFFNPpQ%3D%3D",
    "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
@@ -351,13 +379,6 @@
    "posted_at": "2026-04-01T13:28:48+00:00"
   },
   {
-   "title": "Pieds de remplacement pour clavier IBM Model M 1391065",
-   "price_raw": "8.49 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860115804332?_skw=clavier&hash=itemc842e5a0ac:g:~lMAAeSwfLBq7IQ7&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nfxjV4zDdrRGCHwzUbf4sixpNm5SFxIEuY4agQqMDRjiQZKuT%2BVFNf1tVFmDwtU4rrTGMcBlJohpSwA4Nr5Y71wZinWh8%2Bm8j91oYrnp1hLsebe01G6TqTiUoH4EA5sASyK%2FVUSEGmdro4Hjq%2BE%2BY8toQRfHKIPQQoqtxq%2F8kZiE9DCSjR2ycRQuYqQdoUbpmFBlUrG6HyuxShxaTHFyQVTLd5oY4%2B%2BhLUAJmlZ8%2FhgRarz2fOPHeoTOUNAwy3qm2iPeM5%2F7kAt962B8h7HjE2",
-   "posted_at": "2026-11-05T13:35:44+00:00"
-  },
-  {
    "title": "Ensemble souris et clavier sans fil Logitech SilentTouch MK295",
    "price_raw": "25,99€",
    "source": "dealabs",
@@ -377,6 +398,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/800324539472?_skw=carte+graphique&hash=itemba570f5450:g:~cUAAeSw-4NqUj5G",
    "posted_at": "2026-07-11T13:03:04+00:00"
+  },
+  {
+   "title": "NVIDIA GeForce GT320 1Go DDR3 VGA DVI HDMI PCIe Carte Graphique",
+   "price_raw": "17.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257696186324?_skw=carte+graphique&hash=item3bffe3bfd4:g:XO0AAeSwFLNqiYrK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l4S1v7ko1p186TlNp6jgbC1rTlCT2BgTGTlz2XEZRGebtYNgESYch4fwktDukWLNW9QZpCBFU3bGURTaJlLqdCsoYIa4EN1%2F5S2EVPdY3vHbzHA4SaLfmN5kdLNdp7loyV8NqSF%2FdUqCFpEb6Pch7rdb26l%2Bfccjx%2B0I%2FZq41QFzFKupNb8%2F05e6yCOomNkbN8hVK1OuIBmvrMf9VGQqoDLGrmdRTUs3mHZsneCDDOqPKal7oI0P5ytcvmjZNfawNge8EKr%2ByGP0KTvpzfGAvYXFSnVZiZrZGDbnbVnF%2Bb2w%3D%3D",
+   "posted_at": "2026-08-22T11:42:08+00:00"
   },
   {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
@@ -449,13 +477,6 @@
    "posted_at": "2026-11-05T11:16:29+00:00"
   },
   {
-   "title": "Cylindre de serrure électronique Welock Smart Lock U8 avec clavier (welock.com)",
-   "price_raw": "179€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/cylindre-de-serrure-electronique-welock-smart-lock-u8-avec-clavier-welockcom-3446966",
-   "posted_at": "2026-11-05T11:38:15+00:00"
-  },
-  {
    "title": "Alimentation PC ATX Delta 80 Plus Bronze GPS-300JB A 300 Watts",
    "price_raw": "10.00 EUR",
    "source": "ebay",
@@ -484,13 +505,6 @@
    "posted_at": "2026-11-05T11:03:55+00:00"
   },
   {
-   "title": "Carte Mère Asus A68BM-A/M32BF/DP_MB Socket FM2 + A8-6500 + 8 Go de RAM",
-   "price_raw": "39.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940067319122?_skw=carte+m%C3%A8re&hash=itemdae060ed52:g:zqYAAeSwx89q7F~w",
-   "posted_at": "2026-11-05T10:54:58+00:00"
-  },
-  {
    "title": "Tablette 11,5\" Huawei Matepad S 2026 - clavier Azerty",
    "price_raw": "299,99€",
    "source": "dealabs",
@@ -503,6 +517,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960155247427?_skw=carte+graphique&hash=itemdf8db66343:g:KmYAAOSwkXdisub6",
    "posted_at": "2026-11-04T23:38:30+00:00"
+  },
+  {
+   "title": "Lenovo ThinkStation P350 Tiny Carte mère Intel Q570 5B20U54754",
+   "price_raw": "139.93 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDAyz8Zmxte2foeiSgqkU%2FWjQC8ubXeIkEuKWy%2Fit4t27%2FuxpeU3qCZZw8ZfC5U8vzX3Eap%2F03pylQyP%2Bq70LevIflrv7hVG3JhV7AHLTgtpFwwDeH2o6qT4WiO%2F3qeGgfPwuXpI10E8MV9bSeWABYpNtl0zfrgVFCLv%2FNpbzDqnMg%3D%3D",
+   "posted_at": "2026-08-30T12:42:24+00:00"
   },
   {
    "title": "Lot de 2 Ecrans PC 24\" Philips 24E2N1100LB - FHD, 100Hz, Dalle VA, 1ms",
@@ -606,33 +627,12 @@
    "title": "Mars gaming MC-S1 Rose, Boîtier PC Gaming Micro-ATX Compact, ARGB 12",
    "price_raw": "36.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307264259128?_skw=boitier+pc&hash=item478a608438:g:~VUAAeSwicZq6bfS&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n6BoXlg8%2FQ39%2F46EjyZ9L2TLwPNhw8u2fM8REJqtTiPL%2FN4BVKYOVFOLQQcnrp4n%2BE9hH4XKdJ%2FaerwYquzZHVI3pnOqw36Cw9WmYGTSrQIU5yaGROC1qKifqIm5qa3WZt%2FsZ7Wtvy5Hi1wdBszbs2Vwgr5PGiNLVBzjyNg6tPR1TzI5i0z3B0LYlQgZ%2B6ykjyJLxdu10kvvVhQpK1N0rFBUNlVINbzY3E%2F02PR4xboM6ppIBc%2FYGGKqjJ7RfNOp3a3TaYn5g%2B4j80Ph1BTFlgr6aEDf4vxSHT3g%2F4QHJ%2Bjg%3D%3D",
+   "url": "https://www.ebay.fr/itm/307264259128?_skw=boitier+pc&hash=item478a608438:g:~VUAAeSwicZq6bfS&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n6BoXlg8%2FQ39%2F46EjyZ9L2TLwPNhw8u2fM8REJqtTiPL%2FN4BVKYOVFOLQQcnrp4n%2BE9hH4XKdJ%2FaerwYquzZHVI3pnOqw36Cw9WmYGTSrQIU5yaGROC1qKifqIm5qa3WbdpL%2FNI2Vf2%2FTLD5f6uagJZWi%2FfufeIoln4Q3BNJN3jPAS%2BWUBZ9%2FgPVWJkWfLY7eCaXroHTqciumjjkXrzVmPZ5LWnJ5xYgxJhP2jUZAZkH%2BdrR8A0ybc7Qul2T93Y7y3MlJORSZwn5UCSLqwJCfE2EvcXJ0Uf3ssDLPZkZtSTA%3D%3D",
    "posted_at": "2026-11-03T15:09:13+00:00"
-  },
-  {
-   "title": "MSI MAG FORGE 112R Boîtier PC Noir Verre Trempé Mesh 4 ARGB",
-   "price_raw": "64.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307264252090?_skw=boitier+pc&hash=item478a6068ba:g:mBwAAeSwdWBq6app&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nTwO%2BxHFP1%2BZhX11gpsCPMpgiVGvzqehS8GbwBLMh27TT3CQqgmiMfn3bFsjB99iRqIdXjJYHGSZuF65WSDT7pEneoXstC2oz4EZJkFhy549s8CtIT85OHwyuebRa%2Ftkhi9rwLsOodA%2FT%2Fyu%2FkTJCarmLEMLELhSDE7nKzCPKN0TEWGq2ISJPN%2FFpiIAqv4zLrY7AviC3v6ubT3r0dKJP5NTI1dUcMPvKdA6zkWFSW4Jok2F1kLpjJeK9p95wXra5DztRoSB62OUdzDjNOS7CgE2VmIBomaQMb5D7n6PiCLg%3D%3D",
-   "posted_at": "2026-11-03T15:03:58+00:00"
-  },
-  {
-   "title": "Samsung 16 Go DDR4 SO-DIMM PC4-2666V 260 broches M471A2K43DB1-CTD",
-   "price_raw": "59.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147656043507?_skw=ddr4&hash=item2260fc6bf3:g:FtoAAeSwfgxq4py4",
-   "posted_at": "2026-10-29T01:14:43+00:00"
-  },
-  {
-   "title": "Ram SO-DIMM 4Go PC4-2133P-SA0-11 DDR4 Laptop 1.2V 2133MHz 1Rx8 SK hynix ",
-   "price_raw": "15.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318877116975?_skw=ddr4&hash=item4a3e8eaa2f:g:kHcAAeSwGq5qz4gE",
-   "posted_at": "2026-09-16T05:24:57+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 876,
-  "models_with_reference": 20
+  "listings_seen": 880,
+  "models_with_reference": 21
  }
 }
