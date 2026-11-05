@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T23:08:00Z",
+ "generated_at": "2026-11-05T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-05T23:08:00.675265+00:00"
+   "last_ok": "2026-11-05T23:38:00.672367+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T23:08:00.675265+00:00"
+   "last_ok": "2026-11-05T23:38:00.672367+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-05T23:08:00.675265+00:00"
+   "items": 343,
+   "last_ok": "2026-11-05T23:38:00.672367+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-05T23:08:00.675265+00:00"
+   "items": 80,
+   "last_ok": "2026-11-05T23:38:00.672367+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JCg4cCKhsm%2FoTRNb%2BCI7UOWPWEbaHpqbx9xKvaPluXKVSNK9SnlnVnMpsX6GPbdNYb83it7h13ix%2BoGTbp%2F6fow3JnXA6cMaH4VasCKWKiZFnzGpOlBqmb2QvV0obzIdwLcxqegbGG73J%2FRVuzjhttK",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -230,6 +230,13 @@
  ],
  "unclassified": [
   {
+   "title": "Mars Gaming MCArt Boîtier PC Gaming ATX Double Vitrage Trempé Dessinable A",
+   "price_raw": "73.21 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132744317?_skw=boitier+pc&hash=item5a9a1e767d:g:z~4AAeSwkMpo-Uj4",
+   "posted_at": "2025-10-23T04:14:13+00:00"
+  },
+  {
    "title": "Tacens Anima AC6 Boîtier PC Micro ATX Compact Refroidissement par Mailles en",
    "price_raw": "40.12 EUR",
    "source": "ebay",
@@ -240,7 +247,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgQYXuSWvb9kppXe5DGvR31pliYf%2B%2FBZyx7M8gSUZ4yY3%2FRPLKMK9MXfWYSqr%2B47fdm8n1ndzcGkt1b396y8DoKbbxTPhBY83dhLWJIsnbHMRat%2Bs7KPSYqoTuWJ8oxE848C9ccGvZReVfZ5krx3%2FCP3A56tLFAnkBQvcBKUjvB1A%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgv5z8HwQdk3TmBCIPx57RnFjUhdR3oL%2FGzBBA%2BNoIer0sAtFQfHY694UfVCLcm479C%2Fxi5WYfw%2B%2FdHO61eZyLOExSUKMv7z9akq%2Fvs605ziSVKR2nqsIyLjY3X09JI%2FEpzWF6tONSin2xt1ql5OcafMbrO9DHRgNz8OTmwTo06Zg%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -293,13 +300,6 @@
    "posted_at": "2026-11-05T20:35:38+00:00"
   },
   {
-   "title": "Boîtier PC Fractal Design North Blanc Chalk Verre Trempé En Chêne Assente",
-   "price_raw": "109.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307268708165?_skw=boitier+pc&hash=item478aa46745:g:F9QAAeSwzOlq7L1V",
-   "posted_at": "2026-11-05T20:59:45+00:00"
-  },
-  {
    "title": "BOITIER PC GAMER",
    "price_raw": "63.10 EUR",
    "source": "ebay",
@@ -326,6 +326,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/377559767151?_skw=carte+graphique&hash=item57e850d86f:g:uTQAAeSwrTNqylWv",
    "posted_at": "2026-10-10T15:16:11+00:00"
+  },
+  {
+   "title": "Carte Graphique Radeon RX Vega 56/64 8 Go HBM2",
+   "price_raw": "106.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/155909141085?_skw=carte+graphique&hash=item244ce8b25d:g:504AAOSwveVluJ0s",
+   "posted_at": "2023-11-25T15:55:11+00:00"
   },
   {
    "title": "Kingston 8 Go DDR4 SDRAM PC4-2666V DIMM 288 broches 9995702-E04.A00G",
@@ -359,7 +366,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOhHYRXm0LfL6CNyz9COBmINnOZBpyUdXXtZ%2Fyl0QNGSkYU0oeOoyeKwZvaOTrd1gNxPrQU52lm8ZAGnih4X3pzTM7lZMaw31iFLzqxPcXoSXezZjO18w%2BSzgMsTYCkGEAQRuBOjEqcZFwRjAovMNdPzRJpcBnQO%2BRkbjWz4ST7l8Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOirfzgotatj8ZsK3Gl2sQzdyAg9xz7%2BoV2gVGAIamkxTOM%2BYGK5RC22S8wvINVR6RIsGlDwh59RGALqIEzKwLcXrZoW2EyVhE3ms7ajbq2Jx%2BcxSLzXUhXLJTQa76exNyA70zUOYNS2kiEdw93wfxfH0RuxFumnREQeJjDpfsr9KQ%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -499,7 +506,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBE5stk5yveJAS%2F5ZFAp0rUu8HxdJmppkVVVEIU76expaVeYRS2Sm%2BgJ8NAEYrnXFQqlWcVqK3eE0Uw9RloIIehERN3KW71qkZWwkJOHA%2FazCEeJtipAMg%2BcC8mpDd%2BfsLFz03J1eTBMZiunP%2BNPQPZ7",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFzsnaBrfgbgKWsApQvLDE%2F11ZxONdZk6D%2FeQVsgndG4rA7UcCcnldX%2B6m%2FhyNNVvsMtfvwTOqN5EVKJDll6o%2BnuDm528D9kT5HNbUdnUgDOD9EyzB%2F5lQP6fUC2Nst0C9INGS1iAA4iFYYPIoIFqLM",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -545,13 +552,6 @@
    "posted_at": "2026-11-05T13:10:28+00:00"
   },
   {
-   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
-   "price_raw": "57.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpBUKEw9I5qIu65%2BysTs5zFqnmjIcOpM%2BY4uj2yyXSuYkq0%2FOyVjZ3n6OKZn%2BGx7ST2ddpMJ%2FgXYHHk3wuc5jKz942E4SeN98nwO%2FC3jbb26OoN57HkKRNa8SuhQHJxOvGQP9w2%2FfLoSD3vO65NxjDDh%2BW7mhrfcxs29hjiYq8OVYg%3D%3D",
-   "posted_at": "2026-11-03T15:45:35+00:00"
-  },
-  {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
    "price_raw": "60,40€",
    "source": "dealabs",
@@ -582,6 +582,6 @@
  ],
  "stats": {
   "listings_seen": 934,
-  "models_with_reference": 21
+  "models_with_reference": 20
  }
 }
