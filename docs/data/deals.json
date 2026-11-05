@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T17:38:00Z",
+ "generated_at": "2026-11-05T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-05T17:38:00.658909+00:00"
+   "items": 344,
+   "last_ok": "2026-11-05T18:08:00.620223+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T17:38:00.658909+00:00"
+   "last_ok": "2026-11-05T18:08:00.620223+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-05T17:38:00.658909+00:00"
+   "items": 377,
+   "last_ok": "2026-11-05T18:08:00.620223+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-05T17:38:00.658909+00:00"
+   "items": 16,
+   "last_ok": "2026-11-05T18:08:00.620223+00:00"
   }
  },
  "watchlist": [
@@ -73,23 +73,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-512-go-gen3-3443396",
    "posted_at": "2026-11-01T12:39:46+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 99.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 99.99,
-   "median_eur": 214.99,
-   "discount_pct": 53.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "SSD M2 NVMe 2230 Kioxia EG6 TLC - 512 Go, Gen4, compatible Surface, Steam Deck",
@@ -228,6 +211,23 @@
    "posted_at": "2026-10-31T16:18:49+00:00"
   },
   {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 214.99,
+   "discount_pct": 20.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDrE4pWI5YcWHHVQ6EYcYrrhUM%2Fyu%2F3b9F7Vis5AANfQ%2B%2B74FMH9aE7fL2yGbkErhJHP8pgOcwg%2BOwAgW%2Fg2wbsP8DRGSvkNkJP1lcnef4rmdquUpZPhjXsmtScOZYgF9E1XY3ZLZgSFt7qb3PCgsux",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
    "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -264,18 +264,25 @@
  ],
  "unclassified": [
   {
+   "title": "Carte de capture externe Elgato 4K S – 4K60/1440p120/1080p240, HDR10, VRR, USB-C, compatibilité multiplateforme",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-de-capture-externe-elgato-4k-s-4k601440p1201080p240-hdr10-vrr-usb-c-compatibilite-multiplateforme-3447219",
+   "posted_at": "2026-11-05T17:55:38+00:00"
+  },
+  {
+   "title": "PC Portable 16,2\" Apple MacBook Pro M5 Pro (2026) - RAM 48Go, Stockage 1To, CPU 18 cœurs, GPU 20 cœurs",
+   "price_raw": "3 489€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-162-macbook-pro-m5-pro-2026-ram-48go-stockage-1to-cpu-18-coeurs-gpu-20-coeurs-noir-sideral-3447203",
+   "posted_at": "2026-11-05T17:38:14+00:00"
+  },
+  {
    "title": "SK hynix 16 Go (2x8 Go) DDR4 SO-DIMM 260 broches PC4-2400T HMA81GS6AFR8N-UH",
    "price_raw": "55.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206677986608?_skw=ddr4&hash=item301ef7cd30:g:5iUAAeSwzABq7Lzn",
    "posted_at": "2026-11-05T17:29:53+00:00"
-  },
-  {
-   "title": "MUSETEX Boîtier PC ATX Mid Tower K2, 7 Ventilateurs PWM ARGB, Double Verre",
-   "price_raw": "132.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398390459504?_skw=boitier+pc&hash=item5cc1ebfc70:g:thwAAeSwFqxqpo80&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKJEkNRnj91db28b2jHWEcYA1kIgCEyne4xec7TpeszQE1mKpfDcXumlHrvwXnv40CIzF%2B8wsgjSlPFaj%2B41AnIXglnrCDG2DF5l6Eqf59SFXYr6qzD%2BXZTT97QwSzo8GBNW400RxhFmzzps8EgZZ1awk0%2B0RPGfhO2xPL17f%2B2YFeQ4p1Hl5uuZRY9aH7caJu8XJNAu8T5WBYey9aqLoAH8Yy75hWqMY3ghTx9roH02fr4%2BNk4WMHTkzwDM73bv0niVDV9bbJXWqRDYQVg8T8h%2BGRvatICFnkQzTN9GxzSA%3D%3D",
-   "posted_at": "2026-09-13T11:55:41+00:00"
   },
   {
    "title": "[PREBUILT] Skytech Shadow 5 (Core Ultra 7 270K Plus, RTX 5070 12GB, 32GB DDR5, 1TB NVMe) is $1,699.99 @ Woot",
@@ -309,7 +316,7 @@
    "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZkUyImBtU3PmKwrV9qkT61%2FAJW5afPNmGN447WyJOAmMkzdyz%2FfGfYvawHf8Ueo5odBdZD3s6tAQetkK8GNC2AHu%2Bkt3UYtIQUvr%2FeXPHGfSKdcnZ7bK2WtEEZMAv%2BiVWNJNlunjv4%2BCeaQTHTstg3UZ2OrQYSnmshLG%2BUPlvDXog%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm0JYVayG8PuPYfM0W47uQlMWLMNEWb4TVRu88HYtJf8niNvbvY0bydHq6JUhIULHZeXbpePz%2BS4t2ac1Bfxp5tAzYWJJ%2FtiFyBxTvmIIcR67zP1a2R%2BQI7rSn7soge2gOxZ7H05aEDjKUXn2Wcn8lf1rpZelqPrisEW95xrKFyPQ%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
@@ -393,8 +400,15 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBGV1ClAKUIAH40EIqdBv1MGYacKaU6OXcMACdjH5XJh4BxrqCJ%2BG55i%2BILIob6%2FhTLnqrGKjNKBmAUS%2Bj99f1ffx2jii84njyqMnXKqQ%2FYufFxqvI5MnTnoF5amPn93dMGp3lxfieZAHimgOUO0CKnz",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBGSIdnheVeMAKDsLod8s2%2FpFiChvfvjhm4%2BrrynywUWsrWzvXL0anGvkMLY6%2FreBn7lKAAI%2BlUC3SLU%2FUz3%2Fx5k9leU9AOtG9mqQObMvBfShT9rk6bwC3HKeRZc1HmeWwIhsvgzrmE2qEPsEqZmgT77",
    "posted_at": "2026-11-05T14:01:33+00:00"
+  },
+  {
+   "title": "carte mere Asus p8z77-v socket intel lga1155 lga 1155 h77 p8z77 v",
+   "price_raw": "179.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/127990029536?_skw=carte+m%C3%A8re&hash=item1dccccdce0:g:vDoAAeSw6PpqYdlP",
+   "posted_at": "2026-07-23T09:06:53+00:00"
   },
   {
    "title": "BE QUIET! PURE BASE 501 Black – Boîtier PC GAMING ATX + 2 ventilateurs inclus",
@@ -437,13 +451,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/800324539472?_skw=carte+graphique&hash=itemba570f5450:g:~cUAAeSw-4NqUj5G",
    "posted_at": "2026-07-11T13:03:04+00:00"
-  },
-  {
-   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
-   "price_raw": "57.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpBhtSIgfzdasIpdE%2FLRl%2BfEIQ2Dbjd4f%2F3a49c6OAlraH4hFpwLegac%2Fxo17lMwIxwZ3OgEfhdWhk9W1Sk7NqQLbJcFuNCid6KibhSpmBfsGAKdZd20FELLcVnmlwDxyxKJlDGDKsz6WhipiMP252GS1KUpnt%2BqVtAyHb%2FXPXRKkQ%3D%3D",
-   "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
@@ -561,7 +568,7 @@
    "title": "Lenovo ThinkStation P350 Tiny Carte mère Intel Q570 5B20U54754",
    "price_raw": "139.93 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDD9km2Mrgo0Ghayi1cuRpWYGRdzXX%2FXQhw3f3KzpAbBJwco2DGOFmMjDVmlgS6mEiQAYecZT7STptdbKK%2Fpn%2BjXtQ8dU52%2B3tHDBBv2Ck9kWbtQ37PtO5E5IuRJ3KmUXvJirRdX7WdeO0XJb5LqXElB%2FFC1PPQNui0FSV0hW7NcvA%3D%3D",
+   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDC7jOYjMlloSzNro2xej9MRkHlpUvKHP2ne6t4Lw6I0Zxbja5lR6TRISX7iF%2FJUU%2B8Ad4uCmpA1E239QWXZACI%2BE2dhi1BMNBOVxBEqrXbl%2BCiB8jIUsZCmNdw4VzzmnrTj1z5jHz10AhksizJWhmDXZE3FpaGipvujutfnRoQTXQ%3D%3D",
    "posted_at": "2026-08-30T12:42:24+00:00"
   },
   {
@@ -605,17 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-etui-de-protection-odr-de-30eur-vendeur-darty-3446766",
    "posted_at": "2026-11-05T08:25:46+00:00"
-  },
-  {
-   "title": "Boîtier PC CORSAIR 5000D RS ARGB Blanc + Refroidissement Nautilus Corsair 360 ARGB + Alimentation Corsair RM750e 750W",
-   "price_raw": "219,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-5000d-rs-argb-blanc-refroidissement-nautilus-corsair-360-argb-alimentation-corsair-rm750e-750w-3446729",
-   "posted_at": "2026-11-05T07:58:04+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 900,
-  "models_with_reference": 21
+  "listings_seen": 901,
+  "models_with_reference": 20
  }
 }
