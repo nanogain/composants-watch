@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T15:38:00Z",
+ "generated_at": "2026-11-05T16:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-05T15:38:00.668678+00:00"
+   "last_ok": "2026-11-05T16:08:00.620213+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T15:38:00.668678+00:00"
+   "last_ok": "2026-11-05T16:08:00.620213+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 384,
-   "last_ok": "2026-11-05T15:38:00.668678+00:00"
+   "items": 385,
+   "last_ok": "2026-11-05T16:08:00.620213+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 22,
-   "last_ok": "2026-11-05T15:38:00.668678+00:00"
+   "items": 12,
+   "last_ok": "2026-11-05T16:08:00.620213+00:00"
   }
  },
  "watchlist": [
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-512-go-gen3-3443396",
    "posted_at": "2026-11-01T12:39:46+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 214.99,
+   "discount_pct": 53.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "SSD M2 NVMe 2230 Kioxia EG6 TLC - 512 Go, Gen4, compatible Surface, Steam Deck",
@@ -228,23 +245,6 @@
    "posted_at": "2026-10-31T16:18:49+00:00"
   },
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 214.99,
-   "discount_pct": 20.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAZft9oYpOPvwTxucclekfsx14%2BPaoBQZ1JGeUV%2FIMFw%2FNaQe2fbQGZ5z%2FwqlbL%2BZdtivIKDstl89aXSEdUIUu9dAFDNHTsDOZcqlcCwt%2BrBcRJD7GtrSKHmu83Vck5OYv1v4oEGuj1GrMyywpJ2P3M",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
    "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -280,6 +280,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Bundle] Microcenter In Store Only - Ryzen 5 5600X3D, Gigabyte B550M DS3H AC R2 AM4, G.Skill Ripjaws V 16GB (2x8GB) DDR4-3200 - $249.99",
+   "price_raw": "$249.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xom3v0/bundle_microcenter_in_store_only_ryzen_5_5600x3d/",
+   "posted_at": "2026-11-05T15:50:54+00:00"
+  },
+  {
+   "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
+   "price_raw": "149.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm0FAGR%2BtXMr%2B2D7Iz21grp2x2P6cBpokLlS%2B3L%2FVb57Rd8uI0TAyPMFnPjGpriJfJ6PxYdgNUjPQ4o7Nx1dYFfUh2tsLf7RI8NtaRuCSWM5PqRxlEj6qsMa6cIa4%2BeC0XSb4xnoNQLKiKgWTrOwN%2BjimHlf6D6b5VqtaUsLbsdGw%3D%3D",
+   "posted_at": "2026-03-09T13:58:47+00:00"
+  },
+  {
+   "title": "8Go RAM Mémoire HP-Compaq Pavilion Gaming TG01-0204a",
+   "price_raw": "75.27 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/195757635757?_skw=ddr4&hash=item2d941078ad:g:nTkAAOSwPaJgeGLP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAv0CzgK1QtNeRgFY1bB2NpBebN07V9hOcl837S2iV00EN%2FeJ%2BK1Ge5%2FKBwORP2RYg6UZ5jjhrpWYgqQCcONTSFs4BoSGl70RgHDGQtm79iFABbIQeCq48IAXIklB2yw4s6Y0dKingYjDi0ZXwiZWV5HTcUmBAYk97qsQUwPab0qEKWF2lWYLVYaRoz1%2BxkilrICNgTSGcvWXUVzfF7kJQbKDq9Pwxj7qBeKTdy5Ngt1gFxUUrPa6aD2Z%2F8eodM9%2BPc4NKaC9yFeT650FOMC6d",
+   "posted_at": "2023-05-11T16:36:56+00:00"
+  },
+  {
+   "title": "mini-tour Jonsbo C6 Handle Black Boîtier, Boîtier gaming, Boîtier PC noir",
+   "price_raw": "68.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336881588128?_skw=boitier+pc&hash=item4e6fb517a0:g:N2EAAeSwoGZq7Kg2",
+   "posted_at": "2026-11-05T16:00:39+00:00"
+  },
   {
    "title": "Console Asus ROG Xbox Ally - FHD IPS 7\" 120 Hz, Ryzen Z2 A, 16 Go LPDDR5X + 512 Go, 60 Wh",
    "price_raw": "549,99€",
@@ -333,7 +361,7 @@
    "title": "Crucial M500 240 Go mSATA SATA III MLC CT240M500SSD3 Garantie : 2 ans",
    "price_raw": "48.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I01VswshEqoc0lPMuZxIiC0pDUce%2BfKQ4kSM0Uyb9oQjckG4s5k6skbGH9o6%2B8DKu9l7IGNWFuww5%2BQLGcCGJIP5ZGhTdX0TS2pXB9ZZRC0WCwzOscR5n2q8PT3XgKbsewdBUAisIfgKg1QRtxnqZ4v",
+   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I3sgUZ2k9x2FI7LhV9bXAd888lOLywwo4KwHvpPiuEBnQPX8UCkwBU6NErLrIrxww5u7n9DHM6SY6F9%2FOgf1%2FoSbyEkYmqZOY12A6NpydlSFrty6kwgLqNiOQdWvPitbxmwRAA8SfaPmp8%2FV9mGp%2FyS",
    "posted_at": "2026-11-03T11:20:51+00:00"
   },
   {
@@ -368,14 +396,14 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBEaHeEGw2MF35hULd%2BgUwHx4CeHRMLqxwLQarmSmPAhLbev%2BoNzqghIXO1oRhXpb0DPBlqVwC90x%2Bzd93QqeT6LFfcIpl0r0F%2BP%2FU7iC6OAp69MWaG0QaYNH7BEgaziO%2Bgv3uf2qAr1hq8ByGBodzAD",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFlR%2B0VLR9J5q0s%2B4LBIlca5xJdMkYgzM1s7rFkZEKlZmgAFemkx3eXePCsTBV9%2BcIR8yDyVONruF1UbjgsWnjvzI8ZtZpRrrVJuZAQQN7nsx3xgzLDRwTMkIhFbEojtEpyZsE7cqC86KvelFiXQbsx",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
    "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpA1sRzbdLoRs9NiAFSCZPFQ2xsfSnBa78GcUwcT%2BQbFsicPzK2PaAMxpgTk24txMEevFBJgdZk25e2zuj1au5S%2F67UIpxVBCi9VdilyBrM3LWcLc%2FQlvGk9474Wxn4lrhyDQ0uk97m6ub0H52fc6B4bqabFb%2BC1Sz4DCUU8vbjmCw%3D%3D",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpAAoQAgu%2FSzksVAKzXMZlupL4P9hbLx0NPjOeJ5Nr3tODzQF5rhOGc86Et2nkDcKwPASFj2y%2BlhT530ZeZf6kDvU%2FsjTpqdlWL0lM69g3nC3KEHxFC5hoIri6JzNm4trcEhWgz4ap3uSA8wyO%2Bbw41j6Uki76oPDaYtV5z79IZRpg%3D%3D",
    "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
@@ -426,13 +454,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/800324539472?_skw=carte+graphique&hash=itemba570f5450:g:~cUAAeSw-4NqUj5G",
    "posted_at": "2026-07-11T13:03:04+00:00"
-  },
-  {
-   "title": "NVIDIA GeForce GT320 1Go DDR3 VGA DVI HDMI PCIe Carte Graphique",
-   "price_raw": "17.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257696186324?_skw=carte+graphique&hash=item3bffe3bfd4:g:XO0AAeSwFLNqiYrK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l4S1v7ko1p186TlNp6jgbC1rTlCT2BgTGTlz2XEZRGebtYNgESYch4fwktDukWLNW9QZpCBFU3bGURTaJlLqdCsoYIa4EN1%2F5S2EVPdY3vHbzHA4SaLfmN5kdLNdp7lowaJ0R8%2BvMD3dDx6gWsnKpubnkQB%2FoQGYmoS5le%2BjxXYJiGYobfeXltH9CIM%2BnuPMwjy%2FNQcX97ZVTk7Pt4d95ad9Nj833sHWgOuEsDFssvLO8yvIKI%2BKS1EIkoIf2wbP6%2FkzDVdKbuZ2YLn4AiDGQNufJgEeEXPZCumo4jHwju5A%3D%3D",
-   "posted_at": "2026-08-22T11:42:08+00:00"
   },
   {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
@@ -557,7 +578,7 @@
    "title": "Lenovo ThinkStation P350 Tiny Carte mère Intel Q570 5B20U54754",
    "price_raw": "139.93 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDAaSRqUp%2FyTwdGi%2FexKO6uknAiSOAMFd51E2wpff6xppx8PCfhBLeQKE2JKBXmLQ8xIfwexX3ETje3HtmsYsruvbUIL6FjFIQWvSMeINsI72UglIp9nxJdYeK2teyDN8RITg1Uv0CK%2FcK8WffttWPgaivAOZ3kpyJVMKU7tUu9b5A%3D%3D",
+   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDCEF0zdNVSCyGWiSX8NmYGKpwDh62sX9HjQ4%2FcGAYtbCjCq22WJAvfqtKgqZ%2BbhpRxzBahwUjRlUrZ7mtW2KtM4pgZ1FVyaKcRIy701BLdFinHltavnyvhqHKeyNIWYKoPUnM3lEk5HpS3m3Lgjy%2FLX9PhPMb5k%2F1tPmunzUU2bKA%3D%3D",
    "posted_at": "2026-08-30T12:42:24+00:00"
   },
   {
@@ -608,31 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-5000d-rs-argb-blanc-refroidissement-nautilus-corsair-360-argb-alimentation-corsair-rm750e-750w-3446729",
    "posted_at": "2026-11-05T07:58:04+00:00"
-  },
-  {
-   "title": "Pack de 2 routeurs TP-Link Wi-Fi 7 Bi-bande Deco BE22 (Vendeur Darty)",
-   "price_raw": "89,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-de-2-routeurs-tp-link-wi-fi-7-bi-bande-deco-be22-vendeur-darty-3446722",
-   "posted_at": "2026-11-05T07:51:49+00:00"
-  },
-  {
-   "title": "[Headphones] SteelSeries Arctis Nova Pro Wireless Headset - $183.99 (w/code: PCGAMING)",
-   "price_raw": "$183.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xocxu5/headphones_steelseries_arctis_nova_pro_wireless/",
-   "posted_at": "2026-11-05T07:52:40+00:00"
-  },
-  {
-   "title": "PC Portable 17,3\" Acer Nitro ANV17-41-R591 - AMD Ryzen 5 240, RTX 5050, 8 Go RAM 16 Go DDR5, SSD 512 Go, Win11 (Frontaliers Belgique)",
-   "price_raw": "996,01€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-acer-nitro-anv17-41-r591-3446699",
-   "posted_at": "2026-11-05T07:27:24+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 888,
+  "listings_seen": 891,
   "models_with_reference": 21
  }
 }
