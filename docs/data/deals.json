@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T19:38:00Z",
+ "generated_at": "2026-11-05T20:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-05T19:38:00.620226+00:00"
+   "items": 343,
+   "last_ok": "2026-11-05T20:08:00.653621+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T19:38:00.620226+00:00"
+   "last_ok": "2026-11-05T20:08:00.653621+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 374,
-   "last_ok": "2026-11-05T19:38:00.620226+00:00"
+   "items": 378,
+   "last_ok": "2026-11-05T20:08:00.653621+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-05T19:38:00.620226+00:00"
+   "items": 80,
+   "last_ok": "2026-11-05T20:08:00.653621+00:00"
   }
  },
  "watchlist": [
@@ -73,23 +73,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-512-go-gen3-3443396",
    "posted_at": "2026-11-01T12:39:46+00:00"
-  },
-  {
-   "title": "SSD 256GB Silicon Power A55 2.5\" SATA III 6.0Gbps",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 29.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 29.0,
-   "median_eur": 53.0,
-   "discount_pct": 45.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · go35700 (100,0 %, 84 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267831212321?_skw=ssd&hash=item3e5bfbf921:g:aDkAAeSw1Y9q6MOS",
-   "posted_at": "2026-11-02T17:09:37+00:00"
   },
   {
    "title": "Crucial BX500 SSD interne 2,5\" SATA 6Gb/s 480 Go CT480BX500SSD1",
@@ -207,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDQVRMaPScMvMiJxDGsshwARc2%2F0pPv4UXXryDKEjmhBaetjAsST0O2SZYIxpEM7CHWyvOd5%2BzQLFeBw2xtpv5xri9I%2BOvB4xzR5n1W4qz7Rirff8T7vv%2BH3uUS7LI%2BljSv48xX7WVJ7uyTPaJZxp2R",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAq3yDBQtwugmMvC1l%2Fna8j1ok5lDQo5%2FNdjL0w1PYhrsVCzylv4zHW71m5jNJqoEKlAHpMbyLY8yO%2FpB67Auezzzv3z7Tw7iC2DHOC3bTgvD0VBmY9xdvojl1eYvO4essCQlvv%2FGi0LgELKEiX32b5",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -229,6 +212,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Carte graphique ASUS Dual GeForce GTX 1060 6 Go GDDR5 DUAL-GTX1060-6G",
+   "price_raw": "63.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940068620137?_skw=carte+graphique&hash=itemdae074c769:g:R8cAAeSw8NRqmHMT",
+   "posted_at": "2026-11-05T19:48:02+00:00"
+  },
   {
    "title": "NAS Ugreen DH4300 PLUS",
    "price_raw": "235,04€",
@@ -286,13 +276,6 @@
    "posted_at": "2026-11-05T16:36:46+00:00"
   },
   {
-   "title": "mini-tour Thermaltake The Tower 200 Boîtier PC vert racing 2 ventilateurs",
-   "price_raw": "98.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237165549944?_skw=boitier+pc&hash=item37382b1978:g:K3UAAeSwq6Jq7Kxi",
-   "posted_at": "2026-11-05T16:18:35+00:00"
-  },
-  {
    "title": "[Bundle] Microcenter In Store Only - Ryzen 5 5600X3D, Gigabyte B550M DS3H AC R2 AM4, G.Skill Ripjaws V 16GB (2x8GB) DDR4-3200 - $249.99",
    "price_raw": "$249.99",
    "source": "reddit",
@@ -303,7 +286,7 @@
    "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZmJ6NFUs%2Fxim3CY1VGa7lMSiR6VPgVJHtYyazNz9mXDc6HSNrjEW%2BpLc3EmV9ZE28OfOEXYb7RGG95i8Yn7LUYcqE3RJLbhoHoRP2wZ7aPrZMEY1cuHIlqenRo8lJYYV0at5qCC6sZnq6Rcj6GAAdVegyQGxytYvrA5wVLItnFq5Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZnRkUfGb2DkRcJg%2BFDK8od9qMqKuuDgZqSYvqqsPuJgfV7jUWm3M9ll0Pp%2FVSmY3%2B2haHtuaZQca%2Bxt8LK5iiGICmP9JDCd7U596SRBHip%2BVG4Fc3ErX7oADpglo%2FVlCqwZwIAD0lNwFz15Pbbpzhf8f%2BMvmSqXRghkw6XYIN4l4w%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
@@ -387,15 +370,8 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHeLwG78wvfnfG364npVmeUBo8MZlpBqAEhfP9odaNx%2BgEXewdHlS87jXHYZU%2Fl0DmQpLeLpfk%2B7lUzcQTBf331FMTnlG4ZmWPuvMdxXQdecCFbyWBPF0F7%2Bx2wdlEU4vUCkOWAl1boqB9aidWnBpWw",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBGDjHu9IA6lSVQ8YVs3DwA%2FOlu%2Fgn7HoTG3CiYU9l5i8Z43Ul46qfLJeyDFfwKPQWFtwRMRin%2BDkgUrTc9YRAQLsrQI78HavpPpJ2eQfZ4gFQT1lUUufoTbefn5AxDJhfdMowmcQWlCQt64M7QNm2Iv",
    "posted_at": "2026-11-05T14:01:33+00:00"
-  },
-  {
-   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
-   "price_raw": "63.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpB9A5vXk7bvCH2tMCyp0N4R857HF2S7uxGIy8SFnQYZHphsEVWpwKjBbPLsjxefuCucm1F7MiGYSMKfNgB3do2HxtRpebJQsfUDq%2BKul%2FKYB7dXdVnp4%2F2CN6bDKA0H7ZjH6somPUDU2KBEqUv0hYzKUP%2FJ0aXnD6%2FDQU%2Fwc0ksXw%3D%3D",
-   "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
    "title": "carte mere Asus p8z77-v socket intel lga1155 lga 1155 h77 p8z77 v",
@@ -559,6 +535,13 @@
    "posted_at": "2026-11-04T23:38:30+00:00"
   },
   {
+   "title": "Lenovo ThinkStation P350 Tiny Carte mère Intel Q570 5B20U54754",
+   "price_raw": "139.93 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDC%2F678LHCiO4FEbOqJYzBxfrxBaTBxIDsrGPoNvTHi5%2BE3G47uIFAc%2B0Wvo%2BYe4bHEeEbLiYY3c85KDxIueibIZO03gTP4SRxAs6iUMS9fZeo3N49eNgXTDEYEyFznnuJZUpd5tpdlESFCRNZy5E6LT78kWnvdKoUG4cFZFI7Iq0w%3D%3D",
+   "posted_at": "2026-08-30T12:42:24+00:00"
+  },
+  {
    "title": "Lot de 2 Ecrans PC 24\" Philips 24E2N1100LB - FHD, 100Hz, Dalle VA, 1ms",
    "price_raw": "99,99€",
    "source": "dealabs",
@@ -581,7 +564,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 905,
-  "models_with_reference": 20
+  "listings_seen": 906,
+  "models_with_reference": 19
  }
 }
