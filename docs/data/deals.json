@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T21:38:00Z",
+ "generated_at": "2026-11-05T22:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-05T21:38:00.622534+00:00"
+   "items": 341,
+   "last_ok": "2026-11-05T22:08:00.662558+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T21:38:00.622534+00:00"
+   "last_ok": "2026-11-05T22:08:00.662558+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-05T21:38:00.622534+00:00"
+   "items": 372,
+   "last_ok": "2026-11-05T22:08:00.662558+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-05T21:38:00.622534+00:00"
+   "items": 25,
+   "last_ok": "2026-11-05T22:08:00.662558+00:00"
   }
  },
  "watchlist": [
@@ -230,6 +230,20 @@
  ],
  "unclassified": [
   {
+   "title": "NAS Terramaster F2-425 - NAS à 2 baies, CPU Intel x86 Quad-Core, 4 Go de RAM, sans disque (Via Paiement Paypal)",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nas-terramaster-f2-425-3447317",
+   "posted_at": "2026-11-05T21:49:09+00:00"
+  },
+  {
+   "title": "Carte mère A2141 pour MacBook Pro 16\" 2019 | 2,3 GHz i9 | 32 Go | SSD 2 To...",
+   "price_raw": "379.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820321295538?_skw=carte+m%C3%A8re&hash=itembefef59cb2:g:aHsAAeSwy25q7Pue",
+   "posted_at": "2026-11-05T21:56:43+00:00"
+  },
+  {
    "title": "Souris Gaming Sans Fil Redragon M916 Pro - Triple Mode BT/2,4 GHz/Filaire, 4000 Hz, 26000 DPI, 5 Boutons (Vendeur Tiers)",
    "price_raw": "31,81€",
    "source": "dealabs",
@@ -345,7 +359,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOhH6HralnnfiXjtYTnAL6gtTGSwCMfeBGsoRBbHQKsuYlfpFTlt0H2pk9Q7Mv734pXkF8ZFXXiau4uzKw0tkBSQj4pOG0RcaGzpt%2FzTjtWLAzH%2FllcqtksBYAIBtYxSw0W81VhlWCAqP%2BJWU2k69t%2BUYybuLBj52YkUrr4xe3Q1iA%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOiMd8IEGfr9ozgv7X%2BwkRFYdhBP%2FwTrQ8tyM0xTqq6iUBxCZTRI5aL53mbMxpG59ABHHWI1n3QfafU9%2BXTrdAZa2QqCcx2O5baXnkb4zntj2Lv66aYKq7cPSuC0bj8TBp76%2BvQd17pTZPagijVBoYvG79zLNZlprHBYuXBSGb7Y4w%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -415,7 +429,7 @@
    "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm2miow6f05hiQ7u2xerEA%2FzmB1N3ab7MGAs1VPsYKUdmvaq3ihaCpjMaLobwd09exHyk5HWUqaZXsyoOJr09fDk6PgcLNho6wPD4Cb37neI9GXkRAuYkQ%2BxYMehvscNYeG2lLRnuCJgGKrtBW5LcpYXwuYvzZDFOntFNLS%2BBDUQQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZkqSYFMRj09s1S83Bvzzb8ykKcjBV5A%2FTbzeLfbqo6a7ZgHmipiqOGlTFOjZCf27MI8rxZkaDIy1nozjNv0p%2B4spmNKQFygvKAbuA12pt57zw%2BNIHiCOztivnbGrHdvVndVH4I4go6aKCCTu1ziYnmcAQvmVMVlchXS6wg9c%2Fr41Q%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
@@ -499,7 +513,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHrewIGkh3YSL1fETdiLiz0uvpTiG19bzCL4vLxwbheeoqNEZgMyIFIyHp6cWBUJnJwy7KbmzWmahnh%2BalOcdq8zvXBxj3LKIqk4ujizvNpQubYkCDs7IqXCF%2BDnGpl7fmo%2FGDpJ7fDc3HHtl9h3XsO",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFTh8V15l84R2CHCEYSns%2BvlCZtVwyFp2xtYVApEWiwD4KbA6RAzmn%2Bgx4GGUVM2Tp2ciG3xYuMMk16Bzc3gbeRMgfPJ7DnUdeHGhofc2nnAY7W1O2pl%2BKgJ%2Blz1VNQO1dCoRPBF4zlPB40eJ7euAdv",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -545,6 +559,13 @@
    "posted_at": "2026-11-05T13:10:28+00:00"
   },
   {
+   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
+   "price_raw": "57.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpCVzC7ejQuzCZ9lrOr7Mau9OYZfYp4bGOoR8T%2F7IA7LOzIGBBpdAuDo2f27eBOc8ODY5sHMCl2PZFBBinPAFsIokxdQsXgS7HqpiJf0cTajc%2BHfsDIvYo0TqhkueO9vq3gzqvY6KF2JJZ8eLiwkCOiPat0f%2F2m9dsOaZTmCfo9hgg%3D%3D",
+   "posted_at": "2026-11-03T15:45:35+00:00"
+  },
+  {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
    "price_raw": "60,40€",
    "source": "dealabs",
@@ -552,36 +573,15 @@
    "posted_at": "2026-11-05T13:03:17+00:00"
   },
   {
-   "title": "8GB SK Hynix Original 8GB (1x8GB) DDR5 4800 MHz PC5-4800B SODIMM NOTEBOOK",
-   "price_raw": "78.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/278358221264?_skw=ddr5&hash=item40cf7161d0:g:hNQAAeSwibxqoQY0",
-   "posted_at": "2026-09-09T07:12:03+00:00"
-  },
-  {
    "title": "Apple 27\" LED - Studio Display - Ecran PC 5K 5120 x 2880 pixels MFF24FD/A - NEUF",
    "price_raw": "1539.99 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/158245549758?_skw=%C3%A9cran+pc&hash=item24d82b76be:g:yuEAAeSw8fBqah83",
    "posted_at": "2026-09-01T08:24:33+00:00"
-  },
-  {
-   "title": "[CPU] Microcenter in store only, AMD Ryzen 7 5800X3D Vermeer AM4 3.40GHz 8-Core Boxed Processor $279.99",
-   "price_raw": "$279.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/",
-   "posted_at": "2026-11-05T12:27:28+00:00"
-  },
-  {
-   "title": "Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2",
-   "price_raw": "189,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3446973",
-   "posted_at": "2026-11-05T11:46:45+00:00"
   }
  ],
  "stats": {
   "listings_seen": 928,
-  "models_with_reference": 20
+  "models_with_reference": 21
  }
 }
