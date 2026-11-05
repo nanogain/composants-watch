@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T11:38:00Z",
+ "generated_at": "2026-11-05T12:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-05T11:38:00.619216+00:00"
+   "items": 343,
+   "last_ok": "2026-11-05T12:08:00.671221+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T11:38:00.619216+00:00"
+   "last_ok": "2026-11-05T12:08:00.671221+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 384,
-   "last_ok": "2026-11-05T11:38:00.619216+00:00"
+   "last_ok": "2026-11-05T12:08:00.671221+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 4,
-   "last_ok": "2026-11-05T11:38:00.619216+00:00"
+   "items": 22,
+   "last_ok": "2026-11-05T12:08:00.671221+00:00"
   }
  },
  "watchlist": [
@@ -90,6 +90,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-2230-kioxia-eg6-tlc-512-go-gen4-compatible-surface-steam-deck-3446149",
    "posted_at": "2026-11-04T13:22:31+00:00"
+  },
+  {
+   "title": "SSD 256GB Silicon Power A55 2.5\" SATA III 6.0Gbps",
+   "model": "SSD:SATA-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 29.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 29.0,
+   "median_eur": 53.0,
+   "discount_pct": 45.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · go35700 (100,0 %, 84 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267831212321?_skw=ssd&hash=item3e5bfbf921:g:aDkAAeSw1Y9q6MOS",
+   "posted_at": "2026-11-02T17:09:37+00:00"
   },
   {
    "title": "Disque Dur SSD 128Gb Transcend 2.5\"",
@@ -224,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JD4HOirr8F5rHy7AA2ZYG7sOZhcQVbjczPikRMrNprdjtrG1TiWjUGaBn3ytTgANyIXUeWLFM%2FIqPeWetYhLHnrcph5jZqX7Aqx1QGZbHgbu7w4wBuq1Svi1WmrLJlE4w5oUYW5kNdktt12KOuu17Ne",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JBQ6iHZC82tMyOX1z3oNdHdxxCkA%2BgEgcEb%2FyZk90rs5o1zDEPcOlz%2BdU1aKXmudu1GQZiaWpgNsxKQpzsnoNYgc4wtny%2BA2%2Bhl%2FzJvim1Bn%2BldBhwPic5QjfGJvm%2BI%2BVtvClDpwD4sDySM8EhR15Lv",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -243,23 +260,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD Micron 2200 256Go M.2 2280 NVMe PCIe Gen3 x4 – Testé – Santé 71%",
@@ -281,7 +281,35 @@
  ],
  "unclassified": [
   {
-   "title": "Tablette Samsung Galaxy Tab A11 4GB+64GB, écran 8,7\", batterie 5100 mAh",
+   "title": "Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2",
+   "price_raw": "189,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3446973",
+   "posted_at": "2026-11-05T11:46:45+00:00"
+  },
+  {
+   "title": "Ordinateur portable de bureau FUCHU, Intel Atom A3950, 12 Go de RAM, 512 GB SSD , PC 14,1 pouces, Windows 11 Pro, ultra fin",
+   "price_raw": "159€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-de-bureau-fuchu-intel-atom-a3950-12-go-de-ram-512-gb-ssd-pc-141-pouces-windows-11-pro-ultra-fin-3446993",
+   "posted_at": "2026-11-05T12:07:24+00:00"
+  },
+  {
+   "title": "Souris sans fil Bluetooth rechargeable silencieuse Inphic PM6 Pro - tri-mode, 6 boutons, 3 DPI, noire (Via Coupon - Vendeurs Tiers)",
+   "price_raw": "15,79€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-bluetooth-rechargeable-silencieuse-inphic-pm6-pro-tri-mode-6-boutons-3-dpi-noire-via-coupon-3446967",
+   "posted_at": "2026-11-05T11:39:47+00:00"
+  },
+  {
+   "title": "Alimentation PC ATX Semi Modulaire 80 Plus Gold EVGA 650 GQ 650 Watts",
+   "price_raw": "45.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137904555188?_skw=alimentation+pc&hash=item201bc084b4:g:powAAeSwfotq7Gys",
+   "posted_at": "2026-11-05T11:49:28+00:00"
+  },
+  {
+   "title": "Tablette 8,7\" Samsung Galaxy Tab A11 - 4GB+64GB, Batterie 5100 mAh",
    "price_raw": "117,67€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-samsung-galaxy-tab-a11-4gb64gb-ecran-87-batterie-5100-mah-3446964",
@@ -337,13 +365,6 @@
    "posted_at": "2026-11-05T11:03:55+00:00"
   },
   {
-   "title": "Carte graphique asus gtx 560 ti 1 Gb",
-   "price_raw": "25.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839752823?_skw=carte+graphique&hash=item4a3c548877:g:n1MAAeSwF6Zqnvsr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kUz5Ry%2FpaKvwrZctENJQHnDD6mCawBe7EgQ6z35dWOsWr%2BjOVXUfoZPYHoi2p2DfgktqK0ck8mWfJQRUI%2Ft7SnI0p9mGwUmX1uMHTLu2jzUIfg%2F49l4nzGZ1HB7pwD8UhGX1T90aAcbzRUBM%2BM9L072D%2FQPO8YSDa5LykLbte7kXluWsSkdVeBF%2B7zucgz4G5fbYgnHzIlENQw7I2lUxKgnLSSGlEEW7kLuA8ElU%2BNZQ1pjlgmwJKcmhR4xEJhewIUvsgJyWEvJUczwtZHTag1QbMVJK6ipnG3Kba%2FhlUPtA%3D%3D",
-   "posted_at": "2026-09-07T18:00:15+00:00"
-  },
-  {
    "title": "Carte Mère Asus A68BM-A/M32BF/DP_MB Socket FM2 + A8-6500 + 8 Go de RAM",
    "price_raw": "39.99 EUR",
    "source": "ebay",
@@ -365,6 +386,13 @@
    "posted_at": "2026-11-04T23:38:30+00:00"
   },
   {
+   "title": "Lenovo ThinkStation P350 Tiny Carte mère Intel Q570 5B20U54754",
+   "price_raw": "139.93 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/158239350640?_skw=carte+m%C3%A8re&hash=item24d7ccdf70:g:F0cAAeSwF5BqlCT2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nCqICo7iuGtMX4QZB8V0TbvKVd4EOMs6KRqPIdyxNmDZr0Bbh%2FW2qYI0dYBo%2FzqMZRz%2B5cJOM9inumyxJsiEQUVr7NytnfxqmXxehDu5W9d1FNTdJaHZ5WnIewBQ%2FdLDCnspKknjaKP3NIyGWwGlaUEsN1rGrlDN2AsRLB97zdhPlMyfVkzZda%2F3ktZKrp2vt1U0i45NHeXtPilKaQ1Hz6tp1D8Hg9PxEWtpNE%2FANJ7O6QB7jhJfyBekeTco5op%2Fwwqm%2BPl3eDwxmZ%2BaNqCwbgPlenTPNlgjKk9TlogFlPjg%3D%3D",
+   "posted_at": "2026-08-30T12:42:24+00:00"
+  },
+  {
    "title": "Lot de 2 Ecrans PC 24\" Philips 24E2N1100LB - FHD, 100Hz, Dalle VA, 1ms",
    "price_raw": "99,99€",
    "source": "dealabs",
@@ -377,13 +405,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xoeaxl/psu_rosewill_cmg5_1000w_atx_30_31_compatible_80/",
    "posted_at": "2026-11-05T09:23:38+00:00"
-  },
-  {
-   "title": "Samsung 16 Go DDR4 SDRAM SO-DIMM PC4-3200AA RAM M471A2G43BB2-CWE",
-   "price_raw": "70.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206677034481?_skw=ddr4&hash=item301ee945f1:g:bb0AAeSw~75q7EHr",
-   "posted_at": "2026-11-05T08:48:09+00:00"
   },
   {
    "title": "TECURS Clavier AZERTY pour iPad Air 13\" et iPad Pro 12.9, Étui Rétroéclairé",
@@ -419,13 +440,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-etui-de-protection-odr-de-30eur-vendeur-darty-3446766",
    "posted_at": "2026-11-05T08:25:46+00:00"
-  },
-  {
-   "title": "Mini PC - Intel Core i9 10980HK, RAM 16 Go, SSD 256 Go, Wi-Fi 6, BT5.2, Windows 11 Pro, Origine CN",
-   "price_raw": "186,63€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-intel-core-i9-10980hk-windows-11-pro-16gb-256-gb-ssd-3446753",
-   "posted_at": "2026-11-05T08:15:28+00:00"
   },
   {
    "title": "Boîtier PC CORSAIR 5000D RS ARGB Blanc + Refroidissement Nautilus Corsair 360 ARGB + Alimentation Corsair RM750e 750W",
@@ -487,7 +501,7 @@
    "title": "Mars gaming MC-S1 Rose, Boîtier PC Gaming Micro-ATX Compact, ARGB 12",
    "price_raw": "36.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307264259128?_skw=boitier+pc&hash=item478a608438:g:~VUAAeSwicZq6bfS&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n6BoXlg8%2FQ39%2F46EjyZ9L2TLwPNhw8u2fM8REJqtTiPL%2FN4BVKYOVFOLQQcnrp4n%2BE9hH4XKdJ%2FaerwYquzZHVI3pnOqw36Cw9WmYGTSrQIU5yaGROC1qKifqIm5qa3WY4%2BPkZ%2Fd33SCzUAQF4FIjsOzQ4qY6a6SwAExnYpHjR1qfvMPn%2BGeYdSjmnkCQMNsl5kTX4jO7tz9dlrUshT3OyTTsNOY2dsL7keG5Hic9ojV0kN75jOaV5ydeWrq4jAKCRA%2BJ2WXF8tY5EJ5ZtvlsjkpUgh39s8WTFQcaxDJjswQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/307264259128?_skw=boitier+pc&hash=item478a608438:g:~VUAAeSwicZq6bfS&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n6BoXlg8%2FQ39%2F46EjyZ9L2TLwPNhw8u2fM8REJqtTiPL%2FN4BVKYOVFOLQQcnrp4n%2BE9hH4XKdJ%2FaerwYquzZHVI3pnOqw36Cw9WmYGTSrQIU5yaGROC1qKifqIm5qa3WZlrjdIJpH2YDJN9sJJ0qN27XabOQzkQSW8lmbCLoyBRZAAmZ8M7AEPbv%2FSB9FTNuUMFDHOBtLSPvrc33Dc%2BetaILfZkCJqYyl6e0il2iS7%2BrmMez81EdwpgS7L%2BiC0iHihBynjEwbkpyzoQYsIBsknmlypM0Bcp35S%2FbyRJ9kf0w%3D%3D",
    "posted_at": "2026-11-03T15:09:13+00:00"
   },
   {
@@ -496,6 +510,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/178055516737?_skw=%C3%A9cran+pc&hash=item2974ef9241:g:XooAAeSwFCdp4dit",
    "posted_at": "2026-04-17T06:47:26+00:00"
+  },
+  {
+   "title": "Samsung 16 Go DDR4 SO-DIMM PC4-2666V 260 broches M471A2K43DB1-CTD",
+   "price_raw": "59.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147656043507?_skw=ddr4&hash=item2260fc6bf3:g:FtoAAeSwfgxq4py4",
+   "posted_at": "2026-10-29T01:14:43+00:00"
   },
   {
    "title": "Ram SO-DIMM 4Go PC4-2133P-SA0-11 DDR4 Laptop 1.2V 2133MHz 1Rx8 SK hynix ",
@@ -508,7 +529,7 @@
    "title": "16 GO RAM  Portable DDR4 3200  SO-DIMM Mémoire pour Ordinateur Portable",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327420012046?_skw=ddr4&hash=item4c3bc0e60e:g:32kAAeSw1Hxqoszr&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nCuTiqgXLli4cOo9apOFKqbvKu0v21aCBJ0oAo%2FR0bYky%2Brz9uSiBD%2BzlTAHw3VKuwYvE6CySrVBb6PE46oK%2FQgD6edHwRGN9v1Z6tRkc2lsYxLHcAkItB%2BM1fsLE%2BdXA9pNvF%2FBoKH%2BN3IkHIPNKekYuhYR2OhHF5%2FQhcWx8uuOWjKDnkC6j8PS1CJ7FU2W9yvWNLhp6gFH0wt8zqWsHp2VTkCH2EyR8vep9GHStGsg%2BGR5CFfNhAhb1Y9xHyEftMZgh9AUoqtGBNNGvI%2Bbg4",
+   "url": "https://www.ebay.fr/itm/327420012046?_skw=ddr4&hash=item4c3bc0e60e:g:32kAAeSw1Hxqoszr&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nCuTiqgXLli4cOo9apOFKqbvKu0v21aCBJ0oAo%2FR0bYky%2Brz9uSiBD%2BzlTAHw3VKuwYvE6CySrVBb6PE46oK%2FQgD6edHwRGN9v1Z6tRkc2lsYxLHcAkItB%2BM1fsLE%2BdXAlzWHV4SMTM7HD7IgjV1uUBaiQFoSNS212pP44k6z81DzdrIoVsE%2B1Mf67UvmKoFDAC6Q6r8tPhKgCxQ6x%2BmFYc4aAZcLOSgFpHwhPW%2B0rK1b5e4SI%2BxezidQXJPvHDS7ok8YOvXI6hC%2FsQkrYkEMX",
    "posted_at": "2026-10-23T17:23:07+00:00"
   },
   {
@@ -517,6 +538,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206665427617?_skw=ddr4&hash=item301e382aa1:g:ypIAAeSw071q4wqO",
    "posted_at": "2026-10-31T11:17:17+00:00"
+  },
+  {
+   "title": "8G (2x4g) PC4 MEMOIRE POUR PORTABLE",
+   "price_raw": "17.22 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327363588013?_skw=ddr4&hash=item4c3863efad:g:-TQAAeSwXfpqKDJT",
+   "posted_at": "2026-09-18T12:37:00+00:00"
   },
   {
    "title": "Processeur Intel Xeon E3-1240V5 (SR2LD) 3.50 GHz Quad-Core Socket 1151",
@@ -575,6 +603,13 @@
    "posted_at": "2026-09-22T12:00:37+00:00"
   },
   {
+   "title": "Silicon Motion Carte Graphique PCIe x1 HDMI 1080p SM750",
+   "price_raw": "46.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/298512635567?_skw=carte+graphique&hash=item4580bd56af:g:G30AAeSwkN9qWlBW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpjeIs3t2e2M%2BJHAsb1KMQoetHXWNm11fc9%2F%2Bzk4PIMgQCxe8FEYxC9btCCgIBvYIoif6oESiUw77QrZGRqciF4Kik2TV3IuiC2D4UNoXSjFykDvCtUsEAhlcTXNxKZzMlVhSLU7NoZLhrEQ78o15wY8hDXVr7CRHfotSNONKFoHXCJ9rUW1nbLNvzjQlbSjv65j5w4M2n14VzAam7msVRUb16aFlEjSAPHL2f3lyBJEpXKJ6zWND7OK2i05R2Jx%2BkeIdXCbtQOkOgvTeMOBRJr4NzOpY06SHJ9xzclMofXw%3D%3D",
+   "posted_at": "2026-07-17T15:50:55+00:00"
+  },
+  {
    "title": "HP Pavilion Gaming Keyboard 800 clavier gaming mécanique AZERTY FR USB noir",
    "price_raw": "34.99 EUR",
    "source": "ebay",
@@ -585,54 +620,19 @@
    "title": "Clavier Bluetooth Pliable Sans Fil QWERTY Portable Smartphone Tablette PC",
    "price_raw": "24.95 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820200623878?_skw=clavier&hash=itembef7c44f06:g:ud8AAeSwxfNqr-ku&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRzUopABffXS142kOPt91wEk%2Bbh%2Be%2F2bklh1%2B%2FwtFoctc8Vkk8X0ZYG39xLU2UKT1A1%2BA1DjxzKDK3mlrIu0YPID0v2mOJ2B%2FtNCQY7kkwhr%2FunnPwcRmnowjbzYvNOQuuF6gx4hqcqkCnk43%2B2iAZ7eOmBfIa%2FHqiONav8knZ80ZCQkHwFNK80I9DJ6DHeF3pRoR5UQbRBnON%2Fgq3BG5uAO6WtbwqOKOxES6sanlNmVSfjeb25W66p6ujXyD6Mh9Hhv%2FBvk6YFzU8ZsOVsKgLAttc2g5f%2BNH5IipkG%2BQE7Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/820200623878?_skw=clavier&hash=itembef7c44f06:g:ud8AAeSwxfNqr-ku&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRzUopABffXS142kOPt91wEk%2Bbh%2Be%2F2bklh1%2B%2FwtFoctc8Vkk8X0ZYG39xLU2UKT1A1%2BA1DjxzKDK3mlrIu0YPID0v2mOJ2B%2FtNCQY7kkwhr%2FunnPwcRmnowjbzYvNOQtYxpKWTHFa%2BFf40l9LD6N0VsC86bYd%2FsLTxniKMORTZLdm6Wq4asft5RT3%2B6rlq1VTz3q3YcAwsKt8cXRte4uCUSgtY9832MNcdnscso4oaqiSRu%2FM6uOm9RI83jg09kn4BYZ59Gmm8JuC9AhrUdNVsJzlrCdSorc6H9pg7QfmrA%3D%3D",
    "posted_at": "2026-10-03T21:19:02+00:00"
   },
   {
    "title": "OMOTON Clavier sans Fil Bluetooth AZERTY Rétroéclairé Métal Rechargeable",
    "price_raw": "84.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635187153?_skw=clavier&hash=item225fbe2dd1:g:d7wAAeSwNZ9qzzXO&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kBqW%2FRXh1Ln1fVMULQADVoS9%2F%2Bz1rLKEozlEDjLoteanluDPds9oaF5WcbglENP18uL8SR8ZRnktWfY0G1mZA%2BvxJiDiZmUVsaWQiQVKJ9bxMZxYwxFEuSwnVq%2BNV5vyaKSUoZ9AXf5GN5GkEZY4zxMcPUm6jeOlQ5sF8L5nEsUP%2BsMcwK0jrxbRgNHA5FZr1msKykOBGk2kWmJ9bvbJih3mdXcyJQaAZBtbH0ni8JFFyd4IAnXJDytYLVwRHqOOKVOqhvrHzphdyoGaAvg8qU8qszfD0d7xEQZtBEBHYGaQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/147635187153?_skw=clavier&hash=item225fbe2dd1:g:d7wAAeSwNZ9qzzXO&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kBqW%2FRXh1Ln1fVMULQADVoS9%2F%2Bz1rLKEozlEDjLoteanluDPds9oaF5WcbglENP18uL8SR8ZRnktWfY0G1mZA%2BvxJiDiZmUVsaWQiQVKJ9bxMZxYwxFEuSwnVq%2BNV5vya2qFRtZV1mwWSXKgqcf5ynlX3GhkAAVybucM9Wy%2F2Fm744kq36%2FrQqSJhRyyI9EaMGMT59%2FWtfrr3Qla%2FZY4HNO6TY5tVzrR2wqo%2F1qRgcqQ5aZCXT0DlEJZVFlEdRD6ex44VaAZP%2BEFvQlawYcy3thbTXjDIrtGIEXPJ2znapsw%3D%3D",
    "posted_at": "2026-10-14T07:57:13+00:00"
-  },
-  {
-   "title": "Sac à dos Tucano Goal Bkgoal CP - Pour MacBook Air/Pro 13\" et les Ordinateurs portables jusqu'à 14\", Plusieurs coloris (tucano.com)",
-   "price_raw": "48,30€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/sac-a-dos-tucano-goal-bkgoal-cp-pour-macbook-airpro-13-et-les-ordinateurs-portables-jusqua-14-plusieurs-coloris-3446518",
-   "posted_at": "2026-11-04T21:22:57+00:00"
-  },
-  {
-   "title": "Samsung 8 Go DDR4 SO-DIMM PC4-3200AA 260 broches M471A1K43DB1-CWE",
-   "price_raw": "24.59 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267833539439?_skw=ddr4&hash=item3e5c1f7b6f:g:4rgAAeSwj1lq6Mn1",
-   "posted_at": "2026-11-04T21:22:23+00:00"
-  },
-  {
-   "title": "HP Pavilion Gaming Keyboard 800 Clavier gamer FR rétroéclairé USB filaire noir",
-   "price_raw": "34.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900065901608?_skw=clavier&hash=itemd1901bbc28:g:HeYAAeSwPuBq65dt",
-   "posted_at": "2026-11-04T20:38:15+00:00"
-  },
-  {
-   "title": "Routeur Huawei Brovi 5G CPE Max 5 - 4G/5G, Port Ethernet 2.5 Gbps, Blanc",
-   "price_raw": "258,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/routeur-huawei-brovi-5g-cpe-max-5-4g5g-port-ethernet-25-gbps-blanc-3446481",
-   "posted_at": "2026-11-04T20:24:35+00:00"
-  },
-  {
-   "title": "Mini PC Geekom A9 Max 2026 Edition - AMD Ryzen AI 9 HX 470, 32 Go de RAM, 2 To de SSD",
-   "price_raw": "1 359,20€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-geekom-a9-max-3446482",
-   "posted_at": "2026-11-04T20:23:31+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 834,
+  "listings_seen": 837,
   "models_with_reference": 20
  }
 }
