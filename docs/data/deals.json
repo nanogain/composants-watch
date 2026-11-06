@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T09:37:00Z",
+ "generated_at": "2026-11-06T10:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-06T09:37:00.691629+00:00"
+   "items": 340,
+   "last_ok": "2026-11-06T10:08:00.659550+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T09:37:00.691629+00:00"
+   "last_ok": "2026-11-06T10:08:00.659550+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 386,
-   "last_ok": "2026-11-06T09:37:00.691629+00:00"
+   "items": 390,
+   "last_ok": "2026-11-06T10:08:00.659550+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 4,
-   "last_ok": "2026-11-06T09:37:00.691629+00:00"
+   "items": 78,
+   "last_ok": "2026-11-06T10:08:00.659550+00:00"
   }
  },
  "watchlist": [
@@ -137,7 +137,7 @@
    "discount_pct": 26.9,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · hexatresors (99,6 %, 457 avis)",
+   "merchant": "eBay · hexatresors (99,6 %, 458 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960154265403?_skw=ssd&hash=itemdf8da7673b:g:R9IAAeSwajVq63a0",
    "posted_at": "2026-11-04T18:17:49+00:00"
@@ -207,11 +207,39 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JBjCzwIzqJ%2BFmsWySdONJfw9rwceH%2FR1HxT0SwblezLPtyi1Mw2mN7vYSEpgpD9l7AkOKy3KAH09IyaA%2FZz5KE0dUOaKV80htgS%2BrrjIfP6Ct8txqDbVVSQuQR2WTm%2FcMkchx6TjGj9NxHJlkwgvc6F",
    "posted_at": "2025-05-09T06:24:05+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC Ninkear M8 Ryzen 7 8745HS - 16 Go RAM DDR5, SSD 1 To, Radeon 780M, Windows 11, WiFi 6, Bluetooth 5.2",
+   "price_raw": "418,20€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-ninkear-m8-ryzen-7-8745hs-16-go-ram-ddr5-ssd-1-to-radeon-780m-windows-11-wifi-6-bluetooth-52-3447608",
+   "posted_at": "2026-11-06T10:06:54+00:00"
+  },
+  {
+   "title": "PC portable Lenovo Legion Pro 5 RTX5070 32G 1T 11H + Casque Legion H410 + Sac à dos Legion GB900 16\" + Souris Legion M600s (Via Coupon)",
+   "price_raw": "2 229€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-lenovo-legion-pro-5-16adr10-r9-32g-1t-11h-casque-legion-h410-sac-a-dos-legion-gb900-16-souris-legion-m600s-via-coupon-3447590",
+   "posted_at": "2026-11-06T09:40:14+00:00"
+  },
+  {
+   "title": "Samsung 16Go DDR5 SDRAM SO-DIMM PC5-5600B 1 Module M425R2GA3PB0-CWM0L",
+   "price_raw": "234.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267832153242?_skw=ddr5&hash=item3e5c0a549a:g:fsMAAeSwMmBqz7En",
+   "posted_at": "2026-11-03T15:18:18+00:00"
+  },
+  {
+   "title": "ASUS Prime A320M-R microATX Socket AM4 DDR4 2 slots UEFI BIOS",
+   "price_raw": "49.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900070105560?_skw=carte+m%C3%A8re&hash=itemd1905be1d8:g:aZIAAeSwtZNq7aOA",
+   "posted_at": "2026-11-06T09:53:50+00:00"
+  },
   {
    "title": "PC portable Lenovo Legion Pro 5 16IRX10 I7 16G 1T 11H + Casque Legion H410 + Sac à dos Legion GB900 16\" + Souris Legion M600s (Via Coupon)",
    "price_raw": "1 879,01€",
@@ -276,13 +304,6 @@
    "posted_at": "2026-10-15T19:40:32+00:00"
   },
   {
-   "title": "Tour midi BeQuiet Pure Base 600 Boîtier PC noir, orange isolé, fenêtre",
-   "price_raw": "136.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267835283865?_skw=boitier+pc&hash=item3e5c3a1999:g:8uoAAeSwcPtq7YT9",
-   "posted_at": "2026-11-06T07:42:48+00:00"
-  },
-  {
    "title": "[Adhérents] 30€ de réduction dès 300€ d'achat sur une sélection de PC & tablettes, 60€ dès 600€ d'achat & 100€ de réduction dès 1000€",
    "price_raw": "30€",
    "source": "dealabs",
@@ -309,13 +330,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336278935782?_skw=ddr5&hash=item4e4bc958e6:g:xskAAeSwqd1q7YrH",
    "posted_at": "2025-11-10T13:29:35+00:00"
-  },
-  {
-   "title": "Corsair Vengeance RGB DDR5 - 16 Go (2 x 8 Go) - 5200 MT/s C40 - Intel XMP 3.0 -",
-   "price_raw": "391.35 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336104681577?_skw=ddr5&hash=item4e41667069:g:JLEAAeSwUcNq7YqN",
-   "posted_at": "2025-08-03T01:28:19+00:00"
   },
   {
    "title": "Pack Tablette Tactile Xiaomi Redmi Pad 2 9,7\" 64 Go Gris + Étui de protection Gris",
@@ -395,6 +409,20 @@
    "posted_at": "2025-04-01T05:25:26+00:00"
   },
   {
+   "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
+   "price_raw": "198.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137889234268?_skw=carte+graphique&hash=item201ad6bd5c:g:aPoAAeSwpEBquygT",
+   "posted_at": "2026-10-31T08:59:44+00:00"
+  },
+  {
+   "title": "Kingston ValueRAM 8 Go (2x4 Go) DDR4 SDRAM SO-DIMM 260 broches KVR26S19S6/4",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/178481934378?_skw=ddr4&hash=item298e5a302a:g:obMAAeSwehJqoT~I",
+   "posted_at": "2026-09-09T11:16:26+00:00"
+  },
+  {
    "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C36 - AMD EXPO - Noir",
    "price_raw": "477.86 EUR",
    "source": "ebay",
@@ -405,7 +433,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjOtxwkaSAIr6beF28qg0hTVpCvzR%2BwefmIFLy%2FB4V48A3WNDCfxAtKLATpznra6WhUSRARtiE08njCjebl8pX4qa8%2FfHrZ8wjEOQyHZNVFxZRzjT3laC8uNw1xATy5hAoplmFsbGJX%2BHZU5vij%2BQMycrmk233jlylMqKwHXy%2FqcSw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjNTpeWzhpTrOUmZAgHCttzdjd0gEbl2W%2BkTtQFWrL1j1A8jRkU5%2FVViDlPU9Adrcj0PvpYkmOQ6vnKzMtFiHyKQuCeCUkGW%2F89LFdYGJVNdeAknJds8m%2B951JwQi6RXfDHVqtiELJ%2BDuwMAc%2BIDUKRHSkpSkazWb6Dz9ag2GoUGjA%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -423,10 +451,17 @@
    "posted_at": "2026-11-05T23:42:37+00:00"
   },
   {
+   "title": "Mars Gaming MCArt Boîtier PC Gaming ATX Double Vitrage Trempé Dessinable A",
+   "price_raw": "73.21 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132744317?_skw=boitier+pc&hash=item5a9a1e767d:g:z~4AAeSwkMpo-Uj4",
+   "posted_at": "2025-10-23T04:14:13+00:00"
+  },
+  {
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjekxlnhc7i1fkjGboglPBgnnE1CcXH5qPYxcIC%2BteNPthUSnXdadcRLDkwnGxRQZeK53qBvYOITFkXgdth1teTPy%2B2BJzEoEMYysGV3b0AW8VddwYpN5FGyC96vVdoVVdGKPgKM9a9HyTS%2FfOG%2BVo6GXqtEHEolhRm9kuEp9ejFw%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfiKS%2B6uaD1Uaj1wPpCGwSFPc8X55X6J4O4F7ax%2Bw03TGpjlF%2BFmZ2QEKOpUejWRWjuTg6w4znEqFEB482ZqTRHE7KDi9ZpRXtIpyrE4AGvPd3p0vv1WTI1o5zE9w%2FfHClxWSpkdYQiNPseVOu%2BEvAuftFnuNLIrVFvpwXl9Qcot1g%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -503,7 +538,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOg9LD2BeOH9NCu1UeHr6pzBmPrIPiKoZ29MhZnGyBxRkfK%2Bf0w8hvE9DkoDmSIPE1rkQeT6vtWyJehhEnf3gdJR%2FbxMXWLH9m1drxUKx%2FhUD7043OzwwVzHiZG3YKrxBLkAvzGeZzUMrNaqpouZrKVknlDO5Vx6ybBBrWurt9Ldvg%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOgdsc1IqDYZiJprQibSDNcpxB0NuaGkD%2FeZyJVTlhxaSqZhiBTfPvyxBuvBzno2o3wKCF%2Br3Pc8j8%2BaEZIvMjm2C7pl0YKWGGx828t6mT3V71wY0UAYAhJ%2FXaweVZjKi6dg5riUvQpFMjoSt1B93CrVfKZQvktYSlD4sjW8FVHBCg%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -526,45 +561,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-logitech-g-pro-x-superlight-2-se-noir-via-coupon-3447264",
    "posted_at": "2026-11-05T18:59:13+00:00"
-  },
-  {
-   "title": "[Keyboard] NC61 Magnetic Switch Mechanical Keyboard 61-Key Compact - $49.90",
-   "price_raw": "$49.90",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xoqu2j/keyboard_nc61_magnetic_switch_mechanical_keyboard/",
-   "posted_at": "2026-11-05T18:50:01+00:00"
-  },
-  {
-   "title": "Carte de capture externe Elgato 4K S – 4K60/1440p120/1080p240, HDR10, VRR, USB-C, compatibilité multiplateforme",
-   "price_raw": "99,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-de-capture-externe-elgato-4k-s-4k601440p1201080p240-hdr10-vrr-usb-c-compatibilite-multiplateforme-3447219",
-   "posted_at": "2026-11-05T17:55:38+00:00"
-  },
-  {
-   "title": "MUSETEX Boîtier PC ATX Mid Tower K2, 7 Ventilateurs PWM ARGB, Double Verre",
-   "price_raw": "132.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398390459504?_skw=boitier+pc&hash=item5cc1ebfc70:g:thwAAeSwFqxqpo80&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKJEkNRnj91db28b2jHWEcYA1kIgCEyne4xec7TpeszQE1mKpfDcXumlHrvwXnv40CIzF%2B8wsgjSlPFaj%2B41AnIXglnrCDG2DF5l6Eqf59SFXYr6qzD%2BXZTT97QwSzo8HR4NhAQ860AcpzK8nvd%2FMNCuhO%2BxDSGEFOq7sv5tEOAURmPKqm%2B9y1GZtkJdZVjyswBgLxelLfyiY2w3%2BZaWnVMDtgUpI6fkrZb720DoXLDUmsseiYZwBQnnQynbPn3iFRP6UcKcFyVfMkIdZe7brN62JJJECo8AAywv0LtUCmHA%3D%3D",
-   "posted_at": "2026-09-13T11:55:41+00:00"
-  },
-  {
-   "title": "[PREBUILT] Skytech Shadow 5 (Core Ultra 7 270K Plus, RTX 5070 12GB, 32GB DDR5, 1TB NVMe) is $1,699.99 @ Woot",
-   "price_raw": "$1,699.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xonaza/prebuilt_skytech_shadow_5_core_ultra_7_270k_plus/",
-   "posted_at": "2026-11-05T16:36:46+00:00"
-  },
-  {
-   "title": "[Bundle] Microcenter In Store Only - Ryzen 5 5600X3D, Gigabyte B550M DS3H AC R2 AM4, G.Skill Ripjaws V 16GB (2x8GB) DDR4-3200 - $249.99",
-   "price_raw": "$249.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xom3v0/bundle_microcenter_in_store_only_ryzen_5_5600x3d/",
-   "posted_at": "2026-11-05T15:50:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 992,
+  "listings_seen": 994,
   "models_with_reference": 20
  }
 }
