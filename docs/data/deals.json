@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T15:08:00Z",
+ "generated_at": "2026-11-06T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T15:08:00.679768+00:00"
+   "last_ok": "2026-11-06T15:38:00.672650+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T15:08:00.679768+00:00"
+   "last_ok": "2026-11-06T15:38:00.672650+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 396,
-   "last_ok": "2026-11-06T15:08:00.679768+00:00"
+   "items": 397,
+   "last_ok": "2026-11-06T15:38:00.672650+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 38,
-   "last_ok": "2026-11-06T15:08:00.679768+00:00"
+   "items": 80,
+   "last_ok": "2026-11-06T15:38:00.672650+00:00"
   }
  },
  "watchlist": [
@@ -107,23 +107,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
-   "title": "Lot 16 Go (2×8 Go) Crucial DDR4-2400 SODIMM PC4-19200 CL17",
-   "model": "RAM:DDR4-16Go-2400",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 36.06,
-   "shipping_eur": 3.0,
-   "effective_eur": 39.06,
-   "median_eur": 63.54,
-   "discount_pct": 38.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · leshopdejode (99,5 %, 195 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237167441241?_skw=ddr4&hash=item373847f559:g:xJ4AAeSwfyRq7dXa",
-   "posted_at": "2026-11-06T13:29:40+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -243,9 +226,61 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Kit 32Go (2x16Go) RAM DDR4 SO-DIMM Samsung 2666 MHz PC4-21300 portable",
+   "price_raw": "109.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147669199433?_skw=ddr4&hash=item2261c52a49:g:8m4AAeSw67hq7dYX",
+   "posted_at": "2026-11-06T15:24:14+00:00"
+  },
+  {
+   "title": "Micron RAM 8 Go DDR4 SDRAM PC4-2666V SO-DIMM 260 broches MTA8ATF1G64HZ-2G6E1",
+   "price_raw": "29.81 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336883596405?_skw=ddr4&hash=item4e6fd3bc75:g:ie8AAeSw3YZq7fIT",
+   "posted_at": "2026-11-06T15:28:33+00:00"
+  },
+  {
+   "title": "Samsung 8Go DDR4 SDRAM SO-DIMM PC4-2400T M471A1K43CB1-CRC",
+   "price_raw": "26.69 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336883593301?_skw=ddr4&hash=item4e6fd3b055:g:HHsAAeSw6khq7fFp",
+   "posted_at": "2026-11-06T15:25:47+00:00"
+  },
+  {
+   "title": "Lot de 2 barrettes de Ram Sodimm DDR5 2x16 GB Samsung (Occasion )",
+   "price_raw": "299.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327443269058?_skw=ddr5&hash=item4c3d23c5c2:g:JeMAAeSwiw9q7e3X",
+   "posted_at": "2026-11-06T15:14:42+00:00"
+  },
+  {
+   "title": "Dell Carte mère optiplex 3070m",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227601399390?_skw=carte+m%C3%A8re&hash=item34fe19be5e:g:BT8AAeSw4UFq7ewy",
+   "posted_at": "2026-11-06T15:09:55+00:00"
+  },
   {
    "title": "Kit Mémoire RAM Juhor DDR4 - 16Go (2 x 8Go)",
    "price_raw": "123,27€",
@@ -273,13 +308,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/168843478535?_skw=ddr4&hash=item274fdb0607:g:~8AAAeSwOIxq7ei1",
    "posted_at": "2026-11-06T14:55:51+00:00"
-  },
-  {
-   "title": "Corsair Vengeance RGB DDR5 - 32 Go (2 x 16 Go) - 5200 MT/s C40 - Intel XMP 3.0 -",
-   "price_raw": "670.93 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335608498486?_skw=ddr5&hash=item4e23d34936:g:5yUAAeSwH8lq7eyS",
-   "posted_at": "2024-10-07T20:15:27+00:00"
   },
   {
    "title": "Kit de 4 caméras EufyCam S330 (eufyCam 3) + HomeBase 3 - 4K, solaire, stockage local sans abonnement",
@@ -366,13 +394,6 @@
    "posted_at": "2026-11-06T13:04:49+00:00"
   },
   {
-   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
-   "price_raw": "136.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvR9k0mrd4G3PzZlFR3qykWI03zRtrPFhChM%2FepQ%2FjBMiTE03dnE2X0IP1y5sW2mFoz9cnUEiPU3h--fFpnPuUSO%2F6W00HuA8quR2X%2FsGBPx9xornum272VFLo7Etd6Yh7LTY9dfR6YPqlq%2FwgZi88c4OmP3KdZHCGcDMrOT4KrWJg%3D%3D",
-   "posted_at": "2026-10-14T07:28:32+00:00"
-  },
-  {
    "title": "BARRETTE MEMOIRE RAM PC PORTABLE 8GO 8GB DDR4-2666V PC4-21333 PC4-21300 SODIMM",
    "price_raw": "24.62 EUR",
    "source": "ebay",
@@ -383,7 +404,7 @@
    "title": "Carte mère ASUS P5W DH Deluxe LGA775 P4 3,2 GHz 1Go DDR2 IDE rétro",
    "price_raw": "99.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257830024751?_skw=carte+m%C3%A8re&hash=item3c07ddf62f:g:PWsAAeSw9NBq6H2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLsdJ12A0XspeIBLA7Rw8wRLoV9jqs6o7FUsYbS8jF780U6KxN8QMQLz9gC2Tc7el9ewkc91LdtZzr5ei11fBgKg%2Bio693peAvKXz0QfWHqNKyD%2F8hROwk61vZdXNchTC%2B5LbMf7yaw81QzhKiKstoA2X9qvpXLDsQc718AUsSfxvuhcOKOa6x6XyLzJK3M9UnLmQ%2BT4L3O6iyPJcZIj7XOZJgZhlaxjFjsNnSFL6pxtPpdmSc7lQ1J6RuRgfvbTE0YHRMueO8Of5%2FD%2FtSRAmiUAc0aVDJMWJBW3N7tCOV3Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/257830024751?_skw=carte+m%C3%A8re&hash=item3c07ddf62f:g:PWsAAeSw9NBq6H2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLsdJ12A0XspeIBLA7Rw8wRLoV9jqs6o7FUsYbS8jF780U6KxN8QMQLz9gC2Tc7el9ewkc91LdtZzr5ei11fBgKg%2Bio693peAvKXz0QfWHqNKyD%2F8hROwk61vZdXNchTAuz8S8OwbVXSXi4dkcC5KdvKHZbqlPgyvR8bIPnX3qvyOyuzvOHiwjrRpVw4eSJbbk%2BHnlDk7Ep4OaMX3bvTinDmL0qSnSnc%2BmijJUAHBvYJ0xM8yjbvez9Zs3BheW80lIDwW9xwEZJv4x5sS1OCb%2FLJC%2BhKj6F5tSvYWCfalZRw%3D%3D",
    "posted_at": "2026-11-02T12:16:32+00:00"
   },
   {
@@ -425,7 +446,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GxWn%2Ft2MJifFGTeEqVaxXibTsTgsBBs3ZvUMTM%2BGEiDbQkpRK3Ci2SzOhYLiNBb%2BtTWM%2BBHE4O97sT%2F0Bibk1VREcL7rhjFdIm%2BWreHymn4n6C2kUjjxSRlPd5CL4YZr9mWxqT--3Ivz8b5GaRS5WqC",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GzERPUfiUbE583nibAfyyWpHct%2Bzm3BBSSUtNcc1JXVKOmu9hnv12hV87JHhFEmpD%2FA0qE3Tvp6hfLyE9uneM9ieq6hbkO1tYsBTMFoVxw%2F9aQcYu1Do6KdI5tG4mqqiCPYWBsCMN5xtpaKG8XyPy%2FS",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -469,13 +490,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/198776763408?_skw=carte+graphique&hash=item2e4804b410:g:oSQAAeSwkvZq7Zj1",
    "posted_at": "2026-11-06T09:10:34+00:00"
-  },
-  {
-   "title": "carte mère fonctionnelle pour Asus N76V 17\"",
-   "price_raw": "26.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117507557400?_skw=carte+m%C3%A8re&hash=item1b5bff0818:g:z5kAAeSwxDtq7Z1Q",
-   "posted_at": "2026-11-06T09:29:54+00:00"
   },
   {
    "title": "PC Portable 16\" ASUS A16-TUF608UP-TU147W - AMD Ryzen 7, NVIDIA GeForce RTX 5070, 16 Go DDR5",
@@ -544,7 +558,7 @@
    "title": "Kingston Fury™ Beast DDR5 - 8 Go (1 x 8 Go) - 5600 MT/s C40 - Intel XMP 3.0 - No",
    "price_raw": "248.93 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336251731974?_skw=ddr5&hash=item4e4a2a4006:g:Dh4AAeSwkLVq7Y1-",
+   "url": "https://www.ebay.fr/itm/336251731974?_skw=ddr5&hash=item4e4a2a4006:g:qX8AAeSwQPZq7eyq",
    "posted_at": "2025-10-25T10:14:09+00:00"
   },
   {
@@ -562,13 +576,6 @@
    "posted_at": "2025-10-25T10:14:29+00:00"
   },
   {
-   "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 5600 MT/s C40 - Intel XMP 3.0 - N",
-   "price_raw": "448.32 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/334424714500?_skw=ddr5&hash=item4ddd442d04:g:VAsAAeSw1hlq7Y14",
-   "posted_at": "2022-04-30T21:30:40+00:00"
-  },
-  {
    "title": "[Headphones] Sennheiser HD 600 Open-Back Wired Headphones - $229.95",
    "price_raw": "$229.95",
    "source": "reddit",
@@ -583,22 +590,15 @@
    "posted_at": "2026-11-06T06:03:15+00:00"
   },
   {
-   "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
-   "price_raw": "198.30 EUR",
+   "title": "Carte graphique NVIDIA GeForce4 MX 440-SE 64 Mo DDR AGP VGA S-Video ",
+   "price_raw": "10.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137889234268?_skw=carte+graphique&hash=item201ad6bd5c:g:aPoAAeSwpEBquygT",
-   "posted_at": "2026-10-31T08:59:44+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C36 - AMD EXPO - Noir",
-   "price_raw": "477.86 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335448535923?_skw=ddr5&hash=item4e1a4a7373:g:s6EAAeSwhNJq7eyS",
-   "posted_at": "2024-06-19T10:38:27+00:00"
+   "url": "https://www.ebay.fr/itm/198755494415?_skw=carte+graphique&hash=item2e46c02a0f:g:shMAAeSwm6lq47R-",
+   "posted_at": "2026-10-29T21:05:05+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1058,
+  "listings_seen": 1069,
   "models_with_reference": 22
  }
 }
