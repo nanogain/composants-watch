@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T16:38:00Z",
+ "generated_at": "2026-11-06T17:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-06T16:38:00.673683+00:00"
+   "items": 340,
+   "last_ok": "2026-11-06T17:08:00.694002+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T16:38:00.673683+00:00"
+   "last_ok": "2026-11-06T17:08:00.694002+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 391,
-   "last_ok": "2026-11-06T16:38:00.673683+00:00"
+   "last_ok": "2026-11-06T17:08:00.694002+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-06T16:38:00.673683+00:00"
+   "items": 29,
+   "last_ok": "2026-11-06T17:08:00.694002+00:00"
   }
  },
  "watchlist": [
@@ -90,23 +90,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/287635474567?_skw=ssd&hash=item42f8690887:g:Vm0AAeSwjQZqx6kb",
    "posted_at": "2026-10-08T14:32:30+00:00"
-  },
-  {
-   "title": "SSD 256GB Silicon Power A55 2.5\" SATA III 6.0Gbps",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 29.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 29.0,
-   "median_eur": 53.0,
-   "discount_pct": 45.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · go35700 (100,0 %, 84 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267831212321?_skw=ssd&hash=item3e5bfbf921:g:aDkAAeSw1Y9q6MOS",
-   "posted_at": "2026-11-02T17:09:37+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -229,6 +212,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
+   "price_raw": "97,56€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ddr3-m2-2280-sata-de-128-go-wifi-5-bt-42-windows-11-pro-3447922",
+   "posted_at": "2026-11-06T17:07:41+00:00"
+  },
+  {
+   "title": "Mini PC Kamrui H1 - Ryzen 7735HS, Radeon 680M, 24 Go LPDDR5-5500, SSD 512 Go, 2,5GbE, WiFi 6 & BT 5.2, W11 Pro (via Paypal)",
+   "price_raw": "321,82€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-kamrui-h1-ryzen-7735hs-radeon-680m-24-go-lpddr5-5500-ssd-512-go-25gbe-wifi-6-bt-52-w11-pro-via-paypal-4x-au-besoin-3447900",
+   "posted_at": "2026-11-06T16:38:16+00:00"
+  },
+  {
+   "title": "SK hynix 8 Go DDR4 SO-DIMM 260 broches PC4-2400T HMA81GS6AFR8N-UH",
+   "price_raw": "29.83 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960162782848?_skw=ddr4&hash=itemdf8e295e80:g:x20AAeSw9gtq7gfu",
+   "posted_at": "2026-11-06T17:01:44+00:00"
+  },
   {
    "title": "PC Portable 15,6\" Acer Aspire Lite 15 - Full HD IPS, Ryzen 5 3500U, RAM 8Go, 256Go SSD, 45 Wh, Sans OS",
    "price_raw": "399,99€",
@@ -391,6 +395,13 @@
    "posted_at": "2026-11-06T13:14:34+00:00"
   },
   {
+   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
+   "price_raw": "136.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvT%2BJdc0p46Rzjvze0g8f0BX2Pu%2BrLHv4Azeltc5%2FvZqGIQ0VGU11nWWSAAtgCKyE9QoRZq0uQjx6Q1xKqPI4Ws4rEe%2FZSVTpJfR26C2qypx96Z7%2BPlDvHyhPsJTYFBcxGcbiHzcf3Irbj3yngFpdffbZlDSjPM5GPJZkuc%2Fzkfj5A%3D%3D",
+   "posted_at": "2026-10-14T07:28:32+00:00"
+  },
+  {
    "title": "Processeur Dual-Core Intel Pentium G3240 2X 3.10GHz Socket 1150",
    "price_raw": "10.94 EUR",
    "source": "ebay",
@@ -436,7 +447,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GxwfiQpt4tWdRXaY610RJAvi7tYgg3Y%2FZb5Ic1Gc81jlAure8bk0UJaKx7%2F3xeVd1E9bsre8AByMST%2F6AUvS0HJyU%2F9vxzKJ4KIx4pxvVir155R91JZpOAwWv37jdleIJ5sqOaDrZDGcq1ZQtpIWZTi",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GxihMyflCIIAWjofw9BTpNoaUzMa9Sa46x54LLM6JfnJGHLMrjqrQCBJWky40XOdWNX4JqI3PnpN5CUyVc7v9MMmmG0SfaLgTo%2FiINpPLCoj8ySDhmR4HxOSnUv9TIkh5r4qH6l3xA6ppQlI%2BoAlRba",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -550,38 +561,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336251731974?_skw=ddr5&hash=item4e4a2a4006:g:qX8AAeSwQPZq7eyq",
    "posted_at": "2025-10-25T10:14:09+00:00"
-  },
-  {
-   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C30 - Black",
-   "price_raw": "870.32 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336251757980?_skw=ddr5&hash=item4e4a2aa59c:g:EmcAAeSw38Nq7evs",
-   "posted_at": "2025-10-25T10:28:05+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s C36 - AMD EXPO - Noir",
-   "price_raw": "861.88 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336251732364?_skw=ddr5&hash=item4e4a2a418c:g:pqAAAeSwd-Nq7evQ",
-   "posted_at": "2025-10-25T10:14:29+00:00"
-  },
-  {
-   "title": "[Headphones] Sennheiser HD 600 Open-Back Wired Headphones - $229.95",
-   "price_raw": "$229.95",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xp5jwc/headphones_sennheiser_hd_600_openback_wired/",
-   "posted_at": "2026-11-06T06:09:21+00:00"
-  },
-  {
-   "title": "[Mousepad] CHERRY XTRFY GP5 Gaming Mousepad Deskmat AMNIS Blue XL - $9.99 ($4.99 for new woot users) ($14.99 - $5 ($10 new customers) w/ code WOOTCHERRY)",
-   "price_raw": "$9.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xp5g8x/mousepad_cherry_xtrfy_gp5_gaming_mousepad_deskmat/",
-   "posted_at": "2026-11-06T06:03:15+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1079,
-  "models_with_reference": 22
+  "listings_seen": 1084,
+  "models_with_reference": 23
  }
 }
