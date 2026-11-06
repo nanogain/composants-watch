@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T03:37:00Z",
+ "generated_at": "2026-11-06T04:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T03:37:00.675424+00:00"
+   "last_ok": "2026-11-06T04:08:00.689139+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T03:37:00.675424+00:00"
+   "last_ok": "2026-11-06T04:08:00.689139+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 384,
-   "last_ok": "2026-11-06T03:37:00.675424+00:00"
+   "items": 348,
+   "last_ok": "2026-11-06T04:08:00.689139+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-06T03:37:00.675424+00:00"
+   "items": 16,
+   "last_ok": "2026-11-06T04:08:00.689139+00:00"
   }
  },
  "watchlist": [
@@ -90,23 +90,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267831212321?_skw=ssd&hash=item3e5bfbf921:g:aDkAAeSw1Y9q6MOS",
    "posted_at": "2026-11-02T17:09:37+00:00"
-  },
-  {
-   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 32.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 32.99,
-   "median_eur": 59.99,
-   "discount_pct": 45.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
-   "posted_at": "2024-01-02T08:24:05+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -241,11 +224,18 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JCRdcZvYFrCZkhi%2FrKscY8oGI5LpAZB4%2FvOll5vkR7D91hjcSMxSoErUwLnr%2FDJ6WBtpyXNhXtsDds2C7NhNa1kCiCCVR4tUnd9i%2Bm7nF7ek33%2Bcq9sSLvI4DFWzgfsrE1v5bkktR27ss%2Bqv2rA%2FvKR",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAsdYS4I4jVtZaaAwjICtxs2d9gn7BzLswJvMDwjDBOJTVrGlvnkfXsBu780SKPbLA0EkZ2IpCHQuitqUVkxbJWUbD%2F4OngqpfcafWxjt%2Bk%2FzyEIsvvxsegIfjATM7wBJSH6Lc25h8bJb1E9Ma9yPm%2B",
    "posted_at": "2025-05-09T06:24:05+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Boîtier PC Zalman Z9 Iceberg MS Tour Midi Noir",
+   "price_raw": "109.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307269103951?_skw=boitier+pc&hash=item478aaa714f:g:weYAAeSwD5Vq7Mlq",
+   "posted_at": "2026-11-06T04:05:33+00:00"
+  },
   {
    "title": "-34% sur les téléphones et tablettes xiaomi",
    "price_raw": "395,93€",
@@ -275,17 +265,10 @@
    "posted_at": "2026-11-05T23:42:37+00:00"
   },
   {
-   "title": "Tacens Anima AC5 Boîtier PC Micro ATX Compact Refroidissement par Mailles en",
-   "price_raw": "46.20 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132621498?_skw=boitier+pc&hash=item5a9a1c96ba:g:NI4AAeSwJJZo-TsI",
-   "posted_at": "2025-10-23T03:28:40+00:00"
-  },
-  {
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfiY2utRUa8o5373hf8s4fAyPH6%2FrV5%2BmZouTk5c1%2F9%2BTfmwQt4LqDjCG4JQXcGrUMaoqkrYGUBY6pyTyg75%2FhKU2ixl5Wo0XKyq%2BGLP5JdTMIQOaMlKio5dWE6keMaHV22OxBvpBS%2BTIgGL7012B%2FLnocoJbV2P6q0VUwX%2Fp8HzGQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfifN0QEcxhV3mOlpucjsAHsEHfSVagzuAuvUGHozFOywceTiWVJzUt1tBwGwk11jJljosZN9gKGthve7bgf3M8zJ0c%2FLU6uirwgMp8XRRhpPor0EKy8jdospnrOA5Z09EEndEqp09ZtP8rH%2B4mD5QeIpLihEM%2FyRTvmYqlhquCoIA%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -310,18 +293,18 @@
    "posted_at": "2026-11-05T21:26:53+00:00"
   },
   {
-   "title": "Carte mère Supermicro A2SDI-4C-HLN4F mini ITX / NAS Carte mère / ECC support",
-   "price_raw": "190.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/406953607467?_skw=carte+m%C3%A8re&hash=item5ec053412b:g:OnwAAeSwDgxqFey-",
-   "posted_at": "2026-05-26T19:00:28+00:00"
-  },
-  {
    "title": "Carte graphique NVIDIA Quadro M4000 8GB GDDR5",
    "price_raw": "94.99 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/127900807668?_skw=carte+graphique&hash=item1dc77b71f4:g:IhsAAeSwHWVqH~fC",
    "posted_at": "2026-06-03T09:46:18+00:00"
+  },
+  {
+   "title": "Processeurs Intel Core i3 i5 i7 Xeon E5 – LGA 1150 1151 1155 – Plusieurs modèles",
+   "price_raw": "45.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377488237358?_skw=processeur&hash=item57e40d632e:g:cC4AAeSwf8pqo87r",
+   "posted_at": "2026-09-12T22:00:43+00:00"
   },
   {
    "title": "Integral 16 Go RAM SODIMM DDR4 3200 MHz PC4-25600 CL22 portable NEUF",
@@ -373,25 +356,11 @@
    "posted_at": "2026-11-05T20:18:18+00:00"
   },
   {
-   "title": "Samsung 4 Go DDR4 SDRAM SO-DIMM 260 broches PC4-3200AA M471A5244CB0-CWE",
-   "price_raw": "31.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920109578196?_skw=ddr4&hash=itemd63acdf7d4:g:GlsAAeSwx89q7OW6",
-   "posted_at": "2026-11-05T20:24:18+00:00"
-  },
-  {
    "title": "Kingston 4 Go DDR4 SDRAM ECC DIMM 288 broches PC4-2400R ACR26D4U7S1ME-4",
    "price_raw": "26.63 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/920109531284?_skw=ddr4&hash=itemd63acd4094:g:wpQAAeSwKhlq7OE7",
    "posted_at": "2026-11-05T20:04:48+00:00"
-  },
-  {
-   "title": "Boîtier de PC Gaming Châssis OMEN 32L",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOis02wJ8Omjbz%2F1huuWgkMxNrLAEKODkIfLZvfum6cbdcFzDPgC6CZJwBvIjtAtTBVQO2Y0vtBiGEwvxb5hYKN2cla9dJ%2B8SljNL8ut5RRjhYRObc%2FD6aqcx1UOlRN%2Fko2M9tb5hCwkbwBWimpE1O%2F0z7VWfrbDTPU0z%2BoqaeSUnQ%3D%3D",
-   "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
    "title": "SteelSeries clavier gaming illuminé noir azerty  résistant à l’eau IP32",
@@ -523,15 +492,8 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFVqBAODstthsLSF%2FQGmDdz%2FltGmfdcXRRrfZ2DyPamuD9uhhmYQCsWe2cPWCt29%2B%2Fa18zn3x%2FqQocZRws2cPKiJXFxJ%2FAzTGVjqiqlDyve1KQgT0qQ2sau%2BH6w304R3FFljUZ5oRhyMNsxYcAfMQI0",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBEzlKZm8JtES%2BeAOnQLN2RrG%2B5o%2Bl%2Bipgke9kOduOE0hdl8UArreW7j5CxCZ4qlq%2BAXKW7kr4Zn84VeQQHj8b5aC7rqaevq3opTkG3%2BXq0Ytc88%2B7DM%2BUG9NUt8xAf3TJUpYGJWFIF5wOfrJRIjVCCT",
    "posted_at": "2026-11-05T14:01:33+00:00"
-  },
-  {
-   "title": "carte mere Asus p8z77-v socket intel lga1155 lga 1155 h77 p8z77 v",
-   "price_raw": "179.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/127990029536?_skw=carte+m%C3%A8re&hash=item1dccccdce0:g:vDoAAeSw6PpqYdlP",
-   "posted_at": "2026-07-23T09:06:53+00:00"
   },
   {
    "title": "BE QUIET! PURE BASE 501 Black – Boîtier PC GAMING ATX + 2 ventilateurs inclus",
@@ -569,13 +531,6 @@
    "posted_at": "2026-11-05T13:10:28+00:00"
   },
   {
-   "title": "Carte Graphique NVIDIA QUADRO 600 1Go DDR3 GPU PC Workstation DVI DisplayPort DP",
-   "price_raw": "10.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800324539472?_skw=carte+graphique&hash=itemba570f5450:g:~cUAAeSw-4NqUj5G",
-   "posted_at": "2026-07-11T13:03:04+00:00"
-  },
-  {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
    "price_raw": "60,40€",
    "source": "dealabs",
@@ -595,10 +550,38 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/",
    "posted_at": "2026-11-05T12:27:28+00:00"
+  },
+  {
+   "title": "Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2",
+   "price_raw": "189,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3446973",
+   "posted_at": "2026-11-05T11:46:45+00:00"
+  },
+  {
+   "title": "Souris sans fil Inphic PM6 Pro - Bluetooth, Rechargeable, Silencieuse, Tri-Mode, 6 Boutons, 2400 DPI, Noir (Via Coupon - Vendeur Tiers)",
+   "price_raw": "15,79€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-bluetooth-rechargeable-silencieuse-inphic-pm6-pro-tri-mode-6-boutons-3-dpi-noire-via-coupon-3446967",
+   "posted_at": "2026-11-05T11:39:47+00:00"
+  },
+  {
+   "title": "Alimentation PC ATX Semi Modulaire 80 Plus Gold EVGA 650 GQ 650 Watts",
+   "price_raw": "45.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137904555188?_skw=alimentation+pc&hash=item201bc084b4:g:powAAeSwfotq7Gys",
+   "posted_at": "2026-11-05T11:49:28+00:00"
+  },
+  {
+   "title": "Tablette 8,7\" Samsung Galaxy Tab A11 - 4GB+64GB, Batterie 5100 mAh",
+   "price_raw": "117,67€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-samsung-galaxy-tab-a11-4gb64gb-ecran-87-batterie-5100-mah-3446964",
+   "posted_at": "2026-11-05T11:37:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 938,
+  "listings_seen": 942,
   "models_with_reference": 21
  }
 }
