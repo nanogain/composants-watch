@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-05T23:38:00Z",
+ "generated_at": "2026-11-06T00:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-05T23:38:00.672367+00:00"
+   "last_ok": "2026-11-06T00:08:00.671524+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-05T23:38:00.672367+00:00"
+   "last_ok": "2026-11-06T00:08:00.671524+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-05T23:38:00.672367+00:00"
+   "items": 379,
+   "last_ok": "2026-11-06T00:08:00.671524+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-05T23:38:00.672367+00:00"
+   "items": 1,
+   "last_ok": "2026-11-06T00:08:00.671524+00:00"
   }
  },
  "watchlist": [
@@ -226,15 +226,46 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
+  },
+  {
+   "title": "COOLER MASTER - MWE Gold 850W V3 FM ATX3.1 - Alimentation PC - 850W (via coupon)",
+   "model": "PSU:850W-Gold",
+   "category": "PSU",
+   "condition": "new",
+   "price_eur": 69.99,
+   "shipping_eur": null,
+   "effective_eur": 69.99,
+   "median_eur": 86.99,
+   "discount_pct": 19.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-via-coupon-3447378",
+   "posted_at": "2026-11-06T00:08:00+00:00"
   }
  ],
  "unclassified": [
   {
-   "title": "Mars Gaming MCArt Boîtier PC Gaming ATX Double Vitrage Trempé Dessinable A",
-   "price_raw": "73.21 EUR",
+   "title": "[Fan] Thermaltake Toughfan EX 120 ARGB Sync - $49.99 (38% off)",
+   "price_raw": "$49.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xoxz6u/fan_thermaltake_toughfan_ex_120_argb_sync_4999_38/",
+   "posted_at": "2026-11-05T23:42:37+00:00"
+  },
+  {
+   "title": "8Go RAM Mémoire HP-Compaq Omen X 2S 15-dg0010nw (DDR4-21300 (PC4-2666))",
+   "price_raw": "75.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132744317?_skw=boitier+pc&hash=item5a9a1e767d:g:z~4AAeSwkMpo-Uj4",
-   "posted_at": "2025-10-23T04:14:13+00:00"
+   "url": "https://www.ebay.fr/itm/195757609023?_skw=ddr4&hash=item2d9410103f:g:TE4AAOSwwchgeGKh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nw%2FYBeR%2FuHaJsMAGrfBgSNoezd6WUH%2Blqx0w5jxL89nN65XIeaPKyCCUlhKDzGgRp2igUq6ng2wzjZW2xKyOqQHkovu67bs6lKW7MAMfth6ajzzPsGgN25jE1xc%2FCg%2BzI1blQOK6K%2BziDKgaeIzWv8ir1vIWMZ30rAPQhu3WfpSECGVwdQo0ALD2C9gaQm%2BD2uTxifiQH2TrOTDgdXROlOp%2FLJ5a5sWYwYPPD1R2pFAPJ4BtQq7nEpduiG%2Bw4JrxR3F0p%2Fin%2F4UW%2F54FIS%2F2SY",
+   "posted_at": "2023-05-11T16:22:54+00:00"
+  },
+  {
+   "title": "Tacens Anima AC5 Boîtier PC Micro ATX Compact Refroidissement par Mailles en",
+   "price_raw": "46.20 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132621498?_skw=boitier+pc&hash=item5a9a1c96ba:g:NI4AAeSwJJZo-TsI",
+   "posted_at": "2025-10-23T03:28:40+00:00"
   },
   {
    "title": "Tacens Anima AC6 Boîtier PC Micro ATX Compact Refroidissement par Mailles en",
@@ -247,7 +278,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgv5z8HwQdk3TmBCIPx57RnFjUhdR3oL%2FGzBBA%2BNoIer0sAtFQfHY694UfVCLcm479C%2Fxi5WYfw%2B%2FdHO61eZyLOExSUKMv7z9akq%2Fvs605ziSVKR2nqsIyLjY3X09JI%2FEpzWF6tONSin2xt1ql5OcafMbrO9DHRgNz8OTmwTo06Zg%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjo4ga50RhkYHsEWdSQ4EFwlicq0iNXm27%2F1WQj%2FI7aNa7mwapovWK1RgIlBMAMQyv21TcCLz6UPdh2IZLfI9f6VsPoU6maZz3nPZmxGoziZxncumqCnvr5ktkLGWlpdNap%2BaRA%2FG9kYnE5cjpJPRD1F3CKMUjnuhVK6UvALiwYbg%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -328,13 +359,6 @@
    "posted_at": "2026-10-10T15:16:11+00:00"
   },
   {
-   "title": "Carte Graphique Radeon RX Vega 56/64 8 Go HBM2",
-   "price_raw": "106.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/155909141085?_skw=carte+graphique&hash=item244ce8b25d:g:504AAOSwveVluJ0s",
-   "posted_at": "2023-11-25T15:55:11+00:00"
-  },
-  {
    "title": "Kingston 8 Go DDR4 SDRAM PC4-2666V DIMM 288 broches 9995702-E04.A00G",
    "price_raw": "19.36 EUR",
    "source": "ebay",
@@ -366,7 +390,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOirfzgotatj8ZsK3Gl2sQzdyAg9xz7%2BoV2gVGAIamkxTOM%2BYGK5RC22S8wvINVR6RIsGlDwh59RGALqIEzKwLcXrZoW2EyVhE3ms7ajbq2Jx%2BcxSLzXUhXLJTQa76exNyA70zUOYNS2kiEdw93wfxfH0RuxFumnREQeJjDpfsr9KQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOhkh0TAdZtdMfVLDNqSsO1lARvS1jej%2FkpkhYoLCNdBggye46AflAqza5boRgUslIUmC%2B3vfAB8rlPzDRLkWwSQcd1YjNyqOvmx7U1KlCH6pCYUkxQINzQrZpTCdnEQvWDZzPpTROmTP%2BB%2BYI3WOeyZiP90Pj7mZbIQpJXvU66SvA%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -506,7 +530,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFzsnaBrfgbgKWsApQvLDE%2F11ZxONdZk6D%2FeQVsgndG4rA7UcCcnldX%2B6m%2FhyNNVvsMtfvwTOqN5EVKJDll6o%2BnuDm528D9kT5HNbUdnUgDOD9EyzB%2F5lQP6fUC2Nst0C9INGS1iAA4iFYYPIoIFqLM",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFnynyA%2FnUsUGQmNmNE%2Br9fkHyxviu3hf%2B2W%2BL7XOkrEbeJYNKrb6PN9vpNiyAarVW7WS68tmmFxvADy8ACD91gon47afuhKyHtTUYPy3ZWpWs0MDmna1%2Bv9iCGAfDKLIPNdrspUnAc6lVtOYIY%2FIY4",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -552,6 +576,13 @@
    "posted_at": "2026-11-05T13:10:28+00:00"
   },
   {
+   "title": "NVIDIA GeForce GT320 1Go DDR3 VGA DVI HDMI PCIe Carte Graphique",
+   "price_raw": "17.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257696186324?_skw=carte+graphique&hash=item3bffe3bfd4:g:XO0AAeSwFLNqiYrK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l4S1v7ko1p186TlNp6jgbC1rTlCT2BgTGTlz2XEZRGebtYNgESYch4fwktDukWLNW9QZpCBFU3bGURTaJlLqdCsoYIa4EN1%2F5S2EVPdY3vHbzHA4SaLfmN5kdLNdp7loy2TatT%2FoADcKwStxcyp%2BTX35GDiY2CVlMSyAeE1rlC%2FyS1lzMXligem6V95ausEGIo8GWxJZyCRlgCn4mDx%2B1LiupJYqN8bKSfhgl1hx6boTGDy1XVXVMhQ7yRTih4QA8QINYTjriV6hcqy6WXbkhISgdgzUZevEfCze%2BdYemJ7Q%3D%3D",
+   "posted_at": "2026-08-22T11:42:08+00:00"
+  },
+  {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
    "price_raw": "60,40€",
    "source": "dealabs",
@@ -564,24 +595,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/158245549758?_skw=%C3%A9cran+pc&hash=item24d82b76be:g:yuEAAeSw8fBqah83",
    "posted_at": "2026-09-01T08:24:33+00:00"
-  },
-  {
-   "title": "[CPU] Microcenter in store only, AMD Ryzen 7 5800X3D Vermeer AM4 3.40GHz 8-Core Boxed Processor $279.99",
-   "price_raw": "$279.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/",
-   "posted_at": "2026-11-05T12:27:28+00:00"
-  },
-  {
-   "title": "Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2",
-   "price_raw": "189,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3446973",
-   "posted_at": "2026-11-05T11:46:45+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 934,
-  "models_with_reference": 20
+  "listings_seen": 937,
+  "models_with_reference": 21
  }
 }
