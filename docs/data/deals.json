@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T09:08:00Z",
+ "generated_at": "2026-11-06T09:37:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 341,
-   "last_ok": "2026-11-06T09:08:00.654870+00:00"
+   "items": 339,
+   "last_ok": "2026-11-06T09:37:00.691629+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T09:08:00.654870+00:00"
+   "last_ok": "2026-11-06T09:37:00.691629+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-06T09:08:00.654870+00:00"
+   "items": 386,
+   "last_ok": "2026-11-06T09:37:00.691629+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-06T09:08:00.654870+00:00"
+   "items": 4,
+   "last_ok": "2026-11-06T09:37:00.691629+00:00"
   }
  },
  "watchlist": [
@@ -213,6 +213,34 @@
  ],
  "unclassified": [
   {
+   "title": "PC portable Lenovo Legion Pro 5 16IRX10 I7 16G 1T 11H + Casque Legion H410 + Sac à dos Legion GB900 16\" + Souris Legion M600s (Via Coupon)",
+   "price_raw": "1 879,01€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-lenovo-legion-pro-5-16irx10-i7-16g-1t-11h-casque-legion-h410-sac-a-dos-legion-gb900-16-souris-legion-m600s-via-coupon-3447580",
+   "posted_at": "2026-11-06T09:33:07+00:00"
+  },
+  {
+   "title": "Pack de 2 caméras EufyCam C37 édition 4K",
+   "price_raw": "160,38€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/eufycam-c37-edition-4k-pack-de-2-cameras-3447578",
+   "posted_at": "2026-11-06T09:30:46+00:00"
+  },
+  {
+   "title": "CARTE GRAPHIQUE EVGA NVIDIA GEFORCE  GTX 1060 3GO",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198776763408?_skw=carte+graphique&hash=item2e4804b410:g:oSQAAeSwkvZq7Zj1",
+   "posted_at": "2026-11-06T09:10:34+00:00"
+  },
+  {
+   "title": "carte mère fonctionnelle pour Asus N76V 17\"",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117507557400?_skw=carte+m%C3%A8re&hash=item1b5bff0818:g:z5kAAeSwxDtq7Z1Q",
+   "posted_at": "2026-11-06T09:29:54+00:00"
+  },
+  {
    "title": "PC Portable 16\" ASUS A16-TUF608UP-TU147W - AMD Ryzen 7, NVIDIA GeForce RTX 5070, 16 Go DDR5",
    "price_raw": "1 399,99€",
    "source": "dealabs",
@@ -339,13 +367,6 @@
    "posted_at": "2022-04-30T21:30:40+00:00"
   },
   {
-   "title": "Kingston Fury™ Beast DDR5 - 32 Go (2 x 16 Go) - 5600 MT/s C36 - AMD EXPO - Noir",
-   "price_raw": "816.52 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335448536229?_skw=ddr5&hash=item4e1a4a74a5:g:6ToAAeSwvr1q7Ylb",
-   "posted_at": "2024-06-19T10:39:00+00:00"
-  },
-  {
    "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C36 - Black",
    "price_raw": "800.69 EUR",
    "source": "ebay",
@@ -367,18 +388,11 @@
    "posted_at": "2026-11-06T06:03:15+00:00"
   },
   {
-   "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
-   "price_raw": "198.30 EUR",
+   "title": "Double écran 11,6\" pour PC portable - Auvisio",
+   "price_raw": "225.94 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137889234268?_skw=carte+graphique&hash=item201ad6bd5c:g:aPoAAeSwpEBquygT",
-   "posted_at": "2026-10-31T08:59:44+00:00"
-  },
-  {
-   "title": "Kingston ValueRAM 8 Go (2x4 Go) DDR4 SDRAM SO-DIMM 260 broches KVR26S19S6/4",
-   "price_raw": "21.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/178481934378?_skw=ddr4&hash=item298e5a302a:g:obMAAeSwehJqoT~I",
-   "posted_at": "2026-09-09T11:16:26+00:00"
+   "url": "https://www.ebay.fr/itm/286452719309?_skw=%C3%A9cran+pc&hash=item42b1e99ecd:g:JrUAAeSwnZxn63nm",
+   "posted_at": "2025-04-01T05:25:26+00:00"
   },
   {
    "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C36 - AMD EXPO - Noir",
@@ -391,7 +405,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjPLdeQ1%2BwYosggJ1Q6OmJuam3eh63oPvQWxBz3jV59AyZGLmg6RGARkugVibSTo%2Bgb4OK44t3tBkTDWBuVilAL%2FzI52KPLpfS01nuv%2BKOan2Wq8wUwnDbshnDqW4s1DiCyMZJ%2FsuaRJ3Cvg%2BVCLmKP%2F61auoscxRxNJqxsDZk0b8Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjOtxwkaSAIr6beF28qg0hTVpCvzR%2BwefmIFLy%2FB4V48A3WNDCfxAtKLATpznra6WhUSRARtiE08njCjebl8pX4qa8%2FfHrZ8wjEOQyHZNVFxZRzjT3laC8uNw1xATy5hAoplmFsbGJX%2BHZU5vij%2BQMycrmk233jlylMqKwHXy%2FqcSw%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -412,7 +426,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfixdvWZDeAq6UPFe4upKtVOv5zKUsxP4sGL57g%2F9uQ%2F30OAfGxH4g%2Bdg6kdGr%2Fk6DRB9Qx6aOQCG7knjTH1r%2B40ZW1Eq572G6oI1HPhRlZdHyD4m6qUDxJlxEU0%2F2gUi4Rn1Rh6qt0mWGr1%2BI1UWin%2FjAPabw2QKt2%2BnVaGGM95qQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjekxlnhc7i1fkjGboglPBgnnE1CcXH5qPYxcIC%2BteNPthUSnXdadcRLDkwnGxRQZeK53qBvYOITFkXgdth1teTPy%2B2BJzEoEMYysGV3b0AW8VddwYpN5FGyC96vVdoVVdGKPgKM9a9HyTS%2FfOG%2BVo6GXqtEHEolhRm9kuEp9ejFw%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -489,7 +503,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOjzuHw1SCrtigZBW75h6%2BandTkGplb6U6m%2Ffj7nzMQ6Kr9SwOnCoJBG6pqFrY9elrccl8qlFr9bUbyxCjrQ106R8sJvcJVwhnT0EhMoy6cnv0%2FswCp%2F7LZp2RCJcsmS82iAFpGwXxh1dz%2FLSFA7Zjbk3d4SOoPPGnQdCrGhhKD5ag%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOg9LD2BeOH9NCu1UeHr6pzBmPrIPiKoZ29MhZnGyBxRkfK%2Bf0w8hvE9DkoDmSIPE1rkQeT6vtWyJehhEnf3gdJR%2FbxMXWLH9m1drxUKx%2FhUD7043OzwwVzHiZG3YKrxBLkAvzGeZzUMrNaqpouZrKVknlDO5Vx6ybBBrWurt9Ldvg%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -531,7 +545,7 @@
    "title": "MUSETEX Boîtier PC ATX Mid Tower K2, 7 Ventilateurs PWM ARGB, Double Verre",
    "price_raw": "132.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398390459504?_skw=boitier+pc&hash=item5cc1ebfc70:g:thwAAeSwFqxqpo80&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKJEkNRnj91db28b2jHWEcYA1kIgCEyne4xec7TpeszQE1mKpfDcXumlHrvwXnv40CIzF%2B8wsgjSlPFaj%2B41AnIXglnrCDG2DF5l6Eqf59SFXYr6qzD%2BXZTT97QwSzo8GERnIzBsc124nVi1TRAjtu%2FOFX85MGPJMQL0XqNSwovD67BBujYivp1O%2Bnf2PULksf4%2B1MZfCRIFhEFHs7PRbX1C63%2FaGQqjYvwOwIEJ%2Bo8Lvb8FowUmmMSB6Pf01DDp4SBV8EHHRhzzvZHD%2Bqzp%2Fd%2FWcbc3ISoJQGp5p3TTxhTw%3D%3D",
+   "url": "https://www.ebay.fr/itm/398390459504?_skw=boitier+pc&hash=item5cc1ebfc70:g:thwAAeSwFqxqpo80&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKJEkNRnj91db28b2jHWEcYA1kIgCEyne4xec7TpeszQE1mKpfDcXumlHrvwXnv40CIzF%2B8wsgjSlPFaj%2B41AnIXglnrCDG2DF5l6Eqf59SFXYr6qzD%2BXZTT97QwSzo8HR4NhAQ860AcpzK8nvd%2FMNCuhO%2BxDSGEFOq7sv5tEOAURmPKqm%2B9y1GZtkJdZVjyswBgLxelLfyiY2w3%2BZaWnVMDtgUpI6fkrZb720DoXLDUmsseiYZwBQnnQynbPn3iFRP6UcKcFyVfMkIdZe7brN62JJJECo8AAywv0LtUCmHA%3D%3D",
    "posted_at": "2026-09-13T11:55:41+00:00"
   },
   {
@@ -547,24 +561,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xom3v0/bundle_microcenter_in_store_only_ryzen_5_5600x3d/",
    "posted_at": "2026-11-05T15:50:54+00:00"
-  },
-  {
-   "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
-   "price_raw": "149.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm4bf3w9gb%2BHRC1F6tUSvKqxGTwPhv1zQ27HPVfDYLcTyplKeq2JZNq0zliZD8eZfny%2BC4P0Geq26%2FBMKChRCd3alLp51icYRrNC7WtvB6Y2Gmx1OzYrN6clfS2xHB7EVeY0Cbt8uSRbn5aUpFLGTVt8zEsz1iWMsVyhmHi06kPGw%3D%3D",
-   "posted_at": "2026-03-09T13:58:47+00:00"
-  },
-  {
-   "title": "Console Asus ROG Xbox Ally - FHD IPS 7\" 120 Hz, Ryzen Z2 A, 16 Go LPDDR5X + 512 Go, 60 Wh",
-   "price_raw": "549,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/console-asus-rog-xbox-ally-fhd-ips-7-120-hz-ryzen-z2-a-16-go-lpddr5x-512-go-60-wh-3447115",
-   "posted_at": "2026-11-05T15:08:39+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 985,
+  "listings_seen": 992,
   "models_with_reference": 20
  }
 }
