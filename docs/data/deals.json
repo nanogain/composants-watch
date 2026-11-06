@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T02:08:00Z",
+ "generated_at": "2026-11-06T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T02:08:00.680204+00:00"
+   "last_ok": "2026-11-06T02:38:00.670624+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T02:08:00.680204+00:00"
+   "last_ok": "2026-11-06T02:38:00.670624+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 374,
-   "last_ok": "2026-11-06T02:08:00.680204+00:00"
+   "items": 378,
+   "last_ok": "2026-11-06T02:38:00.670624+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-06T02:08:00.680204+00:00"
+   "items": 0,
+   "last_ok": "2026-11-06T02:38:00.670624+00:00"
   }
  },
  "watchlist": [
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDd3DNwETML22qSgqLa%2FpbBF8TV%2F412EgWqRX568ITRtz5%2BZCgnnriFX%2FuZmNrErZhK9ybBkIwJjzpUGqLF2IETrTaXUO%2Fkbgl%2BDw03cyk0wcD40uDR4LVfPK9imXdDkyM45W096VNQUIOHBAUQkgaA",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAjExWPEmsu2zFnwChXgWkxO5mTUqcPhgd18bSbQxisCJkjmNNQhrYvtOgTWy8vxpB98L%2BVdS3VGJEAmh2LdnZo%2B9ADr4oZbPsKHsRAXFSUU4b7L%2BiWo0L8YNkEiBLtgqktOLJjrUKoqVBMJCMGph%2FA",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -264,25 +264,25 @@
  ],
  "unclassified": [
   {
+   "title": "Mars Gaming MCM Boîtier PC MicroATX Mini Tour Compacte 16 Modes ARGB Venti",
+   "price_raw": "43.83 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132740397?_skw=boitier+pc&hash=item5a9a1e672d:g:Qh0AAeSwf5Jo-T1p",
+   "posted_at": "2025-10-23T04:12:53+00:00"
+  },
+  {
+   "title": "Be Quiet! Pure Loop 2 FX 280 mm - Watercooling",
+   "price_raw": "14427.07 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/335588293551?_skw=watercooling&hash=item4e229efbaf:g:~ZgAAeSwFClq69nx",
+   "posted_at": "2024-09-24T20:19:16+00:00"
+  },
+  {
    "title": "[Fan] Thermaltake Toughfan EX 120 ARGB Sync - $49.99 (38% off)",
    "price_raw": "$49.99",
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xoxz6u/fan_thermaltake_toughfan_ex_120_argb_sync_4999_38/",
    "posted_at": "2026-11-05T23:42:37+00:00"
-  },
-  {
-   "title": "8Go RAM Mémoire HP-Compaq Omen X 2S 15-dg0010nw (DDR4-21300 (PC4-2666))",
-   "price_raw": "75.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/195757609023?_skw=ddr4&hash=item2d9410103f:g:TE4AAOSwwchgeGKh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nw%2FYBeR%2FuHaJsMAGrfBgSNoezd6WUH%2Blqx0w5jxL89nN65XIeaPKyCCUlhKDzGgRp2igUq6ng2wzjZW2xKyOqQHkovu67bs6lKW7MAMfth6ajzzPsGgN25jE1xc%2FCg%2BzKYznqNId3FtI51SfOkRp5mNWiEXzzuN3yz8jVxFjevqkfhvR5LHO7Ug2zC9fwXBBjGMQY0IA0kONrWSCsj9cKywvcXefG792C6bR56bSLvLeDgLAAyrW96jr164Ja4TKqMzmXTZoUSYCPOqLe0UcDP",
-   "posted_at": "2023-05-11T16:22:54+00:00"
-  },
-  {
-   "title": "Tacens Anima AC5 Boîtier PC Micro ATX Compact Refroidissement par Mailles en",
-   "price_raw": "46.20 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132621498?_skw=boitier+pc&hash=item5a9a1c96ba:g:NI4AAeSwJJZo-TsI",
-   "posted_at": "2025-10-23T03:28:40+00:00"
   },
   {
    "title": "Mars Gaming MCArt Boîtier PC Gaming ATX Double Vitrage Trempé Dessinable A",
@@ -295,7 +295,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgixWafNIzqV4rdQxgTsiECuKnWTsHtgH1QWccLzpzpBn6Obt2AxQYExdvpyMOg1vmgUafLf8k7qqFo99LBapgKn1cazfZeRMTMuk4pgoSRU7duauCvax0FnWOcARXurdGTW2CDOQzDtE9nOpeDeCSyN06Wnf5Vd58ylJKeTNhCXg%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfizI746WOKeMLj9%2Bf9cG%2Fd6piadZRJu%2Bqg7w5PiqZCFwWRTsnkvAo4zfzWI21ShZ1x%2FJLWLbrJXdoM9CTaS6JeJdA%2F3xH7G9m5gc1DKm9amquwe7vIfGGwv%2Bml5qkbA7bqNiP3kvcQ%2Fg6dnfPVY39GuQBhJjjdexXT8yePnlBvzbg%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -309,7 +309,7 @@
    "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
    "price_raw": "52.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpCoSuGQ4pl6J8RDdXGVSS0hXOLwsyqE5kRv0fDhNHVuvWbaZGJGSNIpWW0%2BN2oUudSYqUDoCMtEprLt2HAIXcp9gJ49Cs2oqeqqRQUQWPKrMZvyD6VOYfEKoU%2FgnAtT%2FY77nb0Ck677Se%2B1hikBljjOIOa3fD4Rrp3yEa8ohI0gDg%3D%3D",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpAKB731%2FQNidlyl0z0cmwZ2HLzwgODXna8RHdPEGL1%2BZ211nXwLs5aS7qOfHNlOFSer8ryeVOitF4lNCQzeDOneDBiIiN3N04ICoUJdEoSPTxQSEjxaQRSoSkHVML6woqWlsZnEkKHcQxnjBAiNPcU9vj1khHCjlWD7TE6SKRbVUA%3D%3D",
    "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
@@ -390,13 +390,6 @@
    "posted_at": "2026-11-05T20:18:18+00:00"
   },
   {
-   "title": "Samsung 4 Go DDR4 SDRAM SO-DIMM 260 broches PC4-3200AA M471A5244CB0-CWE",
-   "price_raw": "31.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920109578196?_skw=ddr4&hash=itemd63acdf7d4:g:GlsAAeSwx89q7OW6",
-   "posted_at": "2026-11-05T20:24:18+00:00"
-  },
-  {
    "title": "Kingston 4 Go DDR4 SDRAM ECC DIMM 288 broches PC4-2400R ACR26D4U7S1ME-4",
    "price_raw": "26.63 EUR",
    "source": "ebay",
@@ -407,7 +400,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOhUM%2BtkH2UgwICLyCH70Ecu5AJ5al7azPNOw%2FoPz7%2Bqw0uBIp2m7qJfxoE%2B%2F895N8yljnryHoYnTFg467kpz73GlZDskNVZXWoBNhLmFBrfReqOTzVVH%2Bu7roJnqGF6p9BJmjZYdCv5ug%2Bi2LBhTRIrhVgJQr1Z7iQQ5XAvKWKj9w%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOgW2fXMrESjg5W9sgEREtVg0caS5NHZR%2F7fRZNYmChmwtwrBaRRW2zWv5rIlpJ8olMFAHrlFfO%2BT%2BMaJE6ZI3%2BPAcbbKYwcTaQ3rx2URwtTlfjUGW07e8DZwwja%2BERbTx6WbXw9duRABdU5Oqaqr0SsGNdkrebaBgilG7%2B0s5LWeQ%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -540,7 +533,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBEr1dfIJsCvxT%2FQb46w9et%2BKbq8TWmNKsvoqcA7FjcmewadGiN8O9Oly5NSLlx%2BgfOoHYtLjtkpluVccDIfhMnwpCg%2F2yXBAZzDASdFYdAR2kVN3oaJCszTES8nTHGikss1dCRr2MQ06VeY8R5pBn1V",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBHuhu2opHG4S9WSwyEWr5LWGE8--Nf%2BE3RXZMJEtKUz06xaLQl2iYrHAb9FRzLiccakndA%2B%2BbkeJW%2FDvpUDMOMox4YwB0%2BeQwed2%2F1Avjyv8HMS0590qiYXZyjMU7%2BvjEX8ETdlFoWW4A05hHI52W7Y",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -612,10 +605,17 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/",
    "posted_at": "2026-11-05T12:27:28+00:00"
+  },
+  {
+   "title": "Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2",
+   "price_raw": "189,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3446973",
+   "posted_at": "2026-11-05T11:46:45+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 933,
+  "listings_seen": 935,
   "models_with_reference": 21
  }
 }
