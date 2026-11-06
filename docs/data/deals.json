@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T01:08:00Z",
+ "generated_at": "2026-11-06T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T01:08:00.626012+00:00"
+   "last_ok": "2026-11-06T01:38:00.694450+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T01:08:00.626012+00:00"
+   "last_ok": "2026-11-06T01:38:00.694450+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-06T01:08:00.626012+00:00"
+   "items": 376,
+   "last_ok": "2026-11-06T01:38:00.694450+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-06T01:08:00.626012+00:00"
+   "items": 40,
+   "last_ok": "2026-11-06T01:38:00.694450+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDwOfRrpcpzZ83eHxvzDTnEi5GwVEiOtqm1JK%2FO%2B87HO%2F6ALMMX6mQFaJmnd%2FsWkzWeqKrG%2BMpjsFbNKM9hAOPyNkikbFkYMktyB%2FWAVOLiu7keh3wA%2B%2BEa4uwpms2jJ6jDJH7heX6S9PQUI6ZVCKJK",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDiWZH4Awq2RX0AZSHB8YWvYACTTk7D8DGysUE4gkgY7h%2B4biPqoaYNk76WM9%2FLENkS5z3vCXYKYrSKpzlDuZcrySavcfivcHJE0HNUyBP%2BWwtjGlMZCZIwOLU5i4DkHzXdZUJXYqzLp1sJZm%2BZANb%2F",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -243,6 +243,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-via-coupon-3447378",
    "posted_at": "2026-11-06T00:08:00+00:00"
+  },
+  {
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 59.99,
+   "discount_pct": 16.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fik-8981 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
   }
  ],
  "unclassified": [
@@ -268,17 +285,10 @@
    "posted_at": "2025-10-23T04:14:13+00:00"
   },
   {
-   "title": "Tacens Anima AC6 Boîtier PC Micro ATX Compact Refroidissement par Mailles en",
-   "price_raw": "40.12 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132740301?_skw=boitier+pc&hash=item5a9a1e66cd:g:hRYAAeSwICxo-T2U",
-   "posted_at": "2025-10-23T04:12:47+00:00"
-  },
-  {
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjz9eE%2B4jsnAw55VkQKyZyJ0NmVDnRhhJ1wKJFK7tQ%2FOf7Kg5GlQ1y19Vz5%2FJf8CT3zsUm8JNugyIr90ph8FcYDrrwLn2Hg1M9tpi2PeH77eSFE%2FmfPtShUWz6KFn3EveykN2TrNQWzSOYr77%2Bv76etNjDKQgVsreK8h8aQ%2FxYy2w%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgKOiongOg%2Frx5Dew7WFrRcVl5yslggaeIQJWQ9y7YiWjsBXDLpqQcvggRF2HjejDYARyPxF%2BRDxZNXQzHUW8IvhM98Rvsje7eEG%2FpCfYUiL6PVV8dKbBj3zMw8jejukxCzWOJ9ma3xNlnHZtK6AnKr5JMGWXS15O0d1SjIif5KVg%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -287,13 +297,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-samsung-odyssey-g9-g91f-ls49fg910euxen-49-pouces-5120-x-1440-3447361",
    "posted_at": "2026-11-05T22:36:59+00:00"
-  },
-  {
-   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
-   "price_raw": "52.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpA6%2Bok%2FoWTNxejW9LQ937RIlmr%2FS5UwdNKYdnsNaetnk%2FjclKqB8wzycIUjb0LGf%2B2jaU3f7uUmX66FhXtbU6vwr5mcYqvyVOJjbjnm7ghZkjQVDgSRl%2BQGrOoucrqAm0SpQXzwPR%2BHIgkWmIJBAJMWAkHG4o%2B8EA4YZ8%2Fu03G%2FOg%3D%3D",
-   "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
    "title": "NAS Terramaster F2-425 - NAS à 2 baies, CPU Intel x86 Quad-Core, 4 Go de RAM, sans disque (Via Paiement Paypal)",
@@ -359,13 +362,6 @@
    "posted_at": "2026-10-10T15:16:11+00:00"
   },
   {
-   "title": "Carte Graphique Radeon RX Vega 56/64 8 Go HBM2",
-   "price_raw": "106.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/155909141085?_skw=carte+graphique&hash=item244ce8b25d:g:504AAOSwveVluJ0s",
-   "posted_at": "2023-11-25T15:55:11+00:00"
-  },
-  {
    "title": "Kingston 8 Go DDR4 SDRAM PC4-2666V DIMM 288 broches 9995702-E04.A00G",
    "price_raw": "19.36 EUR",
    "source": "ebay",
@@ -397,7 +393,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOi5WRCRVwXHmR5pVn0cxIQzBbTvam%2FVMRafH%2FtvmTRpkfmGbRMfjaD61sGzy9HTKJNz7zEjmV0OithEt6XgkhQX%2FsOiP5u5sODFwOt%2Fj%2FKZFuG5ZDiLtYsPIw3dBGrG1vaY66fjxX8JquIHNEmNdwJhOYrN%2F%2BWzgMKnwXkxc0vPNQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOhG%2B%2Ba3HMoZbpwTdioNwjJ1Zej8V4Xef4%2B8d0UcUkWH5GNvwFxAgXW%2B%2Bycfh4fxusGHHwtN1O0tPQoY%2BSWuhszaSd5QD%2BjHAqtUG96nqZIvB8hVDQR5x6kyuEIPhAbGgmuYhZyTVZQTSaKFgbfa4Q%2FzH0wC64F%2B4HXRWbnHdEXd2g%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -448,6 +444,13 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xom3v0/bundle_microcenter_in_store_only_ryzen_5_5600x3d/",
    "posted_at": "2026-11-05T15:50:54+00:00"
+  },
+  {
+   "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
+   "price_raw": "149.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZmqooXUHQpdt5A9tmV%2FDbTTITzX5co7l3rec5BZpBGwRoqLgvG0qPahEcfrROLldVP6shApKAeX7SFD%2BPXMvmB%2FfGP9AjlQvWM0Op0RZ8HW9jFbA4n%2Fbh0pR2LJA9ckYMlCM3FEcb%2F0l1Beq8mkguYpxU8rf6fMi66yBmilBy%2FFhg%3D%3D",
+   "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
    "title": "Console Asus ROG Xbox Ally - FHD IPS 7\" 120 Hz, Ryzen Z2 A, 16 Go LPDDR5X + 512 Go, 60 Wh",
@@ -530,7 +533,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBGKr1ZJcY%2FlyQO1Q02Elw8JOAIaqY7qJdqGV1pN8m5kmXpKv19L5bfi6xm5iSVvZPIjKznAS0IG71g4%2BK%2Bsjzpn6dopTCieRaDi%2BsMZLFo8xLuJjPR4irb5rkeUT1lkuyz2J57dEA6FcB4PsJo1LDNM",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBE3z3xUomtgmE1WlIkY%2BccAmtAcdJw8IuWEvJk7rCrZK0gCaBAG9qTmevJfMjeq3W9nmKMzSsvYLiqMkoZWKRjk8zgMPOtcmrBfZ1J4WVgAbo7BjuRaohdx%2BLYnz%2FvzMYHL8uY1pfSV1BlyuKn7tzvC",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -583,22 +586,36 @@
    "posted_at": "2026-07-11T13:03:04+00:00"
   },
   {
-   "title": "NVIDIA GeForce GT320 1Go DDR3 VGA DVI HDMI PCIe Carte Graphique",
-   "price_raw": "17.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257696186324?_skw=carte+graphique&hash=item3bffe3bfd4:g:XO0AAeSwFLNqiYrK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l4S1v7ko1p186TlNp6jgbC1rTlCT2BgTGTlz2XEZRGebtYNgESYch4fwktDukWLNW9QZpCBFU3bGURTaJlLqdCsoYIa4EN1%2F5S2EVPdY3vHbzHA4SaLfmN5kdLNdp7lozanLMthufWhRYcE4plm%2ButAphmP4Uc5jmGk1G2FyhKGtMLXSwx9bCW1IV%2ByuRxu6Wyk2dzveFClSUt76S1fkLiFGP%2BwIrIN6oqGJ%2Bafeao6qQB2MVLUfzjt4lhsr1q1u4b21UVwR%2FAIU9P7g4GNMcw32JlvdusdqN3nsxL1gKSRQ%3D%3D",
-   "posted_at": "2026-08-22T11:42:08+00:00"
-  },
-  {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
    "price_raw": "60,40€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-hyte-x50-noir-blanc-et-version-mesh-3447026",
    "posted_at": "2026-11-05T13:03:17+00:00"
+  },
+  {
+   "title": "Apple 27\" LED - Studio Display - Ecran PC 5K 5120 x 2880 pixels MFF24FD/A - NEUF",
+   "price_raw": "1539.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/158245549758?_skw=%C3%A9cran+pc&hash=item24d82b76be:g:yuEAAeSw8fBqah83",
+   "posted_at": "2026-09-01T08:24:33+00:00"
+  },
+  {
+   "title": "[CPU] Microcenter in store only, AMD Ryzen 7 5800X3D Vermeer AM4 3.40GHz 8-Core Boxed Processor $279.99",
+   "price_raw": "$279.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/",
+   "posted_at": "2026-11-05T12:27:28+00:00"
+  },
+  {
+   "title": "Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2",
+   "price_raw": "189,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3446973",
+   "posted_at": "2026-11-05T11:46:45+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 935,
+  "listings_seen": 933,
   "models_with_reference": 21
  }
 }
