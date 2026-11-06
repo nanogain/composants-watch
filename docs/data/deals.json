@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T19:08:00Z",
+ "generated_at": "2026-11-06T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-06T19:08:00.658613+00:00"
+   "items": 343,
+   "last_ok": "2026-11-06T19:38:00.626981+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T19:08:00.658613+00:00"
+   "last_ok": "2026-11-06T19:38:00.626981+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 386,
-   "last_ok": "2026-11-06T19:08:00.658613+00:00"
+   "items": 387,
+   "last_ok": "2026-11-06T19:38:00.626981+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-06T19:08:00.658613+00:00"
+   "items": 8,
+   "last_ok": "2026-11-06T19:38:00.626981+00:00"
   }
  },
  "watchlist": [
@@ -90,23 +90,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/287635474567?_skw=ssd&hash=item42f8690887:g:Vm0AAeSwjQZqx6kb",
    "posted_at": "2026-10-08T14:32:30+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 99.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 99.99,
-   "median_eur": 214.99,
-   "discount_pct": 53.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -194,24 +177,55 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
-   "model": "SSD:SATA-1To",
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
    "category": "SSD",
    "condition": "new",
-   "price_eur": 49.99,
+   "price_eur": 169.99,
    "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 59.99,
-   "discount_pct": 16.7,
+   "effective_eur": 169.99,
+   "median_eur": 214.99,
+   "discount_pct": 20.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
-   "posted_at": "2024-01-03T08:24:17+00:00"
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[Dès 450€ d'achat] 15€ offerts en BA par tranche de 100€ d'achat sur les PC, Tablettes, Smartphones (Apple Inclus) ,TV, GEM (Hors cata. BF)",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/des-450eur-dachat-15eur-offerts-en-ba-par-tranche-de-100eur-dachat-sur-les-pc-tablettes-smartphones-apple-inclus-tv-gem-hors-cata-bf-3448019",
+   "posted_at": "2026-11-06T19:24:49+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Apple Macbook Pro - Puce M5 Pro, Écran Liquid Retina XDR, Mémoire unifiée 48 Go, SSD 1 to, Wi-FI 7",
+   "price_raw": "3 759€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/portable-apple-macbook-pro-m5-max-ecran-liquid-retina-xdr-162-pouces-memoire-unifiee-48-go-ssd-2-to-wi-fi-7-noir-sideral-3448010",
+   "posted_at": "2026-11-06T19:14:40+00:00"
+  },
   {
    "title": "PC Portable 15,6\" MSI Cyborg 15 C13WF0-i5 - RTX 5060 8 Go, 16 Go RAM, 512 Go SSD",
    "price_raw": "1 349,98€",
@@ -311,7 +325,7 @@
    "posted_at": "2026-11-06T16:20:13+00:00"
   },
   {
-   "title": "PC Portable 15,6\" Acer Aspire Lite 15 - FHD IPS, Ryzen 7 5825U, 16 Go RAM, 512Go SSD, 58 Wh, W11",
+   "title": "PC Portable 15,6\" Acer Aspire Lite 15 - FHD IPS, Ryzen 7 5825U, 16 Go RAM, 512Go SSD, 58 Wh",
    "price_raw": "549,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-fhd-ips-ryzen-7-5825u-16-go-ram-512go-ssd-58-wh-w11-3447858",
@@ -323,13 +337,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-156-pouces-pc-portable-3447820",
    "posted_at": "2026-11-06T15:38:36+00:00"
-  },
-  {
-   "title": "SK hynix 16 Go (2x8 Go) DDR4 SO-DIMM PC4-3200AA 260 broches HMAA1GS6CJR6N-XN",
-   "price_raw": "49.58 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147669221718?_skw=ddr4&hash=item2261c58156:g:F50AAeSwXg1q7fPh",
-   "posted_at": "2026-11-06T15:41:08+00:00"
   },
   {
    "title": "Carte mere asus maximus VII ranger socket Intel lga 1150 lga1150 H3 z97 Z87 h97 ",
@@ -388,6 +395,13 @@
    "posted_at": "2026-11-06T14:14:25+00:00"
   },
   {
+   "title": "Corsair VENGEANCE RGB DDR5 6000MT/s 16GB - GREY Mémoire pour PC DDR5 16 GB 2 x",
+   "price_raw": "441.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336831391885?_skw=ddr5&hash=item4e6cb7288d:g:TvMAAeSwjmNq0vq6",
+   "posted_at": "2026-10-06T15:00:42+00:00"
+  },
+  {
    "title": "[Adhérents] PC Portable 16\" MSI Raider 16 HX B2WI-016FR - QHD+ IPS, 240hz, Intel Core Ultra AI 9, RTX 5080, 32 Go RAM, 1 To SSD, W.11",
    "price_raw": "2 699,99€",
    "source": "dealabs",
@@ -444,10 +458,17 @@
    "posted_at": "2026-11-06T13:14:34+00:00"
   },
   {
+   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
+   "price_raw": "136.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvTKsACPQ4RaePOgC1DPLa3QQ6BeXsDTkZgniURASlVkcbO%2F%2BPTyZtRGNnToBsPiw7iMXPhQcE0jsN%2Fee%2F3JRdUmsrXBzdLBYROlGxKE3fqfvWNIr1LRJCZ%2BtcpL44F%2BnAweGhEH8ikD73UAOit9Mlh53oUiXT3mleR8piTZxtjb%2Fw%3D%3D",
+   "posted_at": "2026-10-14T07:28:32+00:00"
+  },
+  {
    "title": "FOIFKIN F300 Boîtier PC ATX Moyen Tour Verre Panoramique 7 Ventilateurs ARGB",
    "price_raw": "135.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336802983392?_skw=boitier+pc&hash=item4e6b05ade0:g:2lAAAeSwt3xqrzYI&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kQwX2aS0przGb5kAkI5sfSX2FdFcZCsiHah2c9osyur%2Bgk%2B3e3eKG6OcZi5jmZSlqXXNTDilXMNE41z7omEPBplD%2FANFFm%2FmAiSAIYIooHRJHv208SDMTGEKub82xv38Mbge7cOfhOGHfrmMzVJXC%2FA9I0rb1hOAeo%2FfC%2FtmJGEZaaDNbjiD33mQJ3p3gCEKzJRm5mNNWyTqLJbDCCK1WRnqAtEuGYDUXmZw62HvTBgEDNhYm1gK%2Bc5VE43v3KnI%2ByVxff0N0kFYGuaqwQht%2Fcoka3FM%2FE6oqxUs2jsWdoZQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/336802983392?_skw=boitier+pc&hash=item4e6b05ade0:g:2lAAAeSwt3xqrzYI&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kQwX2aS0przGb5kAkI5sfSX2FdFcZCsiHah2c9osyur%2Bgk%2B3e3eKG6OcZi5jmZSlqXXNTDilXMNE41z7omEPBplD%2FANFFm%2FmAiSAIYIooHRJHv208SDMTGEKub82xv38P--5T62etH0Wsb2QZi30bza%2FQl8RLVvqqVqNh0VroI6cygAXc9Flnt5ZGyEZbBubte2cTpnRZ18t%2FPvrSmvu91ssG79gOek5WHI4DEpSbKoZc4g6nmh3uB4ZSS6gLNmApaydxsOYgDxoyfWU5nvPR5MZfNsVVV7%2BaLGreYLe0Urg%3D%3D",
    "posted_at": "2026-09-20T01:25:39+00:00"
   },
   {
@@ -472,13 +493,6 @@
    "posted_at": "2026-11-06T11:29:05+00:00"
   },
   {
-   "title": "Watercooling : waterblock CPU AMD canaux 80 microns",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227000430535?_skw=watercooling&hash=item34da47afc7:g:buoAAeSwfNxo25m~",
-   "posted_at": "2025-09-30T08:51:37+00:00"
-  },
-  {
    "title": "Refroidissement PC Watercooling MSI MAG Coreliquid I240 White - ARGB, pour CPU Intel & AMD, Ventilateurs LDB, Waterblock à Double Chambre",
    "price_raw": "59,99€",
    "source": "dealabs",
@@ -489,7 +503,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7Gy1T%2Fq9V%2B4FTkKjHaLoNRcP9xpXRfHDwMlnuvNg0Ul4xOzWQh%2FZiZd7Y39LrTmSCA1RJiISpNds2DGPgzXq1xTXUqNusZhbTEyWPasGJbweqyFFdHCFK%2FCbDc7mUYREGZoZq71OmnOL%2BwyiFaGNsQT%2F",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GyaqkQPynLVVOlSVxXvfu5MUtNoIf6bdcOYga%2Fa%2BKEnDZWOCfJhVnpN9qyhbRGFDQTyvv1cSgRfZJjifPe%2BeT0W85DuBWiYLKWybI2n%2B5lBgxlk49iy2Qh1cJwd2J42IRbdz7r1Lwm%2BeD1tspHPBUDY",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -547,24 +561,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xp7w2u/other_minecraft_java_and_bedrock_edition_windows/",
    "posted_at": "2026-11-06T08:40:39+00:00"
-  },
-  {
-   "title": "2-Power SSD7014A 256Go SSD NVMe M.2 2280 PCIe 3.0 x4 PC Portable / Desktop",
-   "price_raw": "37.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860047948774?_skw=ssd&hash=itemc83eda3be6:g:q~cAAeSwcnhq0StR",
-   "posted_at": "2026-10-15T19:40:32+00:00"
-  },
-  {
-   "title": "[Adhérents] 30€ de réduction dès 300€ d'achat sur une sélection de PC & tablettes, 60€ dès 600€ d'achat & 100€ de réduction dès 1000€",
-   "price_raw": "30€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/codes-promo/adherents-30eur-de-reduction-des-300eur-dachat-sur-une-selection-de-pc-tablettes-60eur-des-600eur-dachat-100eur-de-reduction-des-1000eur-3447533",
-   "posted_at": "2026-11-06T08:27:31+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1101,
-  "models_with_reference": 25
+  "listings_seen": 1102,
+  "models_with_reference": 23
  }
 }
