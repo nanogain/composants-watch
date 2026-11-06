@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T06:08:00Z",
+ "generated_at": "2026-11-06T06:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T06:08:00.627137+00:00"
+   "last_ok": "2026-11-06T06:38:00.664938+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T06:08:00.627137+00:00"
+   "last_ok": "2026-11-06T06:38:00.664938+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 386,
-   "last_ok": "2026-11-06T06:08:00.627137+00:00"
+   "items": 388,
+   "last_ok": "2026-11-06T06:38:00.664938+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-06T06:08:00.627137+00:00"
+   "items": 80,
+   "last_ok": "2026-11-06T06:38:00.664938+00:00"
   }
  },
  "watchlist": [
@@ -207,11 +207,18 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JATh345W2A2%2FQoL%2FJtUm%2BqrHXSlyaj5e8YuCVF4HTm8CJUJtNiG9CR8ROWT3ySqbbP9xhn0y9qv3awuFztZcHAsy61JDcvvUa8102A5SqtIRuynUzug2p4NE%2FSnvHe3O344cuDqvm1KoUfZ0e9ToyKj",
    "posted_at": "2025-05-09T06:24:05+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[Headphones] Sennheiser HD 600 Open-Back Wired Headphones - $229.95",
+   "price_raw": "$229.95",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xp5jwc/headphones_sennheiser_hd_600_openback_wired/",
+   "posted_at": "2026-11-06T06:09:21+00:00"
+  },
   {
    "title": "[Mousepad] CHERRY XTRFY GP5 Gaming Mousepad Deskmat AMNIS Blue XL - $9.99 ($4.99 for new woot users) ($14.99 - $5 ($10 new customers) w/ code WOOTCHERRY)",
    "price_raw": "$9.99",
@@ -255,17 +262,17 @@
    "posted_at": "2026-04-03T20:02:06+00:00"
   },
   {
-   "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C36 - AMD EXPO - Noir",
-   "price_raw": "504.24 EUR",
+   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
+   "price_raw": "83.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335448535923?_skw=ddr5&hash=item4e1a4a7373:g:rqQAAeSwtIRq69tL",
-   "posted_at": "2024-06-19T10:38:27+00:00"
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpDkb4yamizCiY34V%2FO%2BrcUzh4OTl8LRQSqw00FE3TZVUEOmDtda87pybsIJkUo3vFZYdqfWaZNUiNxIoNmf56zEkQvWxkG675y0YDoNEVPNmmVWsGtauFux1Q%2Bz1fhUfb6Imtf0j5xvU9FimlAPBYuZacin0BfXV9QXBHK1dRgkng%3D%3D",
+   "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjM6cj4hNotnC8avhMrfjxLsufKcnMH7r7935a1%2FnEZwlJbsm2x29KMe2SgZOftZzEg7HIPnJbXfvH8qkInngPjPxmbzI7HSijYUmuaSE7i%2F2QiPUG13YbrJeFgjcX3anqqQEiQi4Pn5oa0JUxRL8mxEP2ciAr70jAeDLcuwRvmGvw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjPre2870Ks%2BzGQi%2BaTv3LF6Jd5alEKkcy3B8dcsTHBUUP1omcc2OXtUG5klgwjseNl9Jk6O0Zjb3QN0aPhsWj63xL5kqd9AbbzQjfStzxgOqtmUfEDvQZCOqLfPo1lkn0LbHhfH5ikxzYtaE%2FuIJ3XzIJNPh26M8i9Q6Geowf5apw%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -300,7 +307,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfhxcgrmA2FG3l9Rj9c52NUmQ3QChAO9zkdsRAK9n%2Ba4TC1%2FvNeIa7U3vGM6tCun8wXnwMn4%2BaAV8TWBSQMvKcXQsNeUHrMOV2n4QGZ%2BHzaISYweZoTd6LOVqfzR7LXFnGqoMq9YzZaEmCFuRyChfuhf8R1%2BhxB--e3ZKplUQ%2FllCw%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgaRdkHSHQyX8IE9VAqLuIJtElH%2FgsGJ4ZxHnNM274iH6eIVm7ftN6QM8sZfjYRUtNiJL0YQNNfq%2FKxhzbsXk3zAdnnZM4lfFeK7zTbTX1hE%2FLMx%2F5nWiL3XxbOH3IJWBRH31TE0Jd3F6kJIC39ZPyKB6v%2FN3llMWdSSyaMzeCXQQ%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -377,7 +384,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOjqwJZTOxJ2mpw4uWU7dmJkmuR7GgYmNCyYtw8EFiIUatbncG1MTn1Kss1Nnq6TlmyvDgYDTeM9PyacJ1lTKMWQz9iswL%2BAkcI9MHBiH3YKHkX4%2FgVQRUV2otNux78rOl8HUGN5QtQw6wLalRnbPR9PNkvQxyfdZ0Z2zbaYDyyQ%2BA%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOjqyYw6rkbqcGxU%2Bg0UtWakZuhuCcvdp86idb9IkhLPm8VYTi3bKjetgw5p13c%2F2Q1JaLH61OcIEOSJjkbCNJC3hUAxBbI2tT0kQxNalMC1WZ7YLLIJr4fOX8Cb%2Be%2BYl3KCsWs%2BgSD%2Bz3jlZoi8Je%2FzFNzgf%2BwyGlp%2BvTf0A15rew%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -433,7 +440,7 @@
    "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZnN6xD9Z0MHEbkKjl5cLusI7ZlnqPAu95ehiWogyOSFULP37kprhE2MzBCMffjNyMgbUO1IAKFdEwLCl1%2FxT%2By3aJnK0BX4A2VLDP8yPxhxPnRQzSWxem%2BoCpm7tOFbo0vaYCMGR9z%2BXfyKxceF3lmHqvheJ%2FqlZjruKAadkefPIA%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm7hOVMGZ9bIdoaq%2BitNoNBe7%2BhN9M2bF%2FcopBEK2ck71AIuVNUqEA7UlZpWxQOhUSrjM4rYnOM63ddM4IvZuGBu7YuSa%2BaN9NK6rJjlOUXAxz%2BjPcQuPdJ%2BEsy24r6ucdoKS0L1NxVoFe0UoSxtskHORm9gMcTPsj9svDIqgXY4A%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
@@ -489,7 +496,7 @@
    "title": "Crucial M500 240 Go mSATA SATA III MLC CT240M500SSD3 Garantie : 2 ans",
    "price_raw": "48.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I0APU0R51n19nMvKRWrUwnje18WgpOCdKPEYw5XFRd6O6LsUM1AFUxaIhmX47Ar8xop91dELXaJVP2MotrqZl8a9qSEjC9w7MxSSybSd%2BAhMtaHoeO0P5zafQ9HDr1eqs7nMfKIpYh%2F4%2FaIGF9ttP5Q",
+   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I0zJN%2BGgY5RId04ik2hxgb34Lv%2FK%2FvY1Opc46NSxNAM1TTVf%2FcZee1rmKlOyReQTTlhFp2Uf3lgxbOj1iINDB3tvGj7m%2Byqw0ARuxiKH%2BzdCPJLwfe57Jzlr2%2BCXQPRstyv1zF8JoR5Jp6gV7r1OfBF",
    "posted_at": "2026-11-03T11:20:51+00:00"
   },
   {
@@ -524,7 +531,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBEgQKR7NdzfDOAofnV49qvXBLH6U7MzfINlYaEdGPsEoi4AoxWPp8WwkQBjX8NDtE7UO%2BYGOVXc%2F44G7IsKPh6Y0ulhVrniKsdh5np6cbFnAgnz%2FFf%2BSDnHvC%2FXuCP2MeFgMrvEoX2S5dv6CuVh9zaS",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBEPbxQo8vsqZZehVbQ97vA00DT0Iat4cIiSg%2FVqTnRfj5bsu2u%2BlDSAjDNSupUNywTMeYUMOMnMDciJBCgPm6HeKwxyg1OCDourUPEJf06AYgaCurK9gl55P7ATQ8iXUPBECAHO1sSD4dlNXZejl3P%2B",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -554,17 +561,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206182422869?_skw=clavier&hash=item30016e1955:g:w4YAAeSw7PFpzRqQ",
    "posted_at": "2026-04-01T13:28:48+00:00"
-  },
-  {
-   "title": "Ensemble souris et clavier sans fil Logitech SilentTouch MK295",
-   "price_raw": "25,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-mk295-silent-ensemble-souris-et-clavier-sans-fil-silenttouch-3447046",
-   "posted_at": "2026-11-05T13:37:42+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 959,
-  "models_with_reference": 20
+  "listings_seen": 958,
+  "models_with_reference": 21
  }
 }
