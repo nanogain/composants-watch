@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T04:38:00Z",
+ "generated_at": "2026-11-06T05:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T04:38:00.620430+00:00"
+   "last_ok": "2026-11-06T05:08:00.623789+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T04:38:00.620430+00:00"
+   "last_ok": "2026-11-06T05:08:00.623789+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 386,
-   "last_ok": "2026-11-06T04:38:00.620430+00:00"
+   "items": 381,
+   "last_ok": "2026-11-06T05:08:00.623789+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-06T04:38:00.620430+00:00"
+   "items": 36,
+   "last_ok": "2026-11-06T05:08:00.623789+00:00"
   }
  },
  "watchlist": [
@@ -73,23 +73,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-512-go-gen3-3443396",
    "posted_at": "2026-11-01T12:39:46+00:00"
-  },
-  {
-   "title": "SSD 256GB Silicon Power A55 2.5\" SATA III 6.0Gbps",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 29.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 29.0,
-   "median_eur": 53.0,
-   "discount_pct": 45.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · go35700 (100,0 %, 84 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267831212321?_skw=ssd&hash=item3e5bfbf921:g:aDkAAeSw1Y9q6MOS",
-   "posted_at": "2026-11-02T17:09:37+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -224,11 +207,18 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JB4B%2FZhcVgn4LcRhs2bNiA6UDq45SUiTyW0r%2FHbu51EDgsttGMDpcsdP4ppr%2FtN9LN%2BW6OWNo7i3oiE43WY2Jk1PehG7mNxdJ3IT2X%2FbDAS0X39MXFcYLrAXFSn2cYGya3cUmjJ%2FulHVqL2izqpRM6l",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Carte graphique NVIDIA GeForce4 MX 440-SE 64 Mo DDR AGP VGA S-Video ",
+   "price_raw": "10.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198755494415?_skw=carte+graphique&hash=item2e46c02a0f:g:shMAAeSwm6lq47R-",
+   "posted_at": "2026-10-29T21:05:05+00:00"
+  },
   {
    "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
    "price_raw": "198.30 EUR",
@@ -261,7 +251,7 @@
    "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
    "price_raw": "83.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpDEZ040bRDRuzw%2FRp1xLJdAlDT6qYh9TnwO0TRA4RDSAIOpoKv2WM%2BtPrpSgWJUmwpZ240zTrMdEAFwe8ZQBvnzJCjxYMLV%2F%2B3DsgH1zcCe4T2RlHpaw2X1K8aNR%2BwgrqB90Hmrn8Y3wD%2Bc90yAkPS4oUvVj8LFeJcfeEVpJCJNjQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpC1OXLAh9VcjWQo5cM%2Fv7UWGZ1ayhCKGtHVeqMuVdcoCNWebQELsLhAGoR5xpUGJgr1styCG7RYIuWz2GPF7fA5IVcqDI19Vm4Ajd%2FyxsE7NBUAnzf6d8Y2lsi%2FYoD0v8c59xVz3MhqFKBn1UbPnxkxUixgaVfZGM7USnXWEjWrfw%3D%3D",
    "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
@@ -275,7 +265,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjP2GosqmnUI60fxfA5MdAVAiuZyVaDKhMWGnNCYFPjTEUuPD4orXDBeUZASAqOhiPhr8IQme6VhnuOMHhCqtpiVE91FpBJ8XtVMvnSLY6D5%2FqTT%2FMxn%2FUF0hh%2FZE8ZUNtEAhlzKiWs4QxtXdJCZXZgPQwrD2quWSqH1w1REHpMYLw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjM2djiODLAbXgoj5NzOhFL7aCAytnxfIVu5Jo14yjg4N2alNHwDfhCnVVYWvuLJr1U%2FXyDgfPO0BMg%2Fvrpq%2FVOBdkhYGX1fVWlYLipi6Yw6d4MWTvF5gCkEBXdEu%2FcAzaapyG7hyzWCz7IW8DokYQ2xhfa0LwTyhuPg2LFYrtUgGg%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -310,7 +300,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjbOSE5uYS%2FvXyajzALcAKci3o9sQbpGQK14OyX5d%2FqfPeb1WdJQFMW5LBN36aP5N6E2JUggCIDMB4yLwt%2B2Csw7fA13cAfKRTtiDFAvHYWRbmB8ku83Na%2FQ01v0pmhfxgdtDv8uMHPiZziDUr47peuhGKEJllMuBepeBg%2FQEuSrg%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjS5eqFYFFvRLj%2FFJwtROMw2nYhVRQ6jAZyf8fpnXoJzfVB0xqAtPXhfukUnOszn8qS0kb0YDbCsq4lW4hBI9Ru%2FoaWNRhjdnGK%2BGbvGUUQCCc42bKx%2BvCR7UCXU26shGJ5jxwjGGFZMlW3yps2O%2BtBuVKGigWc9MKt1csLtYs%2BpQ%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -394,7 +384,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOiT9j8uV0x75udmSaSENL%2FUh9Pf5nrvKBTe8127GRzQ2lC4Ln4ed%2Bpif7%2FGkud63t50HUjb5pGOmyujVI6G23xPBcOhURuA%2FfrakhDZddBLTdMeZBXpRbFk9V2KQDhx9rrLMAVHMqaiG2ey1WVoICQ%2FcQLWXQId1B9%2BFiWYNPE3WQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOgy8Q4BQWqDyLrENRDDLRqnZFIagZMbzo9w1bZkgTpX8AYKDoZhjnbMq7Wr83ZbJPgXKYr%2B5X7ETD6OcaK2mznEAP%2FebbbrlvJq9nD554IwkAcmShShpWIu8FPmjCopSNbRaa%2FR6TRbD3%2FPCb%2BbkhfDoHhSNzvxdw0RHkn2WKx81Q%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -436,7 +426,7 @@
    "title": "MUSETEX Boîtier PC ATX Mid Tower K2, 7 Ventilateurs PWM ARGB, Double Verre",
    "price_raw": "132.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398390459504?_skw=boitier+pc&hash=item5cc1ebfc70:g:thwAAeSwFqxqpo80&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKJEkNRnj91db28b2jHWEcYA1kIgCEyne4xec7TpeszQE1mKpfDcXumlHrvwXnv40CIzF%2B8wsgjSlPFaj%2B41AnIXglnrCDG2DF5l6Eqf59SFXYr6qzD%2BXZTT97QwSzo8ExP06yOPkYasoAgU99AIlkd1fbu5Bp7D0%2FdfigjrTGBbg8a81mkyElP7yiFe6T2NS%2FgNou4YKeJI2rAP3Cxeyd%2BfXkDasT%2F3GWFdyX5%2BFoKwIMOyppifu6YfyHsXo9youn%2Ftz0FjxIHDgtFcjJRHmECN3tzahZIGT%2Bsf%2BnSc6%2FSQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/398390459504?_skw=boitier+pc&hash=item5cc1ebfc70:g:thwAAeSwFqxqpo80&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKJEkNRnj91db28b2jHWEcYA1kIgCEyne4xec7TpeszQE1mKpfDcXumlHrvwXnv40CIzF%2B8wsgjSlPFaj%2B41AnIXglnrCDG2DF5l6Eqf59SFXYr6qzD%2BXZTT97QwSzo8Hq0IbNP%2BfhBLBzMPEDYVi6xKzDGt5i2mE5W1dp7wL%2BHyUAAH4jJEp0sJgLqVhpxV%2FPGWiTyiUuHb1OPMXKpriW9vvHncvXjnkET4X5BhOv6vusb1QbG6O%2FN2POicEam3FA%2BpO%2BrlUIXS1tLtElqgTTkAzckp%2FRjECLiBuZcCCAWA%3D%3D",
    "posted_at": "2026-09-13T11:55:41+00:00"
   },
   {
@@ -452,6 +442,13 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xom3v0/bundle_microcenter_in_store_only_ryzen_5_5600x3d/",
    "posted_at": "2026-11-05T15:50:54+00:00"
+  },
+  {
+   "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
+   "price_raw": "149.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZkhUVI6q3bIQL5XO197ZNL8IEDIMLHGm59in83NokIU59aAM07LjSGduYeU%2BVKR2cc6NlQ2VNwDIwTyNJt9%2Fj8L7fkjLhDY1bjOFVlbw6E0Qsbu3R5jqept7mOgKA66QCAlHf%2BH6Dkr0LSjUV44MPNUDd2jfgOrWUk6i9MOoFcqnA%3D%3D",
+   "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
    "title": "Console Asus ROG Xbox Ally - FHD IPS 7\" 120 Hz, Ryzen Z2 A, 16 Go LPDDR5X + 512 Go, 60 Wh",
@@ -506,7 +503,7 @@
    "title": "Crucial M500 240 Go mSATA SATA III MLC CT240M500SSD3 Garantie : 2 ans",
    "price_raw": "48.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I2maNOZeEs%2BxBI0HKMxIeHOrgGCYG%2BojApfSsSnXNbYfnW3O8iwR1fODYkIBiP1NKeIz7kMlEU%2FRAQ8keNMcIWyawBzJrZdfEK62pwB1U4MdL2nVsYeRE0%2FbICCCsdlbDBHIYRNlVHf%2Fhkz2HLdFrtk",
+   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I36IohoWDDqVfGVfBeRWVfz8NDA6K4aJMw2fID1Ec12y09HsRRwqQ2DDpmKEy9BJGkncCELyWuFZXVoJKAryLMmyb0GLgslkBWZ9O%2FwMT%2FZCGrgENhitVz3t0rGkKOIUO7GwhY6Dg7ua2UODJM02OXH",
    "posted_at": "2026-11-03T11:20:51+00:00"
   },
   {
@@ -541,7 +538,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBE9z86BfLFfNpA68uTcYOfdHoKe3jEl6fUiwaJlc93PaLLQB%2BR6AbNZhHyG5vh9fRiXjLKuYAa4bBcj5q4SQT531ChYd7BC2vP2kQk4omZYQAQxA5CnIZA7v4etCqjn4DQjuPH5rl6biTSSABpqH1O5",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFUovkmmOqvTy7tuN0I98U09hyMc4SneD%2BPSWdYRlhQDLkfbH0LtCntLT8NOJQ%2BxG%2ByxuYZv0211qwv55QGeLWbyYU8R%2BNH2lRIeNJPb%2FQnOim%2FxRyzvWKEkalrZzW6aLqBLaxMV3KZ34k1xUWu7UZ4",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -564,24 +561,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/168828513207?_skw=boitier+pc&hash=item274ef6abb7:g:NsoAAeSw6Ltq5ccS",
    "posted_at": "2026-10-31T10:47:06+00:00"
-  },
-  {
-   "title": "Mécanique Gaming  Clavier AZERTY FR LED USB Gamer PC Rétroéclairé 1,5m Nedis",
-   "price_raw": "19.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206182422869?_skw=clavier&hash=item30016e1955:g:w4YAAeSw7PFpzRqQ",
-   "posted_at": "2026-04-01T13:28:48+00:00"
-  },
-  {
-   "title": "Ensemble souris et clavier sans fil Logitech SilentTouch MK295",
-   "price_raw": "25,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-mk295-silent-ensemble-souris-et-clavier-sans-fil-silenttouch-3447046",
-   "posted_at": "2026-11-05T13:37:42+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 950,
-  "models_with_reference": 21
+  "listings_seen": 954,
+  "models_with_reference": 20
  }
 }
