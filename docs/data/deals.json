@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T01:38:00Z",
+ "generated_at": "2026-11-06T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T01:38:00.694450+00:00"
+   "last_ok": "2026-11-06T02:08:00.680204+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T01:38:00.694450+00:00"
+   "last_ok": "2026-11-06T02:08:00.680204+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-06T01:38:00.694450+00:00"
+   "items": 374,
+   "last_ok": "2026-11-06T02:08:00.680204+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 40,
-   "last_ok": "2026-11-06T01:38:00.694450+00:00"
+   "items": 78,
+   "last_ok": "2026-11-06T02:08:00.680204+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-11-02T17:09:37+00:00"
   },
   {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 32.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 32.99,
+   "median_eur": 59.99,
+   "discount_pct": 45.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-02T08:24:05+00:00"
+  },
+  {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -99,14 +116,31 @@
    "price_eur": 94.77,
    "shipping_eur": null,
    "effective_eur": 94.77,
-   "median_eur": 141.93,
-   "discount_pct": 33.2,
+   "median_eur": 143.86,
+   "discount_pct": 34.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
    "posted_at": "2026-11-03T13:34:10+00:00"
+  },
+  {
+   "title": "SSD M2 NVMe Cusu 3500Q - 1 To (Gen3)",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 96.99,
+   "shipping_eur": null,
+   "effective_eur": 96.99,
+   "median_eur": 143.86,
+   "discount_pct": 32.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
+   "posted_at": "2026-11-01T11:54:24+00:00"
   },
   {
    "title": "Crucial BX500 SSD interne 2,5\" SATA 6Gb/s 480 Go CT480BX500SSD1",
@@ -124,23 +158,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/327440032874?_skw=ssd&hash=item4c3cf2646a:g:V2IAAeSw5WNq68KI",
    "posted_at": "2026-11-04T23:42:02+00:00"
-  },
-  {
-   "title": "SSD M2 NVMe Cusu 3500Q - 1 To (Gen3)",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 96.99,
-   "shipping_eur": null,
-   "effective_eur": 96.99,
-   "median_eur": 141.93,
-   "discount_pct": 31.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
-   "posted_at": "2026-11-01T11:54:24+00:00"
   },
   {
    "title": "Samsung 500Go  ( MZ7LN500HMJP) SSD 850 EVO  2,5\" SATA III 6G 512 Mo",
@@ -167,8 +184,8 @@
    "price_eur": 106.69,
    "shipping_eur": null,
    "effective_eur": 106.69,
-   "median_eur": 141.93,
-   "discount_pct": 24.8,
+   "median_eur": 143.86,
+   "discount_pct": 25.8,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -194,6 +211,23 @@
    "posted_at": "2026-10-31T16:18:49+00:00"
   },
   {
+   "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 113.56,
+   "shipping_eur": null,
+   "effective_eur": 113.56,
+   "median_eur": 143.86,
+   "discount_pct": 21.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
+   "posted_at": "2026-11-03T17:49:12+00:00"
+  },
+  {
    "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
    "model": "SSD:NVMe-2To",
    "category": "SSD",
@@ -207,25 +241,8 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDiWZH4Awq2RX0AZSHB8YWvYACTTk7D8DGysUE4gkgY7h%2B4biPqoaYNk76WM9%2FLENkS5z3vCXYKYrSKpzlDuZcrySavcfivcHJE0HNUyBP%2BWwtjGlMZCZIwOLU5i4DkHzXdZUJXYqzLp1sJZm%2BZANb%2F",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDd3DNwETML22qSgqLa%2FpbBF8TV%2F412EgWqRX568ITRtz5%2BZCgnnriFX%2FuZmNrErZhK9ybBkIwJjzpUGqLF2IETrTaXUO%2Fkbgl%2BDw03cyk0wcD40uDR4LVfPK9imXdDkyM45W096VNQUIOHBAUQkgaA",
    "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
-   "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 113.56,
-   "shipping_eur": null,
-   "effective_eur": 113.56,
-   "median_eur": 141.93,
-   "discount_pct": 20.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
-   "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
    "title": "COOLER MASTER - MWE Gold 850W V3 FM ATX3.1 - Alimentation PC - 850W (via coupon)",
@@ -243,23 +260,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-via-coupon-3447378",
    "posted_at": "2026-11-06T00:08:00+00:00"
-  },
-  {
-   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 59.99,
-   "discount_pct": 16.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fik-8981 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
-   "posted_at": "2026-09-11T06:05:29+00:00"
   }
  ],
  "unclassified": [
@@ -269,6 +269,13 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xoxz6u/fan_thermaltake_toughfan_ex_120_argb_sync_4999_38/",
    "posted_at": "2026-11-05T23:42:37+00:00"
+  },
+  {
+   "title": "8Go RAM Mémoire HP-Compaq Omen X 2S 15-dg0010nw (DDR4-21300 (PC4-2666))",
+   "price_raw": "75.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/195757609023?_skw=ddr4&hash=item2d9410103f:g:TE4AAOSwwchgeGKh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nw%2FYBeR%2FuHaJsMAGrfBgSNoezd6WUH%2Blqx0w5jxL89nN65XIeaPKyCCUlhKDzGgRp2igUq6ng2wzjZW2xKyOqQHkovu67bs6lKW7MAMfth6ajzzPsGgN25jE1xc%2FCg%2BzKYznqNId3FtI51SfOkRp5mNWiEXzzuN3yz8jVxFjevqkfhvR5LHO7Ug2zC9fwXBBjGMQY0IA0kONrWSCsj9cKywvcXefG792C6bR56bSLvLeDgLAAyrW96jr164Ja4TKqMzmXTZoUSYCPOqLe0UcDP",
+   "posted_at": "2023-05-11T16:22:54+00:00"
   },
   {
    "title": "Tacens Anima AC5 Boîtier PC Micro ATX Compact Refroidissement par Mailles en",
@@ -288,7 +295,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgKOiongOg%2Frx5Dew7WFrRcVl5yslggaeIQJWQ9y7YiWjsBXDLpqQcvggRF2HjejDYARyPxF%2BRDxZNXQzHUW8IvhM98Rvsje7eEG%2FpCfYUiL6PVV8dKbBj3zMw8jejukxCzWOJ9ma3xNlnHZtK6AnKr5JMGWXS15O0d1SjIif5KVg%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgixWafNIzqV4rdQxgTsiECuKnWTsHtgH1QWccLzpzpBn6Obt2AxQYExdvpyMOg1vmgUafLf8k7qqFo99LBapgKn1cazfZeRMTMuk4pgoSRU7duauCvax0FnWOcARXurdGTW2CDOQzDtE9nOpeDeCSyN06Wnf5Vd58ylJKeTNhCXg%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -297,6 +304,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-samsung-odyssey-g9-g91f-ls49fg910euxen-49-pouces-5120-x-1440-3447361",
    "posted_at": "2026-11-05T22:36:59+00:00"
+  },
+  {
+   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpCoSuGQ4pl6J8RDdXGVSS0hXOLwsyqE5kRv0fDhNHVuvWbaZGJGSNIpWW0%2BN2oUudSYqUDoCMtEprLt2HAIXcp9gJ49Cs2oqeqqRQUQWPKrMZvyD6VOYfEKoU%2FgnAtT%2FY77nb0Ck677Se%2B1hikBljjOIOa3fD4Rrp3yEa8ohI0gDg%3D%3D",
+   "posted_at": "2026-11-03T15:45:35+00:00"
   },
   {
    "title": "NAS Terramaster F2-425 - NAS à 2 baies, CPU Intel x86 Quad-Core, 4 Go de RAM, sans disque (Via Paiement Paypal)",
@@ -393,7 +407,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOhG%2B%2Ba3HMoZbpwTdioNwjJ1Zej8V4Xef4%2B8d0UcUkWH5GNvwFxAgXW%2B%2Bycfh4fxusGHHwtN1O0tPQoY%2BSWuhszaSd5QD%2BjHAqtUG96nqZIvB8hVDQR5x6kyuEIPhAbGgmuYhZyTVZQTSaKFgbfa4Q%2FzH0wC64F%2B4HXRWbnHdEXd2g%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOhUM%2BtkH2UgwICLyCH70Ecu5AJ5al7azPNOw%2FoPz7%2Bqw0uBIp2m7qJfxoE%2B%2F895N8yljnryHoYnTFg467kpz73GlZDskNVZXWoBNhLmFBrfReqOTzVVH%2Bu7roJnqGF6p9BJmjZYdCv5ug%2Bi2LBhTRIrhVgJQr1Z7iQQ5XAvKWKj9w%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -444,13 +458,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xom3v0/bundle_microcenter_in_store_only_ryzen_5_5600x3d/",
    "posted_at": "2026-11-05T15:50:54+00:00"
-  },
-  {
-   "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
-   "price_raw": "149.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZmqooXUHQpdt5A9tmV%2FDbTTITzX5co7l3rec5BZpBGwRoqLgvG0qPahEcfrROLldVP6shApKAeX7SFD%2BPXMvmB%2FfGP9AjlQvWM0Op0RZ8HW9jFbA4n%2Fbh0pR2LJA9ckYMlCM3FEcb%2F0l1Beq8mkguYpxU8rf6fMi66yBmilBy%2FFhg%3D%3D",
-   "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
    "title": "Console Asus ROG Xbox Ally - FHD IPS 7\" 120 Hz, Ryzen Z2 A, 16 Go LPDDR5X + 512 Go, 60 Wh",
@@ -533,7 +540,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBE3z3xUomtgmE1WlIkY%2BccAmtAcdJw8IuWEvJk7rCrZK0gCaBAG9qTmevJfMjeq3W9nmKMzSsvYLiqMkoZWKRjk8zgMPOtcmrBfZ1J4WVgAbo7BjuRaohdx%2BLYnz%2FvzMYHL8uY1pfSV1BlyuKn7tzvC",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBEr1dfIJsCvxT%2FQb46w9et%2BKbq8TWmNKsvoqcA7FjcmewadGiN8O9Oly5NSLlx%2BgfOoHYtLjtkpluVccDIfhMnwpCg%2F2yXBAZzDASdFYdAR2kVN3oaJCszTES8nTHGikss1dCRr2MQ06VeY8R5pBn1V",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -605,13 +612,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/",
    "posted_at": "2026-11-05T12:27:28+00:00"
-  },
-  {
-   "title": "Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2",
-   "price_raw": "189,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3446973",
-   "posted_at": "2026-11-05T11:46:45+00:00"
   }
  ],
  "stats": {
