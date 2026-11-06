@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T10:08:00Z",
+ "generated_at": "2026-11-06T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-06T10:08:00.659550+00:00"
+   "items": 339,
+   "last_ok": "2026-11-06T10:38:00.682175+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T10:08:00.659550+00:00"
+   "last_ok": "2026-11-06T10:38:00.682175+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 390,
-   "last_ok": "2026-11-06T10:08:00.659550+00:00"
+   "items": 388,
+   "last_ok": "2026-11-06T10:38:00.682175+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-06T10:08:00.659550+00:00"
+   "items": 19,
+   "last_ok": "2026-11-06T10:38:00.682175+00:00"
   }
  },
  "watchlist": [
@@ -207,14 +207,28 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JBjCzwIzqJ%2BFmsWySdONJfw9rwceH%2FR1HxT0SwblezLPtyi1Mw2mN7vYSEpgpD9l7AkOKy3KAH09IyaA%2FZz5KE0dUOaKV80htgS%2BrrjIfP6Ct8txqDbVVSQuQR2WTm%2FcMkchx6TjGj9NxHJlkwgvc6F",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
   }
  ],
  "unclassified": [
   {
-   "title": "Mini PC Ninkear M8 Ryzen 7 8745HS - 16 Go RAM DDR5, SSD 1 To, Radeon 780M, Windows 11, WiFi 6, Bluetooth 5.2",
-   "price_raw": "418,20€",
+   "title": "Refroidissement PC Watercooling MSI MAG Coreliquid I240 White - ARGB, pour CPU Intel & AMD, Ventilateurs LDB, Waterblock à Double Chambre",
+   "price_raw": "59,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-mag-coreliquid-i240-white-watercooling-argb-pour-cpu-intel-amd-ventilateurs-ldb-waterblock-a-double-chambre-3447626",
+   "posted_at": "2026-11-06T10:26:31+00:00"
+  },
+  {
+   "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
+   "price_raw": "29.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GxUiLlUXUre1Cozjoh24Ck2jvOVcQqtjyAQsuXT9ofAFJy1UCETfAD8HRhJJ%2BJpDoS3iWptUaNpPI8X96zJ5qh1Cokul07VX5%2FLythUhXkf%2FkLGJVm6FxroDc4UWztGIwcTFxdPIJEPSfvQTFfvMaEb",
+   "posted_at": "2026-11-06T10:21:29+00:00"
+  },
+  {
+   "title": "Mini PC Ninkear M8 - Ryzen 7 8745HS, Radeon 780M, RAM 16 Go DDR5, SSD 1 To, Wi-Fi 6, Bluetooth 5.2, Windows 11",
+   "price_raw": "418,80€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-ninkear-m8-ryzen-7-8745hs-16-go-ram-ddr5-ssd-1-to-radeon-780m-windows-11-wifi-6-bluetooth-52-3447608",
    "posted_at": "2026-11-06T10:06:54+00:00"
@@ -409,13 +423,6 @@
    "posted_at": "2025-04-01T05:25:26+00:00"
   },
   {
-   "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
-   "price_raw": "198.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137889234268?_skw=carte+graphique&hash=item201ad6bd5c:g:aPoAAeSwpEBquygT",
-   "posted_at": "2026-10-31T08:59:44+00:00"
-  },
-  {
    "title": "Kingston ValueRAM 8 Go (2x4 Go) DDR4 SDRAM SO-DIMM 260 broches KVR26S19S6/4",
    "price_raw": "21.50 EUR",
    "source": "ebay",
@@ -433,7 +440,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjNTpeWzhpTrOUmZAgHCttzdjd0gEbl2W%2BkTtQFWrL1j1A8jRkU5%2FVViDlPU9Adrcj0PvpYkmOQ6vnKzMtFiHyKQuCeCUkGW%2F89LFdYGJVNdeAknJds8m%2B951JwQi6RXfDHVqtiELJ%2BDuwMAc%2BIDUKRHSkpSkazWb6Dz9ag2GoUGjA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjMSKZewKlP84BJao0GxyfFZma1HcoKos8%2FO3CM0njiqNrSUMLd9fZ58BzLRco2DrcX5%2FQBrqafeVvcP8AFAtgPTDa5ohAtTAU7AlZTU6QNJ3aQjfbQq9odG8P%2B6uzhzOwJkRiVBjTXI4HwkpkA%2BGMV38W12UIFlSMc%2BYUdsWf8tOw%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -451,17 +458,10 @@
    "posted_at": "2026-11-05T23:42:37+00:00"
   },
   {
-   "title": "Mars Gaming MCArt Boîtier PC Gaming ATX Double Vitrage Trempé Dessinable A",
-   "price_raw": "73.21 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132744317?_skw=boitier+pc&hash=item5a9a1e767d:g:z~4AAeSwkMpo-Uj4",
-   "posted_at": "2025-10-23T04:14:13+00:00"
-  },
-  {
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfiKS%2B6uaD1Uaj1wPpCGwSFPc8X55X6J4O4F7ax%2Bw03TGpjlF%2BFmZ2QEKOpUejWRWjuTg6w4znEqFEB482ZqTRHE7KDi9ZpRXtIpyrE4AGvPd3p0vv1WTI1o5zE9w%2FfHClxWSpkdYQiNPseVOu%2BEvAuftFnuNLIrVFvpwXl9Qcot1g%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfhik35TCazqWq1eAvkkZ%2F8TJgR8RpCfn98MOwHSFj98ho%2B9GExXH38zrJXJv%2BrOpxjcbDDPqlizRCgy1Ig1dORjBc7ZRK%2Bh%2FOvU%2FSLQS5AwyLp9aLKUIWPlnGhelYgnRKCOou57XpSldXuWKmk1aLgcwLpldQRt3yELyQUVOsOC0Q%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -538,7 +538,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOgdsc1IqDYZiJprQibSDNcpxB0NuaGkD%2FeZyJVTlhxaSqZhiBTfPvyxBuvBzno2o3wKCF%2Br3Pc8j8%2BaEZIvMjm2C7pl0YKWGGx828t6mT3V71wY0UAYAhJ%2FXaweVZjKi6dg5riUvQpFMjoSt1B93CrVfKZQvktYSlD4sjW8FVHBCg%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOiiPCG0vpNRcQfX4UeKd1cLPZmLZC9rV3xPjSN%2Bz6JN1nFRCDAlPlb%2FWSRPGEqTeCNp0HZPG%2FRnwLriH1vzvKSnlaUwyu%2FzJ6CRq%2FnFdz4HOxY6dBqnOr6fWhWh%2BSWAW1WmUg0lBmiDI3DZM1XxP8WIiP78qOBxS2b4SwabfR9HVA%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -564,7 +564,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 994,
+  "listings_seen": 998,
   "models_with_reference": 20
  }
 }
