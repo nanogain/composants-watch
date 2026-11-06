@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T03:08:00Z",
+ "generated_at": "2026-11-06T03:37:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T03:08:00.628141+00:00"
+   "last_ok": "2026-11-06T03:37:00.675424+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T03:08:00.628141+00:00"
+   "last_ok": "2026-11-06T03:37:00.675424+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-06T03:08:00.628141+00:00"
+   "items": 384,
+   "last_ok": "2026-11-06T03:37:00.675424+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-06T03:08:00.628141+00:00"
+   "items": 2,
+   "last_ok": "2026-11-06T03:37:00.675424+00:00"
   }
  },
  "watchlist": [
@@ -90,6 +90,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267831212321?_skw=ssd&hash=item3e5bfbf921:g:aDkAAeSw1Y9q6MOS",
    "posted_at": "2026-11-02T17:09:37+00:00"
+  },
+  {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 32.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 32.99,
+   "median_eur": 59.99,
+   "discount_pct": 45.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-02T08:24:05+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -224,28 +241,18 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JCnUE7tyEHcG7Vj7FHQccWldbFUSu4TT6t3KL%2FTwaAIp4Lp%2FW8q4wsT3Fq8PbLg4x9FO%2FcNivKEH9ojCxH6j32pWlmjuRL2Jdj2l6UvmsNSS7SAzUvRMJeUXzTS14jHFyc2DYsPxCzTJjFdV7W8TxY%2F",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JCRdcZvYFrCZkhi%2FrKscY8oGI5LpAZB4%2FvOll5vkR7D91hjcSMxSoErUwLnr%2FDJ6WBtpyXNhXtsDds2C7NhNa1kCiCCVR4tUnd9i%2Bm7nF7ek33%2Bcq9sSLvI4DFWzgfsrE1v5bkktR27ss%2Bqv2rA%2FvKR",
    "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
-   "title": "COOLER MASTER - MWE Gold 850W V3 FM ATX3.1 - Alimentation PC - 850W (via coupon)",
-   "model": "PSU:850W-Gold",
-   "category": "PSU",
-   "condition": "new",
-   "price_eur": 69.99,
-   "shipping_eur": null,
-   "effective_eur": 69.99,
-   "median_eur": 86.99,
-   "discount_pct": 19.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Cdiscount",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-via-coupon-3447378",
-   "posted_at": "2026-11-06T00:08:00+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "-34% sur les téléphones et tablettes xiaomi",
+   "price_raw": "395,93€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/34-sur-les-telephones-et-tablettes-xiaomi-3447391",
+   "posted_at": "2026-11-06T03:17:07+00:00"
+  },
   {
    "title": "Mars Gaming MCM Boîtier PC MicroATX Mini Tour Compacte 16 Modes ARGB Venti",
    "price_raw": "43.83 EUR",
@@ -278,7 +285,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfiRIOM9pVdpeqg5NQm45IqViY2mIKQpdsVodlSf7fo01ro83uOoBXgiEl3erNJTKCnOKdoaWCILb1seIFVs8IEI5tFuBm7i9rvYDLMeJ%2FGQNcvMKrkOqGQNfGVdcix2OY9R8f9%2FAuk%2B3VmqZ%2FXH5lcY0tNzdyPAd2dGTuZ5Q8f%2FsQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfiY2utRUa8o5373hf8s4fAyPH6%2FrV5%2BmZouTk5c1%2F9%2BTfmwQt4LqDjCG4JQXcGrUMaoqkrYGUBY6pyTyg75%2FhKU2ixl5Wo0XKyq%2BGLP5JdTMIQOaMlKio5dWE6keMaHV22OxBvpBS%2BTIgGL7012B%2FLnocoJbV2P6q0VUwX%2Fp8HzGQ%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -383,7 +390,7 @@
    "title": "Boîtier de PC Gaming Châssis OMEN 32L",
    "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOgDItnLCJ8tuld6xUwsIwCNFiJWKvw%2BN88tsNl%2FoaEpmIvZjd%2BGvEPLHdXfPsdEcl0V26mVAh7I5a1nYK%2BVFaxeFIAh6uLC2EJyrJrNnTDoKj1lgLyXbbJ1ZFe0iGjgOGqPbBd3pC2%2FzVOr7hrljEZpU4417pby7pZ%2BXBojhQvulA%3D%3D",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOis02wJ8Omjbz%2F1huuWgkMxNrLAEKODkIfLZvfum6cbdcFzDPgC6CZJwBvIjtAtTBVQO2Y0vtBiGEwvxb5hYKN2cla9dJ%2B8SljNL8ut5RRjhYRObc%2FD6aqcx1UOlRN%2Fko2M9tb5hCwkbwBWimpE1O%2F0z7VWfrbDTPU0z%2BoqaeSUnQ%3D%3D",
    "posted_at": "2026-07-25T12:41:55+00:00"
   },
   {
@@ -516,7 +523,7 @@
    "title": "Transcend SSD420K 64Go 2,5\" SATA III MLC TS64GSSD420K Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFyIvt%2FihHp14tdFJudAfef9zt%2BfeLjk1LzqMMAupOwQ6%2FlB9BYxkTxbMxW%2FdrmBQghxFMyO%2BolfCXu1L%2Fp%2F7JGD%2BfyqVrnlG2YUTpiOO0fF%2FcoZ2RssUQfjYgoRnseRP8dgEzVNjLSTLQhzBeOs5cA",
+   "url": "https://www.ebay.fr/itm/800880921029?_skw=ssd&hash=itemba783909c5:g:Le0AAeSwZwBq7IxE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nXM4ffHPa0rPoqQ5V6a8K6%2BKOGVwYFeAROULZa0yT1mTyZr5vU75mLezy111gg5jXiDSQRA6FvJr8xVBfTLDY0KZuFax9tr%2BvHMlpqnO6SAO7Foc4ZsG862p5G3i4OJBFVqBAODstthsLSF%2FQGmDdz%2FltGmfdcXRRrfZ2DyPamuD9uhhmYQCsWe2cPWCt29%2B%2Fa18zn3x%2FqQocZRws2cPKiJXFxJ%2FAzTGVjqiqlDyve1KQgT0qQ2sau%2BH6w304R3FFljUZ5oRhyMNsxYcAfMQI0",
    "posted_at": "2026-11-05T14:01:33+00:00"
   },
   {
@@ -569,13 +576,6 @@
    "posted_at": "2026-07-11T13:03:04+00:00"
   },
   {
-   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
-   "price_raw": "57.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mlV3touBe1nie9Hz8T02RJzvDpGI2kphHWRRl3jaX%2Bumu8WT3RZqezWt%2BNkeLuCBJ4S7x46etKdG%2BUJ3SQ%2Ft11FphMPbLl2yXOXPDFD9PzbR9Nhg6vxAIg5hlOyMfYzpA769MKOGvZKk7kgtA4SAPHx19%2Bmu%2BS4N6IjXLjT6RFYMf1OX9VfbWb8eTlfx7NovoigfkSKNs0uwQO8I%2BGsFcvObJeT4JUqP%2BNmIZn%2B%2BkI%2BRFaTKOVz2YcC1Trfsk%2Fc0yaW89tphuNbJYUaJyAJL6E0YJR4AtRYUMgvsWIDUtvFg%3D%3D",
-   "posted_at": "2026-11-03T15:45:35+00:00"
-  },
-  {
    "title": "Boitier PC Hyte X50 - Version Vitre ou Mesh, Noir ou Blanc",
    "price_raw": "60,40€",
    "source": "dealabs",
@@ -598,7 +598,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 936,
+  "listings_seen": 938,
   "models_with_reference": 21
  }
 }
