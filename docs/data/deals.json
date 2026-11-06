@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T18:08:00Z",
+ "generated_at": "2026-11-06T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 341,
-   "last_ok": "2026-11-06T18:08:00.681829+00:00"
+   "items": 340,
+   "last_ok": "2026-11-06T18:38:00.627667+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T18:08:00.681829+00:00"
+   "last_ok": "2026-11-06T18:38:00.627667+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-06T18:08:00.681829+00:00"
+   "items": 388,
+   "last_ok": "2026-11-06T18:38:00.627667+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 38,
-   "last_ok": "2026-11-06T18:08:00.681829+00:00"
+   "items": 2,
+   "last_ok": "2026-11-06T18:38:00.627667+00:00"
   }
  },
  "watchlist": [
@@ -196,6 +196,34 @@
  ],
  "unclassified": [
   {
+   "title": "Souris sans fil Logitech M330 Silent Plus",
+   "price_raw": "15,79€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-m330-silent-plus-3447988",
+   "posted_at": "2026-11-06T18:34:49+00:00"
+  },
+  {
+   "title": "[Laptop] (Refurbished) M1 MacBook Air, 256/8GB, Space Gray - $299.99 - Bestbuy",
+   "price_raw": "$299.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpkiad/laptop_refurbished_m1_macbook_air_2568gb_space/",
+   "posted_at": "2026-11-06T18:38:08+00:00"
+  },
+  {
+   "title": "[Prebuilt] iBUYPOWER Slate Gaming Desktop PC AMD Ryzen 5 8400F 2024 NVIDIA GeForce RTX 5060 8GB 16GB DDR5 1TB NVMe SSD Storage Black - $899.99",
+   "price_raw": "$899.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpkci5/prebuilt_ibuypower_slate_gaming_desktop_pc_amd/",
+   "posted_at": "2026-11-06T18:31:46+00:00"
+  },
+  {
+   "title": "[PSU] Corsair SF1000 SFX 1000W, 80 Plus Platinum (Refurbished) - $135.46 Free Shipping",
+   "price_raw": "$135.46",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpkbv6/psu_corsair_sf1000_sfx_1000w_80_plus_platinum/",
+   "posted_at": "2026-11-06T18:31:05+00:00"
+  },
+  {
    "title": "Carte graphique ASUS Dual GeForce GTX 1060 6 Go GDDR5 DUAL-GTX1060-6G",
    "price_raw": "68.30 EUR",
    "source": "ebay",
@@ -210,25 +238,11 @@
    "posted_at": "2026-11-06T18:03:26+00:00"
   },
   {
-   "title": "Main board Carte mère Apple iMac 2019 Retina 4K 21.5 3195 MRT32LL/A 820-01237-A",
-   "price_raw": "119.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900071058253?_skw=carte+m%C3%A8re&hash=itemd1906a6b4d:g:zrIAAeSw4jtq7g-I",
-   "posted_at": "2026-11-06T17:35:23+00:00"
-  },
-  {
    "title": "PC Portable 16.2\" Apple MacBook Pro - M5 Pro, CPU 18 cœurs, 48 Go, SSD 1 To, Argent",
    "price_raw": "3 399€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-portable-m5-pro-cpu-18-coeurs-gpu-20-coeurs-ecran-liquid-retina-xdr-162-pouces-memoire-unifiee-48-go-ssd-1-to-argent-3447943",
    "posted_at": "2026-11-06T17:34:17+00:00"
-  },
-  {
-   "title": "14 Pouces Écran Externe, 1920X1080 FHD Écran D'Ordinateur De Jeu Moniteur, Avec",
-   "price_raw": "206.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336883695200?_skw=%C3%A9cran+pc&hash=item4e6fd53e60:g:iCcAAeSwQqFq7gTG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k71raBiyminLvhOPrdFb%2Bj3ggchV6%2BOKGU5aHiHCnoXNwJ5PJ1Hne%2Ft2GjzqC1ca5HOlnlJUipqMi0JzErfoW7%2FNQI%2FTZfQj0jfZwSZ%2FgH1qLim2kSBBjpOxhcIMXsPRCEMcavsP4kx614K4ivbkQIYNMDChSwsv8GaZeG%2BnclPLugd1%2B2OXA4iMx0vmM3dsIyRDxnFYJRl5TynVqWmdbqq2b%2BUAG0D3o386c8zxBNM8nKGwzW9y3WQke65PX%2B8yw83Hrew5Uhm9Kc9tR5KvJmh%2B3Rso12w%2FqBNzy1uSYc4g%3D%3D",
-   "posted_at": "2026-11-06T16:48:03+00:00"
   },
   {
    "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
@@ -243,13 +257,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-kamrui-h1-ryzen-7735hs-radeon-680m-24-go-lpddr5-5500-ssd-512-go-25gbe-wifi-6-bt-52-w11-pro-via-paypal-4x-au-besoin-3447900",
    "posted_at": "2026-11-06T16:38:16+00:00"
-  },
-  {
-   "title": "SK hynix 8 Go DDR4 SO-DIMM 260 broches PC4-2400T HMA81GS6AFR8N-UH",
-   "price_raw": "29.83 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960162782848?_skw=ddr4&hash=itemdf8e295e80:g:x20AAeSw9gtq7gfu",
-   "posted_at": "2026-11-06T17:01:44+00:00"
   },
   {
    "title": "PC Portable 15,6\" Acer Aspire Lite 15 - Full HD IPS, Ryzen 5 3500U, RAM 8Go, 256Go SSD, 45 Wh, Sans OS",
@@ -399,20 +406,6 @@
    "posted_at": "2026-11-06T13:14:34+00:00"
   },
   {
-   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
-   "price_raw": "136.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvQ1WLi5ozK%2B3UFYpqCxuIO7%2FWEgehv4Avfd4XQLIHD24dGuhbLmeYDpfbK0XAK%2BjbF9Bhhc%2BblNXpiP1wgiDRu5Qm0N8A39ieLpqickrY3WCQh4ki%2BbzchKv0zoeqP2JHSUsttLOFRcG0BYHtchV7SUvALRvOvATD6%2FpC4qnQVHlw%3D%3D",
-   "posted_at": "2026-10-14T07:28:32+00:00"
-  },
-  {
-   "title": "Processeur Dual-Core Intel Pentium G3240 2X 3.10GHz Socket 1150",
-   "price_raw": "10.94 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237167317741?_skw=processeur&hash=item37384612ed:g:1EoAAOSwO7hi1-1-",
-   "posted_at": "2026-11-06T12:27:58+00:00"
-  },
-  {
    "title": "Écran PC ordinateur - DELL E1910HC - LCD 19\" - VGA - 🇫🇷",
    "price_raw": "29.99 EUR",
    "source": "ebay",
@@ -451,7 +444,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7Gz0%2Bmfqo%2BtKZ51l%2Bxe8D4ik6K79KpwunmKpjJedZxwYq2uAs9e7P3rJNVnh2v8%2BmPdVOQnkAyo0nCbTvh7EiGxxZcKPGcnHcFB4Pnf%2FGEE83EDoMUBqyoywmMx%2BkqEigJS4qBe2BTA%2Basjof0own2M9",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GzppC6Q79%2BVithUzlm9UKk7DiEhXhhQli2gxYTUUn5mv4G0mwF2eF0n%2BShPiAdG6aJiMm1yxXaxIQ595BvW5LtD0%2BJHzYHLGmkYRiDPCB3cGq5SHpT%2Fifp9pR%2F39hur85bW%2BL2fLYpA%2BWTByx4JTgZH",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -544,10 +537,17 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336278935782?_skw=ddr5&hash=item4e4bc958e6:g:JXAAAeSwajVq7eyh",
    "posted_at": "2025-11-10T13:29:35+00:00"
+  },
+  {
+   "title": "Pack Tablette Tactile Xiaomi Redmi Pad 2 9,7\" 64 Go Gris + Étui de protection Gris",
+   "price_raw": "199,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-tablette-tactile-xiaomi-redmi-pad-2-97-64-go-gris-etui-de-protection-gris-3447492",
+   "posted_at": "2026-11-06T07:52:23+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1094,
-  "models_with_reference": 24
+  "listings_seen": 1101,
+  "models_with_reference": 25
  }
 }
