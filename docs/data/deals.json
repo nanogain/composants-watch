@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T12:08:00Z",
+ "generated_at": "2026-11-06T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-06T12:08:00.619684+00:00"
+   "items": 338,
+   "last_ok": "2026-11-06T12:38:00.665277+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T12:08:00.619684+00:00"
+   "last_ok": "2026-11-06T12:38:00.665277+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 389,
-   "last_ok": "2026-11-06T12:08:00.619684+00:00"
+   "items": 393,
+   "last_ok": "2026-11-06T12:38:00.665277+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-06T12:08:00.619684+00:00"
+   "items": 80,
+   "last_ok": "2026-11-06T12:38:00.665277+00:00"
   }
  },
  "watchlist": [
@@ -190,11 +190,70 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JD6UHIrCPO5FSmK5lgeHrIKffaRMXdNEZHRx2%2FOc%2Fik%2FpL%2BL2oubxeo1FWY6NqnAKcYGPsjv5pdhQfezZ3RlRNO3nGNLEEpnXGyD4cC%2Bw5pNgJU5zDgwAEsvpAXbNuVp1jLEkp3qGuxm0mXycuvN8as",
    "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Intel Xeon E7-8891V3 10x 2.80GHz Socle 2011 10 Core Processeur Max. 3.50GHz CPU",
+   "price_raw": "20.02 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237167317734?_skw=processeur&hash=item37384612e6:g:sKMAAOSwF05gkUrT",
+   "posted_at": "2026-11-06T12:27:58+00:00"
+  },
+  {
+   "title": "Processeur Dual-Core Intel Pentium G3240 2X 3.10GHz Socket 1150",
+   "price_raw": "10.94 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237167317741?_skw=processeur&hash=item37384612ed:g:1EoAAOSwO7hi1-1-",
+   "posted_at": "2026-11-06T12:27:58+00:00"
+  },
+  {
+   "title": "Processeur CPU Serveur Intel Xeon E5-1603 4X 2.80GHz Socket 2011 4 Cœurs",
+   "price_raw": "12.96 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237167317593?_skw=processeur&hash=item3738461259:g:qecAAOSwhdRgSiK2",
+   "posted_at": "2026-11-06T12:27:56+00:00"
+  },
+  {
+   "title": "BARRETTE MEMOIRE RAM PC PORTABLE 8GO 8GB DDR4-2666V PC4-21333 PC4-21300 SODIMM",
+   "price_raw": "24.62 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820323865888?_skw=ddr4&hash=itembeff1cd520:g:jJsAAeSw-M1qo8M0",
+   "posted_at": "2026-11-06T12:25:41+00:00"
+  },
+  {
+   "title": "Carte mère ASUS P5W DH Deluxe LGA775 P4 3,2 GHz 1Go DDR2 IDE rétro",
+   "price_raw": "99.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257830024751?_skw=carte+m%C3%A8re&hash=item3c07ddf62f:g:PWsAAeSw9NBq6H2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLsdJ12A0XspeIBLA7Rw8wRLoV9jqs6o7FUsYbS8jF780U6KxN8QMQLz9gC2Tc7el9ewkc91LdtZzr5ei11fBgKg%2Bio693peAvKXz0QfWHqNKyD%2F8hROwk61vZdXNchTBTaa6wEQAQj2l6aroo9%2BzwoMlBhNop1rk%2Bim7kJ2ahkFj9mwa77mh1RAZ10ptao0YbiInptd7GyIXIrybqfX%2B93FewzeWUh6Q7E27YXN%2FVbucbnYPV9v%2FpuvO7MoIUHF3i2le6n3Tcct3ubaVqNCe9QNxXPiNr%2FN3HzWaywhq6OA%3D%3D",
+   "posted_at": "2026-11-02T12:16:32+00:00"
+  },
+  {
+   "title": "Écran PC ordinateur - DELL E1910HC - LCD 19\" - VGA - 🇫🇷",
+   "price_raw": "29.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147205660369?_skw=%C3%A9cran+pc&hash=item2246241ed1:g:ZZYAAeSwciBptrk2",
+   "posted_at": "2026-03-15T13:51:32+00:00"
+  },
   {
    "title": "Souris sans fil Pulsar Xlite V4 eS Mini 8K Wireless",
    "price_raw": "69,90€",
@@ -227,7 +286,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GztnWPAfkCFtnp75CMBrgNdOGANGVjbmobfjwsvBIN2UARKFugLZJgz2pOmjOQJvWsDPHw7OdNkykU6FJRVXCzzulF0h1TzqzGIZ9CQFsXUf0HqMohXDk6ygiMZS8yHZzd6yjymukxrqjTkehojhj0I",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7Gyska5gKL32fseCPyPgjd77KcBkfoXRzqxUAzcagk7xwW2lB%2Bgy22zVGDWvAOnH0%2Biu62LETJr8KmSPi%2BocREyGCkt4q%2BdlcABbFUfmAyniPO%2BzzjCqnThI6Xl4HsUP2guZtTsXpRI9zEilC8TRvnvN",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -420,11 +479,18 @@
    "posted_at": "2026-11-06T06:03:15+00:00"
   },
   {
-   "title": "Double écran 11,6\" pour PC portable - Auvisio",
-   "price_raw": "225.94 EUR",
+   "title": "Carte graphique NVIDIA GeForce4 MX 440-SE 64 Mo DDR AGP VGA S-Video ",
+   "price_raw": "10.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/286452719309?_skw=%C3%A9cran+pc&hash=item42b1e99ecd:g:JrUAAeSwnZxn63nm",
-   "posted_at": "2025-04-01T05:25:26+00:00"
+   "url": "https://www.ebay.fr/itm/198755494415?_skw=carte+graphique&hash=item2e46c02a0f:g:shMAAeSwm6lq47R-",
+   "posted_at": "2026-10-29T21:05:05+00:00"
+  },
+  {
+   "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
+   "price_raw": "198.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137889234268?_skw=carte+graphique&hash=item201ad6bd5c:g:aPoAAeSwpEBquygT",
+   "posted_at": "2026-10-31T08:59:44+00:00"
   },
   {
    "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C36 - AMD EXPO - Noir",
@@ -437,7 +503,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjMzA7wjOEDUn1rKT6jjY2H6eyRzqSt3VmFxV0LJS%2BzSoBWoimGqEyUfEnfpmcvMa5QNdAQ5Ab8Eo2vKTGqLopEFPIgZLeUPwDYSdAEs9KuQAbjDR1ajSGPQjhW9LEqmddR8HQBk%2FSBiR%2BqdoIiI09U3crX2QOKiQunRZO1s5Hq6Kw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjPEzlmQTpaoqYyI0BEzJ2RnHQqIHwtb%2FyFJHsGUHEn7hBKTVH%2B%2BxUJlAKv%2BLYW8JvxVNzxhIXBoGaGsHTIrhJ%2FXOxrAAX95dLPO3i8x5XPN0Z66A39pL%2B36Fiv4FLwxgFqQoFgpmlfM98v77DSnSMasmpmXNCVBwZVrE2luRYEL%2Fg%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -458,7 +524,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgKXaqaJRlWQkIBTsc%2BAt3mhFj4%2BZavxoaxes3Rpm%2BtqrUXXI4WPD6N8xjVA8VljOfiUR%2BspO03obRskf6rrlanAYEPyk2qXbjvrZPnsm4gpPB39mszDwcayAyiahk7xP62EUWifLDUe4stDx2NCPYh0wwEToiXtlYPXqkvcJG20Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjRiwNvdeus%2Fs4w8odL5n0squ%2BFiELQCkaMOlebyfHouKX7Y7M1NqLUTaWnG7M2trO%2BklM%2FCODUKuq1A4vsCHBK9yVV6PpwnM1kWVHqp6nyRt1XUbF7t1OcpkDEHD9IdUJgjCnYGy5LWIbpQm6QM6XIER8daUlkqeyCxwA9%2FJcmjw%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -495,59 +561,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/127900807668?_skw=carte+graphique&hash=item1dc77b71f4:g:IhsAAeSwHWVqH~fC",
    "posted_at": "2026-06-03T09:46:18+00:00"
-  },
-  {
-   "title": "BOITIER PC GAMER",
-   "price_raw": "63.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267797119884?_skw=boitier+pc&hash=item3e59f3c38c:g:iIsAAeSwHJdquS3F",
-   "posted_at": "2026-09-27T15:07:16+00:00"
-  },
-  {
-   "title": "SSD Portable Crucial X10 - 1 To, IP65, USB 3.2 Gen2x2, chiffré AES-256",
-   "price_raw": "139,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-portable-crucial-x10-1-to-ip65-3447312",
-   "posted_at": "2026-11-05T20:31:32+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Apple MacBook Pro - M5 Max (CPU 18 cœurs, GPU 32 cœurs), 36 Go de Ram, 2 To de SSD, Noir sidéral",
-   "price_raw": "3 699€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-apple-macbook-pro-14-m5-max-cpu-18-gpu-32-36-go-ram-2-to-noir-sideral-3447308",
-   "posted_at": "2026-11-05T20:17:49+00:00"
-  },
-  {
-   "title": "Carte graphique MSI GeForce GTX 960 Gaming 2 GB GDDR5 PCI-E  - parfait état",
-   "price_raw": "44.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377559767151?_skw=carte+graphique&hash=item57e850d86f:g:uTQAAeSwrTNqylWv",
-   "posted_at": "2026-10-10T15:16:11+00:00"
-  },
-  {
-   "title": "Carte Graphique Radeon RX Vega 56/64 8 Go HBM2",
-   "price_raw": "106.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/155909141085?_skw=carte+graphique&hash=item244ce8b25d:g:504AAOSwveVluJ0s",
-   "posted_at": "2023-11-25T15:55:11+00:00"
-  },
-  {
-   "title": "Boîtier de PC Gaming Châssis OMEN 32L",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOgc52Lgsr45H424ZBOrEA6CgXABNr6KKckQG7b%2BaHR8cMlCTLG0nM6%2F1GZX5vQqDXzPoT6UGJm0KDxg%2FLuknJasef93rjgvJ9WDFC2uBzW%2BEcZoonmST3A1WHKD52jzV0G681zjlhcrxM5n%2BHH5gxZzl9S1jY2CslJi9kXLl6CIww%3D%3D",
-   "posted_at": "2026-07-25T12:41:55+00:00"
-  },
-  {
-   "title": "SteelSeries clavier gaming illuminé noir azerty  résistant à l’eau IP32",
-   "price_raw": "23.35 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147601142245?_skw=clavier&hash=item225db6b1e5:g:4DQAAeSwfc1quCF2",
-   "posted_at": "2026-09-26T19:46:50+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1007,
+  "listings_seen": 1017,
   "models_with_reference": 21
  }
 }
