@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T18:38:00Z",
+ "generated_at": "2026-11-06T19:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-06T18:38:00.627667+00:00"
+   "items": 342,
+   "last_ok": "2026-11-06T19:08:00.658613+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T18:38:00.627667+00:00"
+   "last_ok": "2026-11-06T19:08:00.658613+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 388,
-   "last_ok": "2026-11-06T18:38:00.627667+00:00"
+   "items": 386,
+   "last_ok": "2026-11-06T19:08:00.658613+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-06T18:38:00.627667+00:00"
+   "items": 80,
+   "last_ok": "2026-11-06T19:08:00.658613+00:00"
   }
  },
  "watchlist": [
@@ -192,9 +192,47 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
+  },
+  {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 59.99,
+   "discount_pct": 16.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-03T08:24:17+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 15,6\" MSI Cyborg 15 C13WF0-i5 - RTX 5060 8 Go, 16 Go RAM, 512 Go SSD",
+   "price_raw": "1 349,98€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-156-msi-cyborg-15-c13wf0-i5-rtx-5060-8-go-16-go-ram-512-go-ssd-3448003",
+   "posted_at": "2026-11-06T19:00:33+00:00"
+  },
+  {
+   "title": "Sélection de produits de maquillage MAC Cosmétique à 14€",
+   "price_raw": "14€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/super-promo-sur-le-maquillage-mac-cosmetique-3447992",
+   "posted_at": "2026-11-06T18:43:28+00:00"
+  },
+  {
+   "title": "Reconditionné : PC Fixe Apple iMac 24\" - 512 Go SSD 16 Go RAM Puce M1 CPU 8 cœurs GPU 8 cœurs",
+   "price_raw": "949€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-imac-24-512-go-ssd-16-go-ram-puce-m1-cpu-8-coeurs-gpu-8-coeurs-3447991",
+   "posted_at": "2026-11-06T18:43:12+00:00"
+  },
   {
    "title": "Souris sans fil Logitech M330 Silent Plus",
    "price_raw": "15,79€",
@@ -406,6 +444,13 @@
    "posted_at": "2026-11-06T13:14:34+00:00"
   },
   {
+   "title": "FOIFKIN F300 Boîtier PC ATX Moyen Tour Verre Panoramique 7 Ventilateurs ARGB",
+   "price_raw": "135.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336802983392?_skw=boitier+pc&hash=item4e6b05ade0:g:2lAAAeSwt3xqrzYI&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kQwX2aS0przGb5kAkI5sfSX2FdFcZCsiHah2c9osyur%2Bgk%2B3e3eKG6OcZi5jmZSlqXXNTDilXMNE41z7omEPBplD%2FANFFm%2FmAiSAIYIooHRJHv208SDMTGEKub82xv38Mbge7cOfhOGHfrmMzVJXC%2FA9I0rb1hOAeo%2FfC%2FtmJGEZaaDNbjiD33mQJ3p3gCEKzJRm5mNNWyTqLJbDCCK1WRnqAtEuGYDUXmZw62HvTBgEDNhYm1gK%2Bc5VE43v3KnI%2ByVxff0N0kFYGuaqwQht%2Fcoka3FM%2FE6oqxUs2jsWdoZQ%3D%3D",
+   "posted_at": "2026-09-20T01:25:39+00:00"
+  },
+  {
    "title": "Écran PC ordinateur - DELL E1910HC - LCD 19\" - VGA - 🇫🇷",
    "price_raw": "29.99 EUR",
    "source": "ebay",
@@ -444,7 +489,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GzppC6Q79%2BVithUzlm9UKk7DiEhXhhQli2gxYTUUn5mv4G0mwF2eF0n%2BShPiAdG6aJiMm1yxXaxIQ595BvW5LtD0%2BJHzYHLGmkYRiDPCB3cGq5SHpT%2Fifp9pR%2F39hur85bW%2BL2fLYpA%2BWTByx4JTgZH",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7Gy1T%2Fq9V%2B4FTkKjHaLoNRcP9xpXRfHDwMlnuvNg0Ul4xOzWQh%2FZiZd7Y39LrTmSCA1RJiISpNds2DGPgzXq1xTXUqNusZhbTEyWPasGJbweqyFFdHCFK%2FCbDc7mUYREGZoZq71OmnOL%2BwyiFaGNsQT%2F",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -516,34 +561,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/codes-promo/adherents-30eur-de-reduction-des-300eur-dachat-sur-une-selection-de-pc-tablettes-60eur-des-600eur-dachat-100eur-de-reduction-des-1000eur-3447533",
    "posted_at": "2026-11-06T08:27:31+00:00"
-  },
-  {
-   "title": "Mini PC Kamrui H1 - Ryzen 7735HS, Radeon 680M, 24 Go LPDDR5-5500, SSD Nvme 512 Go, 2,5GbE, Wifi 6 & BT 5.2, Win 11 Pro",
-   "price_raw": "336,33€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-kamrui-h1-ryzen-7735hs-radeon-680m-24-go-lpddr5-5500-ssd-nvme-512-go-25gbe-wifi-6-bt-52-win-11-pro-3447531",
-   "posted_at": "2026-11-06T08:26:58+00:00"
-  },
-  {
-   "title": "[Adhérents] PC portable 16\" Asus Vivobook X1607CA-MB307W - WUXGA IPS, Intel Ultra 9 285H, 16 Go RAM, 512 Go SSD, 50 Wh, Windows 11",
-   "price_raw": "739,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-16-asus-vivobook-x1607ca-mb307w-wuxga-ips-intel-ultra-9-285h-16-go-ram-512-go-ssd-50-wh-windows-11-3447526",
-   "posted_at": "2026-11-06T08:19:52+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 5200 MT/s C40 - Intel XMP 3.0 - N",
-   "price_raw": "448.32 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336278935782?_skw=ddr5&hash=item4e4bc958e6:g:JXAAAeSwajVq7eyh",
-   "posted_at": "2025-11-10T13:29:35+00:00"
-  },
-  {
-   "title": "Pack Tablette Tactile Xiaomi Redmi Pad 2 9,7\" 64 Go Gris + Étui de protection Gris",
-   "price_raw": "199,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-tablette-tactile-xiaomi-redmi-pad-2-97-64-go-gris-etui-de-protection-gris-3447492",
-   "posted_at": "2026-11-06T07:52:23+00:00"
   }
  ],
  "stats": {
