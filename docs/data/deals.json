@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T12:38:00Z",
+ "generated_at": "2026-11-06T13:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 338,
-   "last_ok": "2026-11-06T12:38:00.665277+00:00"
+   "last_ok": "2026-11-06T13:08:00.674166+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T12:38:00.665277+00:00"
+   "last_ok": "2026-11-06T13:08:00.674166+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 393,
-   "last_ok": "2026-11-06T12:38:00.665277+00:00"
+   "items": 398,
+   "last_ok": "2026-11-06T13:08:00.674166+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-06T12:38:00.665277+00:00"
+   "last_ok": "2026-11-06T13:08:00.674166+00:00"
   }
  },
  "watchlist": [
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-512-go-gen3-3443396",
    "posted_at": "2026-11-01T12:39:46+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 214.99,
+   "discount_pct": 53.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -175,43 +192,37 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 214.99,
-   "discount_pct": 20.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JD6UHIrCPO5FSmK5lgeHrIKffaRMXdNEZHRx2%2FOc%2Fik%2FpL%2BL2oubxeo1FWY6NqnAKcYGPsjv5pdhQfezZ3RlRNO3nGNLEEpnXGyD4cC%2Bw5pNgJU5zDgwAEsvpAXbNuVp1jLEkp3qGuxm0mXycuvN8as",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PNY NVIDIA Quadro P4000 carte graphique VCQP4000 8g de ddr",
+   "price_raw": "120.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198776611887?_skw=carte+graphique&hash=item2e4802642f:g:q6IAAeSw7odq6NlB&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEo83ZON1ozTnw7Oo2iYh5oCNKxCbwBZAPaSv6rEoKKJ99XE34mK3brEUmVodTXCIHYuOUcfSe0s0VmAyzyXNeGV4CVxPAd0wi7XmZ5k7ts3cWnPYA0BdVaRKqESMRCgEbQIzbsjcJ5KG0gMD6Ie%2FesMlhjeMvjc4Cx2OLg%2Bh%2BYDzGkT0qxhBwr8odplh38sKhcR5lQgpfUDw985tvOCzPaN1OFmkDdCeptOq5RqZCRFeXV5L6syfoOuAg0CpgB9FHrbJb8mz1algRWaUNmx9qZ7DnZXgo%2BkuJAJZeKyCzYg%3D%3D",
+   "posted_at": "2026-11-06T06:54:57+00:00"
+  },
+  {
+   "title": "Kingston 16Go DDR4 2400TMHz SO-DIMM 2Rx8 PC4-2400T K821PJ-MIB",
+   "price_raw": "55.72 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860118891165?_skw=ddr4&hash=itemc84314ba9d:g:i3EAAeSwE9Zq7c14",
+   "posted_at": "2026-11-06T12:55:28+00:00"
+  },
+  {
+   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
+   "price_raw": "136.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvR%2Bhk5nwoYQpwBnpw952b8RgQTy31VcZsaUCEac0ZbHoiM9IDUSxx1ZdhLXEN20Q%2BLxYD9OjsMP%2BukGOdWQw2gp%2Fudz%2FBtTHi%2BzaW3%2FAov1Zb0dH05WkdxOzQkC9K6K6IkTEndDp3c9Et46MpqfiC1yGoirXU5A11ahMrxwxlO0fg%3D%3D",
+   "posted_at": "2026-10-14T07:28:32+00:00"
+  },
+  {
+   "title": "FOIFKIN F300 Boîtier PC ATX Moyen Tour Verre Panoramique 7 Ventilateurs ARGB",
+   "price_raw": "135.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336802983392?_skw=boitier+pc&hash=item4e6b05ade0:g:2lAAAeSwt3xqrzYI&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kQwX2aS0przGb5kAkI5sfSX2FdFcZCsiHah2c9osyur%2Bgk%2B3e3eKG6OcZi5jmZSlqXXNTDilXMNE41z7omEPBplD%2FANFFm%2FmAiSAIYIooHRJHv208SDMTGEKub82xv38MMU9Xl%2BQG%2FhJql6TW1J0q6z9w11LaAGxl30RyA6tXPSzKG9EbAvUeU420ESCHu2Er0rilhtfyhHnnw60n%2BRnthb3aJQ2xkHcKtOZbrg8QlJnfgRVmjdlgm3teMllP7s2ULTskxI%2BDqX9hX9u6gzti80pDQwhncKKKgfj6%2B4djHvA%3D%3D",
+   "posted_at": "2026-09-20T01:25:39+00:00"
+  },
   {
    "title": "Intel Xeon E7-8891V3 10x 2.80GHz Socle 2011 10 Core Processeur Max. 3.50GHz CPU",
    "price_raw": "20.02 EUR",
@@ -244,7 +255,7 @@
    "title": "Carte mère ASUS P5W DH Deluxe LGA775 P4 3,2 GHz 1Go DDR2 IDE rétro",
    "price_raw": "99.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257830024751?_skw=carte+m%C3%A8re&hash=item3c07ddf62f:g:PWsAAeSw9NBq6H2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLsdJ12A0XspeIBLA7Rw8wRLoV9jqs6o7FUsYbS8jF780U6KxN8QMQLz9gC2Tc7el9ewkc91LdtZzr5ei11fBgKg%2Bio693peAvKXz0QfWHqNKyD%2F8hROwk61vZdXNchTBTaa6wEQAQj2l6aroo9%2BzwoMlBhNop1rk%2Bim7kJ2ahkFj9mwa77mh1RAZ10ptao0YbiInptd7GyIXIrybqfX%2B93FewzeWUh6Q7E27YXN%2FVbucbnYPV9v%2FpuvO7MoIUHF3i2le6n3Tcct3ubaVqNCe9QNxXPiNr%2FN3HzWaywhq6OA%3D%3D",
+   "url": "https://www.ebay.fr/itm/257830024751?_skw=carte+m%C3%A8re&hash=item3c07ddf62f:g:PWsAAeSw9NBq6H2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLsdJ12A0XspeIBLA7Rw8wRLoV9jqs6o7FUsYbS8jF780U6KxN8QMQLz9gC2Tc7el9ewkc91LdtZzr5ei11fBgKg%2Bio693peAvKXz0QfWHqNKyD%2F8hROwk61vZdXNchTD3cOv04Xh0qmquY5af5I8upA31o02qnhhrjBpVkcQn9%2BWXaaezzGwuLGd1fSsrxu619mE66tUlkxQHzM3pOQ5VdmqYEqkix%2BZZq%2FLucmhQbOjHfa9Ym%2FYPqHdMKuSxBNWO72LDISlo3lAiswssFs3I0yWFGa9JQlu8dRxJzDe8fQ%3D%3D",
    "posted_at": "2026-11-02T12:16:32+00:00"
   },
   {
@@ -286,7 +297,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7Gyska5gKL32fseCPyPgjd77KcBkfoXRzqxUAzcagk7xwW2lB%2Bgy22zVGDWvAOnH0%2Biu62LETJr8KmSPi%2BocREyGCkt4q%2BdlcABbFUfmAyniPO%2BzzjCqnThI6Xl4HsUP2guZtTsXpRI9zEilC8TRvnvN",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GxeDYWhanHBp%2BOkZHGI9nTYSRszRqQDRTW4GsriC4JoAuxtf57%2BNn%2Bq6aqN%2BfyFK99aGi9GIIFqEOiVB6Iy717V91GguxSoWED%2F0zwWKsfSdBDaDRlAnOqrB5Y3YwPQl9A3okb1Pu%2Bf1%2FUB5pl8qZm5",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -479,13 +490,6 @@
    "posted_at": "2026-11-06T06:03:15+00:00"
   },
   {
-   "title": "Carte graphique NVIDIA GeForce4 MX 440-SE 64 Mo DDR AGP VGA S-Video ",
-   "price_raw": "10.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198755494415?_skw=carte+graphique&hash=item2e46c02a0f:g:shMAAeSwm6lq47R-",
-   "posted_at": "2026-10-29T21:05:05+00:00"
-  },
-  {
    "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
    "price_raw": "198.30 EUR",
    "source": "ebay",
@@ -503,7 +507,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjPEzlmQTpaoqYyI0BEzJ2RnHQqIHwtb%2FyFJHsGUHEn7hBKTVH%2B%2BxUJlAKv%2BLYW8JvxVNzxhIXBoGaGsHTIrhJ%2FXOxrAAX95dLPO3i8x5XPN0Z66A39pL%2B36Fiv4FLwxgFqQoFgpmlfM98v77DSnSMasmpmXNCVBwZVrE2luRYEL%2Fg%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjNBfeezCd%2BTyvWmwIdk52qYupMiRzyrwdtHNque0GGKWVL1tRz2RGK37TN9TuRNikAjozDoXjav98Zn0EjCvEBTqy3DlexGYbcQGCtZnPhTJ6Y2T5juVBbOqdwh8hcT9oned22JY3pvIY98sGxgfvHkdINkmzy6BmroRerdmRgfFg%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -524,7 +528,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjRiwNvdeus%2Fs4w8odL5n0squ%2BFiELQCkaMOlebyfHouKX7Y7M1NqLUTaWnG7M2trO%2BklM%2FCODUKuq1A4vsCHBK9yVV6PpwnM1kWVHqp6nyRt1XUbF7t1OcpkDEHD9IdUJgjCnYGy5LWIbpQm6QM6XIER8daUlkqeyCxwA9%2FJcmjw%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfhSj%2BFAAVXA73fnD5%2Bc8FG2bNElOImJstgdyx0B%2FHP11Lmux0z3Pd7o%2BwdnaNmKuZesVU3s5O3HYP6NCAYSjJkFjvYFjE%2BveLQ5y8ZF1XH6rV3hblSykmX9kzKhblhcPKTCqzWrlf7o9wqAtORsaeRdnkKQzZK8UF3PbcShwSDOkQ%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -540,31 +544,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nas-terramaster-f2-425-3447317",
    "posted_at": "2026-11-05T21:49:09+00:00"
-  },
-  {
-   "title": "Souris Gaming Sans Fil Redragon M916 Pro - Triple Mode BT/2,4 GHz/Filaire, 4000 Hz, 26000 DPI, 5 Boutons (Vendeur Tiers)",
-   "price_raw": "31,81€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-redragon-m916-pro-triple-mode-bt24-ghzfilaire-4000-hz-26000-dpi-5-boutons-vendeur-tiers-3447334",
-   "posted_at": "2026-11-05T21:26:53+00:00"
-  },
-  {
-   "title": "Carte mère Supermicro A2SDI-4C-HLN4F mini ITX / NAS Carte mère / ECC support",
-   "price_raw": "190.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/406953607467?_skw=carte+m%C3%A8re&hash=item5ec053412b:g:OnwAAeSwDgxqFey-",
-   "posted_at": "2026-05-26T19:00:28+00:00"
-  },
-  {
-   "title": "Carte graphique NVIDIA Quadro M4000 8GB GDDR5",
-   "price_raw": "94.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/127900807668?_skw=carte+graphique&hash=item1dc77b71f4:g:IhsAAeSwHWVqH~fC",
-   "posted_at": "2026-06-03T09:46:18+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1017,
-  "models_with_reference": 21
+  "listings_seen": 1022,
+  "models_with_reference": 22
  }
 }
