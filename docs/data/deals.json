@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T17:38:00Z",
+ "generated_at": "2026-11-06T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 341,
-   "last_ok": "2026-11-06T17:38:00.682865+00:00"
+   "last_ok": "2026-11-06T18:08:00.681829+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T17:38:00.682865+00:00"
+   "last_ok": "2026-11-06T18:08:00.681829+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 393,
-   "last_ok": "2026-11-06T17:38:00.682865+00:00"
+   "items": 391,
+   "last_ok": "2026-11-06T18:08:00.681829+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 4,
-   "last_ok": "2026-11-06T17:38:00.682865+00:00"
+   "items": 38,
+   "last_ok": "2026-11-06T18:08:00.681829+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-10-08T14:32:30+00:00"
   },
   {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 214.99,
+   "discount_pct": 53.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -107,23 +124,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
    "posted_at": "2026-11-03T13:34:10+00:00"
-  },
-  {
-   "title": " Samsung 16 Go DDR4-2666 SODIMM PC4-21300 2Rx8 – M471A2K43DB1-CTD",
-   "model": "RAM:DDR4-16Go-2666",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 33.98,
-   "shipping_eur": 3.0,
-   "effective_eur": 36.98,
-   "median_eur": 55.72,
-   "discount_pct": 33.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · leshopdejode (99,5 %, 195 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237167474161?_skw=ddr4&hash=item37384875f1:g:2TMAAeSwELFq7dh-",
-   "posted_at": "2026-11-06T13:39:59+00:00"
   },
   {
    "title": "SSD M2 NVMe Cusu 3500Q - 1 To (Gen3)",
@@ -192,43 +192,30 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 214.99,
-   "discount_pct": 20.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Carte graphique ASUS Dual GeForce GTX 1060 6 Go GDDR5 DUAL-GTX1060-6G",
+   "price_raw": "68.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940071014388?_skw=carte+graphique&hash=itemdae0994ff4:g:R8cAAeSw8NRqmHMT",
+   "posted_at": "2026-11-06T17:41:07+00:00"
+  },
+  {
+   "title": "Station d'accueil SSD M.2 NVMe et SATA USB 3.1 Gen2 10 Gbps LUIRSAY",
+   "price_raw": "38.13 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206680507278?_skw=ssd&hash=item301f1e438e:g:yjcAAeSwq6Jq7hZf",
+   "posted_at": "2026-11-06T18:03:26+00:00"
+  },
+  {
+   "title": "Main board Carte mère Apple iMac 2019 Retina 4K 21.5 3195 MRT32LL/A 820-01237-A",
+   "price_raw": "119.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900071058253?_skw=carte+m%C3%A8re&hash=itemd1906a6b4d:g:zrIAAeSw4jtq7g-I",
+   "posted_at": "2026-11-06T17:35:23+00:00"
+  },
   {
    "title": "PC Portable 16.2\" Apple MacBook Pro - M5 Pro, CPU 18 cœurs, 48 Go, SSD 1 To, Argent",
    "price_raw": "3 399€",
@@ -240,7 +227,7 @@
    "title": "14 Pouces Écran Externe, 1920X1080 FHD Écran D'Ordinateur De Jeu Moniteur, Avec",
    "price_raw": "206.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336883695200?_skw=%C3%A9cran+pc&hash=item4e6fd53e60:g:iCcAAeSwQqFq7gTG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k71raBiyminLvhOPrdFb%2Bj3ggchV6%2BOKGU5aHiHCnoXNwJ5PJ1Hne%2Ft2GjzqC1ca5HOlnlJUipqMi0JzErfoW7%2FNQI%2FTZfQj0jfZwSZ%2FgH1qLim2kSBBjpOxhcIMXsPRCXqiE8pcZ2AmkQRSMChXdLls36M3A%2FwYJFUfUzQChDSFscOq9L%2F6XL%2BEmt0JC%2FVjWjSJL52BsnZrv98Je1LYOWpMlHK%2F9JSDEnD9PxQ3ZdWsa9EfePozikZ%2FFsHzKXNlOAHlDddAzwREjv9v4RVPhCHXmsLvn2kFZVvSGhZmON0g%3D%3D",
+   "url": "https://www.ebay.fr/itm/336883695200?_skw=%C3%A9cran+pc&hash=item4e6fd53e60:g:iCcAAeSwQqFq7gTG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k71raBiyminLvhOPrdFb%2Bj3ggchV6%2BOKGU5aHiHCnoXNwJ5PJ1Hne%2Ft2GjzqC1ca5HOlnlJUipqMi0JzErfoW7%2FNQI%2FTZfQj0jfZwSZ%2FgH1qLim2kSBBjpOxhcIMXsPRCEMcavsP4kx614K4ivbkQIYNMDChSwsv8GaZeG%2BnclPLugd1%2B2OXA4iMx0vmM3dsIyRDxnFYJRl5TynVqWmdbqq2b%2BUAG0D3o386c8zxBNM8nKGwzW9y3WQke65PX%2B8yw83Hrew5Uhm9Kc9tR5KvJmh%2B3Rso12w%2FqBNzy1uSYc4g%3D%3D",
    "posted_at": "2026-11-06T16:48:03+00:00"
   },
   {
@@ -307,13 +294,6 @@
    "posted_at": "2020-10-13T10:48:45+00:00"
   },
   {
-   "title": "Kit 32Go (2x16Go) RAM DDR4 SO-DIMM Samsung 2666 MHz PC4-21300 portable",
-   "price_raw": "109.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147669199433?_skw=ddr4&hash=item2261c52a49:g:8m4AAeSw67hq7dYX",
-   "posted_at": "2026-11-06T15:24:14+00:00"
-  },
-  {
    "title": "Lot de 2 barrettes de Ram Sodimm DDR5 2x16 GB Samsung (Occasion )",
    "price_raw": "299.00 EUR",
    "source": "ebay",
@@ -361,13 +341,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xpdtyi/gpu_gigabyte_gaming_radeon_rx_9070_gre_12gb_gddr6/",
    "posted_at": "2026-11-06T14:14:25+00:00"
-  },
-  {
-   "title": "Corsair VENGEANCE RGB DDR5 6000MT/s 16GB - GREY Mémoire pour PC DDR5 16 GB 2 x",
-   "price_raw": "441.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336831391885?_skw=ddr5&hash=item4e6cb7288d:g:TvMAAeSwjmNq0vq6",
-   "posted_at": "2026-10-06T15:00:42+00:00"
   },
   {
    "title": "[Adhérents] PC Portable 16\" MSI Raider 16 HX B2WI-016FR - QHD+ IPS, 240hz, Intel Core Ultra AI 9, RTX 5080, 32 Go RAM, 1 To SSD, W.11",
@@ -426,6 +399,13 @@
    "posted_at": "2026-11-06T13:14:34+00:00"
   },
   {
+   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
+   "price_raw": "136.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvQ1WLi5ozK%2B3UFYpqCxuIO7%2FWEgehv4Avfd4XQLIHD24dGuhbLmeYDpfbK0XAK%2BjbF9Bhhc%2BblNXpiP1wgiDRu5Qm0N8A39ieLpqickrY3WCQh4ki%2BbzchKv0zoeqP2JHSUsttLOFRcG0BYHtchV7SUvALRvOvATD6%2FpC4qnQVHlw%3D%3D",
+   "posted_at": "2026-10-14T07:28:32+00:00"
+  },
+  {
    "title": "Processeur Dual-Core Intel Pentium G3240 2X 3.10GHz Socket 1150",
    "price_raw": "10.94 EUR",
    "source": "ebay",
@@ -454,6 +434,13 @@
    "posted_at": "2026-11-06T11:29:05+00:00"
   },
   {
+   "title": "Watercooling : waterblock CPU AMD canaux 80 microns",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227000430535?_skw=watercooling&hash=item34da47afc7:g:buoAAeSwfNxo25m~",
+   "posted_at": "2025-09-30T08:51:37+00:00"
+  },
+  {
    "title": "Refroidissement PC Watercooling MSI MAG Coreliquid I240 White - ARGB, pour CPU Intel & AMD, Ventilateurs LDB, Waterblock à Double Chambre",
    "price_raw": "59,99€",
    "source": "dealabs",
@@ -464,7 +451,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7Gyq2qYLX06LUpG9d5PDn108CehUz9ovoWsQloCrWHRp6Q%2BTO58BPvGxGQR%2Fm0t6vvlsTMRCTCaTtem9UJu5aw7bVKuKJDafv2I5%2B4MehUc5UV34zykaSIYvCj29B%2FEsd1fYrRKlq25ZoAEOTste7B1Q",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7Gz0%2Bmfqo%2BtKZ51l%2Bxe8D4ik6K79KpwunmKpjJedZxwYq2uAs9e7P3rJNVnh2v8%2BmPdVOQnkAyo0nCbTvh7EiGxxZcKPGcnHcFB4Pnf%2FGEE83EDoMUBqyoywmMx%2BkqEigJS4qBe2BTA%2Basjof0own2M9",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -557,31 +544,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336278935782?_skw=ddr5&hash=item4e4bc958e6:g:JXAAAeSwajVq7eyh",
    "posted_at": "2025-11-10T13:29:35+00:00"
-  },
-  {
-   "title": "Pack Tablette Tactile Xiaomi Redmi Pad 2 9,7\" 64 Go Gris + Étui de protection Gris",
-   "price_raw": "199,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-tablette-tactile-xiaomi-redmi-pad-2-97-64-go-gris-etui-de-protection-gris-3447492",
-   "posted_at": "2026-11-06T07:52:23+00:00"
-  },
-  {
-   "title": "MSI AERO ITX GeForce GT 1030 Carte graphique NVIDIA DVI-D HDMI PCIe x16",
-   "price_raw": "37.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880088328071?_skw=carte+graphique&hash=itemcce95a2787:g:3NoAAeSwBERq7YSo",
-   "posted_at": "2026-11-06T07:42:12+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast DDR5 - 8 Go (1 x 8 Go) - 5600 MT/s C40 - Intel XMP 3.0 - No",
-   "price_raw": "248.93 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336251731974?_skw=ddr5&hash=item4e4a2a4006:g:qX8AAeSwQPZq7eyq",
-   "posted_at": "2025-10-25T10:14:09+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1088,
-  "models_with_reference": 22
+  "listings_seen": 1094,
+  "models_with_reference": 24
  }
 }
