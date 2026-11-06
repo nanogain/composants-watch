@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T17:08:00Z",
+ "generated_at": "2026-11-06T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-06T17:08:00.694002+00:00"
+   "items": 341,
+   "last_ok": "2026-11-06T17:38:00.682865+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T17:08:00.694002+00:00"
+   "last_ok": "2026-11-06T17:38:00.682865+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-06T17:08:00.694002+00:00"
+   "items": 393,
+   "last_ok": "2026-11-06T17:38:00.682865+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 29,
-   "last_ok": "2026-11-06T17:08:00.694002+00:00"
+   "items": 4,
+   "last_ok": "2026-11-06T17:38:00.682865+00:00"
   }
  },
  "watchlist": [
@@ -209,9 +209,40 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 16.2\" Apple MacBook Pro - M5 Pro, CPU 18 cœurs, 48 Go, SSD 1 To, Argent",
+   "price_raw": "3 399€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-portable-m5-pro-cpu-18-coeurs-gpu-20-coeurs-ecran-liquid-retina-xdr-162-pouces-memoire-unifiee-48-go-ssd-1-to-argent-3447943",
+   "posted_at": "2026-11-06T17:34:17+00:00"
+  },
+  {
+   "title": "14 Pouces Écran Externe, 1920X1080 FHD Écran D'Ordinateur De Jeu Moniteur, Avec",
+   "price_raw": "206.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336883695200?_skw=%C3%A9cran+pc&hash=item4e6fd53e60:g:iCcAAeSwQqFq7gTG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k71raBiyminLvhOPrdFb%2Bj3ggchV6%2BOKGU5aHiHCnoXNwJ5PJ1Hne%2Ft2GjzqC1ca5HOlnlJUipqMi0JzErfoW7%2FNQI%2FTZfQj0jfZwSZ%2FgH1qLim2kSBBjpOxhcIMXsPRCXqiE8pcZ2AmkQRSMChXdLls36M3A%2FwYJFUfUzQChDSFscOq9L%2F6XL%2BEmt0JC%2FVjWjSJL52BsnZrv98Je1LYOWpMlHK%2F9JSDEnD9PxQ3ZdWsa9EfePozikZ%2FFsHzKXNlOAHlDddAzwREjv9v4RVPhCHXmsLvn2kFZVvSGhZmON0g%3D%3D",
+   "posted_at": "2026-11-06T16:48:03+00:00"
+  },
   {
    "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
    "price_raw": "97,56€",
@@ -270,7 +301,7 @@
   },
   {
    "title": "Carte mere asus maximus VII ranger socket Intel lga 1150 lga1150 H3 z97 Z87 h97 ",
-   "price_raw": "199.99 EUR",
+   "price_raw": "219.99 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/124382402677?_skw=carte+m%C3%A8re&hash=item1cf5c4d875:g:3tQAAOSwqUNk12fu",
    "posted_at": "2020-10-13T10:48:45+00:00"
@@ -288,13 +319,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/327443269058?_skw=ddr5&hash=item4c3d23c5c2:g:JeMAAeSwiw9q7e3X",
    "posted_at": "2026-11-06T15:14:42+00:00"
-  },
-  {
-   "title": "Dell Carte mère optiplex 3070m",
-   "price_raw": "21.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227601399390?_skw=carte+m%C3%A8re&hash=item34fe19be5e:g:BT8AAeSw4UFq7ewy",
-   "posted_at": "2026-11-06T15:09:55+00:00"
   },
   {
    "title": "Kit Mémoire RAM Juhor DDR4 - 16Go (2 x 8Go)",
@@ -337,6 +361,13 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xpdtyi/gpu_gigabyte_gaming_radeon_rx_9070_gre_12gb_gddr6/",
    "posted_at": "2026-11-06T14:14:25+00:00"
+  },
+  {
+   "title": "Corsair VENGEANCE RGB DDR5 6000MT/s 16GB - GREY Mémoire pour PC DDR5 16 GB 2 x",
+   "price_raw": "441.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336831391885?_skw=ddr5&hash=item4e6cb7288d:g:TvMAAeSwjmNq0vq6",
+   "posted_at": "2026-10-06T15:00:42+00:00"
   },
   {
    "title": "[Adhérents] PC Portable 16\" MSI Raider 16 HX B2WI-016FR - QHD+ IPS, 240hz, Intel Core Ultra AI 9, RTX 5080, 32 Go RAM, 1 To SSD, W.11",
@@ -395,13 +426,6 @@
    "posted_at": "2026-11-06T13:14:34+00:00"
   },
   {
-   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
-   "price_raw": "136.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvT%2BJdc0p46Rzjvze0g8f0BX2Pu%2BrLHv4Azeltc5%2FvZqGIQ0VGU11nWWSAAtgCKyE9QoRZq0uQjx6Q1xKqPI4Ws4rEe%2FZSVTpJfR26C2qypx96Z7%2BPlDvHyhPsJTYFBcxGcbiHzcf3Irbj3yngFpdffbZlDSjPM5GPJZkuc%2Fzkfj5A%3D%3D",
-   "posted_at": "2026-10-14T07:28:32+00:00"
-  },
-  {
    "title": "Processeur Dual-Core Intel Pentium G3240 2X 3.10GHz Socket 1150",
    "price_raw": "10.94 EUR",
    "source": "ebay",
@@ -430,13 +454,6 @@
    "posted_at": "2026-11-06T11:29:05+00:00"
   },
   {
-   "title": "Watercooling : waterblock CPU AMD canaux 80 microns",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227000430535?_skw=watercooling&hash=item34da47afc7:g:buoAAeSwfNxo25m~",
-   "posted_at": "2025-09-30T08:51:37+00:00"
-  },
-  {
    "title": "Refroidissement PC Watercooling MSI MAG Coreliquid I240 White - ARGB, pour CPU Intel & AMD, Ventilateurs LDB, Waterblock à Double Chambre",
    "price_raw": "59,99€",
    "source": "dealabs",
@@ -447,7 +464,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GxihMyflCIIAWjofw9BTpNoaUzMa9Sa46x54LLM6JfnJGHLMrjqrQCBJWky40XOdWNX4JqI3PnpN5CUyVc7v9MMmmG0SfaLgTo%2FiINpPLCoj8ySDhmR4HxOSnUv9TIkh5r4qH6l3xA6ppQlI%2BoAlRba",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7Gyq2qYLX06LUpG9d5PDn108CehUz9ovoWsQloCrWHRp6Q%2BTO58BPvGxGQR%2Fm0t6vvlsTMRCTCaTtem9UJu5aw7bVKuKJDafv2I5%2B4MehUc5UV34zykaSIYvCj29B%2FEsd1fYrRKlq25ZoAEOTste7B1Q",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -564,7 +581,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1084,
-  "models_with_reference": 23
+  "listings_seen": 1088,
+  "models_with_reference": 22
  }
 }
