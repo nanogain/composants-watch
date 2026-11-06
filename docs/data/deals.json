@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T08:38:00Z",
+ "generated_at": "2026-11-06T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-06T08:38:00.619988+00:00"
+   "items": 341,
+   "last_ok": "2026-11-06T09:08:00.654870+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T08:38:00.619988+00:00"
+   "last_ok": "2026-11-06T09:08:00.654870+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 390,
-   "last_ok": "2026-11-06T08:38:00.619988+00:00"
+   "items": 391,
+   "last_ok": "2026-11-06T09:08:00.654870+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 38,
-   "last_ok": "2026-11-06T08:38:00.619988+00:00"
+   "items": 79,
+   "last_ok": "2026-11-06T09:08:00.654870+00:00"
   }
  },
  "watchlist": [
@@ -207,11 +207,53 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDidZBXYC3O36x6Vy8dhk4ZOe6ecOf6ySbNgJgyiDFRJRWBPoRkGF4M1iRFvOme3J35cEEDhs8FTTx%2FpgUErjXqvXFnw5tT2wPwLxMydsrTZ9rb5r%2BKesVSLoSdPGkTUb1NHTUejz53D%2FT0MGlkWt0F",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 16\" ASUS A16-TUF608UP-TU147W - AMD Ryzen 7, NVIDIA GeForce RTX 5070, 16 Go DDR5",
+   "price_raw": "1 399,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-gamer-asus-a16-tuf608up-tu147w-3447555",
+   "posted_at": "2026-11-06T08:55:16+00:00"
+  },
+  {
+   "title": "[Other] Minecraft – Java and Bedrock Edition – Windows - $24.99 (29% off)",
+   "price_raw": "$24.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xp7w2u/other_minecraft_java_and_bedrock_edition_windows/",
+   "posted_at": "2026-11-06T08:40:39+00:00"
+  },
+  {
+   "title": "Micron 8Go DDR4 2666MHz SO-DIMM PC4-2666V 1Rx8 RAM PC Portable",
+   "price_raw": "27.64 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860118335820?_skw=ddr4&hash=itemc8430c414c:g:IOIAAeSwSytqlCpD",
+   "posted_at": "2026-11-06T09:00:07+00:00"
+  },
+  {
+   "title": "Samsung 16Go DDR4 2666MHz SO-DIMM PC4-2666V 2Rx8 RAM PC Portable",
+   "price_raw": "59.88 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860118330931?_skw=ddr4&hash=itemc8430c2e33:g:eL0AAeSwPGFqvlh7",
+   "posted_at": "2026-11-06T08:56:21+00:00"
+  },
+  {
+   "title": "2-Power SSD7014A 256Go SSD NVMe M.2 2280 PCIe 3.0 x4 PC Portable / Desktop",
+   "price_raw": "37.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860047948774?_skw=ssd&hash=itemc83eda3be6:g:q~cAAeSwcnhq0StR",
+   "posted_at": "2026-10-15T19:40:32+00:00"
+  },
+  {
+   "title": "Tour midi BeQuiet Pure Base 600 Boîtier PC noir, orange isolé, fenêtre",
+   "price_raw": "136.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267835283865?_skw=boitier+pc&hash=item3e5c3a1999:g:8uoAAeSwcPtq7YT9",
+   "posted_at": "2026-11-06T07:42:48+00:00"
+  },
   {
    "title": "[Adhérents] 30€ de réduction dès 300€ d'achat sur une sélection de PC & tablettes, 60€ dès 600€ d'achat & 100€ de réduction dès 1000€",
    "price_raw": "30€",
@@ -304,6 +346,13 @@
    "posted_at": "2024-06-19T10:39:00+00:00"
   },
   {
+   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C36 - Black",
+   "price_raw": "800.69 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336251757882?_skw=ddr5&hash=item4e4a2aa53a:g:1U0AAeSw3EBq7YkY",
+   "posted_at": "2025-10-25T10:28:03+00:00"
+  },
+  {
    "title": "[Headphones] Sennheiser HD 600 Open-Back Wired Headphones - $229.95",
    "price_raw": "$229.95",
    "source": "reddit",
@@ -316,13 +365,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xp5g8x/mousepad_cherry_xtrfy_gp5_gaming_mousepad_deskmat/",
    "posted_at": "2026-11-06T06:03:15+00:00"
-  },
-  {
-   "title": "Double écran 11,6\" pour PC portable - Auvisio",
-   "price_raw": "225.94 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/286452719309?_skw=%C3%A9cran+pc&hash=item42b1e99ecd:g:JrUAAeSwnZxn63nm",
-   "posted_at": "2025-04-01T05:25:26+00:00"
   },
   {
    "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
@@ -349,7 +391,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjMZcfn%2BTnQZBvBHc4VJyfT06wlkGQfosAYpOD1%2BnVBC8hPBlfZTXJq9de5kHgPoSbxoKh9gTSvVHUcC0FJzItdJVr68i4RXu9b6iBsbo7MG9R3xoNlW8dZ9c8Zw8blP4HOUBbZ9voHFfYrzZJ8STIzxALoIciOdpHsxpusUm%2FJiTQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjPLdeQ1%2BwYosggJ1Q6OmJuam3eh63oPvQWxBz3jV59AyZGLmg6RGARkugVibSTo%2Bgb4OK44t3tBkTDWBuVilAL%2FzI52KPLpfS01nuv%2BKOan2Wq8wUwnDbshnDqW4s1DiCyMZJ%2FsuaRJ3Cvg%2BVCLmKP%2F61auoscxRxNJqxsDZk0b8Q%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -370,7 +412,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfiBwJBMz1ncQX33DurrhAtIJlI%2FyVMDad8KVHKFi0YM7cjKii%2B%2FfGwOwy31XdzVISUUaBMQXhdwOrI2C9QfC1IkIzli25xqxiIQmfItJsjTuklDW2AI%2FUW74JTbNLSueV9n49v0q5n72ZkGU7iG2xPQ51Nzf7ZDSzmAxUt%2Bmw8hSQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfixdvWZDeAq6UPFe4upKtVOv5zKUsxP4sGL57g%2F9uQ%2F30OAfGxH4g%2Bdg6kdGr%2Fk6DRB9Qx6aOQCG7knjTH1r%2B40ZW1Eq572G6oI1HPhRlZdHyD4m6qUDxJlxEU0%2F2gUi4Rn1Rh6qt0mWGr1%2BI1UWin%2FjAPabw2QKt2%2BnVaGGM95qQ%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -444,6 +486,13 @@
    "posted_at": "2023-11-25T15:55:11+00:00"
   },
   {
+   "title": "Boîtier de PC Gaming Châssis OMEN 32L",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOjzuHw1SCrtigZBW75h6%2BandTkGplb6U6m%2Ffj7nzMQ6Kr9SwOnCoJBG6pqFrY9elrccl8qlFr9bUbyxCjrQ106R8sJvcJVwhnT0EhMoy6cnv0%2FswCp%2F7LZp2RCJcsmS82iAFpGwXxh1dz%2FLSFA7Zjbk3d4SOoPPGnQdCrGhhKD5ag%3D%3D",
+   "posted_at": "2026-07-25T12:41:55+00:00"
+  },
+  {
    "title": "SteelSeries clavier gaming illuminé noir azerty  résistant à l’eau IP32",
    "price_raw": "23.35 EUR",
    "source": "ebay",
@@ -482,7 +531,7 @@
    "title": "MUSETEX Boîtier PC ATX Mid Tower K2, 7 Ventilateurs PWM ARGB, Double Verre",
    "price_raw": "132.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398390459504?_skw=boitier+pc&hash=item5cc1ebfc70:g:thwAAeSwFqxqpo80&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKJEkNRnj91db28b2jHWEcYA1kIgCEyne4xec7TpeszQE1mKpfDcXumlHrvwXnv40CIzF%2B8wsgjSlPFaj%2B41AnIXglnrCDG2DF5l6Eqf59SFXYr6qzD%2BXZTT97QwSzo8GESGE3ytgHwNt1IL%2F3UnNYkJJ%2BvCJn%2F%2BZsNrOhxX%2F155e5FFFs%2BcHJMueh4vLdpMJ7bUevoOaE85O905UYWH078ZYTbP9VDtie2lNud6Heb%2FjdvS4CwBmVCdquKlQWF%2B9p2jvsQBnWDXUMK4G7f%2FVKtEbo5NOE3DBkBU2WbW3HlA%3D%3D",
+   "url": "https://www.ebay.fr/itm/398390459504?_skw=boitier+pc&hash=item5cc1ebfc70:g:thwAAeSwFqxqpo80&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKJEkNRnj91db28b2jHWEcYA1kIgCEyne4xec7TpeszQE1mKpfDcXumlHrvwXnv40CIzF%2B8wsgjSlPFaj%2B41AnIXglnrCDG2DF5l6Eqf59SFXYr6qzD%2BXZTT97QwSzo8GERnIzBsc124nVi1TRAjtu%2FOFX85MGPJMQL0XqNSwovD67BBujYivp1O%2Bnf2PULksf4%2B1MZfCRIFhEFHs7PRbX1C63%2FaGQqjYvwOwIEJ%2Bo8Lvb8FowUmmMSB6Pf01DDp4SBV8EHHRhzzvZHD%2Bqzp%2Fd%2FWcbc3ISoJQGp5p3TTxhTw%3D%3D",
    "posted_at": "2026-09-13T11:55:41+00:00"
   },
   {
@@ -503,7 +552,7 @@
    "title": "ASUS  GeForce GTX 1650 OC Edition 4Go GDDR5 Carte Graphique...",
    "price_raw": "149.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm26tyUAklcdfHaXraw%2F6pyjolMV97jkCGUChlfebJrdBmIP2VwEzusJ7n44f63Pt%2BOwhvvsl5bvlxptj9CkZo4968%2FBD0tZN4h4HOxn%2BUnyasnbhTpeRFoe0ih%2F1bGoSgUN8dYZhtK0XfMUNDDlaUhzbwUONt6oT%2FNtiEbftShrw%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZm4bf3w9gb%2BHRC1F6tUSvKqxGTwPhv1zQ27HPVfDYLcTyplKeq2JZNq0zliZD8eZfny%2BC4P0Geq26%2FBMKChRCd3alLp51icYRrNC7WtvB6Y2Gmx1OzYrN6clfS2xHB7EVeY0Cbt8uSRbn5aUpFLGTVt8zEsz1iWMsVyhmHi06kPGw%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
@@ -512,59 +561,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/console-asus-rog-xbox-ally-fhd-ips-7-120-hz-ryzen-z2-a-16-go-lpddr5x-512-go-60-wh-3447115",
    "posted_at": "2026-11-05T15:08:39+00:00"
-  },
-  {
-   "title": "[Bundle] MicroCenter In-Store Only - 7700X3D + 32GB Corsair 6000MHz CL38 + B650 Gaming X AX V2 - $649.99",
-   "price_raw": "$649.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xolqzf/bundle_microcenter_instore_only_7700x3d_32gb/",
-   "posted_at": "2026-11-05T15:36:29+00:00"
-  },
-  {
-   "title": "PC Portable 15\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 1 To, Écran Liquid Retina, Caméra Center Stage 12 MP, Touch ID, Wi-Fi 7, Argent",
-   "price_raw": "1 723,27€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-3447104",
-   "posted_at": "2026-11-05T14:52:17+00:00"
-  },
-  {
-   "title": "Cartouche d'Imprimante HP 305",
-   "price_raw": "10,62€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/cartouche-hp-305-3447106",
-   "posted_at": "2026-11-05T14:53:34+00:00"
-  },
-  {
-   "title": "Ecran PC Lenovo L24-45 - Full HD, 144Hz, 1ms, FreeSync (Vendeur Darty)",
-   "price_raw": "89,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-lenovo-l24-45-full-hd-144hz-1ms-freesync-vendeur-darty-3447078",
-   "posted_at": "2026-11-05T14:26:58+00:00"
-  },
-  {
-   "title": "[Headphones]Cert. Refurb: Sony WH-1000XM5 Wireless Noise Canceling Headphones - F/S - $128 w/ code SAVE20TECH",
-   "price_raw": "$128",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xok4xg/headphonescert_refurb_sony_wh1000xm5_wireless/",
-   "posted_at": "2026-11-05T14:32:47+00:00"
-  },
-  {
-   "title": "Samsung 16 Go DDR5 SO-DIMM PC5-4800B 262 broches Non ECC M97596-001",
-   "price_raw": "141.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206677592023?_skw=ddr5&hash=item301ef1c7d7:g:JjYAAeSwumxq7I6g",
-   "posted_at": "2026-11-05T14:13:30+00:00"
-  },
-  {
-   "title": "Crucial M500 240 Go mSATA SATA III MLC CT240M500SSD3 Garantie : 2 ans",
-   "price_raw": "48.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800871021921?_skw=ssd&hash=itemba77a1fd61:g:uZQAAeSw8Ltq6cPT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kBwMpfLjmlOnVpLMBRbK5x8aJcJZfUUj08qBkgjoG4QgqePFDasImrqCHU34ZXVsGz%2FCQ0n4wAQVTuF2CNmZWzaw447K%2FSlfJwyCcHHkr79KJBOj5zvpxz1TVsFHBl9I19EB1edZmev%2ByPa9%2BrxK8KVSBDwohzj1RK7LRDIL33T%2BiKyo8kEApIURDOaBDq4yATtNDYDJ%2FO6uIWJ84Eycy2BBzej8%2FZ7SLUwNIIWsxI0TYFd7X7%2F2yW5rYF98rhySZui8oM3tCDGT9D7hk0BimG",
-   "posted_at": "2026-11-03T11:20:51+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 977,
+  "listings_seen": 985,
   "models_with_reference": 20
  }
 }
