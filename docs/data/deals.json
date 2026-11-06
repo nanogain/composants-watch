@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T11:38:00Z",
+ "generated_at": "2026-11-06T12:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-06T11:38:00.630805+00:00"
+   "last_ok": "2026-11-06T12:08:00.619684+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T11:38:00.630805+00:00"
+   "last_ok": "2026-11-06T12:08:00.619684+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 388,
-   "last_ok": "2026-11-06T11:38:00.630805+00:00"
+   "items": 389,
+   "last_ok": "2026-11-06T12:08:00.619684+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 38,
-   "last_ok": "2026-11-06T11:38:00.630805+00:00"
+   "items": 1,
+   "last_ok": "2026-11-06T12:08:00.619684+00:00"
   }
  },
  "watchlist": [
@@ -196,6 +196,13 @@
  ],
  "unclassified": [
   {
+   "title": "Souris sans fil Pulsar Xlite V4 eS Mini 8K Wireless",
+   "price_raw": "69,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pulsar-xlite-v4-es-mini-8k-wireless-3447683",
+   "posted_at": "2026-11-06T11:38:21+00:00"
+  },
+  {
    "title": "Mini PC CHUWI CoreBox 5e génération – Intel Core i5-12450H, 16 Go RAM",
    "price_raw": "337,05€",
    "source": "dealabs",
@@ -220,7 +227,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GzrxuwB9hB%2F3amSKkICDWG2e8E5gKNDHADgXi3nHUAre8x4ggZlnK2GAVmbcj5upvZ%2BjaZs5%2FqdX1zWSL%2FH5lgRtcn35dqvO%2F5t36DR8QiEETwrmyekRHRHdsKEm%2FTKZ9WIfRwr5YZ2E7iP4IK2WKAy",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GztnWPAfkCFtnp75CMBrgNdOGANGVjbmobfjwsvBIN2UARKFugLZJgz2pOmjOQJvWsDPHw7OdNkykU6FJRVXCzzulF0h1TzqzGIZ9CQFsXUf0HqMohXDk6ygiMZS8yHZzd6yjymukxrqjTkehojhj0I",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -420,13 +427,6 @@
    "posted_at": "2025-04-01T05:25:26+00:00"
   },
   {
-   "title": "carte graphique Nvidia Quadro K6000 12GB GDDR5 Workstation CAD",
-   "price_raw": "198.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137889234268?_skw=carte+graphique&hash=item201ad6bd5c:g:aPoAAeSwpEBquygT",
-   "posted_at": "2026-10-31T08:59:44+00:00"
-  },
-  {
    "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C36 - AMD EXPO - Noir",
    "price_raw": "477.86 EUR",
    "source": "ebay",
@@ -437,7 +437,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjOFCquWbUDFIdCy%2F1wITATJIZkRsBW%2BDzg1jrnKUJGLjvSe5mF1GqgAZ6NswOl6DPIK4NKf8pRhzaL2QSO5SUcw0thVZJVbwYPYGQjOGXTzPjl0G6BXVPOLXQmqNbn9EZ3Bh3do%2FIK6OFK2%2F1k6ZGCFCvR0V6VK5L6IsmaJ%2B1ryeQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjMzA7wjOEDUn1rKT6jjY2H6eyRzqSt3VmFxV0LJS%2BzSoBWoimGqEyUfEnfpmcvMa5QNdAQ5Ab8Eo2vKTGqLopEFPIgZLeUPwDYSdAEs9KuQAbjDR1ajSGPQjhW9LEqmddR8HQBk%2FSBiR%2BqdoIiI09U3crX2QOKiQunRZO1s5Hq6Kw%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -458,7 +458,7 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgxVX6ooGz2UZ9seSUucBLC4Wv0bQtMfDCeNoRuwxJBoKQOxeLHoo5GhKJX8KJ6IcbdqI7YoOzc1m1ywxLzkK1ko0txsdmd60zULQQwJent9j9YmfeL3sfAaAm5XC1FAq2imJZOD1g4NRa%2BOmDYfi5m1snfXIdIHbzj0TTmjzpZnQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfgKXaqaJRlWQkIBTsc%2BAt3mhFj4%2BZavxoaxes3Rpm%2BtqrUXXI4WPD6N8xjVA8VljOfiUR%2BspO03obRskf6rrlanAYEPyk2qXbjvrZPnsm4gpPB39mszDwcayAyiahk7xP62EUWifLDUe4stDx2NCPYh0wwEToiXtlYPXqkvcJG20Q%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
   },
   {
@@ -532,22 +532,22 @@
    "posted_at": "2023-11-25T15:55:11+00:00"
   },
   {
+   "title": "Boîtier de PC Gaming Châssis OMEN 32L",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147460711929?_skw=carte+m%C3%A8re&hash=item225557e5f9:g:DJYAAeSw95NpBioh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m6xnSlqhXx3QYeHjYPEWgicOOgbJ6A6hpcssuk1jRWoDDrsUPLknL%2BCXU63dSFVAbxjmB1bN%2FewWUapoUrA1PpypaL8%2BSMBvQ5IeOTzkYYo7kA4xK99fcFMY93eWNSBOgc52Lgsr45H424ZBOrEA6CgXABNr6KKckQG7b%2BaHR8cMlCTLG0nM6%2F1GZX5vQqDXzPoT6UGJm0KDxg%2FLuknJasef93rjgvJ9WDFC2uBzW%2BEcZoonmST3A1WHKD52jzV0G681zjlhcrxM5n%2BHH5gxZzl9S1jY2CslJi9kXLl6CIww%3D%3D",
+   "posted_at": "2026-07-25T12:41:55+00:00"
+  },
+  {
    "title": "SteelSeries clavier gaming illuminé noir azerty  résistant à l’eau IP32",
    "price_raw": "23.35 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147601142245?_skw=clavier&hash=item225db6b1e5:g:4DQAAeSwfc1quCF2",
    "posted_at": "2026-09-26T19:46:50+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech G Pro X Superlight 2 SE - noir (Via Coupon)",
-   "price_raw": "71,96€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-logitech-g-pro-x-superlight-2-se-noir-via-coupon-3447264",
-   "posted_at": "2026-11-05T18:59:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1004,
+  "listings_seen": 1007,
   "models_with_reference": 21
  }
 }
