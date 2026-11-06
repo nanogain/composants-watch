@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T16:08:00Z",
+ "generated_at": "2026-11-06T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-06T16:08:00.627885+00:00"
+   "items": 339,
+   "last_ok": "2026-11-06T16:38:00.673683+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T16:08:00.627885+00:00"
+   "last_ok": "2026-11-06T16:38:00.673683+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 399,
-   "last_ok": "2026-11-06T16:08:00.627885+00:00"
+   "items": 391,
+   "last_ok": "2026-11-06T16:38:00.673683+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 3,
-   "last_ok": "2026-11-06T16:08:00.627885+00:00"
+   "items": 80,
+   "last_ok": "2026-11-06T16:38:00.673683+00:00"
   }
  },
  "watchlist": [
@@ -92,21 +92,21 @@
    "posted_at": "2026-10-08T14:32:30+00:00"
   },
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
+   "title": "SSD 256GB Silicon Power A55 2.5\" SATA III 6.0Gbps",
+   "model": "SSD:SATA-256Go",
    "category": "SSD",
-   "condition": "new",
-   "price_eur": 99.99,
+   "condition": "used",
+   "price_eur": 29.0,
    "shipping_eur": 0.0,
-   "effective_eur": 99.99,
-   "median_eur": 214.99,
-   "discount_pct": 53.5,
+   "effective_eur": 29.0,
+   "median_eur": 53.0,
+   "discount_pct": 45.3,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "merchant": "eBay · go35700 (100,0 %, 84 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
+   "url": "https://www.ebay.fr/itm/267831212321?_skw=ssd&hash=item3e5bfbf921:g:aDkAAeSw1Y9q6MOS",
+   "posted_at": "2026-11-02T17:09:37+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -211,24 +211,38 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
-   "model": "SSD:SATA-1To",
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
    "category": "SSD",
    "condition": "new",
-   "price_eur": 49.99,
+   "price_eur": 169.99,
    "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 59.99,
-   "discount_pct": 16.7,
+   "effective_eur": 169.99,
+   "median_eur": 214.99,
+   "discount_pct": 20.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
-   "posted_at": "2024-01-03T08:24:17+00:00"
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 15,6\" Acer Aspire Lite 15 - Full HD IPS, Ryzen 5 3500U, RAM 8Go, 256Go SSD, 45 Wh, Sans OS",
+   "price_raw": "399,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-full-hd-ips-ryzen-5-3500u-ram-8go-256go-ssd-45-wh-sans-os-3447868",
+   "posted_at": "2026-11-06T16:09:35+00:00"
+  },
+  {
+   "title": "Carte graphique PNY GeForce GTX 1060 6GB GDDR5 PCIe GPU NVIDIA - Gaming",
+   "price_raw": "79.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377626663507?_skw=carte+graphique&hash=item57ec4d9a53:g:iToAAeSw6B5q7f03",
+   "posted_at": "2026-11-06T16:20:13+00:00"
+  },
   {
    "title": "PC Portable 15,6\" Acer Aspire Lite 15 - FHD IPS, Ryzen 7 5825U, 16 Go RAM, 512Go SSD, 58 Wh, W11",
    "price_raw": "549,99€",
@@ -263,13 +277,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147669199433?_skw=ddr4&hash=item2261c52a49:g:8m4AAeSw67hq7dYX",
    "posted_at": "2026-11-06T15:24:14+00:00"
-  },
-  {
-   "title": "Micron RAM 8 Go DDR4 SDRAM PC4-2666V SO-DIMM 260 broches MTA8ATF1G64HZ-2G6E1",
-   "price_raw": "29.81 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336883596405?_skw=ddr4&hash=item4e6fd3bc75:g:ie8AAeSw3YZq7fIT",
-   "posted_at": "2026-11-06T15:28:33+00:00"
   },
   {
    "title": "Lot de 2 barrettes de Ram Sodimm DDR5 2x16 GB Samsung (Occasion )",
@@ -384,18 +391,11 @@
    "posted_at": "2026-11-06T13:14:34+00:00"
   },
   {
-   "title": "Kingston 8Go DDR4 2400MHz SO-DIMM PC4-19200 RAM PC Portable",
-   "price_raw": "29.72 EUR",
+   "title": "Processeur Dual-Core Intel Pentium G3240 2X 3.10GHz Socket 1150",
+   "price_raw": "10.94 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860118914179?_skw=ddr4&hash=itemc843151483:g:tWcAAeSwcJNq7c-N",
-   "posted_at": "2026-11-06T13:04:49+00:00"
-  },
-  {
-   "title": "BARRETTE MEMOIRE RAM PC PORTABLE 8GO 8GB DDR4-2666V PC4-21333 PC4-21300 SODIMM",
-   "price_raw": "24.62 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820323865888?_skw=ddr4&hash=itembeff1cd520:g:jJsAAeSw-M1qo8M0",
-   "posted_at": "2026-11-06T12:25:41+00:00"
+   "url": "https://www.ebay.fr/itm/237167317741?_skw=processeur&hash=item37384612ed:g:1EoAAOSwO7hi1-1-",
+   "posted_at": "2026-11-06T12:27:58+00:00"
   },
   {
    "title": "Écran PC ordinateur - DELL E1910HC - LCD 19\" - VGA - 🇫🇷",
@@ -436,7 +436,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GwUYCHZ7i5LokD7OkJU5%2BR7QdNduLMs6NNwQHERnJKX04M%2BdgUq3Meg1fD6hXG93MgnxSP1BcaDXi0QXjuqxrVQ2Lf9T%2F%2BCKk5RbnmHfxRXh43F7J%2B73KAZK3qZmZWkRTKCEW26nT1XD64rc%2FihkzRG",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GxwfiQpt4tWdRXaY610RJAvi7tYgg3Y%2FZb5Ic1Gc81jlAure8bk0UJaKx7%2F3xeVd1E9bsre8AByMST%2F6AUvS0HJyU%2F9vxzKJ4KIx4pxvVir155R91JZpOAwWv37jdleIJ5sqOaDrZDGcq1ZQtpIWZTi",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -581,7 +581,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1076,
-  "models_with_reference": 23
+  "listings_seen": 1079,
+  "models_with_reference": 22
  }
 }
