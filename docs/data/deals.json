@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T15:38:00Z",
+ "generated_at": "2026-11-06T16:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-06T15:38:00.672650+00:00"
+   "last_ok": "2026-11-06T16:08:00.627885+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T15:38:00.672650+00:00"
+   "last_ok": "2026-11-06T16:08:00.627885+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 397,
-   "last_ok": "2026-11-06T15:38:00.672650+00:00"
+   "items": 399,
+   "last_ok": "2026-11-06T16:08:00.627885+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-06T15:38:00.672650+00:00"
+   "items": 3,
+   "last_ok": "2026-11-06T16:08:00.627885+00:00"
   }
  },
  "watchlist": [
@@ -160,23 +160,6 @@
    "posted_at": "2026-11-01T11:54:24+00:00"
   },
   {
-   "title": "ssd nvme  512go Kingston",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 54.99,
-   "shipping_eur": 5.0,
-   "effective_eur": 59.99,
-   "median_eur": 82.2,
-   "discount_pct": 27.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · caprisunhorse (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366747063740?_skw=ssd&hash=item5563d415bc:g:QrYAAeSwfW9q1zTk",
-   "posted_at": "2026-10-20T09:32:17+00:00"
-  },
-  {
    "title": "Disque SSD interne Netac NV3000 NVMe M.2 2280 - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -228,24 +211,52 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
    "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 59.99,
+   "discount_pct": 16.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
+   "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-03T08:24:17+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 15,6\" Acer Aspire Lite 15 - FHD IPS, Ryzen 7 5825U, 16 Go RAM, 512Go SSD, 58 Wh, W11",
+   "price_raw": "549,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-fhd-ips-ryzen-7-5825u-16-go-ram-512go-ssd-58-wh-w11-3447858",
+   "posted_at": "2026-11-06T15:44:35+00:00"
+  },
+  {
+   "title": "PC Portable 15.6\" - 8 Go RAM 256 Go SSD, Celeron N5095 (Vendeur Tiers)",
+   "price_raw": "309,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-156-pouces-pc-portable-3447820",
+   "posted_at": "2026-11-06T15:38:36+00:00"
+  },
+  {
+   "title": "SK hynix 16 Go (2x8 Go) DDR4 SO-DIMM PC4-3200AA 260 broches HMAA1GS6CJR6N-XN",
+   "price_raw": "49.58 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147669221718?_skw=ddr4&hash=item2261c58156:g:F50AAeSwXg1q7fPh",
+   "posted_at": "2026-11-06T15:41:08+00:00"
+  },
+  {
+   "title": "Carte mere asus maximus VII ranger socket Intel lga 1150 lga1150 H3 z97 Z87 h97 ",
+   "price_raw": "199.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/124382402677?_skw=carte+m%C3%A8re&hash=item1cf5c4d875:g:3tQAAOSwqUNk12fu",
+   "posted_at": "2020-10-13T10:48:45+00:00"
+  },
   {
    "title": "Kit 32Go (2x16Go) RAM DDR4 SO-DIMM Samsung 2666 MHz PC4-21300 portable",
    "price_raw": "109.90 EUR",
@@ -259,13 +270,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336883596405?_skw=ddr4&hash=item4e6fd3bc75:g:ie8AAeSw3YZq7fIT",
    "posted_at": "2026-11-06T15:28:33+00:00"
-  },
-  {
-   "title": "Samsung 8Go DDR4 SDRAM SO-DIMM PC4-2400T M471A1K43CB1-CRC",
-   "price_raw": "26.69 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336883593301?_skw=ddr4&hash=item4e6fd3b055:g:HHsAAeSw6khq7fFp",
-   "posted_at": "2026-11-06T15:25:47+00:00"
   },
   {
    "title": "Lot de 2 barrettes de Ram Sodimm DDR5 2x16 GB Samsung (Occasion )",
@@ -322,13 +326,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xpdtyi/gpu_gigabyte_gaming_radeon_rx_9070_gre_12gb_gddr6/",
    "posted_at": "2026-11-06T14:14:25+00:00"
-  },
-  {
-   "title": "Corsair VENGEANCE RGB DDR5 6000MT/s 16GB - GREY Mémoire pour PC DDR5 16 GB 2 x",
-   "price_raw": "441.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336831391885?_skw=ddr5&hash=item4e6cb7288d:g:TvMAAeSwjmNq0vq6",
-   "posted_at": "2026-10-06T15:00:42+00:00"
   },
   {
    "title": "[Adhérents] PC Portable 16\" MSI Raider 16 HX B2WI-016FR - QHD+ IPS, 240hz, Intel Core Ultra AI 9, RTX 5080, 32 Go RAM, 1 To SSD, W.11",
@@ -401,13 +398,6 @@
    "posted_at": "2026-11-06T12:25:41+00:00"
   },
   {
-   "title": "Carte mère ASUS P5W DH Deluxe LGA775 P4 3,2 GHz 1Go DDR2 IDE rétro",
-   "price_raw": "99.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257830024751?_skw=carte+m%C3%A8re&hash=item3c07ddf62f:g:PWsAAeSw9NBq6H2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLsdJ12A0XspeIBLA7Rw8wRLoV9jqs6o7FUsYbS8jF780U6KxN8QMQLz9gC2Tc7el9ewkc91LdtZzr5ei11fBgKg%2Bio693peAvKXz0QfWHqNKyD%2F8hROwk61vZdXNchTAuz8S8OwbVXSXi4dkcC5KdvKHZbqlPgyvR8bIPnX3qvyOyuzvOHiwjrRpVw4eSJbbk%2BHnlDk7Ep4OaMX3bvTinDmL0qSnSnc%2BmijJUAHBvYJ0xM8yjbvez9Zs3BheW80lIDwW9xwEZJv4x5sS1OCb%2FLJC%2BhKj6F5tSvYWCfalZRw%3D%3D",
-   "posted_at": "2026-11-02T12:16:32+00:00"
-  },
-  {
    "title": "Écran PC ordinateur - DELL E1910HC - LCD 19\" - VGA - 🇫🇷",
    "price_raw": "29.99 EUR",
    "source": "ebay",
@@ -446,7 +436,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GzERPUfiUbE583nibAfyyWpHct%2Bzm3BBSSUtNcc1JXVKOmu9hnv12hV87JHhFEmpD%2FA0qE3Tvp6hfLyE9uneM9ieq6hbkO1tYsBTMFoVxw%2F9aQcYu1Do6KdI5tG4mqqiCPYWBsCMN5xtpaKG8XyPy%2FS",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GwUYCHZ7i5LokD7OkJU5%2BR7QdNduLMs6NNwQHERnJKX04M%2BdgUq3Meg1fD6hXG93MgnxSP1BcaDXi0QXjuqxrVQ2Lf9T%2F%2BCKk5RbnmHfxRXh43F7J%2B73KAZK3qZmZWkRTKCEW26nT1XD64rc%2FihkzRG",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -588,17 +578,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xp5g8x/mousepad_cherry_xtrfy_gp5_gaming_mousepad_deskmat/",
    "posted_at": "2026-11-06T06:03:15+00:00"
-  },
-  {
-   "title": "Carte graphique NVIDIA GeForce4 MX 440-SE 64 Mo DDR AGP VGA S-Video ",
-   "price_raw": "10.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198755494415?_skw=carte+graphique&hash=item2e46c02a0f:g:shMAAeSwm6lq47R-",
-   "posted_at": "2026-10-29T21:05:05+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1069,
-  "models_with_reference": 22
+  "listings_seen": 1076,
+  "models_with_reference": 23
  }
 }
