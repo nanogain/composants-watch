@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-06T13:08:00Z",
+ "generated_at": "2026-11-06T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-06T13:08:00.674166+00:00"
+   "items": 339,
+   "last_ok": "2026-11-06T13:38:00.640501+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-06T13:08:00.674166+00:00"
+   "last_ok": "2026-11-06T13:38:00.640501+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 398,
-   "last_ok": "2026-11-06T13:08:00.674166+00:00"
+   "items": 396,
+   "last_ok": "2026-11-06T13:38:00.640501+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-06T13:08:00.674166+00:00"
+   "items": 7,
+   "last_ok": "2026-11-06T13:38:00.640501+00:00"
   }
  },
  "watchlist": [
@@ -75,21 +75,21 @@
    "posted_at": "2026-11-01T12:39:46+00:00"
   },
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 99.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 99.99,
-   "median_eur": 214.99,
-   "discount_pct": 53.5,
+   "title": "Lot 16 Go (2×8 Go) Crucial DDR4-2400 SODIMM PC4-19200 CL17",
+   "model": "RAM:DDR4-16Go-2400",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 36.06,
+   "shipping_eur": 3.0,
+   "effective_eur": 39.06,
+   "median_eur": 63.54,
+   "discount_pct": 38.5,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "merchant": "eBay · leshopdejode (99,5 %, 195 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
+   "url": "https://www.ebay.fr/itm/237167441241?_skw=ddr4&hash=item373847f559:g:xJ4AAeSwfyRq7dXa",
+   "posted_at": "2026-11-06T13:29:40+00:00"
   },
   {
    "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
@@ -109,6 +109,23 @@
    "posted_at": "2026-11-03T13:34:10+00:00"
   },
   {
+   "title": "ssd nvme  Wd western digital 512go",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 49.99,
+   "shipping_eur": 5.0,
+   "effective_eur": 54.99,
+   "median_eur": 82.2,
+   "discount_pct": 33.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · caprisunhorse (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366790055977?_skw=ssd&hash=item5566641829:g:fycAAeSwy6lq7b1Y",
+   "posted_at": "2026-11-06T11:44:50+00:00"
+  },
+  {
    "title": "SSD M2 NVMe Cusu 3500Q - 1 To (Gen3)",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -124,6 +141,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
    "posted_at": "2026-11-01T11:54:24+00:00"
+  },
+  {
+   "title": "ssd nvme  512go Kingston",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 54.99,
+   "shipping_eur": 5.0,
+   "effective_eur": 59.99,
+   "median_eur": 82.2,
+   "discount_pct": 27.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · caprisunhorse (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366747063740?_skw=ssd&hash=item5563d415bc:g:QrYAAeSwfW9q1zTk",
+   "posted_at": "2026-10-20T09:32:17+00:00"
   },
   {
    "title": "Samsung 500Go  ( MZ7LN500HMJP) SSD 850 EVO  2,5\" SATA III 6G 512 Mo",
@@ -192,43 +226,88 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 214.99,
+   "discount_pct": 20.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   }
  ],
  "unclassified": [
   {
+   "title": "Tablette 8,5\" Apple iPad Mini A20 Pro WiFi - 128 Go, Minuit",
+   "price_raw": "709€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ipad-mini-a20-128go-3447767",
+   "posted_at": "2026-11-06T13:34:28+00:00"
+  },
+  {
+   "title": "Organisateur d'Outils HBM - avec Support Moral & Alimentation Électrique",
+   "price_raw": "53,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/organisateur-doutils-sans-fil-hbm-avec-support-moral-et-alimentation-electrique-3447763",
+   "posted_at": "2026-11-06T13:29:47+00:00"
+  },
+  {
+   "title": "Reconditionné : PC Portable 13,3\" Dell Latitude 7320 - Intel Core i7 1185G7, Iris Xe, RAM 16 Go, SSD 512 Go, Windows 11 (Très Bon État)",
+   "price_raw": "399,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-reconditionne-dell-latitude-7320-i7-16go-3447758",
+   "posted_at": "2026-11-06T13:16:57+00:00"
+  },
+  {
+   "title": "Tablette 14\" Teclast T70Pro - RAM 8 Go, 128 Go, Origine CN",
+   "price_raw": "166,26€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-android-16-teclast-t70pro-avec-gemini-ai-3447756",
+   "posted_at": "2026-11-06T13:14:34+00:00"
+  },
+  {
+   "title": "Carte graphique NVIDIA NVS 310 PCI E x16 1 Go GDDR3 2x DisplayPort",
+   "price_raw": "16.15 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327434301033?_skw=carte+graphique&hash=item4c3c9aee69:g:G3UAAeSwVYlq56uc",
+   "posted_at": "2026-11-01T21:15:06+00:00"
+  },
+  {
+   "title": "Kingston 8Go DDR4 2400MHz SO-DIMM PC4-19200 RAM PC Portable",
+   "price_raw": "29.72 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860118914179?_skw=ddr4&hash=itemc843151483:g:tWcAAeSwcJNq7c-N",
+   "posted_at": "2026-11-06T13:04:49+00:00"
+  },
+  {
+   "title": "Ecran PC BenQ RD280U 28\" 3:2 4K+ USB-C 90W (Dev, Mac, Video) Boite",
+   "price_raw": "501.40 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257808295705?_skw=%C3%A9cran+pc&hash=item3c06926719:g:adwAAeSwEpVq13Ns",
+   "posted_at": "2026-10-20T14:06:54+00:00"
+  },
+  {
    "title": "PNY NVIDIA Quadro P4000 carte graphique VCQP4000 8g de ddr",
    "price_raw": "120.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198776611887?_skw=carte+graphique&hash=item2e4802642f:g:q6IAAeSw7odq6NlB&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEo83ZON1ozTnw7Oo2iYh5oCNKxCbwBZAPaSv6rEoKKJ99XE34mK3brEUmVodTXCIHYuOUcfSe0s0VmAyzyXNeGV4CVxPAd0wi7XmZ5k7ts3cWnPYA0BdVaRKqESMRCgEbQIzbsjcJ5KG0gMD6Ie%2FesMlhjeMvjc4Cx2OLg%2Bh%2BYDzGkT0qxhBwr8odplh38sKhcR5lQgpfUDw985tvOCzPaN1OFmkDdCeptOq5RqZCRFeXV5L6syfoOuAg0CpgB9FHrbJb8mz1algRWaUNmx9qZ7DnZXgo%2BkuJAJZeKyCzYg%3D%3D",
+   "url": "https://www.ebay.fr/itm/198776611887?_skw=carte+graphique&hash=item2e4802642f:g:q6IAAeSw7odq6NlB&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEo83ZON1ozTnw7Oo2iYh5oCNKxCbwBZAPaSv6rEoKKJ99XE34mK3brEUmVodTXCIHYuOUcfSe0s0VmAyzyXNeGV4CVxPAd0wi7XmZ5k7ts3cWnPYA0BdVaRKqESMRCgFhroEnR6YNwxGGHNH4d5u%2F7VIe%2FuB5thl5i%2BuVzZzuWJJvHTwe5XF60zaOYMyOb6yEUHGR4Cw2fvOvZigHTlwhfKmFJm4lAEb8GcAbkFTwbzS3zFUKEYk0hWT%2BnNPLwaw6ecuhdUjVGhjXbXcFWPt2qYkp6087F8U8J9wUOuvf%2Bg%3D%3D",
    "posted_at": "2026-11-06T06:54:57+00:00"
-  },
-  {
-   "title": "Kingston 16Go DDR4 2400TMHz SO-DIMM 2Rx8 PC4-2400T K821PJ-MIB",
-   "price_raw": "55.72 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860118891165?_skw=ddr4&hash=itemc84314ba9d:g:i3EAAeSwE9Zq7c14",
-   "posted_at": "2026-11-06T12:55:28+00:00"
-  },
-  {
-   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
-   "price_raw": "136.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvR%2Bhk5nwoYQpwBnpw952b8RgQTy31VcZsaUCEac0ZbHoiM9IDUSxx1ZdhLXEN20Q%2BLxYD9OjsMP%2BukGOdWQw2gp%2Fudz%2FBtTHi%2BzaW3%2FAov1Zb0dH05WkdxOzQkC9K6K6IkTEndDp3c9Et46MpqfiC1yGoirXU5A11ahMrxwxlO0fg%3D%3D",
-   "posted_at": "2026-10-14T07:28:32+00:00"
   },
   {
    "title": "FOIFKIN F300 Boîtier PC ATX Moyen Tour Verre Panoramique 7 Ventilateurs ARGB",
    "price_raw": "135.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336802983392?_skw=boitier+pc&hash=item4e6b05ade0:g:2lAAAeSwt3xqrzYI&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kQwX2aS0przGb5kAkI5sfSX2FdFcZCsiHah2c9osyur%2Bgk%2B3e3eKG6OcZi5jmZSlqXXNTDilXMNE41z7omEPBplD%2FANFFm%2FmAiSAIYIooHRJHv208SDMTGEKub82xv38MMU9Xl%2BQG%2FhJql6TW1J0q6z9w11LaAGxl30RyA6tXPSzKG9EbAvUeU420ESCHu2Er0rilhtfyhHnnw60n%2BRnthb3aJQ2xkHcKtOZbrg8QlJnfgRVmjdlgm3teMllP7s2ULTskxI%2BDqX9hX9u6gzti80pDQwhncKKKgfj6%2B4djHvA%3D%3D",
+   "url": "https://www.ebay.fr/itm/336802983392?_skw=boitier+pc&hash=item4e6b05ade0:g:2lAAAeSwt3xqrzYI&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kQwX2aS0przGb5kAkI5sfSX2FdFcZCsiHah2c9osyur%2Bgk%2B3e3eKG6OcZi5jmZSlqXXNTDilXMNE41z7omEPBplD%2FANFFm%2FmAiSAIYIooHRJHv208SDMTGEKub82xv38N84uSdKL4BXECL%2Bm%2BQlor7qYftzDUcIl4roH6AQHkrgot1RM3duugZrFj%2BrCM%2FbQRt%2BGlY%2BfUJW2GViDrjjezNRvN8imWI0EFO0YY7ZSxfDUN6UzJNejPKnlhNoo0aNi7c2Jk1YAhnlPFYzuufArRdmEicdcSaOeHmZW8kiG5jiQ%3D%3D",
    "posted_at": "2026-09-20T01:25:39+00:00"
-  },
-  {
-   "title": "Intel Xeon E7-8891V3 10x 2.80GHz Socle 2011 10 Core Processeur Max. 3.50GHz CPU",
-   "price_raw": "20.02 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237167317734?_skw=processeur&hash=item37384612e6:g:sKMAAOSwF05gkUrT",
-   "posted_at": "2026-11-06T12:27:58+00:00"
   },
   {
    "title": "Processeur Dual-Core Intel Pentium G3240 2X 3.10GHz Socket 1150",
@@ -236,13 +315,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237167317741?_skw=processeur&hash=item37384612ed:g:1EoAAOSwO7hi1-1-",
    "posted_at": "2026-11-06T12:27:58+00:00"
-  },
-  {
-   "title": "Processeur CPU Serveur Intel Xeon E5-1603 4X 2.80GHz Socket 2011 4 Cœurs",
-   "price_raw": "12.96 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237167317593?_skw=processeur&hash=item3738461259:g:qecAAOSwhdRgSiK2",
-   "posted_at": "2026-11-06T12:27:56+00:00"
   },
   {
    "title": "BARRETTE MEMOIRE RAM PC PORTABLE 8GO 8GB DDR4-2666V PC4-21333 PC4-21300 SODIMM",
@@ -255,7 +327,7 @@
    "title": "Carte mère ASUS P5W DH Deluxe LGA775 P4 3,2 GHz 1Go DDR2 IDE rétro",
    "price_raw": "99.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257830024751?_skw=carte+m%C3%A8re&hash=item3c07ddf62f:g:PWsAAeSw9NBq6H2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLsdJ12A0XspeIBLA7Rw8wRLoV9jqs6o7FUsYbS8jF780U6KxN8QMQLz9gC2Tc7el9ewkc91LdtZzr5ei11fBgKg%2Bio693peAvKXz0QfWHqNKyD%2F8hROwk61vZdXNchTD3cOv04Xh0qmquY5af5I8upA31o02qnhhrjBpVkcQn9%2BWXaaezzGwuLGd1fSsrxu619mE66tUlkxQHzM3pOQ5VdmqYEqkix%2BZZq%2FLucmhQbOjHfa9Ym%2FYPqHdMKuSxBNWO72LDISlo3lAiswssFs3I0yWFGa9JQlu8dRxJzDe8fQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/257830024751?_skw=carte+m%C3%A8re&hash=item3c07ddf62f:g:PWsAAeSw9NBq6H2v&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLsdJ12A0XspeIBLA7Rw8wRLoV9jqs6o7FUsYbS8jF780U6KxN8QMQLz9gC2Tc7el9ewkc91LdtZzr5ei11fBgKg%2Bio693peAvKXz0QfWHqNKyD%2F8hROwk61vZdXNchTBbkgMs9sx9Fri5x%2BsOWsJTHLscT695SqxZleIOFxCVWDDSc2JYyss0AINfRFSnQYtx2T3Wmf3QASh0a2QGadHTZykBYvYmyBrmWb0z8idC%2FdaFCzKdwEaFF6G5dCVVuMxYXRzPlszZ4V5%2FOiPRNP%2FuIGRyVjY44CKSkXXNAMgN4g%3D%3D",
    "posted_at": "2026-11-02T12:16:32+00:00"
   },
   {
@@ -297,7 +369,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GxeDYWhanHBp%2BOkZHGI9nTYSRszRqQDRTW4GsriC4JoAuxtf57%2BNn%2Bq6aqN%2BfyFK99aGi9GIIFqEOiVB6Iy717V91GguxSoWED%2F0zwWKsfSdBDaDRlAnOqrB5Y3YwPQl9A3okb1Pu%2Bf1%2FUB5pl8qZm5",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GzWZ60j2m9gN0UdtyF6HQDyg8RwuqyJHY%2FEcQFKwO2nYC5igxuyYV3ENWZiozOV0IvxtOiykBzOo4D6CgwmkKC0PnoUCeTMgxkg0QE3r09L4zIP%2BVhYjuceMHRv7Qx%2F8UvP03PWDoS20w1TKZgceZPB",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -369,13 +441,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860118335820?_skw=ddr4&hash=itemc8430c414c:g:IOIAAeSwSytqlCpD",
    "posted_at": "2026-11-06T09:00:07+00:00"
-  },
-  {
-   "title": "Samsung 16Go DDR4 2666MHz SO-DIMM PC4-2666V 2Rx8 RAM PC Portable",
-   "price_raw": "59.88 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860118330931?_skw=ddr4&hash=itemc8430c2e33:g:eL0AAeSwPGFqvlh7",
-   "posted_at": "2026-11-06T08:56:21+00:00"
   },
   {
    "title": "2-Power SSD7014A 256Go SSD NVMe M.2 2280 PCIe 3.0 x4 PC Portable / Desktop",
@@ -507,7 +572,7 @@
    "title": "🖥️ Thermaltake Soprano Boîtier ATX Gaming Rétro PC Modding Silent + Ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjNBfeezCd%2BTyvWmwIdk52qYupMiRzyrwdtHNque0GGKWVL1tRz2RGK37TN9TuRNikAjozDoXjav98Zn0EjCvEBTqy3DlexGYbcQGCtZnPhTJ6Y2T5juVBbOqdwh8hcT9oned22JY3pvIY98sGxgfvHkdINkmzy6BmroRerdmRgfFg%3D%3D",
+   "url": "https://www.ebay.fr/itm/287272058772?_skw=boitier+pc&hash=item42e2bfbf94:g:YtsAAeSw5rNpwmvd&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7liMsMVdXVrGEldPnG0pTamRjGhNQ2aRhsy2prnP7QcVoMQvOtQJwZNi55AjbmJCptDH8Rj5U%2FJeA8ucY47p%2BfMSY1B8XD1m%2BwQrmQaEJJLqsQNm1sKBG3m7IcuCJbhEjPx5WW%2FVnjlNKwzhFBEZfD%2FN%2B8%2Fl2LXtSxwI%2B083jNGJjn2fax1QTk1R9LXd75MFyr0wNRaRalnpd9T7%2FShnpYn59MSaUuhH06N0eLyApdNAaIo00FYuzrU1K5wSCSQTwHrUmewS7X10kCNIF5e0G2H6jojN5gldTmFNeBVFsl4%2Bg%3D%3D",
    "posted_at": "2026-04-14T13:46:44+00:00"
   },
   {
@@ -528,26 +593,12 @@
    "title": "ECRAN D'ORDINATEUR ACER + CABLES",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfhSj%2BFAAVXA73fnD5%2Bc8FG2bNElOImJstgdyx0B%2FHP11Lmux0z3Pd7o%2BwdnaNmKuZesVU3s5O3HYP6NCAYSjJkFjvYFjE%2BveLQ5y8ZF1XH6rV3hblSykmX9kzKhblhcPKTCqzWrlf7o9wqAtORsaeRdnkKQzZK8UF3PbcShwSDOkQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/307254881119?_skw=%C3%A9cran+pc&hash=item4789d16b5f:g:PfUAAeSwFx9qrp2r&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7loJmPscdbvZHiereBvTgDmgkpRBHXfuNtiiKqnvijekLJ%2FoXZ48qdw1YGfnSzrFFbcexSHnZWAKUBovEShWAUsLKab2TQ5FoEdUdLWHDroGrb65ejyhzsj9mKvIM6tKfjkelTO48GEZ48drBSrLkwWEMDgY%2BPRQ3wkdb%2BFCF1FDOYZHbZoqkz8se097Ml97Ma1drIBKSONIr%2FzC8Eqn%2BuViafImels4DcKAHaijploelDdsHG966aN84zAyXenLD%2F82vmDjBoGQbxs99xj0CxT3cQsB6Rt3kvzBOGXMkt1Ag%3D%3D",
    "posted_at": "2026-10-29T06:50:07+00:00"
-  },
-  {
-   "title": "Ecran PC Incurvé 49\" Samsung Odyssey G91F LS49FG910EUXEN - 5120 x 1440 (Vendeur Tiers Darty)",
-   "price_raw": "589,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-samsung-odyssey-g9-g91f-ls49fg910euxen-49-pouces-5120-x-1440-3447361",
-   "posted_at": "2026-11-05T22:36:59+00:00"
-  },
-  {
-   "title": "NAS Terramaster F2-425 - NAS à 2 baies, CPU Intel x86 Quad-Core, 4 Go de RAM, sans disque (Via Paiement Paypal)",
-   "price_raw": "195,69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nas-terramaster-f2-425-3447317",
-   "posted_at": "2026-11-05T21:49:09+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1022,
-  "models_with_reference": 22
+  "listings_seen": 1038,
+  "models_with_reference": 21
  }
 }
