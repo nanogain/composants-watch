@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-07T18:08:00Z",
+ "generated_at": "2026-11-07T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-07T18:08:00.623001+00:00"
+   "last_ok": "2026-11-07T18:38:00.673429+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-07T18:08:00.623001+00:00"
+   "last_ok": "2026-11-07T18:38:00.673429+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-07T18:08:00.623001+00:00"
+   "items": 378,
+   "last_ok": "2026-11-07T18:38:00.673429+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-07T18:08:00.623001+00:00"
+   "items": 78,
+   "last_ok": "2026-11-07T18:38:00.673429+00:00"
   }
  },
  "watchlist": [
@@ -92,23 +92,6 @@
    "posted_at": "2026-11-01T12:39:46+00:00"
   },
   {
-   "title": "KIOXIA SSD interne 256 Go M.2 SATA III modèle KBG40ZNS256G condition : Bonne",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 21.49,
-   "shipping_eur": 0.0,
-   "effective_eur": 21.49,
-   "median_eur": 42.4,
-   "discount_pct": 49.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · cabledvi (100,0 %, 591 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287635474567?_skw=ssd&hash=item42f8690887:g:Vm0AAeSwjQZqx6kb",
-   "posted_at": "2026-10-08T14:32:30+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BNyaUW48NtDdGMHju9cMJwhFho8sP7GaFYGI4QWKr9QEHexNafhYVRy1z396iK0yV6ioJhJ4hSIqlwxFaZ3Xtrs2n7et4XUCsGbsJIdgGUMv73eeVIr%2BeBykJ40YiTb%2FeV97%2BAnnxkFusq4f65X9JkH5TDG26sV2SP37e6BTAKCw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BOG0UEt%2FEZ0Mwoicdd5Ce%2BWSCZJZXwmx5S5bs%2FjL92i5MGqTryiERmLn4w0TMDlTWKyNi6Jc1ggSfhz7jqIB3rmgISFsLA3v%2Fkf4CEwou5GHzTN7nVVxU6kHDPf5QQFqNtrC8wTHwl6s%2F15JHe3m4XKDE8H2RlZYZ6CeN%2Bq2a6wA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JCYyP0VArqFH3AUuVToTkyqOKRtAbvbkMHBLCSmiF6ELuVCumgz%2F2sNcjcaUwRRGpP50%2B53e5UV6Yha5YSK%2Fgive%2BTmvxEWS87fqxGU7810XJHPYXX0EKYc3TkCLz9dHlOlWa%2FR%2FMoOhI5F%2FtBaD8NO",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JB9uDj9W3m8cBhL3OpGl6odAEqUq4SDRbINO6bujgoix2ExE19zhAMqeA46zbjOWkGK2q9Q6DVVAfbv2OF2aI9qmZFjZgwKN4iiLEh58K7W7HkqJHzZ98VtSD7ECbXDJqBqsSaLNKVLqzcTadIxU5jB",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -539,6 +522,13 @@
    "posted_at": "2026-11-05T23:09:18+00:00"
   },
   {
+   "title": "RAM 8 Go DDR4 SO-DIMM PC4-2133P 2400T 2666V PC portable (Reconditionné Grade A)",
+   "price_raw": "39.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366319876746?_skw=ddr4&hash=item554a5dba8a:g:aMwAAeSw7Ddqez6X",
+   "posted_at": "2026-04-01T13:32:52+00:00"
+  },
+  {
    "title": "Carte mère Biostar TB85 LGA1150 DDR3 6 PCIe + CPU + 4 Go",
    "price_raw": "42.30 EUR",
    "source": "ebay",
@@ -549,7 +539,7 @@
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p26J10r9w2SOkK1ciKUdXCiINd3bLovS6ZvnFaFid2ULDTlFPdo%2Ffq5MTZJZ8ytypr0aX%2B5n%2FsBGwBXQT4y%2BQYcnoWh5UHvKOhmVx7lEtY6CMfxE%2B35YzGrzHHxu7zNSqZCHc7j8y6QaGSWUCFQZbVFYgTxh2iTcgKdk0HjFzHUcg%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p2Dd3oDnACPFUV%2BAsB0whR8hCy4yuHAz306idKo3SOH%2F8SFGwIfHsp%2Bkky5oeeeSqFWmknDkPQTRzflRZNq%2FfF5DAx4806xsfPPgos96H1yyRhIiqC7HY6ywi1fY62GWodAZxwnEHptGthBOKrHUC19lpOmI7o5f43VyArM4kTcgQ%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -591,7 +581,7 @@
    "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoPw%2FUfsVPSotj5QBetc08k54bpQtVD%2F77a58%2Fj9eofXoyI4nsheddL%2FZZq9dKpi9x6d3fig7MCJdpLe9FIeuU9vslQx89VWeLU%2FmnFG5l43KYcyQMynmOVGU1Q%2FdaEE04QDBC6nn526NObxa9JvbhiXb80PINJi93ar5IHmpZoXvw%3D%3D",
+   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoOG%2FhhOBlmgU%2BDJE8893K9rVDlXiLxR4r3tc6lOc1jFHwI3a9gPMj%2FgTrT91uJt%2B%2B%2FIQ%2Ffu1iqqTjL09VmlTvgitfeVXeolLi28c3h2V6rwn0JrS3BYaatXxOYFTghuRIsV0jIKZI%2Fv2odEvHU7yKmUGfddnsp7Cp9JoH1WRiS7pg%3D%3D",
    "posted_at": "2026-10-25T09:10:49+00:00"
   },
   {
@@ -637,13 +627,6 @@
    "posted_at": "2026-11-06T20:08:50+00:00"
   },
   {
-   "title": "D by M.RED Force One DU-001 - Boîtier PC Mini Tour Micro-ATX sans alimentation",
-   "price_raw": "63.11 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307270267275?_skw=boitier+pc&hash=item478abc318b:g:Zl8AAeSwn5pq7jXl",
-   "posted_at": "2026-11-06T20:17:34+00:00"
-  },
-  {
    "title": "be quiet! PURE ROCK 3 LX | Ventirad mono tour, socket Intel et AMD, finition",
    "price_raw": "37.85 EUR",
    "source": "ebay",
@@ -666,7 +649,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1223,
-  "models_with_reference": 25
+  "listings_seen": 1224,
+  "models_with_reference": 26
  }
 }
