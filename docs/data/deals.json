@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-07T04:38:00Z",
+ "generated_at": "2026-11-07T05:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 341,
-   "last_ok": "2026-11-07T04:38:00.674328+00:00"
+   "last_ok": "2026-11-07T05:08:00.673606+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-07T04:38:00.674328+00:00"
+   "last_ok": "2026-11-07T05:08:00.673606+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 394,
-   "last_ok": "2026-11-07T04:38:00.674328+00:00"
+   "items": 397,
+   "last_ok": "2026-11-07T05:08:00.673606+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-07T04:38:00.674328+00:00"
+   "items": 80,
+   "last_ok": "2026-11-07T05:08:00.673606+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8iNZRKamKYxjHLRc1i7XDXQVlMPQwz04NnJ474oC2GA6ZY8UGAw8kry7bH9xxAbZIYpUZt5O3wg8TvadQsRpybxyEDgFef5daaDMQCYB%2FBf3wn843KNj%2Bn9vjWhI6KkFOXv5JELZEvHjLd1uzur6vBkbnqa1hgtLf6Lbav80OqFQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BY3zPzpw0%2F8FspCsSSM9Rt8Gqer2B1lL%2BykN7%2FEA3lqBGnBSWr5XgMITCIp2rSzSz1MCoH6s7szleW4vtjMdhC11l%2FwKAmsNor%2FbOD11kGI45ERXJNMKzS3H6iY2PT90HSZmWtWsxLTi1MYhHmUTgyA33XYhf0NlaDv7i%2BD2JAxg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -175,6 +175,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
    "posted_at": "2026-11-01T11:54:24+00:00"
+  },
+  {
+   "title": "ssd nvme  512go sk hynix",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 49.99,
+   "shipping_eur": 5.0,
+   "effective_eur": 54.99,
+   "median_eur": 79.78,
+   "discount_pct": 31.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · caprisunhorse (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366743375377?_skw=ssd&hash=item55639bce11:g:K48AAeSw1L1q1SE0",
+   "posted_at": "2026-10-18T19:43:25+00:00"
   },
   {
    "title": "Alimentation PC FSP Group FSP280-60PNA-I (PF) 280W ATX - Testée et dépoussiérée",
@@ -315,11 +332,32 @@
  ],
  "unclassified": [
   {
-   "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
-   "price_raw": "5.45 EUR",
+   "title": "RAM 8 Go DDR4 SO-DIMM PC4-2133P 2400T 2666V PC portable (Reconditionné Grade A)",
+   "price_raw": "39.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIIo9Gpzrvwe3KRWIHp9nbQasDzeA%2Ft%2BEA3AnMnq%2BY73hCGcOVrorlUMTG2i8x7hooLnSPqFzTwDQLy%2Bt77PAqZw6D208vbRZDy0%2FgwcclHixFjZdmUpXd2QQI%2B2yfi0%2BdtpAySA%2FzBZ%2FTtBrep%2BWoq9",
-   "posted_at": "2025-06-11T17:22:06+00:00"
+   "url": "https://www.ebay.fr/itm/366319876746?_skw=ddr4&hash=item554a5dba8a:g:aMwAAeSw7Ddqez6X",
+   "posted_at": "2026-04-01T13:32:52+00:00"
+  },
+  {
+   "title": "Carte mère Biostar TB85 LGA1150 DDR3 6 PCIe + CPU + 4 Go",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168805377502?_skw=carte+m%C3%A8re&hash=item274d95a5de:g:UZUAAeSwdNVq1r9t",
+   "posted_at": "2026-10-20T14:13:54+00:00"
+  },
+  {
+   "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
+   "price_raw": "64.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p3iGhMJvjuktGIA8q3b2qHyrdi2LGY5RopjxpXK2oKaevdNmp8rI0MVxrOQ8sFvmSGlOQ3tDW2AtsfK%2FCQMAcSHsfO6xLBC1dMAy0sY8Rwo7SfYuupZAT6ALphuqhEuTBiD6%2FP4NUVcvzmrqxsw53v4Ff2WyCGpucHzgn5oeWjSIQ%3D%3D",
+   "posted_at": "2026-10-15T18:00:37+00:00"
+  },
+  {
+   "title": "Mini clavier compact sans fil avec pavé tactile QWERTY rétroéclairage LED USB",
+   "price_raw": "12.43 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/306969461744?_skw=clavier&hash=item4778ce43f0:g:lE8AAeSwYzhqGT6u",
+   "posted_at": "2026-05-29T07:19:52+00:00"
   },
   {
    "title": "Processeur Intel Pentium Gold G5400 SR3X9 3.70GHz Socket 1151",
@@ -334,13 +372,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/126048683965?_skw=carte+m%C3%A8re&hash=item1d591647bd:g:bpAAAOSwuBNk1mb5",
    "posted_at": "2023-08-11T16:52:33+00:00"
-  },
-  {
-   "title": "iTek Origin Boîtier Tour Noir Rouge Pour Gaming PC Desktop Garantie",
-   "price_raw": "49.07 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198746415613?_skw=boitier+pc&hash=item2e4635a1fd:g:yngAAeSwRldqGY6o",
-   "posted_at": "2026-10-26T08:13:17+00:00"
   },
   {
    "title": "Clavier azerty sans fil ultra-mince pour iOS/Windows/Android/Smartphone / PC",
@@ -369,6 +400,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227602223182?_skw=ddr5&hash=item34fe26504e:g:O4YAAeSwOs5q7bml",
    "posted_at": "2026-11-07T02:52:38+00:00"
+  },
+  {
+   "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
+   "price_raw": "33.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoP1dqQiFANcoQwbMy%2FJHe4lfvBAFIqP5PzwK8CU%2BNeJ4NkMQYdQrruTOOL8gp4ii1M8EejD0m3h17CXNSeJ9z7zj1w2ww7EaSZwx5JgwxxzsEQo0%2FmhgXnylUGCe0pgB9rU1UjsT%2FU0cGq7i4EhoXgVSbAvEmg44s85XJbRWaTvdQ%3D%3D",
+   "posted_at": "2026-10-25T09:10:49+00:00"
   },
   {
    "title": "Mini PC NAS Aoostar WTR Max barebone - Ryzen 7 PRO 8845HS, 780M, 5 slots Nvme, 6 baies HDD, 2x 2,5 GbE, 2x 10 Gb SFP+, OCULINK",
@@ -441,13 +479,6 @@
    "posted_at": "2026-11-06T20:34:51+00:00"
   },
   {
-   "title": "Sk hynix 64gb DDR4 PC4 3200 Mhz SO-DIMM 2Rx8 260Pin HMAA4GS6AJR8N-XN Laptop Ram",
-   "price_raw": "311.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960163339306?_skw=ddr4&hash=itemdf8e31dc2a:g:4eEAAeSwHmRq7jNp",
-   "posted_at": "2026-11-06T20:07:46+00:00"
-  },
-  {
    "title": "D by M.RED Force One DU-001 - Boîtier PC Mini Tour Micro-ATX sans alimentation",
    "price_raw": "63.11 EUR",
    "source": "ebay",
@@ -486,14 +517,21 @@
    "title": "Carte Graphique ASUS GeForce GT 730 - Performances Fiables pour Professionnels",
    "price_raw": "167.97 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407345245673?_skw=carte+graphique&hash=item5ed7ab2de9:g:vcoAAeSwdjVq7izk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nr2WJOzapzWJ6XzBr1ZRquWS4A59P6zmpWDKStQUTtn2I%2B7mycWGxA0z4urcDppzmjYY%2BaLES0GdqK6RcvvBA6ICHMTVvC2U68kX1h8vap4foT91DdPujbv4D0DGlP04DCbosCt8LpeKck1aHCjFJxtrcQBHZ1j%2BLz%2BfFhoOeOisLGZCy0y1jO6NU473APo4imS12Pf3xNBGIUoHvRZSFP9GdlDQCyU%2BShT2n%2F4Tp8kOGemuJA%2BtJBXkZQEFkS4OwEK1dtSFPYvv%2FJ%2FChlQjZ3NUjfWR9KW%2B5G7Wdw9EnQQQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/407345245673?_skw=carte+graphique&hash=item5ed7ab2de9:g:vcoAAeSwdjVq7izk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nr2WJOzapzWJ6XzBr1ZRquWS4A59P6zmpWDKStQUTtn2I%2B7mycWGxA0z4urcDppzmjYY%2BaLES0GdqK6RcvvBA6ICHMTVvC2U68kX1h8vap4foT91DdPujbv4D0DGlP04ARmWT6GSML68ug9YVppNL5ForqR9H%2B7%2BERLJ%2B7af7wzIrXfW%2FvqaF3By5YbzJ3n2b8YRNDOLldQy8BCMBpl5V5IER%2FOHG%2BxROLdhQq8%2Fj8PCLnG71dVH4Hcjt%2BEq00qDEnIB1WU8CQgOGbCEblpbVuBmu%2Fvp8G1mzlE%2Fm1wy%2FxSA%3D%3D",
    "posted_at": "2026-11-06T19:43:04+00:00"
+  },
+  {
+   "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
+   "price_raw": "44.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/406785421479?_skw=ddr4&hash=item5eb64cf0a7:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mHbtYVnu9Cmd4SaKahkxs%2BKiirnWJ8J8nuQBACr59OeUqeghDfbZO58J%2BZivXRVd4nQODhc9AHKoBPBBYqlc0kfNqcfWOZ6OqR8niOc9K3w4OjJv01O9SbWwrETiKz4ZMWnYISWVKoMeTT5%2FRPDw4T3WVLisWLuZqQEY2qmoKG6nQ8l0vSIJc%2FN5Mk0E84uavCTZ5KMcdhFumuTOOMSosF9pJmlCGD4ntJEAqMu76hKA4Uv5QEgZb1rmmDLwpNzhg4B5PDvJsYeNAStpc8jgpA",
+   "posted_at": "2026-03-20T07:55:27+00:00"
   },
   {
    "title": "Carte Mère Apple System 820-0987-A PGA-288 SDRAM PCI PCI-X pour PowerMac G3",
    "price_raw": "47.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407317834699?_skw=carte+m%C3%A8re&hash=item5ed608ebcb:g:sUcAAeSwYAJq33ij&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrj6Xuib7uhQBV0KrMzJlmIwIw%2FQ0RctBoTmY2uUVQ84V%2Bv8vGUIlbHGKUwyEBvy3NgLtg0GbkIX00PvdLoTlmxd7%2FZV0Lt4l2uQ%2FWO%2FQiK26cmffYiAUabR3ygWwyrEJPjSNHgMKtOlh7FF%2F8%2Fs%2FEUP%2FIQ6DNwj94g8PT%2B2aDCe5xwzrT6zzvSwZCU1n5TcCOXhAEEUcIa2iQchvTAdRAf0n8%2BgV8wcJSNen5xxAQgOyolnHlc8gHc31pnrHszzTajxFqlWDx0azv7t1ALp%2BjdyT3mUZeeoBb5n2ajanGmA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407317834699?_skw=carte+m%C3%A8re&hash=item5ed608ebcb:g:sUcAAeSwYAJq33ij&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrj6Xuib7uhQBV0KrMzJlmIwIw%2FQ0RctBoTmY2uUVQ84V%2Bv8vGUIlbHGKUwyEBvy3NgLtg0GbkIX00PvdLoTlmxd7%2FZV0Lt4l2uQ%2FWO%2FQiK26cmffYiAUabR3ygWwyrELvEBo1J3dBbMmrnOrZ9MFbi4%2F7%2BSvMmGGAzHkdXh96%2Bok%2FMGe0gTxT6WN2FIaodjaxIkFkCOu53WGa4qnS1a894IHtZHyXsOy5UMW46SEdGAEOCdR%2F9x5gpd0BPUWkRpBomiFZPbHDiOtH1yV93EeyuANz32A5Xrn0SZY4qipabg%3D%3D",
    "posted_at": "2026-10-26T16:06:29+00:00"
   },
   {
@@ -642,31 +680,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xpeiyn/bundle_microcenter_in_store_amd_ryzen_5_5500f/",
    "posted_at": "2026-11-06T14:44:20+00:00"
-  },
-  {
-   "title": "Kit de 4 caméras EufyCam S330 (eufyCam 3) + HomeBase 3 - 4K, solaire, stockage local sans abonnement",
-   "price_raw": "436€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kit-de-4-cameras-eufycam-s330-eufycam-3-homebase-3-4k-solaire-stockage-local-sans-abonnement-3447799",
-   "posted_at": "2026-11-06T14:14:49+00:00"
-  },
-  {
-   "title": "[GPU] GIGABYTE Gaming Radeon RX 9070 GRE 12GB GDDR6 is $569.99 at Amazon",
-   "price_raw": "$569.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpdtyi/gpu_gigabyte_gaming_radeon_rx_9070_gre_12gb_gddr6/",
-   "posted_at": "2026-11-06T14:14:25+00:00"
-  },
-  {
-   "title": "[Adhérents] PC Portable 16\" MSI Raider 16 HX B2WI-016FR - QHD+ IPS, 240hz, Intel Core Ultra AI 9, RTX 5080, 32 Go RAM, 1 To SSD, W.11",
-   "price_raw": "2 699,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-16-msi-raider-16-hx-b2wi-016fr-qhd-ips-240hz-intel-core-ultra-ai-9-rtx-5080-32-go-ram-1-to-ssd-w11-3447792",
-   "posted_at": "2026-11-06T14:06:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1166,
+  "listings_seen": 1171,
   "models_with_reference": 26
  }
 }
