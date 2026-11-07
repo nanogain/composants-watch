@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-07T01:38:00Z",
+ "generated_at": "2026-11-07T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 342,
-   "last_ok": "2026-11-07T01:38:00.683249+00:00"
+   "last_ok": "2026-11-07T02:08:00.622402+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-07T01:38:00.683249+00:00"
+   "last_ok": "2026-11-07T02:08:00.622402+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-07T01:38:00.683249+00:00"
+   "items": 387,
+   "last_ok": "2026-11-07T02:08:00.622402+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-07T01:38:00.683249+00:00"
+   "items": 9,
+   "last_ok": "2026-11-07T02:08:00.622402+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BqwsO%2FDG9C5nzjM8gLZQiVLqTalRZmd1F7zY%2BtEob4lCWJdroZ2H6zdxGKCwKwZz%2BkFWvW1CbrIfy%2FgxKLJkdag%2FKmZdSAjLl0sGqacEghgCRm5BU302BOM5N%2BM2B%2FCcUcOhc2jD0V8Kei%2BCIwX%2BYwwvM1AD%2FdviP16ejIMiAZMw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9EroqGaEUtcve44vs28Hc81tRJr9JVDoaAkJgDOmZGPLyIFY9AgFSPNHGFWD13mzWKT4ayQeVs3s3qZiWjitILwY2bvHy%2B4WM3GZVnZwjC3wOxSu1LHyDFs0KIpwRWWA5%2FzjxrWupupARk2eNOuGohTfRCHeWEHZC%2FfteR%2BU0h1A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -281,6 +281,13 @@
  ],
  "unclassified": [
   {
+   "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
+   "price_raw": "33.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoO24GWxj2h29wD2Xi6yvyl%2FxcU9gmr%2BujKlP3uCYrHXdYcCNebUr4SKFw2Ir5UVFVZTYanBHEU7ueO%2BkofiIq2wWbEY1w3%2Ft8gk9%2BhImYRAxkEIAvjMBaRBe1DnKAC8ckNM2DNOoS57PvqA9nWkR%2FEb5aDVYYDQmi%2BZz85U%2Fhm2yg%3D%3D",
+   "posted_at": "2026-10-25T09:10:49+00:00"
+  },
+  {
    "title": "Mini PC NAS Aoostar WTR Max barebone - Ryzen 7 PRO 8845HS, 780M, 5 slots Nvme, 6 baies HDD, 2x 2,5 GbE, 2x 10 Gb SFP+, OCULINK",
    "price_raw": "558,69€",
    "source": "dealabs",
@@ -316,13 +323,6 @@
    "posted_at": "2026-11-06T22:52:48+00:00"
   },
   {
-   "title": "Carte graphique GIGABYTE GV-NX86T256H GeForce 8600 GT 256 Mo carte vidéo",
-   "price_raw": "16.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257722448076?_skw=carte+graphique&hash=item3c017478cc:g:v8YAAOSw43hnjOHX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ldrWXU5LAnYI1ocsZt5VYyD7SxMSwwAg2pbEq3AdBzFjNML6KzMMbMhPYYQOUZ6nJ9%2FOJKT%2B6IYzmYHw9b2kMBq3M7ACfboj3lvR974CM4heSDWfwFFA90jRUnqsYPmuHCLJglPEEu%2FMDajA8%2FhuPfVuFAQ72DPt6yhY05GxbINE2BKb1FpK%2FK33Hr1ZD1X%2BcImJk8jXw797WOSGTr5RtofysIRubO%2FsY4PwvmShSmJnNx3Z6bJTIW66Jez%2FX73rFzB7n2%2FG0HXjZe03vN6dga4BVK%2FD%2FocDJvXCDKY61wkA%3D%3D",
-   "posted_at": "2026-09-04T07:42:51+00:00"
-  },
-  {
    "title": "Mini PC Aoostar Maco sans SSD - Ryzen AI 9 HX 470, 890M, RAM 32 Go LPDDR5X-8000, Oculink, 2x 2,5 GbE, Wifi 7 & BT5.3, clé W11 Pro fournie",
    "price_raw": "948,26€",
    "source": "dealabs",
@@ -330,11 +330,11 @@
    "posted_at": "2026-11-06T20:38:05+00:00"
   },
   {
-   "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
-   "price_raw": "5.45 EUR",
+   "title": "MSI MAG 32CQ6F écran PC 32\" incurvé Rapid VA WQHD 180 Hz 0,5 ms HDR Gare dec2027",
+   "price_raw": "182.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaII2tRkYy3FnCXGd0WGG15QWUDVwo7m787acsTK0sFahMc6JlKU5eptsAOzB2QyzoBPUax991DmUzqQ3LXpt4faOOdOsIhE5FABItfkx7%2B%2FLmhVKTo8zhYpt4endksb%2BHyI1znpnNiDWG0PD9PPByOpg",
-   "posted_at": "2025-06-11T17:22:06+00:00"
+   "url": "https://www.ebay.fr/itm/137890007071?_skw=%C3%A9cran+pc&hash=item201ae2881f:g:kR4AAeSwYNlq5hws",
+   "posted_at": "2026-10-31T16:32:39+00:00"
   },
   {
    "title": "Portable 14\" Apple MacBook Pro - Puce M5 Pro, RAM 24 Go, SSD 1 To, Argent, CPU 15 cœurs et GPU 16 cœurs, AZERTY",
@@ -431,7 +431,7 @@
    "title": "Carte Mère Apple System 820-0987-A PGA-288 SDRAM PCI PCI-X pour PowerMac G3",
    "price_raw": "47.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407317834699?_skw=carte+m%C3%A8re&hash=item5ed608ebcb:g:sUcAAeSwYAJq33ij&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrj6Xuib7uhQBV0KrMzJlmIwIw%2FQ0RctBoTmY2uUVQ84V%2Bv8vGUIlbHGKUwyEBvy3NgLtg0GbkIX00PvdLoTlmxd7%2FZV0Lt4l2uQ%2FWO%2FQiK26cmffYiAUabR3ygWwyrEKpHS4ay6y33A82Wjvt4Kwn3UpocjzU1gynFlI7BM7rfgwnyrjQ1DgMStppYjdEoUW9IpCHeSWSGlbcm7iVCaatpu6eVIBB1alAZgr8%2BHFZiX7IqDK0B4DYN5s9ReDxh4HmQYHzaw3UlOb2lY%2BrMFjm7jWSRZLKc6w8lLD5zyx6Qw%3D%3D",
+   "url": "https://www.ebay.fr/itm/407317834699?_skw=carte+m%C3%A8re&hash=item5ed608ebcb:g:sUcAAeSwYAJq33ij&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrj6Xuib7uhQBV0KrMzJlmIwIw%2FQ0RctBoTmY2uUVQ84V%2Bv8vGUIlbHGKUwyEBvy3NgLtg0GbkIX00PvdLoTlmxd7%2FZV0Lt4l2uQ%2FWO%2FQiK26cmffYiAUabR3ygWwyrEKEKKgiMK2fafQ7nW4ckcDJGjGamPFWKD%2FLuKQ7hNRS18rC5sb7glbZ%2B5CQnj29CqiJhOFoY4p7B9EjX4rHhhpydnfZFEmGqmXBzBk5VHdFRi4nM%2F7ej%2FZXgHD4eTmxwZb6emCn%2BSBPH8EPoVB4SOuBPVzddF5lQ7IlQK1Dwhp8PA%3D%3D",
    "posted_at": "2026-10-26T16:06:29+00:00"
   },
   {
@@ -632,7 +632,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1151,
+  "listings_seen": 1152,
   "models_with_reference": 27
  }
 }
