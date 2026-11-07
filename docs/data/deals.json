@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-07T00:08:00Z",
+ "generated_at": "2026-11-07T00:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 342,
-   "last_ok": "2026-11-07T00:08:00.680947+00:00"
+   "last_ok": "2026-11-07T00:38:00.621847+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-07T00:08:00.680947+00:00"
+   "last_ok": "2026-11-07T00:38:00.621847+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 382,
-   "last_ok": "2026-11-07T00:08:00.680947+00:00"
+   "items": 383,
+   "last_ok": "2026-11-07T00:38:00.621847+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 37,
-   "last_ok": "2026-11-07T00:08:00.680947+00:00"
+   "items": 1,
+   "last_ok": "2026-11-07T00:38:00.621847+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9F0ZHSp0WEOnH%2FigQIawWk7PFdxWdL93ryXwnVZ8jXmOrk9tDo%2B3Tdf5riG9e93Abzei2g1TeBWjHScL91plF1OMc%2FqpMjCIwAF6US0PXAE7RoGvTI9DHtu8jboQ%2FaqiWRAecZuMLWlJI72jzc0gerffMU2OZsLta0uUE7VFBSRQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FG2SzJIEYVrYdoIFlmSH1cRWAxCCPC4R1jdH9cdCPyJQ5wPiPgnaMX%2FkUahwKA1Fl3iM8LApe19FGASyLcYkZ8gldgb2pTOMxmxUqXY%2FJ5id3%2FG6uinZO0%2B1%2FMC8ttVBwVA01slS7UMkJ0TsgngvcvAE%2BHGZEq47vxl1piOxhvoA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -177,23 +177,6 @@
    "posted_at": "2026-11-01T11:54:24+00:00"
   },
   {
-   "title": "ssd nvme  512go sk hynix",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 49.99,
-   "shipping_eur": 5.0,
-   "effective_eur": 54.99,
-   "median_eur": 79.78,
-   "discount_pct": 31.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · caprisunhorse (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366743375377?_skw=ssd&hash=item55639bce11:g:K48AAeSw1L1q1SE0",
-   "posted_at": "2026-10-18T19:43:25+00:00"
-  },
-  {
    "title": "Alimentation PC FSP Group FSP280-60PNA-I (PF) 280W ATX - Testée et dépoussiérée",
    "model": "PSU:280W",
    "category": "PSU",
@@ -226,6 +209,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-nv3000-nvme-m2-2280-1to-3444172",
    "posted_at": "2026-11-02T10:02:33+00:00"
+  },
+  {
+   "title": "ssd nvme  512go Kingston",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 54.99,
+   "shipping_eur": 5.0,
+   "effective_eur": 59.99,
+   "median_eur": 79.78,
+   "discount_pct": 24.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · caprisunhorse (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366747063740?_skw=ssd&hash=item5563d415bc:g:QrYAAeSwfW9q1zTk",
+   "posted_at": "2026-10-20T09:32:17+00:00"
   },
   {
    "title": "Samsung 840 PRO 128GB SATA3 SSD 761885-001",
@@ -281,6 +281,13 @@
  ],
  "unclassified": [
   {
+   "title": "Mini PC NAS Aoostar WTR Max barebone - Ryzen 7 PRO 8845HS, 780M, 5 slots Nvme, 6 baies HDD, 2x 2,5 GbE, 2x 10 Gb SFP+, OCULINK",
+   "price_raw": "558,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-nas-aoostar-wtr-max-barebone-ryzen-7-pro-8845hs-780m-5-slots-nvme-6-baies-hdd-2x-25-gbe-2x-10-gb-sfp-oculink-3448164",
+   "posted_at": "2026-11-07T00:24:58+00:00"
+  },
+  {
    "title": "[Mouse] Logitech - PRO X SUPERLIGHT Wireless Optical Gaming Mouse with HERO 25K Sensor - Wireless - Black - $64.99 (Save $75)",
    "price_raw": "$64.99",
    "source": "reddit",
@@ -316,11 +323,11 @@
    "posted_at": "2026-11-06T20:38:05+00:00"
   },
   {
-   "title": "MSI MAG 32CQ6F écran PC 32\" incurvé Rapid VA WQHD 180 Hz 0,5 ms HDR Gare dec2027",
-   "price_raw": "182.70 EUR",
+   "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
+   "price_raw": "5.45 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137890007071?_skw=%C3%A9cran+pc&hash=item201ae2881f:g:kR4AAeSwYNlq5hws",
-   "posted_at": "2026-10-31T16:32:39+00:00"
+   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIKWdiKDspdZ4hakImze6qXXabvw7j6fS1PL1zSLbG0LobuTpk6rWaZfx13Z%2FdhsO0qSjwhrRfGMf384UXrVtQmP27fhXi8VLpeoHrdy8RXzYXpiSLVvsCr2zszeW0AGxmra7qyg3ag8DP8teGuBGO7P",
+   "posted_at": "2025-06-11T17:22:06+00:00"
   },
   {
    "title": "Portable 14\" Apple MacBook Pro - Puce M5 Pro, RAM 24 Go, SSD 1 To, Argent, CPU 15 cœurs et GPU 16 cœurs, AZERTY",
@@ -417,14 +424,14 @@
    "title": "Carte Graphique ASUS GeForce GT 730 - Performances Fiables pour Professionnels",
    "price_raw": "167.97 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407345245673?_skw=carte+graphique&hash=item5ed7ab2de9:g:vcoAAeSwdjVq7izk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nr2WJOzapzWJ6XzBr1ZRquWS4A59P6zmpWDKStQUTtn2I%2B7mycWGxA0z4urcDppzmjYY%2BaLES0GdqK6RcvvBA6ICHMTVvC2U68kX1h8vap4foT91DdPujbv4D0DGlP04DjwxrtALQ1iXhAojxyB%2Bm6Hfd8MGaFdW%2Fc%2BSTfXdFN5TRa64j42JoHqYzY89UVXmy88oGXVg6foIhyXHcN%2Fgx06W6SclfHYgy%2Ffg98eQTs7fFsWY4EpL%2BBHwDbkF11p8gKiZghFn7vRSgFVmL7szwPpxLaLlSALc8fNvgu7E4%2BqA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407345245673?_skw=carte+graphique&hash=item5ed7ab2de9:g:vcoAAeSwdjVq7izk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nr2WJOzapzWJ6XzBr1ZRquWS4A59P6zmpWDKStQUTtn2I%2B7mycWGxA0z4urcDppzmjYY%2BaLES0GdqK6RcvvBA6ICHMTVvC2U68kX1h8vap4foT91DdPujbv4D0DGlP04AWthy5NulaflMiPczLORSdHb6I83Yss%2BoSniE5R9shB8zwCVtRseL54d7sg%2BsNRkVMlxjsB3FJAF7RMPjghRmbrXYfo4Rs%2Bb6mg0A98wt2%2B0Fdflf7f8tEfgGrNRlonQ2DLJ%2B1lNwE7xLu9A5jX9M1YzCcYA2U6dp1kjC47yb3aA%3D%3D",
    "posted_at": "2026-11-06T19:43:04+00:00"
   },
   {
    "title": "Carte Mère Apple System 820-0987-A PGA-288 SDRAM PCI PCI-X pour PowerMac G3",
    "price_raw": "47.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407317834699?_skw=carte+m%C3%A8re&hash=item5ed608ebcb:g:sUcAAeSwYAJq33ij&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrj6Xuib7uhQBV0KrMzJlmIwIw%2FQ0RctBoTmY2uUVQ84V%2Bv8vGUIlbHGKUwyEBvy3NgLtg0GbkIX00PvdLoTlmxd7%2FZV0Lt4l2uQ%2FWO%2FQiK26cmffYiAUabR3ygWwyrEKiJHeQJ%2BTuFRnhGbv3%2Bkiw34qaCVVMkG1fYux6zSCdZkSr4jUfYDCSjliU7gFBaxLkomo1l2R%2BGrpFT2%2Bb2bhi%2BPxY%2BeTnAXHp6xNy4eYYTC3CFoySin3W9gcwOS3ohnOMeh2LGTQJRJW3cxK1tJi97tQoTx0CsIsVkl7Uxap%2FEA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407317834699?_skw=carte+m%C3%A8re&hash=item5ed608ebcb:g:sUcAAeSwYAJq33ij&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrj6Xuib7uhQBV0KrMzJlmIwIw%2FQ0RctBoTmY2uUVQ84V%2Bv8vGUIlbHGKUwyEBvy3NgLtg0GbkIX00PvdLoTlmxd7%2FZV0Lt4l2uQ%2FWO%2FQiK26cmffYiAUabR3ygWwyrEIllyE9qeANAKYT4VcHc6LMLDl46A1s1WWYTWIvZp18mLowCY8CEp%2FTVwWv%2FiP9T%2FJPyuSrCj7F7gsXBEUpwTayLPqwMBy2KWRuen7ulk122x3rgT6zC%2Fje3q%2F8TViMPUL5YSWdqsSluXHm1aWAKFvSGUo%2BGzAXBnUo%2FLvQnLhJxw%3D%3D",
    "posted_at": "2026-10-26T16:06:29+00:00"
   },
   {
@@ -622,17 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-reconditionne-dell-latitude-7320-i7-16go-3447758",
    "posted_at": "2026-11-06T13:16:57+00:00"
-  },
-  {
-   "title": "Tablette 14\" Teclast T70Pro - RAM 8 Go, 128 Go, Origine CN",
-   "price_raw": "166,26€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-android-16-teclast-t70pro-avec-gemini-ai-3447756",
-   "posted_at": "2026-11-06T13:14:34+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1149,
+  "listings_seen": 1151,
   "models_with_reference": 27
  }
 }
