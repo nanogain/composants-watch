@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-07T03:08:00Z",
+ "generated_at": "2026-11-07T03:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 341,
-   "last_ok": "2026-11-07T03:08:00.646590+00:00"
+   "last_ok": "2026-11-07T03:38:00.626923+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-07T03:08:00.646590+00:00"
+   "last_ok": "2026-11-07T03:38:00.626923+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 390,
-   "last_ok": "2026-11-07T03:08:00.646590+00:00"
+   "items": 391,
+   "last_ok": "2026-11-07T03:38:00.626923+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-07T03:08:00.646590+00:00"
+   "items": 37,
+   "last_ok": "2026-11-07T03:38:00.626923+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-11-01T12:39:46+00:00"
   },
   {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 214.99,
+   "discount_pct": 53.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
    "title": "Disque SSD 128Go Samsung MZ-NTY1280 SSD SATA M.2 2280 -  MZ-NTY128HDHP / PM871a",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8BjAnz4yUwp44PwPriQKyVebxLpf1bMOPtGtwVxaKxn%2BZofp9xLrnR87KxD0%2F7YlrMQuiPz7BCFJallArYEyyzbiiR%2BZdmRdb5QBFnteMm%2BkH%2BaycjtD9JNPgjRrtrQGl9Cm%2FK6W%2BoXn2nOUk%2FRHkSbdIW7%2FZoJi3JNq%2FsK0T9xQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FSQg6fKuHMsBAP86kDFckVPIcpW56dQJBcHIb0IVAFyYIPundxd2osZLQRFlrXEKv7ur0xnuDObxqiRbNQ%2BM7r%2FTpv2MvCNCadxP6np21BD86ewzZQjS5I2r%2B2cwqk78xtO8rQuxABpjHXtLuGEOL%2FK93EwNnzMkS%2Bl0cG8t%2Bf1w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -262,23 +279,6 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 214.99,
-   "discount_pct": 20.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
    "model": "MB:B850",
    "category": "MB",
@@ -298,11 +298,25 @@
  ],
  "unclassified": [
   {
+   "title": "[Mouse] Pulsar - X2H eS Medium Wireless Gaming Mouse - $29.99 (129.99 - 100.00)",
+   "price_raw": "$29.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpw3d0/mouse_pulsar_x2h_es_medium_wireless_gaming_mouse/",
+   "posted_at": "2026-11-07T03:16:09+00:00"
+  },
+  {
    "title": "KINGSTON 8GB 6000MT/s DDR5 CL36 DIMM FURY Beast RGB EXPO",
    "price_raw": "385.25 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227602223182?_skw=ddr5&hash=item34fe26504e:g:O4YAAeSwOs5q7bml",
    "posted_at": "2026-11-07T02:52:38+00:00"
+  },
+  {
+   "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
+   "price_raw": "33.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoPGt5OaWSXxCC98rBDebQzyYruqdXr1kq9%2Bv%2FHBcALdveH%2BvrGVRIC6UWTKPMbGXUPVGKIsyA4gU06oSjQ%2FX3YZD4BVAnHHPRAyypDpZeobQOpkq%2BJ99td2z%2F6aWJicBppgnfE%2B%2FP8iev958R6uM3lZkWHPGNvrwPp%2BNmQ6Nx%2B9RA%3D%3D",
+   "posted_at": "2026-10-25T09:10:49+00:00"
   },
   {
    "title": "Mini PC NAS Aoostar WTR Max barebone - Ryzen 7 PRO 8845HS, 780M, 5 slots Nvme, 6 baies HDD, 2x 2,5 GbE, 2x 10 Gb SFP+, OCULINK",
@@ -340,11 +354,32 @@
    "posted_at": "2026-11-06T22:52:48+00:00"
   },
   {
+   "title": "Processeurs Intel Core i3 i5 i7 Xeon E5 – LGA 1150 1151 1155 – Plusieurs modèles",
+   "price_raw": "45.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377488237358?_skw=processeur&hash=item57e40d632e:g:cC4AAeSwf8pqo87r",
+   "posted_at": "2026-09-12T22:00:43+00:00"
+  },
+  {
+   "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
+   "price_raw": "5.45 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIKkIupv8NuK%2FIGS9aJgz6wIr1OPX3GhSk2vTNnYf55bFAelhWLzZ2xOFZg3ONSEmb6T53xkjLlVXGeq2TukrLF%2BzoKOdAQ7IUdw%2FZ8LQYdHnBpqI7x0Njg3vISs4AGvBCSLGBAV9rtMe3Jx9Qn6wyb4",
+   "posted_at": "2025-06-11T17:22:06+00:00"
+  },
+  {
    "title": "Mini PC Aoostar Maco sans SSD - Ryzen AI 9 HX 470, 890M, RAM 32 Go LPDDR5X-8000, Oculink, 2x 2,5 GbE, Wifi 7 & BT5.3, clé W11 Pro fournie",
    "price_raw": "948,26€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-aoostar-maco-sans-ssd-ryzen-ai-9-hx-470-890m-ram-32-go-lpddr5x-8000-oculink-2x-25-gbe-wifi-7-bt53-cle-w11-pro-fournie-3448060",
    "posted_at": "2026-11-06T20:38:05+00:00"
+  },
+  {
+   "title": "MSI MAG 32CQ6F écran PC 32\" incurvé Rapid VA WQHD 180 Hz 0,5 ms HDR Gare dec2027",
+   "price_raw": "182.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137890007071?_skw=%C3%A9cran+pc&hash=item201ae2881f:g:kR4AAeSwYNlq5hws",
+   "posted_at": "2026-10-31T16:32:39+00:00"
   },
   {
    "title": "Portable 14\" Apple MacBook Pro - Puce M5 Pro, RAM 24 Go, SSD 1 To, Argent, CPU 15 cœurs et GPU 16 cœurs, AZERTY",
@@ -424,17 +459,10 @@
    "posted_at": "2026-11-06T19:41:11+00:00"
   },
   {
-   "title": "Carte Graphique ASUS GeForce GT 730 - Performances Fiables pour Professionnels",
-   "price_raw": "167.97 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407345245673?_skw=carte+graphique&hash=item5ed7ab2de9:g:vcoAAeSwdjVq7izk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nr2WJOzapzWJ6XzBr1ZRquWS4A59P6zmpWDKStQUTtn2I%2B7mycWGxA0z4urcDppzmjYY%2BaLES0GdqK6RcvvBA6ICHMTVvC2U68kX1h8vap4foT91DdPujbv4D0DGlP04AZjGA4M8V39KRdg4l7qBCLBWr7opXqTgsxBTyuAcRnslGQF9E0wOVxHa18fjGAkBG5AV67WEkbqa4SSA8e1DoB5nC7JH1vaT4Eo0GWz3M%2F2sEw2rfYqeUTTONPHDy60Max3g26PAtARoaZdEg2B%2BAeSIrhbjKap60iLPPiEyBBxg%3D%3D",
-   "posted_at": "2026-11-06T19:43:04+00:00"
-  },
-  {
    "title": "Carte Mère Apple System 820-0987-A PGA-288 SDRAM PCI PCI-X pour PowerMac G3",
    "price_raw": "47.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407317834699?_skw=carte+m%C3%A8re&hash=item5ed608ebcb:g:sUcAAeSwYAJq33ij&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrj6Xuib7uhQBV0KrMzJlmIwIw%2FQ0RctBoTmY2uUVQ84V%2Bv8vGUIlbHGKUwyEBvy3NgLtg0GbkIX00PvdLoTlmxd7%2FZV0Lt4l2uQ%2FWO%2FQiK26cmffYiAUabR3ygWwyrEIOYVOU0cx4uTk8isjqyiTuz0zaQGUyOH%2BizRoC0quwDgaVVMZWNPoyUAhf8%2BUN1k%2F8RP38RARIWGev%2F9%2B3ZvrqS%2Fk4Cg31jnpNl%2Bzuxg4yUMb%2FhcI98Zfwo87%2BIYyYM0om0Nq34z%2FDkzWhBdlIbau9ySjRzEQwXWfT37igQu63fQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/407317834699?_skw=carte+m%C3%A8re&hash=item5ed608ebcb:g:sUcAAeSwYAJq33ij&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrj6Xuib7uhQBV0KrMzJlmIwIw%2FQ0RctBoTmY2uUVQ84V%2Bv8vGUIlbHGKUwyEBvy3NgLtg0GbkIX00PvdLoTlmxd7%2FZV0Lt4l2uQ%2FWO%2FQiK26cmffYiAUabR3ygWwyrEL%2FHxSH8iUDalQ4%2FY7CV%2BEB%2FgrLUL0FClyJweauqXoIUF2WKbN7bpAiNZMQO1Nl3CbsQYVqMa8Lo%2FmwZV8eHv2dr5oiPiKkzqZtUr6YWEEXrfdQEnViGNrTZ7uaKUyuSHF8i%2FYLUbw--84fK%2F142AFkPZy1L2SCe7e0HU1%2Bdk70Ww%3D%3D",
    "posted_at": "2026-10-26T16:06:29+00:00"
   },
   {
@@ -618,38 +646,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ipad-mini-a20-128go-3447767",
    "posted_at": "2026-11-06T13:34:28+00:00"
-  },
-  {
-   "title": "Organisateur d'Outils HBM - avec Support Moral & Alimentation Électrique",
-   "price_raw": "53,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/organisateur-doutils-sans-fil-hbm-avec-support-moral-et-alimentation-electrique-3447763",
-   "posted_at": "2026-11-06T13:29:47+00:00"
-  },
-  {
-   "title": "Reconditionné : PC Portable 13,3\" Dell Latitude 7320 - Intel Core i7 1185G7, Iris Xe, RAM 16 Go, SSD 512 Go, Windows 11 (Très Bon État)",
-   "price_raw": "399,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-reconditionne-dell-latitude-7320-i7-16go-3447758",
-   "posted_at": "2026-11-06T13:16:57+00:00"
-  },
-  {
-   "title": "Tablette 14\" Teclast T70Pro - RAM 8 Go, 128 Go, Origine CN",
-   "price_raw": "166,26€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-android-16-teclast-t70pro-avec-gemini-ai-3447756",
-   "posted_at": "2026-11-06T13:14:34+00:00"
-  },
-  {
-   "title": "Écran PC ordinateur - DELL E1910HC - LCD 19\" - VGA - 🇫🇷",
-   "price_raw": "29.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147205660369?_skw=%C3%A9cran+pc&hash=item2246241ed1:g:ZZYAAeSwciBptrk2",
-   "posted_at": "2026-03-15T13:51:32+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1154,
-  "models_with_reference": 27
+  "listings_seen": 1155,
+  "models_with_reference": 26
  }
 }
