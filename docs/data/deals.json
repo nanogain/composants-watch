@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-07T19:08:00Z",
+ "generated_at": "2026-11-07T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-07T19:08:00.676117+00:00"
+   "items": 338,
+   "last_ok": "2026-11-07T19:38:00.683866+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-07T19:08:00.676117+00:00"
+   "last_ok": "2026-11-07T19:38:00.683866+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-07T19:08:00.676117+00:00"
+   "items": 374,
+   "last_ok": "2026-11-07T19:38:00.683866+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-07T19:08:00.676117+00:00"
+   "items": 54,
+   "last_ok": "2026-11-07T19:38:00.683866+00:00"
   }
  },
  "watchlist": [
@@ -92,23 +92,6 @@
    "posted_at": "2026-11-01T12:39:46+00:00"
   },
   {
-   "title": "KIOXIA SSD interne 256 Go M.2 SATA III modèle KBG40ZNS256G condition : Bonne",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 21.49,
-   "shipping_eur": 0.0,
-   "effective_eur": 21.49,
-   "median_eur": 42.4,
-   "discount_pct": 49.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · cabledvi (100,0 %, 591 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287635474567?_skw=ssd&hash=item42f8690887:g:Vm0AAeSwjQZqx6kb",
-   "posted_at": "2026-10-08T14:32:30+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BPQXnPbD6%2BheTdYKUmjqOWBjmnQQItcsnzHH30fxf8veT6l6I5oDmlIfw6pAP58WcsOhfN9wab12jlrYwBffXcFw1LD6zf3DbiXZi6p6VcueCH8Evv8LRwvK7zweu3LC8ch7wrlHSPfqnRyXUFTwp7Z5hNirCOZTmYWFRe%2BE0jRA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9ynffUckKLvqvWgzW2XQyqQG2kdUhfHqRBFM108dUJZ9RcpXAk7pcCEThDEwyE%2B2cLtUAvUOnuyW4gP6pNXpq2wz3NgTZx1MfA%2BH%2BUaWcRhEW0RYbQdc8%2F4mg5Md0SpINF4Yj9ZWRlw4%2BpLsR2lgyeKGloz%2F0vQQvhmwPhzSIi4w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDv%2BMXTTnudlVjeOvdReEFJ%2FTvyPdoXuTFW4welw87kKhHji7Zxmh9g3%2BYVjCj157nen%2F4JSOL%2FMYOjQ8KvSLMnfrFCvtd7AV8Igzt4qvJ3wlEQ4XzxXBv4NXUgkuNj0YWQhtTfg8EKodda20nlDJ3N",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAzPtGq41zlP5FrqTnDqHWQ%2FIn9xyDVJE1WpT7aowGMKabVa1CuslRTNb%2BGIFve%2BcON1JSs1prWWxI85jDoRfJqAPdVuYIrygkdCAbBXEbWqKp8h28ISBH829IOWb5%2B4%2B8TNQxrSa2idVAYMF%2Bj0tyb",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -279,23 +262,6 @@
    "posted_at": "2026-10-31T16:18:49+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -314,6 +280,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[GPU] ASRock Challenger Arc A750 8GB 256-bit GDDR6 Graphics Card, CL SE 8GO w/Intel Holiday Bundle (Includes Total War: WARHAMMER 40k) - $209.99 (5% off)",
+   "price_raw": "$209.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqemx1/gpu_asrock_challenger_arc_a750_8gb_256bit_gddr6/",
+   "posted_at": "2026-11-07T19:25:45+00:00"
+  },
   {
    "title": "Pack HP Pavilion Gaming 400 + Souris Gaming 200",
    "price_raw": "24,90€",
@@ -465,7 +438,7 @@
    "title": "RAM Micron 16GB (2x8GB) DDR4 So-Dimm PC4-3200 original",
    "price_raw": "50.52 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307271247662?_skw=ddr4&hash=item478acb272e:g:Em0AAeSwF3Bq7wmW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lBTZa0kVMd7l0L3FReqMukhY9MHz%2Ff%2BeYLME1G%2BaG45pR3kX%2B6ufXxwMh3pn%2FBZ874KlRT82pbXVKGMmJV5qLkd2c4VrNwofkRkpC0ErPivizsnvMQ17GJC5VH%2BTtEXI%2FxsR%2BbYnrnJasqU%2FgPJITavKNI3FSIKgl1mP9SKMP67nhjQd9VoT4kYoHF%2BT%2FIksozBRmSE12jpcC%2BCy%2BAVY99B5NmZmDDG3GzDgplGM3yC6S9W7FRQT%2BOowpDDLjs%2Fg660O9XGv1Toh0H%2BXvP2Leh",
+   "url": "https://www.ebay.fr/itm/307271247662?_skw=ddr4&hash=item478acb272e:g:Em0AAeSwF3Bq7wmW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lBTZa0kVMd7l0L3FReqMukhY9MHz%2Ff%2BeYLME1G%2BaG45pR3kX%2B6ufXxwMh3pn%2FBZ874KlRT82pbXVKGMmJV5qLkd2c4VrNwofkRkpC0ErPivizsnvMQ17GJC5VH%2BTtEXI9moSANnaF1RGtYWB5FVthmUnouWchVdbN4lFxU72NZGVvts4OhbU66%2FV4IlBsFUhUotwlq37ADRN9Qn7p86741tjnD2A3b4Ob14nTdfmBQftbKG0wZE2F7NuxU2%2B%2BmqgHY%2B8%2FTss2fMyo2uZn%2BiK0u",
    "posted_at": "2026-11-07T11:21:44+00:00"
   },
   {
@@ -570,7 +543,7 @@
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p3w5eKG0pMZ5BSMAsFPY6mTZbak5zEKl2G4BgmrJ1v7boqwD06y6RY0byhQAmIMJNdCzMMD2E%2FW1EBSld9TJnvUkNfPPtgxeoEEKYIZF6maUa%2Flf5CFeQpgaEp3FAqWAySx6w2MxwSt7j1%2BhL1QFN7FrelyhVK9ZuXxqllrZO6qrA%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p189ZdVy3%2Fq3vJ4eT%2Fm%2BOvHh8viFGuvkyb80TJ0dMrYqY%2Beogj4RQD6Izl6vWMIU3SdmMivuMTMnp1u9Qe4pfBfRIm2OIx%2FBvwRM%2B5%2Bpeo%2B4E3DLRly%2FNYa%2BGQwADtGC%2FEt7sDp2f1A95RLHC6lyeecXyZGLiOx8qW2J2aDDtq5vg%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -612,7 +585,7 @@
    "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoMxYfWEwTjeNb%2Bcqgw750BtuFHrl5ATVYmm14vFGPTPQsg9NLYodEPxEFBDAZo4LR6pUxM%2FV1s0INq4VdOmRZMvWKvWKPUsnrrTvs6yHFgqM0yrEVwOMzmTS9LHMNuLRSUu95116yeB%2BYifxQrKQPx2ceI4VOB37tpI9kAOJflltg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoPy9ohPD46pjg863XWfGlAnmicsIs2ZDDmwNsU2vMsGpnhOBUAOQsK8TQ65%2Fs5ZU8s8BL%2FZD0EcSZRN54BbArBl5K4921k76C1YExhnDqiTRZsD9OZTwQs7ip5mO2aciwsER8e2E4zN%2FAOtYl%2BvMEP2LuG7KH%2Bg%2BdUhv31M5kdPLA%3D%3D",
    "posted_at": "2026-10-25T09:10:49+00:00"
   },
   {
@@ -656,17 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/razer-deathadder-essential-3448044",
    "posted_at": "2026-11-06T20:08:50+00:00"
-  },
-  {
-   "title": "D by M.RED Force One DU-001 - Boîtier PC Mini Tour Micro-ATX sans alimentation",
-   "price_raw": "63.11 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307270267275?_skw=boitier+pc&hash=item478abc318b:g:Zl8AAeSwn5pq7jXl",
-   "posted_at": "2026-11-06T20:17:34+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1230,
+  "listings_seen": 1232,
   "models_with_reference": 26
  }
 }
