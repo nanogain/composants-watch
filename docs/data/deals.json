@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-07T09:08:00Z",
+ "generated_at": "2026-11-07T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-07T09:08:00.687313+00:00"
+   "items": 339,
+   "last_ok": "2026-11-07T09:38:00.652302+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-07T09:08:00.687313+00:00"
+   "last_ok": "2026-11-07T09:38:00.652302+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 396,
-   "last_ok": "2026-11-07T09:08:00.687313+00:00"
+   "last_ok": "2026-11-07T09:38:00.652302+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-07T09:08:00.687313+00:00"
+   "items": 8,
+   "last_ok": "2026-11-07T09:38:00.652302+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8wamBz73qnws4yt%2BNEqcoGXfw2ZqENOy3D0Xi1G5YFw20h0eRAQ6YSASLz9FjqcS%2FWJsQS5UnW8jex0QpsRbAp9uvTu6TPD4niWowyefCC%2BI23MvDcLso2hDlJG3%2FNZqVOI6UytWdQXqCDEDSK1sIByNjUmcvQK0RSwe12tY7K5Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2F37t%2B8z%2Fe8zxTwcpiXM4x1yD7qF7PIxSSva9qrEEjgmFa9RXAkdm4oGvDMvjuMB9uG1aFKGo60eeU5sSHv%2FHDWuT5m%2FoI2QTyhQGQXTih3ZQC7UqhukO2yUhV07NS9XcqPO6ypPsU7bOszc90OSpOZi0EaMoMSVoLpH%2B5WlnXtFg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -222,7 +222,7 @@
    "discount_pct": 26.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · oscar1908 (100,0 %, 342 avis)",
+   "merchant": "eBay · oscar1908 (100,0 %, 343 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227597259493?_skw=alimentation+pc&hash=item34fdda92e5:g:3VYAAeSwAGdq6wQS",
    "posted_at": "2026-11-04T10:14:55+00:00"
@@ -328,9 +328,61 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 59.99,
+   "discount_pct": 16.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fik-8981 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 16.0\" ASUS Vivobook - 16 X1607CA Intel Core Ultra 9",
+   "price_raw": "799,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/asus-vivobook-16-x1607ca-3448328",
+   "posted_at": "2026-11-07T09:27:26+00:00"
+  },
+  {
+   "title": "Carte graphique MSI GT 640 1GB",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318840022888?_skw=carte+graphique&hash=item4a3c58a768:g:zmMAAeSwVqZqnwzz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n5gKCy1lSJf0LOVk4dtuGcocTjyE9kojbEbrNf3CKYoEq6FXxONyOmI1B2LK0UY41ooryr4oD%2BAkSbA5hPgbsgk6VsxkMC0%2F%2BmYIG%2BEgQ5PcAvxRwMUkpMDftHxT5GRWDgZuIftW3MPt28NlT80IEZZ8pD6lG2mVAKoVOJQD4AOb8l%2FhTJeb9xCPHneLGwHb54Z%2FpjNEZUIrD268cIs8zhbw0u4uXrVs2dUaKpjiqA%2BMKXOgTPweUk30xInTULD3XZkPKnRg9tVMisj7I188EEdt1bSpq44IOZQ76MR8nuTQ%3D%3D",
+   "posted_at": "2026-09-07T19:14:19+00:00"
+  },
+  {
+   "title": "SK hynix 8 Go DDR4 DIMM PC4-2400T 288 broches HMA81GU6AFR8N-UH",
+   "price_raw": "26.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168845400155?_skw=ddr4&hash=item274ff8585b:g:9LcAAeSwrEFq7u3m",
+   "posted_at": "2026-11-07T09:25:19+00:00"
+  },
+  {
+   "title": "Barrette Mémoire SK Hynix Ram Ecc Serveur 32go DDR4 - 32Gb 2Rx4 Pc4-2133P-RB0-10",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198212047286?_skw=ddr4&hash=item2e265bd1b6:g:sE4AAeSwOvZpvrs8",
+   "posted_at": "2026-03-21T15:38:05+00:00"
+  },
+  {
+   "title": "2Carte mère MacBook 12'' 2016 EMC2991 A1534(256 Go) +2015(512go)",
+   "price_raw": "120.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237169199587?_skw=carte+m%C3%A8re&hash=item373862c9e3:g:GOwAAeSwJVdp4Sas",
+   "posted_at": "2026-11-07T09:23:26+00:00"
+  },
   {
    "title": "Imprimante 3D Anycubic Kobra X",
    "price_raw": "264€",
@@ -409,6 +461,13 @@
    "posted_at": "2026-11-05T23:09:18+00:00"
   },
   {
+   "title": "RAM 8 Go DDR4 SO-DIMM PC4-2133P 2400T 2666V PC portable (Reconditionné Grade A)",
+   "price_raw": "39.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366319876746?_skw=ddr4&hash=item554a5dba8a:g:aMwAAeSw7Ddqez6X",
+   "posted_at": "2026-04-01T13:32:52+00:00"
+  },
+  {
    "title": "Carte mère Biostar TB85 LGA1150 DDR3 6 PCIe + CPU + 4 Go",
    "price_raw": "42.30 EUR",
    "source": "ebay",
@@ -419,7 +478,7 @@
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p1y4%2FJ6VMtH7PMmzFH67PX4TA7Ax6U4dG%2BLdNy%2FYDZ%2FqHcRyPLhbot8eqUvhUTyAM9pHfGFPZ9hnsFvxQH5bvRWAGWraWZgpEOoyYOBxdPTW7VQbb1EfHAARDQaCxhSSwSpgALFas3oBiQLBDxLdiZdobIz6bbUBz0uF0kEYHYTIQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p1g3o7e%2B9aK36NeBZKo%2BRujuIGp56ooCV9mbZQBOl%2FJ9r%2Fp%2FOSCqb9l8ELb7KbzhlnOLKe%2FyX8NLlE%2BlJMZQraKHzk70T2vbkZDCf5mtjNomPsjOyKVF7kTY%2FXGd62QVFxA9HlI5yDZI%2BzwPF6tdo%2Bj0W9smo140l%2F%2BCb9G6Th9Vg%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -454,7 +513,7 @@
    "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoMbKD1jrZvw44bsuxb%2BpbJfT2dQ5OOAjLM8%2BpJzVUAliAPbeaw3IfWfcyh3F2yoksaGiv5FasNGzg0GvDrPIgDSUPTsiRGGW%2FiIXdYxIRlfA3kuwOZkQuuNV2yDBFJGiXK9qgwzX%2BfS1fH%2FUOx6PHMA1wgRvNIqq5eNiXdF12q8Pg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoOo0MK7F668ljywyt0ZEwjVP1OiioyKcZ%2Ft2ty9Je6dr00fot9yfQ%2BnvkLKB8zaa5xm%2BwiWpOFPeIur1Bf9ilef3DSkWvOekSKgc2OPppArn2t9IZPWm%2BsOQlxCtahAIUvCq06ESwu%2BvJeK0D7fIuZJ74sEphCS2cmBJ71Ltdz11w%3D%3D",
    "posted_at": "2026-10-25T09:10:49+00:00"
   },
   {
@@ -470,13 +529,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xprv3g/mouse_logitech_pro_x_superlight_wireless_optical/",
    "posted_at": "2026-11-06T23:47:39+00:00"
-  },
-  {
-   "title": "SK hynix 8 Go DDR4 SDRAM PC4-2400T DIMM 288 broches",
-   "price_raw": "33.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128180018027?_skw=ddr4&hash=item1dd81fdb6b:g:no8AAeSwdpBq7mY~",
-   "posted_at": "2026-11-07T00:00:35+00:00"
   },
   {
    "title": "Alimentation PC Asus Prime - 750W, Bronze, White Edition, certifié 80 Plus Bronze, ATX Non modulaire, câble gainé gravé",
@@ -573,7 +625,7 @@
    "title": "Carte Graphique ASUS GeForce GT 730 - Performances Fiables pour Professionnels",
    "price_raw": "167.97 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407345245673?_skw=carte+graphique&hash=item5ed7ab2de9:g:vcoAAeSwdjVq7izk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nr2WJOzapzWJ6XzBr1ZRquWS4A59P6zmpWDKStQUTtn2I%2B7mycWGxA0z4urcDppzmjYY%2BaLES0GdqK6RcvvBA6ICHMTVvC2U68kX1h8vap4foT91DdPujbv4D0DGlP04DfGGUICWlMZRAfqaBYeKTA%2BZIv8Tc%2B2bFWIRxy396Z3BIhfDfD%2F9h1nQLqeuVNX%2BlAEAvYhUhio2duSHSi4WscwEDwH9Bq5yiQkGsqMxRtFlD%2BMlXXSEAEvUSGXAv%2FqotrE2drfHxWSkEDnlbqp9JF6SA1Ws%2BP%2Bk3GeUQD0LnvsQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/407345245673?_skw=carte+graphique&hash=item5ed7ab2de9:g:vcoAAeSwdjVq7izk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nr2WJOzapzWJ6XzBr1ZRquWS4A59P6zmpWDKStQUTtn2I%2B7mycWGxA0z4urcDppzmjYY%2BaLES0GdqK6RcvvBA6ICHMTVvC2U68kX1h8vap4foT91DdPujbv4D0DGlP04BL5hPXuLjR%2BdjtgV45OObIy5EbVmY0hW3JTxF5i9dV%2FTE5dSXS1Q9PVCqHPHQmlEVzi7EaUC5Alf0G4a5AJvhyyEMS0oloPV6E5IeD54OnOjcuG8RSSoave070J9nGD2YszrlzgoE1jNsJZ%2F6LmxYY19fEbDfgIvsrcj1PKRq7wQ%3D%3D",
    "posted_at": "2026-11-06T19:43:04+00:00"
   },
   {
@@ -645,45 +697,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/940071014388?_skw=carte+graphique&hash=itemdae0994ff4:g:R8cAAeSw8NRqmHMT",
    "posted_at": "2026-11-06T17:41:07+00:00"
-  },
-  {
-   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
-   "price_raw": "97,56€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ddr3-m2-2280-sata-de-128-go-wifi-5-bt-42-windows-11-pro-3447922",
-   "posted_at": "2026-11-06T17:07:41+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Acer Aspire Lite 15 - Full HD IPS, Ryzen 5 3500U, RAM 8Go, 256Go SSD, 45 Wh, Sans OS",
-   "price_raw": "399,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-full-hd-ips-ryzen-5-3500u-ram-8go-256go-ssd-45-wh-sans-os-3447868",
-   "posted_at": "2026-11-06T16:09:35+00:00"
-  },
-  {
-   "title": "Carte graphique PNY GeForce GTX 1060 6GB GDDR5 PCIe GPU NVIDIA - Gaming",
-   "price_raw": "79.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377626663507?_skw=carte+graphique&hash=item57ec4d9a53:g:iToAAeSw6B5q7f03",
-   "posted_at": "2026-11-06T16:20:13+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Acer Aspire Lite 15 - FHD IPS, Ryzen 7 5825U, 16 Go RAM, 512Go SSD, 58 Wh",
-   "price_raw": "549,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-fhd-ips-ryzen-7-5825u-16-go-ram-512go-ssd-58-wh-w11-3447858",
-   "posted_at": "2026-11-06T15:44:35+00:00"
-  },
-  {
-   "title": "PC Portable 15.6\" - 8 Go RAM 256 Go SSD, Celeron N5095 (Vendeur Tiers)",
-   "price_raw": "309,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-156-pouces-pc-portable-3447820",
-   "posted_at": "2026-11-06T15:38:36+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1183,
-  "models_with_reference": 26
+  "listings_seen": 1189,
+  "models_with_reference": 25
  }
 }
