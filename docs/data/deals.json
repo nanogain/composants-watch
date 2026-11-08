@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T17:08:00Z",
+ "generated_at": "2026-11-08T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-08T17:08:00.673118+00:00"
+   "last_ok": "2026-11-08T17:38:00.623182+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T17:08:00.673118+00:00"
+   "last_ok": "2026-11-08T17:38:00.623182+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 384,
-   "last_ok": "2026-11-08T17:08:00.673118+00:00"
+   "items": 380,
+   "last_ok": "2026-11-08T17:38:00.623182+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-08T17:08:00.673118+00:00"
+   "items": 0,
+   "last_ok": "2026-11-08T17:38:00.623182+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9pHQL4gekwiokuq%2BNhnEWV87NK6NSM%2F6s6J4YX5M%2FWl%2FXziYj5McB4s8uDMPY4bAjTyURLaljtkjH4sNVaFPiUJ3cjmgzflVFngwAF45QxtkBHOuiJYRyL72DKOp13G1DqltSBFTVN0AXTkz0gaDCsXfQozEsGbDAIdxcbMjcsDw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B91FKdnTUSs5LqIKsKDdpQebRYwwSnCPDOGh5A9Mq3lm%2BcmFzbXW2xgpozAYS1QEf48HTv6iA8%2F5nHdDrpE6YVsBz9mRja84keLP2HvXc0mp%2FxPh5iFGGjndAOPdR9neP16T2S1BWTWYdxrFZIAPY0CPneIuMI478aLQOXCYwNMwg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -107,6 +107,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
    "posted_at": "2026-11-03T13:34:10+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 259.99,
+   "discount_pct": 34.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -177,40 +194,6 @@
    "posted_at": "2026-11-08T11:46:07+00:00"
   },
   {
-   "title": "Crucial 16 Go DDR4-3200 SODIMM PC4-25600 CL22 – CT16G4SFRA32A",
-   "model": "RAM:DDR4-16Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 62.06,
-   "shipping_eur": 3.0,
-   "effective_eur": 65.06,
-   "median_eur": 80.44,
-   "discount_pct": 19.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · leshopdejode (99,5 %, 198 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237167415631?_skw=ddr4&hash=item373847914f:g:2rEAAeSwgyhq7dLX",
-   "posted_at": "2026-11-06T13:17:56+00:00"
-  },
-  {
-   "title": "+NEW+ HPE 1.92TB U.2 NVMe Gen3 SSD Hynix PE6011 HFS1T9GDUFEH P13678 2Y Warranty",
-   "model": "SSD:NVMe-92To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 749.0,
-   "shipping_eur": 20.0,
-   "effective_eur": 769.0,
-   "median_eur": 919.0,
-   "discount_pct": 16.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · interbolt_eu (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307272972602?_skw=ssd&hash=item478ae5793a:g:10QAAeSwy25q8KVa",
-   "posted_at": "2026-11-08T16:37:34+00:00"
-  },
-  {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -229,6 +212,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)",
+   "price_raw": "$109.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/",
+   "posted_at": "2026-11-08T17:08:45+00:00"
+  },
+  {
+   "title": "RAM SK Hynix 32Go DDR4 SO-DIMM 3200 MHz PC4-3200AA PC4-25600 PC portable",
+   "price_raw": "199.97 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147672037073?_skw=ddr4&hash=item2261f076d1:g:~FQAAeSwN4xq8Kxz",
+   "posted_at": "2026-11-08T17:11:55+00:00"
+  },
+  {
+   "title": "SK hynix 8 Go DDR4 SO-DIMM  PC4-3200AA HMA81GS6CJR8N-XN",
+   "price_raw": "29.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237171552627?_skw=ddr4&hash=item373886b173:g:WTsAAeSwk-Jq8K3F",
+   "posted_at": "2026-11-08T17:14:41+00:00"
+  },
+  {
+   "title": "Disque SSD de 500G 2.5\" - Samsung 860 EVO SATA",
+   "price_raw": "47.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227604349611?_skw=ssd&hash=item34fe46c2ab:g:CiQAAeSwRHlq8KuW",
+   "posted_at": "2026-11-08T17:08:36+00:00"
+  },
   {
    "title": "Reconditionné : PC Portable 13,3\" Dell Latitude 5320 - Full HD, i7 1185G7, 16 Go RAM, 256 Go SSD (État Correct)",
    "price_raw": "419€",
@@ -394,7 +405,7 @@
    "title": "Carte mere GIGABYTE GA-Z68XP-UD3 REV 1.3 Socket 1155",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9qtkdpOFNloPfqOzkDEWe3eDQ5doFEHtBbYhFkjUUaUNrfhWGHBmQ3jTQ7A2O5lPlaRf1UGEL%2BrjcHdJLuznJYm3S7zyM%2BTa6dQcQQgv3P%2FNWtduZeXrMHZq7wHXG0cewyKZ2QUNbhoFcPfyeDklVyGrknTtNd4lE486G2LAJBQBQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9rZha5owNmgbCKVEz1WueK%2FLZsV0k2b08eu3OO4k7NwF3j3XSM5pz%2Fj5uT9OLru1ZegZi%2FCVSQegT%2BOlglrNPixgmP2fT6K7Pm4QdhqCD3O6G2YmMU1I2p8Ac6rZWk4qbevaXmTGVjxvIoAVQ806N0Xi27SaVTm5eYam8us5jJ8zQ%3D%3D",
    "posted_at": "2025-10-27T17:41:36+00:00"
   },
   {
@@ -541,47 +552,19 @@
    "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
    "price_raw": "115.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK3nTrfP38okcLkoHMQzhzNuaoOgqByrud7nrH9yzbPF2rPwEsMLMZR2Av2q2i9VMX5oInA9suP2hwUEnspoNInJVF4vMrOD6J10Q6tSGQMG9luBMOGYg43492yQm3uqS%2BTaKg9mh1gVB0VXKaceHfTAZiQ1gFy5eTfd%2BATtI8ewcQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK0osR8P69a%2FjEO0XqNWe%2BlE4Mcz0PvngEj7xRiPGF%2F45PqG66yu3c9E%2FlqaOfUhCHYGZ%2BD4NpYbdp36oDm6E0wk6vQFbi7flA7zJlth7JwOjexAJm2Ls9UVdKka%2FVUyaavXijb4dXDpNuffy0UROTRU1jA0ecxsvC9bPa5xnZZUWQ%3D%3D",
    "posted_at": "2026-04-25T17:07:07+00:00"
   },
   {
    "title": "ASUS A88XM-A + AMD A8-7600 + 8 Go DDR3 – Kit Carte Mère Complet Testé",
    "price_raw": "103.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnbb5XS7ANradGkSYLys4f5HI0Vk%2FlsqcJlvcHTLGp8JlVPeoamJqBQV7TuR57O4%2BcQauhO3HeQ7rfAC8vgVPBfrqhyBWLIb3Mp0QnyfinMR8DjzKYZT0KqS1U2kCSiWUZM3b6l4OMVe16VdXC7FtHtxCnijxbRK69cB2LheV6i29Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnYlOJuDWZaB%2BVjrdFg0k5MvuDy6Vzys2CMJ0pSoK2xwVCh0UNrEHP%2B9DgvZaUXpM2qYLSqHddDQ42hxmi%2BDXDe6HozkXvh6wxLai8rTpSphbozDaHN7j2nxdVpkG9JIqJsm7wzHgYdrRKKqSoJPQSd%2FPeIo2NkXMkHNnMpw1WwmDg%3D%3D",
    "posted_at": "2026-07-12T09:46:19+00:00"
-  },
-  {
-   "title": "[Prebuilt] CyberPowerPC Gamer Supreme Gaming PC, Intel Core Ultra 7 265KF, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD, SLC10060CPGV16 - $2360",
-   "price_raw": "$2360",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqhv7u/prebuilt_cyberpowerpc_gamer_supreme_gaming_pc/",
-   "posted_at": "2026-11-07T21:48:38+00:00"
-  },
-  {
-   "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
-   "price_raw": "41.26 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOiCOY74p3Z7Ng6KbRAjG3ybWqGFQoRprJv26SeQEDR68GEPpE1kbZ3NT%2FPW9XTiY1UASVu03YTkLPasB2iUeQ%2BSoQ57cTfF%2FgmvP9ihsuE7YHGDLb7wKXyNpTmMLyHmEEMkj6nqIGjTBelxNBhc3a01",
-   "posted_at": "2025-08-20T09:46:12+00:00"
-  },
-  {
-   "title": "[GPU] ASRock Challenger Arc A750 8GB 256-bit GDDR6 Graphics Card, CL SE 8GO w/Intel Holiday Bundle (Includes Total War: WARHAMMER 40k) - $209.99 (5% off)",
-   "price_raw": "$209.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqemx1/gpu_asrock_challenger_arc_a750_8gb_256bit_gddr6/",
-   "posted_at": "2026-11-07T19:25:45+00:00"
-  },
-  {
-   "title": "Pack HP Pavilion Gaming 400 + Souris Gaming 200",
-   "price_raw": "24,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-hp-pavilion-gaming-400-souris-gaming-200-3448688",
-   "posted_at": "2026-11-07T19:04:28+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1341,
-  "models_with_reference": 25
+  "listings_seen": 1345,
+  "models_with_reference": 24
  }
 }
