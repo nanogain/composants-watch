@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T07:38:00Z",
+ "generated_at": "2026-11-08T08:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-08T07:38:00.688013+00:00"
+   "last_ok": "2026-11-08T08:08:00.627801+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T07:38:00.688013+00:00"
+   "last_ok": "2026-11-08T08:08:00.627801+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-08T07:38:00.688013+00:00"
+   "items": 384,
+   "last_ok": "2026-11-08T08:08:00.627801+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-08T07:38:00.688013+00:00"
+   "items": 4,
+   "last_ok": "2026-11-08T08:08:00.627801+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8iDPGd7QyDkQ2vNTo3eRT4U3JqgcM396KZM6xV4%2FD%2FktJ103mc2%2FbDVYYm7Kz9C07Sj9xQT4b3vI%2BJN1%2FynGkB18TV0T1dcoWvXZFL%2Bjra0XU9GalG7MyIWrP0%2B4Vrax8Swnf5w6v87i8zE5SoBsw6NiVTCgMTaFe078uAOto21w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BECyEuYfdFB34OV%2BbX0zkJXrM7CO4dUmvV%2FXTshASuip6lPANbxT%2B4bptlCrPbQkaNSvusnW55w6o6sq7kC80UFjgBlfY%2B8L%2BcIqB6b7Q57T2JMH7b8sJ1NzFd1YNDpqp8Gi%2FzoajzIMJY85BKXdHA3DShZzsvRT%2BZ8lXYI%2ByWnA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -262,23 +262,6 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -297,6 +280,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Processeur AMD 9800X3D",
+   "price_raw": "389€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3448873",
+   "posted_at": "2026-11-08T07:45:59+00:00"
+  },
   {
    "title": "Capuchons Touches clavier Pudding GLORIOUS Aura RGB- Plastique PBT, Rétroéclairage, AZERTY",
    "price_raw": "15,99€",
@@ -354,6 +344,13 @@
    "posted_at": "2026-10-03T12:36:35+00:00"
   },
   {
+   "title": "4GB DDR4 PC4-2666V 2Rx8 Micron/ SK Hynix  RAM Mémoire iMac Laptop SO-DIMM",
+   "price_raw": "20.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318311625238?_skw=ddr4&hash=item4a1cd9f216:g:kk4AAeSwYQVqj~CE",
+   "posted_at": "2026-05-16T10:02:49+00:00"
+  },
+  {
    "title": "Adaptateur pour alimentation labo avec alimentation PC type ATX",
    "price_raw": "21.39 EUR",
    "source": "ebay",
@@ -389,6 +386,13 @@
    "posted_at": "2026-02-17T11:26:51+00:00"
   },
   {
+   "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
+   "price_raw": "115.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK1Iyt8TguhZA3gC0QyzhisDpjmTd64%2BaJDDN3afJMWxMBOR2lKLd7gobvZZnuRVH%2B6gn4bUKGDcVP1EW%2BHC0BJ5dn5%2FxtuMgXpkrHotZJEmPJvLe0OglcNrAcruJWgIZXvCLMBa652F3o6e2A3WOsBXRZ3LifD96eWETwzHcfl%2BwA%3D%3D",
+   "posted_at": "2026-04-25T17:07:07+00:00"
+  },
+  {
    "title": "[Prebuilt] CyberPowerPC Gamer Supreme Gaming PC, Intel Core Ultra 7 265KF, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD, SLC10060CPGV16 - $2360",
    "price_raw": "$2360",
    "source": "reddit",
@@ -399,7 +403,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgzjzM7MO0bKOMikxqIsxIavA7rDB5gGy%2Bf2wnfk7YTBC%2BX51TXLfS0Ny0V%2B1DWPrUSjkrEZr0O7YFTOcPPre%2BjXTHy%2B8zVSpKmVDHv3x%2Fo%2FdPZBc4IEvvLjPoXcJZYN3Ac%2F5%2FhP035rLXTD8%2F4gw5C",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOg3NVUtgl1TesFuAP9uQUSCSWDkL2%2B5ZjS%2BYOrELAQibXrnQOe8%2BNGVfcrQrdbnP0ubDSoFGKE%2FpPg5LYUtSlAOiaKzb1l0Efxsu9LiRPUXU7%2FSBN5ne5B%2BpOYPJega9SwpZlWMiN1B1j9nN3pOP03m",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -625,31 +629,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xpznk0/prebuilt_cyberpowerpc_gamer_master_gaming_desktop/",
    "posted_at": "2026-11-07T06:35:08+00:00"
-  },
-  {
-   "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
-   "price_raw": "64.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p0B5x837GzLx6TglUwK%2B9BY8S5Qq0DsKkT7IbuK63OSX4kH4d9bvwA60O1gNX%2FZ2qqdYfdJUUcViawJGI7li9DVF26T7mI2cjwM2J5211ugDCPlUBKtX5vYpCM7kzKHFw%2BNk1v3Euzmj7XRf4LgoF0O0N119h6dd%2BTwbj%2FEgEDfOQ%3D%3D",
-   "posted_at": "2026-10-15T18:00:37+00:00"
-  },
-  {
-   "title": "Carte mere asus maximus IV EXTREME socket Intel lga 1155 lga1155 H2 z68 z77",
-   "price_raw": "199.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/126048683965?_skw=carte+m%C3%A8re&hash=item1d591647bd:g:bpAAAOSwuBNk1mb5",
-   "posted_at": "2023-08-11T16:52:33+00:00"
-  },
-  {
-   "title": "Clavier azerty sans fil ultra-mince pour iOS/Windows/Android/Smartphone / PC",
-   "price_raw": "29.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/285832820977?_skw=clavier&hash=item428cf6b8f1:g:OEcAAOSwAZJiZoS2",
-   "posted_at": "2024-04-27T07:11:37+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1280,
-  "models_with_reference": 25
+  "listings_seen": 1281,
+  "models_with_reference": 26
  }
 }
