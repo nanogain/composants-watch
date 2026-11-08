@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T21:38:00Z",
+ "generated_at": "2026-11-08T22:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-08T21:38:00.674906+00:00"
+   "items": 338,
+   "last_ok": "2026-11-08T22:08:00.620601+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T21:38:00.674906+00:00"
+   "last_ok": "2026-11-08T22:08:00.620601+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-08T21:38:00.674906+00:00"
+   "items": 370,
+   "last_ok": "2026-11-08T22:08:00.620601+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-08T21:38:00.674906+00:00"
+   "items": 2,
+   "last_ok": "2026-11-08T22:08:00.620601+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9EvUJ7uTf1c0w3V%2BKaSUyQ81Oqe5gFyXSfZpvVdZnli9Zw7n7ljQYXAXQ%2FWbz%2FdHT%2BTyHdaY%2FyVMpRj1dLphnGcxgQIgqLfO%2BCva4XWrZE%2BCecKjFsOXhYZylqxB6XNZG1Tqp8OjK7GHLKaVi%2FEYGV%2B8UwiCjcsxbLFVL8ZoW7Kw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9AbzDxjB%2BzocNbScZccWpp%2Ba8N78o%2BmlSOVT6jGpq6zKj0RPK3wZCcQjvx4vBLbtvVsKWHpqKD1svk0l06TB%2FoDGyHPTC3qzPWgR5mABs9MdDtf1XMrTxA%2Fug86H2HoFIzlwtci8YcDUfQoKkNqIHt%2BBGvcbSkHLvwED%2BWD6zIfA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -211,23 +211,6 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "SSD SATA 256Gb ADATA M.2 2280 Disque Dur ",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 24.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 24.99,
-   "median_eur": 31.8,
-   "discount_pct": 21.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · ppiteso_0 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860091711375?_skw=ssd&hash=itemc84175ff8f:g:xdIAAeSwBK9q4cIS",
-   "posted_at": "2026-10-28T09:43:56+00:00"
-  },
-  {
    "title": "Crucial 16 Go DDR4-3200 SODIMM PC4-25600 CL22 – CT16G4SFRA32A",
    "model": "RAM:DDR4-16Go-3200",
    "category": "RAM",
@@ -264,6 +247,62 @@
  ],
  "unclassified": [
   {
+   "title": "Souris gaming Razer BASILISK V3",
+   "price_raw": "49,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-razer-basilisk-v3-3449341",
+   "posted_at": "2026-11-08T21:37:44+00:00"
+  },
+  {
+   "title": "[Prime] Réduction de 10€ sur un sélection de clavier RII",
+   "price_raw": "10€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/codes-promo/reduction-de-10eur-sur-un-selection-de-clavier-rii-3449284",
+   "posted_at": "2026-11-08T19:30:57+00:00"
+  },
+  {
+   "title": "[Prebuilt] iBUYPOWER Gaming p PC Ryzen 5 8400F RTX 5060 8GB 16GB DDR5 1TB NVMe - $899.99",
+   "price_raw": "$899.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xragy5/prebuilt_ibuypower_gaming_p_pc_ryzen_5_8400f_rtx/",
+   "posted_at": "2026-11-08T22:04:05+00:00"
+  },
+  {
+   "title": "Ramaxel RAM 4 Go DDR4 SO-DIMM PC4-2666V 260 broches 1Rx16 100280746",
+   "price_raw": "13.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206685314836?_skw=ddr4&hash=item301f679f14:g:ni0AAeSw-mBq8PGt",
+   "posted_at": "2026-11-08T22:05:22+00:00"
+  },
+  {
+   "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches M471A5244BB0-CRC",
+   "price_raw": "12.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206685310429?_skw=ddr4&hash=item301f678ddd:g:zzQAAeSwZbdq8PBw",
+   "posted_at": "2026-11-08T22:00:26+00:00"
+  },
+  {
+   "title": "SK hynix RAM 4 Go DDR4 SO-DIMM PC4-2133P 260 broches HMA451S6AFR8N-TF",
+   "price_raw": "12.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206685308009?_skw=ddr4&hash=item301f678469:g:rF8AAeSwZJxq8O-1",
+   "posted_at": "2026-11-08T21:57:09+00:00"
+  },
+  {
+   "title": "SK hynix RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2666V 260 broches HMA851S6JJR6N-VK",
+   "price_raw": "13.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX",
+   "posted_at": "2026-11-08T22:02:54+00:00"
+  },
+  {
+   "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2133P 260 broches M471A5143EB0-CPB",
+   "price_raw": "12.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206685305015?_skw=ddr4&hash=item301f6778b7:g:GkwAAeSwX-1q8O6K",
+   "posted_at": "2026-11-08T21:52:32+00:00"
+  },
+  {
    "title": "Moniteur Gigabyte G34WQC2 34\" VA 200 Hz",
    "price_raw": "249,99€",
    "source": "dealabs",
@@ -278,31 +317,10 @@
    "posted_at": "2026-11-03T09:35:48+00:00"
   },
   {
-   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
-   "price_raw": "299.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
-   "posted_at": "2026-10-03T12:36:35+00:00"
-  },
-  {
-   "title": "Moniteur PC 1500R 23,6 pouces – Performance Full HD avec angles de vue larges",
-   "price_raw": "152.97 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407271569305?_skw=%C3%A9cran+pc&hash=item5ed346f799:g:uPEAAeSwpb1qxVEK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ky6bWVfj0puKtmdMlH514zqiF%2F5ni6yogaTnjPMprrWsiIIdCJmraLsIrxJMVYd%2BYZ%2F7dBYY5Tv0YgBzFNVrgo6Rf2tJszSBss9NiEDuUtBE%2FvbII8hXeGDQqcttGJSjI1ZToZ%2FiOVUMJ7wU7I1uvZjfVY2s92rNfu6hDbB3ls3zMKYe8EbDDv6iy0rGNkNdTk7nXBkJmtnjeoN3fGGGTDlyjDQd4nGjD7frwURvu7qTYs7%2Fuk40GHlw61LQLe9g2ofwISF8%2FbmVxd5kbBK54lI9GBdlLdsvAX3s15QfFTmA%3D%3D",
-   "posted_at": "2026-10-06T19:55:41+00:00"
-  },
-  {
-   "title": "Carte graphique MSI Radeon R7 370 GAMING 4G – 4 Go",
-   "price_raw": "54.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/397751345683?_skw=carte+graphique&hash=item5c9bd3e213:g:ZWsAAeSw7-tpwVby&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kgxCmnK5SPMm%2B9b51aDK1g6B0zVwgH7OX1FzhdXTtjDywWOrmxJARSFxshajCWbA13a7Q1fNS%2F2020rfUD3tszXHzscQ--Li9pkxr%2BxZbKgzl2IVCBQg8l7pes1nU5zS0qJ8DhdzeaTxfgO4qjeF1LKFTYwaFSe15UrguGDljF49SoH8xHV%2F7SuXy4Xv4TenYVAS1r4Rd%2Ft8akxog%2FkhM76eVr5IvJPqBYAE%2BjYLMTn8tNrO%2F5XqFXRetLOaIgY5tMbvMMtBG45Gz73ht%2BJJEnGyIqptZsmUrqZAeDkhP7lA%3D%3D",
-   "posted_at": "2026-03-23T15:12:01+00:00"
-  },
-  {
    "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
    "price_raw": "8.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIJLtelTk69D%2FA7pDFvSyWpCJXpd4nM0NWtsryPKtYOqMOgk862JcldVDDKSQUxwMp0Mqp2eS5ZmGMiF%2B--ZDJIS2TjpMsiR9Ji80y8fJt9pAU3rJkVqBFJS0avG7P3qQ5P9hD18PZwOQ6aI2cyI4sd5",
+   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIJ6fAYqf8sQ964XGjZ%2ByU0%2By4db0UO2D1GMAghcgZu2XORND5g17NXzcXJXP7%2BrRIqAwvbGSrcDWsOvW6z89jgYArBdemSR4DRUx2AHxCqzzQxfgFxGJODNh%2BzIfOhWnGDcRDk8zHXE9ms55ehRTTDs",
    "posted_at": "2025-06-11T17:22:06+00:00"
   },
   {
@@ -418,13 +436,6 @@
    "posted_at": "2026-11-08T17:08:45+00:00"
   },
   {
-   "title": "RAM SK Hynix 32Go DDR4 SO-DIMM 3200 MHz PC4-3200AA PC4-25600 PC portable",
-   "price_raw": "199.97 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147672037073?_skw=ddr4&hash=item2261f076d1:g:~FQAAeSwN4xq8Kxz",
-   "posted_at": "2026-11-08T17:11:55+00:00"
-  },
-  {
    "title": "Disque SSD de 500G 2.5\" - Samsung 860 EVO SATA",
    "price_raw": "47.50 EUR",
    "source": "ebay",
@@ -453,13 +464,6 @@
    "posted_at": "2026-11-08T16:39:45+00:00"
   },
   {
-   "title": "SK hynix 16 Go DDR4 DIMM PC4-3200AA 288 broches 1Rx8 HMAA2GS6CJR8N-",
-   "price_raw": "68.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147672024809?_skw=ddr4&hash=item2261f046e9:g:EmwAAeSwgyhq8KnE",
-   "posted_at": "2026-11-08T16:58:09+00:00"
-  },
-  {
    "title": "Écran PC 34\" Alienware Penta tandem AW3426DW - qd-oled",
    "price_raw": "689,84€",
    "source": "dealabs",
@@ -479,13 +483,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/820331596909?_skw=%C3%A9cran+pc&hash=itembeff92cc6d:g:8RQAAeSwtlFq8JCW",
    "posted_at": "2026-11-08T16:15:05+00:00"
-  },
-  {
-   "title": "Kit 32Go 2x16Go DDR4 SO-DIMM Samsung PC4-2400T PC4-19200 RAM portable",
-   "price_raw": "104.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147671963470?_skw=ddr4&hash=item2261ef574e:g:J1cAAeSwVHJq8Jdq",
-   "posted_at": "2026-11-08T15:42:48+00:00"
   },
   {
    "title": "MSI H61M-P20 (G3) MS-7788 Ver 1.0 carte mère microATX LGA1155 DDR3",
@@ -598,24 +595,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-apple-ipad-pro-13-pouces-2024-m4-wi-fi-5g-1-to-3448931",
    "posted_at": "2026-11-08T09:10:16+00:00"
-  },
-  {
-   "title": "Mars Gaming MCS1 Boîtier PC Gaming Compact MicroATX Éclairage ARGB 12 Mode",
-   "price_raw": "38.74 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132740371?_skw=boitier+pc&hash=item5a9a1e6713:g:q6oAAeSw0tFo-T2g",
-   "posted_at": "2025-10-23T04:12:50+00:00"
-  },
-  {
-   "title": "Routeur GL.iNet GL-BE3600( Slate 7) - Wi-Fi 7, Dual 2.5G Ports, Touch Screen, 3570Mbps",
-   "price_raw": "108,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/routeur-glinet-gl-be3600-slate-7-wi-fi-7-dual-25g-ports-touch-screen-3570mbps-3448926",
-   "posted_at": "2026-11-08T09:06:01+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1373,
+  "listings_seen": 1381,
   "models_with_reference": 27
  }
 }
