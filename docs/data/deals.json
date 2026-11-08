@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T18:08:00Z",
+ "generated_at": "2026-11-08T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 334,
-   "last_ok": "2026-11-08T18:08:00.658230+00:00"
+   "items": 335,
+   "last_ok": "2026-11-08T18:38:00.629051+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T18:08:00.658230+00:00"
+   "last_ok": "2026-11-08T18:38:00.629051+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-08T18:08:00.658230+00:00"
+   "items": 377,
+   "last_ok": "2026-11-08T18:38:00.629051+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-08T18:08:00.658230+00:00"
+   "last_ok": "2026-11-08T18:38:00.629051+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9IaLVamtA7GxNdm2Lzc%2BS%2BlT22p2x3vvWDwVr0EALujPdyEtW%2BJTwKrRZg4Srtm4H7UXbM7AONN9tNGMa8DR8TXWut62OKEvm%2BVbKIHTPHnVCmc1s%2Fjcsipbfzd6k0voFbnVh%2BOwAbMlTNj7cAOdRnvR%2Fxp3%2FkxK1RhwHUX0vpcQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8Ix9durmjsVAXYad5xX3mlwtZfRtUr9a2NwztEtaYn744QJzldrmPCgyKLZFnC0pjqjQgYsVj63qyX1YenxIicP10jDd16bRbnhOxZc4rHFULNKU7ciwLzBwYG%2BbuayhFuy6kA0CWaiOPPhLj4TG%2FU5LPpkWPEr3hNsDuR8DA7qQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -213,6 +213,20 @@
  ],
  "unclassified": [
   {
+   "title": "[Adhérent Fnac+] Pack Tablette tactile 13,1\" Samsung Galaxy Tab S10FE+",
+   "price_raw": "589,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-tablette-tactile-samsung-galaxy-tab-s10fe-3449238",
+   "posted_at": "2026-11-08T18:14:39+00:00"
+  },
+  {
+   "title": "[PSU] Thermaltake Toughpower GF3 1000W 80+ Gold, ATX 3.1, PCIe 5.1, Fully Modular, 12V-2x6, 10-Year Warranty is $94.71 at Amazon",
+   "price_raw": "$94.71",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/",
+   "posted_at": "2026-11-08T18:13:28+00:00"
+  },
+  {
    "title": "Kingston HyperX Fury DDR4 16 Go (2 x 8 Go) CL15 DIMM 288 broches PC fixe",
    "price_raw": "79.00 EUR",
    "source": "ebay",
@@ -232,13 +246,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147672037073?_skw=ddr4&hash=item2261f076d1:g:~FQAAeSwN4xq8Kxz",
    "posted_at": "2026-11-08T17:11:55+00:00"
-  },
-  {
-   "title": "SK hynix 8 Go DDR4 SO-DIMM  PC4-3200AA HMA81GS6CJR8N-XN",
-   "price_raw": "29.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237171552627?_skw=ddr4&hash=item373886b173:g:WTsAAeSwk-Jq8K3F",
-   "posted_at": "2026-11-08T17:14:41+00:00"
   },
   {
    "title": "Disque SSD de 500G 2.5\" - Samsung 860 EVO SATA",
@@ -351,6 +358,13 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xr04qt/micro_sd_pny_256gb_pro_elite_high_endurance/",
    "posted_at": "2026-11-08T14:49:46+00:00"
+  },
+  {
+   "title": "Intel Celeron G6900 Processeur (3,4 GHz, 2 Cœurs, LGA 1700) Box - BX80715G6900",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800772790471?_skw=processeur&hash=itemba71c718c7:g:tpIAAOSwWSti2RN7&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lMGZ3ksNZO4o6QP9NB3Ub183ZT%2Bxhs0Qrg03PeTm5W7%2BWJfE30MNzQMKNTeWDTC3tjljyW%2B9t3E4K0oecOW70R83MgoO%2F3AyvPQU7tPAasmnXwI1uWfrfeuZms1fo6q4ykXqj1ZfvztJoFgDtnCEKYmTVrNkTl8WzIxAJO5wl5x7%2BznsTABAihWUgq6TAsipN6H1jWNMq%2F3AGlspnfh5wdnlV3JOIuEnusoXRkXfKfbsAM5cSu86cjw%2FH4goZIYNNRgE%2BpRg3V3ohU8ch4%2BfxgfND9y%2FJJb8s3GGZws9vUHg%3D%3D",
+   "posted_at": "2026-10-08T17:50:15+00:00"
   },
   {
    "title": "Micron 8GB DDR5 SODIMM 5600MHz laptop RAM",
@@ -529,7 +543,7 @@
   },
   {
    "title": "Mars Gaming MCS1 Boîtier PC Gaming Compact MicroATX Éclairage ARGB 12 Mode",
-   "price_raw": "40.48 EUR",
+   "price_raw": "40.57 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/389132622436?_skw=boitier+pc&hash=item5a9a1c9a64:g:MRkAAeSw~o9o-Tsv",
    "posted_at": "2025-10-23T03:28:52+00:00"
@@ -547,24 +561,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/327005725899?_skw=ventirad&hash=item4c230f64cb:g:hu4AAeSwXMRplE~x",
    "posted_at": "2026-02-17T11:26:51+00:00"
-  },
-  {
-   "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
-   "price_raw": "115.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK01PDZUjh4nlUrzlbl4hfKG1F2KseC%2BaSR8xFp%2BcLDtjix%2Bx54ovi2gkPJuoAYhPFaFZo6M0BImR0UdmJ4OzSOuXGim81gpAzmI9vAHAvl4vCdbj1xMYbgQd4VdXjMVynFxo1S%2B1fbISwDQClVChluDWrwbWlwTUdQc5o2q7%2Fi4GQ%3D%3D",
-   "posted_at": "2026-04-25T17:07:07+00:00"
-  },
-  {
-   "title": "ASUS A88XM-A + AMD A8-7600 + 8 Go DDR3 – Kit Carte Mère Complet Testé",
-   "price_raw": "103.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnZHAmLYw3jaQGe91dVP84a9W9vbwJyQeAgaGww%2BV3eqxQ6vsEsMG8QKoYfYk0swszdXBg%2BMeFnUZdjSUoJmETcbPOvLXdzD8fBrvCi3eZBDL4%2FSgtfRpiRBaPAGE--N0TtTAg%2FEkxaYy2djeN8EpH8iJtylmEadkhV7TuHt%2FjrmuA%3D%3D",
-   "posted_at": "2026-07-12T09:46:19+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1351,
+  "listings_seen": 1352,
   "models_with_reference": 25
  }
 }
