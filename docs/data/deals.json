@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T20:38:00Z",
+ "generated_at": "2026-11-08T21:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 338,
-   "last_ok": "2026-11-08T20:38:00.619357+00:00"
+   "last_ok": "2026-11-08T21:08:00.685636+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T20:38:00.619357+00:00"
+   "last_ok": "2026-11-08T21:08:00.685636+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-08T20:38:00.619357+00:00"
+   "items": 371,
+   "last_ok": "2026-11-08T21:08:00.685636+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-08T20:38:00.619357+00:00"
+   "items": 80,
+   "last_ok": "2026-11-08T21:08:00.685636+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 99.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 99.99,
-   "median_eur": 259.99,
-   "discount_pct": 61.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FUVUCfUK4rqvZM%2FBZLuzZxO8sd8Zx0o0x0Hz9%2FNsEA%2FpO1DgplFyJRSAdmVplaulTkFA7g1ekgWt%2FhnwWyJXMWEMlnlIvYXmmB7YqZaAOR%2FCQvRXSCZHEp8f25b4AleqdXSIvS5Hb7zfaItZasV9Rm1ugDV3NurfgvYYvAETEJbg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FgmB24uNuf9%2BNGDytZNjtLPQz%2FTNGjuk9vWyWs5rt0zpM%2Bw8fnipOiQIlq4PnWPinB%2F2w9W3uX%2F5uZhsl00KPjUK3teUPaTi39kochbkQRVHcd%2FKK5rP1mjxs9ynnjYZa4CfNQxkBi20lvCcgJNRGZEgXT7rddCznbZBcJOQxDJQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -126,6 +109,23 @@
    "posted_at": "2026-11-03T13:34:10+00:00"
   },
   {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 259.99,
+   "discount_pct": 34.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
    "model": "MB:B850",
    "category": "MB",
@@ -141,6 +141,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
    "posted_at": "2026-11-06T12:36:05+00:00"
+  },
+  {
+   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 100.83,
+   "shipping_eur": 0.0,
+   "effective_eur": 100.83,
+   "median_eur": 149.99,
+   "discount_pct": 32.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-official-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
+   "posted_at": "2024-11-07T06:12:38+00:00"
   },
   {
    "title": "SSD de marque SANDISK de capacité 256Go modèle X600 M.2 format 2280",
@@ -230,6 +247,27 @@
  ],
  "unclassified": [
   {
+   "title": "Carte graphique MSI Radeon R7 370 GAMING 4G – 4 Go",
+   "price_raw": "54.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/397751345683?_skw=carte+graphique&hash=item5c9bd3e213:g:ZWsAAeSw7-tpwVby&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kgxCmnK5SPMm%2B9b51aDK1g6B0zVwgH7OX1FzhdXTtjDywWOrmxJARSFxshajCWbA13a7Q1fNS%2F2020rfUD3tszXHzscQ--Li9pkxr%2BxZbKgzl2IVCBQg8l7pes1nU5zS2AvGLw5lN%2BCvkdwuvHQDsLFo1h7d1669roH8SolvHxxl%2BJt634wwkVx1CUbJF6Nwm2h7EiQAyN%2FrH%2F96OIu2vC86%2BqWOFNcsenP3ycPXQzU9OIcRQsx7V%2BqO2epBAhuMVB3LD%2FHpGFH1Yj72Yo436cVhP08XoFupVghYHPiRcNCg%3D%3D",
+   "posted_at": "2026-03-23T15:12:01+00:00"
+  },
+  {
+   "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
+   "price_raw": "8.66 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIKyTIGUrwki0NAmJ3L6o87RC666OBXU6RN5GR9YP4d8jnB8qvbG%2BYY6aQepg4%2F8uCBN0sQvBiYgx22plgrhG8s5PopRm3UvkAU6o7a3OfDLTbQlkFfe76QH%2BRlr3TSaYEgWtRLgieLB39TMy1FIOjqI",
+   "posted_at": "2025-06-11T17:22:06+00:00"
+  },
+  {
+   "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-2666 HMA81GU6DJR8N-VK",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227604744964?_skw=ddr4&hash=item34fe4ccb04:g:E-0AAeSwU8Rq8N1b",
+   "posted_at": "2026-11-08T20:39:29+00:00"
+  },
+  {
    "title": "Reconditionné : PC Portable 13,3\" HP EliteBook 830 G8 - Full HD, i5 1145G7, 16 Go RAM, 256 Go SSD (État Correct)",
    "price_raw": "280,90€",
    "source": "dealabs",
@@ -291,13 +329,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xr7l6r/gpu_microcenter_instore_asrock_intel_arc_b580/",
    "posted_at": "2026-11-08T20:00:35+00:00"
-  },
-  {
-   "title": "Carte graphique SAPPHIRE Vapor-X HD4890 1Go gddr5 VGA DP HDMI DVI",
-   "price_raw": "24.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860125566061?_skw=carte+graphique&hash=itemc8437a946d:g:4JsAAeSwhRxq8NM3",
-   "posted_at": "2026-11-08T19:56:18+00:00"
   },
   {
    "title": "Reconditionné : PC Portable 16\" Apple MacBook Pro 2019 - Core i9, 32 Go RAM, 512 Go SSD",
@@ -382,6 +413,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147672024809?_skw=ddr4&hash=item2261f046e9:g:EmwAAeSwgyhq8KnE",
    "posted_at": "2026-11-08T16:58:09+00:00"
+  },
+  {
+   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM SK hynix PC4-3200AA 260 broches HMAA2GS6CJR8N",
+   "price_raw": "125.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147672018116?_skw=ddr4&hash=item2261f02cc4:g:0E8AAeSwBXNq8Kd7",
+   "posted_at": "2026-11-08T16:50:45+00:00"
   },
   {
    "title": "Écran PC 34\" Alienware Penta tandem AW3426DW - qd-oled",
@@ -496,13 +534,6 @@
    "posted_at": "2026-11-08T12:11:12+00:00"
   },
   {
-   "title": "Carte mere GIGABYTE GA-Z68XP-UD3 REV 1.3 Socket 1155",
-   "price_raw": "62.06 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9rYtJ2HFYlw4W3ISha4QxaxzqJgAoBiYMgbQXM%2FbXSupdKDj8e3b%2B78ryb4oPFFmAoLo8RQ%2FNeS1j1yM6VPpDI607IvO0EgUj32U4sYh8LOUG%2B1T5oYrlS2a%2FE%2Fg4Xg3PkX%2B4WgkMgYG7ReWQU3SAyme5Sh6cCz%2FmoyWSwsK0TIFA%3D%3D",
-   "posted_at": "2025-10-27T17:41:36+00:00"
-  },
-  {
    "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - FHD, Ryzen 3 30, RAM 16 Go, SSD 512 Go, clavier Azerty, sans OS",
    "price_raw": "449,99€",
    "source": "dealabs",
@@ -564,24 +595,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xqroi8/monitor_woot_samsung_27_ls27hg610snxza_odyssey/",
    "posted_at": "2026-11-08T06:22:24+00:00"
-  },
-  {
-   "title": "[Other] Amazon Basics 120W Fast Charging USB-C Nano GaN Wall Charger - $12.99",
-   "price_raw": "$12.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqrfaq/other_amazon_basics_120w_fast_charging_usbc_nano/",
-   "posted_at": "2026-11-08T06:06:29+00:00"
-  },
-  {
-   "title": "[Other] RESTOCK Amazon Basics High-Capacity Portable Charger Power Bank with 3-Port Output, 20,000 mAh, Black - $12.99",
-   "price_raw": "$12.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqre3j/other_restock_amazon_basics_highcapacity_portable/",
-   "posted_at": "2026-11-08T06:04:31+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1363,
+  "listings_seen": 1369,
   "models_with_reference": 27
  }
 }
