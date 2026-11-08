@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T05:08:00Z",
+ "generated_at": "2026-11-08T05:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-08T05:08:00.698884+00:00"
+   "last_ok": "2026-11-08T05:38:00.697866+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T05:08:00.698884+00:00"
+   "last_ok": "2026-11-08T05:38:00.697866+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-08T05:08:00.698884+00:00"
+   "items": 378,
+   "last_ok": "2026-11-08T05:38:00.697866+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-08T05:08:00.698884+00:00"
+   "items": 55,
+   "last_ok": "2026-11-08T05:38:00.697866+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9pkgtd%2FzuwTnOEwTXIEBhJ2UnSfeU%2BlDitHp9Qc8sp1KJedmtMvB72Mx5zzYUtoXAmKEpnP3gc%2FPpYzBpgIPBAxi2wVyovwWciHdGCLiNGOagOF9%2BT4mu--ZLMIXaX4xHerSPplbAydrLOOGh1pPFvUCRhPSAqPmFYwEHrbuHqfw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8tUQNRur9JP4p4HqPF050AAeiNaJ%2F2yU2G93JSuiGQXrJZe55ITmXvqSZnzULhD3yPeOJjU6ly3f9G3THTLo%2F%2B54KBDHHq1tsS%2FgrxTqKkMo%2FNJztSCWUkJgxKeGOmro683jGtHpCSD7nmvfIY3wzXfnvZcb6kWvFwPHdXUvozUQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -209,23 +209,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366743375377?_skw=ssd&hash=item55639bce11:g:K48AAeSw1L1q1SE0",
    "posted_at": "2026-10-18T19:43:25+00:00"
-  },
-  {
-   "title": "WDS500G2B0A WD Blue 3D NAND SSD Interne 2.5\" SATA 500 GB Go",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 45.0,
-   "shipping_eur": 2.9,
-   "effective_eur": 47.9,
-   "median_eur": 69.0,
-   "discount_pct": 30.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · night-2840 (98,8 %, 834 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860121388130?_skw=ssd&hash=itemc8433ad462:g:mOcAAeSw-UNq5D3S",
-   "posted_at": "2026-11-07T09:59:03+00:00"
   },
   {
    "title": "Disque SSD interne Netac NV3000 NVMe M.2 2280 - 1 To",
@@ -381,7 +364,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgp3Gqy%2B%2Bd9Ldv74jTh9L%2FCTit2IbdmXyhtrw7CC5dqadmWgBY%2F7vWcWeSzdFUmTzTQEb3Akpxo4UDy1p2lV%2FSe%2FUZ27yx1qC6kPkDYqB9qIYKq%2FDT%2Bh0%2BfvgpoSDsHoOZm59g2oCwaUT%2BZ8NHVO4OO",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgJF7XaeGr96R1NFEXNN1XTy%2B6Djm1XdniYZuhEIex1CR%2Bqc4nv%2FHtou6iIGqXUdcwsbyTUoFXYjsEyXsOoEqG%2FIxN94ay9VNNvfi4QMhZXPWqRXJovEm8Frx64NUBbp5ICLZVu85G4ahA5b7NEYXFn",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -612,7 +595,7 @@
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p34qOHLaM0yP4PKzgrg%2F4pixOa0x5crPCB1RwWHJrMCV%2F01BnZGQN306BPxwzvCanKghMn0jWCSIn8%2BcBCqQaL5Ds%2Fy0Mcazo9tloi29RNKQSTL%2BFQmN2vgjpFjLA%2FYTSbSywtKxgYJgXofIYZnHGA9C3pKggIyJxp5mkWzVCFBUg%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p2lpHWIzX%2F7bxLVpaqCXKrrGh1KSmtDcbRlv%2BCeA3QePEZOdRAtHT%2FuezVpHtq9rohv6Wq5sHs7ippecrz7YDerSCRCTZ7heKpvKIS576HJFYC%2FhhHqeF5iYLpad%2FHK37B3Obf2kSwqraiOMBlxeYrfWFTIcOj52t7hHmbs8AFH6A%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -647,7 +630,7 @@
    "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoM5OLDMmvI7fJX%2FOdL2AloKH1E29nFvd3rUfA0Nxom3yAkXmhF3HX9AutC8gvp3p7CAZEqP99hjIR7ZdCXqmCNb3Td%2FcFR1zHjxwbpdu%2Fvwb93a4mtdVQ1ApJuLAMD%2BmE%2F5gzDYk3h4U%2BxxwNC6IfnIg1zn5berxx%2BVhjwYvH%2Fkmg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoOjrjv8vTkBINcL8G2hy2ImYDf9YjkrAKN7nflG5r3j9Gz%2BfKqxVfD2aa3IXC1o06IX5qw92cZWZb0oTFpZ8dm6jcYKSmPQSieUczY6dle8Pkg%2FKWHoe5J3Hm0zvyEObAfuE3PuYi17Q%2Fvuc2k%2BBmguGp6Piurwj%2BTie0GckBf3Bg%3D%3D",
    "posted_at": "2026-10-25T09:10:49+00:00"
   },
   {
@@ -666,7 +649,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1275,
+  "listings_seen": 1274,
   "models_with_reference": 25
  }
 }
