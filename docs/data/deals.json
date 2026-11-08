@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T16:38:00Z",
+ "generated_at": "2026-11-08T17:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-08T16:38:00.687759+00:00"
+   "items": 339,
+   "last_ok": "2026-11-08T17:08:00.673118+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T16:38:00.687759+00:00"
+   "last_ok": "2026-11-08T17:08:00.673118+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-08T16:38:00.687759+00:00"
+   "items": 384,
+   "last_ok": "2026-11-08T17:08:00.673118+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 22,
-   "last_ok": "2026-11-08T16:38:00.687759+00:00"
+   "items": 2,
+   "last_ok": "2026-11-08T17:08:00.673118+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8lfHXT7kjNCsPgirniMtYtpYj6Rge5LiUBd%2BkxdxqV8apiEgzWy0wn5sKM4JTP%2FrV%2FrKRG4oP8X9MK7sYLt9ctlPBFWSBbRY6F24MCsQJZsXLAi36mHTGOxqNLmcQAiIWkxFX3Cc5yU55F4NEGLFa9l%2BXkO4GVPhI7g1oU0ewmPg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9pHQL4gekwiokuq%2BNhnEWV87NK6NSM%2F6s6J4YX5M%2FWl%2FXziYj5McB4s8uDMPY4bAjTyURLaljtkjH4sNVaFPiUJ3cjmgzflVFngwAF45QxtkBHOuiJYRyL72DKOp13G1DqltSBFTVN0AXTkz0gaDCsXfQozEsGbDAIdxcbMjcsDw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -177,23 +177,6 @@
    "posted_at": "2026-11-08T11:46:07+00:00"
   },
   {
-   "title": "ssd nvme  512go sk hynix",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 49.99,
-   "shipping_eur": 5.0,
-   "effective_eur": 54.99,
-   "median_eur": 69.89,
-   "discount_pct": 21.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · caprisunhorse (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366743375377?_skw=ssd&hash=item55639bce11:g:K48AAeSw1L1q1SE0",
-   "posted_at": "2026-10-18T19:43:25+00:00"
-  },
-  {
    "title": "Crucial 16 Go DDR4-3200 SODIMM PC4-25600 CL22 – CT16G4SFRA32A",
    "model": "RAM:DDR4-16Go-3200",
    "category": "RAM",
@@ -201,14 +184,31 @@
    "price_eur": 62.06,
    "shipping_eur": 3.0,
    "effective_eur": 65.06,
-   "median_eur": 76.99,
-   "discount_pct": 15.5,
+   "median_eur": 80.44,
+   "discount_pct": 19.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · leshopdejode (99,5 %, 198 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237167415631?_skw=ddr4&hash=item373847914f:g:2rEAAeSwgyhq7dLX",
    "posted_at": "2026-11-06T13:17:56+00:00"
+  },
+  {
+   "title": "+NEW+ HPE 1.92TB U.2 NVMe Gen3 SSD Hynix PE6011 HFS1T9GDUFEH P13678 2Y Warranty",
+   "model": "SSD:NVMe-92To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 749.0,
+   "shipping_eur": 20.0,
+   "effective_eur": 769.0,
+   "median_eur": 919.0,
+   "discount_pct": 16.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · interbolt_eu (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307272972602?_skw=ssd&hash=item478ae5793a:g:10QAAeSwy25q8KVa",
+   "posted_at": "2026-11-08T16:37:34+00:00"
   },
   {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
@@ -230,6 +230,48 @@
  ],
  "unclassified": [
   {
+   "title": "Reconditionné : PC Portable 13,3\" Dell Latitude 5320 - Full HD, i7 1185G7, 16 Go RAM, 256 Go SSD (État Correct)",
+   "price_raw": "419€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/reconditionne-pc-portable-133-dell-latitude-5320-full-hd-i7-1185g7-16-go-ram-256-go-ssd-3449174",
+   "posted_at": "2026-11-08T16:54:10+00:00"
+  },
+  {
+   "title": "[Other] AVerMedia StreamLine Mini Capture Card, 1080p60 Capture, 4k60 Passthrough - $62.94 (36% off)",
+   "price_raw": "$62.94",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xr2z9u/other_avermedia_streamline_mini_capture_card/",
+   "posted_at": "2026-11-08T16:52:53+00:00"
+  },
+  {
+   "title": "[MicroSD] SanDisk 512GB GamePLAY microSD Express Card - $79.99 In Warehouse ($89.99 Online Price)",
+   "price_raw": "$79.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xr2nu3/microsd_sandisk_512gb_gameplay_microsd_express/",
+   "posted_at": "2026-11-08T16:39:45+00:00"
+  },
+  {
+   "title": "Gigabyte WINDFORCE GV-N770OC-2GD PCI-e Carte graphique",
+   "price_raw": "23.06 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227282622685?_skw=carte+graphique&hash=item34eb1998dd:g:S14AAeSwPO5pzU3A",
+   "posted_at": "2026-04-01T17:42:15+00:00"
+  },
+  {
+   "title": "SK hynix 16 Go DDR4 DIMM PC4-3200AA 288 broches 1Rx8 HMAA2GS6CJR8N-",
+   "price_raw": "68.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147672024809?_skw=ddr4&hash=item2261f046e9:g:EmwAAeSwgyhq8KnE",
+   "posted_at": "2026-11-08T16:58:09+00:00"
+  },
+  {
+   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM SK hynix PC4-3200AA 260 broches HMAA2GS6CJR8N",
+   "price_raw": "125.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147672018116?_skw=ddr4&hash=item2261f02cc4:g:0E8AAeSwBXNq8Kd7",
+   "posted_at": "2026-11-08T16:50:45+00:00"
+  },
+  {
    "title": "Écran PC 34\" Alienware Penta tandem AW3426DW - qd-oled",
    "price_raw": "689,84€",
    "source": "dealabs",
@@ -242,13 +284,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tecknet-wireless-bluetooth-mouse-rechargeable-3-modes-1600-dpi-silent-3449152",
    "posted_at": "2026-11-08T16:08:40+00:00"
-  },
-  {
-   "title": "NOUVEAU SSD NVMe Gen4 U.2 SFF 2,5\" PM1733 MZWLJ7T6HALA‐00AD3 0Y27TR Dell...",
-   "price_raw": "2799.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900075606628?_skw=ssd&hash=itemd190afd264:g:s6EAAeSwEPJq8KKv",
-   "posted_at": "2026-11-08T16:26:11+00:00"
   },
   {
    "title": "Ecran Pc HP  23\" - 58,4 cm",
@@ -300,13 +335,6 @@
    "posted_at": "2026-11-08T14:49:46+00:00"
   },
   {
-   "title": "Intel Celeron G6900 Processeur (3,4 GHz, 2 Cœurs, LGA 1700) Box - BX80715G6900",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800772790471?_skw=processeur&hash=itemba71c718c7:g:tpIAAOSwWSti2RN7&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lMGZ3ksNZO4o6QP9NB3Ub183ZT%2Bxhs0Qrg03PeTm5W7%2BWJfE30MNzQMKNTeWDTC3tjljyW%2B9t3E4K0oecOW70R83MgoO%2F3AyvPQU7tPAasmnXwI1uWfrfeuZms1fo6q4yqJRUYVy%2FhUDsfUibFEEXNl5sZFGaoA4WzahD%2B7DX0DrZ6vn63AE%2BieJT7fxnbLIDHgtUBVlAL0L2h2pOCa6YxWVo%2BMi4p1RogiVhcREeq898kLO7w5H9k9%2B3aGP6614qbaTi%2BDXtAebcv2tIOPcsHiqpj0zTW%2Bpp43gMtMSnPCA%3D%3D",
-   "posted_at": "2026-10-08T17:50:15+00:00"
-  },
-  {
    "title": "Micron 8GB DDR5 SODIMM 5600MHz laptop RAM",
    "price_raw": "94.30 EUR",
    "source": "ebay",
@@ -317,7 +345,7 @@
    "title": "Thermalright Peerless Assassin 120 SE Black, ventirad CPU 6 caloducs double",
    "price_raw": "70.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198781404084?_skw=ventirad&hash=item2e484b83b4:g:WmkAAeSwm89q8IIG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lRLa1YLLZj0%2BAUiGe6biUMguVyhXmcgUV0w0sXVnNGzLe84iOb1OPWgVFnBT7jrkvGqeXvoDlV7ILTSF8tRvqb2P5R7hhyZdVWv7KwTqonGxomqtLfPg%2F0NRLmhYJv7Uwp4tZ%2Bp%2BrMaukBtgCbGiO97B5%2BlDDsXPu%2F5h3F7R2nOfIDer0G4ee53a08NdZqo34D6uK0DdLgwczpqKrIdLzkdjusOZh52ybjqAnJrQfRtCMMrsazn9Iyh9Xt6%2BLJHIxWM3PvEnjA91RQ1dIaJbsSzzesC6Xpp1Rgli5sQ05lZA%3D%3D",
+   "url": "https://www.ebay.fr/itm/198781404084?_skw=ventirad&hash=item2e484b83b4:g:WmkAAeSwm89q8IIG",
    "posted_at": "2026-11-08T14:08:46+00:00"
   },
   {
@@ -366,7 +394,7 @@
    "title": "Carte mere GIGABYTE GA-Z68XP-UD3 REV 1.3 Socket 1155",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9qxsUDeKuLELDvWuhtrrCZb2ciawmMjmBQYqkn%2FKyafgZXRFeKUWLqaVyozSonLifpqrdLELT4LVgGwLsPv13NggQ6fUFyYwK7ZGDIU5ZFdngJYVnHTjnI70mkCzyTDh7ToGOc%2B%2F9c8ra%2BdLNmfCmwjDxQydYmVTBGVAwERj3NHlQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9qtkdpOFNloPfqOzkDEWe3eDQ5doFEHtBbYhFkjUUaUNrfhWGHBmQ3jTQ7A2O5lPlaRf1UGEL%2BrjcHdJLuznJYm3S7zyM%2BTa6dQcQQgv3P%2FNWtduZeXrMHZq7wHXG0cewyKZ2QUNbhoFcPfyeDklVyGrknTtNd4lE486G2LAJBQBQ%3D%3D",
    "posted_at": "2025-10-27T17:41:36+00:00"
   },
   {
@@ -410,13 +438,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/389132740371?_skw=boitier+pc&hash=item5a9a1e6713:g:q6oAAeSw0tFo-T2g",
    "posted_at": "2025-10-23T04:12:50+00:00"
-  },
-  {
-   "title": "Keychron K10 Clavier de Jeu mécanique sans Fil, échange de Chaleur Pleine Taille",
-   "price_raw": "99.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137912878859?_skw=clavier&hash=item201c3f870b:g:eR0AAeSwX3Fq8DwT",
-   "posted_at": "2026-11-08T09:26:45+00:00"
   },
   {
    "title": "Routeur GL.iNet GL-BE3600( Slate 7) - Wi-Fi 7, Dual 2.5G Ports, Touch Screen, 3570Mbps",
@@ -520,14 +541,14 @@
    "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
    "price_raw": "115.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK3uO9J8Y6sMG878JqmtrcWQzNpl2Udef8GTVMbhGfjY%2FuslJz8asmqchjncBt30vxGdjtOXWNTzP%2BuVg35G97o%2FV67iI9KfiiODdehFe4%2BWt%2BGlpBt8WnlxOo4CP5XvYC%2FUiyFNj6aoCKYoTyyp6ZPPmihwcmleMxD3JquD52e0Sg%3D%3D",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK3nTrfP38okcLkoHMQzhzNuaoOgqByrud7nrH9yzbPF2rPwEsMLMZR2Av2q2i9VMX5oInA9suP2hwUEnspoNInJVF4vMrOD6J10Q6tSGQMG9luBMOGYg43492yQm3uqS%2BTaKg9mh1gVB0VXKaceHfTAZiQ1gFy5eTfd%2BATtI8ewcQ%3D%3D",
    "posted_at": "2026-04-25T17:07:07+00:00"
   },
   {
    "title": "ASUS A88XM-A + AMD A8-7600 + 8 Go DDR3 – Kit Carte Mère Complet Testé",
    "price_raw": "103.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnbgRLBFckR%2FF1R6xYvPf9oUJxjIhMsovLksrLHl9s%2F0RzJQ4dFFIkDkCS8wT9czsAcpSiSXDZuQlE0b4O7217ucdnapxJh5p%2B4tqtafNFVtHkYcdb5Yqm6zhtqZyp6fvFFF0FrcztiaYwANUvbaVJXIoJ38%2Bo%2F2XKZQWOky79782A%3D%3D",
+   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnbb5XS7ANradGkSYLys4f5HI0Vk%2FlsqcJlvcHTLGp8JlVPeoamJqBQV7TuR57O4%2BcQauhO3HeQ7rfAC8vgVPBfrqhyBWLIb3Mp0QnyfinMR8DjzKYZT0KqS1U2kCSiWUZM3b6l4OMVe16VdXC7FtHtxCnijxbRK69cB2LheV6i29Q%3D%3D",
    "posted_at": "2026-07-12T09:46:19+00:00"
   },
   {
@@ -538,17 +559,10 @@
    "posted_at": "2026-11-07T21:48:38+00:00"
   },
   {
-   "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
-   "price_raw": "75.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p3IVkuwUUzjvw8xtiuvM8sbo5dYzqdUlKZGK7CUJqXMHZjY8KdgTfgpqCx1TLF5Z17ZZIz3%2Ft4FeNfcRkVQY7j91wMKwYQFo7I89U%2B9cVrk7d1PdqfQJ7mRfEnCkIUVVQ2SKk0R2HZi4GGco1kgSVL2v0u%2FSHQKxcJNZsyMmVykQQ%3D%3D",
-   "posted_at": "2026-10-15T18:00:37+00:00"
-  },
-  {
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOhicLLumNfn%2FSalyOzKlTwhh4I%2FytXPgsW%2BrFlH3nn0wj7fPcI6Lh%2F%2BT2zLjcZ0I%2BUfvHXfGK%2BrJ7%2BJkV3ilLv13v037m2d%2BN1e2%2FYdGx6wRaHD5v6AI7fduiR4TJjNhT3epTg5wjKwjHKiR4mr5H95",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOiCOY74p3Z7Ng6KbRAjG3ybWqGFQoRprJv26SeQEDR68GEPpE1kbZ3NT%2FPW9XTiY1UASVu03YTkLPasB2iUeQ%2BSoQ57cTfF%2FgmvP9ihsuE7YHGDLb7wKXyNpTmMLyHmEEMkj6nqIGjTBelxNBhc3a01",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -564,24 +578,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pack-hp-pavilion-gaming-400-souris-gaming-200-3448688",
    "posted_at": "2026-11-07T19:04:28+00:00"
-  },
-  {
-   "title": "PC portable 14\" tactile Lenovo ThinkPad X1 Yoga Gen 6 - Core i7, 32 Go RAM, 512 Go SSD (Reconditionné)",
-   "price_raw": "679,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/reconditionne-pc-portable-14-tactile-lenovo-thinkpad-x1-yoga-gen-6-core-i7-32-go-ram-512-go-ssd-3448689",
-   "posted_at": "2026-11-07T19:03:17+00:00"
-  },
-  {
-   "title": "Souris Gaming Filaire Logitech G502 HERO",
-   "price_raw": "39,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g502-hero-souris-gaming-filaire-3448685",
-   "posted_at": "2026-11-07T19:01:01+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1327,
+  "listings_seen": 1341,
   "models_with_reference": 25
  }
 }
