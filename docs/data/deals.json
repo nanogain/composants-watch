@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T17:38:00Z",
+ "generated_at": "2026-11-08T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-08T17:38:00.623182+00:00"
+   "items": 334,
+   "last_ok": "2026-11-08T18:08:00.658230+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T17:38:00.623182+00:00"
+   "last_ok": "2026-11-08T18:08:00.658230+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-08T17:38:00.623182+00:00"
+   "items": 378,
+   "last_ok": "2026-11-08T18:08:00.658230+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-08T17:38:00.623182+00:00"
+   "items": 80,
+   "last_ok": "2026-11-08T18:08:00.658230+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B91FKdnTUSs5LqIKsKDdpQebRYwwSnCPDOGh5A9Mq3lm%2BcmFzbXW2xgpozAYS1QEf48HTv6iA8%2F5nHdDrpE6YVsBz9mRja84keLP2HvXc0mp%2FxPh5iFGGjndAOPdR9neP16T2S1BWTWYdxrFZIAPY0CPneIuMI478aLQOXCYwNMwg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9IaLVamtA7GxNdm2Lzc%2BS%2BlT22p2x3vvWDwVr0EALujPdyEtW%2BJTwKrRZg4Srtm4H7UXbM7AONN9tNGMa8DR8TXWut62OKEvm%2BVbKIHTPHnVCmc1s%2Fjcsipbfzd6k0voFbnVh%2BOwAbMlTNj7cAOdRnvR%2Fxp3%2FkxK1RhwHUX0vpcQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -107,23 +107,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
    "posted_at": "2026-11-03T13:34:10+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 259.99,
-   "discount_pct": 34.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -194,6 +177,23 @@
    "posted_at": "2026-11-08T11:46:07+00:00"
   },
   {
+   "title": "SSD SATA 256Gb ADATA M.2 2280 Disque Dur ",
+   "model": "SSD:SATA-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 24.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.99,
+   "median_eur": 31.8,
+   "discount_pct": 21.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860091711375?_skw=ssd&hash=itemc84175ff8f:g:xdIAAeSwBK9q4cIS",
+   "posted_at": "2026-10-28T09:43:56+00:00"
+  },
+  {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -212,6 +212,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Kingston HyperX Fury DDR4 16 Go (2 x 8 Go) CL15 DIMM 288 broches PC fixe",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900075776565?_skw=ddr4&hash=itemd190b26a35:g:dakAAeSwNm9q8LdF",
+   "posted_at": "2026-11-08T17:58:55+00:00"
+  },
   {
    "title": "[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)",
    "price_raw": "$109.99",
@@ -402,13 +409,6 @@
    "posted_at": "2026-11-08T12:11:12+00:00"
   },
   {
-   "title": "Carte mere GIGABYTE GA-Z68XP-UD3 REV 1.3 Socket 1155",
-   "price_raw": "62.06 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9rZha5owNmgbCKVEz1WueK%2FLZsV0k2b08eu3OO4k7NwF3j3XSM5pz%2Fj5uT9OLru1ZegZi%2FCVSQegT%2BOlglrNPixgmP2fT6K7Pm4QdhqCD3O6G2YmMU1I2p8Ac6rZWk4qbevaXmTGVjxvIoAVQ806N0Xi27SaVTm5eYam8us5jJ8zQ%3D%3D",
-   "posted_at": "2025-10-27T17:41:36+00:00"
-  },
-  {
    "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - FHD, Ryzen 3 30, RAM 16 Go, SSD 512 Go, clavier Azerty, sans OS",
    "price_raw": "449,99€",
    "source": "dealabs",
@@ -552,19 +552,19 @@
    "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
    "price_raw": "115.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK0osR8P69a%2FjEO0XqNWe%2BlE4Mcz0PvngEj7xRiPGF%2F45PqG66yu3c9E%2FlqaOfUhCHYGZ%2BD4NpYbdp36oDm6E0wk6vQFbi7flA7zJlth7JwOjexAJm2Ls9UVdKka%2FVUyaavXijb4dXDpNuffy0UROTRU1jA0ecxsvC9bPa5xnZZUWQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK01PDZUjh4nlUrzlbl4hfKG1F2KseC%2BaSR8xFp%2BcLDtjix%2Bx54ovi2gkPJuoAYhPFaFZo6M0BImR0UdmJ4OzSOuXGim81gpAzmI9vAHAvl4vCdbj1xMYbgQd4VdXjMVynFxo1S%2B1fbISwDQClVChluDWrwbWlwTUdQc5o2q7%2Fi4GQ%3D%3D",
    "posted_at": "2026-04-25T17:07:07+00:00"
   },
   {
    "title": "ASUS A88XM-A + AMD A8-7600 + 8 Go DDR3 – Kit Carte Mère Complet Testé",
    "price_raw": "103.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnYlOJuDWZaB%2BVjrdFg0k5MvuDy6Vzys2CMJ0pSoK2xwVCh0UNrEHP%2B9DgvZaUXpM2qYLSqHddDQ42hxmi%2BDXDe6HozkXvh6wxLai8rTpSphbozDaHN7j2nxdVpkG9JIqJsm7wzHgYdrRKKqSoJPQSd%2FPeIo2NkXMkHNnMpw1WwmDg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnZHAmLYw3jaQGe91dVP84a9W9vbwJyQeAgaGww%2BV3eqxQ6vsEsMG8QKoYfYk0swszdXBg%2BMeFnUZdjSUoJmETcbPOvLXdzD8fBrvCi3eZBDL4%2FSgtfRpiRBaPAGE--N0TtTAg%2FEkxaYy2djeN8EpH8iJtylmEadkhV7TuHt%2FjrmuA%3D%3D",
    "posted_at": "2026-07-12T09:46:19+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1345,
-  "models_with_reference": 24
+  "listings_seen": 1351,
+  "models_with_reference": 25
  }
 }
