@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T01:08:00Z",
+ "generated_at": "2026-11-08T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-08T01:08:00.674824+00:00"
+   "last_ok": "2026-11-08T01:38:00.672665+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T01:08:00.674824+00:00"
+   "last_ok": "2026-11-08T01:38:00.672665+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-08T01:08:00.674824+00:00"
+   "items": 378,
+   "last_ok": "2026-11-08T01:38:00.672665+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 77,
-   "last_ok": "2026-11-08T01:08:00.674824+00:00"
+   "items": 80,
+   "last_ok": "2026-11-08T01:38:00.672665+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BwEp%2FgHE25o7mlqjaCF5GdE%2Fn8sTd9VhpNuH4NzwskURavGcBHec9DCxpme7e5dbArrmxv6sB%2FVH6z5OujA%2BmWXSWLtwUS90u2H2IZwrkPuBwb8Jc02Fujc5LAIwbq76kPI0vGqb6wtffF%2BORbEIdQHoYHe5Wo2tlsyYDGZMhtQQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8lNBF5KED7R87sfC86%2FleE8fkptvWubcbM3lkMR8Xe%2F7lnKCBdUdynHUIfBzG%2BTn2a3Ft6ij7LFfbyI3Q%2B3xpp5Eb8RrAHe8tCCtZiE24KK8GonrUoP1WM83l7fL1Nrr1HD3bs3kjIk3k2XtDr0utStclaHaOQVN5CXL7o6xoz2w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -264,25 +264,11 @@
  ],
  "unclassified": [
   {
-   "title": "Processeur Notebook Intel Core I7 4710MQ 2.50GHz Socket PGA946 Max. 3.50GHz",
-   "price_raw": "45.23 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237170378599?_skw=processeur&hash=item373874c767:g:2UAAAeSwTrRqebW-",
-   "posted_at": "2026-11-07T23:44:32+00:00"
-  },
-  {
    "title": "ASUS A88XM-A + AMD A8-7600 + 8 Go DDR3 – Kit Carte Mère Complet Testé",
    "price_raw": "103.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnbOJDayud9s6sTtqt3hu7CRsaKE13HXzyjKdGl9ofSHhi60uZQduPm1m8kOvXzp%2F%2B1AZ1E9SOeMA%2FteVonBiBhIQu9R65Rc9aW%2BWvFpPQRO%2B8faBPe8us7cfNZNKCBmm%2FtgXaogjxI3NzipWA4KzkIA8v0ezTa0TcQrfy5yqKkyLA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnZ2vfn5P2NVUYLtA6vK2Dg9TvpkNAPiC26zmPQN%2BvBIJiBnftjNx2xdwGevDyWnxg%2F5EV19PDKlaT3waVnb78136dltnupQX5lCeGs%2BiGhNGs3X2wKAS%2B1ocmuNWQ444atj21DguOD9u7xXv%2FtoeMp4xizeqNDCL5%2Bpg5nZYXixaw%3D%3D",
    "posted_at": "2026-07-12T09:46:19+00:00"
-  },
-  {
-   "title": "Tablette POCO Pad M1, 8GB, 256GB - Version Globale",
-   "price_raw": "170,68€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/poco-pad-m1-8gb-256gb-3448764",
-   "posted_at": "2026-11-07T22:06:03+00:00"
   },
   {
    "title": "[Prebuilt] CyberPowerPC Gamer Supreme Gaming PC, Intel Core Ultra 7 265KF, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD, SLC10060CPGV16 - $2360",
@@ -316,14 +302,14 @@
    "title": "carte mère makerbase mks dlc v2.0",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377054396410?_skw=carte+m%C3%A8re&hash=item57ca317ffa:g:i1kAAeSwtgZpv8Rc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7noMu75FCuXdMXaqZGfgKCg199jHZLRGcHcFiwhJqmvujXPq1olToUOmPgOwGrX3%2BkhVQY6B6VQaIdXwYUKgnS1LRy46kbCcPTV9W2ottAGVM8YmBtLCWyVLwxvLaNxDp0nWDSKE9JnC0EIcCuOzmadgIlhLwyq8LZ1sSZvDha0MnTLIiUGpcWvUnBxSLBe7bAHbc8yrQxw53lCbnHcZL9KRBhLGAPH%2F7SuyzV6FWd7mqvJxnAP%2FvIz3dBjOEZ30A70S%2BD9emiL38mAEA2yO%2Fu%2FYpOr75JNtvhnfYvpyCauMg%3D%3D",
+   "url": "https://www.ebay.fr/itm/377054396410?_skw=carte+m%C3%A8re&hash=item57ca317ffa:g:i1kAAeSwtgZpv8Rc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7noMu75FCuXdMXaqZGfgKCg199jHZLRGcHcFiwhJqmvujXPq1olToUOmPgOwGrX3%2BkhVQY6B6VQaIdXwYUKgnS1LRy46kbCcPTV9W2ottAGVM8YmBtLCWyVLwxvLaNxDp3EHPI2jv0SO9Y28Twhx3GhwgP0KBlbJE84sz9aRKycaMFM5OOB2CqenpuPPJGcSMDRaBs%2F49vUMDbQlDZ39fFfgg8IxXa%2B%2BUrqQ%2FqcOhnx%2B9--%2B409zpGr81SJfq6%2F3BGswk7WhCc5xwTZJkW3gjHS%2FOEWlbSlRXkRqf%2F5uCqNbA%3D%3D",
    "posted_at": "2026-03-22T10:29:37+00:00"
   },
   {
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOjtvvcnE6MIrRq9quFjts9KReLkSqiBP3VmWHGZJdSb1hNN3b4vgEpYWOCLmV3ReKPMPA8GCibn%2FKBF2Jji2iUaq40WKSQQK%2FH74UBrIGc4RV0P7E%2F7FWYm7AzSLsILVvZSp8t8p8768mVbvuOAUNIb",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOj1TonfQi6RB%2Bkq7r3T%2F2O33WKRVlql%2BgouOq73UNRwre9o8xMzJf26km225h8mRQnGH%2FbyB%2BhldYUZq7RTd9KDNwIPj51cQJ4PdnduFdUhbaPzcWlQXheq1Y0UzzQPlC%2FvtuQWzBKAFP1S1rPQ4OdY",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -565,17 +551,17 @@
    "posted_at": "2026-11-05T23:09:18+00:00"
   },
   {
-   "title": "RAM 8 Go DDR4 SO-DIMM PC4-2133P 2400T 2666V PC portable (Reconditionné Grade A)",
-   "price_raw": "39.99 EUR",
+   "title": "Carte mère Biostar TB85 LGA1150 DDR3 6 PCIe + CPU + 4 Go",
+   "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366319876746?_skw=ddr4&hash=item554a5dba8a:g:aMwAAeSw7Ddqez6X",
-   "posted_at": "2026-04-01T13:32:52+00:00"
+   "url": "https://www.ebay.fr/itm/168805377502?_skw=carte+m%C3%A8re&hash=item274d95a5de:g:UZUAAeSwdNVq1r9t",
+   "posted_at": "2026-10-20T14:13:54+00:00"
   },
   {
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p1cXnYRR4YescHAzFHbf92u6XPrT0m852C6iGf2DL%2FHWd55I2Conp3lMgMIekQa2qWOERafzJEznrjrfOYETubjhS5EppAOuIxZ16vardedbvcJFRnSUv06kPySH%2BjxjSrvU2eNe2MmW1VGYBntDpNw8OUeIy1hQRfMpALifedxbA%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p3f5cT%2BWPDUpWPMX8ydlamZalCiqkvYjh7E1ky8e9lXJ5T8ULN5HFH2QSkxZmluonTpKDOJMnZJXRvoEz%2Fwsl19JyNEi%2FE0mFscD5KWH7OCw%2F8Nk8bhIOnootJKAfq%2FD9oo9SOJJBCXU79SU0opluZ%2Be754b%2ByecSs%2BqWHqIVg7Yw%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -612,10 +598,24 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xpw3d0/mouse_pulsar_x2h_es_medium_wireless_gaming_mouse/",
    "posted_at": "2026-11-07T03:16:09+00:00"
+  },
+  {
+   "title": "[Mouse] Logitech - PRO X SUPERLIGHT Wireless Optical Gaming Mouse with HERO 25K Sensor - Wireless - Black - $64.99 (Save $75)",
+   "price_raw": "$64.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xprv3g/mouse_logitech_pro_x_superlight_wireless_optical/",
+   "posted_at": "2026-11-06T23:47:39+00:00"
+  },
+  {
+   "title": "Alimentation PC Asus Prime - 750W, Bronze, White Edition, certifié 80 Plus Bronze, ATX Non modulaire, câble gainé gravé",
+   "price_raw": "64,11€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/asus-prime-750-w-bronze-white-edition-certifie-80-plus-bronze-alimentation-atx-non-modulaire-cable-gaine-grave-3448145",
+   "posted_at": "2026-11-06T23:08:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1256,
+  "listings_seen": 1255,
   "models_with_reference": 27
  }
 }
