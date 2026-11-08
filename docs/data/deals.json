@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T09:38:00Z",
+ "generated_at": "2026-11-08T10:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-08T09:38:00.619109+00:00"
+   "items": 336,
+   "last_ok": "2026-11-08T10:08:00.695225+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T09:38:00.619109+00:00"
+   "last_ok": "2026-11-08T10:08:00.695225+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 382,
-   "last_ok": "2026-11-08T09:38:00.619109+00:00"
+   "items": 383,
+   "last_ok": "2026-11-08T10:08:00.695225+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 14,
-   "last_ok": "2026-11-08T09:38:00.619109+00:00"
+   "items": 6,
+   "last_ok": "2026-11-08T10:08:00.695225+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
-   "title": "Kingston KC600 SSD interne 512 Go 2,5\" SATA III TCG Opal SKC600/512G",
-   "model": "SSD:SATA-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 23.68,
-   "shipping_eur": 2.78,
-   "effective_eur": 26.46,
-   "median_eur": 63.89,
-   "discount_pct": 58.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · boiteachiner (100,0 %, 208 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327445767540?_skw=ssd&hash=item4c3d49e574:g:6nUAAeSw4fpq8D8y",
-   "posted_at": "2026-11-08T09:23:42+00:00"
-  },
-  {
    "title": "SSD M2 NVMe Cusu 3500Q - 512 go Gen3",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8qqvOuL9V8UdQHJyxOaqLy6SbupwoECauF2v6ZF1%2FsFOH%2BkyQz8zv0QVAyM%2BI8tvlHBufO90xF7%2Fflhi5UObRNtYnEz9pbcijbZ0YZmpbT%2FYadzeiRRCQV89gOVT5DZ1muuswqKQvqPpkI3LpWNaf%2FABFyUDNXDiL0YaKZTBBg%2Fw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B92wSuboLH7Ob2HjXWoF2CNIegxQn4S6I6ufUHVfQAEY%2Bw8PALY9NZaTWD%2Bg7PnMilC%2FbEhvAnxHYJo2RdtXihM%2BxbOONAQkvAnfwLbnhNZ2V6BJ6ePa%2FJJmaqIri3ARt9eKRJftbmq3naPyyPLzD1fgKJIgfLCuE6kOKPySYtm3w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -158,6 +141,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
    "posted_at": "2026-11-01T11:54:24+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 259.99,
+   "discount_pct": 34.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -281,6 +281,20 @@
  ],
  "unclassified": [
   {
+   "title": "Pack tablette Lenovo Pack Idea Tab Plus ZAG7 - 12,1\", 128 Go, Gris Luna, livré sans chargeur",
+   "price_raw": "299,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lenovo-pack-idea-tab-plus-zag7-121-128-go-gris-luna-3448975",
+   "posted_at": "2026-11-08T09:55:17+00:00"
+  },
+  {
+   "title": "Imprimante 3D Anycubic Kobra X",
+   "price_raw": "249€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-anycubic-kobra-x-3448923",
+   "posted_at": "2026-11-08T09:51:00+00:00"
+  },
+  {
    "title": "Dashcam Auto Avant/Arrière AZDOME M550 Pro - 3 Canaux, 4K + 1080P, WiFi, 3.19 \", IPS, GPS",
    "price_raw": "72,72€",
    "source": "dealabs",
@@ -305,7 +319,7 @@
    "title": "Keychron K10 Clavier de Jeu mécanique sans Fil, échange de Chaleur Pleine Taille",
    "price_raw": "99.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137912878859?_skw=clavier&hash=item201c3f870b:g:eR0AAeSwX3Fq8DwT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lVJMU0FQC7BucZsvP7nyN%2Fpmh9FcWoKWEP1KcS8l6THMvxOzxediAmw7zJWPjtI5Mee8Lth2iCqgKyX21IFS0uoggwv3Y3OOhy%2BjrrxhwOotKXQT%2BOoPfZ3ayiy8yE5rQSnXUHq6DkeR02bfs7o2m1%2BxHg1JpgAGQQmAmVdF3%2Furm36J7LwBMLEIU19Cy7zW8YWSe8cIUHzqz9BC8Pd2hK20E8opzKo1HdfPohwNEt3sLFOml4xiub%2Bsm1p3rlCsXR7mpyMEZw%2FOGxf%2Fv3zoLd",
+   "url": "https://www.ebay.fr/itm/137912878859?_skw=clavier&hash=item201c3f870b:g:eR0AAeSwX3Fq8DwT",
    "posted_at": "2026-11-08T09:26:45+00:00"
   },
   {
@@ -321,6 +335,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3448873",
    "posted_at": "2026-11-08T07:45:59+00:00"
+  },
+  {
+   "title": "ASUS carte mère UX52V UX52VS i7 3537u - Nvidia GT 645 - 10gb ram excellent état ",
+   "price_raw": "125.26 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/278346106318?_skw=carte+m%C3%A8re&hash=item40ceb885ce:g:a20AAeSwiX1qnDAJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lk%2FT5ITttftdmEsRH3c1D1%2Bg%2FL4NY145uBbtNDTI2RIyOa8rZLUhrE3Z2lIUzoeqvWEk7Y6nj%2B%2FU8Ef5%2By8mQtSz6DhMkAyUj4GP7Owch7Jlh78dx9Et0EHqtpBAWtuAWjzlRF5qDUDeCgDnLXdaub%2B1hCIOFx1O9JSJxAoY1Q1Mlw3mTnxxNeH4f%2BrrGXXLpgBc5tMZaFyU%2B2%2Fy4%2FMo3Iy8PtRnDZbk%2F6EW4lmWr%2B%2Faqkpv6yvS7nguuksj2oxQjKi77sl69%2Fuf6f9yPOjOIsY9w%2F%2BSdMhIt%2Fierw5eju0g%3D%3D",
+   "posted_at": "2026-09-05T15:05:27+00:00"
   },
   {
    "title": "Capuchons Touches clavier Pudding GLORIOUS Aura RGB- Plastique PBT, Rétroéclairage, AZERTY",
@@ -417,7 +438,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOi4mShSNHa%2BuqI6ZvHlpHj04fHT1zrIHfBOEJ0FBepbYkIq%2FO04AdImczO62GHC68eA6O4UzRPqXUEGjZWrObOdne5BQRpshoxWhBcSk%2FZg0pkNTVbFS20c9YzXL0%2BN3S7kb7doNjkXFBiCUVkLx7b6",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgKLv6afkyVzdSv%2FLvCq68kn7OIoZnACl2iW64HIicFiFGH7B1b48fUR2z%2F4FMLvsNLzeEr5PGrg28xxdQS6w%2BLrg%2BvIn1AQHAJYKRPz3exxz0uySnr66Y%2F9%2FfSLdQK3pcZQtXP61UPXDJIgF8%2Biwgz",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -608,31 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lampadaire-trepied-luminexdesigns-en-bois-avec-tablette-lampe-sur-pied-vintage-rustique-en-noyer-avec-abat-jour-en-tissu-3448270",
    "posted_at": "2026-11-07T08:10:19+00:00"
-  },
-  {
-   "title": "[Adhérents FNAC+] TV 55\" OLED Sony 55 Bravia 6 (2026) - 4K UHD, 120Hz, HDR10, HLG, Dolby Vision, DTS : X, Dolby Atmos , DTS-HD Master Audio",
-   "price_raw": "901,51€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-fnac-tv-55-oled-sony-55-bravia-6-2026-4k-uhd-120hz-hdr10-hlg-dolby-vision-dts-x-dolby-atmos-dts-hd-master-audio-3448217",
-   "posted_at": "2026-11-07T06:52:11+00:00"
-  },
-  {
-   "title": "Mini PC GMKtec K15 - Core Ultra 5 125U, Intel Xe-LPG, Nvme 1 To, 32 Go DDR5-4800, Oculink, USB4, 2 x 2,5 GbE, Wifi6E & BT5.2, Win 11 Pro",
-   "price_raw": "639,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k15-core-ultra-5-125u-intel-xe-lpg-nvme-1-to-32-go-ddr5-4800-oculink-usb4-2-x-25-gbe-wifi6e-bt52-win-11-pro-3448174",
-   "posted_at": "2026-11-07T06:08:23+00:00"
-  },
-  {
-   "title": "Mini PC GMKtec K16 - Ryzen 7 7735HS, Radeon 680M, 32 Go LPDDR5-6400, SSD Nvme de 1 To, OCULINK, 2x2,5 GbE, Wifi 6E & BT5.2, Win 11 Pro",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k16-ryzen-7-7735hs-radeon-680m-32-go-lpddr5-6400-ssd-nvme-de-1-to-oculink-2x25-gbe-wifi-6e-bt52-win-11-pro-3448177",
-   "posted_at": "2026-11-07T06:14:42+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1285,
+  "listings_seen": 1289,
   "models_with_reference": 25
  }
 }
