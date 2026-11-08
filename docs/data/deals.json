@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T05:38:00Z",
+ "generated_at": "2026-11-08T06:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-08T05:38:00.697866+00:00"
+   "last_ok": "2026-11-08T06:08:00.680264+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T05:38:00.697866+00:00"
+   "last_ok": "2026-11-08T06:08:00.680264+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-08T05:38:00.697866+00:00"
+   "items": 380,
+   "last_ok": "2026-11-08T06:08:00.680264+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 55,
-   "last_ok": "2026-11-08T05:38:00.697866+00:00"
+   "items": 35,
+   "last_ok": "2026-11-08T06:08:00.680264+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8tUQNRur9JP4p4HqPF050AAeiNaJ%2F2yU2G93JSuiGQXrJZe55ITmXvqSZnzULhD3yPeOJjU6ly3f9G3THTLo%2F%2B54KBDHHq1tsS%2FgrxTqKkMo%2FNJztSCWUkJgxKeGOmro683jGtHpCSD7nmvfIY3wzXfnvZcb6kWvFwPHdXUvozUQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8I0zHFBZ7yQkVPRARbu61QrgcMaXHJsL%2FFtyesxzMp%2FZYmkJgwOX22q2pRwFhWGyRyYiKY2A9GuhxcdxuJQkGVxac6pk3Qsb6FHWPnmnd0xG2Fj7R%2FC6lG4mpMCXYX7mz4SQmu7bdJQwkGTC57fun%2FHD7wbGfVkVAd8Ybw6gyNJQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -228,23 +228,6 @@
    "posted_at": "2026-11-02T10:02:33+00:00"
   },
   {
-   "title": "SSD Micron 2200 256Go M.2 2280 NVMe PCIe Gen3 x4 – Testé – Santé 71%",
-   "model": "SSD:NVMe-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 21.39,
-   "shipping_eur": 0.0,
-   "effective_eur": 21.39,
-   "median_eur": 28.58,
-   "discount_pct": 25.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 371 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860108762705?_skw=ssd&hash=itemc8427a2e51:g:IpAAAeSwMO1q6bT~",
-   "posted_at": "2026-11-03T10:21:23+00:00"
-  },
-  {
    "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -260,23 +243,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
@@ -298,6 +264,34 @@
  ],
  "unclassified": [
   {
+   "title": "[Other] Amazon Basics 120W Fast Charging USB-C Nano GaN Wall Charger - $12.99",
+   "price_raw": "$12.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqrfaq/other_amazon_basics_120w_fast_charging_usbc_nano/",
+   "posted_at": "2026-11-08T06:06:29+00:00"
+  },
+  {
+   "title": "[Other] RESTOCK Amazon Basics High-Capacity Portable Charger Power Bank with 3-Port Output, 20,000 mAh, Black - $12.99",
+   "price_raw": "$12.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqre3j/other_restock_amazon_basics_highcapacity_portable/",
+   "posted_at": "2026-11-08T06:04:31+00:00"
+  },
+  {
+   "title": "Intel Core i7-920 Processeur Quad-Core 4x 2.66GHz Socket 1366 max 2.93GHz",
+   "price_raw": "12.55 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237170761185?_skw=processeur&hash=item37387a9de1:g:NaUAAeSw4VRqeaeG",
+   "posted_at": "2026-11-08T05:59:28+00:00"
+  },
+  {
+   "title": "Processeur Intel Core I7 950 4X 3.06GHz Socket 1366 Quad-Core Max. 3.33GHz",
+   "price_raw": "12.55 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237170761199?_skw=processeur&hash=item37387a9def:g:M9EAAeSwXudqeaaQ",
+   "posted_at": "2026-11-08T05:59:29+00:00"
+  },
+  {
    "title": "KINGSTON 8GB 6000MT/s DDR5 CL30 DIMM FURY Beast RGB EXPO",
    "price_raw": "312.96 EUR",
    "source": "ebay",
@@ -317,6 +311,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
    "posted_at": "2026-10-03T12:36:35+00:00"
+  },
+  {
+   "title": "4GB DDR4 PC4-2666V 2Rx8 Micron/ SK Hynix  RAM Mémoire iMac Laptop SO-DIMM",
+   "price_raw": "20.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318311625238?_skw=ddr4&hash=item4a1cd9f216:g:kk4AAeSwYQVqj~CE",
+   "posted_at": "2026-05-16T10:02:49+00:00"
   },
   {
    "title": "Adaptateur pour alimentation labo avec alimentation PC type ATX",
@@ -364,7 +365,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgJF7XaeGr96R1NFEXNN1XTy%2B6Djm1XdniYZuhEIex1CR%2Bqc4nv%2FHtou6iIGqXUdcwsbyTUoFXYjsEyXsOoEqG%2FIxN94ay9VNNvfi4QMhZXPWqRXJovEm8Frx64NUBbp5ICLZVu85G4ahA5b7NEYXFn",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgqpbcr98BsV0XmDlUEPY8IWBlIT21UuEKvvnCRs2fhuBL2CiDMw1OuHF5VSncNsS4ZnkBqXtxKimWOLbKR1te8s6DVP9fYhiZIBR8LBSr6NY2bCQDlNtpV8a5qxzLwCmQAjIJDHCtj%2F1%2Fm6wX%2BYZFP",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -595,7 +596,7 @@
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p2lpHWIzX%2F7bxLVpaqCXKrrGh1KSmtDcbRlv%2BCeA3QePEZOdRAtHT%2FuezVpHtq9rohv6Wq5sHs7ippecrz7YDerSCRCTZ7heKpvKIS576HJFYC%2FhhHqeF5iYLpad%2FHK37B3Obf2kSwqraiOMBlxeYrfWFTIcOj52t7hHmbs8AFH6A%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p1QDMDkUWFCsEsAt4g6%2FaUP3UYRob3Dry%2B7v6Ymep2JKsnAb3VsOlFaHCw%2BbfNknDXmtjGaJz8eZgn%2FepNwC36yffl4zqIJ42C4pBA1udAMabO4KuLWSV%2F98ofQnMYEgwdHoplybckgw4x5%2BYEIzSMRgqpoeMVd3YoaVX7Ewbq%2BmQ%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -611,45 +612,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/285832820977?_skw=clavier&hash=item428cf6b8f1:g:OEcAAOSwAZJiZoS2",
    "posted_at": "2024-04-27T07:11:37+00:00"
-  },
-  {
-   "title": "[TV] TCL - 98\" 4K HDR SQD-Mini LED Smart TV - $3000",
-   "price_raw": "$3000",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpwpoo/tv_tcl_98_4k_hdr_sqdmini_led_smart_tv_3000/",
-   "posted_at": "2026-11-07T03:49:08+00:00"
-  },
-  {
-   "title": "[Mouse] Pulsar - X2H eS Medium Wireless Gaming Mouse - $29.99 (129.99 - 100.00)",
-   "price_raw": "$29.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpw3d0/mouse_pulsar_x2h_es_medium_wireless_gaming_mouse/",
-   "posted_at": "2026-11-07T03:16:09+00:00"
-  },
-  {
-   "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
-   "price_raw": "33.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoOjrjv8vTkBINcL8G2hy2ImYDf9YjkrAKN7nflG5r3j9Gz%2BfKqxVfD2aa3IXC1o06IX5qw92cZWZb0oTFpZ8dm6jcYKSmPQSieUczY6dle8Pkg%2FKWHoe5J3Hm0zvyEObAfuE3PuYi17Q%2Fvuc2k%2BBmguGp6Piurwj%2BTie0GckBf3Bg%3D%3D",
-   "posted_at": "2026-10-25T09:10:49+00:00"
-  },
-  {
-   "title": "[Mouse] Logitech - PRO X SUPERLIGHT Wireless Optical Gaming Mouse with HERO 25K Sensor - Wireless - Black - $64.99 (Save $75)",
-   "price_raw": "$64.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xprv3g/mouse_logitech_pro_x_superlight_wireless_optical/",
-   "posted_at": "2026-11-06T23:47:39+00:00"
-  },
-  {
-   "title": "Alimentation PC Asus Prime - 750W, Bronze, White Edition, certifié 80 Plus Bronze, ATX Non modulaire, câble gainé gravé",
-   "price_raw": "64,11€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-prime-750-w-bronze-white-edition-certifie-80-plus-bronze-alimentation-atx-non-modulaire-cable-gaine-grave-3448145",
-   "posted_at": "2026-11-06T23:08:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1274,
-  "models_with_reference": 25
+  "listings_seen": 1277,
+  "models_with_reference": 26
  }
 }
