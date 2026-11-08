@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T12:38:00Z",
+ "generated_at": "2026-11-08T13:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 338,
-   "last_ok": "2026-11-08T12:38:00.623635+00:00"
+   "last_ok": "2026-11-08T13:08:00.628537+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T12:38:00.623635+00:00"
+   "last_ok": "2026-11-08T13:08:00.628537+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 381,
-   "last_ok": "2026-11-08T12:38:00.623635+00:00"
+   "last_ok": "2026-11-08T13:08:00.628537+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-08T12:38:00.623635+00:00"
+   "items": 13,
+   "last_ok": "2026-11-08T13:08:00.628537+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
-   "title": "SSD M2 NVMe Cusu 3500Q - 512 go Gen3",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 53.69,
-   "shipping_eur": null,
-   "effective_eur": 53.69,
-   "median_eur": 128.77,
-   "discount_pct": 58.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-512-go-gen3-3443396",
-   "posted_at": "2026-11-01T12:39:46+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B%2FscxzIkx3ZgSQUoHYADE6BD%2BdiafS26%2BY31SZVnJt7zsJEEM2%2BnSpLSnIEnoc9F8c5o7YAzmiq3FL83IAWiEPt8xak6VzgXNHLBJfweIHXeH6VZC5I3T37jPK1ZCoogUgjCI0xVsXBiyHrmvFAvrf%2B25%2BFkEOz5CZTq3D%2B1rQFA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8OYhEMcQ%2F5iOLkn283ZbSJZwtchst7Q3evA1wvkzqRINpVK1okqswhTSAtkCyGOHrb1FqzKnxu8ztyK7ScTir8btyHEgjdi1K5JxeuVvFRlG2OqBU2NaffliHX7MA8dG4c6jX6%2BtK5jN%2F49nGsjrGWa3QNkB%2FTbHbWJqWNDTBBzw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -141,23 +124,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
    "posted_at": "2026-11-06T12:36:05+00:00"
-  },
-  {
-   "title": "SSD 256GB Silicon Power A55 2.5\" SATA III 6.0Gbps",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 29.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 29.0,
-   "median_eur": 42.4,
-   "discount_pct": 31.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · go35700 (100,0 %, 84 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267831212321?_skw=ssd&hash=item3e5bfbf921:g:aDkAAeSw1Y9q6MOS",
-   "posted_at": "2026-11-02T17:09:37+00:00"
   },
   {
    "title": "ssd nvme  512go sk hynix",
@@ -228,6 +194,23 @@
    "posted_at": "2026-11-08T11:46:07+00:00"
   },
   {
+   "title": "SSD SATA 256Gb ADATA M.2 2280 Disque Dur ",
+   "model": "SSD:SATA-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 24.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.99,
+   "median_eur": 31.8,
+   "discount_pct": 21.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860091711375?_skw=ssd&hash=itemc84175ff8f:g:xdIAAeSwBK9q4cIS",
+   "posted_at": "2026-10-28T09:43:56+00:00"
+  },
+  {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -247,6 +230,27 @@
  ],
  "unclassified": [
   {
+   "title": "Carte d’acquisition interne Elgato 4K Pro",
+   "price_raw": "218,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-dacquisition-interne-elgato-4k-pro-3449050",
+   "posted_at": "2026-11-08T12:39:01+00:00"
+  },
+  {
+   "title": "[Laptop] Lenovo IdeaPad Slim 3i 15\" FHD, Intel i3-N305 8 Core, 8GB RAM, 128GB SSD - $134.99 OPEN BOX YMMV",
+   "price_raw": "$134.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqxvjs/laptop_lenovo_ideapad_slim_3i_15_fhd_intel_i3n305/",
+   "posted_at": "2026-11-08T13:00:02+00:00"
+  },
+  {
+   "title": "AMD Athlon 3000G 3,5 GHz AM4 Dual Coeur Processeur avec Radeon Vega Graphics...",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206684433580?_skw=processeur&hash=item301f5a2cac:g:ebAAAeSwPAlq8GxJ",
+   "posted_at": "2026-11-08T12:51:27+00:00"
+  },
+  {
    "title": "Câble Ethernet RJ45 - 1m, Digoloan en nylon Cat 8, (Vendeur tiers - via coupon)",
    "price_raw": "4,79€",
    "source": "dealabs",
@@ -259,13 +263,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147671794957?_skw=ddr4&hash=item2261ecc50d:g:8m4AAeSw67hq7dYX",
    "posted_at": "2026-11-08T12:31:23+00:00"
-  },
-  {
-   "title": "Carte mere GIGABYTE GA-Z68XP-UD3 REV 1.3 Socket 1155",
-   "price_raw": "62.06 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9rGHAUdL0Mu5nBIrhAobp8Dt4LVr5J9SUl9fIKRK8zDcC7o6sPg1HaDnwPYN%2F83T0yHVX5%2FIm1sbYte%2FI615owpqqynrY38s%2B0lxLCEOx3r0a4mMiBfGdJtIFGpWK%2BTeA%2Fu4P8PP%2BeslHRqm%2Bif4gll1ErWSmKBOtV3OLraxmK7Ww%3D%3D",
-   "posted_at": "2025-10-27T17:41:36+00:00"
   },
   {
    "title": "Micron 32GB DDR5 RAM RDIMM ECC Registered PC5-38400 AI",
@@ -425,8 +422,15 @@
    "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
    "price_raw": "115.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK2Px9qJBRAJ6o8Aaas6i5r1JXd3JLqh9uPOdkmoJ8YRLladRrZstRGOcS4hCaqBmd6LjZHmKRtN74F24iHt53Q13wPsTThowdHJnIXrUWWYhovpGKmpIsRut529Oub5FSHVjTaXJssJ%2FEw9a3Rh8gpV7AMWc%2B5ys99C27Q61oL5HA%3D%3D",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK3GGoHcE64gNxoG4FIa0TB%2BxBI5B6hDtyX9xNiLGtnvNHCds3mwUlpvgX958zO%2BNxiEwuU1%2BKwQ2rig36RGdc9bes%2BkDucxfELg%2F7JcEpxdCMNIUxWS8za4iuDkg33xTBALD6BrjLKeH8RLWsSe1e5MzJFfyuKZlLZaFQp6koIQ5Q%3D%3D",
    "posted_at": "2026-04-25T17:07:07+00:00"
+  },
+  {
+   "title": "ASUS A88XM-A + AMD A8-7600 + 8 Go DDR3 – Kit Carte Mère Complet Testé",
+   "price_raw": "103.66 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnY12Tk8HLEn8y6uDqZXTlSeZb26zvEpK6uwK1qG1J0YjlR%2BrwXkcOcw1kixmf5Ry74xfnEFbxPS4EnvPAKY7LMLr7CDwkVhFq2wXTG5sSch%2BrFkHghJf9Xa5%2B8yZspUE32TY9VYPjJySTN0DAo38AHLwi%2BHAPxYtBfcPRfVwdg%2Bog%3D%3D",
+   "posted_at": "2026-07-12T09:46:19+00:00"
   },
   {
    "title": "[Prebuilt] CyberPowerPC Gamer Supreme Gaming PC, Intel Core Ultra 7 265KF, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD, SLC10060CPGV16 - $2360",
@@ -439,7 +443,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOhK3ZsszhUKu5VEwrJ%2BgemSaVjz6nS5CtVK43uj9a0LiTl%2BR7DIShVNQZqvv6RJ%2BA1wqS2BJy1d5zfQ4xQxUj%2BXmOuU3D4Z%2B4U%2B1%2FUY%2FzpqYFzqUShIf29Uk3FxWU8vWRcHzxEF50h5qMEDb8OM%2FNe3",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOi4lXDyZZNx5IoopyoUjJI8kkAlmc08N4lN7QpWAp10q9Rlir7Gy%2BmEj1nr9o1R3cp3fTbhWnbx15X9pnXuSaUBMhvJzzxZx1XoJlvDfMPOiEQItoPMzQmPczOI4pyf62%2BJ%2FSc%2Br0Xi%2B4Xp%2FvNjHPnH",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -574,31 +578,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-resine-anycubic-photon-p1-ecran-14k-assistant-ia-cuve-chauffante-3448453",
    "posted_at": "2026-11-07T12:02:17+00:00"
-  },
-  {
-   "title": "PC fixe CSL Sprint 5538 - Ryzen 5 5500, RX 9060 8 Go, 16 Go RAM (1x16 Go), SSD 500 Go (Sans OS)",
-   "price_raw": "755,29€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-fixe-gamer-csl-sprint-5538-ryzen-5-5500-rx-9060-8-go-16-go-ram-1x16-go-ssd-500-go-sans-os-3448436",
-   "posted_at": "2026-11-07T11:45:43+00:00"
-  },
-  {
-   "title": "écran ordinateur lenovo L27q-30",
-   "price_raw": "82.86 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206682177003?_skw=%C3%A9cran+pc&hash=item301f37bdeb:g:s8AAAeSwxDtq7xG5",
-   "posted_at": "2026-11-07T11:57:58+00:00"
-  },
-  {
-   "title": "PC Portable 16.0\" ASUS Vivobook - 16 X1607CA Intel Core Ultra 9",
-   "price_raw": "799,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-vivobook-16-x1607ca-3448328",
-   "posted_at": "2026-11-07T09:27:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1299,
+  "listings_seen": 1301,
   "models_with_reference": 25
  }
 }
