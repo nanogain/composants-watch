@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T19:38:00Z",
+ "generated_at": "2026-11-08T20:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-08T19:38:00.679667+00:00"
+   "items": 338,
+   "last_ok": "2026-11-08T20:08:00.677028+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T19:38:00.679667+00:00"
+   "last_ok": "2026-11-08T20:08:00.677028+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-08T19:38:00.679667+00:00"
+   "items": 368,
+   "last_ok": "2026-11-08T20:08:00.677028+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 6,
-   "last_ok": "2026-11-08T19:38:00.679667+00:00"
+   "items": 26,
+   "last_ok": "2026-11-08T20:08:00.677028+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FjsxrAt5MssRzWrcNe5hqGJ26Oan41ktxao6A%2BvY5dxN6xE%2FJiXO4OjZIvjUQQThYPE02tMbTGR6ACSmItkFow6%2BUER3JgLKecS7SkQ5giGLbpBWF91epGsNG0mx5JrSxv76xoaO9RM3MZ3ai8sN4jCM3cxmNoiNUCfP%2BVk4hR2A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8Tegw2Yf4cFPaPimSoAbcffu0irK%2B5TR%2BcS2kfPc0DYwRMQZsF3HJh4TVX%2B%2BINoF6FhDZhM%2BJDgqTTxKy%2FqetJRXCahucP3SUiWWn6A8vlgdz%2Fm6mxsIUxwSs7MaZeHlGoK2HwGa7ZrS031UXoGHK1gf5AEhH7gQxMYsmUOdF46Q%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -109,6 +109,23 @@
    "posted_at": "2026-11-03T13:34:10+00:00"
   },
   {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 259.99,
+   "discount_pct": 34.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
    "model": "MB:B850",
    "category": "MB",
@@ -124,6 +141,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
    "posted_at": "2026-11-06T12:36:05+00:00"
+  },
+  {
+   "title": "SSD de marque SANDISK de capacité 256Go modèle X600 M.2 format 2280",
+   "model": "SSD:NVMe-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 18.29,
+   "shipping_eur": 0.0,
+   "effective_eur": 18.29,
+   "median_eur": 26.6,
+   "discount_pct": 31.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · luc_nguyen69 (100,0 %, 1 750 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/278055441116?_skw=ssd&hash=item40bd6552dc:g:l-IAAeSwBY1qIeuh",
+   "posted_at": "2026-06-04T21:23:16+00:00"
   },
   {
    "title": "Disque SSD interne Netac NV3000 NVMe M.2 2280 - 1 To",
@@ -195,6 +229,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 17.3\" MSI Cyborg 17 B2RWFKG-001FR: i7-240H - 16 Go DDR5, SSD 512 Go, RTX5060 8 Go, 144Hz, Windows 11 Famille",
+   "price_raw": "1 199,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-cyborg-17-b2rwfkg-001fr-intel-core-7-240h-16gb-ddr5-ssd-512gb-nvidia-rtx5060-8gb-173-full-hd-144hz-windows-11-famille-3449298",
+   "posted_at": "2026-11-08T19:59:08+00:00"
+  },
+  {
+   "title": "Écran Gaming Samsung Odyssey G8 – Dual Mode G80HF 5K 180Hz / QHD 360Hz",
+   "price_raw": "649€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/superbe-ecrans-5k-samsung-27pouce-3449287",
+   "posted_at": "2026-11-08T19:37:07+00:00"
+  },
+  {
+   "title": "[GPU] Microcenter In-Store, ASRock Intel Arc B580 Challenger Overclocked Dual Fan 12GB GDDR6 PCIe 4.0 Graphics Card w/Intel Holiday Bundle (2 Free Games) - $309.99",
+   "price_raw": "$309.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xr7l6r/gpu_microcenter_instore_asrock_intel_arc_b580/",
+   "posted_at": "2026-11-08T20:00:35+00:00"
+  },
+  {
+   "title": "Carte graphique SAPPHIRE Vapor-X HD4890 1Go gddr5 VGA DP HDMI DVI",
+   "price_raw": "24.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860125566061?_skw=carte+graphique&hash=itemc8437a946d:g:4JsAAeSwhRxq8NM3",
+   "posted_at": "2026-11-08T19:56:18+00:00"
+  },
   {
    "title": "Reconditionné : PC Portable 16\" Apple MacBook Pro 2019 - Core i9, 32 Go RAM, 512 Go SSD",
    "price_raw": "679€",
@@ -409,7 +471,7 @@
    "title": "Carte mere GIGABYTE GA-Z68XP-UD3 REV 1.3 Socket 1155",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9rB309Ew%2B8b%2FuPOKJLhD2jKr6DGWwGFAM4hugwwEAg6mmDrOS%2F%2BxyASnKvbaVbf6KHYNZaXacTEOv8xC1e5HmSnHghCG%2FKfqOj9u8MeYgVKTMwi9iUVGQ%2BXkHQ%2FL52qcFba1KeLGI9%2FiTp6ukkMOKp%2Bme%2FFZavmAPdKxTG8k%2F0uJw%3D%3D",
+   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9qqdZI7KUgEuJQLm%2Flz%2Bb4MUnd8NaSHlhPS5MaJeWkAi7bDiLsO46wTmZ6DxHwOzBICmDew6lhy50GQVXvezaaCjOb%2FOVNgPyqEZ%2BpJ7zlZ6C4scBq%2FTN19UJff1IIV1s48ykwRppyEmbTNc%2FwgRLNWyI6gBZ5D41mtJmf9gkpjug%3D%3D",
    "posted_at": "2025-10-27T17:41:36+00:00"
   },
   {
@@ -425,13 +487,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-pack-idea-tab-plus-zag7-121-128-go-gris-luna-3448975",
    "posted_at": "2026-11-08T09:55:17+00:00"
-  },
-  {
-   "title": "Imprimante 3D Anycubic Kobra X",
-   "price_raw": "249€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-anycubic-kobra-x-3448923",
-   "posted_at": "2026-11-08T09:51:00+00:00"
   },
   {
    "title": "Dashcam Auto Avant/Arrière AZDOME M550 Pro - 3 Canaux, 4K + 1080P, WiFi, 3.19 \", IPS, GPS",
@@ -518,36 +573,15 @@
    "posted_at": "2026-10-03T12:36:35+00:00"
   },
   {
-   "title": "Adaptateur pour alimentation labo avec alimentation PC type ATX",
-   "price_raw": "21.39 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/127258892121?_skw=alimentation+pc&hash=item1da1389759:g:qJkAAeSwX6VogN-J",
-   "posted_at": "2025-07-23T13:19:06+00:00"
-  },
-  {
    "title": "[Mousepad] SteelSeries QcK Gaming Surface Mouse Pads 4XL (Cloth\\Prism), 5XL (Cloth) - $19.99 (Appsclusive, only in app)",
    "price_raw": "$19.99",
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xqofye/mousepad_steelseries_qck_gaming_surface_mouse/",
    "posted_at": "2026-11-08T03:15:26+00:00"
-  },
-  {
-   "title": "Mars Gaming MCS1 Boîtier PC Gaming Compact MicroATX Éclairage ARGB 12 Mode",
-   "price_raw": "40.57 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132622436?_skw=boitier+pc&hash=item5a9a1c9a64:g:MRkAAeSw~o9o-Tsv",
-   "posted_at": "2025-10-23T03:28:52+00:00"
-  },
-  {
-   "title": "[GPU] PNY Dual Fan OC GeForce RTX 5060 8GB GDDR7 - Refurbished - ($409.99)",
-   "price_raw": "$409.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqnz0e/gpu_pny_dual_fan_oc_geforce_rtx_5060_8gb_gddr7/",
-   "posted_at": "2026-11-08T02:49:42+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1350,
-  "models_with_reference": 25
+  "listings_seen": 1356,
+  "models_with_reference": 26
  }
 }
