@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T06:38:00Z",
+ "generated_at": "2026-11-08T07:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-08T06:38:00.672249+00:00"
+   "last_ok": "2026-11-08T07:08:00.676258+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T06:38:00.672249+00:00"
+   "last_ok": "2026-11-08T07:08:00.676258+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-08T06:38:00.672249+00:00"
+   "items": 383,
+   "last_ok": "2026-11-08T07:08:00.676258+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 1,
-   "last_ok": "2026-11-08T06:38:00.672249+00:00"
+   "last_ok": "2026-11-08T07:08:00.676258+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bx18Xf6BSdFNerEi6nC56YmwHjCQC847TBU2Kp0U3evrJdIDoXyRJzcWsjmYnSdl106m7vAnHt%2Fx00blhKeVwpGgHyxEA4JAPR1BUF4RdNicFPUEhT8yJCwu9eeNo%2B4ZwqQVWHAYV6Qrpi5Rc3JFEN%2BVfIOCj3298d72u%2FKbEHGg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8wm21iyigODCMepJ74mnfq6bZkwZLrhUrxhZ4dyEkD5MBeoxEQPZrMcaomit1Gqj5L9FUIE2CSJArBAGizOqva4CyprqKmKzLhsXl5o%2BNCWWph%2F86NGJ7hYqQINSxI5uj4CwlEsgWhJETiGbzdg7yeZOtVdYsjHODK8Ha8pxhb2w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -245,6 +245,23 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -263,6 +280,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "ASUS carte mère UX52V UX52VS i7 3537u - Nvidia GT 645 - 10gb ram excellent état ",
+   "price_raw": "125.26 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/278346106318?_skw=carte+m%C3%A8re&hash=item40ceb885ce:g:a20AAeSwiX1qnDAJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lk%2FT5ITttftdmEsRH3c1D1%2Bg%2FL4NY145uBbtNDTI2RIyOa8rZLUhrE3Z2lIUzoeqvWEk7Y6nj%2B%2FU8Ef5%2By8mQtSz6DhMkAyUj4GP7Owch7Jlh78dx9Et0EHqtpBAWtuAXrCFAzpB%2BHYJqaZ12aSyg9ZZswj9kybo4At%2FskdEs5BFjJPSjrQqYXdHKveT1MmMm282hnJHaDj897vbT6MvhLPIYP%2BLscqvV3RVApt%2BMFo18Dc1qlrnQ3P9zMBnz%2Bw9qaWfLcRmUIt%2BDKSVdhTihNL1IovbA7yAZeSPYQ2LDtaA%3D%3D",
+   "posted_at": "2026-09-05T15:05:27+00:00"
+  },
   {
    "title": "Capuchons Touches clavier Pudding GLORIOUS Aura RGB- Plastique PBT, Rétroéclairage, AZERTY",
    "price_raw": "15,99€",
@@ -299,13 +323,6 @@
    "posted_at": "2026-11-08T05:59:28+00:00"
   },
   {
-   "title": "Processeur Intel Core I7 950 4X 3.06GHz Socket 1366 Quad-Core Max. 3.33GHz",
-   "price_raw": "12.55 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237170761199?_skw=processeur&hash=item37387a9def:g:M9EAAeSwXudqeaaQ",
-   "posted_at": "2026-11-08T05:59:29+00:00"
-  },
-  {
    "title": "KINGSTON 8GB 6000MT/s DDR5 CL30 DIMM FURY Beast RGB EXPO",
    "price_raw": "312.96 EUR",
    "source": "ebay",
@@ -325,13 +342,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
    "posted_at": "2026-10-03T12:36:35+00:00"
-  },
-  {
-   "title": "KIOXIA BG4 256 Go SSD interne M.2 NVMe PCIe Bleu PC Portable KBG40ZNS256G",
-   "price_raw": "36.06 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227600100712?_skw=ssd&hash=item34fe05ed68:g:CQwAAeSwuZtq0kUq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l2JTM7qlOWADhnjrz8uFN6PjV3wqSItY3Z613hwprX5Mz%2Bu6%2BFM6KTLiANCmgBYrYBu5d1K1mQlGw2xKzO6isvzZsXEhTvnYh5PddIB7dhc4gBmLhwEnk7dbl5hANa4o3Bw5JYIozcKiqquUZA7w%2B%2FQjYPI4W%2BGh8GvvXc1Bu1em1teKZYtt9BJhWNaytVAUtsyE%2B3MgrcjxMuCz%2Bb5slOxlxTzNyIHcN07t9SFB2pLS8Da5M6ceW6XdFCf6opaWRS%2BrvZoBtbOajNfnuoMUqO",
-   "posted_at": "2026-11-05T21:43:32+00:00"
   },
   {
    "title": "Adaptateur pour alimentation labo avec alimentation PC type ATX",
@@ -369,13 +379,6 @@
    "posted_at": "2026-02-17T11:26:51+00:00"
   },
   {
-   "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
-   "price_raw": "115.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK246%2B0Ng%2Bc3bMyfWrE69R2E6BceLKBE742nOGCf8X%2BvhYcPoK06r3EDX4LIv8pxRjMe98LUevuR%2F7VqfHu%2BcaVi1euOX1wCd0nEM%2B46u8omJyl5beypSToLKwgLrgSafHDbhQ6ZSsRAKRRPrQliRSw6R%2BOdyrLFYrYulUHNTJz%2Bcg%3D%3D",
-   "posted_at": "2026-04-25T17:07:07+00:00"
-  },
-  {
    "title": "[Prebuilt] CyberPowerPC Gamer Supreme Gaming PC, Intel Core Ultra 7 265KF, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD, SLC10060CPGV16 - $2360",
    "price_raw": "$2360",
    "source": "reddit",
@@ -386,7 +389,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOi9iscWxrv5lfpd%2FpZVVevpKQQYzl0ErnfzhM7hW8rwejsf0EaLs%2FBljiLcb0XSVnwyUce3hDu8v6N%2BU9FnmFTkQX59NBEzCoeV1pfSGJQoypnjnuXpnFz2KxXUTVVkdiAR%2BwPcslgS%2Bbrz9IO5bF2E",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOiLxxN9tWLKAtZUyESwxuFS1cqsKO1frnz%2BhgPTsfRy%2BkOXU4qauWw%2F0tnWD8qnHKrK9ARrHcLKMSa3WsW1snFq0hAG3HLf6NLBE8xpyzEPUNyGCHTsaAdbegv09S%2Bh1TmwCJIUo49jBr8medepkmwp",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -612,10 +615,24 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xpznk0/prebuilt_cyberpowerpc_gamer_master_gaming_desktop/",
    "posted_at": "2026-11-07T06:35:08+00:00"
+  },
+  {
+   "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
+   "price_raw": "64.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p11gNFfgso%2FDF0PiWKcOA8qaV416tqxzlCsiO3m3HGKVoH5U2VW0Meg9eqm17NEB37WAKkynGoJ3jJLuqZo1YG%2F20X%2BAlf9xerJ9CzJA4eMtlVbe%2Ba5NCHwXXYieZ2g%2BzZHNU5tQY%2FWjWkpRNbVfN51cpUGHv00Lwiy8Mz3z%2BEZog%3D%3D",
+   "posted_at": "2026-10-15T18:00:37+00:00"
+  },
+  {
+   "title": "Carte mere asus maximus IV EXTREME socket Intel lga 1155 lga1155 H2 z68 z77",
+   "price_raw": "199.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/126048683965?_skw=carte+m%C3%A8re&hash=item1d591647bd:g:bpAAAOSwuBNk1mb5",
+   "posted_at": "2023-08-11T16:52:33+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1278,
-  "models_with_reference": 25
+  "listings_seen": 1280,
+  "models_with_reference": 26
  }
 }
