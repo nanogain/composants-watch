@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T20:08:00Z",
+ "generated_at": "2026-11-08T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 338,
-   "last_ok": "2026-11-08T20:08:00.677028+00:00"
+   "last_ok": "2026-11-08T20:38:00.619357+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T20:08:00.677028+00:00"
+   "last_ok": "2026-11-08T20:38:00.619357+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-08T20:08:00.677028+00:00"
+   "items": 365,
+   "last_ok": "2026-11-08T20:38:00.619357+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 26,
-   "last_ok": "2026-11-08T20:08:00.677028+00:00"
+   "items": 1,
+   "last_ok": "2026-11-08T20:38:00.619357+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,23 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 259.99,
+   "discount_pct": 61.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -88,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8Tegw2Yf4cFPaPimSoAbcffu0irK%2B5TR%2BcS2kfPc0DYwRMQZsF3HJh4TVX%2B%2BINoF6FhDZhM%2BJDgqTTxKy%2FqetJRXCahucP3SUiWWn6A8vlgdz%2Fm6mxsIUxwSs7MaZeHlGoK2HwGa7ZrS031UXoGHK1gf5AEhH7gQxMYsmUOdF46Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FUVUCfUK4rqvZM%2FBZLuzZxO8sd8Zx0o0x0Hz9%2FNsEA%2FpO1DgplFyJRSAdmVplaulTkFA7g1ekgWt%2FhnwWyJXMWEMlnlIvYXmmB7YqZaAOR%2FCQvRXSCZHEp8f25b4AleqdXSIvS5Hb7zfaItZasV9Rm1ugDV3NurfgvYYvAETEJbg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -107,23 +124,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
    "posted_at": "2026-11-03T13:34:10+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 259.99,
-   "discount_pct": 34.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -194,21 +194,21 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "SSD SATA 256Gb ADATA M.2 2280 Disque Dur ",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
+   "title": "Crucial 16 Go DDR4-3200 SODIMM PC4-25600 CL22 – CT16G4SFRA32A",
+   "model": "RAM:DDR4-16Go-3200",
+   "category": "RAM",
    "condition": "used",
-   "price_eur": 24.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 24.99,
-   "median_eur": 31.8,
-   "discount_pct": 21.4,
+   "price_eur": 62.06,
+   "shipping_eur": 3.0,
+   "effective_eur": 65.06,
+   "median_eur": 80.44,
+   "discount_pct": 19.1,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · ppiteso_0 (pro)",
+   "merchant": "eBay · leshopdejode (99,5 %, 198 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860091711375?_skw=ssd&hash=itemc84175ff8f:g:xdIAAeSwBK9q4cIS",
-   "posted_at": "2026-10-28T09:43:56+00:00"
+   "url": "https://www.ebay.fr/itm/237167415631?_skw=ddr4&hash=item373847914f:g:2rEAAeSwgyhq7dLX",
+   "posted_at": "2026-11-06T13:17:56+00:00"
   },
   {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
@@ -229,6 +229,48 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Reconditionné : PC Portable 13,3\" HP EliteBook 830 G8 - Full HD, i5 1145G7, 16 Go RAM, 256 Go SSD (État Correct)",
+   "price_raw": "280,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/reconditionne-pc-portable-133-hp-elitebook-830-g8-full-hd-i5-1145g7-16-go-ram-256-go-ssd-etat-correct-3449309",
+   "posted_at": "2026-11-08T20:20:46+00:00"
+  },
+  {
+   "title": "[Prebuilt] HP ProDesk 405 G8 Desktop AMD Ryzen 5 PRO 5650GE 16GB RAM 512GB SSD W11P $247.99 (after 20% off coupon code)",
+   "price_raw": "$247.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xr8bbs/prebuilt_hp_prodesk_405_g8_desktop_amd_ryzen_5/",
+   "posted_at": "2026-11-08T20:30:55+00:00"
+  },
+  {
+   "title": "[Cooler] Noctua 15cm Air Cooler - $69.99",
+   "price_raw": "$69.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xr88if/cooler_noctua_15cm_air_cooler_6999/",
+   "posted_at": "2026-11-08T20:27:31+00:00"
+  },
+  {
+   "title": "PROCESSEUR INTEL A80406DX4-100  AVEC RADIATEUR (300)",
+   "price_raw": "20.96 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377493026326?_skw=processeur&hash=item57e4567616:g:xQ4AAeSwlKlqAzhR",
+   "posted_at": "2026-09-13T17:50:32+00:00"
+  },
+  {
+   "title": "Processeur CPU Intel Core I5-750 2.66Ghz 8Mo 2.5GT/s LGA1156 Quad Core SLBLC",
+   "price_raw": "9.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147347999904?_skw=processeur&hash=item224ea00ca0:g:BL0AAeSwCJJq7M~j",
+   "posted_at": "2026-06-02T23:35:54+00:00"
+  },
+  {
+   "title": "Bloc Alimentation  NEUF ATX  pour PC     psu sata  startronic   ST-400CPBA+",
+   "price_raw": "24.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/175612710460?_skw=alimentation+pc&hash=item28e3554e3c:g:51wAAOSwKwFj6lAb",
+   "posted_at": "2023-02-13T15:12:35+00:00"
+  },
   {
    "title": "PC Portable 17.3\" MSI Cyborg 17 B2RWFKG-001FR: i7-240H - 16 Go DDR5, SSD 512 Go, RTX5060 8 Go, 144Hz, Windows 11 Famille",
    "price_raw": "1 199,99€",
@@ -342,13 +384,6 @@
    "posted_at": "2026-11-08T16:58:09+00:00"
   },
   {
-   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM SK hynix PC4-3200AA 260 broches HMAA2GS6CJR8N",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147672018116?_skw=ddr4&hash=item2261f02cc4:g:0E8AAeSwBXNq8Kd7",
-   "posted_at": "2026-11-08T16:50:45+00:00"
-  },
-  {
    "title": "Écran PC 34\" Alienware Penta tandem AW3426DW - qd-oled",
    "price_raw": "689,84€",
    "source": "dealabs",
@@ -419,13 +454,6 @@
    "posted_at": "2026-11-08T14:19:02+00:00"
   },
   {
-   "title": "Thermalright Peerless Assassin 120 SE Black, ventirad CPU 6 caloducs double",
-   "price_raw": "70.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198781404084?_skw=ventirad&hash=item2e484b83b4:g:WmkAAeSwm89q8IIG",
-   "posted_at": "2026-11-08T14:08:46+00:00"
-  },
-  {
    "title": "Carte graphique ASUS ROG Strix GeForce GTX 970 4GB GDDR5 NVIDIA GPU - Gaming TOP",
    "price_raw": "69.00 EUR",
    "source": "ebay",
@@ -471,7 +499,7 @@
    "title": "Carte mere GIGABYTE GA-Z68XP-UD3 REV 1.3 Socket 1155",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9qqdZI7KUgEuJQLm%2Flz%2Bb4MUnd8NaSHlhPS5MaJeWkAi7bDiLsO46wTmZ6DxHwOzBICmDew6lhy50GQVXvezaaCjOb%2FOVNgPyqEZ%2BpJ7zlZ6C4scBq%2FTN19UJff1IIV1s48ykwRppyEmbTNc%2FwgRLNWyI6gBZ5D41mtJmf9gkpjug%3D%3D",
+   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9rYtJ2HFYlw4W3ISha4QxaxzqJgAoBiYMgbQXM%2FbXSupdKDj8e3b%2B78ryb4oPFFmAoLo8RQ%2FNeS1j1yM6VPpDI607IvO0EgUj32U4sYh8LOUG%2B1T5oYrlS2a%2FE%2Fg4Xg3PkX%2B4WgkMgYG7ReWQU3SAyme5Sh6cCz%2FmoyWSwsK0TIFA%3D%3D",
    "posted_at": "2025-10-27T17:41:36+00:00"
   },
   {
@@ -550,38 +578,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xqre3j/other_restock_amazon_basics_highcapacity_portable/",
    "posted_at": "2026-11-08T06:04:31+00:00"
-  },
-  {
-   "title": "KINGSTON 8GB 6000MT/s DDR5 CL30 DIMM FURY Beast RGB EXPO",
-   "price_raw": "312.96 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327430740858?_skw=ddr5&hash=item4c3c649b7a:g:lGMAAeSwzwNq5LGF",
-   "posted_at": "2026-10-30T17:26:23+00:00"
-  },
-  {
-   "title": "Aoc 27B36X Moniteur pc 27\" Full hd led noir",
-   "price_raw": "112.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860022402396?_skw=%C3%A9cran+pc&hash=itemc83d546d5c:g:gsAAAeSwsjVq4I2J",
-   "posted_at": "2026-10-08T09:26:27+00:00"
-  },
-  {
-   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
-   "price_raw": "159.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
-   "posted_at": "2026-10-03T12:36:35+00:00"
-  },
-  {
-   "title": "[Mousepad] SteelSeries QcK Gaming Surface Mouse Pads 4XL (Cloth\\Prism), 5XL (Cloth) - $19.99 (Appsclusive, only in app)",
-   "price_raw": "$19.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqofye/mousepad_steelseries_qck_gaming_surface_mouse/",
-   "posted_at": "2026-11-08T03:15:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1356,
-  "models_with_reference": 26
+  "listings_seen": 1363,
+  "models_with_reference": 27
  }
 }
