@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T09:08:00Z",
+ "generated_at": "2026-11-08T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 336,
-   "last_ok": "2026-11-08T09:08:00.684443+00:00"
+   "items": 335,
+   "last_ok": "2026-11-08T09:38:00.619109+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T09:08:00.684443+00:00"
+   "last_ok": "2026-11-08T09:38:00.619109+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 383,
-   "last_ok": "2026-11-08T09:08:00.684443+00:00"
+   "items": 382,
+   "last_ok": "2026-11-08T09:38:00.619109+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-08T09:08:00.684443+00:00"
+   "items": 14,
+   "last_ok": "2026-11-08T09:38:00.619109+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,23 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
+   "title": "Kingston KC600 SSD interne 512 Go 2,5\" SATA III TCG Opal SKC600/512G",
+   "model": "SSD:SATA-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 23.68,
+   "shipping_eur": 2.78,
+   "effective_eur": 26.46,
+   "median_eur": 63.89,
+   "discount_pct": 58.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · boiteachiner (100,0 %, 208 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327445767540?_skw=ssd&hash=item4c3d49e574:g:6nUAAeSw4fpq8D8y",
+   "posted_at": "2026-11-08T09:23:42+00:00"
+  },
+  {
    "title": "SSD M2 NVMe Cusu 3500Q - 512 go Gen3",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8ulHO7htz2d2IgRyVFe%2B9Xz5FXcaheFi%2Bc1emoeL1wO%2B1r6JMnP50NA5uEGtX9g6SlRfDOO%2FDO4eVbTCG1jRmVxYMb%2FOoiZcY5fYRHZn%2F0zAmjdlPdrXGwbnfxJhZtuKhrk595MsSg2aFRW%2FtX%2B%2FB6QwZm8K1kmM%2Bl70Vjvb%2BWQQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8qqvOuL9V8UdQHJyxOaqLy6SbupwoECauF2v6ZF1%2FsFOH%2BkyQz8zv0QVAyM%2BI8tvlHBufO90xF7%2Fflhi5UObRNtYnEz9pbcijbZ0YZmpbT%2FYadzeiRRCQV89gOVT5DZ1muuswqKQvqPpkI3LpWNaf%2FABFyUDNXDiL0YaKZTBBg%2Fw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -141,23 +158,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
    "posted_at": "2026-11-01T11:54:24+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 259.99,
-   "discount_pct": 34.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -228,6 +228,23 @@
    "posted_at": "2026-11-02T10:02:33+00:00"
   },
   {
+   "title": "SSD Micron 2200 256Go M.2 2280 NVMe PCIe Gen3 x4 – Testé – Santé 71%",
+   "model": "SSD:NVMe-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 21.39,
+   "shipping_eur": 0.0,
+   "effective_eur": 21.39,
+   "median_eur": 28.58,
+   "discount_pct": 25.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 371 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860108762705?_skw=ssd&hash=itemc8427a2e51:g:IpAAAeSwMO1q6bT~",
+   "posted_at": "2026-11-03T10:21:23+00:00"
+  },
+  {
    "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -243,23 +260,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
@@ -281,7 +281,35 @@
  ],
  "unclassified": [
   {
-   "title": "Routeur GL.iNet GL-BE3600( Slate 7) Wi-Fi 7, Dual 2.5G Ports, Touch Screen, 3570Mbps",
+   "title": "Dashcam Auto Avant/Arrière AZDOME M550 Pro - 3 Canaux, 4K + 1080P, WiFi, 3.19 \", IPS, GPS",
+   "price_raw": "72,72€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/dashcam-auto-avantarriere-azdome-m550-pro-3-canaux-4k-1080p-wifi-319-ips-gps-3448954",
+   "posted_at": "2026-11-08T09:37:03+00:00"
+  },
+  {
+   "title": "Tablette 13\" Apple iPad Pro 2024 - M4 Wi-Fi +, 5G, 1 To",
+   "price_raw": "1 499€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-apple-ipad-pro-13-pouces-2024-m4-wi-fi-5g-1-to-3448931",
+   "posted_at": "2026-11-08T09:10:16+00:00"
+  },
+  {
+   "title": "Mars Gaming MCS1 Boîtier PC Gaming Compact MicroATX Éclairage ARGB 12 Mode",
+   "price_raw": "38.74 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132740371?_skw=boitier+pc&hash=item5a9a1e6713:g:q6oAAeSw0tFo-T2g",
+   "posted_at": "2025-10-23T04:12:50+00:00"
+  },
+  {
+   "title": "Keychron K10 Clavier de Jeu mécanique sans Fil, échange de Chaleur Pleine Taille",
+   "price_raw": "99.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137912878859?_skw=clavier&hash=item201c3f870b:g:eR0AAeSwX3Fq8DwT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lVJMU0FQC7BucZsvP7nyN%2Fpmh9FcWoKWEP1KcS8l6THMvxOzxediAmw7zJWPjtI5Mee8Lth2iCqgKyX21IFS0uoggwv3Y3OOhy%2BjrrxhwOotKXQT%2BOoPfZ3ayiy8yE5rQSnXUHq6DkeR02bfs7o2m1%2BxHg1JpgAGQQmAmVdF3%2Furm36J7LwBMLEIU19Cy7zW8YWSe8cIUHzqz9BC8Pd2hK20E8opzKo1HdfPohwNEt3sLFOml4xiub%2Bsm1p3rlCsXR7mpyMEZw%2FOGxf%2Fv3zoLd",
+   "posted_at": "2026-11-08T09:26:45+00:00"
+  },
+  {
+   "title": "Routeur GL.iNet GL-BE3600( Slate 7) - Wi-Fi 7, Dual 2.5G Ports, Touch Screen, 3570Mbps",
    "price_raw": "108,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/routeur-glinet-gl-be3600-slate-7-wi-fi-7-dual-25g-ports-touch-screen-3570mbps-3448926",
@@ -293,13 +321,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3448873",
    "posted_at": "2026-11-08T07:45:59+00:00"
-  },
-  {
-   "title": "ASUS carte mère UX52V UX52VS i7 3537u - Nvidia GT 645 - 10gb ram excellent état ",
-   "price_raw": "125.26 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/278346106318?_skw=carte+m%C3%A8re&hash=item40ceb885ce:g:a20AAeSwiX1qnDAJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lk%2FT5ITttftdmEsRH3c1D1%2Bg%2FL4NY145uBbtNDTI2RIyOa8rZLUhrE3Z2lIUzoeqvWEk7Y6nj%2B%2FU8Ef5%2By8mQtSz6DhMkAyUj4GP7Owch7Jlh78dx9Et0EHqtpBAWtuAWMAyn5Xq27vqgAJePpSKXNCJ9bt9QwGcxb%2Fr9L%2FG7RQSXg8AOU4qiXpXcLxQdo7csGK4%2BEZwGHYfMEcEIijoUkbLlRUs0ogOq3x%2FXsYsEkCkm2uPBCYBUmkBtZUdID6YkKAzEpxx3B%2FVEKz3l32ZWCcg09ppBI77KC7%2BTz3MKbOA%3D%3D",
-   "posted_at": "2026-09-05T15:05:27+00:00"
   },
   {
    "title": "Capuchons Touches clavier Pudding GLORIOUS Aura RGB- Plastique PBT, Rétroéclairage, AZERTY",
@@ -351,13 +372,6 @@
    "posted_at": "2026-10-03T12:36:35+00:00"
   },
   {
-   "title": "4GB DDR4 PC4-2666V 2Rx8 Micron/ SK Hynix  RAM Mémoire iMac Laptop SO-DIMM",
-   "price_raw": "20.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318311625238?_skw=ddr4&hash=item4a1cd9f216:g:kk4AAeSwYQVqj~CE",
-   "posted_at": "2026-05-16T10:02:49+00:00"
-  },
-  {
    "title": "Adaptateur pour alimentation labo avec alimentation PC type ATX",
    "price_raw": "21.39 EUR",
    "source": "ebay",
@@ -403,7 +417,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOjSAMTPf5h0DxETR%2BHtWHSpZcpq0s4%2F9SVFiwGSkxD%2FLCFXol8nhyhKgTex0hlJybajBydsjBbEDYf6PcMehuznrRsbjSKXnwKPBR%2FZyr5Iikdv0AvML0d4FMIkae3PuZaUkmStjQ8ZDFFc53x6bYlS",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOi4mShSNHa%2BuqI6ZvHlpHj04fHT1zrIHfBOEJ0FBepbYkIq%2FO04AdImczO62GHC68eA6O4UzRPqXUEGjZWrObOdne5BQRpshoxWhBcSk%2FZg0pkNTVbFS20c9YzXL0%2BN3S7kb7doNjkXFBiCUVkLx7b6",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -615,24 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k16-ryzen-7-7735hs-radeon-680m-32-go-lpddr5-6400-ssd-nvme-de-1-to-oculink-2x25-gbe-wifi-6e-bt52-win-11-pro-3448177",
    "posted_at": "2026-11-07T06:14:42+00:00"
-  },
-  {
-   "title": "[Prebuilt] CyberPowerPC Gamer Master Gaming Desktop, AMD Ryzen 5 5500, AMD Radeon RX 9050 4GB, 8GB DDR4, 500GB PCIe 4.0 SSD Black - $749.99 (After $100 off, 5 star reviews!!!)",
-   "price_raw": "$749.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpznk0/prebuilt_cyberpowerpc_gamer_master_gaming_desktop/",
-   "posted_at": "2026-11-07T06:35:08+00:00"
-  },
-  {
-   "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
-   "price_raw": "64.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p0sHkvhg3lkpFTxT%2FW%2B8aC393MwfILAQ9Tj5aJtEBuVG%2B3xDXB7B9%2BesaFuSnRwWKoebXoJZkzfGP3kTBvGKCqSSgMfKDNNXGXfTSaF9vzzK44ljjbk0owOvkau66Jb66hcftxbEuMcDv8fRh42XLUpVRuUwht8gnhAa4pB6XVqUQ%3D%3D",
-   "posted_at": "2026-10-15T18:00:37+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1280,
-  "models_with_reference": 26
+  "listings_seen": 1285,
+  "models_with_reference": 25
  }
 }
