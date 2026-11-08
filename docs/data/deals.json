@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T11:08:00Z",
+ "generated_at": "2026-11-08T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 337,
-   "last_ok": "2026-11-08T11:08:00.671073+00:00"
+   "last_ok": "2026-11-08T11:38:00.619242+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T11:08:00.671073+00:00"
+   "last_ok": "2026-11-08T11:38:00.619242+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 383,
-   "last_ok": "2026-11-08T11:08:00.671073+00:00"
+   "items": 379,
+   "last_ok": "2026-11-08T11:38:00.619242+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-08T11:08:00.671073+00:00"
+   "items": 5,
+   "last_ok": "2026-11-08T11:38:00.619242+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FKDmrZbdq2nf1E%2BAMFIVTjtZpk6Cm3OG1%2Fxk60Yf8R1IPipc%2FfcrkR%2BTFgwiSOEhW40FBh2P9OhA31%2BfSWSTggl3hgyi0hwbD2i7mEVlX--8UWulaS9DOM%2B54nVa4HowhI1dqV36XmC2mkboVgn74T4hjtdFeKYSZOLuJ5nyYOvw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BLAK%2BO4HjxqhUvDh3On1537GddPbEluYMfEhm4U%2FB%2B49ud%2BHneJ%2BOXkQxVIhXkEnrqCNzMGIKCEzH%2BaS1J4M5pbLWfFPO0oXcYC5hEsda3Wl2zVbRX10jBSD9O9z7q1pJp6%2B9tg639MO5d0lJ2H4i%2F4j8fproLUE2aWNG6ER0Zkw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -141,23 +141,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
    "posted_at": "2026-11-01T11:54:24+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 259.99,
-   "discount_pct": 34.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -243,6 +226,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
@@ -414,7 +414,7 @@
    "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
    "price_raw": "115.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK0qZnx6f%2Ff1W%2FyC2PU%2Bnd6gSmBsffy%2BtWIQB8%2FyFQaVWzv3L6mw%2FpMxw5FDPmp1VPn7ysitbWe%2BjnFhaJy4vNG9kCAOasj06aUvBn7yAn986IBtyNE65CKZXbwW0mdAmwaFKHUnc6%2FqYGD8iOBgSZaS9kVzLL59KDydToY%2B4pPsrA%3D%3D",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK1govZ%2F3GzQcgAASVjF81JMNvBNr6sLoL1Otg7WTVWl3UvSbQMk%2F3Mcvi5COOlglmyctx4mIX8RILs%2BKpeK%2BqUXtzx97DPZEWE62aWt3gWygmOKruLaBiNwV3%2BICVGrLj85VEgHVMN%2BR8TL%2BQ3Qz9ISIXStD0r8EsdwG9Upr%2FuLmw%3D%3D",
    "posted_at": "2026-04-25T17:07:07+00:00"
   },
   {
@@ -428,7 +428,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOhGe--YR1fWqlV3FEPm9sdhaS8rAs5WAV%2BmfAkDR2DoyTxIkjsADpfdRUHR2k%2BiugWMtCgVIx56jSzzdE3%2BNO2ne%2FCDnVQE7Qc3%2BAgKwSK%2BIloGIelvMeb0ieERvFUKtc5be496TKBgYA6ivBf%2BPwN6",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgibyuUNYvkpUgYEq4VUHFM2oAOqzXUaBG4toXd12AJtb6umUMKC%2FcOt6fUznJEhO5%2Fxv%2BN8S7QpPobgFnkOOmLIL1P7N0ZuuaktbMSHI8kKApmQXjhQmttvScDvBlFPN38Df1l9lVKjCpaRd3X8LWJ",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -615,7 +615,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1293,
-  "models_with_reference": 25
+  "listings_seen": 1295,
+  "models_with_reference": 24
  }
 }
