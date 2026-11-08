@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T04:38:00Z",
+ "generated_at": "2026-11-08T05:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-08T04:38:00.624170+00:00"
+   "last_ok": "2026-11-08T05:08:00.698884+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T04:38:00.624170+00:00"
+   "last_ok": "2026-11-08T05:08:00.698884+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-08T04:38:00.624170+00:00"
+   "items": 380,
+   "last_ok": "2026-11-08T05:08:00.698884+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 4,
-   "last_ok": "2026-11-08T04:38:00.624170+00:00"
+   "items": 80,
+   "last_ok": "2026-11-08T05:08:00.698884+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
-   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 60.49,
-   "shipping_eur": 0.0,
-   "effective_eur": 60.49,
-   "median_eur": 149.99,
-   "discount_pct": 59.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-official-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
-   "posted_at": "2024-11-07T06:12:38+00:00"
-  },
-  {
    "title": "SSD M2 NVMe Cusu 3500Q - 512 go Gen3",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FoSdme53W20CaUe9i39iKnwkeARuorsELNXUbh32Aof8%2FjbGEc11s0UqRfi%2BJQcwNXiJPYjW9rxDeMkTls6wjaU3NK50z0x4eIY6NJOQ0lXOKAIX1laHllcwHU78RU%2FO2ImD1CgIBUsJ5kR5lIUdHOGmbw6jQgUfiU7Fhaf8HUJA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9pkgtd%2FzuwTnOEwTXIEBhJ2UnSfeU%2BlDitHp9Qc8sp1KJedmtMvB72Mx5zzYUtoXAmKEpnP3gc%2FPpYzBpgIPBAxi2wVyovwWciHdGCLiNGOagOF9%2BT4mu--ZLMIXaX4xHerSPplbAydrLOOGh1pPFvUCRhPSAqPmFYwEHrbuHqfw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -228,6 +211,23 @@
    "posted_at": "2026-10-18T19:43:25+00:00"
   },
   {
+   "title": "WDS500G2B0A WD Blue 3D NAND SSD Interne 2.5\" SATA 500 GB Go",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.0,
+   "shipping_eur": 2.9,
+   "effective_eur": 47.9,
+   "median_eur": 69.0,
+   "discount_pct": 30.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · night-2840 (98,8 %, 834 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860121388130?_skw=ssd&hash=itemc8433ad462:g:mOcAAeSw-UNq5D3S",
+   "posted_at": "2026-11-07T09:59:03+00:00"
+  },
+  {
    "title": "Disque SSD interne Netac NV3000 NVMe M.2 2280 - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -245,6 +245,23 @@
    "posted_at": "2026-11-02T10:02:33+00:00"
   },
   {
+   "title": "SSD Micron 2200 256Go M.2 2280 NVMe PCIe Gen3 x4 – Testé – Santé 71%",
+   "model": "SSD:NVMe-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 21.39,
+   "shipping_eur": 0.0,
+   "effective_eur": 21.39,
+   "median_eur": 28.58,
+   "discount_pct": 25.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 371 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860108762705?_skw=ssd&hash=itemc8427a2e51:g:IpAAAeSwMO1q6bT~",
+   "posted_at": "2026-11-03T10:21:23+00:00"
+  },
+  {
    "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -260,6 +277,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
@@ -286,13 +320,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/327430740858?_skw=ddr5&hash=item4c3c649b7a:g:lGMAAeSwzwNq5LGF",
    "posted_at": "2026-10-30T17:26:23+00:00"
-  },
-  {
-   "title": "Carte mère Gigabyte MJ11-EC1 AMD EPYC 3151 4x2,7 Ghz Mini-ITX + serveur adapt...",
-   "price_raw": "119.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188354350791?_skw=carte+m%C3%A8re&hash=item2bdacb4ec7:g:pFgAAeSw8WZq6yEh",
-   "posted_at": "2026-05-06T11:26:45+00:00"
   },
   {
    "title": "Aoc 27B36X Moniteur pc 27\" Full hd led noir",
@@ -344,13 +371,6 @@
    "posted_at": "2026-02-17T11:26:51+00:00"
   },
   {
-   "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
-   "price_raw": "115.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK0T31hTPurCszhBYupjoKmsHPLIt6qYYWWPa9052%2BhfLfCXOa6EGort%2BLCsLBogb8A5RQaun46jtN4Uh%2FUNYcwiD6Gnr%2FevNigDitzQrLXLkySUTgAzy0mK4Aup01vKw35nW%2BKibS0yeci4gJfhVdg8z8YSrdCkXPa6xORjzbcTrg%3D%3D",
-   "posted_at": "2026-04-25T17:07:07+00:00"
-  },
-  {
    "title": "[Prebuilt] CyberPowerPC Gamer Supreme Gaming PC, Intel Core Ultra 7 265KF, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD, SLC10060CPGV16 - $2360",
    "price_raw": "$2360",
    "source": "reddit",
@@ -358,17 +378,10 @@
    "posted_at": "2026-11-07T21:48:38+00:00"
   },
   {
-   "title": "#2 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307271903717?_skw=ddr4&hash=item478ad529e5:g:EqcAAeSwvr1q75cX",
-   "posted_at": "2026-11-07T21:25:00+00:00"
-  },
-  {
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOhGjcNiBckitUbiD4aLq5HYvf%2B2mZNR98hW9lKeCfA6lP8zW7skdAuD1smBVdVT8Y%2BGJD1cWqH0IXCpj0A6E6lmxWEfA2pADOmBAffQSXBLkhkU0OKgLVgBMrEhqfPjsgMLz41EyQW3Jz1BS89hIUkE",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgp3Gqy%2B%2Bd9Ldv74jTh9L%2FCTit2IbdmXyhtrw7CC5dqadmWgBY%2F7vWcWeSzdFUmTzTQEb3Akpxo4UDy1p2lV%2FSe%2FUZ27yx1qC6kPkDYqB9qIYKq%2FDT%2Bh0%2BfvgpoSDsHoOZm59g2oCwaUT%2BZ8NHVO4OO",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -599,7 +612,7 @@
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p330hf%2FNgsbtzEA4JaEokFK8OJjgFw0E9oF%2Bd9ONFlpnevlFNLHtRgzI82TzwyZvg5DEqKPmf3%2FgzH0yyfbt4Wc%2BMr5D9JeHtz6RFnlpRnoIwXTAsfLz1uwp7nJvvoJkuTm%2FcssqpnKAdh7BksxvafBrElnQkHNqz8qa7R5Oe9zag%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p34qOHLaM0yP4PKzgrg%2F4pixOa0x5crPCB1RwWHJrMCV%2F01BnZGQN306BPxwzvCanKghMn0jWCSIn8%2BcBCqQaL5Ds%2Fy0Mcazo9tloi29RNKQSTL%2BFQmN2vgjpFjLA%2FYTSbSywtKxgYJgXofIYZnHGA9C3pKggIyJxp5mkWzVCFBUg%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -629,10 +642,31 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xpw3d0/mouse_pulsar_x2h_es_medium_wireless_gaming_mouse/",
    "posted_at": "2026-11-07T03:16:09+00:00"
+  },
+  {
+   "title": "Processeur Intel Core i7-620M 2 cœurs 2,66 GHz 4 Mo PGA988 SLBTQ Garantie : 2...",
+   "price_raw": "33.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800836148843?_skw=processeur&hash=itemba758dde6b:g:w-IAAeSwmJNq3b7H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOqnvEoYaaLKsHb5fcxQl1pKj%2BHtm9HOO93lizqLwL3mNnaV%2F%2BE0YXW5wRsmJzKrWiALBJLUliPbqqePKr%2Bxo5e%2FSXwPiV57t7WMkVmH20BP76XKddEnwQEAHT3cOwAoM5OLDMmvI7fJX%2FOdL2AloKH1E29nFvd3rUfA0Nxom3yAkXmhF3HX9AutC8gvp3p7CAZEqP99hjIR7ZdCXqmCNb3Td%2FcFR1zHjxwbpdu%2Fvwb93a4mtdVQ1ApJuLAMD%2BmE%2F5gzDYk3h4U%2BxxwNC6IfnIg1zn5berxx%2BVhjwYvH%2Fkmg%3D%3D",
+   "posted_at": "2026-10-25T09:10:49+00:00"
+  },
+  {
+   "title": "[Mouse] Logitech - PRO X SUPERLIGHT Wireless Optical Gaming Mouse with HERO 25K Sensor - Wireless - Black - $64.99 (Save $75)",
+   "price_raw": "$64.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xprv3g/mouse_logitech_pro_x_superlight_wireless_optical/",
+   "posted_at": "2026-11-06T23:47:39+00:00"
+  },
+  {
+   "title": "Alimentation PC Asus Prime - 750W, Bronze, White Edition, certifié 80 Plus Bronze, ATX Non modulaire, câble gainé gravé",
+   "price_raw": "64,11€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/asus-prime-750-w-bronze-white-edition-certifie-80-plus-bronze-alimentation-atx-non-modulaire-cable-gaine-grave-3448145",
+   "posted_at": "2026-11-06T23:08:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1273,
+  "listings_seen": 1275,
   "models_with_reference": 25
  }
 }
