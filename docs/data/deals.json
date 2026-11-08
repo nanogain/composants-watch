@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T21:08:00Z",
+ "generated_at": "2026-11-08T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-08T21:08:00.685636+00:00"
+   "items": 337,
+   "last_ok": "2026-11-08T21:38:00.674906+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T21:08:00.685636+00:00"
+   "last_ok": "2026-11-08T21:38:00.674906+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-08T21:08:00.685636+00:00"
+   "items": 368,
+   "last_ok": "2026-11-08T21:38:00.674906+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-08T21:08:00.685636+00:00"
+   "items": 79,
+   "last_ok": "2026-11-08T21:38:00.674906+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FgmB24uNuf9%2BNGDytZNjtLPQz%2FTNGjuk9vWyWs5rt0zpM%2Bw8fnipOiQIlq4PnWPinB%2F2w9W3uX%2F5uZhsl00KPjUK3teUPaTi39kochbkQRVHcd%2FKK5rP1mjxs9ynnjYZa4CfNQxkBi20lvCcgJNRGZEgXT7rddCznbZBcJOQxDJQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9EvUJ7uTf1c0w3V%2BKaSUyQ81Oqe5gFyXSfZpvVdZnli9Zw7n7ljQYXAXQ%2FWbz%2FdHT%2BTyHdaY%2FyVMpRj1dLphnGcxgQIgqLfO%2BCva4XWrZE%2BCecKjFsOXhYZylqxB6XNZG1Tqp8OjK7GHLKaVi%2FEYGV%2B8UwiCjcsxbLFVL8ZoW7Kw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -211,6 +211,23 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
+   "title": "SSD SATA 256Gb ADATA M.2 2280 Disque Dur ",
+   "model": "SSD:SATA-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 24.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.99,
+   "median_eur": 31.8,
+   "discount_pct": 21.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860091711375?_skw=ssd&hash=itemc84175ff8f:g:xdIAAeSwBK9q4cIS",
+   "posted_at": "2026-10-28T09:43:56+00:00"
+  },
+  {
    "title": "Crucial 16 Go DDR4-3200 SODIMM PC4-25600 CL22 – CT16G4SFRA32A",
    "model": "RAM:DDR4-16Go-3200",
    "category": "RAM",
@@ -247,17 +264,45 @@
  ],
  "unclassified": [
   {
+   "title": "Moniteur Gigabyte G34WQC2 34\" VA 200 Hz",
+   "price_raw": "249,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gigabyte-g34wqc2-moniteur-34-va-200-hz-3449333",
+   "posted_at": "2026-11-08T21:19:13+00:00"
+  },
+  {
+   "title": "CARTE MERE - MOTHERBOARD - ASUS ROG STRIX MAXIMUS XI FORMULA - BOXED",
+   "price_raw": "362.68 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880078369877?_skw=carte+m%C3%A8re&hash=itemcce8c23455:g:QCEAAeSw~uZq6aoh",
+   "posted_at": "2026-11-03T09:35:48+00:00"
+  },
+  {
+   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
+   "price_raw": "299.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
+   "posted_at": "2026-10-03T12:36:35+00:00"
+  },
+  {
+   "title": "Moniteur PC 1500R 23,6 pouces – Performance Full HD avec angles de vue larges",
+   "price_raw": "152.97 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407271569305?_skw=%C3%A9cran+pc&hash=item5ed346f799:g:uPEAAeSwpb1qxVEK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ky6bWVfj0puKtmdMlH514zqiF%2F5ni6yogaTnjPMprrWsiIIdCJmraLsIrxJMVYd%2BYZ%2F7dBYY5Tv0YgBzFNVrgo6Rf2tJszSBss9NiEDuUtBE%2FvbII8hXeGDQqcttGJSjI1ZToZ%2FiOVUMJ7wU7I1uvZjfVY2s92rNfu6hDbB3ls3zMKYe8EbDDv6iy0rGNkNdTk7nXBkJmtnjeoN3fGGGTDlyjDQd4nGjD7frwURvu7qTYs7%2Fuk40GHlw61LQLe9g2ofwISF8%2FbmVxd5kbBK54lI9GBdlLdsvAX3s15QfFTmA%3D%3D",
+   "posted_at": "2026-10-06T19:55:41+00:00"
+  },
+  {
    "title": "Carte graphique MSI Radeon R7 370 GAMING 4G – 4 Go",
    "price_raw": "54.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/397751345683?_skw=carte+graphique&hash=item5c9bd3e213:g:ZWsAAeSw7-tpwVby&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kgxCmnK5SPMm%2B9b51aDK1g6B0zVwgH7OX1FzhdXTtjDywWOrmxJARSFxshajCWbA13a7Q1fNS%2F2020rfUD3tszXHzscQ--Li9pkxr%2BxZbKgzl2IVCBQg8l7pes1nU5zS2AvGLw5lN%2BCvkdwuvHQDsLFo1h7d1669roH8SolvHxxl%2BJt634wwkVx1CUbJF6Nwm2h7EiQAyN%2FrH%2F96OIu2vC86%2BqWOFNcsenP3ycPXQzU9OIcRQsx7V%2BqO2epBAhuMVB3LD%2FHpGFH1Yj72Yo436cVhP08XoFupVghYHPiRcNCg%3D%3D",
+   "url": "https://www.ebay.fr/itm/397751345683?_skw=carte+graphique&hash=item5c9bd3e213:g:ZWsAAeSw7-tpwVby&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kgxCmnK5SPMm%2B9b51aDK1g6B0zVwgH7OX1FzhdXTtjDywWOrmxJARSFxshajCWbA13a7Q1fNS%2F2020rfUD3tszXHzscQ--Li9pkxr%2BxZbKgzl2IVCBQg8l7pes1nU5zS0qJ8DhdzeaTxfgO4qjeF1LKFTYwaFSe15UrguGDljF49SoH8xHV%2F7SuXy4Xv4TenYVAS1r4Rd%2Ft8akxog%2FkhM76eVr5IvJPqBYAE%2BjYLMTn8tNrO%2F5XqFXRetLOaIgY5tMbvMMtBG45Gz73ht%2BJJEnGyIqptZsmUrqZAeDkhP7lA%3D%3D",
    "posted_at": "2026-03-23T15:12:01+00:00"
   },
   {
    "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
    "price_raw": "8.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIKyTIGUrwki0NAmJ3L6o87RC666OBXU6RN5GR9YP4d8jnB8qvbG%2BYY6aQepg4%2F8uCBN0sQvBiYgx22plgrhG8s5PopRm3UvkAU6o7a3OfDLTbQlkFfe76QH%2BRlr3TSaYEgWtRLgieLB39TMy1FIOjqI",
+   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIJLtelTk69D%2FA7pDFvSyWpCJXpd4nM0NWtsryPKtYOqMOgk862JcldVDDKSQUxwMp0Mqp2eS5ZmGMiF%2B--ZDJIS2TjpMsiR9Ji80y8fJt9pAU3rJkVqBFJS0avG7P3qQ5P9hD18PZwOQ6aI2cyI4sd5",
    "posted_at": "2025-06-11T17:22:06+00:00"
   },
   {
@@ -415,13 +460,6 @@
    "posted_at": "2026-11-08T16:58:09+00:00"
   },
   {
-   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM SK hynix PC4-3200AA 260 broches HMAA2GS6CJR8N",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147672018116?_skw=ddr4&hash=item2261f02cc4:g:0E8AAeSwBXNq8Kd7",
-   "posted_at": "2026-11-08T16:50:45+00:00"
-  },
-  {
    "title": "Écran PC 34\" Alienware Penta tandem AW3426DW - qd-oled",
    "price_raw": "689,84€",
    "source": "dealabs",
@@ -574,31 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/routeur-glinet-gl-be3600-slate-7-wi-fi-7-dual-25g-ports-touch-screen-3570mbps-3448926",
    "posted_at": "2026-11-08T09:06:01+00:00"
-  },
-  {
-   "title": "Processeur AMD 9800X3D",
-   "price_raw": "389€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3448873",
-   "posted_at": "2026-11-08T07:45:59+00:00"
-  },
-  {
-   "title": "Capuchons Touches clavier Pudding GLORIOUS Aura RGB- Plastique PBT, Rétroéclairage, AZERTY",
-   "price_raw": "15,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/capuchons-touches-pudding-glorious-aura-rgb-plastique-pbt-retroeclairage-lumineux-blanc-fr-azerty-3448832",
-   "posted_at": "2026-11-08T06:17:00+00:00"
-  },
-  {
-   "title": "[Monitor] (Woot) Samsung 27\" LS27HG610SNXZA Odyssey QHD-OLED G6 Gaming Monitor (2026 Model) (Open Box) - $339",
-   "price_raw": "$339",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqroi8/monitor_woot_samsung_27_ls27hg610snxza_odyssey/",
-   "posted_at": "2026-11-08T06:22:24+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1369,
+  "listings_seen": 1373,
   "models_with_reference": 27
  }
 }
