@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T03:08:00Z",
+ "generated_at": "2026-11-08T03:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-08T03:08:00.623907+00:00"
+   "last_ok": "2026-11-08T03:38:00.679746+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T03:08:00.623907+00:00"
+   "last_ok": "2026-11-08T03:38:00.679746+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 386,
-   "last_ok": "2026-11-08T03:08:00.623907+00:00"
+   "last_ok": "2026-11-08T03:38:00.679746+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 35,
-   "last_ok": "2026-11-08T03:08:00.623907+00:00"
+   "items": 0,
+   "last_ok": "2026-11-08T03:38:00.679746+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FxJx3I6N%2FWxC%2BzppQMD7hVZoiUl%2F5af%2FnkQYMLvFmeGvZ4%2FPN%2BR7QG4OUN91VPl7bVHQxfbrR88kXjPArkGJAdKz1OQ%2Fmvi2ZJkM09ove%2FNV6ue%2FaurNmDLeNGUSA%2BQNIKiLUQek1FKHoCx4%2BzR6%2BlB0deocdmkhkaa2Tc72MxaA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8hkDv3Bsw%2Fq%2F%2BnEGucmvD99BYQQWThN%2FaSbs3yBvU6nlH8SETSUUH%2F0RPDCZVDzyorgbQfdl9FhlFlWMLK9NXnOJflZ0AmFy8EaV7mgMNkeMPVMpTm%2BkTD6eQjvv9L5IE9uENr3gqGqNJTOYU54pvJ7w5fMYjw5hHjMMrjFvvVfQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -281,6 +281,27 @@
  ],
  "unclassified": [
   {
+   "title": "[Mousepad] SteelSeries QcK Gaming Surface Mouse Pads 4XL (Cloth\\Prism), 5XL (Cloth) - $19.99 (Appsclusive, only in app)",
+   "price_raw": "$19.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xqofye/mousepad_steelseries_qck_gaming_surface_mouse/",
+   "posted_at": "2026-11-08T03:15:26+00:00"
+  },
+  {
+   "title": "Mars Gaming MCS1 Boîtier PC Gaming Compact MicroATX Éclairage ARGB 12 Mode",
+   "price_raw": "40.48 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132622436?_skw=boitier+pc&hash=item5a9a1c9a64:g:MRkAAeSw~o9o-Tsv",
+   "posted_at": "2025-10-23T03:28:52+00:00"
+  },
+  {
+   "title": "HIDITEC DSP0000007013 Boîtier d'ordinateur SM10 MINI ITX USB 3.0",
+   "price_raw": "99.33 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206676231686?_skw=boitier+pc&hash=item301edd0606:g:FpsAAeSwKnFq68mZ",
+   "posted_at": "2026-11-05T00:04:05+00:00"
+  },
+  {
    "title": "[GPU] PNY Dual Fan OC GeForce RTX 5060 8GB GDDR7 - Refurbished - ($409.99)",
    "price_raw": "$409.99",
    "source": "reddit",
@@ -326,14 +347,14 @@
    "title": "carte mère makerbase mks dlc v2.0",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377054396410?_skw=carte+m%C3%A8re&hash=item57ca317ffa:g:i1kAAeSwtgZpv8Rc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7noMu75FCuXdMXaqZGfgKCg199jHZLRGcHcFiwhJqmvujXPq1olToUOmPgOwGrX3%2BkhVQY6B6VQaIdXwYUKgnS1LRy46kbCcPTV9W2ottAGVM8YmBtLCWyVLwxvLaNxDp3e0QCdqNef6Y6LRX9FuWRnod1UMufDCX7Ft3euEV3PTZzcszyM%2F01BJhiR1ltT6ybMAvILhfTU3lp9XXWhGMiZmlYRjZnvLARkLM9d9bluLvLebhnYWPePthYKoD%2FfB02FSapt7cnJA9ZSJZrGQ8ns2WSFkfdE%2FgWtCv5QZCyOHA%3D%3D",
+   "url": "https://www.ebay.fr/itm/377054396410?_skw=carte+m%C3%A8re&hash=item57ca317ffa:g:i1kAAeSwtgZpv8Rc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7noMu75FCuXdMXaqZGfgKCg199jHZLRGcHcFiwhJqmvujXPq1olToUOmPgOwGrX3%2BkhVQY6B6VQaIdXwYUKgnS1LRy46kbCcPTV9W2ottAGVM8YmBtLCWyVLwxvLaNxDp1c4lI02EQkNw2T0ZaAQAr%2BMoyTOxgenYeXjob5NQm2O4m3OPI%2FUUtKzI6OdJ3YroizpTzP9e2BmZZeXTsB7ml9entgD5AfLsLQciVDQXkUoY3aWJnEwtRSxXTbcb0jaVzajqpLq%2BXTg03Cj89gs4IXO2r9QT%2Bu4xKKMj1kvulzaQ%3D%3D",
    "posted_at": "2026-03-22T10:29:37+00:00"
   },
   {
    "title": "Disque SSD SMART 64Go mSATA SATA III SV9MST6D064GJM22HN Garantie : 2 ans",
    "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800854795551?_skw=ssd&hash=itemba76aa651f:g:w2kAAeSwo25q42lJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m%2FgDrqxoig7pqNYK7azm8FN4RIVAd0FI5fRkc%2FOM3%2BwDIB4HT7oKu0M555TzBOtQMBdDTAH0Gle3fo0bJP6iC9b9wx1acADlcFdHVL1kJ47Icu2vu4FtUUaVf7ixblG%2BCMHX0eUPweYHWk7znLVQpTS2UAdODcT8YTAQvrn%2BfGapDQmu6tTK8X%2B0XhrqZjO5X2nZ1Sj09u5wQUVvr9zxDjhczdxvfGH6tqSO7cuRAkx%2BGp1q6FjTkgDKpCLHYF6jLhuZQqqlWuOfAe2AYv4eFM",
+   "url": "https://www.ebay.fr/itm/800854795551?_skw=ssd&hash=itemba76aa651f:g:w2kAAeSwo25q42lJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m%2FgDrqxoig7pqNYK7azm8FN4RIVAd0FI5fRkc%2FOM3%2BwDIB4HT7oKu0M555TzBOtQMBdDTAH0Gle3fo0bJP6iC9b9wx1acADlcFdHVL1kJ47Icu2vu4FtUUaVf7ixblG%2BCXEg8%2Bpp9upXji77Q6TE3eZKfRz1Vb2jS7sthhJ9jByS6m4n6VP0ZAx%2BJntAYoI%2BeJCmuv51gxrJkgobuDoHWILEFbK6KrIj%2FJujGO3kh3C%2F3inbnNo9SxjMuZouMOoph3liX2EPYB6PPWeB08QLW%2B",
    "posted_at": "2026-10-30T08:12:08+00:00"
   },
   {
@@ -347,7 +368,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOiyxWcTvdp5rCGnVpf%2BO7nFd8mxgs2rywWrg6pbsxrRdxScx2TdJE13yXEk5orh%2B68lJOSFOys84NuZ4EFEPONGr4DD5lBdgRpXacTTagNtP%2FT8Ir7qvFLKC7rezTWS7cuAY2GojyGLeL%2Bf%2FVfNje81",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOiUSpzhGbUQ6ttqrQA2hlsKdpQqNL1oMilYzt9Jz1YNuYRYQMZQ3HqNmpR9rgnr7rDkfS3LRzsMpSj8loyXsUN3Nrln8VrlxpKQ0l4Vjfbqbm0Hz2cHdxKgGFGXp%2BUXCONmRr7OkWvIhvtlNak08hmY",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -599,7 +620,7 @@
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p0tR5Tx43jMVLPrcCOsszsrUWufTHrUv%2BqY0iNov8eaIEyPEO2X3iJTetu5mwfezTvgkCqaAcpgY2lfaN7w14EnAOkJHrqB8HJxMNRJ6ghlCHXJEIskQEfzSFXEYOCtbThpxEJPJPbfqLeQyNtnwWYHZhUHNCJKE1EmTpN32vZDxg%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p24SXUOVvgLpt1zOUfFKl3kfWkb7PgWNzoZLFDPY82U0d0WyjPS1qeCexOoyWZ%2BFaPGtlFGmxrDqkel8ufOOVbggRrV7ZQ9kz8KAFz%2FG86KH4c4MYCNJUHooQ6UuQ2GIb3QzIx5EDyIlhpIwftQOzoBk1QZYoSDNtdSHyrB6jOy8Q%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -608,31 +629,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/126048683965?_skw=carte+m%C3%A8re&hash=item1d591647bd:g:bpAAAOSwuBNk1mb5",
    "posted_at": "2023-08-11T16:52:33+00:00"
-  },
-  {
-   "title": "iTek Origin Boîtier Tour Noir Rouge Pour Gaming PC Desktop Garantie",
-   "price_raw": "49.07 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198746415613?_skw=boitier+pc&hash=item2e4635a1fd:g:yngAAeSwRldqGY6o",
-   "posted_at": "2026-10-26T08:13:17+00:00"
-  },
-  {
-   "title": "Clavier azerty sans fil ultra-mince pour iOS/Windows/Android/Smartphone / PC",
-   "price_raw": "29.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/285832820977?_skw=clavier&hash=item428cf6b8f1:g:OEcAAOSwAZJiZoS2",
-   "posted_at": "2024-04-27T07:11:37+00:00"
-  },
-  {
-   "title": "[TV] TCL - 98\" 4K HDR SQD-Mini LED Smart TV - $3000",
-   "price_raw": "$3000",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xpwpoo/tv_tcl_98_4k_hdr_sqdmini_led_smart_tv_3000/",
-   "posted_at": "2026-11-07T03:49:08+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1257,
+  "listings_seen": 1260,
   "models_with_reference": 27
  }
 }
