@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T12:08:00Z",
+ "generated_at": "2026-11-08T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-08T12:08:00.633747+00:00"
+   "items": 338,
+   "last_ok": "2026-11-08T12:38:00.623635+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T12:08:00.633747+00:00"
+   "last_ok": "2026-11-08T12:38:00.623635+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 381,
-   "last_ok": "2026-11-08T12:08:00.633747+00:00"
+   "last_ok": "2026-11-08T12:38:00.623635+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 75,
-   "last_ok": "2026-11-08T12:08:00.633747+00:00"
+   "items": 80,
+   "last_ok": "2026-11-08T12:38:00.623635+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B6BpR9d8%2FevBPZP6CNXe3JE134Q7N0fKgX6eoSD82DonH%2B%2FaeTAgrDsRcqk1NLDAgMhfcOw8eQuibvdKNoIlB0O0z%2FT%2FkahWa5qFNZBtyoh0mgvyrNa32ul5rkOWh64N5MjPxte0vociD%2BdN9hEjR9ZnTG6a%2FqX2QHJ9bAtNn66A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B%2FscxzIkx3ZgSQUoHYADE6BD%2BdiafS26%2BY31SZVnJt7zsJEEM2%2BnSpLSnIEnoc9F8c5o7YAzmiq3FL83IAWiEPt8xak6VzgXNHLBJfweIHXeH6VZC5I3T37jPK1ZCoogUgjCI0xVsXBiyHrmvFAvrf%2B25%2BFkEOz5CZTq3D%2B1rQFA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -228,23 +228,6 @@
    "posted_at": "2026-11-08T11:46:07+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD M.2 Fanxiang S880 - 1To, 7300MB/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -263,6 +246,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Câble Ethernet RJ45 - 1m, Digoloan en nylon Cat 8, (Vendeur tiers - via coupon)",
+   "price_raw": "4,79€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/cable-ethernet-rj45-1m-digoloan-en-nylon-cat-8-vendeur-tiers-via-coupon-3449039",
+   "posted_at": "2026-11-08T12:11:12+00:00"
+  },
+  {
+   "title": "Kit 32Go (2x16Go) RAM DDR4 SO-DIMM Samsung 2666 MHz PC4-21300 portable",
+   "price_raw": "109.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147671794957?_skw=ddr4&hash=item2261ecc50d:g:8m4AAeSw67hq7dYX",
+   "posted_at": "2026-11-08T12:31:23+00:00"
+  },
+  {
+   "title": "Carte mere GIGABYTE GA-Z68XP-UD3 REV 1.3 Socket 1155",
+   "price_raw": "62.06 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389152179189?_skw=carte+m%C3%A8re&hash=item5a9b4703f5:g:en8AAeSwS6xo~6iF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOOT0A%2F3%2BIN2cRSmKNDNpMSdZM4SV7U5bUWEUYBJm5KCWAlo81gKVA%2FFyv2WJFnZM5S62xiD6Eb4pXk%2B%2BLRCm%2BnhrjwCnJl%2BL%2BUs5%2FAldjudRevBfuSk%2BkjhdEeUEHz9rGHAUdL0Mu5nBIrhAobp8Dt4LVr5J9SUl9fIKRK8zDcC7o6sPg1HaDnwPYN%2F83T0yHVX5%2FIm1sbYte%2FI615owpqqynrY38s%2B0lxLCEOx3r0a4mMiBfGdJtIFGpWK%2BTeA%2Fu4P8PP%2BeslHRqm%2Bif4gll1ErWSmKBOtV3OLraxmK7Ww%3D%3D",
+   "posted_at": "2025-10-27T17:41:36+00:00"
+  },
   {
    "title": "Micron 32GB DDR5 RAM RDIMM ECC Registered PC5-38400 AI",
    "price_raw": "1076.68 EUR",
@@ -421,7 +425,7 @@
    "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
    "price_raw": "115.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK35nFY331mcDi8bQY0neZovtNzetdHNbe1aqwviJvZFWXZ9iuoUB2W3HjeDPFCeFdjD1DdWkgqKs6sCJ32%2FpCZWzoi%2BOED1t%2ByFDJ2lH7EzMaQyS9kxv9sX5DlQ9uSO3NiGHXVcPwodzPalVPBxBrYfAN5nfuvXhYQ3UGsKGDChyg%3D%3D",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK2Px9qJBRAJ6o8Aaas6i5r1JXd3JLqh9uPOdkmoJ8YRLladRrZstRGOcS4hCaqBmd6LjZHmKRtN74F24iHt53Q13wPsTThowdHJnIXrUWWYhovpGKmpIsRut529Oub5FSHVjTaXJssJ%2FEw9a3Rh8gpV7AMWc%2B5ys99C27Q61oL5HA%3D%3D",
    "posted_at": "2026-04-25T17:07:07+00:00"
   },
   {
@@ -435,7 +439,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOjoNmc9eDy4%2BQ5NDPzwpPAFMjxSllriDGMktl2QiQltBkwe8R8EpvYgqDpW7mek1Q1dkNzgK4mYQSONf6FX6MMJmuWI6sns0Hys7GFo4SjVRMOowXoflPDOH2bnokKyzSqXwrfBaJriRpchiax9VlAD",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOhK3ZsszhUKu5VEwrJ%2BgemSaVjz6nS5CtVK43uj9a0LiTl%2BR7DIShVNQZqvv6RJ%2BA1wqS2BJy1d5zfQ4xQxUj%2BXmOuU3D4Z%2B4U%2B1%2FUY%2FzpqYFzqUShIf29Uk3FxWU8vWRcHzxEF50h5qMEDb8OM%2FNe3",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -591,31 +595,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/asus-vivobook-16-x1607ca-3448328",
    "posted_at": "2026-11-07T09:27:26+00:00"
-  },
-  {
-   "title": "Imprimante 3D Anycubic Kobra X",
-   "price_raw": "264€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/anycubic-kobra-x-3448299",
-   "posted_at": "2026-11-07T08:52:32+00:00"
-  },
-  {
-   "title": "SSD externe Kioxia EXCERIA PLUS G2 500 Go USB-C 1050 Mo/s sécurisé",
-   "price_raw": "69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-externe-kioxia-exceria-plus-g2-500-go-usb-c-1050-mos-securise-3448297",
-   "posted_at": "2026-11-07T08:51:06+00:00"
-  },
-  {
-   "title": "Souris Razer V3 Basilisk",
-   "price_raw": "47,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-razer-v3-balistik-3448278",
-   "posted_at": "2026-11-07T08:18:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1297,
+  "listings_seen": 1299,
   "models_with_reference": 25
  }
 }
