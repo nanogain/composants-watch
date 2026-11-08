@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T11:38:00Z",
+ "generated_at": "2026-11-08T12:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 337,
-   "last_ok": "2026-11-08T11:38:00.619242+00:00"
+   "last_ok": "2026-11-08T12:08:00.633747+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T11:38:00.619242+00:00"
+   "last_ok": "2026-11-08T12:08:00.633747+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-08T11:38:00.619242+00:00"
+   "items": 381,
+   "last_ok": "2026-11-08T12:08:00.633747+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 5,
-   "last_ok": "2026-11-08T11:38:00.619242+00:00"
+   "items": 75,
+   "last_ok": "2026-11-08T12:08:00.633747+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BLAK%2BO4HjxqhUvDh3On1537GddPbEluYMfEhm4U%2FB%2B49ud%2BHneJ%2BOXkQxVIhXkEnrqCNzMGIKCEzH%2BaS1J4M5pbLWfFPO0oXcYC5hEsda3Wl2zVbRX10jBSD9O9z7q1pJp6%2B9tg639MO5d0lJ2H4i%2F4j8fproLUE2aWNG6ER0Zkw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B6BpR9d8%2FevBPZP6CNXe3JE134Q7N0fKgX6eoSD82DonH%2B%2FaeTAgrDsRcqk1NLDAgMhfcOw8eQuibvdKNoIlB0O0z%2FT%2FkahWa5qFNZBtyoh0mgvyrNa32ul5rkOWh64N5MjPxte0vociD%2BdN9hEjR9ZnTG6a%2FqX2QHJ9bAtNn66A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -124,23 +124,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
    "posted_at": "2026-11-03T13:34:10+00:00"
-  },
-  {
-   "title": "SSD M2 NVMe Cusu 3500Q - 1 To (Gen3)",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 96.99,
-   "shipping_eur": null,
-   "effective_eur": 96.99,
-   "median_eur": 149.99,
-   "discount_pct": 35.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
-   "posted_at": "2026-11-01T11:54:24+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -228,6 +211,23 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
+   "title": "Disque Dur SSD Crucial MX500 500 Go 3.5\" SATA 6Gb/s",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.5,
+   "shipping_eur": 4.15,
+   "effective_eur": 51.65,
+   "median_eur": 67.0,
+   "discount_pct": 22.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · syter2011 (100,0 %, 402 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307272655024?_skw=ssd&hash=item478ae0a0b0:g:gO0AAeSw5BRq8GDT",
+   "posted_at": "2026-11-08T11:46:07+00:00"
+  },
+  {
    "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
    "model": "RAM:DDR5-32Go-6000",
    "category": "RAM",
@@ -264,6 +264,13 @@
  ],
  "unclassified": [
   {
+   "title": "Micron 32GB DDR5 RAM RDIMM ECC Registered PC5-38400 AI",
+   "price_raw": "1076.68 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366794526081?_skw=ddr5&hash=item5566a84d81:g:EhgAAeSwo8dq8F1O",
+   "posted_at": "2026-11-08T11:32:40+00:00"
+  },
+  {
    "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - FHD, Ryzen 3 30, RAM 16 Go, SSD 512 Go, clavier Azerty, sans OS",
    "price_raw": "449,99€",
    "source": "dealabs",
@@ -292,7 +299,7 @@
    "posted_at": "2026-11-08T09:37:03+00:00"
   },
   {
-   "title": "Tablette 13\" Apple iPad Pro 2024 - M4 Wi-Fi +, 5G, 1 To",
+   "title": "Tablette 13\" Apple iPad Pro 2024 - M4 Wi-Fi +, 5G, 1To",
    "price_raw": "1 499€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-apple-ipad-pro-13-pouces-2024-m4-wi-fi-5g-1-to-3448931",
@@ -414,7 +421,7 @@
    "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
    "price_raw": "115.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK1govZ%2F3GzQcgAASVjF81JMNvBNr6sLoL1Otg7WTVWl3UvSbQMk%2F3Mcvi5COOlglmyctx4mIX8RILs%2BKpeK%2BqUXtzx97DPZEWE62aWt3gWygmOKruLaBiNwV3%2BICVGrLj85VEgHVMN%2BR8TL%2BQ3Qz9ISIXStD0r8EsdwG9Upr%2FuLmw%3D%3D",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK35nFY331mcDi8bQY0neZovtNzetdHNbe1aqwviJvZFWXZ9iuoUB2W3HjeDPFCeFdjD1DdWkgqKs6sCJ32%2FpCZWzoi%2BOED1t%2ByFDJ2lH7EzMaQyS9kxv9sX5DlQ9uSO3NiGHXVcPwodzPalVPBxBrYfAN5nfuvXhYQ3UGsKGDChyg%3D%3D",
    "posted_at": "2026-04-25T17:07:07+00:00"
   },
   {
@@ -428,7 +435,7 @@
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgibyuUNYvkpUgYEq4VUHFM2oAOqzXUaBG4toXd12AJtb6umUMKC%2FcOt6fUznJEhO5%2Fxv%2BN8S7QpPobgFnkOOmLIL1P7N0ZuuaktbMSHI8kKApmQXjhQmttvScDvBlFPN38Df1l9lVKjCpaRd3X8LWJ",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOjoNmc9eDy4%2BQ5NDPzwpPAFMjxSllriDGMktl2QiQltBkwe8R8EpvYgqDpW7mek1Q1dkNzgK4mYQSONf6FX6MMJmuWI6sns0Hys7GFo4SjVRMOowXoflPDOH2bnokKyzSqXwrfBaJriRpchiax9VlAD",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -605,17 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-razer-v3-balistik-3448278",
    "posted_at": "2026-11-07T08:18:53+00:00"
-  },
-  {
-   "title": "Lampadaire Trépied LuminexDesigns en Bois avec Tablette - Lampe sur Pied Vintage Rustique en Noyer avec Abat-jour en Tissu",
-   "price_raw": "46,42€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lampadaire-trepied-luminexdesigns-en-bois-avec-tablette-lampe-sur-pied-vintage-rustique-en-noyer-avec-abat-jour-en-tissu-3448270",
-   "posted_at": "2026-11-07T08:10:19+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1295,
-  "models_with_reference": 24
+  "listings_seen": 1297,
+  "models_with_reference": 25
  }
 }
