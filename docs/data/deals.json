@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-07T23:38:00Z",
+ "generated_at": "2026-11-08T00:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-07T23:38:00.666926+00:00"
+   "last_ok": "2026-11-08T00:08:00.631418+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-07T23:38:00.666926+00:00"
+   "last_ok": "2026-11-08T00:08:00.631418+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 374,
-   "last_ok": "2026-11-07T23:38:00.666926+00:00"
+   "last_ok": "2026-11-08T00:08:00.631418+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 35,
-   "last_ok": "2026-11-07T23:38:00.666926+00:00"
+   "items": 0,
+   "last_ok": "2026-11-08T00:08:00.631418+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FkycScRjcwy7vIn%2FZuoeIsYQpB7CpZD%2BXt0yIwSWHeHcmbn5hShbof%2BSeb%2BW2tfQ17LSKV6yvb8rkOXWFHqIrhT2Y1sdWLh9j8eOis0y%2Bw7dC9NMBcmmaU8RHZ2QzchdF1fMz8KCGBcxKVe8H9MLqvulC4CWpBNhMRYLvnsKKUtQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bd1gZmbEsRNxqj6rX75oaQ5r%2FEH6jw42%2BdlA6q7N%2F3GE3Db7i6lcPBV5jUPafVsc3KX3CUM0jbzaEAZRGmVHhdf5ER6oB1Oll0FT%2BowHGefkjGTJsoQpa7l9rrG%2BgQm%2BFuWWyQmLMlW14PKCLrDFAYgPe%2BBy3UfLl2ekWndLCDmw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -141,23 +141,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-m2-nvme-cusu-3500q-1-to-gen3-3443359",
    "posted_at": "2026-11-01T11:54:24+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 259.99,
-   "discount_pct": 34.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -264,11 +247,18 @@
  ],
  "unclassified": [
   {
-   "title": "SK HYNIX KIT 32 GO DDR5 (2 X16 GO) PC5 4800B SA0 1010 XT",
-   "price_raw": "419.00 EUR",
+   "title": "Processeur Notebook Intel Core I7 4710MQ 2.50GHz Socket PGA946 Max. 3.50GHz",
+   "price_raw": "45.23 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327420062563?_skw=ddr5&hash=item4c3bc1ab63:g:Lj0AAeSwaR9q26Bg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ljCkky2KlkMVrhzvYVdCvs7LELqR5TJojN8LC10koS%2B79ex95O9K7kdAn86tWN2tZCYmT0dPl1BYdoaeMqReI7fEdF%2BALDBqe5n8P2MiSOI1o4nNDvnBKfyT9QS0aqqTGkaV9m3pqU2FccpBe%2FDzy4xv5JTbAtzF5z0BwkUBdSPBle%2BUo3HOj9rGsV57QzgslOFdqC%2FtwUZHojKV0uQOTxvZUUYhWdUUzlK8gYqmel0ftF%2BBjYq5FuAM8Rx6gYKtoag5ce96UrQSr1t5DFbBJL",
-   "posted_at": "2026-10-23T18:01:14+00:00"
+   "url": "https://www.ebay.fr/itm/237170378599?_skw=processeur&hash=item373874c767:g:2UAAAeSwTrRqebW-",
+   "posted_at": "2026-11-07T23:44:32+00:00"
+  },
+  {
+   "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
+   "price_raw": "115.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK0r%2BtAVE4ae0CmjGfd1cycf4qT%2Fx5eQoty2e%2BFHEta%2BTacyeiewHvLDgqtZmKbdjLZOgaLXer3SrQwhniyiurgU%2BUOHIS7ZjqnKz%2Fs9JV8tHCwIGbGwbt%2BBlm7xMsC6qr03QeOmPLb44vK1Yr5LtV3FPc7iNLJ2ZnfDXRFCjrHPqA%3D%3D",
+   "posted_at": "2026-04-25T17:07:07+00:00"
   },
   {
    "title": "Tablette POCO Pad M1, 8GB, 256GB - Version Globale",
@@ -306,17 +296,10 @@
    "posted_at": "2026-11-07T21:17:20+00:00"
   },
   {
-   "title": "carte mère makerbase mks dlc v2.0",
-   "price_raw": "26.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377054396410?_skw=carte+m%C3%A8re&hash=item57ca317ffa:g:i1kAAeSwtgZpv8Rc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7noMu75FCuXdMXaqZGfgKCgmMHpiKVoQ%2F40N7dMVju01i65ZJkF%2BiK0eqfmC3TpRK2%2BSlncVBF6q%2BLoZyUOOWivKROOcJbJBq1MYc2ZKXk5SjVuWDkuC2J9Sws0yDF%2BUAMPTixv%2Bo3EBTk2CFHuigpL66rKdI542zOrb25xJnwJaTrto2haBGSlpk1j7NXy%2BXMfJEzwNny6jbckZdAr861Z%2FR1ZBDjTvA0KTfeT6vY9J4sefPvSkkuDUMGD50WkoQQhzZqsFm4B3%2F4tzkS2oJl5cmWyn%2BWUAwu0sWkNxdEU9Q%3D%3D",
-   "posted_at": "2026-03-22T10:29:37+00:00"
-  },
-  {
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOi1aKC9%2B%2BkHGdmGovSWpgrVk9Efs%2BDfspJXKiWe%2FYeK9Ln%2BjkKN66Bhe6JMi2%2B4eO9%2FvMD4Aa%2BC3Bkm%2BrhhxVK3Y3NCDVDdAusNW9jeJ61IM03u%2FtJVsvSA9B4LzYLy4unqeMIk7jDnY7g6jTtQg10w",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOjdRokFAX7KDT3DhNWG2YRvRz45IstNBYBBhHSjt8bqWP263is%2FtUc0Pi73KAqYATL0C4achXYYnfWBd4xKmU1Mdt3PssN%2BjLS6E3hbUcf%2BfBpKQFLxUWSOwfa6RXMpCNKHR%2B7Ia9bNTnkcT9vuuu%2BR",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -561,7 +544,7 @@
    "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
    "price_raw": "64.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p2Yeep8Tm2Cgd%2BszU3u7ZvsUlEjY8ba0tV%2BG9QoBWVvMRGEOpFIQrgCxM0s5D098wq67OisQf9IabIsil677xIEKr5ulT9EGtVjPOjP6qTwCa0wuGZSyvXKxXnVY8fr8cV%2FSqu5m6lbqVcfvqA7F%2FDPf0VJ7%2Bxl74czBQVQvgYTzQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p1XxmNi41KyVcEl67X9XYKfhKQUjvbrWUllhYqm38gdAdXQrWANPpvx70DSoXs8%2BSKvamuZF2kWMhPqW3XF8Pn1t2TJbtQ%2FYEKjug1%2FAqwR0n7W2Uc2AeYe2viRQHNYhsaE58lo%2F8hC%2FERgEB7WkLqZ9Pu4s3T5YTWHHaOhzHl15w%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
   },
   {
@@ -615,7 +598,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1254,
+  "listings_seen": 1255,
   "models_with_reference": 27
  }
 }
