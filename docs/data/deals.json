@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-08T13:38:00Z",
+ "generated_at": "2026-11-08T14:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 338,
-   "last_ok": "2026-11-08T13:38:00.683256+00:00"
+   "last_ok": "2026-11-08T14:08:00.623668+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-08T13:38:00.683256+00:00"
+   "last_ok": "2026-11-08T14:08:00.623668+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-08T13:38:00.683256+00:00"
+   "items": 379,
+   "last_ok": "2026-11-08T14:08:00.623668+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 7,
-   "last_ok": "2026-11-08T13:38:00.683256+00:00"
+   "items": 0,
+   "last_ok": "2026-11-08T14:08:00.623668+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8s%2FTxZm9IDJj2jjsZ4MyjMh4EmScg7mY3qC4fpL0aGX76%2FsBdDdPBowAJI8QGtjG7yOPsCZYou2fUTxOcgo%2B1vpuMdFftsjTvsczzL61mNPb0gpRaAs2AF%2F6bOitBFDJHwtoGvDPM87AqfiOcHvKj9azlLs9lJNclIMvwXqT%2BWqA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BEiz0qJsLleUFl%2B1H22BLnVvZhiVqjWeNAExVYO623y0cFz3jizacKnd3o6xv737AqXH3yapbEcfiiYgyGAxkFbtl3wRetAssS7sE7LIFmCc1T9PcDbsce5XhCKJMv2rI24Sx0Cve9FlXwTCZhDMelvjbl3zb0%2BmaC2kWdwLu5JQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -107,6 +107,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
    "posted_at": "2026-11-03T13:34:10+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 259.99,
+   "discount_pct": 34.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -279,13 +296,6 @@
    "posted_at": "2026-11-08T12:31:23+00:00"
   },
   {
-   "title": "Micron 32GB DDR5 RAM RDIMM ECC Registered PC5-38400 AI",
-   "price_raw": "1076.68 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366794526081?_skw=ddr5&hash=item5566a84d81:g:EhgAAeSwo8dq8F1O",
-   "posted_at": "2026-11-08T11:32:40+00:00"
-  },
-  {
    "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - FHD, Ryzen 3 30, RAM 16 Go, SSD 512 Go, clavier Azerty, sans OS",
    "price_raw": "449,99€",
    "source": "dealabs",
@@ -436,14 +446,14 @@
    "title": "ASUS P4P800S-X – Carte mère neuve sous blister – Vintage / Collection 848pe",
    "price_raw": "115.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK29lYmCjScewuwbVMvEe%2Br%2FPFUf1fgQPAtVRtDnExUsntMwgdejtMX51NfD5zO9m%2BSCHqbJp8BHgI72Wgo09E3Yig7g5VtdoTQWALwkfBE8pT%2BdWHry%2F9b8Pd591qsENHgzs%2BYOL46eNtUoqaDMip9wJnzBfOL1jKZlNQV%2FDi62UQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/336552429594?_skw=carte+m%C3%A8re&hash=item4e5c16881a:g:7UEAAeSwQp1p7PRY&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7myhgqnKPWfMPHaeuhb%2B2J9kZ1Pgc7LPSs52dF90NSuurv%2BimeGbh13Q%2FX5OnHzRGTyeVgskZK2grxYI%2F%2Bw2FxCUnM%2FNzmVnY9xkkpjRPWi7mb5qesUDR2Ib9DyxwGzbK1fuwG5Ebnrj8UBK7D%2BYyaMiAnd6jcyXnQhHXSfZSvVUODu4JFTX6DSbJH6YDlJt4%2FFPxIVHSxu99N7nqs%2BnxKfebTKTQsSEiy1Q%2B56kX8k8znX1XSz0zRmFjD3rO2Z%2BqlD2xrfHnEY9oV98Ki8ZU66lrRtA83yFcX8Xrjzo2Gdvg%3D%3D",
    "posted_at": "2026-04-25T17:07:07+00:00"
   },
   {
    "title": "ASUS A88XM-A + AMD A8-7600 + 8 Go DDR3 – Kit Carte Mère Complet Testé",
    "price_raw": "103.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnasmz8DtpgG2Z4hssjHw%2FSbXq4DLBWn5pbQbp5G5mkI91%2BkP9aR%2BPfyIU%2FI%2BGZvDaJGNNNIRB%2FGrE%2B3N1dM5xSB--wYCZsvtaTwMC3zzUy%2Fd%2BLzAAZQYMWNY%2Buvgm5AHY%2B%2BpHtVlufNfT%2FZ1cu38wWkHPUik8Lo1Ba4eFM2ySJiwQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800328166311?_skw=carte+m%C3%A8re&hash=itemba5746aba7:g:i-YAAeSwDB5qU2H-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrMTEvfEHp%2Bq37fw7cmVw11MyxNac7Zpc4uVNY%2Bm1%2FQvjp7sTgDRcSufP7bSkyRVB3Jp%2BhNWZeTnNPjav8oVCjwsw5vGI1m%2BdkJk0L54WPU1bLkuKPi%2B1NlPLuFkVpcnbZ8o4DdhCrXeHIbs%2FxtFdjO0qRv8Q4b5wR3UoUHf9W3LpipE5gimFzrdOzLsSeBghkg%2Bq%2F2Hbx2EPeSE6lXXckelVZZcNIZ9cCtzyybnYdVzSbIOsJfvPJYYOVT9E0y5Pl38litTtZagQiFynelGvzs9XoIvgkPCW9H3UVwINw3g%3D%3D",
    "posted_at": "2026-07-12T09:46:19+00:00"
   },
   {
@@ -454,17 +464,17 @@
    "posted_at": "2026-11-07T21:48:38+00:00"
   },
   {
-   "title": "Thermalright Peerless Assassin 120 SE ventirad CPU 6 caloducs double",
-   "price_raw": "75.99 EUR",
+   "title": "Disque SSD SMART 64Go mSATA SATA III SV9MST6D064GJM22HN Garantie : 2 ans",
+   "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p1KzmwhEkBWJf96dbIppaNnRpQJ%2BSZUfUNdY7pLZHSwvQ39enOseqZpcZP6aLlfVhhJXlaT%2BpKzscH2MqqVg1RTSl2vlyEfiJOLaYmLhyWVK9wuje0gg%2FPEjeDiIXw2o%2BE5ddhMT1ZKpQJWKI6FFasPJSoG06T40ZsWSnbkgJ%2BGTA%3D%3D",
-   "posted_at": "2026-10-15T18:00:37+00:00"
+   "url": "https://www.ebay.fr/itm/800854795551?_skw=ssd&hash=itemba76aa651f:g:w2kAAeSwo25q42lJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m%2FgDrqxoig7pqNYK7azm8FN4RIVAd0FI5fRkc%2FOM3%2BwDIB4HT7oKu0M555TzBOtQMBdDTAH0Gle3fo0bJP6iC9b9wx1acADlcFdHVL1kJ47Icu2vu4FtUUaVf7ixblG%2BCOON%2Ba8Y2IH8jReVbXSbTzhSwIpNxKt0EpgIGo6OdcPQZ%2FG3aqSe2uT1fHjBE%2BEX80pkTSXxehqJuPPpLvXPqVqv7H61qjZwTeaf9TBwgE4aqKLFK11RSlunNf509z9C%2B4midIIS%2F2LqOc%2FBxhlhla",
+   "posted_at": "2026-10-30T08:12:08+00:00"
   },
   {
    "title": "M9300 Combiné Clavier Souris Sans Fil, Touches Commutateur Ciseaux, Réc",
    "price_raw": "41.26 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOgTFtoKdAyFDOldHg8%2BoNrHbiLkbgsQI36gH0v6llpSP8Lw0fkKPwfprrUz6HeWH%2Foysi7wmablAeW5pqvfzgJFBv%2FRr8hmt4ox9W5u67zBId3PBok0%2BCUwuAKTSIQPcYg9TPGwT7a7xytikFuCGoW%2B",
+   "url": "https://www.ebay.fr/itm/396977634004?_skw=clavier&hash=item5c6db5fad4:g:2N4AAeSwAlZopZlU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCwaUC%2F4SBpejR4WsBY5HjM2tovh0mHaJKEqIYe7QpZ5F3IrHa3iHLsHXqyK289aUKR6GSj2o%2FJSbJZ72WsxhavNZDNSoDgKTBUzy5sW4BCPpIIg39XhLh%2FDjy9UMPhOjg1GmDoJ63il5nbF6pi8VDRGpFmw4iFu8dsVo0CRHiO2EpIsDsz36aTXuiNNbC5Mwp86jjcNc1XRL6oA%2FCkGTfPrlZ6admPQsS1F1xKrieyf26rh58LDWse5P%2Byhd8FIFa0n78D7uKCMqle9K5pjWK",
    "posted_at": "2025-08-20T09:46:12+00:00"
   },
   {
@@ -578,6 +588,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ensemble-clavier-souris-sans-fil-logitech-mk295-3448521",
    "posted_at": "2026-11-07T13:56:55+00:00"
+  },
+  {
+   "title": "[Prebuilt]Apple Mac Mini Desktop w/ M4 Chip, 16GB RAM, 256GB SSD - F/S - $649",
+   "price_raw": "$649",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xq6ln1/prebuiltapple_mac_mini_desktop_w_m4_chip_16gb_ram/",
+   "posted_at": "2026-11-07T13:39:18+00:00"
   }
  ],
  "stats": {
