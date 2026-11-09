@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-09T01:08:00Z",
+ "generated_at": "2026-11-09T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-09T01:08:00.622472+00:00"
+   "last_ok": "2026-11-09T01:38:00.674338+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-09T01:08:00.622472+00:00"
+   "last_ok": "2026-11-09T01:38:00.674338+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 367,
-   "last_ok": "2026-11-09T01:08:00.622472+00:00"
+   "last_ok": "2026-11-09T01:38:00.674338+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-09T01:08:00.622472+00:00"
+   "last_ok": "2026-11-09T01:38:00.674338+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,23 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
+   "title": "SSD SATA 256Gb ADATA M.2 2280 Disque Dur ",
+   "model": "SSD:SATA-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 24.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.99,
+   "median_eur": 42.4,
+   "discount_pct": 41.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860091711375?_skw=ssd&hash=itemc84175ff8f:g:xdIAAeSwBK9q4cIS",
+   "posted_at": "2026-10-28T09:43:56+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -88,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FiMQk305nNWxwRJRC4IZlE88wOdPCG41Ju1qbIu8C51vr%2BSEpyoYmU5%2BRPK5u%2FmF3IlLYHSD3%2BcLPPpkiHrSNnQS4aY2XOLnRuOl4CCPRY4tXSYgqxxgmaXX8JKwVP5pBApY0EFIFTnmjufU%2Ff2N11o%2BjOhzFYNvYAt8bFeJ8UMQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B87Py%2FP3ztmnadYU5bVMEvsHJ7yo9pN%2BAUIhtEoSfcNqiT0YJWgvliBXIgg%2FqAUIPrG3CfzCvNPHxpHz78vTfzMBV%2FxerqPB%2FPO2x7Vt0cNGNCsSoW57CNUH6VtgJt7MtuopKK%2FZOy6JYdM2OkOZeyWh93UHT1OlY4uDtAKrHFW1A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -109,6 +126,23 @@
    "posted_at": "2026-11-03T13:34:10+00:00"
   },
   {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 259.99,
+   "discount_pct": 34.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
    "model": "MB:B850",
    "category": "MB",
@@ -124,6 +158,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
    "posted_at": "2026-11-06T12:36:05+00:00"
+  },
+  {
+   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 100.83,
+   "shipping_eur": 0.0,
+   "effective_eur": 100.83,
+   "median_eur": 149.99,
+   "discount_pct": 32.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-official-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
+   "posted_at": "2024-11-07T06:12:38+00:00"
   },
   {
    "title": "SSD 256GB Silicon Power A55 2.5\" SATA III 6.0Gbps",
@@ -271,14 +322,14 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2400T MTA8ATF1G64AZ-2G3B1",
    "price_raw": "25.97 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685352156?_skw=ddr4&hash=item301f6830dc:g:8AYAAeSwKkpq8Pa8",
+   "url": "https://www.ebay.fr/itm/206685352156?_skw=ddr4&hash=item301f6830dc:g:8AYAAeSwKkpq8Pa8&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ng2mK3kLsMLFSTo6gFfgPJoqJO6qTivgIwb55H9uRxUYrOXq%2BcM3p9Mf%2FaoJLFE%2FEPT8Cgis6pygsRr9pw6QEPo50QN%2FsBwKFd28%2BbMlpWITu2u3qsLy2hD%2F7jZ1WkHyJBE%2FFzlYgmUXtI3GbfuI%2FiKHgu%2FeYyBX1tXp72ztgqR5r%2BLc0YHhiquMxx90ZWusYm0HQXwwkJ1eZke8959vRie0EHjwLh17bJ0u90ZRNFhd1wJ%2Fnu1SzoFXjrRNbT%2BwOxZZsOgx2bngZgM6F%2F0Ypo",
    "posted_at": "2026-11-08T22:28:02+00:00"
   },
   {
    "title": "SK hynix RAM 8 Go DDR4 SDRAM SO-DIMM PC4-2400T HMA81GS6MFR8N-UH",
    "price_raw": "25.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685368647?_skw=ddr4&hash=item301f687147:g:Ty8AAeSwydhq8Pgb&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mHX4eMmbLAvBheQltuT%2B3%2BKtBnt5eliLLGjCPZRDODTVKpxspPMMDlDEYXakVeMFwoBzHn4OeAHyCjCupISqqWtJ3dmd2VWtAyVYSZXyAVgjr0ibTGdtqEe%2FySo9NmBdaAIlirCNHmkugsz14p48ESAM7wDRdDrgsL2fwu%2FTXeiosHsx3PmawPdiGR1PvsKwWiWVSMNYm%2B5nxe7WATTAoaPjBB9Z%2FfgwxUszlzjtTL8NfvbUXAYm13nEwf%2F2HgnRu74Yo%2FYqp5BYVofVPTA8Ru",
+   "url": "https://www.ebay.fr/itm/206685368647?_skw=ddr4&hash=item301f687147:g:Ty8AAeSwydhq8Pgb",
    "posted_at": "2026-11-08T22:32:52+00:00"
   },
   {
@@ -334,21 +385,21 @@
    "title": "Ramaxel RAM 4 Go DDR4 SO-DIMM PC4-2666V 260 broches 1Rx16 100280746",
    "price_raw": "13.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685314836?_skw=ddr4&hash=item301f679f14:g:ni0AAeSw-mBq8PGt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mfvax%2B5pi0ZK%2F9nBE0JyJ8RzOjfLO5TipqyVE28adS0K2CuiG49r2u16O2aoKGFKef4AVvN5nu1%2FEfxekwVBlohqTsItgc9B20o3s2W%2B%2FqWXeGLTLOhxzcmJIqLvjdEKJgcUqov3jT9EX7GnUqsSPBKQdjZiuUQ693YH0meRkaOIZoB22wzXy4SemvC8117HnD2N2moNrCeY%2FEMu5DxTA5eO4n4lkGT3%2BC2jS2adnt5ydRgkzxSMWgOdjvC5aasaC5MQUNGhW4Eux4EwuDUXsC",
+   "url": "https://www.ebay.fr/itm/206685314836?_skw=ddr4&hash=item301f679f14:g:ni0AAeSw-mBq8PGt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mfvax%2B5pi0ZK%2F9nBE0JyJ8RzOjfLO5TipqyVE28adS0K2CuiG49r2u16O2aoKGFKef4AVvN5nu1%2FEfxekwVBlohqTsItgc9B20o3s2W%2B%2FqWXeGLTLOhxzcmJIqLvjdEKI4uOzrSf9v5Ow8Tv8D%2B9umw9%2Bdcav5lw3ITHNtGBQpbtR90QIcYn9%2FzqYDwVJaBw2NeRbvEkgi9f01A4ZxqQWIxFRO1t6TGMlspJKm7lTyN2pDp56avVwO%2FoASekgDQr%2B2vX5vS0hmBa2SNvIPEyBd",
    "posted_at": "2026-11-08T22:05:22+00:00"
   },
   {
    "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches M471A5244BB0-CRC",
    "price_raw": "12.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685310429?_skw=ddr4&hash=item301f678ddd:g:zzQAAeSwZbdq8PBw",
+   "url": "https://www.ebay.fr/itm/206685310429?_skw=ddr4&hash=item301f678ddd:g:zzQAAeSwZbdq8PBw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kp5%2Fva%2F98F6wAanqao%2BRF7b9hqIVf1lL7iGsny5PJmbjoxALcibzlQJiBDzOPcbm1cCGX0X3rzzJt2ej4r%2BiUYaUxc6w%2BJnqhA%2FMme1EaaIIaeY0OY0PaAiwZzP5gwDOYguOsK0BZGsm4%2B8tCjSiYYeUznRunO%2Fe20IGI8MHcOleX98Y2mHiJxbRhbgwIPjSPV3SO%2B1oRP04%2F%2B%2Fbm30gcZ%2BEQed7ZoqlV8W6h5JeALJ%2FODPi8To3lBjbMAJa%2BL3n001PpVKr9QrBCpR6oeUnkC",
    "posted_at": "2026-11-08T22:00:26+00:00"
   },
   {
    "title": "SK hynix RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2666V 260 broches HMA851S6JJR6N-VK",
    "price_raw": "13.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7loLG0CFFPVx2ooBA7UplpNfMJ6No1wlf9VSg2GdWwE61NHRf5CDNKZBHeAVD92LOU7Fg6vNEy3Es6CdC3Ac%2BP7UfFQWIjyYPRHpJAvgx8J6I4148dg7lM11rfBNgaisB025yDerVyF%2BpmMz8GaG2fUqRVWirhLvcWjNUen3D21XHMEJjsO4%2B6xDbNSTf0M1xFj%2FexBwIEwKXm77gQDqBj1ATW5MRcrBKCKs8F1Dp2PXahdE%2Bw5vSNmZLvVjHyTlil33jYRzxD%2BAxqMRDQEb8vP",
+   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX",
    "posted_at": "2026-11-08T22:02:54+00:00"
   },
   {
@@ -366,17 +417,10 @@
    "posted_at": "2026-11-03T09:35:48+00:00"
   },
   {
-   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
-   "price_raw": "299.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
-   "posted_at": "2026-10-03T12:36:35+00:00"
-  },
-  {
    "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
    "price_raw": "8.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIJDccsmiThrIXCHjIH0s7xBpgWdMyp2WaNVfNhfbjEVvn31ng%2FyAluAAFF1REyXdVpaPNRVDCv7blocbVCjoEJdh%2Fr614mHiNDTZK%2Ft8XefTLlKQmW8fo%2Fzv8n2%2Fqm3%2B13%2FQX3l%2Bwb8fYYWYB40I4vP",
+   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaIIsjQ0%2BZ5il2I6W2KdpzytvuXAYmYS0JC0T6T%2FooN%2BhS%2BYJjhDT7Uappa5%2BtGnCGbCu4WKjmIxtnWMIuf6rQee4Mo4Kmw8GnzOn6k9ihayJnlKKrEacfT4wGrvL0E30Rl4snfJc325%2FgwTsWgTH06c2",
    "posted_at": "2025-06-11T17:22:06+00:00"
   },
   {
@@ -595,10 +639,17 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xqxvjs/laptop_lenovo_ideapad_slim_3i_15_fhd_intel_i3n305/",
    "posted_at": "2026-11-08T13:00:02+00:00"
+  },
+  {
+   "title": "AMD Athlon 3000G 3,5 GHz AM4 Dual Coeur Processeur avec Radeon Vega Graphics...",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206684433580?_skw=processeur&hash=item301f5a2cac:g:ebAAAeSwPAlq8GxJ",
+   "posted_at": "2026-11-08T12:51:27+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1403,
+  "listings_seen": 1402,
   "models_with_reference": 27
  }
 }
