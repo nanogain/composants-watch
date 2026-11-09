@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-11-09T15:08:00Z",
+ "generated_at": "2026-11-09T15:38:00Z",
  "version": 1,
  "items": [
-  {
-   "id": "dealabs:3444485",
-   "category": "CASE",
-   "model": "CASE:ATX",
-   "title": "Boîtier PC Antec AX20 ATX",
-   "condition": "new",
-   "effective_eur": 26.94,
-   "median_eur": 69.9,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "max_form": "ATX"
-   },
-   "merchant": "Grosbill",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/atec-ax20-boitier-pc-atx-3444485",
-   "posted_at": "2026-11-02T15:37:42+00:00"
-  },
   {
    "id": "dealabs:3444517",
    "category": "CASE",
@@ -341,7 +323,7 @@
    },
    "merchant": "eBay · workshopmania (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307267147502?_skw=boitier+pc&hash=item478a8c96ee:g:EzQAAeSwKEhq61BM&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nNzC6ghKe3UiP2PAep4twH1QG3Q4Kztq%2FoU3UewyCvbxia21JUXPvXAEH622KizRBnWrCkwmXgQA0Rf3sR3J0pmTvAlh1tp7W1fHDWj3uqEkStJIYzp46yvsJp2eoFYbcNBMrqPqLTQaE2A4EpyXKLbV%2B4PbJgcHKpBmwcO7OYokkx4tpeE1MtZuWaxTMgKfP2XhHR%2B9NrPikmKFATs6xWqZiaVWPipeIuxqGUczjzzt2iONpFeJDCKs%2F3Qcf4HaCcYggea3jOHpbALDQk9Jsbk6ydCOoyakL%2FlfqWE7dvdg%3D%3D",
+   "url": "https://www.ebay.fr/itm/307267147502?_skw=boitier+pc&hash=item478a8c96ee:g:EzQAAeSwKEhq61BM",
    "posted_at": "2026-11-05T01:55:29+00:00"
   },
   {
@@ -431,6 +413,22 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-gsi-smartassembly-argb-glass-micro-atx-pc-case-mid-tower-micro-atx-tempered-glass-black-650-watts-bronze-power-supply-3444746",
    "posted_at": "2026-11-02T20:10:06+00:00"
+  },
+  {
+   "id": "ebay:v1|178232897303|0",
+   "category": "CASE",
+   "model": null,
+   "title": "ACER VERITON M460 STEEL PC CASE GAMING VINTAGE FULL METAL ACIER RETRO BON ETAT",
+   "condition": "used",
+   "effective_eur": 60.94,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {},
+   "merchant": "eBay · bike.monkey (100,0 %, 260 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/178232897303?_skw=boitier+pc&hash=item297f822f17:g:dXsAAeSw8hBqM5pe",
+   "posted_at": "2026-06-18T07:14:01+00:00"
   },
   {
    "id": "ebay:v1|168828577696|0",
@@ -805,7 +803,7 @@
    "attrs": {},
    "merchant": "eBay · jctal_fr (100,0 %, 534 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407348956197?_skw=boitier+pc&hash=item5ed7e3cc25:g:kFwAAeSwoi5qV-Yf",
+   "url": "https://www.ebay.fr/itm/407348956197?_skw=boitier+pc&hash=item5ed7e3cc25:g:kFwAAeSwoi5qV-Yf&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nfvuSty%2FhTg33gQoZYt41ai3qVcnlgcCw51ty%2BImG%2BhKt5HSxIyGYiNwzQ%2B6KHTJMBLi42IeDykh3StJXR%2FgTRhES6uXO%2Fe7rjxtM%2F3HUxSUTeo9wz0QRrnX2x%2FqXA0JRZBuXdUutjQ%2BAnzciqqEcIi3cuWw4Lp3exNVZ4z%2B4B8SpgpMLZR%2F8CFPlNttibs9RRBW5xCS2cNUt2TGO7jj4q4lyWLr4w9wE%2FX5fT2ofSLNZ41v2E0mOF7n1EuLRcoVRLN3KdN%2FKsrE95JqjeYWZdPTOl1I1VcmzwgyRdMIRRIw%3D%3D",
    "posted_at": "2026-11-08T15:12:29+00:00"
   },
   {
@@ -857,19 +855,19 @@
    "posted_at": "2026-03-26T10:42:51+00:00"
   },
   {
-   "id": "ebay:v1|147635162871|445876198054",
+   "id": "ebay:v1|147635162871|445876198053",
    "category": "CASE",
    "model": null,
    "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
    "condition": "new",
-   "effective_eur": 140.99,
+   "effective_eur": 136.99,
    "median_eur": null,
    "deal": false,
    "discount_pct": null,
    "attrs": {},
    "merchant": "eBay · matteo_gc (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvSJgx7%2BXMUNnmQXFmf%2B4WI9KzBeQNRhktyN246uPzO8zfq4%2ByVH9t8jJjacm3DV--eE63KrJlZiDej2UV42pIP9pvPab0iQwKRF%2Bsl%2FnUdd3kzSAqXMSEUf6TpmGRna0YJKf5VAJO1O9JBcNQ6INys68dunInz%2B4ILQGnLd6Z0pww%3D%3D",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvRF4SioMDmUiDh0pKFbW03%2FEBUw%2B9zPgoLFJuDmKKxfRyJNXkqIX9f2HpesJtI%2BvPiMsTakHGuk9ZnTfjRy2B5bKWvAxF1wmouI69wrWZ9r0MnyP%2BZOuJZz6skXxJ8mJrcRh3UUbr31n3oonug8qzHD6qEpFeYe%2BrXiXwAcq%2BUjtg%3D%3D",
    "posted_at": "2026-10-14T07:28:32+00:00"
   },
   {
@@ -885,7 +883,7 @@
    "attrs": {},
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257801385773?_skw=boitier+pc&hash=item3c0628f72d:g:PxoAAeSwKRRqBFH5&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lBxNwJgSjIyCEEE3HWcWysDSUZgYBdIPb%2B8aa9jp1rXQUFeuqDYpjcWQQs6kmhHOStvKAMrzpHLbyerN0hxTeB6SSTC%2B8i4aAzHcRpl%2BOtwB7NftmzAWbWQHd%2Fo8uvxrq1kegMt3JDFjgO5wFwguWs6PL7DHUHTv5n%2F6EJFVHLQX9ATNm1EaerGr2mOFcw0H%2Fw9dvXOwpCkQrq5%2FxeXjABQZu%2Btn4SwR%2BzXcF3lYM197kFfwPCUW%2FO8CIZ7RfOxqVe73aW15t9%2FDGPdIDlo4A90Xq3ekeAqBvgkAgcs%2FkDHg%3D%3D",
+   "url": "https://www.ebay.fr/itm/257801385773?_skw=boitier+pc&hash=item3c0628f72d:g:PxoAAeSwKRRqBFH5&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lBxNwJgSjIyCEEE3HWcWysDSUZgYBdIPb%2B8aa9jp1rXQUFeuqDYpjcWQQs6kmhHOStvKAMrzpHLbyerN0hxTeB6SSTC%2B8i4aAzHcRpl%2BOtwB7NftmzAWbWQHd%2Fo8uvxrr2YZ5Sjom7XgDZCwOAgZQClW8AmcYMVAsuatZgrmXk2gYqdwxwPjEulgasdq3%2B4HNSD9baICyUViU6T%2FuXh9ttN2Sj6ItZSMRxYCwktwAIkbAW4ZNYI0Y5TqsvQPYUs%2FQHRJ%2Bqhs8pciKHFu8CRe8deCJ--poU8T5jV5m12c%2FiOA%3D%3D",
    "posted_at": "2026-10-16T15:20:05+00:00"
   },
   {
@@ -901,7 +899,7 @@
    "attrs": {},
    "merchant": "eBay · mad.a.prod (100,0 %, 51 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137038157488?_skw=boitier+pc&hash=item1fe81c56b0:g:thkAAeSwK~NpkMMj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mJZ9noO7BROPMVmgsiqgmjqCNkj2DKoHwzGfiCNCEog6fXRMyFtZ3EELnn%2B9UsrYXpEdh5%2FpUL9Hl%2Fl3zpyjKFH%2BKen90hpxMQFWZopFA%2BFkVU37qWEPXmo0tN97K7vCw6qwVgZrwFK1tpKO7kEkCEfZ7a7CToiLZx1w6c8%2FnVM%2BzdU8UCitEblQCwoCOjT%2Bolf86eBfOC7c8aG14M2AilsL5XWBHSpXDG8CnihN3rNqHdCYs9FZxCzWY7SwhnZ2UsBjLm5nqZc8EMl6%2Bj0KCjhl1fNiTN1Oa5DhNKhxJXUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/137038157488?_skw=boitier+pc&hash=item1fe81c56b0:g:thkAAeSwK~NpkMMj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mJZ9noO7BROPMVmgsiqgmjqCNkj2DKoHwzGfiCNCEog6fXRMyFtZ3EELnn%2B9UsrYXpEdh5%2FpUL9Hl%2Fl3zpyjKFH%2BKen90hpxMQFWZopFA%2BFkVU37qWEPXmo0tN97K7vCxSbTUjki9KU4xfFyC0oqzWkKuwkUl7OC47w5DFK%2BdO4ifFEZ8%2BO9b51NKWoZqBkGQbke4JNRRr5JWBlYuxtuqUN7HVfQxr5Sz%2BKrseSu0gZkau%2FshEb4wSY2dyKnpCwAbS%2Bkjk1Y8uCtii%2FNTZMrDIn5tDcyYA2mVgX%2FUK6ngXUg%3D%3D",
    "posted_at": "2026-02-14T18:48:58+00:00"
   },
   {
@@ -947,7 +945,7 @@
    "title": "Ventirads AMD Wraith Stealth AM4 Ryzen + Pâte Thermique OFFERTE ",
    "condition": "used",
    "effective_eur": 10.9,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -998,13 +996,31 @@
    "posted_at": "2022-09-30T07:41:32+00:00"
   },
   {
+   "id": "ebay:v1|198743100147|0",
+   "category": "COOL",
+   "model": "COOL:Air",
+   "title": "Ventirad pour Processeur AMD Wraith Stealth révision D (712-000046)",
+   "condition": "used",
+   "effective_eur": 11.66,
+   "median_eur": 22.89,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "type": "air"
+   },
+   "merchant": "eBay · stbitw (100,0 %, 513 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198743100147?_skw=ventirad&hash=item2e46030af3:g:qjwAAeSwOJpq1Ox6",
+   "posted_at": "2026-10-25T00:50:46+00:00"
+  },
+  {
    "id": "ebay:v1|267832059796|0",
    "category": "COOL",
    "model": "COOL:Air",
    "title": "Ventirad Intel Laminar RM1 LGA 1700 – Neuf – Pâte thermique préappliquée",
    "condition": "used",
    "effective_eur": 12.77,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1061,7 +1077,7 @@
    "title": "ventirad socket am3+",
    "condition": "used",
    "effective_eur": 13.58,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1090,7 +1106,7 @@
    },
    "merchant": "eBay · liveatsamsplash (100,0 %, 352 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389893077546?_skw=ventirad&hash=item5ac7703a2a:g:CW0AAeSw7LFp33KC&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ljqNobZsCIyQfHI98dgz488M%2B9p0LeQak02fCtwwGO84lw%2B7EMxEt9%2BdUw8i2ebFnjeEQlS9w5wOhvlwyTD%2FEoxltcACDOYaEvplzfATJ0FMgbbAr0%2BcaXq8tylT44ZGdm9nTwLoFkiCEVaBscta0KGvw4TeW9BxVvHWqgraYjt3KK9Bctibza5h5TY8sLK%2BogMTxsuxVWng84zJWnikfegzQF0%2Fk4KI2%2FFCBw15DXKWMjHnLDZZs3OKjpMfs9A9wseiQO1kYTV%2FKe2YwZ2J%2B4",
+   "url": "https://www.ebay.fr/itm/389893077546?_skw=ventirad&hash=item5ac7703a2a:g:CW0AAeSw7LFp33KC&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ljqNobZsCIyQfHI98dgz488M%2B9p0LeQak02fCtwwGO84lw%2B7EMxEt9%2BdUw8i2ebFnjeEQlS9w5wOhvlwyTD%2FEoxltcACDOYaEvplzfATJ0FMgbbAr0%2BcaXq8tylT44ZGcEVIfMg1P6m7WHrAvqBDSP9vFKq8SbT3fsFzrwCBLxquwI--RqeAop1xM87ob9iHvBzqw2cJAaU4cRBsY1RhR32gE1GMhGiR2ftx8oGs86%2FbdKG4oT4K6bwZCggZZSdmMfB8dGoFELQFxME1KZ6xr%2B",
    "posted_at": "2026-04-15T11:13:23+00:00"
   },
   {
@@ -1100,7 +1116,7 @@
    "title": "Ventirad Dissipateur Processeur LGA 1366 pour HP WORKSTATION Z400 463981-001",
    "condition": "used",
    "effective_eur": 14.0,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1128,27 +1144,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117495171885?_skw=watercooling&hash=item1b5b420b2d:g:7HAAAeSwsKZq5SHO",
    "posted_at": "2026-10-30T20:39:10+00:00"
-  },
-  {
-   "id": "ebay:v1|327084095503|0",
-   "category": "COOL",
-   "model": "COOL:Air",
-   "title": "Ventirad Intel LGA 1700 d'origine",
-   "condition": "used",
-   "effective_eur": 14.59,
-   "median_eur": 23.39,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "type": "air",
-    "sockets": [
-     "LGA1700"
-    ]
-   },
-   "merchant": "eBay · raltern3 (100,0 %, 110 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327084095503?_skw=ventirad&hash=item4c27bb380f:g:8PcAAeSwdylp0C4V&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nlZYOrBLdl7uRO%2BS3dLsBI6%2F0h1r3ntJTUoxsNMeXDv2%2BgwsIgs0UqZrG716--R48MvB9LYBg3GxAnIRMc4jjyLU84PruvO7Sank1mwork2YqUTqDo6N3oyq8O1AbpIu4s0gT0o3PR822DVzMjv6Vhq8xImTPJoy0XHwHQAF8Nm90zEKoWg1Akbq1fsMY8q4TR19WT7FddaAsLln7%2B0dIHil6%2BnKI6oRkZm493H8VHmp2v8e9IDf7RVxqlM6rj3nd5YhRXDAsGsr7JZYY1IG0l4TIRCHK%2Bmbh1Kvslj4pAnw%3D%3D",
-   "posted_at": "2026-04-03T21:24:09+00:00"
   },
   {
    "id": "ebay:v1|267834132311|0",
@@ -1211,7 +1206,7 @@
    "title": "Ventirad Processeur Ventalateur + Radiateur CPU / Dell 089R8J / FCLGA1150 5-Pin",
    "condition": "used",
    "effective_eur": 14.9,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1259,13 +1254,31 @@
    "posted_at": "2023-06-29T14:49:01+00:00"
   },
   {
+   "id": "ebay:v1|188752983507|0",
+   "category": "COOL",
+   "model": "COOL:Air",
+   "title": "Ventirad original Intel K69237-001  i3/i5/i7 - Socket 1200/1155/1150/1151 - NEUF",
+   "condition": "new",
+   "effective_eur": 15.89,
+   "median_eur": 18.55,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "type": "air"
+   },
+   "merchant": "eBay · jpinfovente (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/188752983507?_skw=ventirad&hash=item2bf28df5d3:g:sasAAeSwYudp3Mio",
+   "posted_at": "2026-08-12T08:42:00+00:00"
+  },
+  {
    "id": "ebay:v1|287273688386|0",
    "category": "COOL",
    "model": "COOL:Air",
    "title": "Ventirad AMD Socket AM2 AM3 Acer 3 Pins Athlon 64 X2 Radiateur CPU OEM",
    "condition": "used",
    "effective_eur": 16.98,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1273,7 +1286,7 @@
    },
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287273688386?_skw=ventirad&hash=item42e2d89d42:g:kgYAAeSwQMdp31jh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kHGYNyDDfJmBeRX3oxDc%2FgWgmVB9hPmciSrjDIVv7rxiNCFzqwPYaPq25mMfqY4IFKW64c9zrY6a36ggRKsMc0dPFiYoez9RJYsOAuBG4kkIpG2qH6RKOs46ikVdJh39%2BSBh%2BSajCd6%2B%2Fn71OWkk9hfYuOlz2pu7FHXWNmOj7kVhWjs9CVb0wMSjcMd85iHPRI1bKCZV6a1zgJ%2BXoglru%2Few3HibvmxvYff3eV6RMt4MrcV2APCsm%2B3KG0loqsngJ8m517WmkvxMM%2BEcj2E96B0cT7jthg0JkekwJerwC5lg%3D%3D",
+   "url": "https://www.ebay.fr/itm/287273688386?_skw=ventirad&hash=item42e2d89d42:g:kgYAAeSwQMdp31jh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kHGYNyDDfJmBeRX3oxDc%2FgWgmVB9hPmciSrjDIVv7rxiNCFzqwPYaPq25mMfqY4IFKW64c9zrY6a36ggRKsMc0dPFiYoez9RJYsOAuBG4kkIpG2qH6RKOs46ikVdJh3983k5jct9ysAsrO9OKkjHXvJ20UyQgi58d1VAWkMZF2znV66CqInECC4iCcVPLkU44JwQc3gktEDJG3aYlxwaDWc3EpDlnweVdvOe%2BFf4IHVovOjqYZi%2BVTQeevvrC1gDSZsfPxYVnF%2BlKHpMvNk11rHFGsva%2BPjnDZvsEf7YLnww%3D%3D",
    "posted_at": "2026-04-15T09:23:32+00:00"
   },
   {
@@ -1283,7 +1296,7 @@
    "title": "VENTIRAD COOLER MASTER HYPER 212 – REFROIDISSEUR PROCESSEUR PC",
    "condition": "used",
    "effective_eur": 17.58,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1301,7 +1314,7 @@
    "title": "Ventirad CPU Dell OptiPlex / Precision / XPS — DP/N 0Y8T2X + 03VRGY",
    "condition": "used",
    "effective_eur": 18.0,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1359,7 +1372,7 @@
    "title": "Ventirad HP Z420 Z400 CPU Cooler Master 463981-001 Ventilateur LGA 2011 1366",
    "condition": "used",
    "effective_eur": 19.65,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1395,7 +1408,7 @@
    "title": "Ventirad CPU Akasa Slim Intel 1151 1155 1150 4-Pin PWM Low Profile",
    "condition": "used",
    "effective_eur": 20.89,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1403,7 +1416,7 @@
    },
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257801400722?_skw=ventirad&hash=item3c06293192:g:9SAAAeSwcP1q0kMK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpvOz3Z20QPi1oS1wE%2FHan00RLF0ucWwXUSUlkydWnuk1Ion0vbi9kHBYmIgh4e3xYC0s99ZtnX%2Fj6IzRkg0gFtD%2FyqUBq%2BPWtr6rtXJ8Tytn6o9FQ7wRGa53Vkkghr%2B%2BtNxecMuBluCugvYgXmATA04aJD%2FcjRFpzo3KI3isXm23uDic21CQdcWOLas9dp9hhLgPqbHvJgEuOTWHRYQdBZ8YmpNWMuUWKPRxolV1xIl1X2fVeA2RzceWoOlyqRyRVcf%2FtW62fz5kOfz9A0sEEGp%2BeVqIZdkAGeDgCpkNgSQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/257801400722?_skw=ventirad&hash=item3c06293192:g:9SAAAeSwcP1q0kMK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpvOz3Z20QPi1oS1wE%2FHan00RLF0ucWwXUSUlkydWnuk1Ion0vbi9kHBYmIgh4e3xYC0s99ZtnX%2Fj6IzRkg0gFtD%2FyqUBq%2BPWtr6rtXJ8Tytn6o9FQ7wRGa53Vkkghr%2B8dWwSuy6JrqXMb1iHyB2KFXJ5gY%2F2MEej%2BJtrJJTzToKgDz195bIdHNewcp2N3c%2Bs8frSzAo%2Be5QRWX3qFOSWUEgUcai8RCscP%2FfkZgHWJ2krzi5xRpVfLTCNAuGW9hEEGy0WIokRkVwSQDAlQhTfhK1GcTgn1XjFX%2Bq0xlKIHVw%3D%3D",
    "posted_at": "2026-10-16T15:30:25+00:00"
   },
   {
@@ -1470,7 +1483,7 @@
    "title": "VENTIRAD Cooler Master Hyper Tx3 Evo - INTEL et AMD - RR-TX3E-22PK-R1",
    "condition": "used",
    "effective_eur": 22.89,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1506,7 +1519,7 @@
    "title": "Ventirad Fujitsu V26898-B971-V3 AVC Z7UQ42R002 LGA1155 Celsius W420 W520",
    "condition": "used",
    "effective_eur": 23.9,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1514,7 +1527,7 @@
    },
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257641654774?_skw=ventirad&hash=item3bfca3a9f6:g:ZXoAAeSwmGVpw-4s&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ms9YUxyD9NeyqkHTT7uV2hhD2C3p5cZG7B3PjsOzzKFNq%2FDbxNule0Tky2yyvYxbK4f%2FJD6%2FSaQ9%2FYg7UDfbzkcpQQt1JLxUU6Zvz24m282GdX7%2Bd3be%2BPQJjfV40OlkbONUWmj%2BMOBhOp3YgMFBhg%2BwCGJNMRD2c%2BIhflCOh2jSKs1TpbMyuE1bora7ZirTz2DVKEN1BymTrRGDLCfoGQzz%2Bed4PQzIkXy4dzFzP7Tft8DllxeKUpwy0CJtqzTS%2BvxAqOJjRr8UvzjZYXUuRgUk3YQSWwLob6yo4by0GJvQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/257641654774?_skw=ventirad&hash=item3bfca3a9f6:g:ZXoAAeSwmGVpw-4s&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ms9YUxyD9NeyqkHTT7uV2hhD2C3p5cZG7B3PjsOzzKFNq%2FDbxNule0Tky2yyvYxbK4f%2FJD6%2FSaQ9%2FYg7UDfbzkcpQQt1JLxUU6Zvz24m282GdX7%2Bd3be%2BPQJjfV40OlkbWu3b9U9%2B9KG5JHSYE%2BMXjNA0v02ua0mm1ipvgYvxoGlhcx7pApA%2BO%2B%2Bnx9BJFtJF290nd%2FY6el8OXTuutXz0ZN7P9jazEBzD4Ibb%2BuV8J4ltrcNr%2Fd1X6yhO%2FX9ObekIbDIP9RjohVIYU%2FGr8pfC%2FTZ4%2FgiImX09NLyOcA9h9nw%3D%3D",
    "posted_at": "2026-07-25T09:43:18+00:00"
   },
   {
@@ -1532,7 +1545,7 @@
    },
    "merchant": "eBay · lootrix (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800436872805?_skw=ventirad&hash=itemba5dc16665:g:pwYAAeSwwbZqbE5~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrpyv8LrQ8h3OKGbvlYH6OymCB%2FVX36171pyatokNzjHo6THuFp84i%2BKM1fn8wpfc0aBX7OnYad3QbefaiJ8v4bOeCr%2FoajnzYZ1ZVwHUQeuchtdmRWLfTc53cs%2Bduv%2BwCKefPJesKR2b9p83Seaa%2Bo3wa4DoSRHWfFeOhT4mLslnd%2FG7j1dzcMo%2BmF1m3YDKkSv2o0Gs7a3gzr5LG7pYCD5JjB3IKNyJ2%2BYqY1JJY6AJuh5XOnfiPumw%2FYCnVKFXX3BDzzhHlAxcM6YVWfsOUhCEqHC9V3pTZ977GykVq5w%3D%3D",
+   "url": "https://www.ebay.fr/itm/800436872805?_skw=ventirad&hash=itemba5dc16665:g:pwYAAeSwwbZqbE5~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nrpyv8LrQ8h3OKGbvlYH6OymCB%2FVX36171pyatokNzjHo6THuFp84i%2BKM1fn8wpfc0aBX7OnYad3QbefaiJ8v4bOeCr%2FoajnzYZ1ZVwHUQeuchtdmRWLfTc53cs%2Bduv%2BzYpz%2BKqq838LX1bdg2ynOlB7wmyZobPE42wt0g%2BWWaDRPQaR76mywaT%2FPo6t7RVDDesihgrWe5wNlMVSYKoW4nA7%2FeV4w8J2%2Fg%2FmH6xE0J4SNPGJ6NWp1xT8s26ONaiS%2Bww7fGZ14jlS0sVEoh7QI6jV9n4uCssMIQbKaqCk%2F%2BkQ%3D%3D",
    "posted_at": "2026-07-31T07:28:06+00:00"
   },
   {
@@ -1554,7 +1567,7 @@
    },
    "merchant": "eBay · techshop13 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287695452387?_skw=ventirad&hash=item42fbfc38e3:g:9YsAAeSw3IxoasIr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nPsvfX9%2FTyQcgfOA40rhn3nYEU4ypL1JrQuq6nYL0lzSbEQsNL1NiC5raX4jHc%2BZYbrLhwMGHWOY8JMtxyHkzvnBO3LRxkdIvtQyCK081TOcTyc3hnUS2jAGOoYOA3VStU5tOlmxVcJhv6ia8Pyms7iIGZD%2FICqfjohfQrRDyX2OVtt%2BUD5%2BuXSetEiEbxMOAUn0Fl6kELKCYa59FzSYBwTUdCxhJwOY3WAlv%2Bv8pyG%2BI65VsLtrKtUKOHnJJxHuxeEs6u%2Fs%2FGbVu9sd0QWDZSju3%2FxjW75I2uyl8g4O84wQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287695452387?_skw=ventirad&hash=item42fbfc38e3:g:9YsAAeSw3IxoasIr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nPsvfX9%2FTyQcgfOA40rhn3nYEU4ypL1JrQuq6nYL0lzSbEQsNL1NiC5raX4jHc%2BZYbrLhwMGHWOY8JMtxyHkzvnBO3LRxkdIvtQyCK081TOcTyc3hnUS2jAGOoYOA3VStoWrJDPmRlCCqypou3kx9koA%2Bfev39jkWNxSvIflEDuB5H7p%2F9VGM%2FkCb3rLsoyv%2B3QaKE256WSsbKmczmlY5TF4OHnVWY6ocC7W7Dhtm968DdgC9lPUb4S5bUUosXos7yJw8Hw5ugQB4zdCZYnYSIDgFmg2X6gGk%2BQXoU08ibCA%3D%3D",
    "posted_at": "2026-11-01T00:57:58+00:00"
   },
   {
@@ -1582,7 +1595,7 @@
    "title": "Ventirad HP Z440 Z640 mono CPU 749554-001 782501-001 LGA2011-3 6 broches",
    "condition": "used",
    "effective_eur": 27.73,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1590,7 +1603,7 @@
    },
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287674675328?_skw=ventirad&hash=item42fabf3080:g:G1oAAeSwyIJq3JMK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ll6Wysqv2n0z9%2FfC9I8qbv%2Bk7nHAz3OaZuxXWj7BWPqlF8k%2BG5UY0mKsH0gEYN8Vh3G0NEaI%2BkO1DRwW9ilKDLFuIkcEYPqjZDjlGlaFjUCohebrUlAk0XQcrriY%2FAEa%2ByTcMyMIvn55XTRisuiqnWLv4j%2F8460kkHQEIt5z36ZvHfo51vSztnvSL6qP%2FJ5SylpP1QZTitRDOtXL%2BRExA1oaUjNhY7UFv5124AW8EpQ3XqZCgW6C2vZCVdizGKVt1gcmQXSF83GA3xANczCqyGUuJURCSgJHY5WKMjq4j4%2BA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287674675328?_skw=ventirad&hash=item42fabf3080:g:G1oAAeSwyIJq3JMK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ll6Wysqv2n0z9%2FfC9I8qbv%2Bk7nHAz3OaZuxXWj7BWPqlF8k%2BG5UY0mKsH0gEYN8Vh3G0NEaI%2BkO1DRwW9ilKDLFuIkcEYPqjZDjlGlaFjUCohebrUlAk0XQcrriY%2FAEa9AWHLTNs9sTCDMBsuuFvRXx9%2FWsGmoANuM%2BGMzl1UQVv2Y%2BDckxYI%2BvUQS34uYvTqi2iaaxRY7C5oiZbN8uoBYIj5Q6J6FhRJWYNCCyXUd6yvDKvlcs%2FzTFmkUKLff1gytKHZR6cqb0twWI8NhheCWEQofxGJCdMKIAWaPacdZ4Q%3D%3D",
    "posted_at": "2026-10-24T11:17:13+00:00"
   },
   {
@@ -1600,7 +1613,7 @@
    "title": "VENTIRAD CPU AMD Wraith Prism Cooler RGB 712-000075 Rev. E AM5 AM4",
    "condition": "used",
    "effective_eur": 30.5,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1614,24 +1627,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147482326551?_skw=ventirad&hash=item2256a1b617:g:T2EAAeSwKzZqcc8o",
    "posted_at": "2026-08-04T11:39:31+00:00"
-  },
-  {
-   "id": "ebay:v1|257795105576|0",
-   "category": "COOL",
-   "model": "COOL:Air",
-   "title": "Ventirad Cooler Master Intel LGA1155 LGA1151 Radiateur CPU avec ventilateur",
-   "condition": "used",
-   "effective_eur": 31.89,
-   "median_eur": 23.39,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "type": "air"
-   },
-   "merchant": "eBay · infocaze (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257795105576?_skw=ventirad&hash=item3c05c92328:g:uXAAAeSwe2BqzLu9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k5fa814tYbsakfPyqGlXjpcBq5FVZ5xZTnXyA%2FkKxK0%2BF1hFPXXRXdpice%2FAO2hVFLvJ1RoqUnKd7kciQiOhZLzyAkXgAWFVvMwfpsDiHtkOZKkbwGrB4PW1QyDNuoDPSeWPWqVrGI1D%2BAMNtQOa7nfffajCdgxbvfo1Wadj9LyjBF4C5eMwazzNrYnsi8c3PBE0Bn2uXunG3SaZoYk95YhRmXCmEVWoU%2BWBCrXnQpFsDKW0Y%2BTAyLgvMQBiH%2FtezTVvtjZZz%2Fd%2BlqwIwjWd6gWeeRVmPrj%2Bja6triRan3QQ%3D%3D",
-   "posted_at": "2026-10-12T10:52:35+00:00"
   },
   {
    "id": "ebay:v1|398257346183|0",
@@ -1658,7 +1653,7 @@
    "title": "ventirad pc artic freeze 13",
    "condition": "used",
    "effective_eur": 34.7,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1676,7 +1671,7 @@
    "title": "Ventirad Noctua,2 x NF-P12,LGA 1366,1156, 75,Dissipateur thermique,refroidisseur",
    "condition": "used",
    "effective_eur": 34.9,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1694,7 +1689,7 @@
    "title": "VENTIRAD HAUT DE GAMME CPU NOCTUA NH-D14 EXCELLENT ÉTAT",
    "condition": "used",
    "effective_eur": 34.99,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1766,7 +1761,7 @@
    "title": "Ventirad CPU Noctua NH-L9i - Ultra Compact (Low Profile) - Comme Neuf en Boîte",
    "condition": "used",
    "effective_eur": 42.3,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -1802,7 +1797,7 @@
    "title": "Ventirad Noctua NH-U12",
    "condition": "used",
    "effective_eur": 46.1,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -2020,8 +2015,26 @@
    },
    "merchant": "eBay · pulsiee (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p2p4Gw3xaky32DMQuPotqftN69HCc%2Fip%2BtOolD%2FBY3VomjlzkoSXe1qkWJQ9FyE%2FL6zCqffUKOWGhJvnYp5AzTOZAJDq4L4jsSQ8e%2BHWaPmRtIstavO%2FFwV6%2Bs%2BJm%2FghHiriIip221%2BjihgX2YyiNw0T3hiaKH6%2BT%2F8d8ai4dkbUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/237125666449?_skw=ventirad&hash=item3735ca8691:g:i9kAAeSwB39q0RSN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kguaEuQzRTiHbGUhk9oDCGHHJm4NIgP5ydW2xgfCYh1IeqrJ9Q%2F8lD5fD8iyFfrk%2FLFG6B96jzZ14I8bDXjt%2FpJfmHGbYNpeV45JgPJNZoY9oML5A%2BwOHzB1TT17Xd7p3bRGU9jlGpykuAB%2B3cvfizSK9Rvi%2F6ni0%2FrGQaKBrXLTgsW5QNqTgMt9hH5fWx3diBf1p7z0UwOy3dbWBUJrs26VSWZNM95eF1662fATRLTstewDuhACbPjHc7GALgHMX1b5rEH%2FWNbAwLIDSdhnqMJE2S6PpQ82658m%2Beg87EqQ%3D%3D",
    "posted_at": "2026-10-15T18:00:37+00:00"
+  },
+  {
+   "id": "dealabs:3450031",
+   "category": "COOL",
+   "model": "COOL:AIO-360",
+   "title": "Watercooling AIO DeepCool LP360 - 360mm, Écran Numérique, ARGB, Noir",
+   "condition": "new",
+   "effective_eur": 69.99,
+   "median_eur": 96.8,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "type": "aio"
+   },
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/watercooling-aio-deepcool-lp360-360mm-ecran-numerique-argb-noir-3450031",
+   "posted_at": "2026-11-09T15:34:23+00:00"
   },
   {
    "id": "dealabs:3449227",
@@ -2102,7 +2115,7 @@
    "title": "Ventirad Zalman CNPS9500A LED copper cuivre",
    "condition": "used",
    "effective_eur": 156.3,
-   "median_eur": 23.39,
+   "median_eur": 22.89,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -2244,7 +2257,7 @@
    "attrs": {},
    "merchant": "eBay · destock-info38-recyclons38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/166795017466?_skw=processeur&hash=item26d5c1fcfa:g:X8wAAOSwUGNmWYNE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7muvSLl834tqJh2HlZ0BT%2Bk2dDlPG1hKSfDl2lCxv2tJJE8lfMjVhnqRAgi2DBvKCEco0oDIl8n6Mv2X2rhLkW663MD3%2B1YA%2BtOQr8s%2BAbRiLruSgfvGkhB7cZ8uRdrd2okBp1uZIkknThwT6IQnpfGfpno6ASYe7cl89EQa1cmVygfjew8TabqhIamscbJJc5ROcZnfX4cQE7bnbbA3lbDDeCdJYIYTvayAhMuumJ3tMFr0Dun6Lb6VGuF1ZcelNuOoXH4X8%2BexJXJNf4y7Tng",
+   "url": "https://www.ebay.fr/itm/166795017466?_skw=processeur&hash=item26d5c1fcfa:g:X8wAAOSwUGNmWYNE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7muvSLl834tqJh2HlZ0BT%2Bk2dDlPG1hKSfDl2lCxv2tJJE8lfMjVhnqRAgi2DBvKCEco0oDIl8n6Mv2X2rhLkW663MD3%2B1YA%2BtOQr8s%2BAbRiLruSgfvGkhB7cZ8uRdrd2qYsCU%2FKefhok%2BKXk7nPGRoBcqqItKnjbrhhsbNr4OJjFJHg9z6pJ1AJwzAyVKU7ZJuivLm1JzvUBGeaJMhLPkmsllenGt8N1ivwqC%2Fa2B0STnmt3u0Hw29sMNwkjP5fyrUnn9iZiJEuX3Q2j%2FSp4MJ",
    "posted_at": "2024-05-31T08:01:41+00:00"
   },
   {
@@ -2280,6 +2293,22 @@
    "posted_at": "2026-10-08T12:44:01+00:00"
   },
   {
+   "id": "ebay:v1|900077953992|0",
+   "category": "CPU",
+   "model": null,
+   "title": "Processeur Intel G3220 - BOX - Socket 1150",
+   "condition": "used",
+   "effective_eur": 18.93,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {},
+   "merchant": "eBay · betouze (100,0 %, 55 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900077953992?_skw=processeur&hash=itemd190d3a3c8:g:syIAAeSw7mRq8eJh",
+   "posted_at": "2026-11-09T15:12:25+00:00"
+  },
+  {
    "id": "ebay:v1|860115726146|0",
    "category": "CPU",
    "model": "CPU:Core i3-8100",
@@ -2294,22 +2323,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860115726146?_skw=processeur&hash=itemc842e46f42:g:tVwAAeSwo~hq7H9a",
    "posted_at": "2026-11-05T13:07:07+00:00"
-  },
-  {
-   "id": "ebay:v1|398373781464|0",
-   "category": "CPU",
-   "model": "CPU:Core i3-8100",
-   "title": "Processeur Intel Core i3-8100 3.60 GHz – LGA1151 – SR3N5 (Objet N°X679)",
-   "condition": "used",
-   "effective_eur": 19.8,
-   "median_eur": null,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · arcade-game-5892 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398373781464?_skw=processeur&hash=item5cc0ed7fd8:g:Tu4AAeSw18JqoCi6",
-   "posted_at": "2026-09-08T15:28:52+00:00"
   },
   {
    "id": "ebay:v1|226686974069|0",
@@ -2404,7 +2417,7 @@
    "attrs": {},
    "merchant": "eBay · destock-info38-recyclons38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/166795063028?_skw=processeur&hash=item26d5c2aef4:g:ErgAAOSw3dhmWYkY&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lPSfnzgeByXfgNn5v1q02C3o30wXWuC79%2FDjlQHzPruwtFuS28A6kBN1pb3S4s7Qgo64j3ivgfvV6evEvpjVjAMKzJjhIaEJ%2FhmaZEYfVKoaMxULxhlYTqn%2BRraNtU2mT3WTGqSql078%2FocmoQffJtLyL00KBfiBFHIgKQRAm3YR3SLfkKKZhrKgLIuzFJOdWqwlkaFHMCoxY4d1jly%2BfFpn53opYhlA%2FNOcl0uMUX0sPI41k%2FtLdJQTDoxkeQE1YlYpEmlSZcWK3%2FwRbAwH%2Bs",
+   "url": "https://www.ebay.fr/itm/166795063028?_skw=processeur&hash=item26d5c2aef4:g:ErgAAOSw3dhmWYkY&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lPSfnzgeByXfgNn5v1q02C3o30wXWuC79%2FDjlQHzPruwtFuS28A6kBN1pb3S4s7Qgo64j3ivgfvV6evEvpjVjAMKzJjhIaEJ%2FhmaZEYfVKoaMxULxhlYTqn%2BRraNtU2mTuKw9OTuCSx9gC1o%2FvWab18dZObJZOPdXFARmzCONQgfAAgxmjutf9MNbkgaGbDXYv58oJNa4eJA5ZxCUYj2c2fJfn%2F5%2BCMyWcA173ErKeH06fNtK%2BaSjjeywkUojzYEghQndtQ4bX%2BFc1tzPHvlz%2B",
    "posted_at": "2024-05-31T08:26:56+00:00"
   },
   {
@@ -2436,7 +2449,7 @@
    "attrs": {},
    "merchant": "eBay · ombudsman555 (100,0 %, 60 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147468740259?_skw=processeur&hash=item2255d266a3:g:E70AAeSwDB5qZNXo&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lUaIdxosOrqdJ4gekmMzyVKl6qgnm4TGpgqEzQRl3TeR%2BOYk4tfSyLW0ehm9nfaGi6pmDt%2BSF%2FgQ7V1yQhA2r5qtTpNu%2Fw%2BHwLBSN6%2BIKMKCRWvTYjQDwRi4y5gTEehSaeOYtS13b2Oa96Yaes7M7pfVrM9AwaEiMSXLDgOM8DqEyTBZkgBb5QDMXIsUbtLSmxVARI4KHPqguonKQqQ4DoDi3UZBPRr3P%2FBPG%2FF%2BDOh2vcGdka4ZFI%2FKQSnU9UhDZfY3CQ4TZknDd%2FSOcjV02Y",
+   "url": "https://www.ebay.fr/itm/147468740259?_skw=processeur&hash=item2255d266a3:g:E70AAeSwDB5qZNXo&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lUaIdxosOrqdJ4gekmMzyVKl6qgnm4TGpgqEzQRl3TeR%2BOYk4tfSyLW0ehm9nfaGi6pmDt%2BSF%2FgQ7V1yQhA2r5qtTpNu%2Fw%2BHwLBSN6%2BIKMKCRWvTYjQDwRi4y5gTEehSbM0j9JivEAAhe6MM%2B%2F83sURJxBHg1gMuC3pNjLtlW2UXnwwghJWSs3LQl0OX0zTdcDXRlNeipBPHfxYpGend9CfiPJIluFv%2FhFuCJYHVRSu%2Bv28UQ4xSrwtSjkpvnWaIaUYo3r7XHbN7oNuhx5hVk1",
    "posted_at": "2026-07-29T07:24:34+00:00"
   },
   {
@@ -2452,7 +2465,7 @@
    "attrs": {},
    "merchant": "eBay · destock-info38-recyclons38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/167638929348?_skw=processeur&hash=item27080f0fc4:g:pH8AAOSwcI5mWYQp&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7npYCHILUmooo9fzkoh%2Fr1khauJi9WG8rmkQPGu%2B4ufLsbEXR5mtuLSnPeiUvHzNcP8BIQYAtGXNx82oEPygTWj5mOfsidUjKwT8Vr7KhqD3g891OQW%2BiwevwCBhWvJbdn9slq4YEKNrM%2BNhkGXnbDYkQ7oGf3qR3UGMIPkyqVl6f%2Fbrnwb5sBniwFivQihZnX7Lm6cnZk5SvhHMcYOJf3V6HAspnJPoR%2F9MQqKUV%2FwSUkldSRNWqYe6phKUahJ6Sujr2lZI7e7TNL7bPQxF79V",
+   "url": "https://www.ebay.fr/itm/167638929348?_skw=processeur&hash=item27080f0fc4:g:pH8AAOSwcI5mWYQp&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7npYCHILUmooo9fzkoh%2Fr1khauJi9WG8rmkQPGu%2B4ufLsbEXR5mtuLSnPeiUvHzNcP8BIQYAtGXNx82oEPygTWj5mOfsidUjKwT8Vr7KhqD3g891OQW%2BiwevwCBhWvJbdkeClbbfzvZXpI08ihkXekb1z8GJ%2BZ6qtktK%2FzM7IZ5OBG2REvkTgIJKzjpNvYE2lBNJ2EEFp9d5NjSsg6%2B2O18%2Bg5KAIH2%2FNJe%2BHKCzDyCFLe0bzJs06Fmyc4UqQq%2F4Ka91BHSk%2FPEYsqD8Lvh7i9t",
    "posted_at": "2025-07-10T09:56:20+00:00"
   },
   {
@@ -2472,6 +2485,22 @@
    "posted_at": "2024-10-16T09:19:36+00:00"
   },
   {
+   "id": "ebay:v1|920070883155|0",
+   "category": "CPU",
+   "model": "CPU:Core i5-8500",
+   "title": "Processeur CPU Intel Core i5-8500 3.00GHz - LGA1151",
+   "condition": "used",
+   "effective_eur": 39.88,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {},
+   "merchant": "eBay · neselaa (100,0 %, 323 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920070883155?_skw=processeur&hash=itemd6387f8753:g:REcAAeSwqpJq3M63",
+   "posted_at": "2026-10-24T15:30:51+00:00"
+  },
+  {
    "id": "ebay:v1|920088164131|0",
    "category": "CPU",
    "model": "CPU:Core i5-8600",
@@ -2488,6 +2517,22 @@
    "posted_at": "2026-10-30T16:14:18+00:00"
   },
   {
+   "id": "ebay:v1|388566201599|655677139048",
+   "category": "CPU",
+   "model": null,
+   "title": "Processeurs CPU Intel Core i3/i5/i7 - 1ère à 10ème génération",
+   "condition": "used",
+   "effective_eur": 42.09,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {},
+   "merchant": "eBay · liveatsamsplash (100,0 %, 352 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/388566201599?_skw=processeur&hash=item5a7859b4ff:g:d~QAAOSwleFoSbFg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l64db%2Bjti7hpjwjH2pirECFdQtqpWnyqFhpENP4LcM5DOiDe95wO1ffTt%2FBf6LTsPn90yqBZWtGFmGot%2FzVqaXhlnUfDdpSFZOKSZMG13sdtxk10YnvBs3EkwDnX0SaILUvI%2BeWpVRHAud7lUVFWti42GJdwS5D1pv2WFe13f%2FpzGH%2FdPHKTdvOoIQChe0h8VKjYnt95cVNCcbl9dgQ2fwaNt%2BePkbo%2Bnie--JsPABXsSK%2B1CMxW0byN5cOvzL2QfotdvYRYob86RptSzfHBg8RYJvQGbeiyXzve%2BqLW4h3Q%3D%3D",
+   "posted_at": "2025-06-11T17:22:06+00:00"
+  },
+  {
    "id": "ebay:v1|167027176782|0",
    "category": "CPU",
    "model": "CPU:Core i3-10100",
@@ -2500,7 +2545,7 @@
    "attrs": {},
    "merchant": "eBay · destock-info38-recyclons38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/167027176782?_skw=processeur&hash=item26e398754e:g:OhQAAOSwsvdmWYgd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nsW5qcBJfBWuFk8Z%2BcWfn8ehnrmi%2BMHX6HJ089LUayl7RDDes0D9OfQ0qkQMKS0pAV2w%2FPX2GZa0Mz6fT0BXqJozcjmtUYb8xwXwiPC1u4j%2FVKGWUcbFsbFuS9eUdkx3tj2CNqM8ZouCzZz4ELNrM%2BrN4kcDnxTlG8%2BplJBwy3EmsiW5pKbG0XO9aTnfdOCohZ5vRIyYRtt9%2Bma3bBhOLvIJ6dv21%2Fr5lzfVp38t2G8j5TPQofM0%2Ffu4oO%2F1N10lV1Rd2tPJkN3VugmsTqrOlw",
+   "url": "https://www.ebay.fr/itm/167027176782?_skw=processeur&hash=item26e398754e:g:OhQAAOSwsvdmWYgd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nsW5qcBJfBWuFk8Z%2BcWfn8ehnrmi%2BMHX6HJ089LUayl7RDDes0D9OfQ0qkQMKS0pAV2w%2FPX2GZa0Mz6fT0BXqJozcjmtUYb8xwXwiPC1u4j%2FVKGWUcbFsbFuS9eUdkx3sAxAjsO2205Suh3Os8J5VfIDXg7ysT7wzs80y2jLGH%2Bw1wqdHFfNd9sl1MzoNd30EDGWu8sIX9GwgqSOjIzK%2BfnoBFAg%2B9%2BiPdZ9lnF%2BFnet6lTq8Bpw0kZOOj%2BkzU6DuRVA8KjzejEzEgUrkTw6am",
    "posted_at": "2024-10-16T09:36:50+00:00"
   },
   {
@@ -2536,38 +2581,6 @@
    "posted_at": "2026-10-24T15:16:24+00:00"
   },
   {
-   "id": "ebay:v1|206684433580|0",
-   "category": "CPU",
-   "model": null,
-   "title": "AMD Athlon 3000G 3,5 GHz AM4 Dual Coeur Processeur avec Radeon Vega Graphics...",
-   "condition": "used",
-   "effective_eur": 46.8,
-   "median_eur": null,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · moinsx (100,0 %, 367 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206684433580?_skw=processeur&hash=item301f5a2cac:g:ebAAAeSwPAlq8GxJ",
-   "posted_at": "2026-11-08T12:51:27+00:00"
-  },
-  {
-   "id": "ebay:v1|167941653280|0",
-   "category": "CPU",
-   "model": "CPU:Core i5-7600K",
-   "title": "Processeur Intel Core i5-7600K 3.8 GHz Quad-Core (BX80677I57600K)",
-   "condition": "used",
-   "effective_eur": 47.12,
-   "median_eur": null,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · solution4ult (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/167941653280?_skw=processeur&hash=item271a1a4320:g:bGMAAOSwxnBoTWbg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7maI9LJdN1qc3UdZmlhAoZXK6cTSnCQBtjeSP2u9zE1%2B9O%2FCqLoSbYykUqg5lX7486LWa0W7J8UF9AsJW4ym1zx%2BHRbkM3Aav4Hi4mdnExJVfZ1uY7jrNrNorIxPp%2Ftg7YNztY0dcdGuucnz1QTmmvxjFdSYllnrZ88z7Ydq9V72gUkKP857B0WPhM1ulzM6Pbr88EIvomSVFgyOXTjo%2FRGIi%2FXVLELxvM%2Fy%2BCf%2BlEAgWZzqApvUY6TP%2B860rv6cDcZjoMvFWOR4veMMF3qmAGbEHE87jsn8v4hAkBDgoObLQ%3D%3D",
-   "posted_at": "2025-11-19T13:57:26+00:00"
-  },
-  {
    "id": "ebay:v1|136953912282|0",
    "category": "CPU",
    "model": "CPU:Core i5-8500",
@@ -2596,7 +2609,7 @@
    "attrs": {},
    "merchant": "eBay · destock-info38-recyclons38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/167452828702?_skw=processeur&hash=item26fcf7641e:g:LUwAAOSwYJhmWY7A&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kYBM54cAiY3%2FVHEZujJljLOePjQFYfCWOATG0rnx3AzygLy8XYKQTen5xB3NDJ3Q9QXi3ApjEExgBAW5ZiIxMG%2FLzQuhQMNzKUB5JzJNjyBeGQajcT7bS6zO3Qk9W4TOxfSzShDHjk9IFrXg5aItiUOD4B8caxvo7jQhMG13X%2FQCQ3AYfgUxtYIJfvwGDZ2CapctoodaGwtH%2FPl4M6rBKQHkpyrxhqYqUVSZuaOKiD9m41VGIZS467vIues%2F2WDx0YpoVE7xLR%2B%2BjkwNLaY8bK",
+   "url": "https://www.ebay.fr/itm/167452828702?_skw=processeur&hash=item26fcf7641e:g:LUwAAOSwYJhmWY7A&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kYBM54cAiY3%2FVHEZujJljLOePjQFYfCWOATG0rnx3AzygLy8XYKQTen5xB3NDJ3Q9QXi3ApjEExgBAW5ZiIxMG%2FLzQuhQMNzKUB5JzJNjyBeGQajcT7bS6zO3Qk9W4TOzYCUfhoAvGGlj3WU3sXHo%2B3w%2BQ6jgtLs3lbv2z64qcTaiY5r3wo7Rjw2rsJw%2BLwRhy9QS6nBPeDsEkuFYY4bO5eOSCodALdOjNhMDRnvZE1uHE7FP4Ta%2FGTm9KC8c9tJhq7ktjgy1ZYDeVpv%2FVnVeS",
    "posted_at": "2025-04-14T16:19:08+00:00"
   },
   {
@@ -2644,7 +2657,7 @@
    "attrs": {},
    "merchant": "eBay · destock-info38-recyclons38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168421552026?_skw=processeur&hash=item2736b4ef9a:g:OhQAAOSwsvdmWYgd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7naMvS%2B5c49n8BEZwPEp7PmO1plW9upX5X8GBDkhSf6FDNgi0rApYBTyXdhAhVML%2BpPbM3ghP6RAhLF9LFReAmnAbsvpz185owgF%2FNRzRnl7mOXJb0BGpJ%2FXItR0UAuJ6K7WxugjkuIhO7%2Bl5XBMDuheAAazL3fuVb2GWa8VbANQVzx08yYU64%2FG%2F50zo4LpD7vPKv9KE4HqMAYbJotsSzxO5PUhmAoY5Q9m58Ur%2BrS9ukVNnYJPpZ23IULoXPNIAPYTd7rNEO9cMblDiqktPVn",
+   "url": "https://www.ebay.fr/itm/168421552026?_skw=processeur&hash=item2736b4ef9a:g:OhQAAOSwsvdmWYgd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7naMvS%2B5c49n8BEZwPEp7PmO1plW9upX5X8GBDkhSf6FDNgi0rApYBTyXdhAhVML%2BpPbM3ghP6RAhLF9LFReAmnAbsvpz185owgF%2FNRzRnl7mOXJb0BGpJ%2FXItR0UAuJ6LoBPrMobnmRECgXPLONo9MC0E7%2BXPZyRR72Npvt0RWyFJvtp3KEzk2%2FGmx79sm54hVrB6QhSPiJpgztcrCiPunybPVsFolVZxSPQEtiVL003yL3fH%2BDWBDkNhHfS6J3ycfRNkI1eYAHrjf%2BWlGzFbC",
    "posted_at": "2026-06-01T15:50:11+00:00"
   },
   {
@@ -2724,7 +2737,7 @@
    "attrs": {},
    "merchant": "eBay · nalador2003 (100,0 %, 207 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237142155554?_skw=carte+m%C3%A8re&hash=item3736c62122:g:C~EAAeSwfYdq3N-J&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7noWDT7wfEYE6%2BI%2BEgjm0sHMpu0hCuLMiEMKVd5NYDGifqGLwRtKExARwsA53vq2N%2FO5Tkjgx4A7bzl%2FuJn0EZEkdDVdiPVlfQLaLPyf8XlpXfUB9npyDUQ%2F66F%2Bb20OTcXyT2YFet3lEqyj3SAc5GcJJ49PITr3tBjcdKwIqUsFpre7HHsZMZDJYmhl8ESzwEQqeSjaNy%2FxvhRfcQBy0nsPgt2XyWAR%2FPLzDhK9YE%2BlHC7FCOvOP5Y4f8Rxviv9X4ONz%2BZn2r9WSJpujTQhXXk",
+   "url": "https://www.ebay.fr/itm/237142155554?_skw=carte+m%C3%A8re&hash=item3736c62122:g:C~EAAeSwfYdq3N-J&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7noWDT7wfEYE6%2BI%2BEgjm0sHMpu0hCuLMiEMKVd5NYDGifqGLwRtKExARwsA53vq2N%2FO5Tkjgx4A7bzl%2FuJn0EZEkdDVdiPVlfQLaLPyf8XlpXfUB9npyDUQ%2F66F%2Bb20OTfS7teh2ro%2BHbvaMSaCzwEpKl3zE2j16ChkPLSddrV84jxb%2Fe3NtOaKZWL%2F404ll2gtD9omtsmGwW7EWri%2FqfcnlyMnsu958v8pUJ9dXl4j%2BDt99%2FpJ8rzMS2rwy%2FQm5xlimsbwaPuvB0AXIJGnB3eW",
    "posted_at": "2026-10-24T17:03:17+00:00"
   },
   {
@@ -2832,7 +2845,7 @@
    },
    "merchant": "eBay · destock-info38-recyclons38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168809947273?_skw=processeur&hash=item274ddb6089:g:ucwAAOSw-rpmWX0n&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kBV0CLqOUpr5UtdbMSYGB9Jp2nIUmvGK%2BME4NuuRqymGpef19evrqBrrEFHjX8o6Z2xP%2FqPptiiRu4UKNS%2FjPnF%2FY7PyA%2FgwZYZ2pdHpOImCDzDwKu6Bp0C6IjTzWmP6%2BVf%2BwNmH10%2BdBqojHSX3SdgtvdgezTb5c03%2FuqUxZpKWpfQIHBGPPna%2B9mbgt4AegF9qtXqpR5gR38uZOD%2Fz8lg5pHmCJIWf032s5jprrG04n%2F0JmaC45oDNdnsCW6EKI4cc2XXndMuO%2FElOgV%2FJ3EMjQZsWA9OXpw4NWlZQM8Ew%3D%3D",
+   "url": "https://www.ebay.fr/itm/168809947273?_skw=processeur&hash=item274ddb6089:g:ucwAAOSw-rpmWX0n&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kBV0CLqOUpr5UtdbMSYGB9Jp2nIUmvGK%2BME4NuuRqymGpef19evrqBrrEFHjX8o6Z2xP%2FqPptiiRu4UKNS%2FjPnF%2FY7PyA%2FgwZYZ2pdHpOImCDzDwKu6Bp0C6IjTzWmP684Q9K%2F6fVwj3FoRb5LLV%2By831GFF5bSaXIjoIUpfoVRhlkQ1NUaRtEj2QlqhoMk8DEhMgN%2F4d77bqU8C2Q1%2BF4%2Bm2NoH7Quvh%2B33dmFbP3%2FCK6lSkK9KNnOTAVGWpDErThsJAUr%2Bkc7RYk32E%2F6d696cLbBHCQHsPa8%2BhdvvZ80w%3D%3D",
    "posted_at": "2026-10-22T15:33:15+00:00"
   },
   {
@@ -2912,7 +2925,7 @@
    },
    "merchant": "eBay · lecointech38 (100,0 %, 106 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377577099557?_skw=processeur&hash=item57e9595125:g:nysAAeSwlOBq6zvs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mqf7KCAEdrAHxBw1Rj5S1WHpD9L1fp%2BdoKBgp3%2BobYUCODxCd1xfNoPVimvddSO4TvyrL0Lzq9TYoWxOx6pWsWn2hdKu9Ek5Ap6hSb93gsocPz9vGzk7QvqbOTm250KCb6y%2Blat7%2FWV9w6Gsg51n9p793%2BVicdLLFdAPShSTV5SlMvoyD4vVu8EP0D93p5itNl1o82jR4L4SRuo%2B2971kVIo6bD6kBZzjHXZdvoDGxZ8bz%2Fx1NoaDsU6PguQ8YD9YIm3VISB2t01q1HP0DAHNpsb5n7CzU4My1ihWl94l8dA%3D%3D",
+   "url": "https://www.ebay.fr/itm/377577099557?_skw=processeur&hash=item57e9595125:g:nysAAeSwlOBq6zvs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mqf7KCAEdrAHxBw1Rj5S1WHpD9L1fp%2BdoKBgp3%2BobYUCODxCd1xfNoPVimvddSO4TvyrL0Lzq9TYoWxOx6pWsWn2hdKu9Ek5Ap6hSb93gsocPz9vGzk7QvqbOTm250KCYaaPSMB2p4cZ46Ywtq025zE%2F7wVVKq6SN5zegftzF5yVoGipskzD6m0s82DjiH20OCyJoCfYV0bTGuHe%2BvTB4xk%2F2ubQ%2B2yuTnVJ3ZcIW6NkoQpuhU6Qx%2BJn7VVA3V0xTvTzdwylIlBK5VtfLdpb%2FRSWKICjJRCbrfXDI63AlE7A%3D%3D",
    "posted_at": "2026-10-17T09:51:23+00:00"
   },
   {
@@ -2972,7 +2985,7 @@
    },
    "merchant": "eBay · lecointech38 (100,0 %, 106 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377621300005?_skw=ddr5&hash=item57ebfbc325:g:dLYAAeSw6V1q5KgW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lfWzTl7tbskhy2ODovcGGgGe4k0SgXW4xC9%2FwTZJWxh8IZeOy%2FzOUMBTz3jnnJHf5bnDFk%2BwEEwNGVKeUvTlZJ%2B5G9HgEOCpwPV%2FqUY3K9w5HuJUEX9BrFuIkLGDvNs2%2BtfxF3rPtewpHzJpeqsudo9ixUfuy2St11pX9Xp0QUwgSKBXp%2FEz%2Fhv1VheAl0JqHbxwSIz4rOVTs3USsttcKJNvf%2ByfT1JDh7uQyRQaCVv3ZVtdV7U1f5N0AxtRoN6JP%2BNzgoqEV0muOPhO1HFDYg",
+   "url": "https://www.ebay.fr/itm/377621300005?_skw=ddr5&hash=item57ebfbc325:g:dLYAAeSw6V1q5KgW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lfWzTl7tbskhy2ODovcGGgGe4k0SgXW4xC9%2FwTZJWxh8IZeOy%2FzOUMBTz3jnnJHf5bnDFk%2BwEEwNGVKeUvTlZJ%2B5G9HgEOCpwPV%2FqUY3K9w5HuJUEX9BrFuIkLGDvNs28Y5PcNUpbmwnfPUj0LcgnAsStndVBV69xsjlKOeXWgAo4Hgz8PF1e3Rop%2FsDWkpOjITtFhMb7NSKCN012y7sD2UHcKgEuVvfvZNSgxrR475PFbpVebJ075diKSJYRpu9RjD3hdReuzMieqOG5tAKyo",
    "posted_at": "2026-11-04T14:00:32+00:00"
   },
   {
@@ -3004,7 +3017,7 @@
    "attrs": {},
    "merchant": "eBay · itremarketingpl (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837402505?_skw=carte+graphique&hash=itemba75a0ff89:g:kUMAAeSwIhZq3h9y&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mKrZpoyzY6M7e%2Be2S%2BN9PhBEztcTIzdOfwD6gAp%2FOWdKmv1YaquCYbTpyjQlwHWEjMtTUabvwcXYtVIjaahqKMNG1kY9O5U8fyYhd8oprpHpX%2FtXoBBpADYZTM5G%2FgQ25YzrG%2B8%2BALQ8nPFtkWhyC6xejIBqV4u4dmZluhZv1hS05dK%2BSDfSUDvk31WdUhQb0UF%2FObg2dmw%2F0C2GBiCiQv0eeG%2Bm%2BggAP%2BE4YQr8moDxxi8Qe%2F0CStMGcjjf78Ujcov6AVSP79DrOyQ%2BUIaSFOtiSUBJrWQ8NF4HEg1edi3A%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837402505?_skw=carte+graphique&hash=itemba75a0ff89:g:kUMAAeSwIhZq3h9y&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mKrZpoyzY6M7e%2Be2S%2BN9PhBEztcTIzdOfwD6gAp%2FOWdKmv1YaquCYbTpyjQlwHWEjMtTUabvwcXYtVIjaahqKMNG1kY9O5U8fyYhd8oprpHpX%2FtXoBBpADYZTM5G%2FgQ273TWRuSWOwDfCGqK1G4Zp%2FuJGIyyK5lB3g7pAcYMJSoXfUZtDcazUzFC4UOtx83Jxdbd6xLtaWLEaiK6CYI6SMxQmwpNBOLp5%2FSR8HFvNPRn21y3wRZEOqJe7WSCmSOpLy%2FrQvkr4mWQKT3w%2FbqbmtjO8yWqem8UDHYkjh5b51wA%3D%3D",
    "posted_at": "2026-10-25T16:32:30+00:00"
   },
   {
@@ -3036,7 +3049,7 @@
    "attrs": {},
    "merchant": "eBay · tom--26 (100,0 %, 103 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839954859?_skw=carte+graphique&hash=item4a3c579dab:g:vEIAAeSw7cVqnwkz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k2WaDytDCgMIkdylyjx%2F2mHHOhTGG7qaOPcAflWdfxrSbIHi%2Bzq8dkNFMd91eQyiEFmXbc8gibUHiK7dH9wl7Fx9g1u0YpVcJiqwXwmkhb9Jsg4dGSmVFol%2Bw7Cp5RQ6VEw0ONYz8yi4%2FehJQnwLZnBIB1ImNfSGr2dblNqK%2FixX9U69naNAkrBWk0dATjJ1ADaG68TvgUEyLnXHSicGd1jQEbzLkcjPCiIWHBurqDALDJoXvCDywcCBZHz8rshju%2FtxuHHr6Pukgpe0UUiVtj2eGSQp7stxXovbERhm1XAg%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839954859?_skw=carte+graphique&hash=item4a3c579dab:g:vEIAAeSw7cVqnwkz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k2WaDytDCgMIkdylyjx%2F2mHHOhTGG7qaOPcAflWdfxrSbIHi%2Bzq8dkNFMd91eQyiEFmXbc8gibUHiK7dH9wl7Fx9g1u0YpVcJiqwXwmkhb9Jsg4dGSmVFol%2Bw7Cp5RQ6VXm1OSxS%2FgOQbVv%2BBlHJGwvZRSpfqX%2FQwSSFwGH3Bn66vLZrSQ7er0Dh4jLP7weurXFVU6yT0nbI4iB0CaiGgYL5fNaOXXhRdiXSfp7ZSMa%2BvD1tu1Ioa3kd8SqxmEYHSnV7nNbJC%2F07ZuxOShQ%2FkxeLySQwDIoocy%2F4inOe%2BB1A%3D%3D",
    "posted_at": "2026-09-07T18:59:39+00:00"
   },
   {
@@ -3052,7 +3065,7 @@
    "attrs": {},
    "merchant": "eBay · gael.delaye (100,0 %, 147 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940011871694?_skw=carte+graphique&hash=itemdadd12ddce:g:2SgAAeSwBVpqznQi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n92hZBooZ8KY1PUMyKvjS9CZMm84%2FuFTuU6UFKP8oCbvXOxIwfTi5FP1jeUu1vmnTgegnG2c5Z9EBdKxaluhgk649ZOnMGzVAJif2aO6s5ZTle613bjfMaTvIs2Aak8A7RTwRmpy2o1WkJp8mhqBzLu1lMNft2bWgYkGRaX3PZMQPPPkjcMZYQxrizBmzHVf537CbX0rlLxg9aacFSsHNhYSdVArr1jJQ%2BHaioCrGnLRxEJtSUoabxo6TLVKQ4LsuziT%2B0E6JJeUpA%2FKmvVLV8CmMeMOB6YV6X4sHa8kh6rQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/940011871694?_skw=carte+graphique&hash=itemdadd12ddce:g:2SgAAeSwBVpqznQi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n92hZBooZ8KY1PUMyKvjS9CZMm84%2FuFTuU6UFKP8oCbvXOxIwfTi5FP1jeUu1vmnTgegnG2c5Z9EBdKxaluhgk649ZOnMGzVAJif2aO6s5ZTle613bjfMaTvIs2Aak8A6RODUw5xL3QhLP1WvsvvIBaUS%2Fxrsswrya%2BBXpb%2FbiBC0eoDXw%2FqSd7JUAtHtLykVaShhoHPf0B5YNG2zbwRBY9epUKbN%2BoLpkiVFX3wgGMbu4bOIoNuIJ1xMD%2FSt3qrz2CG%2BcWNBEurpBWQ5vnRAm4gLwtZ2%2FypXLEUAq%2B9%2BWvw%3D%3D",
    "posted_at": "2026-10-13T18:13:20+00:00"
   },
   {
@@ -3170,24 +3183,6 @@
    "posted_at": "2026-10-31T09:43:24+00:00"
   },
   {
-   "id": "ebay:v1|377615353535|0",
-   "category": "GPU",
-   "model": "GPU:RX 580",
-   "title": "Carte graphique Sapphire Nitro+ AMD Radeon RX 580 4GB GDDR5 GPU Gaming",
-   "condition": "used",
-   "effective_eur": 89.0,
-   "median_eur": 93.68,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "tdp_w": 185
-   },
-   "merchant": "eBay · depann-tech (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377615353535?_skw=carte+graphique&hash=item57eba106bf:g:2-0AAeSw21xq6JFx",
-   "posted_at": "2026-11-02T13:38:47+00:00"
-  },
-  {
    "id": "ebay:v1|168848561976|0",
    "category": "GPU",
    "model": "GPU:RX 580",
@@ -3236,7 +3231,7 @@
    "attrs": {},
    "merchant": "eBay · letresup (100,0 %, 122 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198776611887?_skw=carte+graphique&hash=item2e4802642f:g:q6IAAeSw7odq6NlB&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEo83ZON1ozTnw7Oo2iYh5oCNKxCbwBZAPaSv6rEoKKJ99XE34mK3brEUmVodTXCIHYuOUcfSe0s0VmAyzyXNeGV4CVxPAd0wi7XmZ5k7ts3cWnPYA0BdVaRKqESMRCgHBhhlaOMxIPIIfFkaTP2om6bzkf4l%2FqZyUUSJx8eUYcVzawzNszLbZ5ks1Cl0lOd%2FAOjkrJWySBbdgAsX1z6Zm7eEpxzHNq609WfNSJf%2FNMqh1bMXeYhp5tSyHZyl%2BTZ0js9dBFvg53GNv7G9NO0aWzGtPmPU8Jv%2BHJSODXYVsUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/198776611887?_skw=carte+graphique&hash=item2e4802642f:g:q6IAAeSw7odq6NlB&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEo83ZON1ozTnw7Oo2iYh5oCNKxCbwBZAPaSv6rEoKKJ99XE34mK3brEUmVodTXCIHYuOUcfSe0s0VmAyzyXNeGV4CVxPAd0wi7XmZ5k7ts3cWnPYA0BdVaRKqESMRCgGjyvttNmvlgL2428xy74ow%2FM%2FQ18HyaOCGPzhqSv23TGA%2B6MNFaGPY6fzITcTuHar2C%2F3VtxQGX%2FhW1N3QMi8FfQu%2BJpiDTsAIv17Y6GZecP5Dt9imJ3HUvkx1F043mdy4Db%2BGDAd0jyI3hGSrnCT%2BaLSa2XAild80H68eFYDL4Q%3D%3D",
    "posted_at": "2026-11-06T06:54:57+00:00"
   },
   {
@@ -3252,7 +3247,7 @@
    "attrs": {},
    "merchant": "eBay · 123infopc (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZn4TvnedJvAeXbRSKluGyezNYJuShDgKJap3XuDBFjsUssGDZt%2BMKBw41AliufwYxAQp4336B7kfTmKncS74wAR%2BajVhsVyszKW4rUgmY5rfkiVTvB%2BtWlsJWpaiQVIjIbm63Mw2YAPjQ45H92g8E6qlZVH%2F3H61PRaFH2hCowx9w%3D%3D",
+   "url": "https://www.ebay.fr/itm/188137897316?_skw=carte+graphique&hash=item2bcde47d64:g:Rc8AAeSw4v9prr~m&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lSm%2FCaoi%2BQCgCB2rWbgRQFxDA8TPGKg%2FE7%2FsBm%2BApYIJ7tk2%2FZxnQTpbKHNNYSAjn9gKFFCgBKL3jD%2FDwQ1De1JDC5qv21awPwwlUSIROqdyaqOCSWZp3cjREjdm1FrZnPDjEzF4mzAczwDgrptw5ksOsyWWjKHNl9z2tCYAT8Skj4hbpm8zHMJUwS%2FbsG1LFQLItN18A57ObTyrAgekPehnHBVcS9IjSeldsolnW54PwzR6lPcqlRbKgEqmzOu7k8hr4X8D1cpzKgIwok7KbAZ%2FdB7aPhvbT%2B6SfHM5hW8Q%3D%3D",
    "posted_at": "2026-03-09T13:58:47+00:00"
   },
   {
@@ -3360,7 +3355,7 @@
    },
    "merchant": "eBay · flag5008 (100,0 %, 57 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880088339273?_skw=clavier&hash=itemcce95a5349:g:Ed0AAeSw2qZq7YX4&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nc60zDJBV2AlCaIp%2BaCGf86cBaFLGMkS0cFwwk2PDoUdTZDWLQnINz0PM9fvV58i7TQ2uedlwTaHGoiW2BJ5WBucavyc1OYwpneRbA5aSRQ7mppmcpxouBerWxTpelC66T10le0P7%2F1t%2FNgn%2FDH3y9z%2BxgftxPM56zN7e%2BckctyWL0K41p8C7lDAMnqxOTcIk44F9XSvbauaiPXiaMNUwPUG9PqCWcXD0d%2FmCQayPkS7klgzb16CqpP%2B4ITD2exU8RSqgZOg2Bh2htF7j6MgCk",
+   "url": "https://www.ebay.fr/itm/880088339273?_skw=clavier&hash=itemcce95a5349:g:Ed0AAeSw2qZq7YX4&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nc60zDJBV2AlCaIp%2BaCGf86cBaFLGMkS0cFwwk2PDoUdTZDWLQnINz0PM9fvV58i7TQ2uedlwTaHGoiW2BJ5WBucavyc1OYwpneRbA5aSRQ7mppmcpxouBerWxTpelC64TCNDWoCYCtgjdvNyUthTRd%2FopYzObOBYL2QeyzYs7CCPCvfoXXYczWiPUs%2FKhRrdZNnfphLwilaAVE4Tdh6p70ECItTym0oopGwhm73jgKLOvBErIP6FMnet6pZIW4%2FEC1WUMFdhtWQLDk37UXK64",
    "posted_at": "2026-11-06T07:48:19+00:00"
   },
   {
@@ -3560,7 +3555,7 @@
    },
    "merchant": "eBay · chass9686 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/358586102231?_skw=clavier&hash=item537d65b1d7:g:GdYAAeSwZQpp4ima&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7npWJ78LaGqz%2FgKgUC2tdJ8WymFm55ryFXrrlht0eKwylE9b2bgr7KLEQMsKEx6MLAxipFCj9Ip0Auq9NknsbtWy8FOwWY2cwdDur7RvXsoXlvMng%2BcQlkaqpT3ar%2Fy3Eh8YZOtpVA2ggxzBYP%2BtQ12plOqQpkTppSbuYEJjL684gW8ftB0%2BHOImQOJZE2O9n93lttQXXmBtKHiDd3tF7UdYwgXLcMhnc73WCXLE%2FnwZ8unSM%2BkFyzW9Nuuy578IyZL5I5iUUcpB5P8h6INu2kOJM--BtTBJFxkxBN6RoKUNA%3D%3D",
+   "url": "https://www.ebay.fr/itm/358586102231?_skw=clavier&hash=item537d65b1d7:g:GdYAAeSwZQpp4ima&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7npWJ78LaGqz%2FgKgUC2tdJ8WymFm55ryFXrrlht0eKwylE9b2bgr7KLEQMsKEx6MLAxipFCj9Ip0Auq9NknsbtWy8FOwWY2cwdDur7RvXsoXlvMng%2BcQlkaqpT3ar%2Fy3EjeKt9%2FJ6BjVNxGfBHMQmC5V1WA6yVV2CBpneSxjG%2Bl03k37prp%2BDYGPpmvkAihzJzrRtQkaEeBzenNbxVadkMoyNkKH5REZPnKReiC9YM5BGAkIjqLXwMc2e8g1GHtCa0UVKEJtwnmC1eWL6a7cnVdzLSZj1eHTjJvVnT1Bnr%2Bog%3D%3D",
    "posted_at": "2026-05-22T13:57:31+00:00"
   },
   {
@@ -3614,7 +3609,7 @@
    },
    "merchant": "eBay · tomjaw (99,0 %, 185 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/127773751673?_skw=clavier&hash=item1dbfe8b979:g:guIAAeSwDFxpxfOc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nBjh2QS0O8xdg481EgQmCjW9eHsWUSPJSpLc5JWxPTK054YtglI1Y1SHBnUaJ75GTkJ0FkBu1JNSN%2BmWlm81GlASPthN5tltwofXUChE9hsb9j6vPRct%2BMTNK09MiUiYQkFhv5hZ%2F9wbX7C371BvBA54XQYGK2PXSfdPOClON3E1nekb%2BoZGdw2RCVMOaqeD5MEAyLhgrWeueVLClAQsTYCHGqIRzV1sRHdIvIPHFmRQjeYXrBc%2Fz47%2BsGVUkOfekwQtBaptJvOk3mCp8kxWvDkTHQd9rEtOWoq8%2FZt5lKjw%3D%3D",
+   "url": "https://www.ebay.fr/itm/127773751673?_skw=clavier&hash=item1dbfe8b979:g:guIAAeSwDFxpxfOc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nBjh2QS0O8xdg481EgQmCjW9eHsWUSPJSpLc5JWxPTK054YtglI1Y1SHBnUaJ75GTkJ0FkBu1JNSN%2BmWlm81GlASPthN5tltwofXUChE9hsb9j6vPRct%2BMTNK09MiUiYRQGiJv%2FH%2BtDc5fhlFXxN0Zf2Z3caQ045jhB43blve7sE3qGKEvaBXPs7cO53nQMGWfA8mn1p6ahk6fZ9Di9VZ5lhytgW5bJm0WUwtOU5goh2d2lbZBe3u4WgQpnjepAD6JC087krM1yBQQWr%2B3bl3IwVAJ79B3bi3oXIDeWl8wcA%3D%3D",
    "posted_at": "2026-03-27T04:45:55+00:00"
   },
   {
@@ -3652,27 +3647,8 @@
    },
    "merchant": "eBay · itremarketingpl (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800844292563?_skw=clavier&hash=itemba760a21d3:g:x~wAAeSwI1Fq3hk2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nT2ipX9aR699BGWK%2FG%2BXo1GKcPMe0lHgEUflZ5%2FGyh%2FL6udyEP4zdsn4aWgY5PqR8DM8nLrlgQQccjN7iEL7FY7v7evlT8xV2X6AZ90uYLaJ0gNIzsTuYhlpjdnuNevV5Obp7OwjvY8Y5qcdIerz00w%2FQZrCKZJRF2ouoEimrz3YNxQHE4Nfn%2FfOUQDiHqWAFaOh%2BgwLNjkuBkjKePTDLzfJXj%2FT18a8R5HOWim%2FEDAnu1FMpj71TCCbqk2BeTVVlL9SrKWRBE1MxtueotYykiADDFOlXoDDaMzTd%2BF0havQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800844292563?_skw=clavier&hash=itemba760a21d3:g:x~wAAeSwI1Fq3hk2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nT2ipX9aR699BGWK%2FG%2BXo1GKcPMe0lHgEUflZ5%2FGyh%2FL6udyEP4zdsn4aWgY5PqR8DM8nLrlgQQccjN7iEL7FY7v7evlT8xV2X6AZ90uYLaJ0gNIzsTuYhlpjdnuNevV5m4iQxBow3uwqFZqRzWTX%2B%2FmfakkSEdbWSlKJEYpMNzOM2fAHUA2DwKvreUY0NKVAFVtQSEvrJrL0N7Fj5khbUhCrr9LhFnkfWP4%2FAGTlzPSh8m6011YSTT0gT7feZCwp%2BQQevE%2F8KPBK%2Bv26DANqkSLo7ZFxGzjKlts61HDal5w%3D%3D",
    "posted_at": "2026-10-27T12:40:32+00:00"
-  },
-  {
-   "id": "ebay:v1|398016218599|0",
-   "category": "KBD",
-   "model": "KBD:Membrane-Complet",
-   "title": "Clavier DELL K12A001 (QWERTY) Dell Venue 11 Pro 5130 7130 7140 Dell Latitude 11",
-   "condition": "used",
-   "effective_eur": 25.25,
-   "median_eur": 27.95,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "type": "Membrane",
-    "layout": "Complet"
-   },
-   "merchant": "eBay · atout.c-65 (100,0 %, 239 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398016218599?_skw=clavier&hash=item5cab9d85e7:g:ceoAAeSwJZJqHg71",
-   "posted_at": "2026-06-01T23:05:28+00:00"
   },
   {
    "id": "ebay:v1|800840881888|0",
@@ -3709,7 +3685,7 @@
    },
    "merchant": "eBay · pio_remarketing_pl (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117331221912?_skw=clavier&hash=item1b517c5d98:g:0o8AAeSwEbBqayKZ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l9%2FSLezuvDE%2BIEQXOsn6sW8KthrxpoT9GVMOqjbIntMMcd5d9ruilcbAcN%2B22qiEY5vrvZlH4pVeYgzeR7XOPcYxgVLHvIS%2FysjaqI6l%2Btu%2BFR3iNcVfL2KGiJ5EiaQR7wgqfn8CG8jdjB7ys7eNfOZbZfAvytAFqV63LhWjmh9pWxdF0HCrNr6PrlPfePxRxqkP0apgyLzthIQqRnNCr1YOJhnaewZM8%2BIjufh6GyEje%2Fl43sOTuk%2BzJv5%2Bg6FagIR2Xj07IWYLAWF813t%2Frlamg0wOpSyg6iwU%2F3vg4x6Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/117331221912?_skw=clavier&hash=item1b517c5d98:g:0o8AAeSwEbBqayKZ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l9%2FSLezuvDE%2BIEQXOsn6sW8KthrxpoT9GVMOqjbIntMMcd5d9ruilcbAcN%2B22qiEY5vrvZlH4pVeYgzeR7XOPcYxgVLHvIS%2FysjaqI6l%2Btu%2BFR3iNcVfL2KGiJ5EiaQR4tOAB14Lay6RXbkU5e6eXZHvQi6AHfIb9TAv3JD%2Fn5VJfUdkaURm52nn03%2FE%2BGK0hqHrlGimRMd33S1xFTBXaMyrAjRqngwv6Xu7BPb1pxmGPobauqNpaNOczEICGzECa6bQUegYM5WscvfcYOn8PZo3%2FphChmj4L5RPS8sjKT1w%3D%3D",
    "posted_at": "2026-07-30T18:19:14+00:00"
   },
   {
@@ -3798,7 +3774,7 @@
    "attrs": {},
    "merchant": "eBay · allo_promo (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GzmDxx25Xr52kMxmLaB7LVeApPGqY2QxyBb6DWWYqrvu%2FGwKOFPDM8cRqwOiEgbcXoSpGjNd83tvClV4Orw6I%2FWidHCGobCKetLiWmmjL%2FmyU9KKRvpfPm0W6Wu3QV6ifcT5vcmtPgbDaR94n5YELjc",
+   "url": "https://www.ebay.fr/itm/407344185826?_skw=clavier&hash=item5ed79b01e2:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7krq4s5dS65wkGy7Sn07EOVIZyobtzFwwdWBEz0UoXCwRqqIXyrdoGIBY91cjOUxCH7A9dv%2B2%2FnV1POl%2FHcyWkQ7G7sKqFwUusQfDlWOPGx8wUQAZYr6WM6qg2KBvBM7GziTYpDBEZbiq04ftL6GXqRj6SaloMluBjf627HmJO6PnO7pAQLoAz6TA5p%2Fz8J21OuuMFoGApHKau%2B4lQBE0IApwPd62OF0Dppnhg%2FjKs6eijfCSJ1%2BiU2tjljC%2F120kdqC%2Bto829IpVThAVRUS0m%2F",
    "posted_at": "2026-11-06T10:21:29+00:00"
   },
   {
@@ -3909,7 +3885,7 @@
    },
    "merchant": "eBay · boomstud91 (100,0 %, 1 295 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237165048307?_skw=clavier&hash=item37382371f3:g:uacAAeSwisVq7Fqw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2yZyLFryyeiVNaU7oJuTZSWwjH0f9DQlPhI3Gknu5KJ1r5SUnng7QdIbX9N5zwyyZUuAwIjkLnyGE1Y5suq9eZxhxYTwIRxDFJuowWBsoMkBmilpKYtHsagJGMi4qfQH%2BtJDOZdK9%2BDpODKhYGJuCNZmn6QQ%2BIinwP6wJ7ps8PKvgUZwbtcZleN5hiR4Ze3cso6XcY6%2F5v1Zirkxi5SRednmvYc31hVvOEEWyFp%2B9ynekk5o7POtur%2BUgJrB45pniAOA3rDa8LjVToW99VHnsWluQqboqNoWxZoLRKeKrpg%3D%3D",
+   "url": "https://www.ebay.fr/itm/237165048307?_skw=clavier&hash=item37382371f3:g:uacAAeSwisVq7Fqw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2yZyLFryyeiVNaU7oJuTZSWwjH0f9DQlPhI3Gknu5KJ1r5SUnng7QdIbX9N5zwyyZUuAwIjkLnyGE1Y5suq9eZxhxYTwIRxDFJuowWBsoMkBmilpKYtHsagJGMi4qfQEdsc6QS1dzIYvrBMHjJY%2BpDe5v44dUWhFrSctz9W8tGzS7hh%2B5BFOfwpvdeTutEO74eLfOLTUO0usFhF9bi3nxViwEQqtGIjPMAtOvXPw59CqGMgkw9s6Sn9UU%2FUaw1NyPKikAatW0wP9PyKhHlA7E7ys5gU3gl0T%2FXOP2x%2Bu%2ByA%3D%3D",
    "posted_at": "2026-11-05T10:49:06+00:00"
   },
   {
@@ -4023,7 +3999,7 @@
    },
    "merchant": "eBay · surdiscount (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/205173536669?_skw=clavier&hash=item2fc54bb79d:g:mLsAAeSwSQ9q8bA6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEBNER3vBvjqOBXKeNlWuo0chm5H2uUcLwY7LW0flhxL2LNXe0xQV8zdOcIK2hhP7FQnDbMXGnxUr%2BrZbtxUYcW3HAJp12ejWVICVZOV3nTOyeNJVbQYei7CPLLabf2eQNkj6YK9m7sCyHuFeBFFTdyEKUdSZ2M2cpuqeA%2B9X7KFydW3O1xTgvwQv4LriwuPK3JvJCvrEw46fRBeHyeMA6cQtESKGOu1dyrZNqp23l2wYDRsnagyCpbrlYrYl%2BqW7Tn8SDvfMgxriAgTrNbgxmTYCXQeid7UFqA8V%2Fdulw%2Fg%3D%3D",
+   "url": "https://www.ebay.fr/itm/205173536669?_skw=clavier&hash=item2fc54bb79d:g:EksAAeSwAHxq8eX0&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEBNER3vBvjqOBXKeNlWuo0chm5H2uUcLwY7LW0flhxL2LNXe0xQV8zdOcIK2hhP7FQnDbMXGnxUr%2BrZbtxUYcW3HAJp12ejWVICVZOV3nTOyeNJVbQYei7CPLLabf2eQ65lr7PdwXs4mN4f6x%2B3eKkp%2BboUGviBMGASDvpTG1bCr8KBteqfTmKsqT1n9W6auQgWVqlkVhZ%2BOl28rZlTIaOTYMWO38WkFJMpqphdLTkVWhQjFqRsEv4xHIi%2B3VxsdwgFifQhcEiTZlgWcfWZJs3medTkZdzMJz2%2BRxGxZTLA%3D%3D",
    "posted_at": "2024-12-19T12:05:49+00:00"
   },
   {
@@ -4039,7 +4015,7 @@
    "attrs": {},
    "merchant": "eBay · matteo_gc (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147635187153?_skw=clavier&hash=item225fbe2dd1:g:d7wAAeSwNZ9qzzXO&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kBqW%2FRXh1Ln1fVMULQADVoS9%2F%2Bz1rLKEozlEDjLoteanluDPds9oaF5WcbglENP18uL8SR8ZRnktWfY0G1mZA%2BvxJiDiZmUVsaWQiQVKJ9bxMZxYwxFEuSwnVq%2BNV5vyatgCVFOYNlbumMs%2FZVokIP6iJqsS5cgRfsY2K%2BJkStSIYoE2ShYnwmCIWgVE7Rlpfw0H3HXvM%2FSPKa6EFOvPFDb3rYsVD2qJ4inMSQroDtkYuK8US3PCWeX8KoaEvWP8pFXaxv%2BI2pq0TOcSvxD2LDZV41rXjbTM0XOHwof4deaw%3D%3D",
+   "url": "https://www.ebay.fr/itm/147635187153?_skw=clavier&hash=item225fbe2dd1:g:d7wAAeSwNZ9qzzXO&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kBqW%2FRXh1Ln1fVMULQADVoS9%2F%2Bz1rLKEozlEDjLoteanluDPds9oaF5WcbglENP18uL8SR8ZRnktWfY0G1mZA%2BvxJiDiZmUVsaWQiQVKJ9bxMZxYwxFEuSwnVq%2BNV5vybIIk9REPekd8MSs0NmNyb6GZ1q43lKAv%2FHN4BRm8h3oyJAGerD%2BaB34zGZ0O7pLgrK4FibTN8%2FWTAaDCN7bOKmkAft0zUxjBcaHzxIZyWIu%2FpbqyUg5OqaMQllPMVRvTOqoIrfARDDjhLE1CkziJ5Q7BTwv%2FhQkQP6sVbKFGq9JQ%3D%3D",
    "posted_at": "2026-10-14T07:57:13+00:00"
   },
   {
@@ -4427,7 +4403,7 @@
    "attrs": {},
    "merchant": "eBay · nalador2003 (100,0 %, 207 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237142290478?_skw=carte+m%C3%A8re&hash=item3736c8302e:g:YyYAAeSw6gpq3P4S&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7moDWbkuPfXtAJK0ys0LzHZjUKcAyUmZk8Dw26fFiFxFZXajfgEX9Unxs7OVpMK1XBltraixZ1uhSxxBl06ShM%2B8%2BvUX8w1Ophf4FQcuvZWRdtemP%2Bpvl11WK5YyUARwMvHhDHy%2FmOjXw8hbHurdxe1URZBqucObrabMoSgUpOefVMPwtK3pTy2fvPhPQRDDrDf0erIAAoN2GuB3vawJRJ6DcsGmbjId3GPA%2FUrMy84I1PPX9XyytZZeWSo1QeTuRgeUQ97Pzu9gJL5aHZ%2FM63R",
+   "url": "https://www.ebay.fr/itm/237142290478?_skw=carte+m%C3%A8re&hash=item3736c8302e:g:YyYAAeSw6gpq3P4S&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7moDWbkuPfXtAJK0ys0LzHZjUKcAyUmZk8Dw26fFiFxFZXajfgEX9Unxs7OVpMK1XBltraixZ1uhSxxBl06ShM%2B8%2BvUX8w1Ophf4FQcuvZWRdtemP%2Bpvl11WK5YyUARwMsULWHNN1pmQWA9GoIeoO6HnLpnhu2aF0gYWqiPnVSDesnIG%2BUMsLVK1HQ%2FQKGWZ0NHLSJBzjS6Pth7ygHnnkbs21JWu5JHaSX3HmUoOlVZzxBxdCGWrmoy8%2Bt1XnjO%2BEkepYeXpojwPcTsLFBegjBH",
    "posted_at": "2026-10-24T19:01:28+00:00"
   },
   {
@@ -4482,7 +4458,7 @@
    "attrs": {},
    "merchant": "eBay · destock-info38-recyclons38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168824792243?_skw=carte+m%C3%A8re&hash=item274ebde4b3:g:2qkAAeSwiAVq42W4&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nu%2BApGChd06Gq5AZLCj4gdFh6fAtPCwCprpmr%2FNPi69JQOHcVRfTI%2FBTpvC8wSBQr2fpmNS%2FswZu%2F5U4dnVRgpXOdAncYHIMDAAESe%2BEqSPEdTvIdH32T%2BNqEQgP6y2WQ5ESv9Y38jyn%2F0LzH7ZAX0PNKJFN2W4iavdFXZ0bj2dcyZLxgMlAXU9h5E9egBTN7nhODCoJl2Y6ooTBdCNqxPwHORQNZbS7eSHcIvHDRQAe1%2F%2Byq3s%2BR%2BZ67UwbHWq%2BX0livMeY%2Foc%2F9ryu0KkUvnIJhQUJCFUF5T%2FMjj%2B7QC2g%3D%3D",
+   "url": "https://www.ebay.fr/itm/168824792243?_skw=carte+m%C3%A8re&hash=item274ebde4b3:g:2qkAAeSwiAVq42W4&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nu%2BApGChd06Gq5AZLCj4gdFh6fAtPCwCprpmr%2FNPi69JQOHcVRfTI%2FBTpvC8wSBQr2fpmNS%2FswZu%2F5U4dnVRgpXOdAncYHIMDAAESe%2BEqSPEdTvIdH32T%2BNqEQgP6y2WR2KEMLRoxf8Yo%2FUVqkSy2lUu54sfVrwIHFH4ZTXeCSecGwbwEhrNFBohRTO4%2Fw4t%2BtpBf0P60iRDApnuFwiNzi6dVABeVhkLHe5oh4UUkA7ftibQf7lW237BHtG4QP8Zpb4yT7PR9SbjPnJtaRUaF9G5ufhvRF4YjdjCXqsJCKUw%3D%3D",
    "posted_at": "2026-10-29T15:28:09+00:00"
   },
   {
@@ -4498,7 +4474,7 @@
    "attrs": {},
    "merchant": "eBay · tcorporationfr (98,5 %, 1 018 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147654007842?_skw=carte+m%C3%A8re&hash=item2260dd5c22:g:6ZAAAeSwXX1q4LLC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mnUR85U7VmVSzAfGvYJ9JVLDSsbAKuNupjhMUaC0kp%2BfEPhEhEpS6yMS68x4Xr20CxFE2sdCyrlQljwGvnliZgJLyU%2BoWy%2BMS2iRR97P2ImlFoJVZEIFAUuVujh36ub5oLzhoG7ifrtZENgvx0oYguJDg4NceJFDSNBwH85f99iMMiptIr4vBN6tv0n7RePmEei3R%2BASe%2F3OIOAvrTbBkS1ynU4RikGh2Jqw8wUlaInJwk3mrgT%2B%2Flhbp8JNDunUKZmMuC0kD--4qqyhqjX7BgXriJ6dWmNbn4NFLui4KZeA%3D%3D",
+   "url": "https://www.ebay.fr/itm/147654007842?_skw=carte+m%C3%A8re&hash=item2260dd5c22:g:6ZAAAeSwXX1q4LLC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mnUR85U7VmVSzAfGvYJ9JVLDSsbAKuNupjhMUaC0kp%2BfEPhEhEpS6yMS68x4Xr20CxFE2sdCyrlQljwGvnliZgJLyU%2BoWy%2BMS2iRR97P2ImlFoJVZEIFAUuVujh36ub5ppmSB4EHGsYMhk%2FpQ01Qv0%2B2h8VlahS7Ln7WmJGRi%2FUPVAv1BXg9SyiRMgRsJja6cCyF1xmIfjTzzaTQ92TDm%2FbqBAUTc8s%2FcCUyB4gHENrtav5XjYWq%2Fer%2FSKEnBk0JSqkPNg%2BNMO6ohBTj8VVJWiFhwwVyBJ6oQTA%2B9kuAD2EA%3D%3D",
    "posted_at": "2026-10-27T14:21:01+00:00"
   },
   {
@@ -4740,22 +4716,6 @@
    "posted_at": "2026-11-06T10:30:07+00:00"
   },
   {
-   "id": "ebay:v1|257843573712|0",
-   "category": "MB",
-   "model": null,
-   "title": "KIT CARTE MERE MSI X99A RAIDER + I7 6800K",
-   "condition": "used",
-   "effective_eur": 156.7,
-   "median_eur": null,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · eg_56 (100,0 %, 162 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257843573712?_skw=carte+m%C3%A8re&hash=item3c08acb3d0:g:yCcAAeSwCTtq8cSU",
-   "posted_at": "2026-11-09T13:11:35+00:00"
-  },
-  {
    "id": "dealabs:3448296",
    "category": "MB",
    "model": "MB:B850",
@@ -4932,25 +4892,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/880078369877?_skw=carte+m%C3%A8re&hash=itemcce8c23455:g:QCEAAeSw~uZq6aoh",
    "posted_at": "2026-11-03T09:35:48+00:00"
-  },
-  {
-   "id": "ebay:v1|128185122192|0",
-   "category": "MB",
-   "model": "MB:X870E",
-   "title": "ASUS ROG Crosshair X870E Glacial",
-   "condition": "used",
-   "effective_eur": 1039.6,
-   "median_eur": null,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "socket": "AM5",
-    "ddr": 5
-   },
-   "merchant": "eBay · jerem17600 (100,0 %, 119 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128185122192?_skw=carte+m%C3%A8re&hash=item1dd86dbd90:g:jf8AAeSwtIRq8d1U",
-   "posted_at": "2026-11-09T14:55:58+00:00"
   },
   {
    "id": "ebay:v1|147205660369|0",
@@ -5465,6 +5406,22 @@
    "posted_at": "2026-11-03T09:44:21+00:00"
   },
   {
+   "id": "ebay:v1|198733896972|0",
+   "category": "MON",
+   "model": null,
+   "title": "Moniteur PC 15\" Viewsonic CRT VGA rétrogaming vintage informatique",
+   "condition": "used",
+   "effective_eur": 97.08,
+   "median_eur": null,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {},
+   "merchant": "eBay · non3892 (99,4 %, 165 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198733896972?_skw=%C3%A9cran+pc&hash=item2e45769d0c:g:N1AAAeSwdhJqvi8c",
+   "posted_at": "2026-10-21T15:09:50+00:00"
+  },
+  {
    "id": "ebay:v1|206682177003|0",
    "category": "MON",
    "model": null,
@@ -5533,28 +5490,8 @@
    },
    "merchant": "eBay · hexalis (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800821124180?_skw=%C3%A9cran+pc&hash=itemba74a89c54:g:w6MAAeSwLQJq2K5G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4YY3w8%2FScuvT%2FbOaj4Vfd5wn3GtlGzAwrRz%2FHn2lvVpi3Eack7WQPPwGIQ8g9Zm%2F1Pftf4AnlkFjTV6DyVQ5OOff853%2FWTzgAkmYMzN%2FX0o4CMMcA5P7AgbmhpBNsZncnjr1qdLb5JpVt6WkYSvqJPCWH6RWwelKVIDGLz%2FBjfL3BULSHsFqdoI9uCXDA5dO8Pcn9sceNvZKG7X7c7yIHZfrmL8yjwf0mFlHrK7tbKyM32pOCfUQ1EXJNM7hXgnX%2B3KpyWFucHItxPtLVqG4LlcKRYHuUB%2FtcAWoH4gx7xA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800821124180?_skw=%C3%A9cran+pc&hash=itemba74a89c54:g:w6MAAeSwLQJq2K5G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4YY3w8%2FScuvT%2FbOaj4Vfd5wn3GtlGzAwrRz%2FHn2lvVpi3Eack7WQPPwGIQ8g9Zm%2F1Pftf4AnlkFjTV6DyVQ5OOff853%2FWTzgAkmYMzN%2FX0o4CMMcA5P7AgbmhpBNsZnfrMMHhIxQqToeUEm7thGyeHIWlSe2DkzEjHLnBGWjn%2Ban3gsekGsIYEXHtIs%2BBLT8kWSHpAbDE7jgls8byPn%2FD0RHZiWgrqIylOUFzdB1Y1JWqDK6Q4Lnj2r9rqGxnK6YlYcSlxYpBE5Bwo9lfTOdNedsRrIcBQ8uzsOlWxXO8kQ%3D%3D",
    "posted_at": "2026-10-21T13:00:01+00:00"
-  },
-  {
-   "id": "dealabs:3444464",
-   "category": "MON",
-   "model": "MON:24-QHD-100Hz",
-   "title": "Ecran PC 24\" HKC B2422F - QHD (2560 × 1440), IPS, 100Hz, 99% sRGB, 1x Port USB-C Power Delivery 65W",
-   "condition": "new",
-   "effective_eur": 99.99,
-   "median_eur": null,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "inches": 24,
-    "res": "QHD",
-    "hz": 100
-   },
-   "merchant": "Cdiscount",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-hkc-24-qhd-dalle-ips-usb-c-65-w-ajustable-en-hauteur-b2422f-3444464",
-   "posted_at": "2026-11-02T15:13:06+00:00"
   },
   {
    "id": "ebay:v1|820315040900|0",
@@ -5741,7 +5678,7 @@
    },
    "merchant": "eBay · uccexperts (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840064813658?_skw=%C3%A9cran+pc&hash=itemc397c3ca5a:g:TvMAAeSwFiVq4G16&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n7UrIZRlg7m0uiKg0YrtpZ4fZiTNAvttTvgoFF%2FR9FliQDoeV5qSJmPwo1hk0PHuCvtXBDgFgydWBFaYuqZXaYBt%2BTl1xxkRh6ge%2FK8KWJcXSfS1rjYEINXc0UIW5gDu5B0G%2BNpqc19GseEJRcKpNekv3tIfHSQg7s%2BArYYzCU5HCld34NKBbVEs3mDLDfwPnrbgocCJf726Vk9cEG7HCAbw3ySM4o1%2BklLnnBkFYcLqaAqTSHlBxESQz2jAUYYjAalTMN88ifk43SRY9Oz3JhddRS0rzwRgml%2BP72LtfEwg%3D%3D",
+   "url": "https://www.ebay.fr/itm/840064813658?_skw=%C3%A9cran+pc&hash=itemc397c3ca5a:g:TvMAAeSwFiVq4G16&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n7UrIZRlg7m0uiKg0YrtpZ4fZiTNAvttTvgoFF%2FR9FliQDoeV5qSJmPwo1hk0PHuCvtXBDgFgydWBFaYuqZXaYBt%2BTl1xxkRh6ge%2FK8KWJcXSfS1rjYEINXc0UIW5gDu6zQvBrNJ3HBUEkXI1ur3JCteiyofbozZZFN22zrzJjKyywjctRGzsMhhzHdVf3Iq6sdsIYuYW7Yl6oJlCSZLls5Bs2ROu2kkRU0lUkdLGiwAtZ3s7Fy31Tk4uwTeFb89zckhh8erzrXUtZazpCYnYzNwowIupkOMOX5PM5Ur2pnA%3D%3D",
    "posted_at": "2026-10-27T09:23:06+00:00"
   },
   {
@@ -5897,24 +5834,8 @@
    "attrs": {},
    "merchant": "eBay · natsusells (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407271569305?_skw=%C3%A9cran+pc&hash=item5ed346f799:g:uPEAAeSwpb1qxVEK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ky6bWVfj0puKtmdMlH514zqiF%2F5ni6yogaTnjPMprrWsiIIdCJmraLsIrxJMVYd%2BYZ%2F7dBYY5Tv0YgBzFNVrgo6Rf2tJszSBss9NiEDuUtBE%2FvbII8hXeGDQqcttGJSjLd7CDlmd72zd3PAMO0fPdTAeRcSwtPYxMGAtUDZwBPzNZJ0%2FNq%2FpWzsRUAudKdSqFS2jsIJmtHRD%2FMTxGUnk9oi9BbmaSxU4%2Bs1g9dsT3Jx%2FwXNAUvzA9GA1awbODr%2FFYmPTluoFFWCIdN3HiGzISFrejiRw9Y4JTBhSaiz5v4XA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407271569305?_skw=%C3%A9cran+pc&hash=item5ed346f799:g:uPEAAeSwpb1qxVEK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ky6bWVfj0puKtmdMlH514zqiF%2F5ni6yogaTnjPMprrWsiIIdCJmraLsIrxJMVYd%2BYZ%2F7dBYY5Tv0YgBzFNVrgo6Rf2tJszSBss9NiEDuUtBE%2FvbII8hXeGDQqcttGJSjJsCqWqRXFeaH8QtANgAWXABGHMuo4dBAKTTUbKWUL043shUUz8kHoLeJ%2Fo1FTKhvq9bODjo2AjVIKSDvfOC0ZHsve3FRiXfAyc6Z3S4%2FEniBxyg3mzrF%2BrnJfJBqn9E2%2BJYmDWxWGnowaPwB%2FSwW6aRQFLJo68qZ3pI%2BWZvZhqtQ%3D%3D",
    "posted_at": "2026-10-06T19:55:41+00:00"
-  },
-  {
-   "id": "ebay:v1|920121722865|0",
-   "category": "MON",
-   "model": null,
-   "title": "Ecran PC Smart Tech 22\" 215N01FVF FHD Dalle VA 5ms HDMI VGA",
-   "condition": "new",
-   "effective_eur": 158.53,
-   "median_eur": null,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · shop-dealz (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920121722865?_skw=%C3%A9cran+pc&hash=itemd63b8747f1:g:9T8AAeSwZbpq8ciO",
-   "posted_at": "2026-11-09T14:38:24+00:00"
   },
   {
    "id": "dealabs:3448646",
@@ -5969,7 +5890,7 @@
    },
    "merchant": "eBay · lefefedu83 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/157608989160?_skw=%C3%A9cran+pc&hash=item24b23a51e8:g:LZ8AAeSwqJBpZPlz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mnqQPqLCSaIjD8LgJvvXVtXaxekxagosrsD1HNj%2BSoSAA8WQrzBapl74cWZmHjOWZ2Bq%2FVylAlCkW5iOHVQSsq%2B78gcVtqZpaXk3EtQtNEQCWyve8Juz2AiPc%2BDC6H95ZUgDR4iBsIxoxNawVbtSSlbvJWIa4ooiWsrMrodRS1C4ZDIEgh%2Fzvb2Z8C52Gz7o0E05HcfMDkNtvN4F6WGzo0aFFizhycLHocF4t9K49SwwliEZ31VclOkZUpx%2FEno0ZXf%2FL4X7EVlKEwxffGf3sXoJYc1DN8rGOU99vPNKUrfg%3D%3D",
+   "url": "https://www.ebay.fr/itm/157608989160?_skw=%C3%A9cran+pc&hash=item24b23a51e8:g:LZ8AAeSwqJBpZPlz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mnqQPqLCSaIjD8LgJvvXVtXaxekxagosrsD1HNj%2BSoSAA8WQrzBapl74cWZmHjOWZ2Bq%2FVylAlCkW5iOHVQSsq%2B78gcVtqZpaXk3EtQtNEQCWyve8Juz2AiPc%2BDC6H95akFRDbnXTAJqsATnpI86G4Jc2dQEVuFKSbKexSS8wUfz2Cs4Mt0Iyn08wQzuWU%2BG9n24vUy%2FUls647Y0K9eZOPOquSpPfQWd1zQ3grooIQkYZhAQRkPEz2ozb9v2DBawHDZ67ssXuaeeM1T%2FTom828Ubik2b5Z56gsZdzqTCaHLQ%3D%3D",
    "posted_at": "2026-01-12T13:46:31+00:00"
   },
   {
@@ -6639,7 +6560,7 @@
    },
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BG5DoT82Z7lOY8QrME%2FOBjhpEFI49aXp0mqeBXiWW%2BT4AvFzSduYqAI1%2F4vIOqZXckIDdiI2lGA8Ujf8oAHo%2B7tnpjTB6QWdyerj49N%2Fv%2FxTXt4R6Tx57mMuBcm4MmYH1sA1KPwYK%2B8oLZvD8tcNF5V0hWa67hxV52PX79nZgJaQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9JBHV3oe6sLSLhSYglOEUTTAwxOHsw%2B5CxfvMVVV2gDSargD5p7s3Yb8Owo5a4QKb2wmFsNmVdYJDmCE99gQVekGEzLAbMlsLGALuD29uDKpIjZeRXG%2F51g8AJh2khG2SOklB9b6c6Bfjz0ofOkfklPEUdsNcDPWg48AxgU2gynQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -6729,7 +6650,7 @@
    },
    "merchant": "eBay · quali_info (100,0 %, 398 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/146882142141?_skw=alimentation+pc&hash=item2232db9fbd:g:KqYAAeSwj19o5pw5&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kdswoW82QVUq60NN%2FiB46b6GHZPH098ILSYUimct0bFgaN97jbXdmxWvcv7dcu2GgS4m5PE%2BQ3xSccNfw2nQjEGE7l6bhguchNnHbUExRsJV9dYGxSmiTSf%2BzS%2BRzb0tRbq33cZU6f%2B%2FPVzy3u133%2Fgp4XLFh%2BbskQbp1AkmNLfWvB%2BQaeAG%2Fn%2BsGpnGKfijlsgv2gq4kTaDMQ2oOZ1xyuFYcor%2BUZ57XuhUJ%2FmEnbiJ2eq9VTlsTzsPeUjdh%2Frb4rtZwEisScKkX5BjOOraaJOTdYBJJnYQooaP0tZBuh5w%3D%3D",
+   "url": "https://www.ebay.fr/itm/146882142141?_skw=alimentation+pc&hash=item2232db9fbd:g:KqYAAeSwj19o5pw5&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kdswoW82QVUq60NN%2FiB46b6GHZPH098ILSYUimct0bFgaN97jbXdmxWvcv7dcu2GgS4m5PE%2BQ3xSccNfw2nQjEGE7l6bhguchNnHbUExRsJV9dYGxSmiTSf%2BzS%2BRzb0tSdu%2BgH%2BFGFMNobHeBM4U4CW%2F0MEQOJ7lJ6JHnB3lAYjEA72oi8NMBGjmvH6ySC2JbGi9HvB%2BvDf55AnAZCmMtIc724Lxke%2Fm1EnjD9kRhPE4HPFwQ%2Fdx4%2FCw3TEAZt11c5hNZ0KYg6laLiMYhm9NTxcmG%2FkTcitk6TAjHWyne%2F5A%3D%3D",
    "posted_at": "2025-10-08T17:16:30+00:00"
   },
   {
@@ -6763,7 +6684,7 @@
    },
    "merchant": "eBay · liveatsamsplash (100,0 %, 352 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800833814592?_skw=alimentation+pc&hash=itemba756a4040:g:mcwAAeSwsZJq3OyN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k5x7czXqhtavS85s7xtzza2SgrMJnwW975frsWpbFTsBUgsQvYNiRRpBK%2FS3ANqjygHVhWiaIF88iWQ%2F5UAecfybY858h1iKlbgsu6nMKHU1fHohbuXFbrvGk32sL3pudflp9sY%2FF21jmteXDVfM8zS%2BKcOPiN%2Bm5dvNc2cC3TXLsv8qNqyhCg6y9ETsyEqKbJcHfd5QzDEBjQBI7tdcENIKAkeV5KwpYq%2B4KXPjChKfC%2FdHvSiLjswiEHPYxelct23At17zkY7uCbGGHWEPqaYC5A8vaCsgUGo3nRl4noMQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800833814592?_skw=alimentation+pc&hash=itemba756a4040:g:mcwAAeSwsZJq3OyN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k5x7czXqhtavS85s7xtzza2SgrMJnwW975frsWpbFTsBUgsQvYNiRRpBK%2FS3ANqjygHVhWiaIF88iWQ%2F5UAecfybY858h1iKlbgsu6nMKHU1fHohbuXFbrvGk32sL3pucPD1yy%2BlB75Z%2F1NkcjW2fN6V1lbyJ7utaSIEaNSDbCuePRBaK1dkyrTQKuQ5GYE%2FGCTq2sf8eoefBUhv8doDFub9vTWKStGxs01dmBbIl0uZD2jD0SggKOQdavNt%2FJR7pZv8kPZEWZynonFEPWPP3H8rnlI5yHuhfUlZArX0nBNQ%3D%3D",
    "posted_at": "2026-10-24T17:40:15+00:00"
   },
   {
@@ -6907,7 +6828,7 @@
    },
    "merchant": "eBay · am2shop (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820202029724?_skw=alimentation+pc&hash=itembef7d9c29c:g:waQAAeSw5Alqwhlp&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRqqIDATOOg%2FW6MgyHeOYRJqda8WWv1Y70ERAFmgq6XfLsyoLJHdv4YLwsdspiAVGEwhibBcnikEDUDZm2IlMDk21JVTw0xW%2FAu1K5lGBpUuAGjM6Y1q4bF6nTVBdMA7TBIar%2Fc0RRLA2KaHSGbUHCZ4wnV9BRUCMEIu%2FxClWJYLMcxOLfBk3zk4qqGId1kKq07IdviW8o87NdxeftvQsztpSt0aQk6RYTDpJssBp5fWEW2Dx85gldyvHcrFowODcGozRxiW%2Fe6m1gc54a09%2BTlUg7FYDBhhLjl3a26tmZtg%3D%3D",
+   "url": "https://www.ebay.fr/itm/820202029724?_skw=alimentation+pc&hash=itembef7d9c29c:g:waQAAeSw5Alqwhlp&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRqqIDATOOg%2FW6MgyHeOYRJqda8WWv1Y70ERAFmgq6XfLsyoLJHdv4YLwsdspiAVGEwhibBcnikEDUDZm2IlMDk21JVTw0xW%2FAu1K5lGBpUuAGjM6Y1q4bF6nTVBdMA7QfjFszrwoPVKO8U58y6bpaI1sOJIfFxjBLWTM8Ib67j7uhjIElaeEAM2ntN0DZ8RHo%2F0oEgeqhSq8nsf8sNXlEbd4mEPO7TjWNEdKGQn6nwFLO5tdmwAmVpN2m4A7xq%2BpKoPbT8DL6HJ9npktrZAwT6gNJa5WcD4jOF8MeA4h1AQ%3D%3D",
    "posted_at": "2026-10-04T09:16:36+00:00"
   },
   {
@@ -7317,7 +7238,7 @@
    "attrs": {},
    "merchant": "eBay · fastseller59 (100,0 %, 170 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206640621842?_skw=ddr4&hash=item301cbda912:g:WGEAAeSwdI9q10Dh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mzPLTpPpbSR0L6SHCU9zJNR130LBWDF2amaWY97FW7CEkLTZnGeUysD4VT%2FAmUAL4zRGhXk5EfCmhcvrsZDfh9gSozix%2B8KozCVBHTxBvifD715XAI91IYFuP9ui3DQKss8t4mop1HpG3KJ6eiCk3PP3FSDeddIgcVOSp6SlFgUpTMdlo0Gh56BBnDsq%2BWJCtCNoPrJ7iT0Lgs2tBa2BAswFvAwcGdE195qENgQfIreoyA3FqJAESEYHrrnrj5q43pnDegtktA2FSSyYZ3jZhm",
+   "url": "https://www.ebay.fr/itm/206640621842?_skw=ddr4&hash=item301cbda912:g:WGEAAeSwdI9q10Dh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mzPLTpPpbSR0L6SHCU9zJNR130LBWDF2amaWY97FW7CEkLTZnGeUysD4VT%2FAmUAL4zRGhXk5EfCmhcvrsZDfh9gSozix%2B8KozCVBHTxBvifD715XAI91IYFuP9ui3DQKvxgQl0b%2FmqATpURm866jYiDd1M9fe2soYPzjqlqDl4fVNDn85QWlkK7kbX4ALqpZjypUVkKCNL%2FIbd%2FoysUI48BcddLTOD14WEWJK2A4pRdp25E2NjH%2BP7Amthl3sssfNNXUm%2B4CGVn5bK9Cy705sL",
    "posted_at": "2026-10-20T10:32:34+00:00"
   },
   {
@@ -7335,7 +7256,7 @@
    },
    "merchant": "eBay · fastseller59 (100,0 %, 170 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206640792994?_skw=ddr4&hash=item301cc045a2:g:uGYAAeSwcw5q11lA&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l2sAe1rhrQqxX9fWOR2kDo1AhTUna40%2BfOWZHRR9aYXI%2FIsUalYCbU1oa%2FV2Xv7jTRHcPMXOL8etfjnvN7iKrNHPSrYI4BZADnzQUaEzTCFywCaxkcD5%2B2qJgKHrisFRPUIZhBU5TbL%2FkT4wwOe9eqVi292D4J9on5H48Uc%2BOYHFahPXKyrraspbQ48RKbYi7haTPb31ohl0%2BN6kLjORShGZb3ZDtOZiRnGjIEMHSj%2BHIVGo0Xqgkw9zDWvKqhWYFlyz9dLaiNc93FwG6RnCIc",
+   "url": "https://www.ebay.fr/itm/206640792994?_skw=ddr4&hash=item301cc045a2:g:uGYAAeSwcw5q11lA&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l2sAe1rhrQqxX9fWOR2kDo1AhTUna40%2BfOWZHRR9aYXI%2FIsUalYCbU1oa%2FV2Xv7jTRHcPMXOL8etfjnvN7iKrNHPSrYI4BZADnzQUaEzTCFywCaxkcD5%2B2qJgKHrisFRNue6v9yPA0q0wrAzLXCfOsgUekPo6Wg4mTjamMcuWFlj4AweCuxFSLJoDiMd9%2FmeazK2Dz83pea5xwY05uqEPrnxrJ%2FkiyaXd2xxuT2GcJTTOcxTOB3MaeWwqQKFX7h8dl1JaFJ7SKI96pvqeYt8ip",
    "posted_at": "2026-10-20T12:11:16+00:00"
   },
   {
@@ -7351,7 +7272,7 @@
    "attrs": {},
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257820475461?_skw=ddr4&hash=item3c074c4045:g:h-YAAeSw7Vdq4MRO&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lL4eIakD4hFISlWymhfXiG5eAhsYryPpKVzzs3Az2qp3ahPEeRbo1%2F5a9sx4RDh616puA9nWPxwcpE6uc%2Bhcbm52ZP%2BMz1GSiyjTMrI%2FaHVg3CiNgCT5tVk84tg5fa25Q9dBUHYChCCLLMvgrbxOl%2FFpw0ROMdlKaKFkkwAmtFFl%2FJwsdWK%2F5%2B9XwyeKZoR1S4gavQwpFoaWc3Tyhkt3TXHpI2XZBG%2FAelxqMQYJaaVWbFwOz8fZkt0LBaU5U5cFreJKvEQF8ansIdpeSPxDUZ",
+   "url": "https://www.ebay.fr/itm/257820475461?_skw=ddr4&hash=item3c074c4045:g:h-YAAeSw7Vdq4MRO",
    "posted_at": "2026-10-27T15:36:18+00:00"
   },
   {
@@ -7367,7 +7288,7 @@
    "attrs": {},
    "merchant": "eBay · fastseller59 (100,0 %, 170 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206649075486?_skw=ddr4&hash=item301d3ea71e:g:QZMAAeSwh3NqmE8D&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lOhqNvRBTIFI%2BdnPpo3D00gnhaTVPSAurZ%2BrGowtLalyK9X3i3FexylVc%2BrQJc0WbiHvQumqQfXjEf3rffByHh%2FiBeog5gRsakwVRvq7A1bY2bwE%2FgccU5xTDpjSahNOqDboLul5AOjSlzgO3CfkFOHoJazLe8sTzgd3LXmJZYwr%2BTPdQ5fyGtotjWYLH6GCtwC5xHMAbVNxScc0C6GM9oH0duHW3mW7EOfoquw7y4bpREqJdwbWt7lPFFloblmnr9J%2FJdTmCvTl%2FpgAaiAMWE",
+   "url": "https://www.ebay.fr/itm/206649075486?_skw=ddr4&hash=item301d3ea71e:g:QZMAAeSwh3NqmE8D&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lOhqNvRBTIFI%2BdnPpo3D00gnhaTVPSAurZ%2BrGowtLalyK9X3i3FexylVc%2BrQJc0WbiHvQumqQfXjEf3rffByHh%2FiBeog5gRsakwVRvq7A1bY2bwE%2FgccU5xTDpjSahNOrqhQ5rraj9pYraKWgBuPLZwbvvQ5DkmMQYT1rLLM13e6KN45lQPJds%2FyPlBgZXENfOd3d7XoS1QcI2CtFtmTd2ZL75vBB1rV2c7DDsGykQrxbYLUaroHejyCNBP4CpKOI9lYOOnXChITyQDXO%2BQ0Od",
    "posted_at": "2026-10-23T22:35:53+00:00"
   },
   {
@@ -7401,7 +7322,7 @@
    },
    "merchant": "eBay · letresup (100,0 %, 122 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198685861034?_skw=ddr4&hash=item2e4299a4aa:g:ndQAAeSw5RdqiLPG&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kjViZxRB15KEKshe5CPOsALD8luoaSyoM2E25Fi2yN4Ewr6RSTO8hKpjW0iaSNpCPBTVeKNCNkAQ8uQpybUFT6Xy0MzAGrzXz%2FJRw1Hg3SRvwIMIDqJumYYRMrkOGTLzx6aTHJCegMoTPxPPHFgFmYEWq4i8AcIUB3NdsYqQV0vEQAwYX2Z2%2Fs5xfoQibd4HqucbwrmwB0f5Sx4FqyrwiC7H7b2HQsX%2F6GPLrD%2FjXzlRpMqAXcFCrxlRcfrdtDvO0oxJCyvfP0DpalVdXaFXmE",
+   "url": "https://www.ebay.fr/itm/198685861034?_skw=ddr4&hash=item2e4299a4aa:g:ndQAAeSw5RdqiLPG&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kjViZxRB15KEKshe5CPOsALD8luoaSyoM2E25Fi2yN4Ewr6RSTO8hKpjW0iaSNpCPBTVeKNCNkAQ8uQpybUFT6Xy0MzAGrzXz%2FJRw1Hg3SRvwIMIDqJumYYRMrkOGTLzw9T2659OPAj4jE6xpqgUT9d0XjKOsodrHQSrH85xqd2DDNuLEyJw61HQLlVXWbZgahnmT5DEAzO7BT1c4J9ROYMhLcdXA4ExsQCqVvCNp2N%2Bu59SBzG7D67TUpJIhIONYFU8xxdPaJVfOjUrLY4ZKh",
    "posted_at": "2026-10-03T18:54:25+00:00"
   },
   {
@@ -7583,7 +7504,7 @@
    },
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIayeoZyMQVtkUOMvA6tvAIiK1MJ6mY%2FqnSQyKpG0aR%2Bg4%2FmTKwB4GikTjeay5vNAWGSGwtS5z8V9wS%2FuBsWTAkbIOv5pNJ42uSXnqmOJVOxK7ZcpGJXpD73QG9kl6dDPkHaai5KTd65xRLi%2Bi3zvaYm",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -7631,7 +7552,7 @@
    "attrs": {},
    "merchant": "eBay · fastseller59 (100,0 %, 170 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206686997303?_skw=ddr4&hash=item301f814b37:g:XAkAAeSwAHxq8c8D",
+   "url": "https://www.ebay.fr/itm/206686997303?_skw=ddr4&hash=item301f814b37:g:XAkAAeSwAHxq8c8D&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nxoJcEzvAIbEYh%2FVzykYod9veBGwf%2FmRdU8kTkR639Jlnv5T2geC8mixwc6aYBXPqxCuOmNxWypG5UJbmO7kSU9dLp7T4yX%2BbeL2xD5lYWv6HmOgXwnnmxrpuaB7L3Uiw%2B8A36KkwpduPS6xkyxYWf1xn%2BeO5056%2BwtuTexB27NP0Bx4bRA%2BQVElFZOMfx6FPuF6HuPbTAd84VQDnuGK04lnXSTFYZ9tP4AK6lePrDYmVbE6RyyYJiQDBFgIwW%2Fj6FO0bKid2ZMLlk1q8yAUDp",
    "posted_at": "2026-11-09T13:47:54+00:00"
   },
   {
@@ -7651,24 +7572,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237167415631?_skw=ddr4&hash=item373847914f:g:2rEAAeSwgyhq7dLX",
    "posted_at": "2026-11-06T13:17:56+00:00"
-  },
-  {
-   "id": "ebay:v1|366796401409|0",
-   "category": "RAM",
-   "model": "RAM:DDR4-16Go-3200",
-   "title": "RAM SK Hynix 16Go DDR4 3200MHz PC4-3200AA DIMM Bureau Mémoire",
-   "condition": "used",
-   "effective_eur": 69.99,
-   "median_eur": 76.99,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {
-    "ddr": 4
-   },
-   "merchant": "eBay · refectio (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366796401409?_skw=ddr4&hash=item5566c4eb01:g:DeAAAeSwcDhq8YVU",
-   "posted_at": "2026-11-09T08:48:12+00:00"
   },
   {
    "id": "ebay:v1|237098333472|0",
@@ -7733,7 +7636,7 @@
    "attrs": {},
    "merchant": "eBay · t.rec95 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/376177123955?_skw=carte+m%C3%A8re&hash=item5795e76273:g:2IgAAOSwsj5jff44&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nK395gzdgRUsM1rX32nhmX%2FxYimNhKEnyRixm%2FsNoZpAhdsziFLcQDOaicL3%2BFfRnriusFGLaWPUeGKf2ESO2GlyGJJwPmPKHMstsCZ%2FtYIm3Iee5WX1Z%2B63pFVEbyEMoRCOpkMRi2SoOP63vuDGXvB7wzXOf9NUPICk7DuDd9zcmFDJ6wEjl5iD8b8XWcrv%2FK8%2FOufDnlt4%2FxAQIiN21wXK%2FkoTmwF5HiZQDGcRT3MVG%2FPkYWeERh0v%2FYbep3%2FJVAWtrvMF4VWOHKBQWB41Iu31Kgt0XaCsq2g2ltghwXTg%3D%3D",
+   "url": "https://www.ebay.fr/itm/376177123955?_skw=carte+m%C3%A8re&hash=item5795e76273:g:2IgAAOSwsj5jff44&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nK395gzdgRUsM1rX32nhmX%2FxYimNhKEnyRixm%2FsNoZpAhdsziFLcQDOaicL3%2BFfRnriusFGLaWPUeGKf2ESO2GlyGJJwPmPKHMstsCZ%2FtYIm3Iee5WX1Z%2B63pFVEbyEMrnVUo%2FFGdgTAKJWMCnavgRUEXKE9oV7Kp4fnNRn2NCZHBlchfYRDuxi89jzCzpESjRW9pJgZQgrzwDsoiDLeukbGKUukBcYjm2ba1VbDCSxHQ2ovMarARWUOG%2Fdz3t33g4kWIbiL5iYypN50%2B0ket4Bx%2BKsasSAhJ8NrmH6jKQ%2Fw%3D%3D",
    "posted_at": "2025-04-17T14:49:06+00:00"
   },
   {
@@ -7751,6 +7654,24 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/900077805399?_skw=ddr4&hash=itemd190d15f57:g:FQQAAeSw8ZNq8dBU",
    "posted_at": "2026-11-09T13:54:26+00:00"
+  },
+  {
+   "id": "ebay:v1|188055507757|0",
+   "category": "RAM",
+   "model": "RAM:DDR4-16Go-2400",
+   "title": "16Go RAM DDR4 SK Hynix HMA42GR7AFR4N-UH DIMM 2400 Mhz Mémoire Serveur ECC REG",
+   "condition": "used",
+   "effective_eur": 98.5,
+   "median_eur": 60.99,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "ddr": 4
+   },
+   "merchant": "eBay · monsieurcyberman (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/188055507757?_skw=ddr4&hash=item2bc8fb532d:g:xeUAAeSwNTdq7M7I&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lqnFEWYx0lJplcu2MkFffH%2BsqHMgRiV2Woet32eWHAYOYhY0Q92cv%2Bd5wbdJVazTCWvig0HxoKiPwxrFOKhGz315T%2F6bLVe4kpteLQ77A9fIOWuIqKnSs96Im8U03lVxQUZmr7MzZOaBL%2Fjx36qeRH5vWAFSexDgNhBJvEBdjeBwejto8nsF2FRU47xophM0k6NQeoH2wCT4dsPl%2FMkY7oCKLlt71igt9NAqqiWlss%2BoNhVWLJAv9q1wGJgvhg2AswUk1LY0xLMSBE4s6kdH5W",
+   "posted_at": "2026-02-13T12:35:54+00:00"
   },
   {
    "id": "ebay:v1|880037954263|0",
@@ -7803,22 +7724,6 @@
    "posted_at": "2026-10-03T13:24:48+00:00"
   },
   {
-   "id": "ebay:v1|189041898554|0",
-   "category": "RAM",
-   "model": null,
-   "title": "Mémoire DDR5 SK hynix 8 Go SO-DIMM PC5-5600B 262 broches HMCG66AGBSA095N",
-   "condition": "used",
-   "effective_eur": 142.42,
-   "median_eur": null,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · kaixo_bakea (100,0 %, 81 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/189041898554?_skw=ddr5&hash=item2c03c6743a:g:5dcAAeSwmL1qwoso&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mtCsU5ZWSfOcQB9ZxtOnVC9DcoQC4zVn478r6VSmys%2FC%2FGD4BjMOvJovn2hQobNT49bev3xH%2F7pZq2fycBpgPz5O8Es0x%2BT1TD7Z83oG9%2FzHWw%2BDtdQW4mEmlH%2FsgaJw2U2QAh8sRyLDRjqDSWggTFsR0pyAC2B1kAcSfkE6KuvfQ64B2DPDyoL7X7KT3VoDlg7Yi794dXsnL1MQemBmNqr1CdQKJBg4idL0Tg%2FgDru9yhAwFQ7RaGUAIHH0Z9hiCQhnsFGkiis0C8mOr5YYPm",
-   "posted_at": "2026-10-04T17:26:49+00:00"
-  },
-  {
    "id": "ebay:v1|287688101492|0",
    "category": "RAM",
    "model": null,
@@ -7831,7 +7736,7 @@
    "attrs": {},
    "merchant": "eBay · wirled (100,0 %, 295 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287688101492?_skw=ddr4&hash=item42fb8c0e74:g:cjsAAeSwXRRq4ofw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7leXl6emZYEY1LblGAVPvBaKv1yZ%2F%2BbxHkfWI0ANyYvTm1uv1jzu%2Fa46LnuRU%2Fqzc%2Fhn9LhX3XBjhPpc7pOLE2MbFEUReXLxo8a82bhJrKqggNiN6q%2F%2BZW11L6HniBVzRs8O6T7H8BfkV3j0Aimbqhls8qpQ%2B8AJuRd8CliRYvITiJs%2BUCAguMRcRGl8cO6P8lLhC2NlKhuYZtXiyEB9yaJac3QA29q1pkgj0ZV8rXWHXUwzX4RAcf%2Ff5vKBejyUM0%2BvW1BDEhkOkROjj%2BigJis",
+   "url": "https://www.ebay.fr/itm/287688101492?_skw=ddr4&hash=item42fb8c0e74:g:cjsAAeSwXRRq4ofw&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7leXl6emZYEY1LblGAVPvBaKv1yZ%2F%2BbxHkfWI0ANyYvTm1uv1jzu%2Fa46LnuRU%2Fqzc%2Fhn9LhX3XBjhPpc7pOLE2MbFEUReXLxo8a82bhJrKqggNiN6q%2F%2BZW11L6HniBVzRtQ3SpzkwjrzxuY7rZ3Hld5LhgDKBRBIs2zSViQIDmj4QVpkM%2FrWrsFBKvStjuHToHir3u3zWI1zCzTSNHVwiaL7j6khrWkGjZoF87%2F25OdKw0o%2F4aEFSw1ZpB03nFJBtx7B4GfHPb6%2BLL2syVFK5ZR",
    "posted_at": "2026-10-28T23:53:54+00:00"
   },
   {
@@ -7897,7 +7802,7 @@
    },
    "merchant": "eBay · laboutiquedec (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327420043598?_skw=ddr5&hash=item4c3bc1614e:g:nbcAAeSwM~Nq25xU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7laPLFKWrtPq9SD22YyBEU7juKRdFMWqKyCMug0DOkFKYqCpYwZQLovW3eYFYj%2FIpBGYzQ21x%2FHfurbfrTY%2B8nG67wGCKgMTm51sndDEcxvaZHYEtHyNSEY5bHpppYHytzA%2BagUwb9VY6xpLMEuaGm7v3NIYxzqSHIjnevwbJjuW7JOJrYpfHUWS2yKzHnD7v1ZLjJJnei1moHeoQQ37EpwpH8yD2zAgujJUh9xwvS2Cpc7f2DeSO5IGMrx12iofnEVXrRCmsjU6%2F06ZHYX7%2BJV",
+   "url": "https://www.ebay.fr/itm/327420043598?_skw=ddr5&hash=item4c3bc1614e:g:nbcAAeSwM~Nq25xU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7laPLFKWrtPq9SD22YyBEU7juKRdFMWqKyCMug0DOkFKYqCpYwZQLovW3eYFYj%2FIpBGYzQ21x%2FHfurbfrTY%2B8nG67wGCKgMTm51sndDEcxvaZHYEtHyNSEY5bHpppYHytwY4w0qidjZuoD0YNFkkXjon%2B20O4mn7oe9qUKAlYHeRMw08mlnHYky07bo%2Bw%2FwKBohtKtXOZrWkqAYEGsMFI2qPQW4LWvRUd4jagUI%2FgL1UDi845KpcO3W5uQ%2FQw2O9Wnst0%2BRHLbcHt%2Brx8gAdnfF",
    "posted_at": "2026-10-23T17:44:49+00:00"
   },
   {
@@ -7929,7 +7834,7 @@
    "attrs": {},
    "merchant": "eBay · salevendor (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318884520533?_skw=ddr5&hash=item4a3effa255:g:nmoAAeSwf8FqrHuj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nmtdG0a64Ts2kTuw7JdajB2AX%2FDGI9Vms9R%2FU1cACZztvEz35KUVk0je5hbcRdrHhuttvMHHB%2Fko96f5oCIbm3rNLIFGxPxNhzhAHI9MNoGD8HVTPH%2B8Ai3NtIxcfUYUzFzvLaviAEUd0J%2BWKNWKxG63dFtDxEnu%2BDY8kQX2wyvYFsGmr4lDhMFrQtSNYhEh%2BymUCheNkD6f7eT2YNzVJGBHqDQtZbhuuem2d8MiQRGoQrwz3399l7BslsHVglAliYGHp1UdXDzvDBYKSpCFWjIjg%2BaqqkmZqFtPctRalRUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/318884520533?_skw=ddr5&hash=item4a3effa255:g:nmoAAeSwf8FqrHuj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nmtdG0a64Ts2kTuw7JdajB2AX%2FDGI9Vms9R%2FU1cACZztvEz35KUVk0je5hbcRdrHhuttvMHHB%2Fko96f5oCIbm3rNLIFGxPxNhzhAHI9MNoGD8HVTPH%2B8Ai3NtIxcfUYUxUK0rfNXSYaOfAxXtEUtfxGAwlJ9I7erE7W7w4fVh5PlcjxzRDzwMAUVAX6kxPCNwQalMyx%2FTwQ0mOfiFRAqcP9K8tHhVvruMWskkCd6pnNENaqudqeq4BXcX8dbXkFfni1Mn3NWRDU%2B%2BTVaQlI9ZC9lVEE4OyCVaX3yKCrfRmkA%3D%3D",
    "posted_at": "2026-09-17T23:45:52+00:00"
   },
   {
@@ -7955,7 +7860,7 @@
    "title": "Corsair Vengeance RGB DDR5 32 Go (2x16 Go) DIMM 6000 MHz XMP CMH32GX5M2E6000C36",
    "condition": "new",
    "effective_eur": 496.9,
-   "median_eur": 468.5,
+   "median_eur": 477.0,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -7973,7 +7878,7 @@
    "title": "Mémoire RAM Crucial Pro RAM DDR5 32 Go Kit (2x16Go) 6000MHz CL36, Overclocking Gaming, Intel XMP 3.0 / AMD Expo, PC Mémoire, Noir",
    "condition": "new",
    "effective_eur": 499.99,
-   "median_eur": 468.5,
+   "median_eur": 477.0,
    "deal": false,
    "discount_pct": null,
    "attrs": {
@@ -7983,6 +7888,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/crucial-pro-ram-ddr5-32go-kit-2x16go-6000mhz-cl36-overclocking-gaming-intel-xmp-30-amd-expo-pc-memoire-noir-cp2k16g60c36u5b-3445489",
    "posted_at": "2026-11-03T17:50:34+00:00"
+  },
+  {
+   "id": "dealabs:3450027",
+   "category": "RAM",
+   "model": "RAM:DDR5-32Go-6000",
+   "title": "Kit Mémoire V-Color Manta XSky RGB DDR5-6000 RAM, CL30, EXPO - 32 Go Dual Kit, black",
+   "condition": "new",
+   "effective_eur": 504.1,
+   "median_eur": 477.0,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {
+    "ddr": 5
+   },
+   "merchant": "Caseking",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/v-color-manta-xsky-rgb-ddr5-6000-ram-cl30-expo-32-gb-dual-kit-black-3450027",
+   "posted_at": "2026-11-09T15:31:08+00:00"
   },
   {
    "id": "ebay:v1|336544816660|0",
@@ -8015,7 +7938,7 @@
    },
    "merchant": "eBay · lecointech38 (100,0 %, 106 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377622277901?_skw=ddr5&hash=item57ec0aaf0d:g:YE0AAeSwrQNq3cgt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lDIqaOJcOfY%2FHIqYmWm%2FzFMQ4bjw2BIz2l9dDroamVmw59T9hPC2qbGjzBwcHLLPBUUZD9gv%2BQ9wT4An40AGE3ARnM7zvL3OwcyH%2FWVvjWoHjkE9K6DUyLiFFrSshMwakvGTadiurBPJNmFReuWxBjCWisd6jgDDV9y2rXZGr6gtefH3lPAszBmx9M0dZuGij%2BVnNjVReXF3mYOMzyFTXO2ztGCXQYtipccHAIO%2Bf%2FI13hnV0bihmkEngxVX0eOsiT4bvoFUcL7eO0r99BJMQl",
+   "url": "https://www.ebay.fr/itm/377622277901?_skw=ddr5&hash=item57ec0aaf0d:g:YE0AAeSwrQNq3cgt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lDIqaOJcOfY%2FHIqYmWm%2FzFMQ4bjw2BIz2l9dDroamVmw59T9hPC2qbGjzBwcHLLPBUUZD9gv%2BQ9wT4An40AGE3ARnM7zvL3OwcyH%2FWVvjWoHjkE9K6DUyLiFFrSshMwanKBA27hIiYN6LoNjdjuldOiyS7zNYl5%2FPzztKXbvQjKKXb3de0Y%2BoQA19IhJUPiRyOMzRQDORns4N8OnXm0VBVw%2FIZiWyIYsiKOZygpCjePhpVFGDmICafhLcHuUupFg5W78M%2BlqAYwQrg3s7OQzXS",
    "posted_at": "2026-11-04T22:49:16+00:00"
   },
   {
@@ -8069,6 +7992,22 @@
    "posted_at": "2026-11-09T10:02:20+00:00"
   },
   {
+   "id": "ebay:v1|860128186471|0",
+   "category": "SSD",
+   "model": "SSD:SATA-256Go",
+   "title": "SSD SATA 256Gb ADATA M.2 2280 467heures 100%✅",
+   "condition": "used",
+   "effective_eur": 14.99,
+   "median_eur": 31.8,
+   "deal": true,
+   "discount_pct": 52.9,
+   "attrs": {},
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860128186471?_skw=ssd&hash=itemc843a29067:g:GCgAAeSwhmJq8eWi",
+   "posted_at": "2026-11-09T15:29:49+00:00"
+  },
+  {
    "id": "ebay:v1|278055441116|0",
    "category": "SSD",
    "model": "SSD:NVMe-256Go",
@@ -8113,7 +8052,7 @@
    "attrs": {},
    "merchant": "eBay · jymeinfo-26 (99,3 %, 759 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398241286695?_skw=ssd&hash=item5cb907ca27:g:v3oAAeSw0-xqbyFd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k3kJ%2BrgsoLU7%2Fel2Q99aclW2R9NLr3ReiYnIrdQDwDDGAcjsQahATicLFi3Pm4rhuXscmaypnKZlhp2QMj2Exe5wembC7e3%2FPvc83ga3UrfoRH0ryWquxceZt%2B9XTjHLpjBYhcffyEHoclh%2BAgNLxNqdlOQcjthKSVDpYHnGgUuKIVyc8LEM3SbcTxcKKi1gqkytOl0A7AeggjXzmY3CB8F13zG6Xf5ZUAJgFD2xAE%2FildnbCuKudjGUbd0afOEWmahPGExct7AuIkssFkQG%2Bt",
+   "url": "https://www.ebay.fr/itm/398241286695?_skw=ssd&hash=item5cb907ca27:g:v3oAAeSw0-xqbyFd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k3kJ%2BrgsoLU7%2Fel2Q99aclW2R9NLr3ReiYnIrdQDwDDGAcjsQahATicLFi3Pm4rhuXscmaypnKZlhp2QMj2Exe5wembC7e3%2FPvc83ga3UrfoRH0ryWquxceZt%2B9XTjHLoCGVliWOBXL0VUtwHz5wLsqph0Y9mEXv5XNihxYEIncZ2ZREwW5UJwesF55OebVS8idWPxhQhHZB0IjhO2wS%2FBoWpoMqpX4Q4kUJIXZQ8%2BW3JCglzthvQ2zY5ouu9SJUN%2F4lQwNl7DHsYeE5AjM6b%2F",
    "posted_at": "2026-08-02T11:01:39+00:00"
   },
   {
@@ -8177,7 +8116,7 @@
    "attrs": {},
    "merchant": "eBay · bonoitec-france (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7H5wgoChHo1bDdmkRgsuYqTHVDLc2ZXzFWB7C3idgQVNk7tpN92FukUr2Hk9rlWZVd3zueZgbO2p8hgU%2FOVS1Wfk33QUVsuqAZmv8v9JRCtx%2Bisr%2BvUkYzrzHv3lQpNU%2B6xPuxzmvB6H7KoyFDdejcO",
    "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
@@ -8261,22 +8200,6 @@
    "posted_at": "2026-11-09T15:00:28+00:00"
   },
   {
-   "id": "ebay:v1|860127975677|0",
-   "category": "SSD",
-   "model": "SSD:NVMe-512Go",
-   "title": "SSD WD PC SN520 512Go NVMe M.2 2280 PCIe 3.0 x2 HP Santé 93%",
-   "condition": "used",
-   "effective_eur": 42.2,
-   "median_eur": 53.39,
-   "deal": true,
-   "discount_pct": 21.0,
-   "attrs": {},
-   "merchant": "eBay · sofinformatique (100,0 %, 376 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127975677?_skw=ssd&hash=itemc8439f58fd:g:c-YAAeSw2qZq8c4m",
-   "posted_at": "2026-11-09T13:44:51+00:00"
-  },
-  {
    "id": "ebay:v1|860128000912|0",
    "category": "SSD",
    "model": "SSD:NVMe-512Go",
@@ -8309,6 +8232,22 @@
    "posted_at": "2026-11-09T13:36:10+00:00"
   },
   {
+   "id": "ebay:v1|940078496075|0",
+   "category": "SSD",
+   "model": "SSD:SATA-256Go",
+   "title": "Samsung 860 PRO SSD interne 256 Go 2,5\" SATA III TRIM NCQ",
+   "condition": "used",
+   "effective_eur": 47.1,
+   "median_eur": 31.8,
+   "deal": false,
+   "discount_pct": null,
+   "attrs": {},
+   "merchant": "eBay · presidentofinfinydinfini (100,0 %, 394 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940078496075?_skw=ssd&hash=itemdae10b794b:g:AIQAAeSwN4xq8eWV",
+   "posted_at": "2026-11-09T15:26:01+00:00"
+  },
+  {
    "id": "ebay:v1|206686904401|0",
    "category": "SSD",
    "model": "SSD:NVMe-512Go",
@@ -8323,22 +8262,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206686904401?_skw=ssd&hash=item301f7fe051:g:xlwAAeSwhItq8cPn",
    "posted_at": "2026-11-09T13:07:43+00:00"
-  },
-  {
-   "id": "ebay:v1|366796441853|0",
-   "category": "SSD",
-   "model": "SSD:NVMe-512Go",
-   "title": "SSD Micron 2300 512Go NVMe M.2 2280 PCIe Gen3 x4 – Disque SSD",
-   "condition": "used",
-   "effective_eur": 49.99,
-   "median_eur": 53.39,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · refectio (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366796441853?_skw=ssd&hash=item5566c588fd:g:CEoAAeSwZbpq8Yzk",
-   "posted_at": "2026-11-09T09:11:38+00:00"
   },
   {
    "id": "ebay:v1|227604349611|0",
@@ -8387,22 +8310,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366743375377?_skw=ssd&hash=item55639bce11:g:K48AAeSw1L1q1SE0",
    "posted_at": "2026-10-18T19:43:25+00:00"
-  },
-  {
-   "id": "ebay:v1|840030238448|0",
-   "category": "SSD",
-   "model": "SSD:SATA-256Go",
-   "title": "Disque SSD Samsung 860 Pro 256GB MZ-76P256 MZ7KH256HAHQ 2,5' SATA III 6 Gbps",
-   "condition": "used",
-   "effective_eur": 56.69,
-   "median_eur": 31.8,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · kaixo_bakea (100,0 %, 81 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840030238448?_skw=ssd&hash=itemc395b436f0:g:IZAAAeSwGGJqkK~d&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kjCgrj8ZmhZIqhBm3I4%2FfIt2sTbHel3vSgk%2Febl3nqP74jQkBJlczl3wNH0LSjaPS9sMandY6SxcD1OzTyiL47vsZP777bFW5zGInr3nofK4GolWHyXX%2F84agVnm9NTJbmJ%2FYKrh9PrkWZsPCQ9HrzLi8JN%2FmnOvwc0ahfler073j%2Bp%2Bdk9pNSuHSG11L6g84VuHfONTMDcClobiF%2BIBE087TE15rDfBvebtA5s4IhtpPATNEbBON2Bo1KGnURojqEZ7iGKe2LQnzBWOhyb5Ub",
-   "posted_at": "2026-10-17T10:00:35+00:00"
   },
   {
    "id": "ebay:v1|178476214838|477791252678",
@@ -8497,7 +8404,7 @@
    "attrs": {},
    "merchant": "eBay · matteo_gc (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147621941726?_skw=ssd&hash=item225ef411de:g:WV0AAeSwOApqxRpK&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m3RDBHem5haOKG%2FHJ5AqsBvWGkNBx4SSGGWlmdcdw4qFzg0dTke33MSUdDgoVFUFf0B9cAX0JrfJvWNdWhME0O27KGrYn86e3GOgHW1cKYpK%2Bjr1ul4MZKB7N5Lh9PxDtEaD3d%2BG2Cb%2BM1MAEkw0g5PFjnELz2OmMboGcVoiS9EC3t2anp3tVE8sls5UIobIlyNribBTRYeWOp85LnWsKwou3sqMFHA5GC0D9ocvPup64CYGMABqEEvJKDrWWgiWzgZH%2BSfFJM1qn1Txt2YZsa",
+   "url": "https://www.ebay.fr/itm/147621941726?_skw=ssd&hash=item225ef411de:g:WV0AAeSwOApqxRpK&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m3RDBHem5haOKG%2FHJ5AqsBvWGkNBx4SSGGWlmdcdw4qFzg0dTke33MSUdDgoVFUFf0B9cAX0JrfJvWNdWhME0O27KGrYn86e3GOgHW1cKYpK%2Bjr1ul4MZKB7N5Lh9PxDutXhkuewxcC0la5cJLzwsBsaX%2BcnclM4oLheKQrczQqH%2BDX%2Bqc2fpgPtn5ZtzpFHXxoIAdzh4UoM7YZd4m3OnImN8gdMYd921COQvxgoLD%2BPVurjn5029g6SXhXg2KCk1rkTILOJQGKq7nrTeq7tGt",
    "posted_at": "2026-10-06T15:57:53+00:00"
   },
   {
@@ -8533,22 +8440,6 @@
    "posted_at": "2026-11-07T18:43:47+00:00"
   },
   {
-   "id": "ebay:v1|860128065670|0",
-   "category": "SSD",
-   "model": "SSD:NVMe-1To",
-   "title": "SSD KIOXIA BG5 1To NVMe M.2 2230 PCIe 4.0 Gen4 + Support Dell 2280 98%",
-   "condition": "used",
-   "effective_eur": 104.6,
-   "median_eur": 115.0,
-   "deal": false,
-   "discount_pct": null,
-   "attrs": {},
-   "merchant": "eBay · sofinformatique (100,0 %, 376 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128065670?_skw=ssd&hash=itemc843a0b886:g:7KQAAeSwWSVq8djT",
-   "posted_at": "2026-11-09T14:31:26+00:00"
-  },
-  {
    "id": "dealabs:3445511",
    "category": "SSD",
    "model": null,
@@ -8581,20 +8472,20 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "id": "ebay:v1|860128091790|0",
+   "id": "ebay:v1|366797017236|0",
    "category": "SSD",
    "model": "SSD:NVMe-1To",
-   "title": "SSD Samsung PM981a 1To NVMe M.2 2280 PCIe 3.0 x4 HP - Santé 98%",
+   "title": "1TB sk hynix NVMe M.2 SSD. Occasion",
    "condition": "used",
-   "effective_eur": 115.0,
-   "median_eur": 115.0,
+   "effective_eur": 124.99,
+   "median_eur": 120.0,
    "deal": false,
    "discount_pct": null,
    "attrs": {},
-   "merchant": "eBay · sofinformatique (100,0 %, 376 avis)",
+   "merchant": "eBay · caprisunhorse (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128091790?_skw=ssd&hash=itemc843a11e8e:g:3yUAAeSw2qZq8dtS",
-   "posted_at": "2026-11-09T14:41:32+00:00"
+   "url": "https://www.ebay.fr/itm/366797017236?_skw=ssd&hash=item5566ce5094:g:m8YAAeSwXAdq8eNK",
+   "posted_at": "2026-11-09T15:15:40+00:00"
   },
   {
    "id": "dealabs:3447166",
@@ -8619,7 +8510,7 @@
    "title": "SSD Samsung PM9A1 1To NVMe M.2 2280 PCIe 4.0 Gen4 HP Santé 98%",
    "condition": "used",
    "effective_eur": 144.12,
-   "median_eur": 115.0,
+   "median_eur": 120.0,
    "deal": false,
    "discount_pct": null,
    "attrs": {},
@@ -8705,7 +8596,7 @@
    "attrs": {},
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JB7mGzCdfgTizID4BXvRv8Rghm69Xn2ENmmgRGfjHZXX%2BSwkln4vphRMVTA9mkF%2B2NDfGwjL2jDrS6jOtJZgeP37T%2FwFQlNSrP9IR4dOd0h9iqsJVeYKFDc6e3PjKExWZmPC%2B%2B6ZVQWPFPiD0pDOJcZ",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JDT8CsCTV4aAzQmFe%2BqBaEcFDGHCKoZ48T5OTee14NV%2FUCrWhwe1Tme6qYuvsRn2wm9%2BmJNqMVUSMCDHaawkQdlYHawqDjoFfy0TiPIY5J5%2FtM%2BBMvuCEUgxTmPqR%2FDsxY5VTTR5ATU2BTM7DyTtbRT",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
