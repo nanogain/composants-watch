@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-09T18:08:00Z",
+ "generated_at": "2026-11-09T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-09T18:08:00.619132+00:00"
+   "last_ok": "2026-11-09T18:38:00.674419+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-09T18:08:00.619132+00:00"
+   "last_ok": "2026-11-09T18:38:00.674419+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-09T18:08:00.619132+00:00"
+   "items": 389,
+   "last_ok": "2026-11-09T18:38:00.674419+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-09T18:08:00.619132+00:00"
+   "items": 27,
+   "last_ok": "2026-11-09T18:38:00.674419+00:00"
   }
  },
  "watchlist": [
@@ -71,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8JzVXwb9D8aa7RV2TDApPhQ5LNqkVPQtcCSyVqnMuAdwLty2%2BPmsL7s3yLZjslUqPLvGAtOwiYwAfh2YVz879nDBjWLumA3q3HKrirfBS6L3VPJitOBRLhzkiISx0QUwlrsMO5ITEexAgeeubpSX9h4nMO2bvQP3cFb3ykr6B%2Bcw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BDfdh13elwxfyZuE7n92hIdHkb%2FQzsl1sfM9ETSxY19aF9CPml3Qm2bEUrYyd3OsGeP37%2FtXzFAk4knqqDQoa%2FQelYZf%2BNf6GP3UCndUQMalpf1aOmeWktMPqgg5O%2FmIJPWR%2BUGsVO4KoaSY17HAHK0Nh59S4mF8OyvoT%2FFk1Xig%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -133,8 +133,8 @@
    "price_eur": 25.99,
    "shipping_eur": 0.0,
    "effective_eur": 25.99,
-   "median_eur": 36.9,
-   "discount_pct": 29.6,
+   "median_eur": 37.09,
+   "discount_pct": 29.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · ppiteso_0 (pro)",
@@ -150,8 +150,8 @@
    "price_eur": 25.99,
    "shipping_eur": 0.0,
    "effective_eur": 25.99,
-   "median_eur": 36.9,
-   "discount_pct": 29.6,
+   "median_eur": 37.09,
+   "discount_pct": 29.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · ppiteso_0 (pro)",
@@ -192,60 +192,51 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-netac-nv7000-t-1-to-7400-mos-compatible-ps5-3445486",
    "posted_at": "2026-11-03T17:49:12+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
-   "title": "Crucial 16 Go DDR4-3200 SODIMM PC4-25600 CL22 – CT16G4SFRA32A",
-   "model": "RAM:DDR4-16Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 62.06,
-   "shipping_eur": 3.0,
-   "effective_eur": 65.06,
-   "median_eur": 76.99,
-   "discount_pct": 15.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · leshopdejode (99,5 %, 198 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237167415631?_skw=ddr4&hash=item373847914f:g:2rEAAeSwgyhq7dLX",
-   "posted_at": "2026-11-06T13:17:56+00:00"
-  },
-  {
-   "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 45.32,
-   "shipping_eur": 0.0,
-   "effective_eur": 45.32,
-   "median_eur": 53.39,
-   "discount_pct": 15.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 376 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128000912?_skw=ssd&hash=itemc8439fbb90:g:JKMAAeSw62Jq8dBb",
-   "posted_at": "2026-11-09T13:55:06+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[Combo] Ryzen 5 7600X + ASRock B650M Pro RS WiFi + 32GB V-COLOR DDR5-6000 CL30 RGB + ASRock Rock 240 ARGB AIO + ASRock PRO-850B PSU + McAfee Total Protection (1 Yesr) - $628 (Newegg PC Builder - Instructions below)",
+   "price_raw": "$628",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xrzp3e/combo_ryzen_5_7600x_asrock_b650m_pro_rs_wifi_32gb/",
+   "posted_at": "2026-11-09T18:34:52+00:00"
+  },
+  {
+   "title": "Processeur Intel Core 2 Duo P8400 2.26GHz 3M 1066 Socket P SLB3R FRU 42W7984",
+   "price_raw": "6.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377633400488?_skw=processeur&hash=item57ecb466a8:g:3dAAAeSw7rRq8g2N",
+   "posted_at": "2026-11-09T18:16:50+00:00"
+  },
+  {
+   "title": "Barrette RAM SK Hynix 16 Go DDR4 SO-DIMM PC4-2666V 260 broches HMA82GS6JJR8N-VK",
+   "price_raw": "59.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377633409600?_skw=ddr4&hash=item57ecb48a40:g:UpAAAeSwRSJq8g7Q",
+   "posted_at": "2026-11-09T18:22:49+00:00"
+  },
+  {
+   "title": "RAM PC Portable SK hynix 16 Go DDR5 5600 SODIMM HMCG78AGBSA095N",
+   "price_raw": "125.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840111556114?_skw=ddr5&hash=itemc39a8d0612:g:skwAAeSwXHFq8gXL",
+   "posted_at": "2026-11-09T18:11:25+00:00"
+  },
+  {
+   "title": "Barette RAM PC Portable Samsung 32 Go DDR5 5600 SO-DIMM M425R4GA3PB0-CWM0L",
+   "price_raw": "285.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840111557788?_skw=ddr5&hash=itemc39a8d0c9c:g:8yEAAeSwGG1q8gYv",
+   "posted_at": "2026-11-09T18:12:47+00:00"
+  },
+  {
+   "title": "Barette RAM PC Portable Kingston 8 Go DDR5 5600 SO-DIMM ACR56S46BS6HA-8KM",
+   "price_raw": "59.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840111558938?_skw=ddr5&hash=itemc39a8d111a:g:4PkAAeSwy6lq8gZi",
+   "posted_at": "2026-11-09T18:13:33+00:00"
+  },
   {
    "title": "PC Portable 13\" Apple MacBook Air - Puce M5, 16 Go RAM, SSD 512 Go (via 210 € sur la carte de fidélité)",
    "price_raw": "1 189,99€",
@@ -273,13 +264,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/377633347977?_skw=processeur&hash=item57ecb39989:g:KToAAeSwthZq8gWk",
    "posted_at": "2026-11-09T17:42:49+00:00"
-  },
-  {
-   "title": "Carte mère Dell Dimension 8300 Pentium 4 XP Pro AGP rétro gaming",
-   "price_raw": "63.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287716793025?_skw=carte+m%C3%A8re&hash=item42fd41dac1:g:UXAAAeSwo~hq8gT3",
-   "posted_at": "2026-11-09T17:41:56+00:00"
   },
   {
    "title": "Razer Joro Portable Keyboard Azerty - Clavier sans Fil Rétroéclairé Neuf",
@@ -432,8 +416,15 @@
    "title": "Corsair ValueSelect RAM 16 Go (2x8 Go) DDR4 SO-DIMM CMSO8GX4M1A2133C15",
    "price_raw": "46.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206686984084?_skw=ddr4&hash=item301f811794:g:ENQAAeSwqd1q8c3e&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kcelRgezwJuN1SB2hAEaG60VPriPNRcS9TzElt0ahFtsaQXpI18rp2T1fBfqUK9aftMxTHLkfjhhi8JIQXU6%2B3S0WXuoNSimnW6ZfNUBgvxjIzXieENhHO2GceA8KeIX%2FxoKxUp8laEYe8fF6x%2B1Abff84qnpJu30c%2FPygCtl3ZzyEDr9VeB7Ai5a3laadcDTKqLXPDAw3uy5LGXLur7Og1msgckxP3M5%2FcvK%2FDdBbiCeD7F4ny--CCilZI%2FNngIcthW9Ju9K%2Fu9EeeemBOigm",
+   "url": "https://www.ebay.fr/itm/206686984084?_skw=ddr4&hash=item301f811794:g:ENQAAeSwqd1q8c3e",
    "posted_at": "2026-11-09T13:43:03+00:00"
+  },
+  {
+   "title": "ACER VERITON M460 STEEL PC CASE GAMING VINTAGE FULL METAL ACIER RETRO BON ETAT",
+   "price_raw": "45.94 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/178232897303?_skw=boitier+pc&hash=item297f822f17:g:dXsAAeSw8hBqM5pe",
+   "posted_at": "2026-06-18T07:14:01+00:00"
   },
   {
    "title": "Samsung RAM 8 Go 2 x 4G DDR4 SDRAM SO-DIMM PC4-2666V 2 modules M471A5244CB0-CTD",
@@ -446,7 +437,7 @@
    "title": "SK hynix RAM 8 Go DDR4 SDRAM SO-DIMM PC4-2666V 260 broches HMA81GS6JJR8N-VK",
    "price_raw": "26.77 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206686935447?_skw=ddr4&hash=item301f805997:g:uZIAAeSw-rZq8ciK&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m8dq9tRBkHViHlGbvIs6MHONieqV5Kp0fY3qogyVa2c7%2BjrlDciRotvxGKGzvwrr0WtT3oyeVLiu%2FJ0Gq8k3Ri%2Bw0N%2B5l%2B5xG6FWMKJjskxKnPbLCHWGw9dENEh58TZCoQt3XiIE4W6aWqn9obC%2BZpcdCnhOIsmb18VgNU%2FIqY8nmsRJk8QR7Y36iwewLUsr0Vj3gF7aesQ1tAeWL1fs4g4zfACHmil2qZmNvcCSAFa6V0PdWTPiC17IK5QfSR%2FFuJFUh2vU%2F7wUlI2V7TAFOO",
+   "url": "https://www.ebay.fr/itm/206686935447?_skw=ddr4&hash=item301f805997:g:uZIAAeSw-rZq8ciK&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m8dq9tRBkHViHlGbvIs6MHONieqV5Kp0fY3qogyVa2c7%2BjrlDciRotvxGKGzvwrr0WtT3oyeVLiu%2FJ0Gq8k3Ri%2Bw0N%2B5l%2B5xG6FWMKJjskxKnPbLCHWGw9dENEh58TZCqulsSmbn4qb0XtGDwbAHxp720Z3EhAXIIaZIsIS%2By81Q1KHZFZEog%2BbCrn06Id9LPWECjNLAiQRFJww9gDB5FcoLRg9Le7YoJyBH%2FMMnYofFQ5y8Tb4PXBfkfSJ%2FUFqeAHmIrFToc5rDXaQ79kUQQi",
    "posted_at": "2026-11-09T13:22:58+00:00"
   },
   {
@@ -488,7 +479,7 @@
    "title": "ASUS P8H61-M Core I3 / 8 Go RAM DDR3 ",
    "price_raw": "73.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237142290478?_skw=carte+m%C3%A8re&hash=item3736c8302e:g:YyYAAeSw6gpq3P4S&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7moDWbkuPfXtAJK0ys0LzHZjUKcAyUmZk8Dw26fFiFxFZXajfgEX9Unxs7OVpMK1XBltraixZ1uhSxxBl06ShM%2B8%2BvUX8w1Ophf4FQcuvZWRdtemP%2Bpvl11WK5YyUARwMui69moj7E%2FOal8uyqnxGw%2BZhJxZxfST%2F1p6MPxj%2BQTAi%2BkG0c1kEf%2BQY168dDIgnEGx6APS%2BDhJV6hlUKBCtk%2BrVcABfvE1SsdFj0HV8mZDh2HVawnKnjKFAKmEnIWBl6qHxCSUkT47VbL8cWv%2FILW",
+   "url": "https://www.ebay.fr/itm/237142290478?_skw=carte+m%C3%A8re&hash=item3736c8302e:g:YyYAAeSw6gpq3P4S&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7moDWbkuPfXtAJK0ys0LzHZjUKcAyUmZk8Dw26fFiFxFZXajfgEX9Unxs7OVpMK1XBltraixZ1uhSxxBl06ShM%2B8%2BvUX8w1Ophf4FQcuvZWRdtemP%2Bpvl11WK5YyUARwMtgTagyZfWk4fpzKST7RmGRrplhQICqzpTu6ZAQ%2BCQpwpLCdSchVw%2BsRGQDDp2BxwrJ3dzOP0IKSK7Afw29GE7OnTg2m4o3TS2TLAWb0QYoERU6vJMBEXXiE%2Fe%2BwG0b2tUQ4fNNGb0%2BIZG2Gc2VIBwO",
    "posted_at": "2026-10-24T19:01:28+00:00"
   },
   {
@@ -553,52 +544,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-elegoo-centauri-carbon-2-combo-3449530",
    "posted_at": "2026-11-09T07:20:36+00:00"
-  },
-  {
-   "title": "NAS UGREEN NASync DXP2800 + UPS 120W - 2 baies, Intel N100, 8Go DDR5, 2x M.2, 2.5GbE, HDMI 4K (vendeur tiers)",
-   "price_raw": "408,88€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nas-ugreen-nasync-dxp2800-ups-120w-2-baies-intel-n100-8go-ddr5-2x-m2-25gbe-hdmi-4k-vendeur-tiers-3449658",
-   "posted_at": "2026-11-09T09:07:36+00:00"
-  },
-  {
-   "title": "RAM SK Hynix 16Go DDR4 3200MHz PC4-3200AA SO-DIMM Portable",
-   "price_raw": "69.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366796410447?_skw=ddr4&hash=item5566c50e4f:g:HP8AAeSwcJNq8Yjs",
-   "posted_at": "2026-11-09T08:52:42+00:00"
-  },
-  {
-   "title": "SKhynix 16gb DDR5 PN:HMCG78AEBSA095N BA SODIMM Laptop Ram",
-   "price_raw": "190.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960173677203?_skw=ddr5&hash=itemdf8ecf9a93:g:hd8AAeSwSkJq8YyF",
-   "posted_at": "2026-11-09T09:04:32+00:00"
-  },
-  {
-   "title": "[HDD] Seagate Expansion Desktop 16TB External Hard Drive HDD, USB 3.0, STKP16000400 - $399.99 (27% off)",
-   "price_raw": "$399.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xrmfc5/hdd_seagate_expansion_desktop_16tb_external_hard/",
-   "posted_at": "2026-11-09T08:31:02+00:00"
-  },
-  {
-   "title": "NAS UGREEN DH2300 + batterie US2000 - 2 baies, 4Go RAM, HDMI 4K, NFC, 1GbE, UPS 6000mAh (vendeur tiers)",
-   "price_raw": "237,98€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nas-ugreen-dh2300-avec-onduleur-us2000-2-baies-4-go-ram-1-gbe-vendeur-tiers-3449566",
-   "posted_at": "2026-11-09T07:58:25+00:00"
-  },
-  {
-   "title": "Webcam Ugreen - 2K, 30 FPS, 2 Micros, Rotation 360°, Cache Intégré (Vendeur Tiers)",
-   "price_raw": "23,94€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/webcam-ugreen-2k-30-fps-2-micros-rotation-360-cache-integre-vendeur-tiers-3449511",
-   "posted_at": "2026-11-09T07:07:51+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1526,
-  "models_with_reference": 28
+  "listings_seen": 1536,
+  "models_with_reference": 27
  }
 }
