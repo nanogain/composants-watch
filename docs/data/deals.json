@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-09T22:38:00Z",
+ "generated_at": "2026-11-09T23:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-09T22:38:00.630909+00:00"
+   "items": 336,
+   "last_ok": "2026-11-09T23:08:00.672413+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-09T22:38:00.630909+00:00"
+   "last_ok": "2026-11-09T23:08:00.672413+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 384,
-   "last_ok": "2026-11-09T22:38:00.630909+00:00"
+   "items": 382,
+   "last_ok": "2026-11-09T23:08:00.672413+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 34,
-   "last_ok": "2026-11-09T22:38:00.630909+00:00"
+   "items": 80,
+   "last_ok": "2026-11-09T23:08:00.672413+00:00"
   }
  },
  "watchlist": [
@@ -71,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BX%2BWXyO0Nza1YcGt%2F9KWtnRu27k%2FuD%2FYMOxhrGXwtE5kJnCTJ7EfslZNcAB4h8mOYOpT%2FhDNRY0Q5cfGqY2ANR3g%2BTnfjfy0UPXAnPivwPWf9ddaglvF46LVYBN1lOpmC4Z1rQn8uiURHMjkXZ99HLcjjAmaMLHO8pqn4DGY9uJQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8kj2f3eYJGu7nvWuxUiz1DfMiqqsc4mkXtFOKC%2BvFCycsu7DM7jFfF2S8FMDZxt0s6OamNL7mM4kABbM8Fg9rbX3ayytJCVfzoBba5nHA5mtKfiNsbfcaA9eTheAzpdSmrLjsBQeRv7DQMxDHEElZfs%2FdLCds%2BcKZifYQ7O4PMrw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JBzSOzUNTvN%2FpnTWBN1B50KJfb%2BE2010kGwCwTxUNXQ%2Fpw%2BBNHk3Wtfm1IKnXJxcV9EQxuVbNyxfnzIgbD3kjCkfdmnS%2F0869lLrlW3k%2FfBQAJnFWbsAw1jMrwjki6wRLZxQfK2tRefsvXB%2FneMRWB%2F",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -177,23 +177,6 @@
    "posted_at": "2026-06-04T21:23:16+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -212,6 +195,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Ecran PC 24\" Iiyama G-Master G2441HSU-B1 Black Hawk",
+   "price_raw": "89,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-iiyama-g-master-g2441hsu-b1-black-hawk-3450352",
+   "posted_at": "2026-11-09T22:59:44+00:00"
+  },
+  {
+   "title": "[CPU] AMD Ryzen 7 9850X3D, Amazon S/S, $419 A/C",
+   "price_raw": "$419",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs6i23/cpu_amd_ryzen_7_9850x3d_amazon_ss_419_ac/",
+   "posted_at": "2026-11-09T22:54:32+00:00"
+  },
+  {
+   "title": "[CPU] AMD RYZEN 7 9800X3D, Amazon S/S, $400",
+   "price_raw": "$400",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs6b9z/cpu_amd_ryzen_7_9800x3d_amazon_ss_400/",
+   "posted_at": "2026-11-09T22:47:04+00:00"
+  },
   {
    "title": "Stylet Wacom Pro Pen 2",
    "price_raw": "79,99€",
@@ -286,7 +290,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdtNXoZEPQ%2FdJ%2FRhDZWjCsCCNUtZgnT9V7Sus5vx8wfUTh5L3xKicOEWcfqjFTj4IPIf%2BEfncLTY3G2Ha5QFdbJinAm9DCHI0D1fgqp%2FCqFGpKn0%2FK%2FWK6CmBuVnAUWyboJYthP%2Bsp%2FMslwSbXMxTYu5v%2B5UAEcvs5Ginf847XZFzw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLduLAufTk8piWcQXypc7hi8DKUl9XlHoe2TIcyH83KTudLZoDj8v0S0vX2fCskvoHJnQNoRXhLgN7pO8XUqR3CpMqo0dfGgUv8i0snjngXIuijsRpcQrO52mLMiAvp7gkWd3elemKOd2El%2BBzNi4RK2ObsRGGFCXk6%2Bpp2%2FjLJVOhQ%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -307,7 +311,7 @@
    "title": "Ecran PC Smart Tech 22\" 215N01FVF FHD Dalle VA 5ms HDMI VGA",
    "price_raw": "141.55 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/226421671509?_skw=%C3%A9cran+pc&hash=item34b7c88655:g:dX4AAOSwYNtkXP~k&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n8iTM4H%2Fw1OEJkOH17QC%2FSmtHVMoaj8GjL1KXrFfSB5OKeXU7NI9SPPjbVPfDPLeOeN0Px%2F6xtLbohGN04VjkaiD6eiT2KX%2FNn%2FlffmYC3qa2nDFEstaohaD3XcYw68DTTKSoyaauWJmTQiQwdPAN6O4Hzy3aQBPZ2XVy2ykJkv6h2%2FkSf%2F5MWb8K0dTH9rGGpZVr5k0%2FRpAtrOqP6CpKTpcUe1qtIlM4mXYwJOT2I2cVC3gR0uucspYey%2BpNilRTt%2BgKchAO5a43abEvHvVk1Gf%2FR7bGrPFsbHRjNY7mV%2BA%3D%3D",
+   "url": "https://www.ebay.fr/itm/226421671509?_skw=%C3%A9cran+pc&hash=item34b7c88655:g:dX4AAOSwYNtkXP~k&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n8iTM4H%2Fw1OEJkOH17QC%2FSmtHVMoaj8GjL1KXrFfSB5OKeXU7NI9SPPjbVPfDPLeOeN0Px%2F6xtLbohGN04VjkaiD6eiT2KX%2FNn%2FlffmYC3qa2nDFEstaohaD3XcYw68DQfVMLfVHpPuRHrkFBDVz6nkdXvEfKjNGr%2Bt3O46ut1G4sXP4eP6ZUH8Wr5W1%2BtoSzS1RPXRGeyre8KIW3%2BoL0DCXhg6JZuWxjvB%2F0LTX9%2B8azVf6juG3Tup1FBKzDOfkrLEjR%2BvlFS3l7WnKQFLrumExQTZALYzxu5ALB1Dqk56Q%3D%3D",
    "posted_at": "2024-10-28T15:07:37+00:00"
   },
   {
@@ -540,31 +544,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-epson-ecotank-et-2951-via-odr-40-eur-3449865",
    "posted_at": "2026-11-09T12:38:34+00:00"
-  },
-  {
-   "title": "[other] Lian Li 8.8 inch universal screen - white; $69.99; woot.com",
-   "price_raw": "$69.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xrr3vo/other_lian_li_88_inch_universal_screen_white_6999/",
-   "posted_at": "2026-11-09T13:03:03+00:00"
-  },
-  {
-   "title": "8GB RAM SO-DIMM Samsung - Laptop - 1RX8 PC4-2666V DDR4 - M471A1K43CB1-CTD",
-   "price_raw": "31.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/397587853147?_skw=ddr4&hash=item5c92152f5b:g:1VUAAeSwWuBpKK1e",
-   "posted_at": "2026-02-09T07:00:28+00:00"
-  },
-  {
-   "title": "ASUS P8H61-M Core I3 / 8 Go RAM DDR3 ",
-   "price_raw": "73.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237142290478?_skw=carte+m%C3%A8re&hash=item3736c8302e:g:YyYAAeSw6gpq3P4S&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7moDWbkuPfXtAJK0ys0LzHZjUKcAyUmZk8Dw26fFiFxFZXajfgEX9Unxs7OVpMK1XBltraixZ1uhSxxBl06ShM%2B8%2BvUX8w1Ophf4FQcuvZWRdtemP%2Bpvl11WK5YyUARwMv8m24NwA0F37I7ebdewtT1yeDr7ceFtXzzm4gDSAPleseCHz1StBW0uy%2Fuwx9dAyv%2FGIz066mJxjmtj8AM4e2ZFdI1zAR%2BT3kmbfbFioDLilb%2FYwk8KZcU1nD9wV5RoXg%2FpWjnxSDrXc5A8dGc%2FqyH",
-   "posted_at": "2026-10-24T19:01:28+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1550,
+  "listings_seen": 1552,
   "models_with_reference": 28
  }
 }
