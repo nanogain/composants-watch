@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-09T05:08:00Z",
+ "generated_at": "2026-11-09T05:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 335,
-   "last_ok": "2026-11-09T05:08:00.635604+00:00"
+   "last_ok": "2026-11-09T05:38:00.650816+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-09T05:08:00.635604+00:00"
+   "last_ok": "2026-11-09T05:38:00.650816+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-09T05:08:00.635604+00:00"
+   "items": 382,
+   "last_ok": "2026-11-09T05:38:00.650816+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-09T05:08:00.635604+00:00"
+   "items": 7,
+   "last_ok": "2026-11-09T05:38:00.650816+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,23 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
+   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 60.49,
+   "shipping_eur": 0.0,
+   "effective_eur": 60.49,
+   "median_eur": 149.99,
+   "discount_pct": 59.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-official-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
+   "posted_at": "2024-11-07T06:12:38+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -88,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BGB18pHU3YCmmnja7y90aMVMGvOHe9oYS54BzgjeKvKODWV%2FEl86%2FjOEc%2BdmAm34x5CFTYSP2hGfzbje5uRI%2BMhwXrc6JMMCYYynXpTpJO3ZD6jN%2FXcfeMzdTryTEluWZIfaYwNidkco6LCWm4e7upKMMhofvJF%2FOZaaenV9STWA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8Las8BX7hDbQAEM2y7oc8poB7RtCNPi2tRW8NIeYOUD2X9jEB4hZul%2BUjONDQXhobNDmuxoxAPmOpUvo325RLI5qufc2oa0MiBXmgrAjDsb%2BEa2S036LbODiI%2FodGtvY8asGCLb1e8iNS5wYbWTF8GOzKRv8swPJkkhN1m3UWgTw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -250,7 +267,7 @@
    "title": "Carte graphique Sapphire capot-X HS 4890 1gb",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839811919?_skw=carte+graphique&hash=item4a3c556f4f:g:sLEAAeSwwetqnv51&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mAc77L0DDvkzzUvN4FXNIPm2eCz2AjO6inS51Guq5B54VOgAM6r5t4CWMMXX0jkBBHVj5p6%2Fo%2BkQ6Zp0YOWzo%2FIxnryflxj5sHQ4QP4lhBxPD9NBe71mtWQ2UK8VhrPet3UJxVjLVpl%2FdzkPMr0WcoDiTPV1mjcYMYYrHPx0Fueg2ZZmEJYFOPgF0gdaavsEAqfTFbskSY10tmHnUzRPDa0qMlKHsD3X7WJeMGNqNJvZSzC2bkHeUfc7ZZrnhJqs2nlqSTXn1z0Ee8SONas3OHdYocMNNWPp8mzzI683c3bg%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839811919?_skw=carte+graphique&hash=item4a3c556f4f:g:sLEAAeSwwetqnv51&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mAc77L0DDvkzzUvN4FXNIPm2eCz2AjO6inS51Guq5B54VOgAM6r5t4CWMMXX0jkBBHVj5p6%2Fo%2BkQ6Zp0YOWzo%2FIxnryflxj5sHQ4QP4lhBxPD9NBe71mtWQ2UK8VhrPeveUjuTcLk7DxL9R01ab7Jd9AqUA%2F9Ep7xYgf5Ae6hYWqW3WBwvZwc3F99T6dQYszHJb5LRxQ%2BpUBilwJZeVDjcx2FBHhcGT3I3p7mbynGHwT2nGQbXRAJ7%2FFvsQOEPjGgpeRgQ%2BjAs4frixR9G114A0nGRd5AUV%2BsIx6XB%2FypFUA%3D%3D",
    "posted_at": "2026-09-07T18:15:22+00:00"
   },
   {
@@ -292,7 +309,7 @@
    "title": "Carte mère pour HP ELITEBOOK 840 G3 850 G3 / INTEL CORE i5-6300U DDR4",
    "price_raw": "80.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/376177123955?_skw=carte+m%C3%A8re&hash=item5795e76273:g:2IgAAOSwsj5jff44&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nK395gzdgRUsM1rX32nhmX%2FxYimNhKEnyRixm%2FsNoZpAhdsziFLcQDOaicL3%2BFfRnriusFGLaWPUeGKf2ESO2GlyGJJwPmPKHMstsCZ%2FtYIm3Iee5WX1Z%2B63pFVEbyEMpOTcKIca%2Be12Nm6fnRStiy68Iq4c8fE0R2v0aIpmxGuqFcJqtZ4dQGRX2R8XbLBOToOAFibR4CzP8NKIYO4%2FWVFXl8V6MeGEFKVkEkKXOLn4rooJo67WDoPzTAxcGtmf%2Bv9EA%2FXF8itYVzkDj1qLZL96v%2BbL2TJDSqY4rnl0w77g%3D%3D",
+   "url": "https://www.ebay.fr/itm/376177123955?_skw=carte+m%C3%A8re&hash=item5795e76273:g:2IgAAOSwsj5jff44&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nK395gzdgRUsM1rX32nhmX%2FxYimNhKEnyRixm%2FsNoZpAhdsziFLcQDOaicL3%2BFfRnriusFGLaWPUeGKf2ESO2GlyGJJwPmPKHMstsCZ%2FtYIm3Iee5WX1Z%2B63pFVEbyEMrLTD%2Bgxma28%2Bd0kKuGxDCEH0Gdn9EHgfACMn%2F2geC9UQiZg5FMoMlbSrvHXf60MSPF8iKzE%2BmU4LzbsSN8NG%2B0kMNHsYfBKN4YL0jKLKhYn8P7J71EGnnGKzDSXYdaqll2KGHYRjkUwqdlv5a%2BNZ6HEVXnkWjNChttpB0eKFCopw%3D%3D",
    "posted_at": "2025-04-17T14:49:06+00:00"
   },
   {
@@ -404,7 +421,7 @@
    "title": "SK hynix RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2666V 260 broches HMA851S6JJR6N-VK",
    "price_raw": "13.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7loLG0CFFPVx2ooBA7UplpNfMJ6No1wlf9VSg2GdWwE61NHRf5CDNKZBHeAVD92LOU7Fg6vNEy3Es6CdC3Ac%2BP7UfFQWIjyYPRHpJAvgx8J6I4148dg7lM11rfBNgaisB23Rwq15dapU%2BnFouIhjeUiTURm9G8B1eXzBTEhMtkJmKvoKbZe2%2Fj8HXFbibzlhCOrCSh6b0dC%2F7f3ahy3FdvUX7UgGUKlDJFOJpQqw1%2B15UREWcerAAya9UkQ5lq1cEL0dRrLDSf%2F9VlXVR8QOk2V",
+   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7loLG0CFFPVx2ooBA7UplpNfMJ6No1wlf9VSg2GdWwE61NHRf5CDNKZBHeAVD92LOU7Fg6vNEy3Es6CdC3Ac%2BP7UfFQWIjyYPRHpJAvgx8J6I4148dg7lM11rfBNgaisB3zgkcdHDqDhxmIDBEwMBFEHIJlzNn6I9N3pcvgcJlyxAilKme%2BmjBMWIKSoW0R2nZW1CZTYrdB7W8ewNNpM0u8J0oIku6zu%2BoI8gq6nGNVCgNCHBRSKH%2BKIw4GEDY7OJXRZXyCKfz5uwfNHMyxq%2BAc",
    "posted_at": "2026-11-08T22:02:54+00:00"
   },
   {
@@ -420,6 +437,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/880078369877?_skw=carte+m%C3%A8re&hash=itemcce8c23455:g:QCEAAeSw~uZq6aoh",
    "posted_at": "2026-11-03T09:35:48+00:00"
+  },
+  {
+   "title": "Carte graphique MSI Radeon R7 370 GAMING 4G – 4 Go",
+   "price_raw": "54.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/397751345683?_skw=carte+graphique&hash=item5c9bd3e213:g:ZWsAAeSw7-tpwVby&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kgxCmnK5SPMm%2B9b51aDK1g6B0zVwgH7OX1FzhdXTtjDywWOrmxJARSFxshajCWbA13a7Q1fNS%2F2020rfUD3tszXHzscQ--Li9pkxr%2BxZbKgzl2IVCBQg8l7pes1nU5zS0yHLaseHJVD9eMulKlBupFW17%2BS%2FXsfYdsfThAYgN6VlcazCoVRt75w5Az%2BCNupKlT1HXDjwbNKNroYaQRqG1bfazQsQjizoX8NUEutCvU2S8eFSV5FvZHhAZQuY0da5fKnNTYJf9z3kiInReWaiLOaAyXOSZwebUcFkt1e3Yw9A%3D%3D",
+   "posted_at": "2026-03-23T15:12:01+00:00"
   },
   {
    "title": "Reconditionné : PC Portable 13,3\" HP EliteBook 830 G8 - Full HD, i5 1145G7, 16 Go RAM, 256 Go SSD (État Correct)",
@@ -588,13 +612,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/407348956197?_skw=boitier+pc&hash=item5ed7e3cc25:g:kFwAAeSwoi5qV-Yf",
    "posted_at": "2026-11-08T15:12:29+00:00"
-  },
-  {
-   "title": "Écran Portable tactile 10,1\" HOWENS",
-   "price_raw": "51,69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-howen-101-pouces-portable-3449105",
-   "posted_at": "2026-11-08T14:52:37+00:00"
   }
  ],
  "stats": {
