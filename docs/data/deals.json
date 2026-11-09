@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-09T03:38:00Z",
+ "generated_at": "2026-11-09T04:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 335,
-   "last_ok": "2026-11-09T03:38:00.677152+00:00"
+   "last_ok": "2026-11-09T04:08:00.639898+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-09T03:38:00.677152+00:00"
+   "last_ok": "2026-11-09T04:08:00.639898+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-09T03:38:00.677152+00:00"
+   "items": 376,
+   "last_ok": "2026-11-09T04:08:00.639898+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-09T03:38:00.677152+00:00"
+   "items": 79,
+   "last_ok": "2026-11-09T04:08:00.639898+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fo0qh1WFCciWJNwNLGTNwa1YP6P0e3QAODC5%2FmX3muWNQRnZTRMMsHZnMmUJ7p9N2ygo%2Fv5Z%2FuHHG8o1rNo2Mj4WcNopcXfygYZP83yxCZk9Tq5%2BQb%2BDfAUERuc2YtCFBtjA%2Bmvcq9xR09RPb4%2BG%2BZYAx2tFa27vZ%2F2ZyiOhgtsQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8XxFlOXnEssKpJSC4BCpsp8bp8v3pZjTdoR9PvpNbr7z%2FSpiqAf7F5p5xu31yu5ueWDjBRJ%2B7gSpTVPuZeb5%2B8YlUAESWKVrr8g0MfBIbqTimUpi7mNA%2FyGvCFKDvt%2Bn0ioztkkewy0DokqujU7DphkjVUfLJVwNmnWYWJ6fgnjA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -281,6 +281,27 @@
  ],
  "unclassified": [
   {
+   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
+   "price_raw": "199.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
+   "posted_at": "2026-10-03T12:36:35+00:00"
+  },
+  {
+   "title": "Samsung S80UD écran plat de PC 81,3 cm (32\") 3840 x 2160 pixels 4K Ultra HD LCD",
+   "price_raw": "361.41 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307174375420?_skw=%C3%A9cran+pc&hash=item478504fffc:g:fqEAAeSwAGdq7jfp",
+   "posted_at": "2026-09-11T21:55:08+00:00"
+  },
+  {
+   "title": "Bouton de volume de remplacement pour clavier Dell SK-8135",
+   "price_raw": "6.49 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318588240173?_skw=clavier&hash=item4a2d56c12d:g:t6cAAeSwrptqWAck",
+   "posted_at": "2026-07-15T22:20:08+00:00"
+  },
+  {
    "title": "Transcend ESD420 SSD Portable 2To (Compatible iPhone MagSafe) 20 Gbit/s, jusqu'à 2 000 Mo/s, 4K, doré – TS2TESD420G",
    "price_raw": "278,51€",
    "source": "dealabs",
@@ -291,7 +312,7 @@
    "title": "Carte mère pour HP ELITEBOOK 840 G3 850 G3 / INTEL CORE i5-6300U DDR4",
    "price_raw": "80.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/376177123955?_skw=carte+m%C3%A8re&hash=item5795e76273:g:2IgAAOSwsj5jff44&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nK395gzdgRUsM1rX32nhmX%2FxYimNhKEnyRixm%2FsNoZpAhdsziFLcQDOaicL3%2BFfRnriusFGLaWPUeGKf2ESO2GlyGJJwPmPKHMstsCZ%2FtYIm3Iee5WX1Z%2B63pFVEbyEMr8%2FXLXU17s%2BQUUYO%2B7ZZRHmJY5dWbcaMJm5YRV3xwCn%2FgrzzvJUV2Nc67ReWmEmXn70EDKGkb%2B23KP2rTGC193eoLHPPd65UN2h5USaMvoXBPd3Eo4tSi22Z44fKdYCaeLreX2Dm9K3g9%2BygZbTjuU%2FjX4D5F%2FZRZasUQV4CumPw%3D%3D",
+   "url": "https://www.ebay.fr/itm/376177123955?_skw=carte+m%C3%A8re&hash=item5795e76273:g:2IgAAOSwsj5jff44&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nK395gzdgRUsM1rX32nhmX%2FxYimNhKEnyRixm%2FsNoZpAhdsziFLcQDOaicL3%2BFfRnriusFGLaWPUeGKf2ESO2GlyGJJwPmPKHMstsCZ%2FtYIm3Iee5WX1Z%2B63pFVEbyEMoZiriq9T3ppYELdRraktShwF3BmJOCHmHWOAGkGkklXSe3t%2BBrvAnYInpSq3XfdNBCBXIi5W5yXAGN%2FVqud%2FEaUZX1zSHHRa4Lsp57n73i5hKbbRbEhvJpyarcAm2YzgJHg%2Bq%2FGESJvto1BVjnSdb6XYV0Z7CxhmSjyo07627i4w%3D%3D",
    "posted_at": "2025-04-17T14:49:06+00:00"
   },
   {
@@ -319,7 +340,7 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2400T MTA8ATF1G64AZ-2G3B1",
    "price_raw": "25.97 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685352156?_skw=ddr4&hash=item301f6830dc:g:8AYAAeSwKkpq8Pa8&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ng2mK3kLsMLFSTo6gFfgPJoqJO6qTivgIwb55H9uRxUYrOXq%2BcM3p9Mf%2FaoJLFE%2FEPT8Cgis6pygsRr9pw6QEPo50QN%2FsBwKFd28%2BbMlpWITu2u3qsLy2hD%2F7jZ1WkHyJzhEmTrqn%2FYtfWf%2FnUI5lXfKMl7EfrKz7Sv98KzrmSJHKErwtFaKFlsFyJz7xL0dQKY16ZaVeTQ1awp0evRARZC%2Bc8HADjgAy%2BbS8%2B4ikEuqsrWaP65xp2%2F3oxeZBrfO4YzduN5LCabR6g4NOuEFrh",
+   "url": "https://www.ebay.fr/itm/206685352156?_skw=ddr4&hash=item301f6830dc:g:8AYAAeSwKkpq8Pa8&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ng2mK3kLsMLFSTo6gFfgPJoqJO6qTivgIwb55H9uRxUYrOXq%2BcM3p9Mf%2FaoJLFE%2FEPT8Cgis6pygsRr9pw6QEPo50QN%2FsBwKFd28%2BbMlpWITu2u3qsLy2hD%2F7jZ1WkHyIo%2FBwIxV%2FARgVGtd0cpvxSPkusgIlRai50AkI%2FFF8T4sUhORp5WrUSQB78z%2FhBE%2FEgos6Uf%2FfSu5P5FtCpkEDkTXnGjpo2ExwRdsRafGwyrXkQ5Qia%2BpFZxUMEUA%2Bf9EqkhrqYBASiTHfuIwkzLo%2FP",
    "posted_at": "2026-11-08T22:28:02+00:00"
   },
   {
@@ -342,13 +363,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206685346555?_skw=ddr4&hash=item301f681afb:g:yNoAAeSwJZxq8PVt",
    "posted_at": "2026-11-08T22:22:36+00:00"
-  },
-  {
-   "title": "Samsung RAM 8 Go DDR4 SDRAM DIMM PC4-2400T 1 module M378A1K43CB2-CRC",
-   "price_raw": "25.97 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685365413?_skw=ddr4&hash=item301f6864a5:g:DP8AAeSwBXNq8PeI",
-   "posted_at": "2026-11-08T22:30:29+00:00"
   },
   {
    "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-3200AA M471A5244CB0-CWE",
@@ -382,29 +396,15 @@
    "title": "Ramaxel RAM 4 Go DDR4 SO-DIMM PC4-2666V 260 broches 1Rx16 100280746",
    "price_raw": "13.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685314836?_skw=ddr4&hash=item301f679f14:g:ni0AAeSw-mBq8PGt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mfvax%2B5pi0ZK%2F9nBE0JyJ8RzOjfLO5TipqyVE28adS0K2CuiG49r2u16O2aoKGFKef4AVvN5nu1%2FEfxekwVBlohqTsItgc9B20o3s2W%2B%2FqWXeGLTLOhxzcmJIqLvjdEKK0lbksrrMQqSgZ9nddk91npVMJEMQBb2C7zIkWlUNJaoKwUJ1cKD0Oac9heTQv6urk5%2BCmLKP%2FJ57oAewGUstGx0Q09H5sukQZYRFnKg91vyrhwoknamsc1%2FgLbO3sA3nZnS5yJi%2Fogo%2F5j6xJ4TDi",
+   "url": "https://www.ebay.fr/itm/206685314836?_skw=ddr4&hash=item301f679f14:g:ni0AAeSw-mBq8PGt",
    "posted_at": "2026-11-08T22:05:22+00:00"
-  },
-  {
-   "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches M471A5244BB0-CRC",
-   "price_raw": "12.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685310429?_skw=ddr4&hash=item301f678ddd:g:zzQAAeSwZbdq8PBw",
-   "posted_at": "2026-11-08T22:00:26+00:00"
   },
   {
    "title": "SK hynix RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2666V 260 broches HMA851S6JJR6N-VK",
    "price_raw": "13.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX",
+   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7loLG0CFFPVx2ooBA7UplpNfMJ6No1wlf9VSg2GdWwE61NHRf5CDNKZBHeAVD92LOU7Fg6vNEy3Es6CdC3Ac%2BP7UfFQWIjyYPRHpJAvgx8J6I4148dg7lM11rfBNgaisB3kymySXVjAhFtAUxKU1soEmjWZjna7wfvRjCft3I9dA26TWJFiRoiUvatM5yboENNPEKJbWUFZ6VXEOZlqwENsXDumTSaRQFP%2FkcB8VePd%2BAmfSRVHePBN94xxr5Dcpj7S35KG1fW5Q%2BOmxSV8kik1",
    "posted_at": "2026-11-08T22:02:54+00:00"
-  },
-  {
-   "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2133P 260 broches M471A5143EB0-CPB",
-   "price_raw": "12.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685305015?_skw=ddr4&hash=item301f6778b7:g:GkwAAeSwX-1q8O6K&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kGyQ024NvGduQC2IvAmTW7oZGi3VOTM%2BTD9F%2B%2BqSbuw6cgD%2BnzBr5rzWV%2BzguyEoHY0AYGoYSm1%2BCgTrN2bSH5v7lN6YBK8IvzMIFQMgSQp4BVI5CyKQZqn5IsNQ4p6c1lxgmmvk8hEnRH2EL5p3sKC%2FdX2mS%2F5DObK6pSoyIgwvQbnEpuqaTeCrbge%2B3Hc3iU4eo6uGoycOmnzsiKQOWiPzuwtrvr7pq%2Fkt6y7u0KTobq8rXtGzuJs3vJrElvmCodLwiFyli16uGvwH7laHeG",
-   "posted_at": "2026-11-08T21:52:32+00:00"
   },
   {
    "title": "Moniteur Gigabyte G34WQC2 34\" VA 200 Hz",
@@ -421,17 +421,10 @@
    "posted_at": "2026-11-03T09:35:48+00:00"
   },
   {
-   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
-   "price_raw": "299.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
-   "posted_at": "2026-10-03T12:36:35+00:00"
-  },
-  {
    "title": "Carte graphique MSI Radeon R7 370 GAMING 4G – 4 Go",
    "price_raw": "54.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/397751345683?_skw=carte+graphique&hash=item5c9bd3e213:g:ZWsAAeSw7-tpwVby&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kgxCmnK5SPMm%2B9b51aDK1g6B0zVwgH7OX1FzhdXTtjDywWOrmxJARSFxshajCWbA13a7Q1fNS%2F2020rfUD3tszXHzscQ--Li9pkxr%2BxZbKgzl2IVCBQg8l7pes1nU5zS12rXAX7EHqvSTidgtRDDkYzKg64TTib8L%2Fj%2Bn5wMzDu6Z98Y4xQ4x75YDBnIhOwu0u6cE3MCCnUH%2BLybm9ilZdEREN4qAZ%2FtBTBBCOFH560TfOr5mr6MxKR5fXdWg%2BSz0zHtuiKiGqnyKGrmPSyFDcHteLuhxpjtbQIkBWDpi7cw%3D%3D",
+   "url": "https://www.ebay.fr/itm/397751345683?_skw=carte+graphique&hash=item5c9bd3e213:g:ZWsAAeSw7-tpwVby&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kgxCmnK5SPMm%2B9b51aDK1g6B0zVwgH7OX1FzhdXTtjDywWOrmxJARSFxshajCWbA13a7Q1fNS%2F2020rfUD3tszXHzscQ--Li9pkxr%2BxZbKgzl2IVCBQg8l7pes1nU5zS0FVRNJptq8KgI%2B%2BrW66yAvfKV7Vs9JyyoQwggjS5211QBGiEo21ag61dvTgOklFSM6IDx2yW20So7rZBGLGB9SqaIYCezF75zLbU4K0zVxB2L%2BhAah5Nj3x4FbERsL4S8shndoDvbYDbm1RMWoK3x0zuzJvdLRVFtWS5ObeBkV2Q%3D%3D",
    "posted_at": "2026-03-23T15:12:01+00:00"
   },
   {
@@ -533,6 +526,13 @@
    "posted_at": "2026-11-08T18:13:28+00:00"
   },
   {
+   "title": "Kingston HyperX Fury DDR4 16 Go (2 x 8 Go) CL15 DIMM 288 broches PC fixe",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900075776565?_skw=ddr4&hash=itemd190b26a35:g:dakAAeSwNm9q8LdF",
+   "posted_at": "2026-11-08T17:58:55+00:00"
+  },
+  {
    "title": "[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)",
    "price_raw": "$109.99",
    "source": "reddit",
@@ -632,7 +632,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1405,
+  "listings_seen": 1410,
   "models_with_reference": 27
  }
 }
