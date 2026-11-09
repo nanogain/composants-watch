@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-09T23:08:00Z",
+ "generated_at": "2026-11-09T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-09T23:08:00.672413+00:00"
+   "last_ok": "2026-11-09T23:38:00.660444+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-09T23:08:00.672413+00:00"
+   "last_ok": "2026-11-09T23:38:00.660444+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 382,
-   "last_ok": "2026-11-09T23:08:00.672413+00:00"
+   "items": 386,
+   "last_ok": "2026-11-09T23:38:00.660444+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-09T23:08:00.672413+00:00"
+   "items": 56,
+   "last_ok": "2026-11-09T23:38:00.660444+00:00"
   }
  },
  "watchlist": [
@@ -71,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8kj2f3eYJGu7nvWuxUiz1DfMiqqsc4mkXtFOKC%2BvFCycsu7DM7jFfF2S8FMDZxt0s6OamNL7mM4kABbM8Fg9rbX3ayytJCVfzoBba5nHA5mtKfiNsbfcaA9eTheAzpdSmrLjsBQeRv7DQMxDHEElZfs%2FdLCds%2BcKZifYQ7O4PMrw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9IzwnqYarhHL4mS1LQhqdZqGtzEQZZ%2Bb6v4NYut4CftqopaNjouLA0Vdp2uyQZNjKsKdMtyd7xmFMpGZar0RHbqEfiIepyrKvD8mmrGaz8RoLuI8cCHfkYLYUrEiWMD1wGFVz3sX48q9cC5VYAbD0zyrv5FYn4ZIL9LOj4F4Cj3A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -177,7 +177,41 @@
    "posted_at": "2026-06-04T21:23:16+00:00"
   },
   {
-   "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 59.99,
+   "discount_pct": 16.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fik-8981 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
+  },
+  {
+   "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
    "condition": "used",
@@ -190,11 +224,25 @@
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 378 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128000912?_skw=ssd&hash=itemc8439fbb90:g:JKMAAeSw62Jq8dBb",
-   "posted_at": "2026-11-09T13:55:06+00:00"
+   "url": "https://www.ebay.fr/itm/860128033339?_skw=ssd&hash=itemc843a03a3b:g:tpEAAeSwEExq8dUz",
+   "posted_at": "2026-11-09T14:16:05+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[Motherboard] ASRock B860 CHALLENGER WIFI WHITE LGA 1851 Intel B860 SATA 6Gb/s DDR5 Intel Core Ultra ATX Motherboard - $90 (Newegg, with free game from Intel)",
+   "price_raw": "$90",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs70bl/motherboard_asrock_b860_challenger_wifi_white_lga/",
+   "posted_at": "2026-11-09T23:14:22+00:00"
+  },
+  {
+   "title": "Hama KC-700 Clavier USB Slim QWERTZ Plein Format Numpad Argent Scissor",
+   "price_raw": "26.97 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377633817579?_skw=clavier&hash=item57ecbac3eb:g:-ZQAAeSwwd1q2BFO",
+   "posted_at": "2026-11-09T23:11:45+00:00"
+  },
   {
    "title": "Ecran PC 24\" Iiyama G-Master G2441HSU-B1 Black Hawk",
    "price_raw": "89,95€",
@@ -290,7 +338,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLduLAufTk8piWcQXypc7hi8DKUl9XlHoe2TIcyH83KTudLZoDj8v0S0vX2fCskvoHJnQNoRXhLgN7pO8XUqR3CpMqo0dfGgUv8i0snjngXIuijsRpcQrO52mLMiAvp7gkWd3elemKOd2El%2BBzNi4RK2ObsRGGFCXk6%2Bpp2%2FjLJVOhQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdt1rJ1T1FfioEM1SIQMtAGlQhe%2FxGurkt0cGV3Fa1o8KDNAJF6XpHLuXFQO2VLnj71g--q7WVPAD8bv7V41G5Ny%2Fz0gpr6aYaInkjNuUEVZxvVPW%2FuSXzYckWazESXWXOZunMuIyRZxm%2FFeMXCb94fZ48ntH2o%2FyBPHSHnom%2FzVfQ%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -311,7 +359,7 @@
    "title": "Ecran PC Smart Tech 22\" 215N01FVF FHD Dalle VA 5ms HDMI VGA",
    "price_raw": "141.55 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/226421671509?_skw=%C3%A9cran+pc&hash=item34b7c88655:g:dX4AAOSwYNtkXP~k&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n8iTM4H%2Fw1OEJkOH17QC%2FSmtHVMoaj8GjL1KXrFfSB5OKeXU7NI9SPPjbVPfDPLeOeN0Px%2F6xtLbohGN04VjkaiD6eiT2KX%2FNn%2FlffmYC3qa2nDFEstaohaD3XcYw68DQfVMLfVHpPuRHrkFBDVz6nkdXvEfKjNGr%2Bt3O46ut1G4sXP4eP6ZUH8Wr5W1%2BtoSzS1RPXRGeyre8KIW3%2BoL0DCXhg6JZuWxjvB%2F0LTX9%2B8azVf6juG3Tup1FBKzDOfkrLEjR%2BvlFS3l7WnKQFLrumExQTZALYzxu5ALB1Dqk56Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/226421671509?_skw=%C3%A9cran+pc&hash=item34b7c88655:g:dX4AAOSwYNtkXP~k&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n8iTM4H%2Fw1OEJkOH17QC%2FSmtHVMoaj8GjL1KXrFfSB5OKeXU7NI9SPPjbVPfDPLeOeN0Px%2F6xtLbohGN04VjkaiD6eiT2KX%2FNn%2FlffmYC3qa2nDFEstaohaD3XcYw68DT13QKKwlXRpidn0Fp%2FVFhFFRTaHiaExR7mnnnv89eaW6mK6aZvjlV6G%2BX3E8ZAyE81iWFv4Dpfq3mrXmFk2rHQrrn3kvDTqgnLirjVlRKrZT%2FNdVpTivpehWdz2Hg48e%2FmaaesZt8B3jxoaCWLa3%2FA47YTRKxCFAZ2U1p8Kkot1A%3D%3D",
    "posted_at": "2024-10-28T15:07:37+00:00"
   },
   {
@@ -530,24 +578,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/900077805399?_skw=ddr4&hash=itemd190d15f57:g:FQQAAeSw8ZNq8dBU",
    "posted_at": "2026-11-09T13:54:26+00:00"
-  },
-  {
-   "title": "ACER VERITON M460 STEEL PC CASE GAMING VINTAGE FULL METAL ACIER RETRO BON ETAT",
-   "price_raw": "45.94 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/178232897303?_skw=boitier+pc&hash=item297f822f17:g:dXsAAeSw8hBqM5pe",
-   "posted_at": "2026-06-18T07:14:01+00:00"
-  },
-  {
-   "title": "Imprimante Epson Ecotank ET-2951 (Via 40€ d'ODR)",
-   "price_raw": "189,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-epson-ecotank-et-2951-via-odr-40-eur-3449865",
-   "posted_at": "2026-11-09T12:38:34+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1552,
-  "models_with_reference": 28
+  "listings_seen": 1556,
+  "models_with_reference": 29
  }
 }
