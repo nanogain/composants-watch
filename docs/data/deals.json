@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-09T09:08:00Z",
+ "generated_at": "2026-11-09T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 333,
-   "last_ok": "2026-11-09T09:08:00.620821+00:00"
+   "items": 334,
+   "last_ok": "2026-11-09T09:38:00.624991+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-09T09:08:00.620821+00:00"
+   "last_ok": "2026-11-09T09:38:00.624991+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-09T09:08:00.620821+00:00"
+   "items": 386,
+   "last_ok": "2026-11-09T09:38:00.624991+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-09T09:08:00.620821+00:00"
+   "items": 28,
+   "last_ok": "2026-11-09T09:38:00.624991+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FQjopcq6NtbwDSA2Jfyi3H3hV%2FE7yZnlMQapyFYEgFqXAkpo7IC6lr6uoiZSiEA5K1YcdnLziv09b21iCj76inr%2FOvH%2FlaHQUQnpUfYa%2Bwtw1LQgeq7dUi%2FfP1ujuQanpeaCuyXIjjuMS6kfXs%2FxDohjH5VjKAmeHFhkIXHVNOiQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8W9Ipo0TDec2YJq3fCX2%2FarifHE8BSyZ5cQoyweo6Zlv2xjJs%2BULryoyYGYy0krm00TQGk%2B0766NBU2rvav57ZVzdJu4CMFqQhPBGX%2FZ5UV7UhdVmF%2BAdzXgu0WNTHdTq8AjsIoUZHPm52b9psw96MR7vgDf3BGFzKL%2FJdTAr%2BEw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -177,6 +177,23 @@
    "posted_at": "2026-11-02T10:02:33+00:00"
   },
   {
+   "title": "SSD Western Digital PC SN730 512Go NVMe M.2 2280 PCIe Gen3 x4 – Disque SSD",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 44.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 44.99,
+   "median_eur": 59.99,
+   "discount_pct": 25.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · refectio (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366796446759?_skw=ssd&hash=item5566c59c27:g:SZMAAeSwcJNq8Y5n",
+   "posted_at": "2026-11-09T09:16:07+00:00"
+  },
+  {
    "title": "SSD Interne M.2 NVMe Netac NV7000- t - 1 To, 7400 mo/s, Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -209,6 +226,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/memoire-ram-forgeon-cyclone-pro-rgb-32go-2x16go-ddr5-6000mhz-cl36-intel-xmp-amd-expo-noir-3449400",
    "posted_at": "2026-11-09T00:29:41+00:00"
+  },
+  {
+   "title": "SSD Micron 2300 512Go NVMe M.2 2280 PCIe Gen3 x4 – Disque SSD",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 59.99,
+   "discount_pct": 16.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · refectio (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366796441853?_skw=ssd&hash=item5566c588fd:g:CEoAAeSwZbpq8Yzk",
+   "posted_at": "2026-11-09T09:11:38+00:00"
   },
   {
    "title": "Crucial 16 Go DDR4-3200 SODIMM PC4-25600 CL22 – CT16G4SFRA32A",
@@ -246,6 +280,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Imprimante 3D Elegoo Centauri Carbon 2 Combo",
+   "price_raw": "349€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-elegoo-centauri-carbon-2-combo-3449530",
+   "posted_at": "2026-11-09T07:20:36+00:00"
+  },
   {
    "title": "NAS UGREEN NASync DXP2800 + UPS 120W - 2 baies, Intel N100, 8Go DDR5, 2x M.2, 2.5GbE, HDMI 4K (vendeur tiers)",
    "price_raw": "408,88€",
@@ -289,13 +330,6 @@
    "posted_at": "2026-11-09T07:07:51+00:00"
   },
   {
-   "title": "Samsung M425R2GA3EB0-CWM0D 16GB 1Rx8 PC5-5600B DDR5 SODIMM Laptop Memory RAM  b",
-   "price_raw": "134.86 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267838325584?_skw=ddr5&hash=item3e5c688350:g:ypwAAeSw9mhq1f-O",
-   "posted_at": "2026-11-09T06:55:46+00:00"
-  },
-  {
    "title": "Samsung M425R2GA3BB0-CWW 16GB 1Rx8 PC5-5600B DDR5 SODIMM Laptop Memory RAM  b",
    "price_raw": "134.86 EUR",
    "source": "ebay",
@@ -320,14 +354,14 @@
    "title": " Carte mère 820-3437-B 2013-2017 i5 1,3GHz 4Go Apple Macbook Air A1466",
    "price_raw": "49.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/236047287958?_skw=carte+m%C3%A8re&hash=item36f583c696:g:2o4AAOSwKTFmYWKt&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n5RgoWwgHRWUPj9elZripKS1B3f1JKhJn%2FtFTcq2KliDP%2BeE8HqpQikXl8CuxeKHNTCvMiit5C5nImUtxaj8lBzNCy2oGTVDKXcDZs8yYWyvJHW1gqYXvycofk1hVGBXe%2B8M5fIrkFo0KKSPmCPuTmkv3mtSbXC%2FR5rvfoSAR9627aUeXHRMJobXmWmZ64VzsG1FSNqaerhhNMmVBPe60pRXV7zTo%2BSZNtkkWbf9vmT80nO1fKZT8NUKN%2BhYaPKvfM3HgO5Ouwv0HA%2BhhTofGxbqVP2qgb3DK0tRLSFx1huA%3D%3D",
+   "url": "https://www.ebay.fr/itm/236047287958?_skw=carte+m%C3%A8re&hash=item36f583c696:g:2o4AAOSwKTFmYWKt&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n5RgoWwgHRWUPj9elZripKS1B3f1JKhJn%2FtFTcq2KliDP%2BeE8HqpQikXl8CuxeKHNTCvMiit5C5nImUtxaj8lBzNCy2oGTVDKXcDZs8yYWyvJHW1gqYXvycofk1hVGBXfKhVts6Uy2oITvmavBGQS%2Fsew4QXxX5et1WyzuXIxeSMCULjqJSZ6Gosw9NW2Ne39EPZoiNv8X%2FVFwF%2Byn81PDnWDDtYQNzAe6W24oRj7Rff%2FkwgWCvjRhfhBBGIyW2ab6jPNwBXWkqpQQ01a2hZ770ssHO8XJll3PZ%2FQ1b%2FhpmA%3D%3D",
    "posted_at": "2025-04-10T18:48:33+00:00"
   },
   {
    "title": "Carte graphique Sapphire capot-X HS 4890 1gb",
    "price_raw": "26.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839811919?_skw=carte+graphique&hash=item4a3c556f4f:g:sLEAAeSwwetqnv51&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mAc77L0DDvkzzUvN4FXNIPm2eCz2AjO6inS51Guq5B54VOgAM6r5t4CWMMXX0jkBBHVj5p6%2Fo%2BkQ6Zp0YOWzo%2FIxnryflxj5sHQ4QP4lhBxPD9NBe71mtWQ2UK8VhrPeu3QZL2EocvosdTMWpMqIW%2BjZJex72DHp2dccvsm49%2FZXHeSktvrtcA1DT6om2vJ%2FgqvWRWOAjNCV%2Bp0iNx8rbejFX%2FGrGeF7VWdcIsAQmf6rpv%2FLmMA6o%2F1CzcAARnFShRh8gE2FQlvwDhoOVE%2FVL6EduL2G94s4AgLxIz%2B34bmQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839811919?_skw=carte+graphique&hash=item4a3c556f4f:g:sLEAAeSwwetqnv51&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mAc77L0DDvkzzUvN4FXNIPm2eCz2AjO6inS51Guq5B54VOgAM6r5t4CWMMXX0jkBBHVj5p6%2Fo%2BkQ6Zp0YOWzo%2FIxnryflxj5sHQ4QP4lhBxPD9NBe71mtWQ2UK8VhrPevoqGRh0SQBifNwii7jnHYdnPvAs3FgkK42OSwhstwVNiyZkS5EvhHmS%2FJYdKkye6H3xht2AMO5oIauJPp2TUkJZ7BPgzv2zdVhTeKiH80nFoA%2F1l6ZsP76GNi0r6qe1xwRUWpN088MD5JjhWiitcfolQ7jMWByNybHDrVTenw6pg%3D%3D",
    "posted_at": "2026-09-07T18:15:22+00:00"
   },
   {
@@ -345,10 +379,17 @@
    "posted_at": "2026-11-02T20:01:06+00:00"
   },
   {
+   "title": "Processeurs Intel Core i3 i5 i7 Xeon E5 – LGA 1150 1151 1155 – Plusieurs modèles",
+   "price_raw": "10.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377488237358?_skw=processeur&hash=item57e40d632e:g:cC4AAeSwf8pqo87r",
+   "posted_at": "2026-09-12T22:00:43+00:00"
+  },
+  {
    "title": "Carte mère Lenovo IS8XM Rev 1.2 LGA1150 micro-ATX DDR3  testée",
    "price_raw": "20.76 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257832413407?_skw=carte+m%C3%A8re&hash=item3c080268df:g:reQAAeSw14Fq6fu5&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kGuGWmIgGtDBl6eWcH7jKjiSKM2qgc0ll17yOwqDZqeoDxXwrrmWOje%2BvF3wKPP5p6JhUrRP6lORrsgij7g0uLNzK1BvCbF1p3f8Pg0SGX9xqdtc6fpfqn%2F4egBT%2BUBIZR3lYrVVZr5EyPsZL2TdQoQw3vluB0cjEIXjtDa5ao3aD2dF5OOUQYZ5l0vqspICbKo33Ejun4YUY26yYz0Z0Dw7qT8pUbqYKt%2BquxQk1hnGARdXD2QB8VBR8O3hmHgfdyhqPo%2BL8JKiw%2BvsaYjEsaDq4CgzgulYd4VtzjBRi03w%3D%3D",
+   "url": "https://www.ebay.fr/itm/257832413407?_skw=carte+m%C3%A8re&hash=item3c080268df:g:reQAAeSw14Fq6fu5&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kGuGWmIgGtDBl6eWcH7jKjiSKM2qgc0ll17yOwqDZqeoDxXwrrmWOje%2BvF3wKPP5p6JhUrRP6lORrsgij7g0uLNzK1BvCbF1p3f8Pg0SGX9xqdtc6fpfqn%2F4egBT%2BUBIZR3j5hwSYia%2BQPTRRorD1fH2Mzmhs0Idv%2FQPSHqtxTR%2BQyEXJ9VYzD2ueJjnUCoB9OUds4Q8cXNt7v2DjyLpXbJuYsH9PqLtX9YVWPzABYYliefeApzTKuTYMHctCY%2Bns0BlqSDye6U9p6osSR5V839rm4wp56UY4TagyJuQImaQ%3D%3D",
    "posted_at": "2026-11-03T15:44:27+00:00"
   },
   {
@@ -376,7 +417,7 @@
    "title": "Carte mère pour HP ELITEBOOK 840 G3 850 G3 / INTEL CORE i5-6300U DDR4",
    "price_raw": "80.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/376177123955?_skw=carte+m%C3%A8re&hash=item5795e76273:g:2IgAAOSwsj5jff44&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nK395gzdgRUsM1rX32nhmX%2FxYimNhKEnyRixm%2FsNoZpAhdsziFLcQDOaicL3%2BFfRnriusFGLaWPUeGKf2ESO2GlyGJJwPmPKHMstsCZ%2FtYIm3Iee5WX1Z%2B63pFVEbyEMqjhPS1kHdurFnc9JyBdOgDU9MMOMQMfWSlLu2g4mR0gwdHrYB5eKEqRxRHFrksZcB0kCZmOVn1dnbZHhNzeCnFXjnhGDNE6%2BJqk8pLl72xpakxvnhAQB5GmKBCb2J3JkQrl4p4TPHJ4I7HnvlE3i4AS5DDKmdS0WLEDwetudejiQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/376177123955?_skw=carte+m%C3%A8re&hash=item5795e76273:g:2IgAAOSwsj5jff44&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nK395gzdgRUsM1rX32nhmX%2FxYimNhKEnyRixm%2FsNoZpAhdsziFLcQDOaicL3%2BFfRnriusFGLaWPUeGKf2ESO2GlyGJJwPmPKHMstsCZ%2FtYIm3Iee5WX1Z%2B63pFVEbyEMr3p8EOC5jjemkRteOkQuEEAl8zub%2F2eAx92zCxIYE9toT6JvpfwgCHDIworGZdiBNJoBhtjJvC3ELwNDF9ANG%2FFhcShOPR3B3Y2hIwAFBAhzz8seq%2Fuq6dT3mVpEsG0zq50URaDWrzQokQS5Vd8%2Fh3bQCq%2BQPciedyp58%2Fb0%2FPVQ%3D%3D",
    "posted_at": "2025-04-17T14:49:06+00:00"
   },
   {
@@ -436,13 +477,6 @@
    "posted_at": "2026-11-08T22:30:29+00:00"
   },
   {
-   "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-3200AA M471A5244CB0-CWE",
-   "price_raw": "14.87 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685318690?_skw=ddr4&hash=item301f67ae22:g:cDwAAeSw2qZq8PI6",
-   "posted_at": "2026-11-08T22:08:17+00:00"
-  },
-  {
    "title": "Souris gaming Razer BASILISK V3",
    "price_raw": "49,99€",
    "source": "dealabs",
@@ -467,14 +501,21 @@
    "title": "Ramaxel RAM 4 Go DDR4 SO-DIMM PC4-2666V 260 broches 1Rx16 100280746",
    "price_raw": "13.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685314836?_skw=ddr4&hash=item301f679f14:g:ni0AAeSw-mBq8PGt",
+   "url": "https://www.ebay.fr/itm/206685314836?_skw=ddr4&hash=item301f679f14:g:ni0AAeSw-mBq8PGt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mfvax%2B5pi0ZK%2F9nBE0JyJ8RzOjfLO5TipqyVE28adS0K2CuiG49r2u16O2aoKGFKef4AVvN5nu1%2FEfxekwVBlohqTsItgc9B20o3s2W%2B%2FqWXeGLTLOhxzcmJIqLvjdEKIVpN9N6kZPToo%2Bx7ywZzHb0BmkTUKo233KSPXfnCWXzKVBcNDrt9fb70wO9WaKYbTG9qly%2FZw1g6D5O75X9vqsj%2FYNqsam0IgJxE15o4f7oww%2B%2FNcAzcZxzvYLZCT7XjKjne0OSUT%2Bk7nXqa5I15oG",
    "posted_at": "2026-11-08T22:05:22+00:00"
+  },
+  {
+   "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches M471A5244BB0-CRC",
+   "price_raw": "12.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206685310429?_skw=ddr4&hash=item301f678ddd:g:zzQAAeSwZbdq8PBw",
+   "posted_at": "2026-11-08T22:00:26+00:00"
   },
   {
    "title": "SK hynix RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2666V 260 broches HMA851S6JJR6N-VK",
    "price_raw": "13.80 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7loLG0CFFPVx2ooBA7UplpNfMJ6No1wlf9VSg2GdWwE61NHRf5CDNKZBHeAVD92LOU7Fg6vNEy3Es6CdC3Ac%2BP7UfFQWIjyYPRHpJAvgx8J6I4148dg7lM11rfBNgaisB3ixiAlrEwnIzZQoJzJg4afUOolnEsfbrZ8ny6VZ%2FEw2QfLiC%2Bb3tTrST68Ncnv01pS2Ru8ifeTSYOEWmxNK88DN6C3g1wBL48o7YmbsP0rIoyKO4prafSqvJd2%2FQvUeE5ka7cSVu37f07dcoEeio7h",
+   "url": "https://www.ebay.fr/itm/206685313216?_skw=ddr4&hash=item301f6798c0:g:rCIAAeSwRSJq8PEX&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7loLG0CFFPVx2ooBA7UplpNfMJ6No1wlf9VSg2GdWwE61NHRf5CDNKZBHeAVD92LOU7Fg6vNEy3Es6CdC3Ac%2BP7UfFQWIjyYPRHpJAvgx8J6I4148dg7lM11rfBNgaisB0gbM%2F34QV5wFLb6R63vLok8HBElpiy%2B8POZCh0w%2B43WHKwGv16wx9LDmhHGonuINHPRE1QZ5pzLVQovZInUrZOKju4euVieCIc%2B3kWPW3pqQ93wNuTByMkvZM%2FlhFRCg14lDuoDRUNWd14CVWyYjAF",
    "posted_at": "2026-11-08T22:02:54+00:00"
   },
   {
@@ -588,17 +629,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/",
    "posted_at": "2026-11-08T17:08:45+00:00"
-  },
-  {
-   "title": "Disque SSD de 500G 2.5\" - Samsung 860 EVO SATA",
-   "price_raw": "47.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227604349611?_skw=ssd&hash=item34fe46c2ab:g:CiQAAeSwRHlq8KuW",
-   "posted_at": "2026-11-08T17:08:36+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1433,
+  "listings_seen": 1437,
   "models_with_reference": 26
  }
 }
