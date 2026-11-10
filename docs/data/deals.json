@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T16:08:00Z",
+ "generated_at": "2026-11-10T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 333,
-   "last_ok": "2026-11-10T16:08:00.619793+00:00"
+   "last_ok": "2026-11-10T16:38:00.679735+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T16:08:00.619793+00:00"
+   "last_ok": "2026-11-10T16:38:00.679735+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 395,
-   "last_ok": "2026-11-10T16:08:00.619793+00:00"
+   "items": 394,
+   "last_ok": "2026-11-10T16:38:00.679735+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-10T16:08:00.619793+00:00"
+   "items": 80,
+   "last_ok": "2026-11-10T16:38:00.679735+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaQF1xu2MSNp7uBibK0mJ6zEEHUS5bij%2FROEZEAnFBJzJa8UzWTf9Opj1PU7%2FkypBaivyNKXYMnEMVylFbNigwz3S55wz%2FTpWiR5qF3j7I%2FKBv%2F9DWTH4lOxKRQFD4qfeQ7ZYo2ZGJJgf961LQNQE8k",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIY6Bp8%2BmjnutP3YPGev%2FxdPNuDZWBsUmi%2FVLhPPvQ4rIagRzoaAFDupJhmLSfZ5iOKKy0D0e76onjupqR%2FoVfZFsgjVmH0C6YfktZoA4Ba1IasSktfRnZxoTQebQ7gAqUePlssogJBBYGXNPSyLv209",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8BJs%2BB2%2F16WSJi228IfKoe6W8%2FXafjF9l4hVP9tXk9rltkzq0Ja2v45zyJxj%2FaNqbFc9jZUYl5%2FkCmuWS%2FC%2Fd9Ylo0jnuVND2x%2F5DLoPQqNkGXaO9%2FlTMlf2rN7rDIwcbwU82xvEROMaXwLKLUlxNpMMVfedS%2Fio%2FynozBZ%2FbFWg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8ZdKemRPID5GCGK%2FaFj0ilouGTZV7EBPR9j%2BYaRk7HPHOffZMcT%2FNIqgT9wCTzaDvQXXhvG2vmSmoQlTgrQNRHYkc88MsMD5M%2BNZkm7Q%2BFslzSNHsrRRxbgALVRIa7TjUrAZS2BsTw%2BkUZLdhAdW45I9HdatybdOY2P2k55o3NGQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -264,6 +264,34 @@
  ],
  "unclassified": [
   {
+   "title": "[Other] Nintendo eShop $200 Gift Card (Email Delivery) - $168 (w/code: BNWF2674)",
+   "price_raw": "$200",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsr2uo/other_nintendo_eshop_200_gift_card_email_delivery/",
+   "posted_at": "2026-11-10T16:17:26+00:00"
+  },
+  {
+   "title": "Mémoire 4Go RAM DDR4 Kingston",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327449735945?_skw=ddr4&hash=item4c3d867309:g:oJEAAeSw4UFq80Nl",
+   "posted_at": "2026-11-10T16:17:56+00:00"
+  },
+  {
+   "title": "Mémoire RAM DDR4 Samsung 4 Go 1Rx16 PC4-2666V",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327449715474?_skw=ddr4&hash=item4c3d862312:g:5lwAAeSwdMZq80GG",
+   "posted_at": "2026-11-10T16:11:02+00:00"
+  },
+  {
+   "title": "Mars Gaming MCS2 Boîtier PC Gaming Compact MicroATX 2 Ventilateurs FRGB Ra",
+   "price_raw": "43.65 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132622707?_skw=boitier+pc&hash=item5a9a1c9b73:g:O~IAAeSwCmNo-Ts5",
+   "posted_at": "2025-10-23T03:28:55+00:00"
+  },
+  {
    "title": "Asus ROG AZOTH Extreme Clavier gaming sans fil (USB/Bluetooth/RF 2,4 GHz)",
    "price_raw": "389.00 EUR",
    "source": "ebay",
@@ -276,13 +304,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-souris-gaming-sans-fil-ultra-legere-tmice-g13-54-g-capteur-optique-paw3395-26-000-dpi-8k-hz-bluetooth-3451248",
    "posted_at": "2026-11-10T15:15:04+00:00"
-  },
-  {
-   "title": "Barrette mémoire Samsung  8Go  PC4-3200AA DDR4 SDRAM",
-   "price_raw": "28.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366799443717?_skw=ddr4&hash=item5566f35705:g:1SMAAeSwqmZq8zYh",
-   "posted_at": "2026-11-10T15:20:15+00:00"
   },
   {
    "title": "[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)",
@@ -591,31 +612,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147514803792?_skw=ddr5&hash=item2258914650:g:a6EAAeSweAVqhYRJ",
    "posted_at": "2026-08-19T10:25:14+00:00"
-  },
-  {
-   "title": "[Headphones] Bose QuietComfort Noise Cancelling Headphones, Certified Refurbished $123",
-   "price_raw": "$123",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsap7g/headphones_bose_quietcomfort_noise_cancelling/",
-   "posted_at": "2026-11-10T02:02:00+00:00"
-  },
-  {
-   "title": "[Combo] Newegg 16GB DDR5 combos are back - GIGABYTE B850M EAGLE WIFI6E AMD AM5 MATX + AMD Ryzen 5 9600X + T-Force Delta Alpha RGB 16GB DDR5 6000 - $$518.98",
-   "price_raw": "$518.98",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsa9s7/combo_newegg_16gb_ddr5_combos_are_back_gigabyte/",
-   "posted_at": "2026-11-10T01:41:26+00:00"
-  },
-  {
-   "title": "[FAN] Thermalright TL-C14C-S X3 140mm Silent Black RGB Computer Cooling Fan, 1500RPM High Speed, 4-Pin PWM Connector, 3 Packs - $9.50 (50% off)",
-   "price_raw": "$9.50",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsa231/fan_thermalright_tlc14cs_x3_140mm_silent_black/",
-   "posted_at": "2026-11-10T01:30:58+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1644,
-  "models_with_reference": 35
+  "models_with_reference": 34
  }
 }
