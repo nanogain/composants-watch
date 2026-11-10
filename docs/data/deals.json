@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T05:08:00Z",
+ "generated_at": "2026-11-10T05:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 334,
-   "last_ok": "2026-11-10T05:08:00.619522+00:00"
+   "items": 335,
+   "last_ok": "2026-11-10T05:38:00.678884+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T05:08:00.619522+00:00"
+   "last_ok": "2026-11-10T05:38:00.678884+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 397,
-   "last_ok": "2026-11-10T05:08:00.619522+00:00"
+   "items": 396,
+   "last_ok": "2026-11-10T05:38:00.678884+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 33,
-   "last_ok": "2026-11-10T05:08:00.619522+00:00"
+   "items": 78,
+   "last_ok": "2026-11-10T05:38:00.678884+00:00"
   }
  },
  "watchlist": [
@@ -41,6 +41,23 @@
  ],
  "opportunities": [
   {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 274.99,
+   "discount_pct": 63.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
    "title": " Netac 8go ddr4 3200 8go C22",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -54,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbDmIHGmYBCyeWERocKVryMwVyyjarcoKsLyscxpN1n46jQzBUARizw6EB5d6n7o%2FzFZDbPY53XHXf%2BjDbXHnrDSEbD1qjJqr3xkiJYR68dLPvrrlRzxEwtBsgiM%2BfRVQLrp%2BCvDBNTU591DZTEBuwu",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYM1EdPDZM%2FMJ5jpk95QoFJZSFbbDRdjGOrUzTcZPvuARvYBLZqbUP8G2GKtK%2F0s%2FMenb0NuCEuvfPEO9KskM87FLwLCd5lUlsoH9xmuq4uXgYfmjNosgYKq19CMVRKTuMoNgiW%2Be%2B4yVQ5WCHUCFlI",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -73,23 +90,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h4d-qhd-fast-ips-240hz-oc-275hz-hdmi-20-dp-14-vendeur-tiers-3447721",
    "posted_at": "2026-11-06T12:29:59+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 274.99,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Bloc Alimentation PC Lenovo Delta DPS-280FB G FRU 41A9684 280W",
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fx5Xoqa29U540Ok0VgC9Fq31afTYOBR104NIDJca7BZDtVKdxerGHMlqQLlWiMrHJmTugSy5UiLl87eSNIFGkUx%2BXl0GXigzjK26adjTjXDUcPkZ79Ytsm5PZ4Y1QdilZGFSvisGdcP3V1CrduIgXPoM7HpmBcvrLr1K6Q3pARxQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8jlvva0Na0jlygrHiKC60Njdxoyl87HL3%2B1SZKzTo3Iz9a%2BIs0NCsBiof3sv8H8RsN7qhnloQigLMUOIhaD4MF21HQxFsMO4kPaItzidM6Y4DRWqj4sZhEb%2FiOjnojnOK3HOQpyL9xpX5sUGNb32sEhz1RizAiUp4ypT01ddO62w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -171,7 +171,7 @@
    "discount_pct": 26.3,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · night-2840 (98,8 %, 834 avis)",
+   "merchant": "eBay · night-2840 (98,8 %, 835 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860121388130?_skw=ssd&hash=itemc8433ad462:g:mOcAAeSw-UNq5D3S",
    "posted_at": "2026-11-07T09:59:03+00:00"
@@ -211,23 +211,6 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
-   "model": "SSD:NVMe-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 22.44,
-   "shipping_eur": 0.0,
-   "effective_eur": 22.44,
-   "median_eur": 28.63,
-   "discount_pct": 21.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 378 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
-   "posted_at": "2026-11-09T11:03:45+00:00"
-  },
-  {
    "title": "SSD Micron 2200S 512Go NVMe M.2 2280 PCIe Gen3 x4 Dell - Santé 93%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -264,6 +247,20 @@
  ],
  "unclassified": [
   {
+   "title": "TOPDON ArtiDiag800 BT, outil de diagnostic automobile, scanner OBD2 pour tous les systèmes",
+   "price_raw": "230,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/topdon-artidiag800-bt-outil-de-diagnostic-automobile-scanner-obd2-pour-tous-les-systemes-3450503",
+   "posted_at": "2026-11-10T05:23:51+00:00"
+  },
+  {
+   "title": "[Prebuilt] PowerSpec G740 - Ryzen 7 7700X, RTX 5060 Ti 16GB, 32GB DDR5 6000, 1TB NVMe - $1499.99 @ Micro Center",
+   "price_raw": "$1499.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xseja7/prebuilt_powerspec_g740_ryzen_7_7700x_rtx_5060_ti/",
+   "posted_at": "2026-11-10T05:17:49+00:00"
+  },
+  {
    "title": "SK hynix 4Go DDR4 DIMM PC4-2666V HMA851U6CJR6N",
    "price_raw": "10.69 EUR",
    "source": "ebay",
@@ -276,6 +273,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/398358848143?_skw=watercooling&hash=item5cc009a28f:g:4KgAAeSw7BNqmtMS",
    "posted_at": "2026-09-04T14:21:48+00:00"
+  },
+  {
+   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
+   "price_raw": "342.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
+   "posted_at": "2026-10-03T12:36:35+00:00"
   },
   {
    "title": "🟢Mémoire SO-DIMM DDR4 8 Go PC4 3200AA Samsung 1Rx8 Occasion 1 pièce",
@@ -365,7 +369,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx2AsjwKykSzLCZKjYBksOFsbqqgv6%2FwgrSoZ83taUt2LDRHUSFM07W6cGJ1CuxOTklT0HmSwzu0knYo5f2IMdGJPSi6WGX9Yc%2BER%2BxfJC%2BGSX%2FC6AkCa%2BE1vWTxhfKDmNmqyJ1zjku4MQaPP7jZ1aiD",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx1VQrUSpPCz%2FJE3DT%2FMk1GkmNLaLgwQ35NQ2i9qET3KE4Cb%2BMbHY5PaGqW1IduzZJAGsaQHru%2F8eYxADp2NrrYGTPiDS6bUgvEXUDXUQJ9cu0xuKCDgL4xh3lOabog6mu9kIm4Rrf3RNYV%2BqDvnZ5Rw",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -456,7 +460,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLduOGJB0fnNSm%2Bu1T0SNnUck8VvthM8PWvr%2BZuNHl5tpZ7e1pNT0n6f1oi0O2hcwXhF3U6C5SXnqNQk4PKcPfSaUZgNLcLw%2BgUiFSqJdDyYhYS5y28AEukNUC2tszDhghmNdQnyTUe6JMoRm5naBNvqiIaSv2pVr8xA21ogPE04Aiw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdvyrh%2FprYRlWuRsPnIkCgD%2Br7uxJ2o73Tts2wSuJQVLD3QL1JIzeT4EeUQ38c%2FIz2fq4udTHgPCPGDIvysDUo6Hky9sJAdNELoX3W9Ra00LC6dm7lSpCTHu11FSsK5mknnRxh1ysqQ4cqkz6eDV8jBgxixp5SJoHzEWr8macdOvvQ%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -591,31 +595,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-thinkpad-l460-8go-ssd-256go-grade-b-vendeur-tiers-3450063",
    "posted_at": "2026-11-09T15:58:22+00:00"
-  },
-  {
-   "title": "[Prebuilt] AMD Ryzen 9 9900X - GeForce RTX 5080 - Windows 11 Home - 32GB RAM - 2TB SSD - $3200 (potential price drop on 11/16 to make it $2800, look at comments)",
-   "price_raw": "$3200",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xrvgc9/prebuilt_amd_ryzen_9_9900x_geforce_rtx_5080/",
-   "posted_at": "2026-11-09T16:00:18+00:00"
-  },
-  {
-   "title": "Processeur Intel Core Ultra 5 235T- 14 coeurs - up to 2.20GHz - LGA 1851 ",
-   "price_raw": "169.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377633159615?_skw=processeur&hash=item57ecb0b9bf:g:GnEAAeSwrV1q8ex9",
-   "posted_at": "2026-11-09T15:56:44+00:00"
-  },
-  {
-   "title": "Processeur Intel G3220 - BOX - Socket 1150",
-   "price_raw": "16.15 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900077953992?_skw=processeur&hash=itemd190d3a3c8:g:syIAAeSw7mRq8eJh",
-   "posted_at": "2026-11-09T15:12:25+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1578,
-  "models_with_reference": 30
+  "listings_seen": 1585,
+  "models_with_reference": 31
  }
 }
