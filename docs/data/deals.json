@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T13:08:00Z",
+ "generated_at": "2026-11-10T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 331,
-   "last_ok": "2026-11-10T13:08:00.672897+00:00"
+   "items": 334,
+   "last_ok": "2026-11-10T13:38:00.631552+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T13:08:00.672897+00:00"
+   "last_ok": "2026-11-10T13:38:00.631552+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-10T13:08:00.672897+00:00"
+   "items": 389,
+   "last_ok": "2026-11-10T13:38:00.631552+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 67,
-   "last_ok": "2026-11-10T13:08:00.672897+00:00"
+   "items": 80,
+   "last_ok": "2026-11-10T13:38:00.631552+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa12yM5m9NbCNiB%2B5VbrnDT2p0wF9hD1iCiUYFV0L0gpsHrLqnNNffBAYG%2FU3atkoilUf%2FvucBJ0373QEbKwhZ8%2BmdVSK8SzlEhlqLL2qLOQIR5jlHIHYYqUkW9nSUS6DFX%2FAqvfgBCUjAildJafIgc",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb6ODiprWhiSvV%2BBh78QS77%2FvYVJctalt64PIl3QyfAB0f2qgiMOBD%2FTFgrzuh34Fonxwb5M%2FXhpj5yxl0SIDdQpP9YoXhYjYFyVbEu0GWUnnYgLsUT98cBfiaak0xVBE1z8NVZpyKexOsXqRZLM2J9",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h4d-qhd-fast-ips-240hz-oc-275hz-hdmi-20-dp-14-vendeur-tiers-3447721",
    "posted_at": "2026-11-06T12:29:59+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 289.99,
+   "discount_pct": 41.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "SSD interne Netac NV3000 M2 - 1 To",
@@ -109,23 +126,6 @@
    "posted_at": "2026-09-21T19:39:03+00:00"
   },
   {
-   "title": "SSD Interne M.2 NVMe CUSU CV3500Q - 1 To",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 94.77,
-   "shipping_eur": null,
-   "effective_eur": 94.77,
-   "median_eur": 149.99,
-   "discount_pct": 36.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-cusu-cv3500q-1-to-3445301",
-   "posted_at": "2026-11-03T13:34:10+00:00"
-  },
-  {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
    "model": "MB:B850",
    "category": "MB",
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2F7YqXl%2BVeGt%2FhnF9LGPOezjjQht3ZjVbwxv7KcA39KZcaKS85KJSQBzB8KkyC4Li35K2xMKFKE0keYP9dBGRmxtdr3GTqlwEn7f8nwlddzNjjhXnSH7gwGe6gqw%2FKDlPtg%2FJvI3GpIoBUZADOeDhS1YmYT6T90dzjaJHAX7dsC6g%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8G1%2BI%2BUvMnnyoeDzNmKKXZlHc2sah95xxYxKhU8wu5vZSKnaXTv%2F4N5MptqoNx1%2BcYSLC14Z9VQS2B%2F4m3PR%2FcpamsSiJGg8xO6U1L0uRnlFPXHivw04O%2B%2FtInCGbW4U87dfgJBheSj08WGaSJdLr0N7vb7rHpOJDoFjgUWDXABw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -263,6 +263,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Tablette Xiaomi Pad 7 - 8/256Go, 11.2\" 3.2K 144Hz, Snapdragon 7+ Gen 3, 8850mAh, Wi-Fi (182.35€ via Paypal)",
+   "price_raw": "202,35€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-xiaomi-pad-7-8256go-112-32k-144hz-snapdragon-7-gen-3-8850mah-wi-fi-18235eur-via-paypal-3451099",
+   "posted_at": "2026-11-10T13:32:00+00:00"
+  },
+  {
+   "title": "Mini PC CHUWI Ubox - Ryzen 5 6600H, 16 Go LPDDR5, SSD 512 Go, Radeon 660M, Wi-Fi 6, BT 5.2, Windows 11 Pro (209.57€ via Paypal)",
+   "price_raw": "229,57€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-ubox-ryzen-5-6600h-16-go-lpddr5-ssd-512-go-radeon-660m-wi-fi-6-bt-52-windows-11-pro-20957eur-via-paypal-3451092",
+   "posted_at": "2026-11-10T13:29:16+00:00"
+  },
+  {
+   "title": "Switch Ethernet TP-Link LS1005G - 5 ports RJ45 Gigabit, sans ventilateur",
+   "price_raw": "9,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/switch-ethernet-tp-link-ls1005g-5-ports-rj45-gigabit-sans-ventilateur-3451083",
+   "posted_at": "2026-11-10T13:22:53+00:00"
+  },
+  {
+   "title": "Mini PC Barebone (Sans RAM/SSD) CHUWI Aubox - Ryzen 7 8745HS, 780M, Wi-Fi 6, BT 5.3 (2 slots SO-DIMM DDR5 2 x 32 Go & 2 x M2 2280 2 x 1 To)",
+   "price_raw": "189,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-barebone-sans-ramssd-chuwi-aubox-ryzen-7-8745hs-780m-wi-fi-6-bt-53-2-slots-so-dimm-ddr5-2-x-32-go-2-x-m2-2280-2-x-1-to-3451081",
+   "posted_at": "2026-11-10T13:22:19+00:00"
+  },
   {
    "title": "Boîtier PC Corsair iCUE 5000T - Blanc, verre trempé, façade/dessus en maille, jusqu'à 10 ventilateurs 120 mm (Vendeur tiers)",
    "price_raw": "114,90€",
@@ -425,13 +453,6 @@
    "posted_at": "2026-07-25T04:20:59+00:00"
   },
   {
-   "title": "Processeur CPU AMD PRO A10-8700E AD877BAHM44AB 3.5 GHz AM4",
-   "price_raw": "8.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/306760414243?_skw=processeur&hash=item476c587423:g:vm4AAeSwkSxq7M6L",
-   "posted_at": "2026-02-09T14:17:06+00:00"
-  },
-  {
    "title": "NAS UGREEN NASync DH4300 Plus + onduleur US2000 - 4 baies, 8 Go RAM, 2.5 GbE, HDMI 4K, 128 To max (vendeur tiers)",
    "price_raw": "364,88€",
    "source": "dealabs",
@@ -568,7 +589,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx1FXAbcZHqPf1o3zU8Vzw7QwdHdh7D7YF1aT7IsLqQwzaQSskZTmFB5n9MUrmvAwPgq%2FE7Lr1rLpkLBMZfrUPUMd18Pvq0942itdWAwyBdsgQWDYGxz8XtP4I1w9SQjBDWHPkOwYAyc4pAdxgZVU5sI",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx0DB%2FafAh%2FZ%2B9Cyi8Wa1lTpxjl4nOcS18XsBEtoAlXIDuSuMNp6SRy81c3nXCctTKduOgJ5uMLBOAnw4Z7NIsf80U6aXSdZKBDV2keHnGqUpQ3BjkrBojsSihV7xU3NE1FSWKaZV32%2FX1kwe3OqZswQ",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -591,31 +612,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xs6i23/cpu_amd_ryzen_7_9850x3d_amazon_ss_419_ac/",
    "posted_at": "2026-11-09T22:54:32+00:00"
-  },
-  {
-   "title": "[CPU] AMD RYZEN 7 9800X3D, Amazon S/S, $400",
-   "price_raw": "$400",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs6b9z/cpu_amd_ryzen_7_9800x3d_amazon_ss_400/",
-   "posted_at": "2026-11-09T22:47:04+00:00"
-  },
-  {
-   "title": "Stylet Wacom Pro Pen 2",
-   "price_raw": "79,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/wacom-pro-pen-2-3450334",
-   "posted_at": "2026-11-09T22:21:32+00:00"
-  },
-  {
-   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM SK hynix PC4-3200AA 260 broches HMAA2GS6CJR8N",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147673629634?_skw=ddr4&hash=item226208c3c2:g:0E8AAeSwBXNq8Kd7",
-   "posted_at": "2026-11-09T21:14:51+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1616,
-  "models_with_reference": 31
+  "listings_seen": 1618,
+  "models_with_reference": 32
  }
 }
