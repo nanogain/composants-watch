@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T21:08:00Z",
+ "generated_at": "2026-11-10T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 338,
-   "last_ok": "2026-11-10T21:08:00.676008+00:00"
+   "last_ok": "2026-11-10T21:38:00.643994+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T21:08:00.676008+00:00"
+   "last_ok": "2026-11-10T21:38:00.643994+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-10T21:08:00.676008+00:00"
+   "items": 392,
+   "last_ok": "2026-11-10T21:38:00.643994+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 33,
-   "last_ok": "2026-11-10T21:08:00.676008+00:00"
+   "items": 2,
+   "last_ok": "2026-11-10T21:38:00.643994+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": " Netac 8go ddr4 3200 8go C22",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 31.9,
-   "shipping_eur": 8.0,
-   "effective_eur": 39.9,
-   "median_eur": 102.84,
-   "discount_pct": 61.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZ8lJoEbOjbcWx3PBOz4eZwEecZhYLtbkf2EyBpZewNoL%2F1Civ6rk%2FASl4aogRyhADlXqHB97mCAQgxmKC2tyXe948qh18L1iI2GAhHTAQ2O9qMk%2FTX1Mg24rq3OLDDUxFVZo0tdkc68I0no4xDdy%2FY",
-   "posted_at": "2026-10-24T22:43:47+00:00"
-  },
   {
    "title": "Ecran Pc 27\" HKC G27H4D - QHD, Fast IPS 240Hz (oc 275hz), HDMI 2.0, DP 1.4 (Vendeur tiers)",
    "model": "MON:27-QHD-240Hz",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAuFCWvmf0K%2Bd4tW7pqxGvdgCShJQdn%2F9dgZLuc6E2qviZBR2t0RtoBb3YOMTfKuFpd6cKFCntS6WR6b7RYdaXN1kh70UqJmKwoBWehHQEpXC%2FwVuuZwSgZn1CXllRu9PqyK2q77sBvEEoVk7Ntep%2BR",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -173,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BqMzJ9bcSkE9PLmacJkVjzmLXg7OEc5coYQqI6lUNyIpekdqlKRmcqxZVbCKqcQk048TPHgiDCok6A1NZ2EpXBlRUd2bikGnY9%2BIaDIUwrrBF1lKPlMNXV4jZMamE4LXewebQ2l7mw1bkDoA8Fj35TuWBJjeuHuRBz%2Bqark5jegQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FP7bxuBjDO7k33x9axw3dBYd0nVkJvs23BxqHin%2BVyZ%2FWot3lXqjf9lWly8gTGOCgwcamaBvqiL1eJY2N1ya%2BWjXfzgA7TNgTBo5zpkHDg7hPl2oLF8W08sXRV%2BN%2B5j0eGYeorn6yZheElrN1KmT8aCxnvyHJCAsODbOuWmfjefg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -260,9 +243,54 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/278055441116?_skw=ssd&hash=item40bd6552dc:g:l-IAAeSwBY1qIeuh",
    "posted_at": "2026-06-04T21:23:16+00:00"
+  },
+  {
+   "title": " Netac 8go ddr4 3200 8go C22",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 31.9,
+   "shipping_eur": 8.0,
+   "effective_eur": 39.9,
+   "median_eur": 154.99,
+   "discount_pct": 74.3,
+   "target_hit": false,
+   "suspect": true,
+   "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbJRlxkQjQ1rAZM0d7dgGb77C3sBTlXzBGWQivyIfRwO5W%2FQwtAv6nMiPkGU00pXn6BQYL6h2NOzpJ5wt13Bpk7frPxBzW5hAqSIG0Q%2FT8fexGUvy%2BGCbwWMtEIuhIzAq8B8tLkFg9K9iqNScyUzJU8",
+   "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC Apple Mac mini M6 - 16 Go RAM, 256 Go SSD, GPU 12 coeurs",
+   "price_raw": "884,27€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-m6-16-go-ram-256-go-ssd-gpu-12-coeurs-3451564",
+   "posted_at": "2026-11-10T21:37:12+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Acer Nitro V 16 AI - WQXGA IPS 180Hz, AMD Ryzen AI 9 365, Nvidia RTX 5070, 32Go RAM, 1To SSD, Copilot+ PC, Windows 11",
+   "price_raw": "1 849€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/acer-nitro-v-16-ai-wqxga-ips-180hzamd-ryzen-ai-9-365-nvidia-rtx-5070-32gb-ram-1tb-ssd-copilot-pc-windows-11-3451559",
+   "posted_at": "2026-11-10T21:32:23+00:00"
+  },
+  {
+   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366799440102?_skw=ddr4&hash=item5566f348e6:g:3-QAAeSw2dRq8zXL",
+   "posted_at": "2026-11-10T15:18:50+00:00"
+  },
+  {
+   "title": "Dynatron B13 – Ventirad CPU actif 2U – Intel LGA3647 Square ILM",
+   "price_raw": "59.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137824415366?_skw=ventirad&hash=item2016f9ae86:g:ktQAAeSwERVqx0G~",
+   "posted_at": "2026-10-08T07:11:09+00:00"
+  },
   {
    "title": "PC Portable 14\" HP 14-hz0037nfx - Snapdragon X 8, Go de RAM DDR5, SSD de 512 Go, Windows 11, Azerty",
    "price_raw": "499,99€",
@@ -584,38 +612,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/900080013011?_skw=ddr4&hash=itemd190f30ed3:g:UAQAAeSw-~tq8wFH",
    "posted_at": "2026-11-10T11:35:16+00:00"
-  },
-  {
-   "title": "Imprimante 3D Anycubic Kobra 4 - Impression 600 mm/s, LeviQ 3.0, Nivellement automatique, Caméra HD",
-   "price_raw": "189€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-anycubic-kobra-4-impression-600-mms-leviq-30-nivellement-automatique-camera-hd-3450971",
-   "posted_at": "2026-11-10T11:18:08+00:00"
-  },
-  {
-   "title": "CORSAIR 3000D RGB Airflow Boîtier PC Mid-Tower",
-   "price_raw": "56.26 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307275659518?_skw=boitier+pc&hash=item478b0e78fe:g:92UAAeSw5KRq8u5i",
-   "posted_at": "2026-11-10T10:15:09+00:00"
-  },
-  {
-   "title": "[Précommande] Imprimante 3D ANYCUBIC Kobra 4",
-   "price_raw": "191,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/anycube-cobra-4-3450840",
-   "posted_at": "2026-11-10T09:36:41+00:00"
-  },
-  {
-   "title": "Dynatron L25-1 Water Cooling Système de refroidissement à l'eau pour PC AMD",
-   "price_raw": "151.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267839464524?_skw=watercooling&hash=item3e5c79e44c:g:jAcAAeSwqmZq8uhT",
-   "posted_at": "2026-11-10T09:47:57+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1663,
-  "models_with_reference": 36
+  "listings_seen": 1669,
+  "models_with_reference": 35
  }
 }
