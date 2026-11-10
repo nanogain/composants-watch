@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T15:08:00Z",
+ "generated_at": "2026-11-10T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 334,
-   "last_ok": "2026-11-10T15:08:00.675988+00:00"
+   "items": 333,
+   "last_ok": "2026-11-10T15:38:00.683628+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T15:08:00.675988+00:00"
+   "last_ok": "2026-11-10T15:38:00.683628+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 390,
-   "last_ok": "2026-11-10T15:08:00.675988+00:00"
+   "items": 391,
+   "last_ok": "2026-11-10T15:38:00.683628+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 36,
-   "last_ok": "2026-11-10T15:08:00.675988+00:00"
+   "items": 50,
+   "last_ok": "2026-11-10T15:38:00.683628+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIY5xV1EvuZ2m2FMQH3Fp4DF7%2BFfPUOiadS8HQnab1WdFMSB3b2zoeDpIU7J5SrWfp0fOxo1v6Ol2%2FSYWwgAUCwxBcD5Y0smxugJ%2BrezKKli1lmJ4bbMn9Rc8jw4h2Gy%2BgArZ8U%2FdgPRFQjF7Ya7qXZh",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZ36cAEUYF2iaZCaG8DnqgyCiEHiupB51ie4orQ4l0TjikRfxe8BWiV0pd7OxRMlPmmaSryFG7BoRO7btDfo1WOPHYvmsWXLXdW6dpcEWmRIP0cxbiw1JziiKsPqUKWlAOCO8uQfARQZ1tlSYZ%2B5O5I",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h4d-qhd-fast-ips-240hz-oc-275hz-hdmi-20-dp-14-vendeur-tiers-3447721",
    "posted_at": "2026-11-06T12:29:59+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 289.99,
+   "discount_pct": 41.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BOmbtyYY%2FBn13CAtcw6hMzBhMCLwbjIRJTZZrDckkDnfoxUB03UB6hpBJQWwnCHZwwHbVWV%2BtgBf0Hq1VRSye7Me1Ni7p9jMRUD%2FZA9TZrvsobWmq5ELhY44ij95GNq31eqUuSw%2BMwzJaJhPEt9%2Bg9YvdaDDsOCGSZ4e6VHkP%2FJg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9UBCSf%2FNOqtg%2B%2BRcTZoCP5RRGKKcn0Yu4LNqobClxHzjVwdwxQbmXV1lFudW8JlElVwcPJsszpcxcgiSiss94GvPF99fOfUnVp1sEdnGirohCBcZ8Z11N9EJERENay3HjVL6Tog9mZYP%2BJm0k3uUJUMIkK9MIMb%2FEn%2FdUUIGAyTQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -252,8 +269,8 @@
    "price_eur": 43.24,
    "shipping_eur": 0.0,
    "effective_eur": 43.24,
-   "median_eur": 53.39,
-   "discount_pct": 19.0,
+   "median_eur": 54.99,
+   "discount_pct": 21.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 381 avis)",
@@ -279,23 +296,6 @@
    "posted_at": "2026-06-04T21:23:16+00:00"
   },
   {
-   "title": "SSD UNION MEMORY 256GO M.2 2242 PCIe AM610 SSS0R27339 condition : bonne",
-   "model": "SSD:NVMe-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 23.57,
-   "shipping_eur": 0.0,
-   "effective_eur": 23.57,
-   "median_eur": 28.58,
-   "discount_pct": 17.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · cabledvi (100,0 %, 596 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287718777795?_skw=ssd&hash=item42fd6023c3:g:OhQAAeSwUcpqfdRf",
-   "posted_at": "2026-11-10T14:27:02+00:00"
-  },
-  {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -303,8 +303,8 @@
    "price_eur": 45.32,
    "shipping_eur": 0.0,
    "effective_eur": 45.32,
-   "median_eur": 53.39,
-   "discount_pct": 15.1,
+   "median_eur": 54.99,
+   "discount_pct": 17.6,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 381 avis)",
@@ -315,18 +315,25 @@
  ],
  "unclassified": [
   {
+   "title": "[Nouveaux clients] Souris Gaming Sans Fil Ultra-Légère TMICE G13 - 54 g, Capteur Optique PAW3395, 26 000 DPI, 8K Hz, Bluetooth",
+   "price_raw": "22,24€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-souris-gaming-sans-fil-ultra-legere-tmice-g13-54-g-capteur-optique-paw3395-26-000-dpi-8k-hz-bluetooth-3451248",
+   "posted_at": "2026-11-10T15:15:04+00:00"
+  },
+  {
+   "title": "Barrette mémoire Samsung  8Go  PC4-3200AA DDR4 SDRAM",
+   "price_raw": "28.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366799443717?_skw=ddr4&hash=item5566f35705:g:1SMAAeSwqmZq8zYh",
+   "posted_at": "2026-11-10T15:20:15+00:00"
+  },
+  {
    "title": "[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)",
    "price_raw": "$379.99",
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
    "posted_at": "2026-11-10T15:01:12+00:00"
-  },
-  {
-   "title": "Carte mère ASUS P5RD1-VM Pentium 4 3 GHz 1 Go RAM 2 IDE rétro gaming",
-   "price_raw": "35.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287718823221?_skw=carte+m%C3%A8re&hash=item42fd60d535:g:OuoAAeSw4kxq8ysj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l528lJE9DJ2%2BV4S8QyNvKRbYgDEslSuQ7aYUQ1CaRefsWV9egGKsOBY%2FUDbT%2BTbnIAQW9SxA%2FV10OGH%2BKRdIXl3BcGYkk24GAk47UPRTPCpTJo4PVu0GZ3mu5KSP%2BhW9U6G8P%2F0H%2FTNW4plJTp4uEHGTg5ASBen2beB05uEB5iRfD%2FCwAVmo9SnL%2BE1nh3G6ynZfpnzcYbdTAxkvuFkD1otqvzc%2BipuBAoDJWntPAnARQEhy%2Bqb7aQJMOdzxPnNw48kBPrjQFRvN0Z9kkPpdx7RNSRXF5HBvKpPt%2FQN%2Fli7g%3D%3D",
-   "posted_at": "2026-11-10T14:50:49+00:00"
   },
   {
    "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go RAM, 128 Go SSD, Wifi 5, BT 4.2, Windows 11 Pro",
@@ -362,13 +369,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tp-link-omada-switch-ethernet-gigabit-manageable-5-ports-rj45-es205g-3451111",
    "posted_at": "2026-11-10T13:41:48+00:00"
-  },
-  {
-   "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
-   "price_raw": "37.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336890011598?_skw=clavier&hash=item4e70359fce:g:ZOsAAeSwF9Fq8vpT",
-   "posted_at": "2026-11-10T11:05:43+00:00"
   },
   {
    "title": "Tablette Xiaomi Pad 7 - 8/256Go, 11.2\" 3.2K 144Hz, Snapdragon 7+ Gen 3, 8850mAh, Wi-Fi (182.35€ via Paypal)",
@@ -481,6 +481,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/900079882261?_skw=ddr4&hash=itemd190f11015:g:n54AAeSw~75q8vXS",
    "posted_at": "2026-11-10T10:46:17+00:00"
+  },
+  {
+   "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
+   "price_raw": "31.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336890011598?_skw=clavier&hash=item4e70359fce:g:ZOsAAeSwF9Fq8vpT",
+   "posted_at": "2026-11-10T11:05:43+00:00"
   },
   {
    "title": "CORSAIR 3000D RGB Airflow Boîtier PC Mid-Tower",
@@ -656,17 +663,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xs86d1/headphones_razer_kraken_kitty_v2_usb_wired/",
    "posted_at": "2026-11-10T00:04:26+00:00"
-  },
-  {
-   "title": "[Monitor] Amazon Basics 24\" Gaming Monitor, Restocked - $69.99",
-   "price_raw": "$69.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs80ku/monitor_amazon_basics_24_gaming_monitor_restocked/",
-   "posted_at": "2026-11-09T23:58:33+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1633,
-  "models_with_reference": 35
+  "listings_seen": 1638,
+  "models_with_reference": 34
  }
 }
