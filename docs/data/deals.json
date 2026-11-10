@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T18:08:00Z",
+ "generated_at": "2026-11-10T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-10T18:08:00.629045+00:00"
+   "last_ok": "2026-11-10T18:38:00.684529+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T18:08:00.629045+00:00"
+   "last_ok": "2026-11-10T18:38:00.684529+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 389,
-   "last_ok": "2026-11-10T18:08:00.629045+00:00"
+   "items": 390,
+   "last_ok": "2026-11-10T18:38:00.684529+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 4,
-   "last_ok": "2026-11-10T18:08:00.629045+00:00"
+   "items": 80,
+   "last_ok": "2026-11-10T18:38:00.684529+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbpqM1nSjvLRBb1PBsQK9Kbj0IfFICtI9VLMPQ8uM7kgDaZtVXOvW0Z1LI0ZscjXsf3mRLes4dBTQWA8jlzpx1XQRaeMpJxv6ky5OxDdzqqvRDBAPWngBWw%2BUP0jRZ1Ej58%2BV%2Bdumd5EP2ia%2FpNaeAB",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa5JaligfeHfccIr9W4J6YLiOA%2Bk4lLEBhzl9sYd7RpjCx3P4PvWOOFnhyQ5KSbtOhHMdTJAb%2Bf4WixnaK%2FQ63HQaBZ2J7DomBfM%2BmW4gSCOFAkqUuxqflT%2FCCUEtG0FogSZVV3GXSeDzlIeK8hZHhH",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BwAYDarinWcB%2Bw%2Fxn%2FU1HyqmRMSwgj7bCIILSXCaTg4ssLdHbflr0C%2FH%2B8nBhZuf9ekduTV9waiTM2%2Bb%2FpTWIdxaUf%2Fewf%2FJqlFW5vUAxrcMu9zsW4gL7%2BnQq%2BacaNOPNIPwp6Sb3ZQq5WHPbNZXGZApgXgEEolZp%2F8C9%2BXnLm7A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BUQxYbrxYytdRyEKnGbDumIpZ4jun9fwtqjUhJosgPhvtWEALEg6WoZPe7pngwjP6wfTnkWl70qXws8csB3KvMDgjgujJvijUVOBgpIOY17cNC1gwneWD40pMi3TGRmR3B6pNxw6buQf%2FJip%2FhVlvz907cPjWSRf2BJ6uwqjaSOg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -264,6 +264,27 @@
  ],
  "unclassified": [
   {
+   "title": "Carte Graphique Gaming RX-580 8Go GDDR5 MLLSE (2048SP)",
+   "price_raw": "167.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940081502002?_skw=carte+graphique&hash=itemdae1395732:g:RZsAAeSw5Ntq82K1",
+   "posted_at": "2026-11-10T18:12:05+00:00"
+  },
+  {
+   "title": "RAM kingston 8 GB GO RAM DDR4 1Rx8 PC4-2666v  SO-DIMM",
+   "price_raw": "23.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366799434613?_skw=ddr4&hash=item5566f33375:g:CksAAeSw8D1quN84",
+   "posted_at": "2026-11-10T15:15:45+00:00"
+  },
+  {
+   "title": "RAM Samsung  8 GB GO RAM DDR4 1Rx8 PC4-2666v  SO-DIMM",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366799437310?_skw=ddr4&hash=item5566f33dfe:g:OjQAAeSwGB1quN-Q",
+   "posted_at": "2026-11-10T15:17:00+00:00"
+  },
+  {
    "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
    "price_raw": "6,99€",
    "source": "dealabs",
@@ -360,13 +381,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ram-128-go-ssd-wifi-5-bt-42-windows-11-pro-3451172",
    "posted_at": "2026-11-10T14:17:52+00:00"
-  },
-  {
-   "title": "SK hynix RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2666V 1 module HMA851S6JJR6N-VK",
-   "price_raw": "20.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237175249920?_skw=ddr4&hash=item3738bf1c00:g:NpIAAeSwHmRq8ymD",
-   "posted_at": "2026-11-10T14:30:13+00:00"
   },
   {
    "title": "Noctua NH-D14 Ventirad CPU Double Tour 6 Caloducs 2 Ventilateurs · Expédié d'UE",
@@ -472,13 +486,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/900079930031?_skw=ddr4&hash=itemd190f1caaf:g:uPYAAeSwjllq8vts",
    "posted_at": "2026-11-10T11:10:28+00:00"
-  },
-  {
-   "title": "Micron 16 Go (2x8 Go) DDR4 SDRAM PC4-2133P SO-DIMM MTA16ATF1G64HZ",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900079899036?_skw=ddr4&hash=itemd190f1519c:g:goUAAeSwXhlq8vd6",
-   "posted_at": "2026-11-10T10:53:42+00:00"
   },
   {
    "title": "Samsung 16 Go (2x8 Go) DDR4 SO-DIMM PC4-2400T 260 broches M471A1K43CB1-CRC",
@@ -605,17 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/anker-batterie-externe-25000mah-165w-pour-ordinateurs-portables-3450527",
    "posted_at": "2026-11-10T05:51:47+00:00"
-  },
-  {
-   "title": "[Prebuilt] PowerSpec G740 - Ryzen 7 7700X, RTX 5060 Ti 16GB, 32GB DDR5 6000, 1TB NVMe - $1499.99 @ Micro Center",
-   "price_raw": "$1499.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xseja7/prebuilt_powerspec_g740_ryzen_7_7700x_rtx_5060_ti/",
-   "posted_at": "2026-11-10T05:17:49+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1647,
-  "models_with_reference": 35
+  "listings_seen": 1648,
+  "models_with_reference": 34
  }
 }
