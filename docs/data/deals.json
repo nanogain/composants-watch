@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T09:08:00Z",
+ "generated_at": "2026-11-10T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 336,
-   "last_ok": "2026-11-10T09:08:00.654483+00:00"
+   "items": 335,
+   "last_ok": "2026-11-10T09:38:00.678300+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T09:08:00.654483+00:00"
+   "last_ok": "2026-11-10T09:38:00.678300+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-10T09:08:00.654483+00:00"
+   "items": 390,
+   "last_ok": "2026-11-10T09:38:00.678300+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 74,
-   "last_ok": "2026-11-10T09:08:00.654483+00:00"
+   "items": 63,
+   "last_ok": "2026-11-10T09:38:00.678300+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYtOOCl6WSmTQBjClphDN5jSwuIypB2bv%2BKIA%2BHzixEqoq%2BEYeCDLWameqaHMPjMr50qYVRjkeh3zVTbBQfzCNWvLOo2aE7ZGd9zolXXuX2c4%2FNmyyMY2oy72IJ%2FrIDlq%2B3CXp%2BEv3R0oup1wPi69WE",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYyJMRyFhNyxrvHgo5N8mqysEgqoo67AWImOaiABfXWfPWqa3WfFLc3khZyejrHK4%2F6TR9kco4J05hwg93URK8LN%2BaQ80%2Bl6ZhUt0F58zYYZ6xGNLU3%2BaCHLOX8%2BQ5eaysMgX0ClfpQdzMQrJc8sAyc",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -139,25 +139,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BZ95Xdz3a6rRRnKnT0kWcRJci2N4I4ju6bi4PhDvg6E9mthAzsQnSNhqwUnGEvJOvL%2Bo%2BhVkm6Wvf2iGrGEYBqBEYH%2FjrIfFvVp9EnqgyHk9pFFCJl3GsP64asWIQjaga9rWWspBeO3%2FZ7ag0Imo72GPUsrghlYtOV9qdoIZ5GkA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8Mg6sKHJB76NSA1ZbjG2zm9wI0%2B4pfDPyA%2BXtBg7qo0eo4op8HRw1HqnQqx3ynwah7fFMBoizOkyOYeeFZj1aZXqBPdHCidKEYDqx4hvXZ0fO5rLRNH6GKodEm%2BsX0t7QO3k1gn2pK3qzGHlM%2BES20iSsOKtRwH5HF5GIYiDZ21Q%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "WDS500G2B0A WD Blue 3D NAND SSD Interne 2.5\" SATA 500 GB Go",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 45.0,
-   "shipping_eur": 2.9,
-   "effective_eur": 47.9,
-   "median_eur": 65.0,
-   "discount_pct": 26.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · night-2840 (98,8 %, 835 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860121388130?_skw=ssd&hash=itemc8433ad462:g:mOcAAeSw-UNq5D3S",
-   "posted_at": "2026-11-07T09:59:03+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -175,6 +158,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
    "posted_at": "2026-11-06T12:36:05+00:00"
+  },
+  {
+   "title": "SSD Interne NVMe 1To Netac NV7000-t, 7400 mo/s - Compatible PS5",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 114.57,
+   "shipping_eur": null,
+   "effective_eur": 114.57,
+   "median_eur": 149.99,
+   "discount_pct": 23.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-nvme-1to-netac-nv7000-t-7400-mos-compatible-ps5-3450776",
+   "posted_at": "2026-11-10T09:22:02+00:00"
   },
   {
    "title": "SSD interne M.2 NVMe Fanxiang S880 - 4 To, TLC, PCIe 4.0, 7300 Mo/s, Compatible PS5 (Via Paypal)",
@@ -222,7 +222,7 @@
    "discount_pct": 15.1,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 379 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 380 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860128033339?_skw=ssd&hash=itemc843a03a3b:g:tpEAAeSwEExq8dUz",
    "posted_at": "2026-11-09T14:16:05+00:00"
@@ -230,7 +230,42 @@
  ],
  "unclassified": [
   {
-   "title": "Casque Audio Sony WH-1000XM4C (2026) - Réduction du bruit, Audio Haute Résolution, Processeur QN1 HD, Autonomie de 34 h, 3 Coloris",
+   "title": "Station d'accueil Orico Thunderbolt 5 avec boitier SSD M.2 NVMe (Via Remise au Panier - Vendeur Tiers)",
+   "price_raw": "275,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/orico-station-daccueil-thunderbolt-5-avec-boitier-ssd-m2-nvme-vendeur-tiers-via-remise-panier-3450801",
+   "posted_at": "2026-11-10T09:32:43+00:00"
+  },
+  {
+   "title": "PC portable gamer Msi Gaming Crosshair 16 Max HX E2WGK-002FR 16\"",
+   "price_raw": "1 499,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-msi-gaming-crosshair-16-max-hx-e2wgk-002fr-16-3450810",
+   "posted_at": "2026-11-10T09:20:57+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Asus ROG Strix G16 G614 - Ryzen 9 9955HX, RTX 5070 Ti 12 Go, RAM 32 Go DDR5, SSD 1 To, ROG Nebula 300Hz, Windows 11",
+   "price_raw": "2 599,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/asus-rog-strix-g16-2025-g614-ecran-16-rog-nebula-300-hz-ryzen-9-9955hx-rtx-5070-ti-12-go-32-go-ddr5-ssd-1-to-3450802",
+   "posted_at": "2026-11-10T09:15:51+00:00"
+  },
+  {
+   "title": "Renconditionné : PC Portable 14\" HP ProBook 640 G8 - Full HD, Core i5-1135G7, 16 Go RAM, SSD 256 Go (Très bon état) - ecodair.com",
+   "price_raw": "350€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/renconditionne-pc-portable-14-hp-probook-640-g8-full-hd-core-i5-1135g7-16-go-ram-ssd-256-go-grade-a-3450794",
+   "posted_at": "2026-11-10T09:10:48+00:00"
+  },
+  {
+   "title": "Visiophone filaire Ezviz CP7 - 2K, Interphone Video, Moniteur tactile 7\" (Vendeurs Tiers)",
+   "price_raw": "199,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/interphone-video-ezviz-cp7-3450765",
+   "posted_at": "2026-11-10T08:56:44+00:00"
+  },
+  {
+   "title": "Casque sans fil Sony WH-1000XM4C - 2026, Réduction du Bruit, Audio Haute Résolution, Processeur QN1 HD, Noir, Blanc ou Lavande",
    "price_raw": "195,73€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/casque-audio-sony-wh-1000xm4c-2026-reduction-du-bruit-audio-haute-resolution-processeur-qn1-hd-autonomie-de-34-h-3-coloris-3450747",
@@ -279,25 +314,11 @@
    "posted_at": "2026-11-10T07:53:52+00:00"
   },
   {
-   "title": "Tour midi BeQuiet Pure Base 600 Boîtier PC noir isolé, fenêtre latérale, 2",
-   "price_raw": "121.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267839399280?_skw=boitier+pc&hash=item3e5c78e570:g:Z~cAAeSwmxNq8s2Z",
-   "posted_at": "2026-11-10T07:53:48+00:00"
-  },
-  {
    "title": "Samsung ODYSSEY G55C Ecran PC 32'' QHD Gaming incurvé - 165Hz - HDMI, DisplayPor",
    "price_raw": "213.90 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/176596989713?_skw=%C3%A9cran+pc&hash=item291e003711:g:2SIAAeSwcDhq8tHJ",
    "posted_at": "2024-09-26T06:37:18+00:00"
-  },
-  {
-   "title": "Trust Multi Function Keyboard AZERTY FR PS/2 filaire touches multimédia win 98 ",
-   "price_raw": "14.81 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168851943935?_skw=clavier&hash=item27505c31ff:g:IL0AAeSwgRZq8s6o",
-   "posted_at": "2026-11-10T08:02:31+00:00"
   },
   {
    "title": "Logitech MX Keys Mini",
@@ -342,11 +363,25 @@
    "posted_at": "2026-11-10T05:17:49+00:00"
   },
   {
+   "title": "SK hynix 4Go DDR4 DIMM PC4-2666V HMA851U6CJR6N",
+   "price_raw": "10.69 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257636876821?_skw=ddr4&hash=item3bfc5ac215:g:2joAAeSwLDFqYRYD",
+   "posted_at": "2026-07-22T19:13:08+00:00"
+  },
+  {
    "title": "Alphacool core 100 Réservoir Watercooling Noir/Transparent Avec Supports Montage",
    "price_raw": "47.50 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/398358848143?_skw=watercooling&hash=item5cc009a28f:g:4KgAAeSw7BNqmtMS",
    "posted_at": "2026-09-04T14:21:48+00:00"
+  },
+  {
+   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
+   "price_raw": "342.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
+   "posted_at": "2026-10-03T12:36:35+00:00"
   },
   {
    "title": "🟢Mémoire SO-DIMM DDR4 8 Go PC4 3200AA Samsung 1Rx8 Occasion 1 pièce",
@@ -436,7 +471,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx1k1c9B8e0cppUPKCpFGWLKdX%2F1U0Dlb5QuvWHQfevnfFUxRWrvB9whOx0aV4XsiNcVWBC%2Fk1T0xwXKbIn0MxSlOXS6Nvoc8qLv9onoacTRdIM9xa2xKngNVQW1agZRUEGsV4J73tcRwJwQkU%2FQr6xO",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx0IsVjh21QkKHnI9ypMR2oEthssq7UFtGX3CFPexeBDZ0M3J5zjmCDEsiJaChLpFUsnUox3qUjWdARlDL6htC0%2BXZ8e4ZsF5oUj2rqJDwQELUEE5VKjrfaNMsSSmIHIYJlNlJYZCQDNn%2FK3LU9UcACO",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -527,7 +562,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdu7BUt44eH3%2B%2FPXXXBgKfr56WsIumUKLuE1mV3VpJUjusx0Dc8biBPamDihIImfhTo3fGZj7hleccFagYfZMtPa%2FFlUtBSkq9j%2BWezZiK9sqaTF8d48uuW7JbX6Hr0yYALUMoMyTN%2FWsZsGE7bz8282ZOskK0WyPPLMBS%2BFRZc1Aw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdvJ08arlBzx0WQuG7tMXPwtj903uIkb6yAWwxYVTYdrvJqkbOYVgFTQRT7KqyINvQalMcHdo%2BwJvLK21wcOUm56j9A4N456RdnWLhlaiTNClMHhj0jKeDwL6K7X4DPPueurwFqFwqAlPcyzly38W87xOO5792wknSUzx%2BGpiVvCtQ%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -543,45 +578,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xs0i3t/keyboard_epomaker_galaxy65_mechanical_keyboard/",
    "posted_at": "2026-11-09T19:04:41+00:00"
-  },
-  {
-   "title": "[Combo] Ryzen 5 7600X + ASRock B650M Pro RS WiFi + 32GB V-COLOR DDR5-6000 CL30 RGB + ASRock Rock 240 ARGB AIO + ASRock PRO-850B PSU + McAfee Total Protection (1 Yesr) - $628 (Newegg PC Builder - Instructions below)",
-   "price_raw": "$628",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xrzp3e/combo_ryzen_5_7600x_asrock_b650m_pro_rs_wifi_32gb/",
-   "posted_at": "2026-11-09T18:34:52+00:00"
-  },
-  {
-   "title": "RAM PC Portable SK hynix 16 Go DDR5 5600 SODIMM HMCG78AGBSA095N",
-   "price_raw": "125.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840111556114?_skw=ddr5&hash=itemc39a8d0612:g:skwAAeSwXHFq8gXL",
-   "posted_at": "2026-11-09T18:11:25+00:00"
-  },
-  {
-   "title": "PC Portable 13\" Apple MacBook Air - Puce M5, 16 Go RAM, SSD 512 Go (via 210 € sur la carte de fidélité)",
-   "price_raw": "1 189,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-m5-16-go-de-ram-ssd-512-go-via-210-eur-sur-la-carte-de-fidelite-3450174",
-   "posted_at": "2026-11-09T17:57:59+00:00"
-  },
-  {
-   "title": "Switch HDMI KVM Ugreen - 2 Entrées, 2 Sorties, 8K, 60Hz, Double Affichage, Commutateur KVM avec 4 Ports USB 3A1C 5Gbps",
-   "price_raw": "71,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ugreen-switch-kvm-displayport-2-entrees-2-sorties-8k-60hz-4k-240hz-double-affichage-commutateur-kvm-avec-4-ports-usb-3a1c-5gbps-pour-clavier-3450159",
-   "posted_at": "2026-11-09T17:46:07+00:00"
-  },
-  {
-   "title": "Mini PC Intel Core i3-6100U - 16+512 GO, Windows 11 Pro, WiFi 6 (Entrepôt Espagne)",
-   "price_raw": "128,51€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-intel-core-i3-6100u-16512-go-windows-11-pro-wifi-6-3450120",
-   "posted_at": "2026-11-09T16:54:19+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1599,
+  "listings_seen": 1605,
   "models_with_reference": 32
  }
 }
