@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T06:38:00Z",
+ "generated_at": "2026-11-10T07:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 337,
-   "last_ok": "2026-11-10T06:38:00.682917+00:00"
+   "last_ok": "2026-11-10T07:08:00.624124+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T06:38:00.682917+00:00"
+   "last_ok": "2026-11-10T07:08:00.624124+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 401,
-   "last_ok": "2026-11-10T06:38:00.682917+00:00"
+   "items": 398,
+   "last_ok": "2026-11-10T07:08:00.624124+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-10T06:38:00.682917+00:00"
+   "items": 0,
+   "last_ok": "2026-11-10T07:08:00.624124+00:00"
   }
  },
  "watchlist": [
@@ -41,23 +41,6 @@
  ],
  "opportunities": [
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 99.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 99.99,
-   "median_eur": 274.99,
-   "discount_pct": 63.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
    "title": " Netac 8go ddr4 3200 8go C22",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -71,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaw%2BOWRB%2F4DwbX8L%2BDaDwd1Gi7dx0muJuqPicLCND2C7RbfCwYfVPYMsS7jzkkuSCoqi3xuk3UY%2FX54mZeK7517w4mqNmFZo7ckSNv7TnGpSlt27rz%2FvhLTioqWXUX%2FJGdf6ldZX2gNLTsWl2rvVSkW",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaaHGLA1siwNGamXYH%2BG8VvF%2BQZMCpLtPr0G1EsL0RXIss%2FelHVCqluV%2BFHpvl23g9ykDWcZIMfJvEO%2BW%2FIaKMgLGwsf%2Bi56taiFYB%2FTxDkScZrXPx0FrAlH%2BMljx9%2B4sDfdg7cYUF7SZtbC1qfDASL",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -90,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h4d-qhd-fast-ips-240hz-oc-275hz-hdmi-20-dp-14-vendeur-tiers-3447721",
    "posted_at": "2026-11-06T12:29:59+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 169.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 169.99,
+   "median_eur": 289.99,
+   "discount_pct": 41.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Bloc Alimentation PC Lenovo Delta DPS-280FB G FRU 41A9684 280W",
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B--IQfhrX2AwcFJXZMwN23uq4BtqDUJFbXnIw7ZMDoqKDyws79SwKppBXEVUImMspqJ9NxBWGK47T0c39pwJHySY4XVffcAA%2B6UgOikV06YpLwbsJyrisfu%2Brbf39J06o%2FqYvBZfI2u%2FAUF4Iu404hLKnfxn9VXSLdIRVMJHZAZ2Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9wsPGq%2BwTpwljYivjp1venUwC%2Ba8lg6AbiWQAN4%2FNpWK0RAnw2VRIKkW7Er%2FU5j7YASEkBENhHYvwUeczj9vl9TpEzNqIONMGQryaB8E78GixJVa4kbLmK2JYtNzv2jhCOkwLrGAw4HAogg1hezBBIjZ2SqUXGQfJS4c36qUj3KA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -211,21 +211,21 @@
    "posted_at": "2026-11-03T17:49:12+00:00"
   },
   {
-   "title": "SSD Micron 2200S 512Go NVMe M.2 2280 PCIe Gen3 x4 Dell - Santé 93%",
-   "model": "SSD:NVMe-512Go",
+   "title": "SSD interne M.2 NVMe Fanxiang S880 - 4 To, TLC, PCIe 4.0, 7300 Mo/s, Compatible PS5 (Via Paypal)",
+   "model": "SSD:NVMe-4To",
    "category": "SSD",
-   "condition": "used",
-   "price_eur": 43.24,
-   "shipping_eur": 0.0,
-   "effective_eur": 43.24,
-   "median_eur": 53.39,
-   "discount_pct": 19.0,
+   "condition": "new",
+   "price_eur": 384.84,
+   "shipping_eur": null,
+   "effective_eur": 384.84,
+   "median_eur": 499.0,
+   "discount_pct": 22.9,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 378 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127692905?_skw=ssd&hash=itemc8439b0869:g:jE4AAeSw9uxq8a8E",
-   "posted_at": "2026-11-09T11:33:15+00:00"
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-m2-nvme-fanxiang-s880-4-to-tlc-pcie-40-7300-mos-compatible-ps5-via-paypal-3445217",
+   "posted_at": "2026-11-03T11:55:29+00:00"
   },
   {
    "title": "SSD de marque SANDISK de capacité 256Go modèle X600 M.2 format 2280",
@@ -263,6 +263,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "TUF Gaming VG249QM1A - Ecran PC Gamer Esport 23,8 FHD - Dalle IPS - 270Hz - 1ms",
+   "price_raw": "185.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820337634974?_skw=%C3%A9cran+pc&hash=itembeffeeee9e:g:3nsAAeSwF9Fq8r1A",
+   "posted_at": "2026-11-10T06:44:09+00:00"
+  },
   {
    "title": "Souris sans fil Logitech G G309 Lightspeed - Switchs Hybrides Lightforce, Capteur Hero 25K, 6 Boutons Programmables, PC/Mac, Blanc",
    "price_raw": "36,99€",
@@ -318,6 +325,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/398358848143?_skw=watercooling&hash=item5cc009a28f:g:4KgAAeSw7BNqmtMS",
    "posted_at": "2026-09-04T14:21:48+00:00"
+  },
+  {
+   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
+   "price_raw": "342.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
+   "posted_at": "2026-10-03T12:36:35+00:00"
   },
   {
    "title": "🟢Mémoire SO-DIMM DDR4 8 Go PC4 3200AA Samsung 1Rx8 Occasion 1 pièce",
@@ -407,7 +421,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx00ZAMgu1GEd4kuwXEPmOmblWe5Xq0va5kG4pOZokUBPemsgC%2BivAg8rwNjR8Z%2BNvGtD3O5Gzf5uekgUAqfY64ed6IGyx1pDVvNsyJoCUoZjQ7K40NSbCMiZPlOxBGNexj%2By3t%2Fu0S7bQVtFWtqxMla",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx0fThx47iwPwD6C4ga6Ls%2BJU7BuyJAzoxBP6%2BwXvmGoe1c26%2BiWkJ4Xby5TcgP2awUOsXWo7tBdhYBn2bSssZytMshPPyhAbk0C5TB613pVFRb%2BD9mOPEQptrW9COSc12Yufi8o6KIZ1nZy9nWWWby8",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -498,7 +512,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdvZDfwojWbVR6z8PoZFFiZSO2%2FHS8Zg962RTGu0gZFytTcJ4WeTQFNo%2FNzVUyGQzUJnrE7pIS0fKUV8%2F3bOk1Vm7lNhrsj5AGowVjoUMXFXp%2F8LSLGNJtbkESdWBPKvEaxzqX6rEKhD%2FKgRqe4%2BDwKiz6BPIfAoIU1IfoGredrN3A%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdvDv3W0YZrkqO2vAJO7kbn42sOI0XjZdPZmhrjYEaiXHLd6IeQ9X71952TZdD1cjeHBRNJDi7jpkQatvAt6oNcHTLxsQKuFNmvREsmogN%2BDgKYqCrANHfX0MvPkfO6%2Bwnr3h769pgNnYK21uP8CaBVsuZS%2BdsXrj86rz8IhtBEHzQ%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -535,6 +549,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/840111556114?_skw=ddr5&hash=itemc39a8d0612:g:skwAAeSwXHFq8gXL",
    "posted_at": "2026-11-09T18:11:25+00:00"
+  },
+  {
+   "title": "Barette RAM PC Portable Samsung 32 Go DDR5 5600 SO-DIMM M425R4GA3PB0-CWM0L",
+   "price_raw": "285.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840111557788?_skw=ddr5&hash=itemc39a8d0c9c:g:8yEAAeSwGG1q8gYv",
+   "posted_at": "2026-11-09T18:12:47+00:00"
   },
   {
    "title": "Barette RAM PC Portable Kingston 8 Go DDR5 5600 SO-DIMM ACR56S46BS6HA-8KM",
@@ -591,31 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m4-power-amd-ryzen-3-3250c-8gb-ddr4-256gb-m2-ssd-windows-11-pro-3450095",
    "posted_at": "2026-11-09T16:32:57+00:00"
-  },
-  {
-   "title": "Souris filaire Razer DeathAdder Essential (2021) - 6400 DPI, 5 Boutons Programmables, Jusqu'à 10M de Clics, Noir",
-   "price_raw": "12,08€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-filaire-razer-deathadder-essential-2021-6400-dpi-5-boutons-programmables-jusqua-10m-de-clics-noir-3450084",
-   "posted_at": "2026-11-09T16:20:19+00:00"
-  },
-  {
-   "title": "Station d'accueil UGREEN Revodok Max 213 - Thunderbolt 4 13-en-1, 90W, Double 4K (Vendeur tiers)",
-   "price_raw": "246,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/station-daccueil-ugreen-revodok-max-213-thunderbolt-4-13-en-1-90w-double-4k-vendeur-tiers-3450074",
-   "posted_at": "2026-11-09T16:13:04+00:00"
-  },
-  {
-   "title": "[PSU] Corsair RM850e (2025) 850W 80+ Gold, Fully Modular, ATX 3.1 / PCIe 5.1, Native 12V-2x6 is $72.99 at Amazon",
-   "price_raw": "$72.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xrw23d/psu_corsair_rm850e_2025_850w_80_gold_fully/",
-   "posted_at": "2026-11-09T16:22:18+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1586,
-  "models_with_reference": 31
+  "listings_seen": 1588,
+  "models_with_reference": 30
  }
 }
