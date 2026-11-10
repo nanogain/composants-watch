@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T01:08:00Z",
+ "generated_at": "2026-11-10T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-10T01:08:00.674622+00:00"
+   "last_ok": "2026-11-10T01:38:00.676636+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T01:08:00.674622+00:00"
+   "last_ok": "2026-11-10T01:38:00.676636+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-10T01:08:00.674622+00:00"
+   "items": 386,
+   "last_ok": "2026-11-10T01:38:00.676636+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 30,
-   "last_ok": "2026-11-10T01:08:00.674622+00:00"
+   "items": 33,
+   "last_ok": "2026-11-10T01:38:00.676636+00:00"
   }
  },
  "watchlist": [
@@ -71,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BJYb0bksa4OJ2PLXDOCDHHtDF5ER16rn%2FAnxfQCPDOmC%2FePYk4mjum5yFO8qsno73mb3l3QUTZUprT5MjtRSGAgnHEPKSuVPm1JVL4wlHFky7PCORPVw3Xz5L52hcS4DhsTSWAoC8DZDlhe6F0cG2mIObk8ghnoBBSMr9lQblS7w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8lOH%2BCMy%2BSQaFRn5k3%2BaBfIna3W%2BjkzznhAcOlGiozc7svN4yNlkK2GPIwvTkjv6DArGZvzDcKAWKW5NLn2idwjU5U7M16bOer2TNudGXmNwxRRtVIdyNNsOGQzcX6b55BtLCCWAyR66pXeck1%2Br8GLRXUb7awNWE0OZH8PN%2Fs1w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -213,6 +213,13 @@
  ],
  "unclassified": [
   {
+   "title": "[FAN] Thermalright TL-C14C-S X3 140mm Silent Black RGB Computer Cooling Fan, 1500RPM High Speed, 4-Pin PWM Connector, 3 Packs - $9.50 (50% off)",
+   "price_raw": "$9.50",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsa231/fan_thermalright_tlc14cs_x3_140mm_silent_black/",
+   "posted_at": "2026-11-10T01:30:58+00:00"
+  },
+  {
    "title": "[Headphones] Razer Kraken Kitty V2 USB Wired Headset Hello Kitty Edition, Restock - $39.99 (64% off)",
    "price_raw": "$39.99",
    "source": "reddit",
@@ -244,7 +251,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx34s7kvP5Lvyzaj4hRs6DBY%2FIMVpGhEK5vVH10aT8QPxWBBCmNj88z6VNcwK%2FbqGnqTyHKeMXBArZxHBO94k%2FOoSL25S4vLRuk3skQpfSQ%2F5lLbF%2FthRM0tzSM1GQZtVv4RNnUs8kjbSJrgxNJgvt6b",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx1vNkheHyUpYXyfsW%2BBngL9dUGwjpmcEWMEMtlyyIdOh5arPVg5EegIzPIXsN9RwPTdjBElgPmBQ3z5nM3kIpAbfUBPzWeg5Fw6mvPO0QY9VsQ2J71sMXTNvbCh%2BX3Ewgwhp5XdimbzUEDotlz55rxN",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -356,7 +363,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdvAwFF2X4M2oIpfylS0mukLJyZ7BxnLbQxyYPA4No%2FTRBrOI0%2Fxoqi7YkwWnQ0owcM4vVm70fba%2BVHny9npn9UJJIE921IJkBiRmQsdMVi680TWyWiAphvZrquzqJ7HeDhuRBJHmlR%2FbcXp3ianfYdvK%2BzbLKz%2FhDYPeoRJ0a3%2BXg%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLduA%2BuErkVFIO7OfbFfxVz03OGwT%2BnwVPsqZYTyVLHNNCu9SkWItB%2FqO9Mo3ODF0GJhjs04vxe%2BShBbrQK%2B8gu8nvSoc7kddSKB87eQxq99x82JHyXFwkllhAbMz1Qq9AbOBVq7ToQgcBYMyHnXHec7zIVtO2wFGMg%2BJhHJZACkB2A%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -377,7 +384,7 @@
    "title": "Ecran PC Smart Tech 22\" 215N01FVF FHD Dalle VA 5ms HDMI VGA",
    "price_raw": "141.55 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/226421671509?_skw=%C3%A9cran+pc&hash=item34b7c88655:g:dX4AAOSwYNtkXP~k&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n8iTM4H%2Fw1OEJkOH17QC%2FSmtHVMoaj8GjL1KXrFfSB5OKeXU7NI9SPPjbVPfDPLeOeN0Px%2F6xtLbohGN04VjkaiD6eiT2KX%2FNn%2FlffmYC3qa2nDFEstaohaD3XcYw68DRqFCYgHL1nbzLT2h--ZVVebv7y6z1Urc0Uw7II%2FtbVnUupXWWMBeDP8vnW6dg6P%2BcutsSuig17TYbCrcU1lB0s%2BQFPgRE%2FGAqmhwuqTnYqE215Mr1Dgh0t0o2gIilVdR2CheTI8DTmR%2Fx6E2imyMEu793lpWENEUn007kzfTUOxA%3D%3D",
+   "url": "https://www.ebay.fr/itm/226421671509?_skw=%C3%A9cran+pc&hash=item34b7c88655:g:dX4AAOSwYNtkXP~k&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n8iTM4H%2Fw1OEJkOH17QC%2FSmtHVMoaj8GjL1KXrFfSB5OKeXU7NI9SPPjbVPfDPLeOeN0Px%2F6xtLbohGN04VjkaiD6eiT2KX%2FNn%2FlffmYC3qa2nDFEstaohaD3XcYw68DQb9R4ScaTWO1wCuWbe5jyjbKnh6AzejH8%2FrMtF0VWCbl4AoWeiVogY5P9u2O4uTWWEt6Pd1v8f4TMGUIlw1GlfsMkMZ33MZZbwXLNhC%2Fzc5wxIwFqbKW92FcgIMYqsGrLbJpPWrPLcFbf%2BIk%2F4g4KiKjoUs12orpoHJGZtJ6dciw%3D%3D",
    "posted_at": "2024-10-28T15:07:37+00:00"
   },
   {
@@ -554,17 +561,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-crosshair-16-max-hx-e2wgk-002fr-16-qhd-240hz-ultra-7-255hx-16-go-512-go-rtx-5070-3449972",
    "posted_at": "2026-11-09T14:37:57+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast RGB DDR5 - 16 Go (2 x 8 Go) - 5200 MT/s C40 - Intel XMP 3.0",
-   "price_raw": "339.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335448537756?_skw=ddr5&hash=item4e1a4a7a9c:g:7Q8AAeSw6B5q8dvI",
-   "posted_at": "2024-06-19T10:40:23+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1560,
+  "listings_seen": 1562,
   "models_with_reference": 29
  }
 }
