@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T00:08:00Z",
+ "generated_at": "2026-11-10T00:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-10T00:08:00.681386+00:00"
+   "items": 336,
+   "last_ok": "2026-11-10T00:38:00.633186+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T00:08:00.681386+00:00"
+   "last_ok": "2026-11-10T00:38:00.633186+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 386,
-   "last_ok": "2026-11-10T00:08:00.681386+00:00"
+   "last_ok": "2026-11-10T00:38:00.633186+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-10T00:08:00.681386+00:00"
+   "items": 0,
+   "last_ok": "2026-11-10T00:38:00.633186+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8PTON%2Bw67q8xd%2Fuym3POvwCh1X4U6fk1XDqVKDsMsLUvrtLcjQcrWGRZIbPqBPno6Ui7fjfC4owmIEbyCW09GICuor5Oz9fIRvtqiEQnaBkxprD9%2BiUHsT5MVps5N6DjrZrnDdBMje0y%2FI3LoDpSu13nwaM%2FeT7FpDdIqAtVSkdA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9IPt0rroz6Hso%2BsT9WROdwo8qkF%2FT7dSlkSd0k4YH0ltyPcD0Gij9gsBMLKAKjUAvhGImoeUit8o%2Bo3Eu6Sct4TAb7EwAo4RMlYTx%2Bs%2F5VUTXSIYgzET0jnR4cEgq6fujRNrOuAC5gs4m2zeDvhZeL8gz0CFAQV0A8OSkLyhr3zg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -177,6 +177,23 @@
    "posted_at": "2026-06-04T21:23:16+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -227,7 +244,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx3RWc0ihloTeuMyxDthjCivO8FHk2jJyz6I1brHlewvi6YFl09y3uYH7DhrnzyCmwBVvg90G5w%2BDAOxmcz7k1TWalTyI5dedkaGMaxCg%2BcKZIS1iZr5YJVjB2YThKxj7GsOPwA4iHJczH0DdiYly2E8",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx2XmDRlhUm7mOG3CJIoBrPB%2FVRDD%2BBP1dWbib5lGEtYTox5jd8av2FhtpdXQNk5yNlT49hKMPfBeQfOiaAvenQJl8%2F9vBCpJzficDZEcT%2B9xlB%2FED9RVPMAXzv2bPoxGy7XML%2FsyAODC65c8OVDRIqb",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -332,7 +349,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdtNPUp%2BeszJIM3LzbkYPNjXUvJEIOllDUOFG9kdWytntqKhtbHp6hmZ45ip%2F8haVyndOAE2ek9t1mlJu7D06E8DV8urFU4Bjysm24o8URFxPnOzVvo5pgzkMrlL1Df8PPCzseBcFkJiObfmmuWkh%2FvGuju6w6C9azRr6lJLWbpkzg%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLduZ6aqqGeWYKqQJtE6nC8gfwksPKvY%2B6QH6sLLDjvgzGfv1eenRpQ6FQ3cbLAzBiqk%2BCzl6ZzDennUf78Oqn9mMdlhxY7VLtwYsEeS7049HMvwWXFEZB1Une8s67BC0vODGWFEDCry8r7EXv5wB6yFeLEycnk%2Fozspba%2B6JI%2BtMmw%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -348,6 +365,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/189052869697?_skw=carte+m%C3%A8re&hash=item2c046ddc41:g:fwIAAeSw5XZqxQpA",
    "posted_at": "2026-10-06T20:16:31+00:00"
+  },
+  {
+   "title": "Ecran PC Smart Tech 22\" 215N01FVF FHD Dalle VA 5ms HDMI VGA",
+   "price_raw": "141.55 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/226421671509?_skw=%C3%A9cran+pc&hash=item34b7c88655:g:dX4AAOSwYNtkXP~k&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n8iTM4H%2Fw1OEJkOH17QC%2FSmtHVMoaj8GjL1KXrFfSB5OKeXU7NI9SPPjbVPfDPLeOeN0Px%2F6xtLbohGN04VjkaiD6eiT2KX%2FNn%2FlffmYC3qa2nDFEstaohaD3XcYw68DTQKV7KcKS8C7%2FpVT%2BgEbizNZKFtbKx%2FcnIC7gPLPmxL9fGn8I4FCy2Uyr4XsNmH1pDP8ugesmTCog2Rc1Rzxhe5qHkvJW1RuNb6lShULIjW2gU19HNHAE2TWylO%2FOrnj8g08Jssdxsqs5PPwDtvdYLNRWTOEH7s%2FL5a8Dxih2I6Q%3D%3D",
+   "posted_at": "2024-10-28T15:07:37+00:00"
   },
   {
    "title": "Manette Sony PS5 DualSense - Blanche, Compatible PS5, PC, MAC et Mobile",
@@ -376,13 +400,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xrzp3e/combo_ryzen_5_7600x_asrock_b650m_pro_rs_wifi_32gb/",
    "posted_at": "2026-11-09T18:34:52+00:00"
-  },
-  {
-   "title": "Barrette RAM SK Hynix 16 Go DDR4 SO-DIMM PC4-2666V 260 broches HMA82GS6JJR8N-VK",
-   "price_raw": "59.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377633409600?_skw=ddr4&hash=item57ecb48a40:g:UpAAAeSwRSJq8g7Q",
-   "posted_at": "2026-11-09T18:22:49+00:00"
   },
   {
    "title": "RAM PC Portable SK hynix 16 Go DDR5 5600 SODIMM HMCG78AGBSA095N",
