@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T19:08:00Z",
+ "generated_at": "2026-11-10T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-10T19:08:00.637587+00:00"
+   "items": 336,
+   "last_ok": "2026-11-10T19:38:00.675642+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T19:08:00.637587+00:00"
+   "last_ok": "2026-11-10T19:38:00.675642+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-10T19:08:00.637587+00:00"
+   "items": 386,
+   "last_ok": "2026-11-10T19:38:00.675642+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 4,
-   "last_ok": "2026-11-10T19:08:00.637587+00:00"
+   "items": 3,
+   "last_ok": "2026-11-10T19:38:00.675642+00:00"
   }
  },
  "watchlist": [
@@ -41,6 +41,23 @@
  ],
  "opportunities": [
   {
+   "title": "Ecran Pc 27\" HKC G27H4D - QHD, Fast IPS 240Hz (oc 275hz), HDMI 2.0, DP 1.4 (Vendeur tiers)",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 129.19,
+   "shipping_eur": null,
+   "effective_eur": 129.19,
+   "median_eur": 334.99,
+   "discount_pct": 61.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h4d-qhd-fast-ips-240hz-oc-275hz-hdmi-20-dp-14-vendeur-tiers-3447721",
+   "posted_at": "2026-11-06T12:29:59+00:00"
+  },
+  {
    "title": " Netac 8go ddr4 3200 8go C22",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -54,25 +71,8 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa1%2FMQXcVBCSVYgJ%2B%2BbXEUdbPj7mcyOp3wD8eyQffuahdn7JTRB1DPDPCZ3xy%2B970lsQv7IzaigbIgz2G7Msa%2Ff3im6YyHZhB7jK1yJBoM2movWVMxkWEydaCk4cGfEB5Qkb%2FwIU%2BlO3l%2FqVydagOPJ",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZtlTsQp8A6qQhFPove%2FgY%2BvsCREuZDm%2F1j9puf5FQx7iIKPevdAtUoYYYsQF7STMNQTOHf0pM6x7wH%2FpDlw50SZ4k8Mddg4hK5icxMxBISfro%2BboymH3dyB7DVWug3GeV%2FDivNZMx68wtKQ5tpN74Z",
    "posted_at": "2026-10-24T22:43:47+00:00"
-  },
-  {
-   "title": "Ecran Pc 27\" HKC G27H4D - QHD, Fast IPS 240Hz (oc 275hz), HDMI 2.0, DP 1.4 (Vendeur tiers)",
-   "model": "MON:27-QHD-240Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 129.19,
-   "shipping_eur": null,
-   "effective_eur": 129.19,
-   "median_eur": 329.99,
-   "discount_pct": 60.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h4d-qhd-fast-ips-240hz-oc-275hz-hdmi-20-dp-14-vendeur-tiers-3447721",
-   "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
    "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
@@ -90,23 +90,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
-   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 90.75,
-   "shipping_eur": 0.0,
-   "effective_eur": 90.75,
-   "median_eur": 149.99,
-   "discount_pct": 39.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-official-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
-   "posted_at": "2024-11-07T06:12:38+00:00"
   },
   {
    "title": "SSD interne Netac NV3000 M2 - 1 To",
@@ -173,25 +156,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8AIhWen7s2GMcu23HDTeb%2FtGVvFU7zp1GEpPQ9qgqb3rGIStxqA5o1rdipf0Ny0NqhKX%2BL%2B4Xaj4eAvrZC0bnxhrz7ftwww07%2FJIPwxbCHh2WQ6u%2Bjlxu37h6Q552nnB4KHUd5LeHMeNHDRdI2SNx6kLiMHzg1lwcY5Lp5%2Ftf8cQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8So4e2zbd1%2FhvKl2YqGTH7wh9t%2F6BFwH22K1GAxV2oOZsoS8WwXzNfeRce%2FmEg9%2BD%2Fa%2FjsfjuZfUFQcXGW4TmHIiNcOm%2BLd8UEEnP6eNG7I40BckLxLUsJvK0szK1UwsG9KzAv9yslBrF2cFAIs7Ax2HdKgur07xNTRuPvpKLNpw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 69.99,
-   "discount_pct": 28.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fik-8981 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
-   "posted_at": "2026-09-11T06:05:29+00:00"
   },
   {
    "title": "WDS500G2B0A WD Blue 3D NAND SSD Interne 2.5\" SATA 500 GB Go",
@@ -298,7 +264,21 @@
  ],
  "unclassified": [
   {
-   "title": "mini pc N150 - 16Go RAM - 256 GO SSD",
+   "title": "PC fixe CSL Sprint 5548 : Ryzen 5 7500F, Radeon RX 9060 XT 16 Go, 16 Go DDR5, SSD 1 To (Sans OS)",
+   "price_raw": "1 299€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-fixe-gamer-csl-sprint-5548-ryzen-5-7500f-radeon-rx-9060-xt-16-go-16-go-ddr5-ssd-1-to-sans-os-3451460",
+   "posted_at": "2026-11-10T19:13:19+00:00"
+  },
+  {
+   "title": "[Case] Zalman Nexus - Compact mATX PC Case with 120mm Rear Fan Pre-Installed, 7 USB Ports (2x USB 3.0, 4x USB 2.0, 1x Type-C), Slim ODD Bay - $39.99 (ALL ORDERS COME WITH GREASE)",
+   "price_raw": "$39.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsvti9/case_zalman_nexus_compact_matx_pc_case_with_120mm/",
+   "posted_at": "2026-11-10T19:14:12+00:00"
+  },
+  {
+   "title": "Mini PC - Intel N150, 16Go RAM, 256 GO SSD",
    "price_raw": "158,95€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-n150-16go-ram-256-go-ssd-3451453",
@@ -632,24 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nas-ugreen-nasync-dh4300-plus-onduleur-us2000-4-baies-8-go-ram-25-gbe-hdmi-4k-128-to-max-vendeur-tiers-3450655",
    "posted_at": "2026-11-10T07:53:52+00:00"
-  },
-  {
-   "title": "Samsung ODYSSEY G55C Ecran PC 32'' QHD Gaming incurvé - 165Hz - HDMI, DisplayPor",
-   "price_raw": "213.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/176596989713?_skw=%C3%A9cran+pc&hash=item291e003711:g:2SIAAeSwcDhq8tHJ",
-   "posted_at": "2024-09-26T06:37:18+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech G G309 Lightspeed - Switchs Hybrides Lightforce, Capteur Hero 25K, 6 Boutons Programmables, PC/Mac, Blanc",
-   "price_raw": "36,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-g-g309-lightspeed-switchs-hybrides-lightforce-capteur-hero-25k-6-boutons-programmables-pcmac-blanc-3450572",
-   "posted_at": "2026-11-10T06:37:35+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1649,
-  "models_with_reference": 34
+  "models_with_reference": 35
  }
 }
