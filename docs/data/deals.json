@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T14:38:00Z",
+ "generated_at": "2026-11-10T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-10T14:38:00.619450+00:00"
+   "items": 334,
+   "last_ok": "2026-11-10T15:08:00.675988+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T14:38:00.619450+00:00"
+   "last_ok": "2026-11-10T15:08:00.675988+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-10T14:38:00.619450+00:00"
+   "items": 390,
+   "last_ok": "2026-11-10T15:08:00.675988+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 5,
-   "last_ok": "2026-11-10T14:38:00.619450+00:00"
+   "items": 36,
+   "last_ok": "2026-11-10T15:08:00.675988+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIab1SKd9Z%2FlSYwI5HeM417Yz8RFiDn4%2BxFCzGh7BiBdC54pJyMUPV7KKL1LNWrd9mnnAXtiTpy16R0FtcmFoK3KtMvENtV3%2FhtS1VXlWRS%2Bf0Kk9%2Flc6%2FJN5UpLlC8s2wNGZNqaRn--TcRB2vp9rtnO",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIY5xV1EvuZ2m2FMQH3Fp4DF7%2BFfPUOiadS8HQnab1WdFMSB3b2zoeDpIU7J5SrWfp0fOxo1v6Ol2%2FSYWwgAUCwxBcD5Y0smxugJ%2BrezKKli1lmJ4bbMn9Rc8jw4h2Gy%2BgArZ8U%2FdgPRFQjF7Ya7qXZh",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h4d-qhd-fast-ips-240hz-oc-275hz-hdmi-20-dp-14-vendeur-tiers-3447721",
    "posted_at": "2026-11-06T12:29:59+00:00"
+  },
+  {
+   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 90.75,
+   "shipping_eur": 0.0,
+   "effective_eur": 90.75,
+   "median_eur": 149.99,
+   "discount_pct": 39.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-official-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
+   "posted_at": "2024-11-07T06:12:38+00:00"
   },
   {
    "title": "SSD interne Netac NV3000 M2 - 1 To",
@@ -139,8 +156,25 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BGguS60A3DBCiW4Oh%2BkesSDB5Zvy7UR11dwSAhJPPbxZK2HO9eC0tNEBKUbwOUaex7xXb4UgEwkLqGIbtKyTN%2BRPvKI7Bmbj6ijAS4OVYmhEonpiL2kVZLkQB9PObeQlwUiZIa98gVSDeP5orHcyIaRMMSUhqRg16MsM4p7Q90%2BA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BOmbtyYY%2FBn13CAtcw6hMzBhMCLwbjIRJTZZrDckkDnfoxUB03UB6hpBJQWwnCHZwwHbVWV%2BtgBf0Hq1VRSye7Me1Ni7p9jMRUD%2FZA9TZrvsobWmq5ELhY44ij95GNq31eqUuSw%2BMwzJaJhPEt9%2Bg9YvdaDDsOCGSZ4e6VHkP%2FJg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 69.99,
+   "discount_pct": 28.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fik-8981 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
   },
   {
    "title": "WDS500G2B0A WD Blue 3D NAND SSD Interne 2.5\" SATA 500 GB Go",
@@ -177,7 +211,7 @@
    "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
-   "title": "SSD Interne NVMe 1To Netac NV7000-t, 7400 mo/s - Compatible PS5",
+   "title": "SSD Interne NVMe 1 To Netac NV7000-t, 7400 mo/s - Compatible PS5",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
    "condition": "new",
@@ -280,6 +314,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)",
+   "price_raw": "$379.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
+   "posted_at": "2026-11-10T15:01:12+00:00"
+  },
+  {
+   "title": "Carte mère ASUS P5RD1-VM Pentium 4 3 GHz 1 Go RAM 2 IDE rétro gaming",
+   "price_raw": "35.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287718823221?_skw=carte+m%C3%A8re&hash=item42fd60d535:g:OuoAAeSw4kxq8ysj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l528lJE9DJ2%2BV4S8QyNvKRbYgDEslSuQ7aYUQ1CaRefsWV9egGKsOBY%2FUDbT%2BTbnIAQW9SxA%2FV10OGH%2BKRdIXl3BcGYkk24GAk47UPRTPCpTJo4PVu0GZ3mu5KSP%2BhW9U6G8P%2F0H%2FTNW4plJTp4uEHGTg5ASBen2beB05uEB5iRfD%2FCwAVmo9SnL%2BE1nh3G6ynZfpnzcYbdTAxkvuFkD1otqvzc%2BipuBAoDJWntPAnARQEhy%2Bqb7aQJMOdzxPnNw48kBPrjQFRvN0Z9kkPpdx7RNSRXF5HBvKpPt%2FQN%2Fli7g%3D%3D",
+   "posted_at": "2026-11-10T14:50:49+00:00"
+  },
   {
    "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go RAM, 128 Go SSD, Wifi 5, BT 4.2, Windows 11 Pro",
    "price_raw": "85,04€",
@@ -410,7 +458,7 @@
    "title": "Carte graphique MLLSE ATI-Radeon RX-580 8Go",
    "price_raw": "198.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940080589872?_skw=carte+graphique&hash=itemdae12b6c30:g:xXEAAeSwJc9q8vtq",
+   "url": "https://www.ebay.fr/itm/940080589872?_skw=carte+graphique&hash=itemdae12b6c30:g:bGoAAeSwGZlq8yvh",
    "posted_at": "2026-11-10T11:04:15+00:00"
   },
   {
@@ -505,6 +553,13 @@
    "posted_at": "2026-07-25T04:20:59+00:00"
   },
   {
+   "title": "Processeur CPU AMD PRO A10-8700E AD877BAHM44AB 3.5 GHz AM4",
+   "price_raw": "8.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/306760414243?_skw=processeur&hash=item476c587423:g:vm4AAeSwkSxq7M6L",
+   "posted_at": "2026-02-09T14:17:06+00:00"
+  },
+  {
    "title": "NAS UGREEN NASync DH4300 Plus + onduleur US2000 - 4 baies, 8 Go RAM, 2.5 GbE, HDMI 4K, 128 To max (vendeur tiers)",
    "price_raw": "364,88€",
    "source": "dealabs",
@@ -575,13 +630,6 @@
    "posted_at": "2026-08-19T10:25:14+00:00"
   },
   {
-   "title": "KINGSTON DDR5 16 Go 6000 Hz CL36 KIT x2 FuB RGB EXPO",
-   "price_raw": "425.77 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880065926838?_skw=ddr5&hash=itemcce80456b6:g:pYwAAeSwKR9q5Oyw",
-   "posted_at": "2026-10-30T19:15:17+00:00"
-  },
-  {
    "title": "[Headphones] Bose QuietComfort Noise Cancelling Headphones, Certified Refurbished $123",
    "price_raw": "$123",
    "source": "reddit",
@@ -615,24 +663,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xs80ku/monitor_amazon_basics_24_gaming_monitor_restocked/",
    "posted_at": "2026-11-09T23:58:33+00:00"
-  },
-  {
-   "title": "[Motherboard] Gigabyte B650 GAMING X AX V2 AMD AM5 - $104.99 (30% off)",
-   "price_raw": "$104.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/",
-   "posted_at": "2026-11-09T23:54:27+00:00"
-  },
-  {
-   "title": "[Bundle] Cooler Master Sneaker-X Mini-ITX PC Case f+ 360mm AIO + 850W SFX PSU $231.69",
-   "price_raw": "$231.69",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs7v93/bundle_cooler_master_sneakerx_miniitx_pc_case_f/",
-   "posted_at": "2026-11-09T23:51:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1632,
+  "listings_seen": 1633,
   "models_with_reference": 35
  }
 }
