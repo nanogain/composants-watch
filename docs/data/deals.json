@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T15:38:00Z",
+ "generated_at": "2026-11-10T16:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 333,
-   "last_ok": "2026-11-10T15:38:00.683628+00:00"
+   "last_ok": "2026-11-10T16:08:00.619793+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T15:38:00.683628+00:00"
+   "last_ok": "2026-11-10T16:08:00.619793+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-10T15:38:00.683628+00:00"
+   "items": 395,
+   "last_ok": "2026-11-10T16:08:00.619793+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 50,
-   "last_ok": "2026-11-10T15:38:00.683628+00:00"
+   "items": 1,
+   "last_ok": "2026-11-10T16:08:00.619793+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZ36cAEUYF2iaZCaG8DnqgyCiEHiupB51ie4orQ4l0TjikRfxe8BWiV0pd7OxRMlPmmaSryFG7BoRO7btDfo1WOPHYvmsWXLXdW6dpcEWmRIP0cxbiw1JziiKsPqUKWlAOCO8uQfARQZ1tlSYZ%2B5O5I",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaQF1xu2MSNp7uBibK0mJ6zEEHUS5bij%2FROEZEAnFBJzJa8UzWTf9Opj1PU7%2FkypBaivyNKXYMnEMVylFbNigwz3S55wz%2FTpWiR5qF3j7I%2FKBv%2F9DWTH4lOxKRQFD4qfeQ7ZYo2ZGJJgf961LQNQE8k",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -90,23 +90,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
-   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 90.75,
-   "shipping_eur": 0.0,
-   "effective_eur": 90.75,
-   "median_eur": 149.99,
-   "discount_pct": 39.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-official-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
-   "posted_at": "2024-11-07T06:12:38+00:00"
   },
   {
    "title": "SSD interne Netac NV3000 M2 - 1 To",
@@ -173,25 +156,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9UBCSf%2FNOqtg%2B%2BRcTZoCP5RRGKKcn0Yu4LNqobClxHzjVwdwxQbmXV1lFudW8JlElVwcPJsszpcxcgiSiss94GvPF99fOfUnVp1sEdnGirohCBcZ8Z11N9EJERENay3HjVL6Tog9mZYP%2BJm0k3uUJUMIkK9MIMb%2FEn%2FdUUIGAyTQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8BJs%2BB2%2F16WSJi228IfKoe6W8%2FXafjF9l4hVP9tXk9rltkzq0Ja2v45zyJxj%2FaNqbFc9jZUYl5%2FkCmuWS%2FC%2Fd9Ylo0jnuVND2x%2F5DLoPQqNkGXaO9%2FlTMlf2rN7rDIwcbwU82xvEROMaXwLKLUlxNpMMVfedS%2Fio%2FynozBZ%2FbFWg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 69.99,
-   "discount_pct": 28.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fik-8981 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
-   "posted_at": "2026-09-11T06:05:29+00:00"
   },
   {
    "title": "WDS500G2B0A WD Blue 3D NAND SSD Interne 2.5\" SATA 500 GB Go",
@@ -262,23 +228,6 @@
    "posted_at": "2026-11-09T11:03:45+00:00"
   },
   {
-   "title": "SSD Micron 2200S 512Go NVMe M.2 2280 PCIe Gen3 x4 Dell - Santé 93%",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 43.24,
-   "shipping_eur": 0.0,
-   "effective_eur": 43.24,
-   "median_eur": 54.99,
-   "discount_pct": 21.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 381 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127692905?_skw=ssd&hash=itemc8439b0869:g:jE4AAeSw9uxq8a8E",
-   "posted_at": "2026-11-09T11:33:15+00:00"
-  },
-  {
    "title": "SSD de marque SANDISK de capacité 256Go modèle X600 M.2 format 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -314,6 +263,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Asus ROG AZOTH Extreme Clavier gaming sans fil (USB/Bluetooth/RF 2,4 GHz)",
+   "price_raw": "389.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/127766410735?_skw=clavier&hash=item1dbf78b5ef:g:n2sAAeSw5WNq8iMg",
+   "posted_at": "2026-03-24T00:08:22+00:00"
+  },
   {
    "title": "[Nouveaux clients] Souris Gaming Sans Fil Ultra-Légère TMICE G13 - 54 g, Capteur Optique PAW3395, 26 000 DPI, 8K Hz, Bluetooth",
    "price_raw": "22,24€",
@@ -656,17 +612,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xsa231/fan_thermalright_tlc14cs_x3_140mm_silent_black/",
    "posted_at": "2026-11-10T01:30:58+00:00"
-  },
-  {
-   "title": "[Headphones] Razer Kraken Kitty V2 USB Wired Headset Hello Kitty Edition, Restock - $39.99 (64% off)",
-   "price_raw": "$39.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs86d1/headphones_razer_kraken_kitty_v2_usb_wired/",
-   "posted_at": "2026-11-10T00:04:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1638,
-  "models_with_reference": 34
+  "listings_seen": 1644,
+  "models_with_reference": 35
  }
 }
