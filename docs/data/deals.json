@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T22:38:00Z",
+ "generated_at": "2026-11-10T23:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-10T22:38:00.685690+00:00"
+   "items": 334,
+   "last_ok": "2026-11-10T23:08:00.676176+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T22:38:00.685690+00:00"
+   "last_ok": "2026-11-10T23:08:00.676176+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-10T22:38:00.685690+00:00"
+   "items": 380,
+   "last_ok": "2026-11-10T23:08:00.676176+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 7,
-   "last_ok": "2026-11-10T22:38:00.685690+00:00"
+   "items": 80,
+   "last_ok": "2026-11-10T23:08:00.676176+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B--95W5zpsFC6AEWKhzndO5UN7I3OD%2FlmE89GliAT1mGb4EQLlK%2BsNGZAT8Yv84H%2FXb8o5kfQaQq8B%2BhWjKk7oXfxPrQYahNdoKnGFaOZrqvkT%2FC21nj5nKKF2nKqyyeghmJ%2F2YUYRqG6x3k7dEC3RPUIPc27nWtww6HEANPBlnsg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FPYhDaY%2F27kp6Iy9M%2B8e3pS%2FzD0eLY6Wq6lu1MHQpEdJN82vBmV49ljcQJnVZwt6Y5szvZpSUErY1TiryIjUBZToD7AbsdwWgsnPU%2Bov1K3x6UTXAEAHWRRubvKAOIhCRIR%2BDCaqDWD6Bz8llQTi8I6C%2BKdweTVDgVWmM6iepdfw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -241,11 +241,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZo1tJUYSeXp5cVGlQEAnLE5W4veAAO5JznRTZ%2BMUHHssMQfEyImwjWHwD1H9XWJYxb06GNjxBc5rJgSH3UZxahjMrwQqCxEWTHRmX8w1FtzzbVOIrd6WpP9DIcjT3nGtYS%2FMiiuLgOxPYF0BwOlevo",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC GMKtec K12 - Barebone (sans RAM ni SSD), Ryzen 7 H 255, Radeon 780M, triple M.2 PCIe 4.0, OCuLink, WiFi 6E (197.39€ via Paypal)",
+   "price_raw": "217,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k12-barebone-sans-ram-ni-ssd-ryzen-7-h-255-radeon-780m-triple-m2-pcie-40-oculink-wifi-6e-19739eur-via-paypal-3451204",
+   "posted_at": "2026-11-10T23:02:00+00:00"
+  },
+  {
+   "title": "Tablette 12.1\" Lenovo Idea Tab Plus (2.5K 90Hz, Dimensity 6400, RAM 6 Go, 128 Go) + Stylet + Coque avec Clavier magnétique (Vendeur Darty)",
+   "price_raw": "288,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-121-lenovo-idea-tab-plus-25k-90hz-dimensity-6400-ram-6-go-128-go-stylet-coque-avec-clavier-magnetique-vendeur-darty-3451625",
+   "posted_at": "2026-11-10T22:48:17+00:00"
+  },
+  {
+   "title": "fanxiang S101 SSD interne 256 Go SATA III 2,5\" 520 Mo/s pour PC portable",
+   "price_raw": "104.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800859144643?_skw=ssd&hash=itemba76ecc1c3:g:-gYAAeSwc~Vq5dJj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mYxY43jYgQCeJjN2LYhW237KbsgcORt9B2aOX53zP5lfFezQodxL89TSZu0o%2FlrYBQ%2BR2t2O09LuxN8mdgZj6H5xAEfelPyy%2F2vm36V1cv1f3Is69LGRxwrpfo3F5YFZpA19uizlFdeyOB49CANRDK5JruVWmP4AbM8KcYiQgJC5UQi6OYTi2PCFOi4hEr4%2FlCDHCwL0Vkjmm1Z9Q%2Fu6LPW4V2TkwdEqsUc4TF8W9gBASF%2BoB5aV%2BGqAyhaaIMheY%2FRuIDh2j8oVH74rracAQXKqGO8SXNIGJVaQXJb0p%2BYw%3D%3D",
+   "posted_at": "2026-10-31T11:35:10+00:00"
+  },
   {
    "title": "Lot de 2 Écrans PC gaming 23.8\" AOC 24G50F - Full HD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync",
    "price_raw": "118,99€",
@@ -334,7 +355,7 @@
    "title": "Carte Graphique NVIDIA GeForce GT 740 4Go GDDR3 128 Bits HDMI DP DVI GPU PC EU",
    "price_raw": "84.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131943032?_skw=carte+graphique&hash=itemc843dbe278:g:M84AAeSw6khq83rg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lUznFdysAziOUfbjpdvxWpwPQWZGLXEF1joguQa%2Fxv%2BNUI44BcsdyaRGsbKKrGnN19OtxlUzR6ncqpq5k59w4mOu3AlkzHrAlLGE5rceVMiQNmX3bNB%2Flajwj7Iy4PsKVqimd0B%2BrNLUQmcCMiNnaoMpu95wT46Ko2v%2FOUDt0FEBHTzj0HKdxwK%2FXrsTD4GkITuw3WRpn%2BRJy6YMKaCLYrb49igEqaItiKG0WsNwLBGfRl36MOO42bc%2BVXqTH3x6wm2R1V7jRQoDGQM7Ue3EJRNpufXcpEOVi0rmwUZwMCPQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/860131943032?_skw=carte+graphique&hash=itemc843dbe278:g:M84AAeSw6khq83rg",
    "posted_at": "2026-11-10T20:13:33+00:00"
   },
   {
@@ -383,7 +404,7 @@
    "title": "Mémoire RAM DDR4 SODIMM PC Portable 8Go 2666MHz Laptop Ordinateur Upgrade EU",
    "price_raw": "76.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlLgQXjjxUgJWIWUJSMms0nX%2FMhWR8jVms0AZdUlnHJvMmoKSjheifr9KSczwwraQuPNVXqQQtiw1Hhu8X2fHJDur65LhN%2BMPUp2Mzsisyq3YlGNiWaTNPat3u3vWmD%2FnptXyjtc1OeGdnp3wNeci8Eo",
+   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlLwT%2FZggk8GMcs1PKxayaOYS8HPeh9E2MD%2BwJsxW81%2FpW9tDKrxExwAAXyUgt1BtOyKztjQgeNzfLfT2OxkHQ2%2F38gw38pmrBaj9UbNQ%2FbOcCtTgBnxVEITnzVQ4DOlrB96ckh7T6M%2Frpgxg8Susjix",
    "posted_at": "2026-11-10T19:51:49+00:00"
   },
   {
@@ -574,31 +595,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-barebone-sans-ramssd-chuwi-aubox-ryzen-7-8745hs-780m-wi-fi-6-bt-53-2-slots-so-dimm-ddr5-2-x-32-go-2-x-m2-2280-2-x-1-to-3451081",
    "posted_at": "2026-11-10T13:22:19+00:00"
-  },
-  {
-   "title": "Boîtier PC Corsair iCUE 5000T - Blanc, verre trempé, façade/dessus en maille, jusqu'à 10 ventilateurs 120 mm (Vendeur tiers)",
-   "price_raw": "114,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-corsair-icue-5000t-blanc-verre-trempe-facadedessus-en-maille-jusqua-10-ventilateurs-120-mm-3451042",
-   "posted_at": "2026-11-10T12:45:39+00:00"
-  },
-  {
-   "title": "Kit Clavier Souris Sans Fil Bluetooth Mini Rechargeable USB-C Tablette Noir",
-   "price_raw": "18.15 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900080164256?_skw=clavier&hash=itemd190f55da0:g:pekAAeSwpm5q8jNB",
-   "posted_at": "2026-11-10T12:54:35+00:00"
-  },
-  {
-   "title": "NAS Ugreen DH4300 Plus avec UPS 120 W - 4 baies, 8 Go RAM, 2,5 GbE, HDMI 4K, NFC, batterie 12 000 mAh (Vendeur Tiers)",
-   "price_raw": "386,98€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nas-ugreen-dh4300-plus-avec-ups-120-w-4-baies-8-go-ram-25-gbe-hdmi-4k-nfc-batterie-12-000-mah-vendeur-tiers-3451026",
-   "posted_at": "2026-11-10T12:35:02+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1674,
-  "models_with_reference": 34
+  "listings_seen": 1677,
+  "models_with_reference": 35
  }
 }
