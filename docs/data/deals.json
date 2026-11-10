@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T01:38:00Z",
+ "generated_at": "2026-11-10T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-10T01:38:00.676636+00:00"
+   "last_ok": "2026-11-10T02:08:00.672872+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T01:38:00.676636+00:00"
+   "last_ok": "2026-11-10T02:08:00.672872+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 386,
-   "last_ok": "2026-11-10T01:38:00.676636+00:00"
+   "items": 382,
+   "last_ok": "2026-11-10T02:08:00.672872+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 33,
-   "last_ok": "2026-11-10T01:38:00.676636+00:00"
+   "items": 77,
+   "last_ok": "2026-11-10T02:08:00.672872+00:00"
   }
  },
  "watchlist": [
@@ -71,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8lOH%2BCMy%2BSQaFRn5k3%2BaBfIna3W%2BjkzznhAcOlGiozc7svN4yNlkK2GPIwvTkjv6DArGZvzDcKAWKW5NLn2idwjU5U7M16bOer2TNudGXmNwxRRtVIdyNNsOGQzcX6b55BtLCCWAyR66pXeck1%2Br8GLRXUb7awNWE0OZH8PN%2Fs1w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8yo%2BpIh%2BBEF5%2BPnuCouoj%2BZMSLNsuWKwcWX8cWqh0JHtUfmwnCuC4kQMorrhiG%2FQxgq3sp%2FqimDUeSHQWveYLARkoSpJ7C1w8VUF2w3lh1rJyDGsyhpd2XtDRj6OZvcSFajVPrcbDWwwM4HfnEFwfj4mYXnOLz%2B5B%2FjMxAXoysxQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JAIEQi23qWc5hqgMDFdRSgiRGeleRFEEbYoCEm1YJL4SLJN4PPI%2FC7s0jNM2272XeEIBxWS%2BrFqVqt%2BDUxyI18Eez0DYA0W7wPw6g9MntP%2BfSTEXPwHza%2BxZtwt0TvMw2%2B4IT0uHqhogqRtk3LbvJUc",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -177,21 +177,21 @@
    "posted_at": "2026-06-04T21:23:16+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
    "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 59.99,
+   "discount_pct": 16.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
+   "merchant": "eBay · fik-8981 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
   },
   {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
@@ -212,6 +212,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Headphones] Bose QuietComfort Noise Cancelling Headphones, Certified Refurbished $123",
+   "price_raw": "$123",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsap7g/headphones_bose_quietcomfort_noise_cancelling/",
+   "posted_at": "2026-11-10T02:02:00+00:00"
+  },
+  {
+   "title": "[Combo] Newegg 16GB DDR5 combos are back - GIGABYTE B850M EAGLE WIFI6E AMD AM5 MATX + AMD Ryzen 5 9600X + T-Force Delta Alpha RGB 16GB DDR5 6000 - $$518.98",
+   "price_raw": "$518.98",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsa9s7/combo_newegg_16gb_ddr5_combos_are_back_gigabyte/",
+   "posted_at": "2026-11-10T01:41:26+00:00"
+  },
   {
    "title": "[FAN] Thermalright TL-C14C-S X3 140mm Silent Black RGB Computer Cooling Fan, 1500RPM High Speed, 4-Pin PWM Connector, 3 Packs - $9.50 (50% off)",
    "price_raw": "$9.50",
@@ -251,7 +265,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx1vNkheHyUpYXyfsW%2BBngL9dUGwjpmcEWMEMtlyyIdOh5arPVg5EegIzPIXsN9RwPTdjBElgPmBQ3z5nM3kIpAbfUBPzWeg5Fw6mvPO0QY9VsQ2J71sMXTNvbCh%2BX3Ewgwhp5XdimbzUEDotlz55rxN",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx1c18udE4g15VfRJ4YqjVdcN7z9HRn%2Faa6n5pV4BlDgfBlNSUDlO2kfPZPM7eLD2bjrtB%2FSE%2B2S0CCtC3KtOxUOxDpZitYz9M9BgB5k0%2FmIZDJ3RJVoZlv3CLZSLVptDuSlAfLnnI7EWqEa2Z5f7sI8",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -260,13 +274,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xs70bl/motherboard_asrock_b860_challenger_wifi_white_lga/",
    "posted_at": "2026-11-09T23:14:22+00:00"
-  },
-  {
-   "title": "Hama KC-700 Clavier USB Slim QWERTZ Plein Format Numpad Argent Scissor",
-   "price_raw": "26.97 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377633817579?_skw=clavier&hash=item57ecbac3eb:g:-ZQAAeSwwd1q2BFO",
-   "posted_at": "2026-11-09T23:11:45+00:00"
   },
   {
    "title": "Ecran PC 24\" Iiyama G-Master G2441HSU-B1 Black Hawk",
@@ -332,6 +339,13 @@
    "posted_at": "2026-11-09T20:47:13+00:00"
   },
   {
+   "title": "Carte mère Gigabyte GA-F2A78M-DS2 + AMD A4-4000+Ventirad",
+   "price_raw": "30.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389177257702?_skw=carte+m%C3%A8re&hash=item5a9cc5aee6:g:OtEAAeSw9QBpB5vR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k2qtYmHuKpDu2KehjdX9VKdyvBaOvYk%2FO8Xg4wMw1Wizs2hQ1CagNjaqF6ADePQAJq54Sxcjyq5JNP0skngRANDxisTSnAYNPbASjQPiP6w--LMxQVhKBIgBbHG%2FZCbVfB8XlXv8NH8rg%2Fwe3Fylt2BKsjIGCtumsGP8dlSnnCFxoE9G1vzjcovDlquiki9h2WX816jtzbrW3VyjtuvWp5G35hDN1VCTm2DX2beHo6VTRIJVdfK0iHgVGVn4dbN%2BSK9HpGhWZY%2FFyZOHLRgRzqHa4lnBNVT65iZT08hJslfQ%3D%3D",
+   "posted_at": "2025-11-02T18:02:32+00:00"
+  },
+  {
    "title": "Boitier PC Cooler Master MasterFrame 360 Stage Miroir",
    "price_raw": "119,90€",
    "source": "dealabs",
@@ -363,7 +377,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLduA%2BuErkVFIO7OfbFfxVz03OGwT%2BnwVPsqZYTyVLHNNCu9SkWItB%2FqO9Mo3ODF0GJhjs04vxe%2BShBbrQK%2B8gu8nvSoc7kddSKB87eQxq99x82JHyXFwkllhAbMz1Qq9AbOBVq7ToQgcBYMyHnXHec7zIVtO2wFGMg%2BJhHJZACkB2A%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdvY%2F5ZHdK0vFq4wWhPOp%2B9NCkJ1bG8N3p6M8maFsLWMCtpSaKVkqJ5ZVfWMSCQgzf401v1NM3zRJNxSpV4FZqQBy%2BWvnm0PAz7zHjAVU02ITg%2FpO21IpfLzLXaPWS1R%2FC1loLpXWUpuDByv5iomlBGN0BU7BMiCRKhHdJTUrRlVVA%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -379,13 +393,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/189052869697?_skw=carte+m%C3%A8re&hash=item2c046ddc41:g:fwIAAeSw5XZqxQpA",
    "posted_at": "2026-10-06T20:16:31+00:00"
-  },
-  {
-   "title": "Ecran PC Smart Tech 22\" 215N01FVF FHD Dalle VA 5ms HDMI VGA",
-   "price_raw": "141.55 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/226421671509?_skw=%C3%A9cran+pc&hash=item34b7c88655:g:dX4AAOSwYNtkXP~k&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n8iTM4H%2Fw1OEJkOH17QC%2FSmtHVMoaj8GjL1KXrFfSB5OKeXU7NI9SPPjbVPfDPLeOeN0Px%2F6xtLbohGN04VjkaiD6eiT2KX%2FNn%2FlffmYC3qa2nDFEstaohaD3XcYw68DQb9R4ScaTWO1wCuWbe5jyjbKnh6AzejH8%2FrMtF0VWCbl4AoWeiVogY5P9u2O4uTWWEt6Pd1v8f4TMGUIlw1GlfsMkMZ33MZZbwXLNhC%2Fzc5wxIwFqbKW92FcgIMYqsGrLbJpPWrPLcFbf%2BIk%2F4g4KiKjoUs12orpoHJGZtJ6dciw%3D%3D",
-   "posted_at": "2024-10-28T15:07:37+00:00"
   },
   {
    "title": "Manette Sony PS5 DualSense - Blanche, Compatible PS5, PC, MAC et Mobile",
@@ -554,17 +561,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-thermaltake-tr300-tg-wood-verre-trempe-ventilateur-120mm-blanc-3449988",
    "posted_at": "2026-11-09T14:51:15+00:00"
-  },
-  {
-   "title": "PC Portable 16\" MSI Crosshair 16 Max HX E2WGK-002FR - QHD+ 240Hz, Ultra 7 255HX, 16 Go RAM, 512 Go SSD, RTX 5070",
-   "price_raw": "1 499,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-crosshair-16-max-hx-e2wgk-002fr-16-qhd-240hz-ultra-7-255hx-16-go-512-go-rtx-5070-3449972",
-   "posted_at": "2026-11-09T14:37:57+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1562,
+  "listings_seen": 1564,
   "models_with_reference": 29
  }
 }
