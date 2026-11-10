@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T07:38:00Z",
+ "generated_at": "2026-11-10T08:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 336,
-   "last_ok": "2026-11-10T07:38:00.676155+00:00"
+   "items": 335,
+   "last_ok": "2026-11-10T08:08:00.685324+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T07:38:00.676155+00:00"
+   "last_ok": "2026-11-10T08:08:00.685324+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 401,
-   "last_ok": "2026-11-10T07:38:00.676155+00:00"
+   "items": 400,
+   "last_ok": "2026-11-10T08:08:00.685324+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 32,
-   "last_ok": "2026-11-10T07:38:00.676155+00:00"
+   "items": 33,
+   "last_ok": "2026-11-10T08:08:00.685324+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIY8OJxT1fLRXm46nr9QjG81ElCqhA3NIkfmWN%2FlvE2GdKwYzcC%2FZt3bg9R1xwpMKb4uf7CCCnxw4fTNX2drJCYObL%2BQl0%2F96DYmQqi4Jv6ty564UOKNg6F%2BOUc1Q7EwXWKw%2BgSnCRlZ%2FsIEPygf%2BJbx",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbDu8x9%2FwohLeMgW8xqDGax4plFBMX9aZgfuFD4l9JEFPS%2F3ua0JbzE9LZqlgXR0UqBAk2Z9eqOJRQh1Dl%2FYqOqh0VropmZncTbsLtQ3R0vBAh9v1xXUmVk09bq21maHe9ASYnWAXzeOqpFXzCUxzn1",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -82,8 +82,8 @@
    "price_eur": 169.99,
    "shipping_eur": 0.0,
    "effective_eur": 169.99,
-   "median_eur": 289.99,
-   "discount_pct": 41.4,
+   "median_eur": 280.6,
+   "discount_pct": 39.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9blqWtcUZSlth0A1GGjxUv%2F2IwJt1hjFlEjHtT3dUE2LQv8ldb5qoXCBnyhp6u5LvrPDxfIX64cnIPFfrP%2Fl%2BacX40Ih1uQkWainkJRLVwmhItEz6edOmNk4pVjHnPxKHS7npk0q66iTmKQuS2vBG%2Far36NvdQ49yPfcKvsW88cQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B2G8nIurGdE5l0eUkXxbMT6oXtdav1KoIZRjo8pVC3sSg%2BS3RyGbp0kHzczk9UDvl%2BDBwEnf4z4QFX02--Q1Yp0sc4crQeZC4SDqlYw8YtB2pMjPXCCoU2iUXYRLT1PyiPrLdVog8pKW2aolBviJcuDST38der9FVJ1FQ0x4QQsA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -264,6 +264,34 @@
  ],
  "unclassified": [
   {
+   "title": "NAS UGREEN NASync DH4300 Plus + onduleur US2000 - 4 baies, 8 Go RAM, 2.5 GbE, HDMI 4K, 128 To max (vendeur tiers)",
+   "price_raw": "364,88€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nas-ugreen-nasync-dh4300-plus-onduleur-us2000-4-baies-8-go-ram-25-gbe-hdmi-4k-128-to-max-vendeur-tiers-3450655",
+   "posted_at": "2026-11-10T07:53:52+00:00"
+  },
+  {
+   "title": "Tour midi BeQuiet Pure Base 600 Boîtier PC noir isolé, fenêtre latérale, 2",
+   "price_raw": "121.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267839399280?_skw=boitier+pc&hash=item3e5c78e570:g:Z~cAAeSwmxNq8s2Z",
+   "posted_at": "2026-11-10T07:53:48+00:00"
+  },
+  {
+   "title": "Samsung ODYSSEY G55C Ecran PC 32'' QHD Gaming incurvé - 165Hz - HDMI, DisplayPor",
+   "price_raw": "213.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/176596989713?_skw=%C3%A9cran+pc&hash=item291e003711:i:176596989713",
+   "posted_at": "2024-09-26T06:37:18+00:00"
+  },
+  {
+   "title": "Trust Multi Function Keyboard AZERTY FR PS/2 filaire touches multimédia win 98 ",
+   "price_raw": "14.81 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168851943935?_skw=clavier&hash=item27505c31ff:g:IL0AAeSwgRZq8s6o",
+   "posted_at": "2026-11-10T08:02:31+00:00"
+  },
+  {
    "title": "Logitech MX Keys Mini",
    "price_raw": "69,49€",
    "source": "dealabs",
@@ -318,13 +346,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xseja7/prebuilt_powerspec_g740_ryzen_7_7700x_rtx_5060_ti/",
    "posted_at": "2026-11-10T05:17:49+00:00"
-  },
-  {
-   "title": "SK hynix 4Go DDR4 DIMM PC4-2666V HMA851U6CJR6N",
-   "price_raw": "10.69 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257636876821?_skw=ddr4&hash=item3bfc5ac215:g:2joAAeSwLDFqYRYD",
-   "posted_at": "2026-07-22T19:13:08+00:00"
   },
   {
    "title": "Alphacool core 100 Réservoir Watercooling Noir/Transparent Avec Supports Montage",
@@ -428,7 +449,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx31Ddm%2BOhuHRMKIMEetOJS1B7UdjJ6kkvdmG1mCevlcTDBYwaASb3aGCU5N85fDytEYDUBJqoojYUciXqcKZ9wGjJFrzpQOSsFmupyMfUGANORq%2FIROsdOU5f3TWcLEGilu2pXiNkp0im4wOyFa9E5K",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx2h91oKuKHhoH48%2FbO6e0UFJFdmbJ40EcWK7FnBqvIpP0bdd%2Fc%2Fb9GP8bjS6%2FrKh7V2BJuUhXtyx8fjlJ%2FW5WYIN1nNb33AviHKL%2BDLNJOFByeuUCQXwGHdXAhm9642vf0uRAFLhH%2F7xTIAPqqe5BUA",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -519,7 +540,7 @@
    "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLduuSjlbW2JeuPmXt5juZZ2MQMSNkhps1jzwb%2B6sfHD9w%2FJT03vN4VbFnynlmPXw9%2BVL6ccZjgKEk6wLo04uN11iEi2z5V%2BiBhG9Pu9Ow1Y0bRHHK%2FmWM3CH0Hjpc4v7IAA9ZIIheXG6hFbP%2Fr1rWW3F9PpkDwgYucRCC9ucUOFB1g%3D%3D",
+   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLduFNF9MDESMZ5C4Q3hNigkv0tSNRpuMRkkCZGTpuangZnNLnQvT45V5yHgNuUkfBy7KeJ5ZTwyRbD8lsEmEPQeUkhpG0PBxOxAli3KfOrLJpiox8bKTHSfLHb5RpGVacgadGBTdL1--ux%2BDPLw2rOv76no4DmIw%2BPwEX8esTGOlKg%3D%3D",
    "posted_at": "2026-07-03T15:02:21+00:00"
   },
   {
@@ -591,31 +612,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xrwldc/gpu_asrock_creator_radeon_ai_pro_r9700_32gb/",
    "posted_at": "2026-11-09T16:42:11+00:00"
-  },
-  {
-   "title": "Mini PC SOYO M4 Power, AMD Ryzen 3 3250C, 8GB DDR4 256GB M.2 SSD Windows 11 Pro",
-   "price_raw": "127,21€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m4-power-amd-ryzen-3-3250c-8gb-ddr4-256gb-m2-ssd-windows-11-pro-3450095",
-   "posted_at": "2026-11-09T16:32:57+00:00"
-  },
-  {
-   "title": "Souris filaire Razer DeathAdder Essential (2021) - 6400 DPI, 5 Boutons Programmables, Jusqu'à 10M de Clics, Noir",
-   "price_raw": "12,08€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-filaire-razer-deathadder-essential-2021-6400-dpi-5-boutons-programmables-jusqua-10m-de-clics-noir-3450084",
-   "posted_at": "2026-11-09T16:20:19+00:00"
-  },
-  {
-   "title": "Station d'accueil UGREEN Revodok Max 213 - Thunderbolt 4 13-en-1, 90W, Double 4K (Vendeur tiers)",
-   "price_raw": "246,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/station-daccueil-ugreen-revodok-max-213-thunderbolt-4-13-en-1-90w-double-4k-vendeur-tiers-3450074",
-   "posted_at": "2026-11-09T16:13:04+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1592,
-  "models_with_reference": 31
+  "listings_seen": 1595,
+  "models_with_reference": 30
  }
 }
