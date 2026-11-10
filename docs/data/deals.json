@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T22:08:00Z",
+ "generated_at": "2026-11-10T22:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-10T22:08:00.678610+00:00"
+   "items": 335,
+   "last_ok": "2026-11-10T22:38:00.685690+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T22:08:00.678610+00:00"
+   "last_ok": "2026-11-10T22:38:00.685690+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 389,
-   "last_ok": "2026-11-10T22:08:00.678610+00:00"
+   "items": 381,
+   "last_ok": "2026-11-10T22:38:00.685690+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 71,
-   "last_ok": "2026-11-10T22:08:00.678610+00:00"
+   "items": 7,
+   "last_ok": "2026-11-10T22:38:00.685690+00:00"
   }
  },
  "watchlist": [
@@ -48,8 +48,8 @@
    "price_eur": 129.19,
    "shipping_eur": null,
    "effective_eur": 129.19,
-   "median_eur": 329.99,
-   "discount_pct": 60.9,
+   "median_eur": 314.99,
+   "discount_pct": 59.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon",
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2F%2BNlZlKrlsijjkmQYMfb%2FFYouE2q6LQ8R0vrR3Sq33e5n8bpDCGiyVPaXK%2BGgjzjBN5kI35jlhNeHegc4X2AEVqYsSoezXSGtfFg4rRb3cS46%2BxAL7l1XMRmKp8TGm6MbGbQhNy7LZNmQctQx%2FkL3G0Pj7beo471VfJVh6GemMKg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B--95W5zpsFC6AEWKhzndO5UN7I3OD%2FlmE89GliAT1mGb4EQLlK%2BsNGZAT8Yv84H%2FXb8o5kfQaQq8B%2BhWjKk7oXfxPrQYahNdoKnGFaOZrqvkT%2FC21nj5nKKF2nKqyyeghmJ%2F2YUYRqG6x3k7dEC3RPUIPc27nWtww6HEANPBlnsg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -247,6 +247,20 @@
  ],
  "unclassified": [
   {
+   "title": "Lot de 2 Écrans PC gaming 23.8\" AOC 24G50F - Full HD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync",
+   "price_raw": "118,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecrans-pc-gaming-238-aoc-24g50f-fhd-ips-180hz-05-ms-hdr-compatible-g-sync-3450799",
+   "posted_at": "2026-11-10T22:26:05+00:00"
+  },
+  {
+   "title": "Ecran PC 34\" Philips Evnia 34M2C3591L - Incurvé, 34 Pouce 180Hz Fast VA Dalle, 1ms GtG, HDR10, FreeSync Premium",
+   "price_raw": "229€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/philips-evnia-gaming-moniteur-incurve-34-pouce-180hz-fast-va-dalle-1ms-gtg-hdr10-freesync-premium-3440x1440-hdmi-2x-20-dp-1x-14-3451596",
+   "posted_at": "2026-11-10T22:10:46+00:00"
+  },
+  {
    "title": "PC Portable 16\" Asus V16 - WUXGA 144Hz, Intel Core 7 240H, 16Go DDR5, 1To SSD, NVIDIA RTX 5060, Windows 11 Home",
    "price_raw": "1 154,97€",
    "source": "dealabs",
@@ -320,7 +334,7 @@
    "title": "Carte Graphique NVIDIA GeForce GT 740 4Go GDDR3 128 Bits HDMI DP DVI GPU PC EU",
    "price_raw": "84.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131943032?_skw=carte+graphique&hash=itemc843dbe278:g:M84AAeSw6khq83rg",
+   "url": "https://www.ebay.fr/itm/860131943032?_skw=carte+graphique&hash=itemc843dbe278:g:M84AAeSw6khq83rg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lUznFdysAziOUfbjpdvxWpwPQWZGLXEF1joguQa%2Fxv%2BNUI44BcsdyaRGsbKKrGnN19OtxlUzR6ncqpq5k59w4mOu3AlkzHrAlLGE5rceVMiQNmX3bNB%2Flajwj7Iy4PsKVqimd0B%2BrNLUQmcCMiNnaoMpu95wT46Ko2v%2FOUDt0FEBHTzj0HKdxwK%2FXrsTD4GkITuw3WRpn%2BRJy6YMKaCLYrb49igEqaItiKG0WsNwLBGfRl36MOO42bc%2BVXqTH3x6wm2R1V7jRQoDGQM7Ue3EJRNpufXcpEOVi0rmwUZwMCPQ%3D%3D",
    "posted_at": "2026-11-10T20:13:33+00:00"
   },
   {
@@ -369,7 +383,7 @@
    "title": "Mémoire RAM DDR4 SODIMM PC Portable 8Go 2666MHz Laptop Ordinateur Upgrade EU",
    "price_raw": "76.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlIqfZ7zP85mF9GBM36I1kX7OQbJka4mTep7ebVfAu41VgnAZrHRCupqZibUJNdWONkSaf9j8BO41p9HKe7gERo98RXy9R%2Bmn0aVKpAFoGmqm8mACfphcinitpEh5pD24yIWCCyiHCtRmlYxeJEhKj%2FK",
+   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlLgQXjjxUgJWIWUJSMms0nX%2FMhWR8jVms0AZdUlnHJvMmoKSjheifr9KSczwwraQuPNVXqQQtiw1Hhu8X2fHJDur65LhN%2BMPUp2Mzsisyq3YlGNiWaTNPat3u3vWmD%2FnptXyjtc1OeGdnp3wNeci8Eo",
    "posted_at": "2026-11-10T19:51:49+00:00"
   },
   {
@@ -581,24 +595,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nas-ugreen-dh4300-plus-avec-ups-120-w-4-baies-8-go-ram-25-gbe-hdmi-4k-nfc-batterie-12-000-mah-vendeur-tiers-3451026",
    "posted_at": "2026-11-10T12:35:02+00:00"
-  },
-  {
-   "title": "ASRock TPM2-S TPM Module Carte mère (V2.0) - Puce NuvoTon - 80-CXG5H0-1A21",
-   "price_raw": "11.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352936647?_skw=carte+m%C3%A8re&hash=item5ed82088c7:g:eYAAAOSwZMNmfRJG",
-   "posted_at": "2026-11-10T12:13:14+00:00"
-  },
-  {
-   "title": "Pack de 12 Filaments pour Imprimante 3D Creality Ender PLA 1,75 mm - Noir, Blanc, Gris, Bleu, Rouge, Jaune (vendeur tiers)",
-   "price_raw": "95,20€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/creality-ender-pla-175-mm-pack-de-12-filaments-pour-imprimante-3d-noir-blanc-gris-bleu-rouge-jaune-3450995",
-   "posted_at": "2026-11-10T11:51:38+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1671,
+  "listings_seen": 1674,
   "models_with_reference": 34
  }
 }
