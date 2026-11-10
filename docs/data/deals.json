@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-10T10:38:00Z",
+ "generated_at": "2026-11-10T11:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-10T10:38:00.655454+00:00"
+   "items": 334,
+   "last_ok": "2026-11-10T11:08:00.631125+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-10T10:38:00.655454+00:00"
+   "last_ok": "2026-11-10T11:08:00.631125+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 390,
-   "last_ok": "2026-11-10T10:38:00.655454+00:00"
+   "last_ok": "2026-11-10T11:08:00.631125+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-10T10:38:00.655454+00:00"
+   "items": 34,
+   "last_ok": "2026-11-10T11:08:00.631125+00:00"
   }
  },
  "watchlist": [
@@ -54,7 +54,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYs2qLjEAq00kKgMNhlZ1BYWDRZyOybbUCjymWVKiPgCWp9iZzHxSF7fnimD3XeH80Xb3VVQqSq3db%2Fmzoz4afCnxK%2FwGEkp%2F4GSi8SPad92D5qQH0smDXjuMufg3hcJQH0CacKKoRK9hW2gjE9xwO0",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZdUgklYDFkYBHxjYzPYpXGGRT6U0ncgXqgr7HIL58DcbeSZw%2FZs3WHFv6DuUvWhqv8oN9D9RXegLh8TvvpWG7KBxGK7IYmU40HaYJwrqwhAUIDf2U3h3d88%2F9Bi8tyUakfG%2Fizwj29veUXwVOYl3mY",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h4d-qhd-fast-ips-240hz-oc-275hz-hdmi-20-dp-14-vendeur-tiers-3447721",
    "posted_at": "2026-11-06T12:29:59+00:00"
+  },
+  {
+   "title": "SSD interne Netac NV3000 M2 - 1 To",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 92.39,
+   "shipping_eur": null,
+   "effective_eur": 92.39,
+   "median_eur": 149.99,
+   "discount_pct": 38.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-nv3000-m2-1-to-3450946",
+   "posted_at": "2026-11-10T10:59:57+00:00"
   },
   {
    "title": "Bloc Alimentation PC Lenovo Delta DPS-280FB G FRU 41A9684 280W",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bu9m%2BZmn47WAV8BNkdiMpMVRN7aHORlkv9X5jw8L90Ibz2sDa%2B9uaiQIAKGwQ66IDTpj1fjCnyaYOOUkOBCd3OXFt6CvJxTNzAB%2BeHnUuGluuXWjAU5r8PaMxyxONBEmxaNWhtvQJg5le%2BkU5XGNoEHMdgZXQTRotUSHo63oThjQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FHUMTxCfb3ibDcA8PH%2FTSg3JfDTQ%2BcXkNx4O0a7HiPk6AD6uHUuuq7WFuly8LrnVyUgaXZgWmKO5zCtPRZ4XmOBl35o%2F6vQbQfTuKQoAlQeHqx2z6IzpFlg8eVUfBKUjcggUJoYQp2%2FGiEnkL53Iold5gooBjRA%2BoCmRoZwp3AUw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -229,6 +246,41 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Carte graphique MLLSE ATI-Radeon RX-580 8Go",
+   "price_raw": "198.20 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940080589872?_skw=carte+graphique&hash=itemdae12b6c30:g:WFwAAeSwclZq8vo0",
+   "posted_at": "2026-11-10T11:04:15+00:00"
+  },
+  {
+   "title": "Micron 16 Go (2x8 Go) DDR4 SDRAM PC4-2133P SO-DIMM MTA16ATF1G64HZ",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900079899036?_skw=ddr4&hash=itemd190f1519c:g:goUAAeSwXhlq8vd6",
+   "posted_at": "2026-11-10T10:53:42+00:00"
+  },
+  {
+   "title": "Samsung 16 Go (2x8 Go) DDR4 SO-DIMM PC4-2400T 260 broches M471A1K43CB1-CRC",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900079908478?_skw=ddr4&hash=itemd190f1767e:g:Y60AAeSwn-Rq8vku",
+   "posted_at": "2026-11-10T11:00:35+00:00"
+  },
+  {
+   "title": "SK hynix 16 Go (2x8 Go) DDR4 PC4-2133P SO-DIMM HMA41GS6AFR8N-TF",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900079882261?_skw=ddr4&hash=itemd190f11015:g:n54AAeSw~75q8vXS",
+   "posted_at": "2026-11-10T10:46:17+00:00"
+  },
+  {
+   "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
+   "price_raw": "31.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336890011598?_skw=clavier&hash=item4e70359fce:g:ZOsAAeSwF9Fq8vpT",
+   "posted_at": "2026-11-10T11:05:43+00:00"
+  },
   {
    "title": "CORSAIR 3000D RGB Airflow Boîtier PC Mid-Tower",
    "price_raw": "56.26 EUR",
@@ -342,13 +394,6 @@
    "posted_at": "2024-09-26T06:37:18+00:00"
   },
   {
-   "title": "Logitech MX Keys Mini",
-   "price_raw": "69,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-mx-keys-mini-3450615",
-   "posted_at": "2026-11-10T07:17:07+00:00"
-  },
-  {
    "title": "Souris sans fil Logitech G G309 Lightspeed - Switchs Hybrides Lightforce, Capteur Hero 25K, 6 Boutons Programmables, PC/Mac, Blanc",
    "price_raw": "36,99€",
    "source": "dealabs",
@@ -377,6 +422,13 @@
    "posted_at": "2026-11-10T05:17:49+00:00"
   },
   {
+   "title": "SK hynix 4Go DDR4 DIMM PC4-2666V HMA851U6CJR6N",
+   "price_raw": "10.69 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257636876821?_skw=ddr4&hash=item3bfc5ac215:g:2joAAeSwLDFqYRYD",
+   "posted_at": "2026-07-22T19:13:08+00:00"
+  },
+  {
    "title": "Alphacool core 100 Réservoir Watercooling Noir/Transparent Avec Supports Montage",
    "price_raw": "47.50 EUR",
    "source": "ebay",
@@ -396,20 +448,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117267549837?_skw=ddr4&hash=item1b4db0ce8d:g:Jq8AAeSwfVNqVLLo",
    "posted_at": "2026-06-25T06:41:52+00:00"
-  },
-  {
-   "title": "Barrettes RAM 16GB DDR4 ECC Serveur - Micron",
-   "price_raw": "49.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/397951950634?_skw=ddr4&hash=item5ca7c8df2a:g:uqoAAeSwZLVqB08e",
-   "posted_at": "2026-05-15T16:56:27+00:00"
-  },
-  {
-   "title": "Barrette RAM Serveur SK Hynix 8 Go DDR4 ECC Registered (PC4-2133P) – HP",
-   "price_raw": "21.22 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206664154855?_skw=ddr4&hash=item301e24bee7:g:PIcAAeSwqGVq5QE6",
-   "posted_at": "2026-10-30T20:46:01+00:00"
   },
   {
    "title": "Dell SNPK7G24C/16G AB883074 1Rx8 16GB 4800 MT/s DDR5 Non-ECC UDIMM RAM K7G24",
@@ -478,7 +516,7 @@
    "title": "16 Go Ram DDR4 pour Synology DS220+ / DS420+ / DS720+ / DS920+ / DS1520+",
    "price_raw": "89.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx3ozOWRUMrMPJMfaB8blzlruHbfkI2IbjIV4FXuE2gnPfOrUSa0RhV0WauWLZnsx6wXDO5JNt1D%2FiT8I2S%2FTm4C%2FS2Gvt7GC2kmjvUhu0q6ZKjrMh%2B1gXPs44DmpUXwTddaXgD0Ic%2B29pSNw86Iy0XO",
+   "url": "https://www.ebay.fr/itm/287684361094?_skw=ddr4&hash=item42fb52fb86:g:bHUAAeSwuM5q4LQ5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mCKUhQUGVS2%2FYXFWMyTVqzYv5SPgP67DO2qNCL2HVgSagxqJvUPByVOHBTB4knaIvtV94Z3%2FAWCwZrXeb6sTuG14yL8MYb1QYye%2BHN2eet0rcnSGV352QMkXLZzFQsPx04Kwet7hNpA%2FVtPOiFMorPxvYB0lAoOVxZSBrvNvbVWuHbw%2BPlzueRr5N7ES0V0hoWpADp4yyu565sEbyzMLtYt3u3hPv%2B%2F7qKyJLFfvSvwd%2FD03uW10VYOh5c%2FarIE8HsbOa7oWzP89QzNy2LH8De",
    "posted_at": "2026-10-27T14:31:30+00:00"
   },
   {
@@ -557,31 +595,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xs2pkc/gpu_gigabyte_rtx_5080_aero_oc_16_gb_white_free/",
    "posted_at": "2026-11-09T20:26:00+00:00"
-  },
-  {
-   "title": "[Other] Heavy-Duty Dual Monitor Stand up to 32\" $15.99",
-   "price_raw": "$15.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs2oxz/other_heavyduty_dual_monitor_stand_up_to_32_1599/",
-   "posted_at": "2026-11-09T20:25:20+00:00"
-  },
-  {
-   "title": "Carte Mere Dell AIO 3050 - PN 0P7V82 - IPKBL-SR 35W",
-   "price_raw": "63.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287435817858?_skw=carte+m%C3%A8re&hash=item42ec828382:g:9EkAAeSwhVFqR83G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lvfG6FBiJyUYRNrXq%2B4LBb64Oh%2BQRlxi9YzQLrgzcj1HZa1fDejIwR6PvtkoF4NtPHBoTy1NPg0QYG1eIU7nOPEW%2BVChY7%2FA3nE3TxPPpMBLdycCNF2vDoYoJxNpTxLdsX9NdL15JRdY2O1mmnA%2F85iZ6HmxFxxuq1mwmSzy%2FR%2B%2BLqHwbT2HOOfZSUFKFwYjKtI%2FRN1rUm1pPEDLUI3pBZiruOVYlPDYw9nZBI4bY%2BCet1FkTS2JdnzRYPWwtHeTZ2886OAHx8jP6ToZR5cCmJGeKGVCKkmK82oSVRBig6eA%3D%3D",
-   "posted_at": "2026-07-03T15:02:21+00:00"
-  },
-  {
-   "title": "Manette Sony PS5 DualSense - Blanche, Compatible PS5, PC, MAC et Mobile",
-   "price_raw": "59,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/manette-sony-ps5-dualsense-blanche-compatible-ps5-pc-mac-et-mobile-3450195",
-   "posted_at": "2026-11-09T18:41:28+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1602,
-  "models_with_reference": 31
+  "listings_seen": 1610,
+  "models_with_reference": 32
  }
 }
