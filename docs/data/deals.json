@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T21:38:00Z",
+ "generated_at": "2026-11-11T22:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-11T21:38:00.671082+00:00"
+   "items": 340,
+   "last_ok": "2026-11-11T22:08:00.622728+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T21:38:00.671082+00:00"
+   "last_ok": "2026-11-11T22:08:00.622728+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 367,
-   "last_ok": "2026-11-11T21:38:00.671082+00:00"
+   "items": 368,
+   "last_ok": "2026-11-11T22:08:00.622728+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-11T21:38:00.671082+00:00"
+   "items": 73,
+   "last_ok": "2026-11-11T22:08:00.622728+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B70qc9VEQoM6reRt6If6HXWuS4oODU03y840rJBa2RZ1UvGjHQlRzESs%2BedCb65T5sEUs8L9uR4qsd4oBQDnnxcy3E957TcBGgHAhpQLrjYRUsEJprNYAJt2eqTkX%2F5aB7si12aZMIlXVbCNdrQ5l15VPCAnFBWn265I7tnMpFDg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8C9s83mPn26QlMCCJcwlhGFLMR5QxMiCx3JNr5Cq7QiQd8hPXuXzevlmp5uaTaJgWK2PRsGIvlLL0VcsOv1%2BnU9IsV4lJ%2FImeeBXzbC9fdiu%2BpO9hYuHtAQY9gUnU8oucR%2FSbNU0BKt3jmdzpLIgUPeiiX%2F1frxm6wTCdUV4sjog%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -326,11 +326,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbmiLs%2F8klyc3xhh8ad1iThpEeWCT%2BzBzOhS0TCsFACz4etuDpDh5ULswBYloQVNyXwPQzYz4B8tutrsmEKvT909JxUwrVfqoBEySJp%2BSr5d7oXz4WmAjs1BYKz%2BG7RnLYzGLTyoTV%2FiHjz42aQ%2Bbw5",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbrYsROo3EatgYyzwI4U0vv2CdWRZICTUbIOoxxErsf6hkJvFkfNZmPPWfo%2BzN1hgDkvucSAmGYecJja33TUEWjP3BeyWtPa71HEg9c7OQplGHTjrSmP409rNB%2F20pguIlyJRhAO8c%2FXyA%2BEIYhZ7TS",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Station air chaud avec fer et alimentation Yihua 853D 2A USB SMD (Vendeur tiers)",
+   "price_raw": "130,81€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/yihua-853d-2a-usb-smd-station-air-chaud-avec-fer-et-alimentation-3452613",
+   "posted_at": "2026-11-11T21:49:50+00:00"
+  },
   {
    "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
    "price_raw": "26.22 EUR",
@@ -363,7 +370,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtk2%2FPZyLUCqOo3AP0RnNjpiPW%2B5nU7kftd4noYMarSyIwqbDikNyLw6izE9muIwoMSPfvPmT3RKmm85aU1a%2F13CXGtXH7UiS9w%2Bfdb0k1jWp8KYfzeDpqaqLRYdNDczKPdri%2FvAe5OV%2B9XsJCnl%2BOUICDMhNnwYxZVkpgy5uwe6LQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtkr%2FCwLGer4SkxQsHi5XswRVnJQI13afYk1y85BwhnOucH8pRM13D6MIu5hcTNcI%2F7UY8%2FlV9%2FOU7D71sxZlg1GiRH5u65uLWsERm4vCnfgCKPSKd0hTAR%2F8Sf8TPWx912y%2F1%2BFeL8DawBgeuY3XKhM4WwpQ%2Bregdo8jKk0shXRsg%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -447,14 +454,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz2i4Pi1JGCPoW3FcgmoUpMq7y45gDDylI466dy3nIaKCZXxUlnZfTaZ31LBb3JajN5V%2FlXiMEMsm1td6mLF1BfzbPJtSdDRL%2F%2B0VqVeWHoO%2B2lf8gGfP5%2BJU6P7PLfmAvogRQcTvRcrTRHduW%2Fl%2BaTUUSxGx7zJoLjwlgjwZJWRJw%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0iEYfz1%2B%2FLKf8R1A%2B9ob4spJ4szmPH7MARRQ9RFr4%2BG1q8y%2F3d0GZ3tekxJAcGi9KPXXn5HooXTypYHNImEyJD6Y0wZEwxQ90HAoCtV0OGzBK10vy5fWbIT0NvKe1M0ZImb3dpLgT5h2wn3A0RNLCO5ZI8%2FZ0n9ggbDCPxY4L3Bg%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh1MBv%2FomMqWr9dR4lL%2BbH77V4YyAG0mpTqzPZDMl%2F7zRw5npweo030SyJOFv3F%2F0StFTJ3Aer46Mylp52XVePMad%2BjMU6QbP4wSULXygnPxkN7zzQz1z5BEPI9q8Mx9UmNsVPO84Iqd3aNWJ3orhHvVkoprPvg%2BN6MqQBJ72oetjg%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3UJnwADvE9sDoBj2SOE9fLvm%2FpgLOqbCbpm22SCHYsYi1MMkP1o2bdmdiwyrGTEQv%2FhuJx%2FzKK2KxNpiLc4hQ5dlYGHE%2Bwq2%2FbhnD0uS2YauOgc%2BSnFdIvaKnIYO64M8yFcblsU8YYX92BJ6torg8YvOl2Ntzn22ATUoBh1JlR0w%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -566,7 +573,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsswUHp47bcQQkF91tw4CIj20dLB3U8SYPiH0Vndvw%2B5aGsmjRKKO%2BaEupAI66viGfKOVqkV9nCClpvEo6eYHrta1RLOQppU8XcSv3suk0udnQBfXXgr5rKPPfTdXuewzjC4VQFCwAzQjxFmXB%2FObGZJP8eF%2F3VFKGJBcXTCQrWXmQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOstv7z3usLpDkIaw6WHMwD1IE9zGQ3XPfKOYzR4UiTNWAhYLoMz7V1v4ZKZ7K0BzIEq%2BGxS8i3bAcbE3y01FpwTO6EU8oGcmKiw3EjDhTs%2BygEZwixhfdCI86GzFN3n4aXIH57VycSTHldL9RSXTUxFRITuVrRegYuPBIaYZOfHx2w%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
@@ -589,13 +596,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC",
    "posted_at": "2026-11-11T13:24:30+00:00"
-  },
-  {
-   "title": "ZYB Protection Clavier MacBook Air 13,6/15,3 et Pro 14/16 TPU AZERTY",
-   "price_raw": "15.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920130433855?_skw=clavier&hash=itemd63c0c333f:g:LG0AAeSwH4tq9Gdy",
-   "posted_at": "2026-11-11T13:03:33+00:00"
   },
   {
    "title": "Canon Pixma TS3752i Jet d'encre A4 4800 x 1200 DPI Wifi",
@@ -683,7 +683,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1748,
+  "listings_seen": 1749,
   "models_with_reference": 40
  }
 }
