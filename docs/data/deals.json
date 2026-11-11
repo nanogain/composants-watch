@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T01:08:00Z",
+ "generated_at": "2026-11-11T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-11T01:08:00.676819+00:00"
+   "last_ok": "2026-11-11T01:38:00.618271+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T01:08:00.676819+00:00"
+   "last_ok": "2026-11-11T01:38:00.618271+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 393,
-   "last_ok": "2026-11-11T01:08:00.676819+00:00"
+   "items": 389,
+   "last_ok": "2026-11-11T01:38:00.618271+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-11T01:08:00.676819+00:00"
+   "items": 70,
+   "last_ok": "2026-11-11T01:38:00.618271+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B85AES6y44nlSZSbRyW1Z%2F0j9WYhSVmNBVqN0zaBml8w16WoD3tmV98NvbZevBXgPGbmHPVpDSXhTGATDZz%2BjsLcIGnsD6NsJ%2F63d%2BILFPyf8j6oVRFCgL6oBiYIdmJSd2H8rNZ57ZxtNt5Zxo4cAYawvHiD8x684xIH5%2FgMwhEcw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9oUoJ7lMkPjAZwimJoiNOFneo406JKGlnx84AXbU6RAjRYpBdRyTq2gegf7eZrGu3UvYRBMTJMivKPnysp26AMgxF3PRC1YMN0BS2qQ54yhtvKT%2BlJZuyFvlqAUJat1Oahx%2FJJILoiG%2FcydTFMZek7YyJkY7PeA%2BA6q1fPF8qB%2BA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -258,11 +258,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZU6gt4q4uclKAKygn4yQrIkcyth2rpT6oF3YHRvVYqgna8cDEGlh%2BodkqGLThcKL%2FYxGLDC8LIpLxJ6NOK3EPzjID9Iv6VuGlsBNm7gfWR1YN3KrG6rS%2B4FWbPFzUOIsK5gcWkldunWezxBxzqcKvr",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYsQny4dlTc95fiR7OBvtqZDoPKBQ9LyTml1w4UdYdIbIxdmDXdcD09NQBD9o22nG6OB0qO%2F7yrjz5SW1s6jK6PfyRlEXsdZuegARa5h6disBxwSrmoFmty1PcSMqhbLF9Mqtg9awTuDeTjxzDbPoqv",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[SSD] Crucial P5 Plus 2TB Gen4 NVMe M.2 SSD with Heatsink - $199.24 (Up to 6600MB/s, PS5 Compatible)",
+   "price_raw": "$199.24",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xt4grg/ssd_crucial_p5_plus_2tb_gen4_nvme_m2_ssd_with/",
+   "posted_at": "2026-11-11T01:12:41+00:00"
+  },
   {
    "title": "Carte Graphique Fujitsu NVIDIA GeForce 605 DP 1GB S26361-D2422-V607-GS5 Utilisée",
    "price_raw": "68.84 EUR",
@@ -276,20 +283,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147675191411?_skw=carte+graphique&hash=item2262209873:g:wLgAAeSw~XZqvUPU",
    "posted_at": "2026-11-11T00:40:32+00:00"
-  },
-  {
-   "title": "Carte Graphique NVIDIA GeForce 405 1 Go DDR3 – Occasion Testée Fonctionnelle",
-   "price_raw": "17.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191328?_skw=carte+graphique&hash=item2262209820:g:LSQAAeSwfipqvhNc",
-   "posted_at": "2026-11-11T00:40:29+00:00"
-  },
-  {
-   "title": "Carte Graphique NVIDIA Quadro 410 Dell Low Profile – Occasion Testée",
-   "price_raw": "26.56 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191009?_skw=carte+graphique&hash=item22622096e1:g:J-MAAeSw2t1qvhcR",
-   "posted_at": "2026-11-11T00:40:17+00:00"
   },
   {
    "title": "Processeur Intel Core i7-860 2,80GHz 1ère Gen Socket LGA1156 Occasion",
@@ -311,27 +304,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147675191782?_skw=processeur&hash=item22622099e6:g:aLYAAeSw87Vq60Sk",
    "posted_at": "2026-11-11T00:40:48+00:00"
-  },
-  {
-   "title": "Intel Pentium G2020 Processeur 2 Cœurs 2,90GHz LGA1155 Testé Occasion",
-   "price_raw": "6.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191152?_skw=processeur&hash=item2262209770:g:BbsAAeSw2IFqRSIE",
-   "posted_at": "2026-11-11T00:40:22+00:00"
-  },
-  {
-   "title": "Processeur CPU Intel Pentium G3250 3,20GHz Socket LGA1150 USATO",
-   "price_raw": "4.92 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191125?_skw=processeur&hash=item2262209755:g:dfEAAeSw8ZNq61Zz",
-   "posted_at": "2026-11-11T00:40:22+00:00"
-  },
-  {
-   "title": "SK HYNIX KOREA RAM 4GB DDR4 1RX8 PC4-2133P-RD0-10 HMA451R7MFR8N-TF TD AB",
-   "price_raw": "9.84 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191047?_skw=ddr4&hash=item2262209707:g:2csAAeSwEAZqyQUZ",
-   "posted_at": "2026-11-11T00:40:19+00:00"
   },
   {
    "title": "Mini PC Chuwi AMD Ryzen 5 6600H radeon 660M 16 Go DDR5 512 Go SSD Wifi 6 windows 11 pro",
@@ -505,7 +477,7 @@
    "title": "Mémoire RAM DDR4 SODIMM PC Portable 8Go 2666MHz Laptop Ordinateur Upgrade EU",
    "price_raw": "76.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlIak6nK3UzNHVTxJ%2BDTEaXN1L29sOO5ATj0XlMTf2s3OXhnuw08H4rhWwdKATRW0%2F%2B5iKcbTOSPk1myZrQtr94yx%2BXc4LzB%2BKjXpKf1nUCCmsAoWiP6nBX57l6DuGeGVHb8x2wqvD2Z7mKqaDAiGWP7",
+   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlKsjfR%2FkSS3ARbJ9uGT8K6aX8hgxR2kEwRqlSLSMgieXT%2FKPrQZ0xsO9WHna175tJ2SjjysfQN5V3ukeY3%2B055JYDtdbTxfUe%2Fnj8xqUFrMqdDfQxCRfRVx9G5e0QDi12gU9ieB0UIK%2FQm9vs8ec9Pk",
    "posted_at": "2026-11-10T19:51:49+00:00"
   },
   {
@@ -612,10 +584,38 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/327449735945?_skw=ddr4&hash=item4c3d867309:g:oJEAAeSw4UFq80Nl",
    "posted_at": "2026-11-10T16:17:56+00:00"
+  },
+  {
+   "title": "Mémoire RAM DDR4 Samsung 4 Go 1Rx16 PC4-2666V",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327449715474?_skw=ddr4&hash=item4c3d862312:g:5lwAAeSwdMZq80GG",
+   "posted_at": "2026-11-10T16:11:02+00:00"
+  },
+  {
+   "title": "Mars Gaming MCS2 Boîtier PC Gaming Compact MicroATX 2 Ventilateurs FRGB Ra",
+   "price_raw": "43.65 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132622707?_skw=boitier+pc&hash=item5a9a1c9b73:g:O~IAAeSwCmNo-Ts5",
+   "posted_at": "2025-10-23T03:28:55+00:00"
+  },
+  {
+   "title": "Asus ROG AZOTH Extreme Clavier gaming sans fil (USB/Bluetooth/RF 2,4 GHz)",
+   "price_raw": "389.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/127766410735?_skw=clavier&hash=item1dbf78b5ef:g:HBwAAeSw38Nq83Qn",
+   "posted_at": "2026-03-24T00:08:22+00:00"
+  },
+  {
+   "title": "[Nouveaux clients] Souris Gaming Sans Fil Ultra-Légère TMICE G13 - 54 g, Capteur Optique PAW3395, 26 000 DPI, 8K Hz, Bluetooth",
+   "price_raw": "22,24€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-souris-gaming-sans-fil-ultra-legere-tmice-g13-54-g-capteur-optique-paw3395-26-000-dpi-8k-hz-bluetooth-3451248",
+   "posted_at": "2026-11-10T15:15:04+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1698,
-  "models_with_reference": 35
+  "models_with_reference": 36
  }
 }
