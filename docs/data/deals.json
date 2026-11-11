@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T12:08:00Z",
+ "generated_at": "2026-11-11T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 333,
-   "last_ok": "2026-11-11T12:08:00.668162+00:00"
+   "last_ok": "2026-11-11T12:38:00.676608+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T12:08:00.668162+00:00"
+   "last_ok": "2026-11-11T12:38:00.676608+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-11T12:08:00.668162+00:00"
+   "items": 364,
+   "last_ok": "2026-11-11T12:38:00.676608+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 75,
-   "last_ok": "2026-11-11T12:08:00.668162+00:00"
+   "items": 80,
+   "last_ok": "2026-11-11T12:38:00.676608+00:00"
   }
  },
  "watchlist": [
@@ -82,31 +82,14 @@
    "price_eur": 79.3,
    "shipping_eur": null,
    "effective_eur": 79.3,
-   "median_eur": 149.99,
-   "discount_pct": 47.1,
+   "median_eur": 164.1,
+   "discount_pct": 51.7,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-b850m-wifi-itx-am5-ddr5-pcie-50-2x-m2-wi-fi-6-25gbe-3449732",
    "posted_at": "2026-11-09T10:01:59+00:00"
-  },
-  {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
   },
   {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9pb7YP5oCONF50Rc6zsVlFAY0bDayQKyErkYNx5v7S70ginee%2BM8CUaFerRExns1xaWEfkA%2FQ2WAb4GJc1gUCwQCmnpv%2BYEQRcBXBb0ZUmNHJR4SsMZ32nozb%2BPg4mqr1VfIY1kIvj%2B9ezEtGR3gID4kAcHvrEo01JATu%2BHsyC8A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BOwPjDYQnO2SEWMz9MufQs30Cxqdm9SpDQ81QGyO5%2BhPoEfwWOndanhpzxdl14Cr%2BAGiAMQ8THiK63GB%2FN%2FY1T1q5isRzktnxP%2BNqgnNefAwhXFKwhvCvcpmCMvQ41sOdxjxU5imkqpe%2FUsX1NDtwKIoiXEudR0OkvBFo9XHS4Dw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -158,6 +141,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
    "posted_at": "2026-11-11T09:31:40+00:00"
+  },
+  {
+   "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
+   "model": "MB:B850",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 109.24,
+   "shipping_eur": null,
+   "effective_eur": 109.24,
+   "median_eur": 164.1,
+   "discount_pct": 33.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "JoyBuy",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
+   "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
    "title": "Processeur AMD Ryzen 7 7800X3D - Tray (via Paypal)",
@@ -209,23 +209,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860128302414?_skw=ddr4&hash=itemc843a4554e:g:nRUAAeSwnilq8fN0",
    "posted_at": "2026-11-09T16:23:45+00:00"
-  },
-  {
-   "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
-   "model": "MB:B850",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 109.24,
-   "shipping_eur": null,
-   "effective_eur": 109.24,
-   "median_eur": 149.99,
-   "discount_pct": 27.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "JoyBuy",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
-   "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
    "title": "SSD 256GB SK hynix 2.5\" SATA III 6.0Gbps",
@@ -296,6 +279,23 @@
    "posted_at": "2026-11-09T13:55:06+00:00"
   },
   {
+   "title": "SSD Intel 660p 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.32,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.32,
+   "median_eur": 54.99,
+   "discount_pct": 17.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860127962020?_skw=ssd&hash=itemc8439f23a4:g:KUAAAeSwOIxq8cuL",
+   "posted_at": "2026-11-09T13:36:10+00:00"
+  },
+  {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -326,24 +326,24 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZb1MZKBVn2XfVWzOrYO04JkdconaufrzTvOzCjobl6oJLQoUpaiOb5GOCg%2BqHi2vzW7cxabzEtffZxnqut2wRyB4%2FEwBXvZBW6RPXuqxhRe9p1AzXZXdjF7qhvsCmGs6R9zNViCLO%2BmwBfYmFzwyOJ",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYe0VzfCUsXSCDMj72cmO2HH27%2FHmvsnfdd6hX5jgE9EnygUmknZHFDLC0O7kYHSdAn5m2HblTk8c3aF8WDGkp0n02BTUxK3%2FCCxev7mcMfhmS9nSK2CoCZX23a1vaVfYk4PCh141tIrH6lmb9a9mhE",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Canon Pixma TS3752i Jet d'encre A4 4800 x 1200 DPI Wifi",
+   "price_raw": "39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/canon-pixma-ts3752i-jet-dencre-a4-4800-x-1200-dpi-wifi-3452177",
+   "posted_at": "2026-11-11T12:22:05+00:00"
+  },
   {
    "title": "Mini PC Apple Mac mini M6 - 16 Go RAM, 256 Go SSD, GPU 12 coeurs, macOS 27 Golden Gate",
    "price_raw": "886,39€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-m6-16-go-ram-256-go-ssd-gpu-12-coeurs-macos-27-golden-gate-3452142",
    "posted_at": "2026-11-11T11:39:41+00:00"
-  },
-  {
-   "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
-   "price_raw": "29.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F2G9l%2BTevmSjsy2DYsxy%2FxDaxgfTP27U1IlJ639zFtWC150lcbM504Nbd%2B2HAO0AFAsdnG6R6D7aup55PoWRSa9yMi12I9HyL4PGJ5zgyjWxXvnRU%2B7TVLNyrumov1Y7O8tXkYF3yDE0uLfYUUrpxiu",
-   "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
    "title": "OMOTON Clavier sans Fil Bluetooth 2.4G AZERTY Silencieux Noir",
@@ -391,7 +391,7 @@
    "title": "Antec A30 Ventirad CPU 80 mm 3 broches 12 V Socket 478 754939 940 462/A neuf ",
    "price_raw": "21.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pw6p0sHSmad4%2F6WK5XeqEgiU8xZlAHr%2FqjHV%2BpDkq0B44p%2F7D4hKra3b%2FldULkgT%2BzjLEUbgS7FGkoeGh6sDZ22gCLbm2cgRo7oP0VZfOpgMUQaRMfV6cfgtIqm4JforOQQq6JnBkX11idHEgDIx7xU",
+   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pxoQsW3ych%2FWdX60MS7%2BVzc2pKGzN68EJXpPcBkVpaUdh1Rfy3PDAX2Nn1Tz2pjYvR4MSq2DBplCefvQwxIRc8xDiD9tqffnzreJ7xnpR0RJvqyiU6i1YY84NeNsCzMNIjDeJX32lK%2FzYTRs4o7Uf60",
    "posted_at": "2026-11-11T11:05:54+00:00"
   },
   {
@@ -619,13 +619,6 @@
    "posted_at": "2026-11-10T21:32:23+00:00"
   },
   {
-   "title": "Dynatron B13 – Ventirad CPU actif 2U – Intel LGA3647 Square ILM",
-   "price_raw": "59.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137824415366?_skw=ventirad&hash=item2016f9ae86:g:ktQAAeSwERVqx0G~",
-   "posted_at": "2026-10-08T07:11:09+00:00"
-  },
-  {
    "title": "PC Portable 14\" HP 14-hz0037nfx - Snapdragon X 8, Go de RAM DDR5, SSD de 512 Go, Windows 11, Azerty",
    "price_raw": "499,99€",
    "source": "dealabs",
@@ -680,10 +673,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/10-de-reduction-immediate-des-150eur-dachat-sur-une-selection-de-tablettes-android-et-accessoires-3451316",
    "posted_at": "2026-11-10T18:00:01+00:00"
+  },
+  {
+   "title": "[Motherboard] Gigabyte A620I AX Motherboard ITX $88.79",
+   "price_raw": "$88.79",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xstfpj/motherboard_gigabyte_a620i_ax_motherboard_itx_8879/",
+   "posted_at": "2026-11-10T17:45:42+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1735,
-  "models_with_reference": 39
+  "listings_seen": 1737,
+  "models_with_reference": 37
  }
 }
