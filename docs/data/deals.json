@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T02:38:00Z",
+ "generated_at": "2026-11-11T03:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-11T02:38:00.618164+00:00"
+   "last_ok": "2026-11-11T03:08:00.676734+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T02:38:00.618164+00:00"
+   "last_ok": "2026-11-11T03:08:00.676734+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 390,
-   "last_ok": "2026-11-11T02:38:00.618164+00:00"
+   "items": 388,
+   "last_ok": "2026-11-11T03:08:00.676734+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 77,
-   "last_ok": "2026-11-11T02:38:00.618164+00:00"
+   "items": 80,
+   "last_ok": "2026-11-11T03:08:00.676734+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BvFtHS1cFWQ%2Fd52BWuGbiXIZK%2BiGjL1suxNRvDeqXnKfPyk6NPBT2iLYS3Uojc%2FemBsBevoJclzA4wIHJEOMv1lz%2BBSu6h72CHxzUlubp1wUNI%2FqVa7WK7t%2Bty%2BLEdDEC8NISnZiZmrOQ7EaMOPs6O1f%2B%2FijoNPZTTxuWb6jq8uQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B806Ull2deB7cWJvn1AZvGLSQRyl8ef4BVoY78390nEnlGtkXF0hXzvttTtFKpDpXsLUvG%2FYUVowWfhOYyvltrGzIWYEJxjuCUXT6cCrdD9JBlUSyJ78N8XJrK%2Fd6aKes0jUaOzPSnAUUeh2429Y5Qg3vl%2FHvNX0t4CSKhVsQ2boQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -158,6 +158,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
    "posted_at": "2026-11-10T23:39:54+00:00"
+  },
+  {
+   "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
+   "model": "MB:B650",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 70.0,
+   "shipping_eur": 6.5,
+   "effective_eur": 76.5,
+   "median_eur": 106.49,
+   "discount_pct": 28.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · vacarm67 (99,4 %, 606 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
+   "posted_at": "2026-09-11T15:16:56+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -241,7 +258,7 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZie2U2FzDlewQNOkOy8JqySs9cDOq98YsUlJvcaAmT2nm2nxiQAduTXfOT0eyDeb1Mcpr9ZuQkGaotmvR8zGbztyBPc27%2FDVGwFZ%2FGSfn5cNuADFP7h%2BBLgf4Lzz4YvAYQV09GcRF8FyHEYfZCX4eA",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZZFs80Uq9R20q5260LAd6h2KHRnv2maJIiAVmCQinQyiwf06tt0Mzxq1dElflGHU9RIh7Cgs%2F%2Bzo019LQaN%2FLVoCSX%2F8A7mdSwxBjUyAfKhDQHm8tWaLF3IAKnNx12gIvJ72rUsGjZoMKYLa55PKLZ",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
@@ -287,13 +304,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147675191546?_skw=processeur&hash=item22622098fa:g:ncAAAeSwtZNq60b2",
    "posted_at": "2026-11-11T00:40:38+00:00"
-  },
-  {
-   "title": "Processeur CPU Intel Xeon E3-1220 V2 3,10 GHz 4 Cœurs Socket LGA1155 Occasion",
-   "price_raw": "6.89 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191782?_skw=processeur&hash=item22622099e6:g:aLYAAeSw87Vq60Sk",
-   "posted_at": "2026-11-11T00:40:48+00:00"
   },
   {
    "title": "Mini PC Chuwi AMD Ryzen 5 6600H radeon 660M 16 Go DDR5 512 Go SSD Wifi 6 windows 11 pro",
@@ -460,7 +470,7 @@
    "title": "Mémoire RAM DDR4 SODIMM PC Portable 8Go 2666MHz Laptop Ordinateur Upgrade EU",
    "price_raw": "76.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlLoSiDBND7phVuHyWI1NJJtxTJg6rEL0JzDpLjHR0tLHVM4WaAyXurTUda1IvZBAuszLw7xUsoHBSlVa0ebBf0tYIgBxwl1%2BCj10a7h8Q6VZljQeDMHpaz6UF%2Ft3KPzD8Rl06kgsmZY162FxAt4yJZ9",
+   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlKtfVVdosJaahUWRkNLxNSuN7wlEHSPSbOgfFqD9mu8qVGpbDMKFb2w%2Fwuj9T1H79en8vFsWi83DgKiUG81lrnp7wSy0635z3GabJEzcGSJA3X14gvf%2F1Fl4Pb3vOWlhZpisciNI0Pqvl08ErLpmGIT",
    "posted_at": "2026-11-10T19:51:49+00:00"
   },
   {
@@ -595,10 +605,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-souris-gaming-sans-fil-ultra-legere-tmice-g13-54-g-capteur-optique-paw3395-26-000-dpi-8k-hz-bluetooth-3451248",
    "posted_at": "2026-11-10T15:15:04+00:00"
+  },
+  {
+   "title": "[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)",
+   "price_raw": "$379.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
+   "posted_at": "2026-11-10T15:01:12+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1696,
-  "models_with_reference": 36
+  "models_with_reference": 37
  }
 }
