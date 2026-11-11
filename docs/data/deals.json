@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T18:38:00Z",
+ "generated_at": "2026-11-11T19:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-11T18:38:00.677268+00:00"
+   "items": 339,
+   "last_ok": "2026-11-11T19:08:00.682320+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T18:38:00.677268+00:00"
+   "last_ok": "2026-11-11T19:08:00.682320+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-11T18:38:00.677268+00:00"
+   "items": 374,
+   "last_ok": "2026-11-11T19:08:00.682320+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-11T18:38:00.677268+00:00"
+   "items": 80,
+   "last_ok": "2026-11-11T19:08:00.682320+00:00"
   }
  },
  "watchlist": [
@@ -103,10 +103,27 @@
    "discount_pct": 51.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 173 avis)",
+   "merchant": "eBay · fastseller59 (100,0 %, 174 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:HoIAAeSwa~5q9K1t",
    "posted_at": "2026-11-11T18:03:48+00:00"
+  },
+  {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
   },
   {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
@@ -122,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BHlx7%2BHz6mW7Ta0mvqfDp0zBU0%2FTSBoiY3DJjfT%2FgRwYVnfL7nn1MVvKKJ%2BEGPKia6j7WzTXhMzDigVsGCg9CZ01L%2FflFbsFb%2BjKFYyYPrMNaCpKeqKsE2Z1UsIw5dxDayRCaHxaW%2BOGFxc6iovHWG1srGE%2BIZt0fxfeezwxskLQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B986BG0VC0AFlBNkhz%2BK7Yr9KNTZiK96peQ56VLhlB6g3c4nrrbzwT6VKRDD5pkuGG%2FKU3sRGOmGbWrssa9hUPo6sa5wMEYpWSKl8hyHUIBlnYQnRNtceK%2FjlaQYteZo6XsDuZV4wSjD9VdKVjavzT15ve703FbKwW9InanFvxnbQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -222,7 +239,7 @@
    "discount_pct": 31.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 173 avis)",
+   "merchant": "eBay · fastseller59 (100,0 %, 174 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692701431?_skw=ssd&hash=item301fd854f7:g:LjEAAeSwFMJq9K4U",
    "posted_at": "2026-11-11T18:15:26+00:00"
@@ -343,11 +360,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIae%2BXPKPW7tXcTcnnCeXMbeZafDnEppzGa8%2F8QTVSIIcEYREBF9kGWT%2B%2F2uyKqXUDf5wlQ8rdf9qzsKUAgpwGuaGXVDYxJTNEduFmgk5N4PKYgV0p0%2BgSkizQOtDEF1GAC%2FBY%2BikI8vUhGxhinmazox",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbaekZGljTXBe6bm1hxQFrTWY8gXl8dGoDGX3PSxAXeGf4nlNwua2z076c8rsDZ%2FFAbeuFKu1TPFHb0KBopWHVI1TbzMeuQvwqNQUq7kbXeAL1yeLecmcJOzJPdh7r2eatkt5Kg0nVst%2BrEcdg4lO3z",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Ventilateur PC be quiet! Silent Wings 4 120 mm PWM High-Speed Black",
+   "price_raw": "22,80€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/be-quiet-silent-wings-4-120-mm-pwm-high-speed-black-ventilateur-pour-pc-3452498",
+   "posted_at": "2026-11-11T19:01:24+00:00"
+  },
   {
    "title": "PC Portable 13\" Apple MacBook Air - M5, 32 Go Ram, 512 Go SSD + 180€ en carte cadeau",
    "price_raw": "1 839€",
@@ -387,14 +411,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0hId6SqOism62nNgNC%2FdDspPQnUusXlyitj4nsQia3ob8c6qfUNj2%2BHIAIoTiigWG2ijBYsIvgWVVlwdGRwFJV595d41ePhMoOy4ULYtilLYzUZv%2B2gvGDBMltmPkgVTwgPzuygx938HESfMxD83YocCqQAotPD5bWKohUBnTJbA%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz144CQH8iIceRD684ljkZNzcev7gCY9bbeNM8EC8oWz%2FzyV9I0hzEDv2X0%2ByDkNA7TbwnLLjhvrA5Kv%2BIGekizC%2BupC1vJhUIZgtNmxQsEgf%2B2DnrtbFEDsPn3wFKtI7%2Fvo2Qy5ir742htQUL0glNKeZzlwGBht9UT68fTKGrRbJg%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh33c9dvtbFtu6JUEjUgYtApvOsiDeiz7oefo%2B73dEwrLtw1UVDtnCG0FhkWmEjSK1312zVbLX3TvQmRHbb1wPbry%2BWzLMS2uhR9eqMSZAyw1B0dOtPyfYruD4Ek%2FrRD89Et9Y7BAzDe9R%2FeCjffN4TY7HN7pH3guscgKcLPZxS5ug%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3LGUvqHzZ3y40p7ru3y0Mfn4UKgruV3HUizxf3i1Ri8hCQizBeES8SJzitBKjHsqHwF8JMhrKqfC5LQ%2FC3BNbjiHPk5BEuIz13Ty1zUVADZZj0Xu25UpO4CHiAX1PjNCWndpje%2FUGQShwQ%2Fku6jXiaa0iz%2FYYScHsB9%2F0mukMBhQ%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -583,7 +607,7 @@
    "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F2fmn7ExEhCj3p4LVQgVnQgMBN4fmoDsdxNlIyOfcm9LaLi4BiHMfZpWoOnXPrukoqWsAefUfi2Dbo6%2F0jiCce69EQZ40YGE%2B9EJlokNxL8mbFUd3NMXaVa%2FWyow96rG%2BWvtsSnWCGPaQvdMtUk4n6z",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F1ykh5UrOqkQ2RtOufMaAYWSBhwtGscA4jQ1SIf3oToYaRT7J0wE%2Fhpy%2F5vE5wcJ0lAp8yGeAoSRv8kARulU4jZMhLErNvKp%2FWc4Fzru7aSehM5weGmhQwEm%2FqhpiRs4LrvXoMSosf%2BHVJGhYCUnev0",
    "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
@@ -690,17 +714,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-anycubic-kobra-4-combo-impression-multicolore-auto-leveling-leviq-30-sechage-65-c-3451759",
    "posted_at": "2026-11-11T04:42:27+00:00"
-  },
-  {
-   "title": "Alimentation PC Gigabyte P650G - PCie 5.1, 80 Plus Gold",
-   "price_raw": "50,58€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/alimentation-gigabyte-p650g-pcie-51-80-plus-gold-3451758",
-   "posted_at": "2026-11-11T04:41:39+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1755,
+  "listings_seen": 1752,
   "models_with_reference": 38
  }
 }
