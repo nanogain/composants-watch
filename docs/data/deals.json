@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T17:08:00Z",
+ "generated_at": "2026-11-11T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-11T17:08:00.688923+00:00"
+   "last_ok": "2026-11-11T17:38:00.688629+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T17:08:00.688923+00:00"
+   "last_ok": "2026-11-11T17:38:00.688629+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 370,
-   "last_ok": "2026-11-11T17:08:00.688923+00:00"
+   "items": 375,
+   "last_ok": "2026-11-11T17:38:00.688629+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-11T17:08:00.688923+00:00"
+   "items": 42,
+   "last_ok": "2026-11-11T17:38:00.688629+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B8SkYZxOiBBokDvX%2FkuK%2FXNKh9he5%2B%2FSRWm%2BPi1eJ9zgqAyNQ%2B23Tc3RSJLrAoUoLX7JsoPgC%2Byx7nUYnsmqdxOZSIGUZppfhfblsgZLF4iL5OMcJvF9Nk%2BAG22tQD%2BUP%2F3YuMwVBozKy8SQqi2U0s30CfPTQaesbm6ilQGU4mhw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9rQdqpe%2Fxb1ZpC18r%2FzVjQ%2Fyo9UfeYzQT6xCPQhqsE20XAiPEgPBLsa%2FaMvTcmAYRSyPgD%2B2tGrrH1gb2x7I9luL6gGuP9oe0GC1Sx2i5pL8weEZbW0KyiQNitTIswn1aq6HB4BuvL0V4aCixE7QBvG1tWUDZ8wdAHiPpGSMsD2A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -326,11 +326,25 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYlRWhPcfrDIk87S7mJYYA86lNj6ZCW9LJSsZKr4yvX0JjRss%2B9f1peyrWoXGvtm%2FdThbvXU9ezNh4D35eaSOJ%2F6yboQlsCQWVlDNFA3V0MciyViWW4rU%2BCU87%2F8f%2Bh8464g9f%2F9Yayu6x4kHhEJZLv",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbSQgYK7dy84Y2LaTbUMjD48tfGAa3VTFBv8TDUvSyo0Lt0aJod4vQbg031HWGZ98eMgnp5jceFrHn8k0FdRyZQrZ%2FVoZLMfUTYYKxDMHBDX0PPwOLASaUda49zOe4vebUItatm1qutFTzH1xwpWxUP",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Tête Thermostatique TP-Link Kasa KE100 - Connectée, HomeKit, Alexa & Google",
+   "price_raw": "27,54€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/vanne-thermostatique-connectee-tp-link-3452419",
+   "posted_at": "2026-11-11T17:16:54+00:00"
+  },
+  {
+   "title": "carte graphique EVGA NVIDIA GeForce GTX 1060 6 Go GDDR5  06G-P4-6163-KR",
+   "price_raw": "63.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168855309792?_skw=carte+graphique&hash=item27508f8de0:g:bfIAAeSw2qZq9KAS",
+   "posted_at": "2026-11-11T17:05:28+00:00"
+  },
   {
    "title": "[GPU] MSI Ventus GeForce RTX 5060 8GB GDDR7 - ($299.99)",
    "price_raw": "$299.99",
@@ -358,13 +372,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366749790578?_skw=ssd&hash=item5563fdb172:g:0kMAAeSwm6Fq2J8-",
    "posted_at": "2026-10-21T11:19:47+00:00"
-  },
-  {
-   "title": "Kolink Unity Meshbay Performance Midi-Tower Boîtier, Boîtier gaming, Boîtier PC",
-   "price_raw": "88.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840821490?_skw=boitier+pc&hash=item3e5c8e98f2:g:mvgAAeSwWutq9I~A",
-   "posted_at": "2026-11-11T15:54:36+00:00"
   },
   {
    "title": "Apple MacBook Air 15\" - Puce M5 CPU 10 cœurs GPU 10 cœurs RAM 16 Go SSD 1 To Bleu ciel, AZERTY, Sans Chargeur",
@@ -510,7 +517,7 @@
    "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F33y39utLfKF5fBssixSf0S0ubDXVGi%2FSeyTROxvD3mIxDwPJU%2BIljqKP0ZLqUuOAEvkbEBARJZ4f1g97JtH9L8ifIleVdBCR1XmQwEQCGAgdk8VPvCpvKr4To4JDl1PneeVdFdbgOICUptj2g13sz4",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F3HM4ZN4X1qtagznibmlq%2Bff7JN%2F8JRAQRtvYOsS1baLhGXCG4BaBRcmUSfYDhxvdbAVNfQ2OVUIMQxY4CJDxhkmU667uhbeYLQbtt5FaC2IE6Anent0KvepTqfQYjbaQZ9SBShSlCdrRF%2BruBpbdxV",
    "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
@@ -673,13 +680,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xt4grg/ssd_crucial_p5_plus_2tb_gen4_nvme_m2_ssd_with/",
    "posted_at": "2026-11-11T01:12:41+00:00"
-  },
-  {
-   "title": "Carte Graphique NVIDIA GeForce 405 1 Go DDR3 – Occasion Testée Fonctionnelle",
-   "price_raw": "17.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191328?_skw=carte+graphique&hash=item2262209820:g:LSQAAeSwfipqvhNc",
-   "posted_at": "2026-11-11T00:40:29+00:00"
   }
  ],
  "stats": {
