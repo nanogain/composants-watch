@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T14:08:00Z",
+ "generated_at": "2026-11-11T14:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-11T14:08:00.680277+00:00"
+   "items": 338,
+   "last_ok": "2026-11-11T14:38:00.682720+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T14:08:00.680277+00:00"
+   "last_ok": "2026-11-11T14:38:00.682720+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-11T14:08:00.680277+00:00"
+   "items": 366,
+   "last_ok": "2026-11-11T14:38:00.682720+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-11T14:08:00.680277+00:00"
+   "items": 44,
+   "last_ok": "2026-11-11T14:38:00.682720+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BGxawiwLWxdJ%2FNagCfC0b7rPQxNC7LEgObYLNiIYXIyu7nBRWy4ufhdFQuMqCS0zgU1aEft%2BlBhLyu5J7HsCnTJQPiw8PVKF0ZoiiUnZNYAgXKr4cgj%2BKaRnOkdkxRT3ZeUpo447u%2B7PVgW308sQP%2B7uq6I5B4F9y3d%2FbBxHgcWg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BseXSVJsfHaGsPuoBK5ysdwyf2AW%2FfMfn%2BtNQxWgGswlMR%2FGX7zpMKnk58sCQKY3Oly8SUXD3KC2taUT6oOWaZxrtE238T63geLMFstKrcNKIg2eaMcKw%2Bki%2BqsZQwRxfD5pjv38WFet%2BDIESVL6qSOGKRyttlqaOL3T3ZuVSSeQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -326,11 +326,39 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb4V6PfWSC0jtU0%2BbKyhAUbq1mc693BP%2BweXXXzmd2TTScQgiXbRVYboXvamydwJEI4M%2FTIX1J5jHVgfBv9QatbFaW5KWVISGapG64yM6%2Ff2vDw%2B2NzxeayO7bj0fj1seQ%2F3ywYwznVIvdDuGItpq0p",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa%2FvhLbed6lLn0b%2F4T5nHmy4ByP%2B%2FS3xriKCll9L9ZB5nIJlLQBeenxZpFsoI%2BAF11nWu5uB4y%2BhpOVgMQeh4dx3HfNokGuoBw1h3ePISy%2FiWh0B2x2Wft%2FyTWV6C8RUVVzxhpzgwwj2%2FcWhhMz3tNy",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable Ninkear S14 R5 - 6600h, 512 Go, 16 Go, DDR5, Ips 2.2k",
+   "price_raw": "313,61€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ninkear-s14-ryzen-5-6600h-16gb-ddr5-512gb-22k-ips-3452269",
+   "posted_at": "2026-11-11T14:15:22+00:00"
+  },
+  {
+   "title": "PC Portable Apple MacBook Air 15\" Puce M5 - 24 Go SSD, 1 To Bleu ciel, AZERTY",
+   "price_raw": "1 918,17€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-puce-m5-processeur-10-coeurs-processeur-graphique-10-coeurs-memoire-vive-24-go-ssd-1-to-bleu-ciel-azerty-3452276",
+   "posted_at": "2026-11-11T14:17:27+00:00"
+  },
+  {
+   "title": "Station d'Alimentation Portable Oukitel P1000E Plus",
+   "price_raw": "274,54€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/station-dalimentation-portable-oukitel-p1000e-pluspayment-via-paypal-3452248",
+   "posted_at": "2026-11-11T13:48:15+00:00"
+  },
+  {
+   "title": "DDR4 32Gb SK Hynix - PC4-2933Y- UB2-11 - HMAAGU6AJT8N - UDIMM - for desktop pc",
+   "price_raw": "149.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377637595628?_skw=ddr4&hash=item57ecf469ec:g:ElQAAeSwRP9q9HYK",
+   "posted_at": "2026-11-11T14:08:15+00:00"
+  },
   {
    "title": "Scanner automobile Xtool D6S outil de diagnostic de tous les systèmes de voiture, plus de 30 services",
    "price_raw": "97,88€",
@@ -342,7 +370,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsvSxG%2FLcZjLdT64CtB6b9KGc08%2Fuk2hb2VhJ8OG5u4%2FFLLT0v%2Bc7OA4E1IkansOb7mfFLrxUbQs7w%2FYzXnun1h8YGxroa%2BsbZyW4axccHxiz%2BozJoYfie7E4Xq8tEpWbGMGzqcgoURH89KMKzjtLFjyI3vIDS6zJH3pBMYSeSWk1Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOssEJtfdnzeVIChwFz%2FUFuqz6BHSOMgAmEGJmaPWT4FBviOlATqZdS07URCA4eDoTHyW3A%2FgLooWyGNSF8LCfII1eEYnHKMv4OPSbGoibK0sPB8HDYSoqV4ekSAzEGhHAMgyNDEZQvVZRt1gkWsilQJC6X29lYuLKV%2BWVI6fBbxdEw%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
@@ -363,7 +391,7 @@
    "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
    "price_raw": "33.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n3gKugVRFbmqfO2LsFeybtx2d2yz7f7NfVnN9EexdlZI7kovRASU7ich6aPgQQNGOEYGrT4koqjuXgc4Wipq5l1xPXJhDOiIVmCs0dvq%2BYchUB6XjjccudaoF5Frj1NGOi6ndJFc1CbF2O9jJCzxjQqidOLWq0YCCsRc79VA4jDFQ%2FsBFsbczjELSSjoPX9koSgBrTq%2BFuVhNRp0CdBO1TIKSm%2FHxRfOoHWTMlU24Wlz%2FWFMytrul5s9VqUMBYoEyc%2BUO8BIyVOgCI7GcyyVjolM1AWJgbePDInArfbzwFPA%3D%3D",
+   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n3gKugVRFbmqfO2LsFeybtx2d2yz7f7NfVnN9EexdlZI7kovRASU7ich6aPgQQNGOEYGrT4koqjuXgc4Wipq5l1xPXJhDOiIVmCs0dvq%2BYchUB6XjjccudaoF5Frj1NGNqRX6DO0Pyj2f8%2BkKNQgXEVgnFtH6no1vhrBwFPngbZHfhrhLXCjFliNSp7KIkNPN2rvIk1n54RnnquP%2Fui4Az0jvXqp%2FwJtEKYhF2ZGwbz1A56%2F0CNnr9oGo1GeauReVcg4Ba0%2BEfAI22%2FdoaEw4zwBEfuXcpyAzLXDkF6toJLA%3D%3D",
    "posted_at": "2026-11-11T13:24:30+00:00"
   },
   {
@@ -398,7 +426,7 @@
    "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F30ntNgLwVHggU3cUXYUv1xIdniJYlmWWWEAijCubzuwH5x8WZJYthEULgDLdmOTSt2x2XA2jr5SaCqf4Mp5DH5g2DH7oZaEQHWkc4gBubpBJJC%2FvzgMPwDfzD7m85Rl3X0DB3a%2FPckvNSwIeBD1D22",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F2sxWp3jn7f4iyK5pG0%2Bfa3CX3wUYjXSUwQQeoYmyj745xlfIMlw6OsuMzvPPmQkTCAMN0Mhn3bQ8CWtbRznLQgbqilfkPwSIdFp%2BUc7m3MrCCyGc2lr4UpkkoTuk4aRtcmY8rQqTX5spoeXjlD3Irs",
    "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
@@ -440,7 +468,7 @@
    "title": "Antec A30 Ventirad CPU 80 mm 3 broches 12 V Socket 478 754939 940 462/A neuf ",
    "price_raw": "21.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pyMWnZru6ZsuXKHgaMAHm%2B%2Bdh6XMAqDX4UZncW9ILqvT8EhTjz8J9ueiyVPvDamzU74e5%2FVyn3iuoPV%2FZZ9NxohrlaLSFOOgQBwF8c7Up%2FmE0cLNimd%2BYpiOaVS77vAhFGMcGQzBcnHHLpR0xdaYEQk",
+   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pwi0Kar7CTNd9KBB8cexhNTVgv7NjtChNdkDZea5K%2FGig6AH6ZTl9Bhr%2F1OkW2dxpbANfP%2F7FQWBJd6sEhqctMy8l7Su7NY5K9pnli2Dg9%2FajV8IyEC9koKS50iW9DWV0jNL98l6CZ%2FXDZnOeLhLPi4",
    "posted_at": "2026-11-11T11:05:54+00:00"
   },
   {
@@ -535,13 +563,6 @@
    "posted_at": "2026-11-11T03:56:07+00:00"
   },
   {
-   "title": "Carte Graphique AMD Radeon HD 6350 512Mo Pegatron HP 635194-001 HDMI DVI PCIe",
-   "price_raw": "10.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800325893985?_skw=carte+graphique&hash=itemba5723ff61:g:CZEAAeSwrFJqUqKQ",
-   "posted_at": "2026-07-11T20:08:37+00:00"
-  },
-  {
    "title": "4GB - DDR4 - SODIMM 4GB 1Rx8 - PC4-2133P SK HYNIX",
    "price_raw": "11.87 EUR",
    "source": "ebay",
@@ -626,13 +647,6 @@
    "posted_at": "2026-11-10T22:10:46+00:00"
   },
   {
-   "title": "PC Portable 16\" Asus V16 - WUXGA 144Hz, Intel Core 7 240H, 16Go DDR5, 1To SSD, NVIDIA RTX 5060, Windows 11 Home",
-   "price_raw": "1 154,97€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-v16-gaming-wuxga-144hz-pc-portable-intel-core-7-240h-up-to-52-ghz-16gb-ddr5-1tb-ssd-nvidia-rtx-5060-windows-11-home-3451567",
-   "posted_at": "2026-11-10T21:39:39+00:00"
-  },
-  {
    "title": "[Desk Pads] - BOGO - ($62 - $31 = $31) CODE: OZBFCM [ONEofZERO]",
    "price_raw": "$62",
    "source": "reddit",
@@ -666,24 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-hp-14-hz0037nfx-14-snapdragon-x-8-go-ram-ddr5-ssd-512-go-a-499eur99-3451513",
    "posted_at": "2026-11-10T20:21:22+00:00"
-  },
-  {
-   "title": "Tapis de Souris Lexip - 90x40 cm, Warner Game of Thrones, Édition Lannister, Rouge, Flexible",
-   "price_raw": "12,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-lexip-90x40cm-warner-game-of-thrones-edition-lannister-rouge-flexible-3451511",
-   "posted_at": "2026-11-10T20:16:52+00:00"
-  },
-  {
-   "title": "[Bundle] Ryzen 5600X + B550 Eagle Wifi6 + 16GB DDR4 3200 $299+ Shipping After Promo Code BFF22",
-   "price_raw": "$299",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xswonr/bundle_ryzen_5600x_b550_eagle_wifi6_16gb_ddr4/",
-   "posted_at": "2026-11-10T19:47:31+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1736,
+  "listings_seen": 1740,
   "models_with_reference": 38
  }
 }
