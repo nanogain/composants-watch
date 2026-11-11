@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T10:38:00Z",
+ "generated_at": "2026-11-11T11:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 332,
-   "last_ok": "2026-11-11T10:38:00.663451+00:00"
+   "items": 333,
+   "last_ok": "2026-11-11T11:08:00.669340+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T10:38:00.663451+00:00"
+   "last_ok": "2026-11-11T11:08:00.669340+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-11T10:38:00.663451+00:00"
+   "items": 369,
+   "last_ok": "2026-11-11T11:08:00.669340+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 3,
-   "last_ok": "2026-11-11T10:38:00.663451+00:00"
+   "items": 80,
+   "last_ok": "2026-11-11T11:08:00.669340+00:00"
   }
  },
  "watchlist": [
@@ -82,31 +82,14 @@
    "price_eur": 79.3,
    "shipping_eur": null,
    "effective_eur": 79.3,
-   "median_eur": 148.94,
-   "discount_pct": 46.8,
+   "median_eur": 149.99,
+   "discount_pct": 47.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-b850m-wifi-itx-am5-ddr5-pcie-50-2x-m2-wi-fi-6-25gbe-3449732",
    "posted_at": "2026-11-09T10:01:59+00:00"
-  },
-  {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
   },
   {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B6D7MeKJzXomW0utEf3yRpe0v5heaV%2FF452lPZyxZj8sKQ%2FbViH7rcEsX4n8nHZd1xgrJjDGQ31iy7c%2FhatKumw5st9d9lJo2i5h1fTaPT5nK4URYw%2BN1u4oCnYuyiK%2F8mGLqb7Shgc8nc7cULLnhxXbrkLHPpLCWDRRf%2F%2BGKrcQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BQnr3bxswoosGir3rVQ8ssp3GzbzHXXEzP7656mp110HWttMWjGc7mGIfK9anKwiQQo0S9lgm86MnhE62VP8%2FKpfOaJ3VOZg9vzNC8qpd58GVx3zwrpgg4lYzwdGSGb%2FzkqGd2A7EyQgOPJo1o9sjyOvcfwyk8COZURgBp8f2VLQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -218,8 +201,8 @@
    "price_eur": 109.24,
    "shipping_eur": null,
    "effective_eur": 109.24,
-   "median_eur": 148.94,
-   "discount_pct": 26.7,
+   "median_eur": 149.99,
+   "discount_pct": 27.2,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -326,11 +309,60 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZYvfOjdAP4n6T%2FJspxWa8fWNQLtZq6Tx2dyov81cjbDN%2BX8t6%2BDgGQ%2F1dkhcoDB0iDwZm2SnAnOqJbLPWInKYZgECw21fkNBCzALOX%2Fudo4Fm1nM28kJTGnNbRnI0XJaUHECpgjYCI6qkT%2BrkDAr5D",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa34EISD4PwS6%2BsBuFLqiwxZ%2BOhpxK4dkv14g7Qz3E6jEOL2ss6yd3d3z7IULW%2FCszfWINjlIW7TLzZz0ZjDj5ZZUjjhJwuJBapbeaHKT%2FmUxgyY2qESRXrTn905B1SMw3Eo6jjcQ6A1pjHYl1aDjvp",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 16\" CHUWI CoreBook Plus - Intel i5-12450H, 16 Go de RAM SO-DIMM DDR4 (jusqu'à 64 Go), SSD de 512 Go",
+   "price_raw": "314,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-chuwi-corebook-plus-intel-i5-12450h-16-go-de-ram-so-dimm-ddr4-jusqua-64-go-ssd-de-512-go-3452089",
+   "posted_at": "2026-11-11T10:42:08+00:00"
+  },
+  {
+   "title": "Mini PC Soyo S5 - Ryzen 5 7535HS, RAM 16 Go LPDDR5, SSD 512 Go NVME, Triple Écran 4K, Wi-Fi 6",
+   "price_raw": "299,85€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-s5-ryzen-5-7535hs-ram-16-go-lpddr5-ssd-512-go-nvme-triple-ecran-4k-wi-fi-6-3452118",
+   "posted_at": "2026-11-11T11:07:58+00:00"
+  },
+  {
+   "title": "Boîtier PC tour moyenne Kolink Inspire K7 ARGB - Noir",
+   "price_raw": "14,02€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kolink-inspire-k7-argb-midi-tower-noir-3452036",
+   "posted_at": "2026-11-11T09:59:44+00:00"
+  },
+  {
+   "title": "[Prebuilt] Acer Nitro 60 Gaming Desktop Intel i7-14700F 32GB RAM 2TB SSD RTX 5070 Ti Refurb ($1,471.04 with coupon code)",
+   "price_raw": "$1,471.04",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xteul5/prebuilt_acer_nitro_60_gaming_desktop_intel/",
+   "posted_at": "2026-11-11T10:56:07+00:00"
+  },
+  {
+   "title": "Disque Dur SSD Interne Netac 2.5\" SATA III 6 Gb/s 128Go - 2To PC Portable Bureau",
+   "price_raw": "39.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237113077677?_skw=ssd&hash=item37350a6fad:g:SCEAAeSw16hqwoEY",
+   "posted_at": "2026-10-07T17:02:53+00:00"
+  },
+  {
+   "title": "Antec A30 Ventirad CPU 80 mm 3 broches 12 V Socket 478 754939 940 462/A neuf ",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW",
+   "posted_at": "2026-11-11T11:05:54+00:00"
+  },
+  {
+   "title": "Apple Magic Keyboard - clavier sans fil - QWERTZ / FR - Lightning - blanc",
+   "price_raw": "145.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900082540040?_skw=clavier&hash=itemd191199e08:g:A7oAAeSwX3Fq9EuS",
+   "posted_at": "2026-11-11T11:03:32+00:00"
+  },
   {
    "title": "Ninkear A15 Ordinateur Portable 15.6 Pouces Écran FHD IPS AMD Ryzen 5 5500U 16Go RAM 512Go SSD Windows 11 WiFi 6",
    "price_raw": "266,95€",
@@ -631,59 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-raider-16-hx-rtx-5080-core-ultra-9-32-go-ram-1-to-ssd-fnac-270-eur-en-bon-dachat-3451447",
    "posted_at": "2026-11-10T19:00:51+00:00"
-  },
-  {
-   "title": "Carte Graphique Gaming RX-580 8Go GDDR5 MLLSE (2048SP)",
-   "price_raw": "167.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940081502002?_skw=carte+graphique&hash=itemdae1395732:g:RZsAAeSw5Ntq82K1",
-   "posted_at": "2026-11-10T18:12:05+00:00"
-  },
-  {
-   "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
-   "price_raw": "6,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/switch-tp-link-mercusys-ms105g-5-port-gigabit-ethernet-switch-1000-mbps-rj45-ieee-8023x-3451402",
-   "posted_at": "2026-11-10T18:03:35+00:00"
-  },
-  {
-   "title": "10% de réduction immédiate dès 150€ d’achat sur une sélection de tablettes Android et Accessoires",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/10-de-reduction-immediate-des-150eur-dachat-sur-une-selection-de-tablettes-android-et-accessoires-3451316",
-   "posted_at": "2026-11-10T18:00:01+00:00"
-  },
-  {
-   "title": "[Motherboard] Gigabyte A620I AX Motherboard ITX $88.79",
-   "price_raw": "$88.79",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xstfpj/motherboard_gigabyte_a620i_ax_motherboard_itx_8879/",
-   "posted_at": "2026-11-10T17:45:42+00:00"
-  },
-  {
-   "title": "[Case] Lian-Li Case LANCOOL 216X Mid Tower Black $54.12",
-   "price_raw": "$54.12",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsta2u/case_lianli_case_lancool_216x_mid_tower_black_5412/",
-   "posted_at": "2026-11-10T17:39:42+00:00"
-  },
-  {
-   "title": "[GPU] - GIGABYTE GIGABYTE Radeon RX 9070 XT Gaming OC - $799 (WOOT)",
-   "price_raw": "$799",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xssulj/gpu_gigabyte_gigabyte_radeon_rx_9070_xt_gaming_oc/",
-   "posted_at": "2026-11-10T17:23:11+00:00"
-  },
-  {
-   "title": "[Cooler] GAMDIAS CHIONE P5-360 Liquid CPU Cooler, White 360mm, 3.4\" IPS LCD $45.11",
-   "price_raw": "$45.11",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xssj24/cooler_gamdias_chione_p5360_liquid_cpu_cooler/",
-   "posted_at": "2026-11-10T17:11:09+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1729,
+  "listings_seen": 1736,
   "models_with_reference": 39
  }
 }
