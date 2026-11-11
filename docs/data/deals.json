@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T03:37:00Z",
+ "generated_at": "2026-11-11T04:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-11T03:37:00.624654+00:00"
+   "last_ok": "2026-11-11T04:08:00.691843+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T03:37:00.624654+00:00"
+   "last_ok": "2026-11-11T04:08:00.691843+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 390,
-   "last_ok": "2026-11-11T03:37:00.624654+00:00"
+   "items": 387,
+   "last_ok": "2026-11-11T04:08:00.691843+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 7,
-   "last_ok": "2026-11-11T03:37:00.624654+00:00"
+   "items": 33,
+   "last_ok": "2026-11-11T04:08:00.691843+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Isn6LzEYJ9Q6tt5n4dOhJkPIDq5lTqwhG2XRqkMGOcL64J3LprBVO%2ByOs18WHoo8RmzECpPTO%2BGKElt17Cy46ViP4GW0tLU6FEpajaDLvE1yKuaHP8wvTbWvgK1q7rFAq5d%2F0qbYBYulG8s%2FN5wtBpZTW01send0uY%2Bt1NXOhlw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9M5APO1XIyLogTgdUIeBNFXk9dBexB%2FtrZRkOhKdHjIfw%2B1QpCqHln%2FMJRaeveaUJcfuNUKvRaoLCCi3B99jvfkI%2BgG%2Frqac3wTXtPOPBZ0zhNnjzemYYq8Yosii3UXbU0zyY6T84oj3ccJardBwrzpOhtaFAjvNq30aVShJs4Bg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -160,38 +160,21 @@
    "posted_at": "2026-11-10T23:39:54+00:00"
   },
   {
-   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
+   "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 25.99,
    "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 69.99,
-   "discount_pct": 28.6,
+   "effective_eur": 25.99,
+   "median_eur": 37.09,
+   "discount_pct": 29.9,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fik-8981 (pro)",
+   "merchant": "eBay · ppiteso_0 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
-   "posted_at": "2026-09-11T06:05:29+00:00"
-  },
-  {
-   "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
-   "model": "MB:B650",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 70.0,
-   "shipping_eur": 6.5,
-   "effective_eur": 76.5,
-   "median_eur": 106.49,
-   "discount_pct": 28.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · vacarm67 (99,4 %, 606 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
-   "posted_at": "2026-09-11T15:16:56+00:00"
+   "url": "https://www.ebay.fr/itm/860128302414?_skw=ddr4&hash=itemc843a4554e:g:nRUAAeSwnilq8fN0",
+   "posted_at": "2026-11-09T16:23:45+00:00"
   },
   {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
@@ -275,11 +258,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYBDLw5y2LUetE8QT4OszJhdytmwhW7njSz9EUJsiEEKHoz%2FttH1DOhkmcjzTInwXDxiTBHItijfEC9yVIde6AU1%2B9GizzL40yqpiCqiKZrESzMo4FlB3AxY1fsxQzJ1%2B99QdfrGGZs3Mb8IvEnhceA",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaT7wli6EbvSdExp0uQhA7XFzZp%2FrbCs2zCCUHhQ5%2BVT5%2BClXZgvUOosueNavu3qoqDPWwVep71mvk9FU9Vzkd4Q27TLNaNrvyprd1q0I5EtWcuI%2BCKlIoklWq7TY5bIzxmNlr3b9QPLhFY%2FmLMDAzt",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[Keyboard] Hall Effect - Glorious GMMK 3 - 65% - Hotswappable - $71.24",
+   "price_raw": "$71.24",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xt7t5a/keyboard_hall_effect_glorious_gmmk_3_65/",
+   "posted_at": "2026-11-11T03:56:07+00:00"
+  },
+  {
+   "title": "Carte Graphique AMD Radeon HD 6350 512Mo Pegatron HP 635194-001 HDMI DVI PCIe",
+   "price_raw": "10.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800325893985?_skw=carte+graphique&hash=itemba5723ff61:g:CZEAAeSwrFJqUqKQ",
+   "posted_at": "2026-07-11T20:08:37+00:00"
+  },
+  {
+   "title": "4GB - DDR4 - SODIMM 4GB 1Rx8 - PC4-2133P SK HYNIX",
+   "price_raw": "11.87 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198786380331?_skw=ddr4&hash=item2e4897722b:g:wdAAAeSwhNRqzT8p",
+   "posted_at": "2026-11-10T22:11:50+00:00"
+  },
   {
    "title": "Logitech G510 (AZERTY)  Clavier Gamer - Rétroéclairage écran led touches prog",
    "price_raw": "41.52 EUR",
@@ -316,13 +320,6 @@
    "posted_at": "2026-11-11T00:40:23+00:00"
   },
   {
-   "title": "Mini PC Chuwi AMD Ryzen 5 6600H radeon 660M 16 Go DDR5 512 Go SSD Wifi 6 windows 11 pro",
-   "price_raw": "209,57€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-amd-ryzen-5-6600h-radeon-660m-16-go-ddr5-512-go-ssd-wifi-6-windows-11-pro-3451690",
-   "posted_at": "2026-11-11T00:23:53+00:00"
-  },
-  {
    "title": "[GPU] ASRock Challenger Radeon RX 9070 16GB GDDR6 + Free ASRock AIO - $749.99",
    "price_raw": "$749.99",
    "source": "reddit",
@@ -356,13 +353,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-121-lenovo-idea-tab-plus-25k-90hz-dimensity-6400-ram-6-go-128-go-stylet-coque-avec-clavier-magnetique-vendeur-darty-3451625",
    "posted_at": "2026-11-10T22:48:17+00:00"
-  },
-  {
-   "title": "fanxiang S101 SSD interne 256 Go SATA III 2,5\" 520 Mo/s pour PC portable",
-   "price_raw": "104.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800859144643?_skw=ssd&hash=itemba76ecc1c3:g:-gYAAeSwc~Vq5dJj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mYxY43jYgQCeJjN2LYhW237KbsgcORt9B2aOX53zP5lfFezQodxL89TSZu0o%2FlrYBQ%2BR2t2O09LuxN8mdgZj6H5xAEfelPyy%2F2vm36V1cv1f3Is69LGRxwrpfo3F5YFZqWdHDp4h59dZsNRyYKW0bm0RAuOnD2iyplAS5tvVmK5GSnKSGvBObJ3l9Wl3fNeIuDWTqCw53gAnv5GVN0%2BXbTOpGQMO%2BneSLj1r4EY5uNJ6%2FWmjEOlf0lVWy8rBvRuAGT0PtGhqsHV9kRar5cfBGeNqPSUDYFoMW2ZA7G%2FfWmDA%3D%3D",
-   "posted_at": "2026-10-31T11:35:10+00:00"
   },
   {
    "title": "Lot de 2 Écrans PC gaming 23.8\" AOC 24G50F - Full HD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync",
@@ -414,13 +404,6 @@
    "posted_at": "2026-11-10T21:32:23+00:00"
   },
   {
-   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
-   "price_raw": "24.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366799440102?_skw=ddr4&hash=item5566f348e6:g:3-QAAeSw2dRq8zXL",
-   "posted_at": "2026-11-10T15:18:50+00:00"
-  },
-  {
    "title": "Dynatron B13 – Ventirad CPU actif 2U – Intel LGA3647 Square ILM",
    "price_raw": "59.99 EUR",
    "source": "ebay",
@@ -440,20 +423,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-lexip-90x40cm-warner-game-of-thrones-edition-lannister-rouge-flexible-3451511",
    "posted_at": "2026-11-10T20:16:52+00:00"
-  },
-  {
-   "title": "#2 RAM Samsung 16GB (2x8GB) DDR4 So-Dimm PC4-3200 Neuves",
-   "price_raw": "78.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307276374040?_skw=ddr4&hash=item478b196018:g:QckAAeSw3rBq5Pw0",
-   "posted_at": "2026-11-10T20:16:36+00:00"
-  },
-  {
-   "title": "#1 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307276373658?_skw=ddr4&hash=item478b195e9a:g:5pQAAeSw1hlq75bl",
-   "posted_at": "2026-11-10T20:15:59+00:00"
   },
   {
    "title": "Carte mere JINGSHA X99M-H mATX avec 16 Go ram 2133",
@@ -484,13 +453,6 @@
    "posted_at": "2026-11-10T19:47:31+00:00"
   },
   {
-   "title": "Mémoire RAM DDR4 SODIMM PC Portable 8Go 2666MHz Laptop Ordinateur Upgrade EU",
-   "price_raw": "76.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlJbcdQdHJ%2FXjO%2FaY1Wtbl%2BlfOE72OjlaP%2FHefo3P%2FMCwtL%2BEZXMMTkhxpkr%2B7L6UNipRpaYo2LXCLaRQjdlGVJqMdfbeNxPwPedI%2Fc6GQ7LxbFLsuKg6gEVcDOFhztMkW7mXPevG9YqBuagwfNWTJE0",
-   "posted_at": "2026-11-10T19:51:49+00:00"
-  },
-  {
    "title": "PC fixe CSL Sprint 5548 : Ryzen 5 7500F, Radeon RX 9060 XT 16 Go, 16 Go DDR5, SSD 1 To (Sans OS)",
    "price_raw": "1 299€",
    "source": "dealabs",
@@ -510,13 +472,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-raider-16-hx-rtx-5080-core-ultra-9-32-go-ram-1-to-ssd-fnac-270-eur-en-bon-dachat-3451447",
    "posted_at": "2026-11-10T19:00:51+00:00"
-  },
-  {
-   "title": "Samsung 8 Go DDR4 SDRAM SO-DIMM PC4-2666V PC4-21300 M471A1K43CB1-CTD",
-   "price_raw": "25.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940081596956?_skw=ddr4&hash=itemdae13aca1c:g:tvYAAeSwjYtq82gN",
-   "posted_at": "2026-11-10T18:54:08+00:00"
   },
   {
    "title": "Carte Graphique Gaming RX-580 8Go GDDR5 MLLSE (2048SP)",
@@ -596,20 +551,6 @@
    "posted_at": "2026-11-10T16:17:56+00:00"
   },
   {
-   "title": "Mémoire RAM DDR4 Samsung 4 Go 1Rx16 PC4-2666V",
-   "price_raw": "21.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327449715474?_skw=ddr4&hash=item4c3d862312:g:5lwAAeSwdMZq80GG",
-   "posted_at": "2026-11-10T16:11:02+00:00"
-  },
-  {
-   "title": "Mars Gaming MCS2 Boîtier PC Gaming Compact MicroATX 2 Ventilateurs FRGB Ra",
-   "price_raw": "43.65 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132622707?_skw=boitier+pc&hash=item5a9a1c9b73:g:O~IAAeSwCmNo-Ts5",
-   "posted_at": "2025-10-23T03:28:55+00:00"
-  },
-  {
    "title": "Asus ROG AZOTH Extreme Clavier gaming sans fil (USB/Bluetooth/RF 2,4 GHz)",
    "price_raw": "389.00 EUR",
    "source": "ebay",
@@ -629,10 +570,52 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
    "posted_at": "2026-11-10T15:01:12+00:00"
+  },
+  {
+   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go RAM, 128 Go SSD, Wifi 5, BT 4.2, Windows 11 Pro",
+   "price_raw": "85,04€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ram-128-go-ssd-wifi-5-bt-42-windows-11-pro-3451172",
+   "posted_at": "2026-11-10T14:17:52+00:00"
+  },
+  {
+   "title": "Imprimante 3D Bambulab P2S combo + 4 kg de filaments (4x1kg)",
+   "price_raw": "644,37€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/bambulab-ps2-combo-4-bobinne-de-filaments-4x1kg-3434964",
+   "posted_at": "2026-11-10T13:43:54+00:00"
+  },
+  {
+   "title": "TP-Link Omada Switch Ethernet Gigabit Manageable 5 Ports RJ45, ES205G",
+   "price_raw": "18,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tp-link-omada-switch-ethernet-gigabit-manageable-5-ports-rj45-es205g-3451111",
+   "posted_at": "2026-11-10T13:41:48+00:00"
+  },
+  {
+   "title": "Tablette Xiaomi Pad 7 - 8/256Go, 11.2\" 3.2K 144Hz, Snapdragon 7+ Gen 3, 8850mAh, Wi-Fi (182.35€ via Paypal)",
+   "price_raw": "202,35€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-xiaomi-pad-7-8256go-112-32k-144hz-snapdragon-7-gen-3-8850mah-wi-fi-18235eur-via-paypal-3451099",
+   "posted_at": "2026-11-10T13:32:00+00:00"
+  },
+  {
+   "title": "Mini PC CHUWI Ubox - Ryzen 5 6600H, 16 Go LPDDR5, SSD 512 Go, Radeon 660M, Wi-Fi 6, BT 5.2, Windows 11 Pro (209.57€ via Paypal)",
+   "price_raw": "229,57€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-ubox-ryzen-5-6600h-16-go-lpddr5-ssd-512-go-radeon-660m-wi-fi-6-bt-52-windows-11-pro-20957eur-via-paypal-3451092",
+   "posted_at": "2026-11-10T13:29:16+00:00"
+  },
+  {
+   "title": "Switch Ethernet TP-Link LS1005G - 5 ports RJ45 Gigabit, sans ventilateur",
+   "price_raw": "9,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/switch-ethernet-tp-link-ls1005g-5-ports-rj45-gigabit-sans-ventilateur-3451083",
+   "posted_at": "2026-11-10T13:22:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1697,
-  "models_with_reference": 37
+  "listings_seen": 1699,
+  "models_with_reference": 36
  }
 }
