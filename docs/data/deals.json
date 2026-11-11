@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T12:38:00Z",
+ "generated_at": "2026-11-11T13:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 333,
-   "last_ok": "2026-11-11T12:38:00.676608+00:00"
+   "items": 334,
+   "last_ok": "2026-11-11T13:08:00.625486+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T12:38:00.676608+00:00"
+   "last_ok": "2026-11-11T13:08:00.625486+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 364,
-   "last_ok": "2026-11-11T12:38:00.676608+00:00"
+   "items": 367,
+   "last_ok": "2026-11-11T13:08:00.625486+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-11T12:38:00.676608+00:00"
+   "items": 4,
+   "last_ok": "2026-11-11T13:08:00.625486+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BOwPjDYQnO2SEWMz9MufQs30Cxqdm9SpDQ81QGyO5%2BhPoEfwWOndanhpzxdl14Cr%2BAGiAMQ8THiK63GB%2FN%2FY1T1q5isRzktnxP%2BNqgnNefAwhXFKwhvCvcpmCMvQ41sOdxjxU5imkqpe%2FUsX1NDtwKIoiXEudR0OkvBFo9XHS4Dw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bi1zfHPwgZqGrSzQH8yFlfESMBVQtGEbxuDTdFh6YpKrmpxuc9yGyFS2D%2BqhostvQ1%2FkZjXcGQFdxXXIFPL%2FpMMrYSSIwjYpxXG6NucDr5boAEKTsHPCw%2BkbBtAf1XVq4zXxeFHnThTgpEU16bFREfwATXFHRFR0zEjEUZn0dwEg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -326,11 +326,25 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYe0VzfCUsXSCDMj72cmO2HH27%2FHmvsnfdd6hX5jgE9EnygUmknZHFDLC0O7kYHSdAn5m2HblTk8c3aF8WDGkp0n02BTUxK3%2FCCxev7mcMfhmS9nSK2CoCZX23a1vaVfYk4PCh141tIrH6lmb9a9mhE",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbsxmEvVzGg4rKN5onosK%2F0erMdtmzNRcCYzm9WTr0lgH6AxSeoNYX0OchRR%2BE5bg3MV4LszsIT8Rbq9c9rUakrFcXF%2Fxiha8Nc6arQCgsF%2BaXO%2BrwvqZt4rdidY8AlcI2UhCnCFOmvsT0zz%2F7fGGa9",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC ACEMAGIC (i7-14650HX, 32 Go RAM, 1 To SSD NVMe, Wi-Fi 6E, Windows 11 Pro)",
+   "price_raw": "534,64€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-acemagic-i7-14650hx-32-go-ram-1-to-ssd-nvme-wi-fi-6e-windows-11-pro-3452218",
+   "posted_at": "2026-11-11T13:07:36+00:00"
+  },
+  {
+   "title": "ZYB Protection Clavier MacBook Air 13,6/15,3 et Pro 14/16 TPU AZERTY",
+   "price_raw": "15.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920130433855?_skw=clavier&hash=itemd63c0c333f:g:LG0AAeSwH4tq9Gdy",
+   "posted_at": "2026-11-11T13:03:33+00:00"
+  },
   {
    "title": "Canon Pixma TS3752i Jet d'encre A4 4800 x 1200 DPI Wifi",
    "price_raw": "39€",
@@ -344,6 +358,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-m6-16-go-ram-256-go-ssd-gpu-12-coeurs-macos-27-golden-gate-3452142",
    "posted_at": "2026-11-11T11:39:41+00:00"
+  },
+  {
+   "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
+   "price_raw": "29.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F13iwbLsCbUGR5IvDq7g9%2Fs%2BZ1wt9BO9PzpC%2BkdxrtWhEGnaKuTZfq%2Bf9IIwrOW%2BRb%2FvXb4cx04tbEFYm8nqWg5Fh4bARHnDaqYVWKJaFoctlvPwtMaK1wkSP%2Fdae89WH4hKTWVz0FxL513vNof1MR9",
+   "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
    "title": "OMOTON Clavier sans Fil Bluetooth 2.4G AZERTY Silencieux Noir",
@@ -391,7 +412,7 @@
    "title": "Antec A30 Ventirad CPU 80 mm 3 broches 12 V Socket 478 754939 940 462/A neuf ",
    "price_raw": "21.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pxoQsW3ych%2FWdX60MS7%2BVzc2pKGzN68EJXpPcBkVpaUdh1Rfy3PDAX2Nn1Tz2pjYvR4MSq2DBplCefvQwxIRc8xDiD9tqffnzreJ7xnpR0RJvqyiU6i1YY84NeNsCzMNIjDeJX32lK%2FzYTRs4o7Uf60",
+   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pwF6VI4F5w4cxh%2BwZRcJBqW8xrK0tWaC58ewhEuNZe31dOM83h4uEmNPg%2BylHnA4lowF553Er64QPoxytXAdJvh1gTXeGRBBLaD25jJxPiAUxRQkgqQUv5PB5i%2Bb6teWKnZFyA%2BVpwYHDPldjuLq%2FSJ",
    "posted_at": "2026-11-11T11:05:54+00:00"
   },
   {
@@ -535,6 +556,13 @@
    "posted_at": "2026-11-11T01:12:41+00:00"
   },
   {
+   "title": "Carte Graphique NVIDIA GeForce 405 1 Go DDR3 – Occasion Testée Fonctionnelle",
+   "price_raw": "17.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147675191328?_skw=carte+graphique&hash=item2262209820:g:LSQAAeSwfipqvhNc",
+   "posted_at": "2026-11-11T00:40:29+00:00"
+  },
+  {
    "title": "[GPU] ASRock Challenger Radeon RX 9070 16GB GDDR6 + Free ASRock AIO - $749.99",
    "price_raw": "$749.99",
    "source": "reddit",
@@ -652,38 +680,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xsvti9/case_zalman_nexus_compact_matx_pc_case_with_120mm/",
    "posted_at": "2026-11-10T19:14:12+00:00"
-  },
-  {
-   "title": "Carte Graphique Gaming RX-580 8Go GDDR5 MLLSE (2048SP)",
-   "price_raw": "167.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940081502002?_skw=carte+graphique&hash=itemdae1395732:g:RZsAAeSw5Ntq82K1",
-   "posted_at": "2026-11-10T18:12:05+00:00"
-  },
-  {
-   "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
-   "price_raw": "6,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/switch-tp-link-mercusys-ms105g-5-port-gigabit-ethernet-switch-1000-mbps-rj45-ieee-8023x-3451402",
-   "posted_at": "2026-11-10T18:03:35+00:00"
-  },
-  {
-   "title": "10% de réduction immédiate dès 150€ d’achat sur une sélection de tablettes Android et Accessoires",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/10-de-reduction-immediate-des-150eur-dachat-sur-une-selection-de-tablettes-android-et-accessoires-3451316",
-   "posted_at": "2026-11-10T18:00:01+00:00"
-  },
-  {
-   "title": "[Motherboard] Gigabyte A620I AX Motherboard ITX $88.79",
-   "price_raw": "$88.79",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xstfpj/motherboard_gigabyte_a620i_ax_motherboard_itx_8879/",
-   "posted_at": "2026-11-10T17:45:42+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1737,
-  "models_with_reference": 37
+  "listings_seen": 1738,
+  "models_with_reference": 38
  }
 }
