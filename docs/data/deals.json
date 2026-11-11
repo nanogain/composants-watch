@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T08:08:00Z",
+ "generated_at": "2026-11-11T08:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-11T08:08:00.677640+00:00"
+   "last_ok": "2026-11-11T08:38:00.676623+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T08:08:00.677640+00:00"
+   "last_ok": "2026-11-11T08:38:00.676623+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 373,
-   "last_ok": "2026-11-11T08:08:00.677640+00:00"
+   "items": 370,
+   "last_ok": "2026-11-11T08:38:00.676623+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 31,
-   "last_ok": "2026-11-11T08:08:00.677640+00:00"
+   "items": 75,
+   "last_ok": "2026-11-11T08:38:00.676623+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8R3k1RNP9blNdk%2FrtzufaxIK8JXT5ZsrRDIdgyJdtYo%2FVh%2F36Vo1r49vbvY7wx2t6J02MX%2FmIpOQ8mfJD31X0xovw3RujG%2BGDppTXEM8z%2BliCfI9krdsGsjOgrFh4VIQ8VNOYAgZQK1gKThY%2FiANJXuslR5sUNnzJQxfD30x589A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B91FeRk4t5b82XYuaVO70C9PNDhRjicHEHBwk3jzPafJhJmwJIdWVATB%2Fa3PEWCNGFM9rQhTEw1JYHxumXtamOaFoVfaxwM5z7splvTt4B%2Bh72S3nXPJTx56eDEuVFR9irsQdJtIjO9dpPaOUJYz5q48Omv2TMizh%2F7N7rqHcksEQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -275,11 +258,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYLJ2WrXQsy9qUpTA3DiF0J1yC3j1wD6C60af0pEYAkrjqdbkZUQPrVzoDfa1yfdXrfNHIVZLAOM%2Frtz6HNkBDt8Jn8eHGwgx2709tUu%2BwGn5PC6RwG0h4IyVa9JWQuJKwvlpehjXpR6C2xugPKZv1A",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaZnmfSPqWoWc47XyKBIL1VNlrS9mqnzcuicP8FtdBdVou9bj0ZGriKHjSFbUH14o5PgIrz6fwcYP3caAES6AMrB%2BEzlI68eELrDGNvjIXx9vc0Yl6g47HtRI5z9o%2B51fmSnpBaa40DgzjXFMYznnql",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "ram DDR4 ECC Kingston /  DELL 32GB 2Rx4 PC4-2400T-RB2-11  testées",
+   "price_raw": "79.74 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267840569163?_skw=ddr4&hash=item3e5c8abf4b:g:pkQAAeSwYsZq4PmF",
+   "posted_at": "2026-11-11T08:32:44+00:00"
+  },
+  {
+   "title": "Ballistix Sport 16 Go (2x8 Go) DDR4 PC4-21300 DIMM 288p XMP BLS8G4D26BFSC",
+   "price_raw": "78.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900082195837?_skw=ddr4&hash=itemd191145d7d:g:NTYAAeSwvIxq9CQ3",
+   "posted_at": "2026-11-11T08:16:58+00:00"
+  },
+  {
+   "title": "Tour midi BeQuiet Pure Base 600 Boîtier PC noir isolé, fenêtre latérale, 2",
+   "price_raw": "121.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237176632854?_skw=boitier+pc&hash=item3738d43616:g:-sMAAeSwR~9q9CNh",
+   "posted_at": "2026-11-11T08:11:58+00:00"
+  },
   {
    "title": "[Possesseurs de Kindle] 20% de remise sur les Kindle. Ex. : Kindle 16Go avec pubs à 124,99€ au lieu de 154,99€",
    "price_raw": "124,99€",
@@ -526,13 +530,6 @@
    "posted_at": "2026-11-10T18:12:05+00:00"
   },
   {
-   "title": "RAM kingston 8 GB GO RAM DDR4 1Rx8 PC4-2666v  SO-DIMM",
-   "price_raw": "23.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366799434613?_skw=ddr4&hash=item5566f33375:g:CksAAeSw8D1quN84",
-   "posted_at": "2026-11-10T15:15:45+00:00"
-  },
-  {
    "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
    "price_raw": "6,99€",
    "source": "dealabs",
@@ -615,24 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/bambulab-ps2-combo-4-bobinne-de-filaments-4x1kg-3434964",
    "posted_at": "2026-11-10T13:43:54+00:00"
-  },
-  {
-   "title": "TP-Link Omada Switch Ethernet Gigabit Manageable 5 Ports RJ45, ES205G",
-   "price_raw": "18,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tp-link-omada-switch-ethernet-gigabit-manageable-5-ports-rj45-es205g-3451111",
-   "posted_at": "2026-11-10T13:41:48+00:00"
-  },
-  {
-   "title": "Tablette Xiaomi Pad 7 - 8/256Go, 11.2\" 3.2K 144Hz, Snapdragon 7+ Gen 3, 8850mAh, Wi-Fi (182.35€ via Paypal)",
-   "price_raw": "202,35€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-xiaomi-pad-7-8256go-112-32k-144hz-snapdragon-7-gen-3-8850mah-wi-fi-18235eur-via-paypal-3451099",
-   "posted_at": "2026-11-10T13:32:00+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1714,
+  "listings_seen": 1716,
   "models_with_reference": 36
  }
 }
