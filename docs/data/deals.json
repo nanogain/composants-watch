@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T09:08:00Z",
+ "generated_at": "2026-11-11T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 334,
-   "last_ok": "2026-11-11T09:08:00.621906+00:00"
+   "items": 333,
+   "last_ok": "2026-11-11T09:38:00.623344+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T09:08:00.621906+00:00"
+   "last_ok": "2026-11-11T09:38:00.623344+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 365,
-   "last_ok": "2026-11-11T09:08:00.621906+00:00"
+   "last_ok": "2026-11-11T09:38:00.623344+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 3,
-   "last_ok": "2026-11-11T09:08:00.621906+00:00"
+   "items": 80,
+   "last_ok": "2026-11-11T09:38:00.623344+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FmNGKscNiG8ZexnRkuPogj7A1ZpDxek7uRMXdBOrIeTIct4J2vhv2vx9gFArWIKffG2RU35GUkZ3K4xHQAObIB38k2DhILLMSlo97%2BiyqNxeicVqHI6e2F%2F%2BBkgtGeFkyURQyEkpvDgWLCx4I8hrP8WNzpC2j1inqI2WrFS7e02A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B985bXh67v3NO2U3aLD9aO0PqvKzDY05phMcaCU7szavxMPcPphuL77pNi4bjJJ8uAqeUzexacQtefxexsxRp0dd2SHknArD1vlSXF7szqzLavheaNDUnyksBPalLVLrzY3KlnIZ7n9%2BdrkWC25hosR%2FZ485d2IBe1hMlA94QoLVw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -124,6 +107,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-nv3000-m2-1-to-3450946",
    "posted_at": "2026-11-10T10:59:57+00:00"
+  },
+  {
+   "title": "Processeur Intel Core i5-8500 3,00 GHz 6 cœurs LGA1151 SR3XE",
+   "model": "CPU:Core i5-8500",
+   "category": "CPU",
+   "condition": "used",
+   "price_eur": 24.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.9,
+   "median_eur": 39.88,
+   "discount_pct": 37.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · recyclageinformatiquesologne (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
+   "posted_at": "2026-11-11T09:31:40+00:00"
   },
   {
    "title": "Processeur AMD Ryzen 7 7800X3D - Tray (via Paypal)",
@@ -177,21 +177,21 @@
    "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
-   "title": "SSD interne M.2 2280 SATA III 512 Go MICRON en très bon état.",
-   "model": "SSD:SATA-512Go",
+   "title": "SSD 256GB SK hynix 2.5\" SATA III 6.0Gbps",
+   "model": "SSD:SATA-256Go",
    "category": "SSD",
    "condition": "used",
-   "price_eur": 47.5,
-   "shipping_eur": 2.99,
-   "effective_eur": 50.49,
-   "median_eur": 62.39,
-   "discount_pct": 19.1,
+   "price_eur": 29.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 29.0,
+   "median_eur": 35.95,
+   "discount_pct": 19.3,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · ventesint2024 (100,0 %, 531 avis)",
+   "merchant": "eBay · go35700 (100,0 %, 85 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920120896508?_skw=ssd&hash=itemd63b7aabfc:g:dVoAAeSwlWNq8ZXs",
-   "posted_at": "2026-11-09T09:44:35+00:00"
+   "url": "https://www.ebay.fr/itm/267831268864?_skw=ssd&hash=item3e5bfcd600:g:D8AAAeSw3qBq6NET",
+   "posted_at": "2026-11-02T18:08:22+00:00"
   },
   {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
@@ -201,8 +201,8 @@
    "price_eur": 45.32,
    "shipping_eur": 0.0,
    "effective_eur": 45.32,
-   "median_eur": 53.89,
-   "discount_pct": 15.9,
+   "median_eur": 54.99,
+   "discount_pct": 17.6,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
@@ -218,8 +218,8 @@
    "price_eur": 45.32,
    "shipping_eur": 0.0,
    "effective_eur": 45.32,
-   "median_eur": 53.89,
-   "discount_pct": 15.9,
+   "median_eur": 54.99,
+   "discount_pct": 17.6,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
@@ -258,11 +258,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbIkSEt%2BAAmizarEmin9zOB4kSQ83NOvJXTk9Va5q5hHPpkyWYniDnIO4vH0SI%2B%2FJULFLnvWL14mKfv5TdmZzZhKDg9daTKTB6JGy5Y1k5TYI6E0QMjFCp013Bs4Umk2rI70%2F2f9Ryk6DUSz8nQItoY",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZEBopLyAmJ1hfRSxDYfh%2FSCDL3qH2TRnOEumTzRnIk2nm40nWuNH1fEvu1fhjUKGxm%2B9bWC8cOh4%2BexIfKZbfTTgJHd143heZwi%2FYUwdKQ3YHMVy%2FYIHqeKN64DcJCzvL3w4sxSo23D%2BVmLIsW%2BY0S",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "RAM Kingston 8GB 1Rx8 PC4-2666V-SA1-11 SODIMM Laptop",
+   "price_raw": "17.22 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840117116887?_skw=ddr4&hash=itemc39ae1dfd7:g:uGgAAeSwu91q9C3d",
+   "posted_at": "2026-11-11T09:05:40+00:00"
+  },
   {
    "title": "Ninkear s14 r5 6600h 512go 16 go ddr5 ips 2.2k",
    "price_raw": "280,61€",
@@ -411,7 +418,7 @@
    "posted_at": "2026-11-10T23:11:26+00:00"
   },
   {
-   "title": "Mini PC GMKtec K12 - Barebone (sans RAM ni SSD), Ryzen 7 H 255, Radeon 780M, triple M.2 PCIe 4.0, OCuLink, WiFi 6E (197.39€ via Paypal)",
+   "title": "Mini PC GMKtec K12 - Barebone (sans RAM ni SSD), Ryzen 7 H 255, Radeon 780M, triple M.2 PCIe 4.0, OCuLink, WiFi 6E",
    "price_raw": "217,39€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k12-barebone-sans-ram-ni-ssd-ryzen-7-h-255-radeon-780m-triple-m2-pcie-40-oculink-wifi-6e-19739eur-via-paypal-3451204",
@@ -605,17 +612,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/127766410735?_skw=clavier&hash=item1dbf78b5ef:g:HBwAAeSw38Nq83Qn",
    "posted_at": "2026-03-24T00:08:22+00:00"
-  },
-  {
-   "title": "[Nouveaux clients] Souris Gaming Sans Fil Ultra-Légère TMICE G13 - 54 g, Capteur Optique PAW3395, 26 000 DPI, 8K Hz, Bluetooth",
-   "price_raw": "22,24€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-souris-gaming-sans-fil-ultra-legere-tmice-g13-54-g-capteur-optique-paw3395-26-000-dpi-8k-hz-bluetooth-3451248",
-   "posted_at": "2026-11-10T15:15:04+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1720,
-  "models_with_reference": 36
+  "listings_seen": 1725,
+  "models_with_reference": 38
  }
 }
