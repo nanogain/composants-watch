@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T07:08:00Z",
+ "generated_at": "2026-11-11T07:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-11T07:08:00.622522+00:00"
+   "items": 334,
+   "last_ok": "2026-11-11T07:38:00.682670+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T07:08:00.622522+00:00"
+   "last_ok": "2026-11-11T07:38:00.682670+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-11T07:08:00.622522+00:00"
+   "items": 374,
+   "last_ok": "2026-11-11T07:38:00.682670+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-11T07:08:00.622522+00:00"
+   "items": 80,
+   "last_ok": "2026-11-11T07:38:00.682670+00:00"
   }
  },
  "watchlist": [
@@ -58,23 +58,6 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 169.99,
-   "median_eur": 289.99,
-   "discount_pct": 41.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -88,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bsmn%2FQ1ufn9WI4GTEAN2UHVH%2FHSIIaYgPeKmTdUSBRDBudJQ5fjL2wOgcPwxAOpfwhGeo3%2FkmbpKYkyq4tdMx6yu%2FxwdISVRwDIPDY%2FM7cjvKuQ7%2FcWyP7t2IkwuV2%2FnpNVSFORDfD2g1riDIPX46UluH%2BgPxGjaGriTvY0kjCEw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B95M6McjGRkdDitReBOSO%2BygJr3NFYpIlAESNlpbUzCSU2rncXlm8mz58mviCVHNAg3sYzD9YyDhHil%2ByX8rSHHvvXE1RTtCemiqVO2vfrIKmirIwA8qGyw3K0KOfM8hJwj1aEispG7ZGzZKr3dmMu%2FcJnQRGu8Q0bHLlhbAOdvSA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -275,7 +258,7 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIanl9Ach8inqfyBxyZWCegKaahgbv2JfC5mBlHrCane4CsrcnZLLrUAwUx8gDuEmtUUn1%2BcFfnu5pxkuhuaXwc4pSjHAWRo96FlmE%2Bt%2FBd3tmlP2Umw2cSeOuHzFSXg45vT07eYsBBKymZdEV9HXC6u",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
@@ -470,13 +453,6 @@
    "posted_at": "2026-11-10T20:16:52+00:00"
   },
   {
-   "title": "Carte Graphique NVIDIA GeForce GT 740 4Go GDDR3 128 Bits HDMI DP DVI GPU PC EU",
-   "price_raw": "84.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131943032?_skw=carte+graphique&hash=itemc843dbe278:g:M84AAeSw6khq83rg",
-   "posted_at": "2026-11-10T20:13:33+00:00"
-  },
-  {
    "title": "Carte mere JINGSHA X99M-H mATX avec 16 Go ram 2133",
    "price_raw": "50.00 EUR",
    "source": "ebay",
@@ -524,13 +500,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/940081502002?_skw=carte+graphique&hash=itemdae1395732:g:RZsAAeSw5Ntq82K1",
    "posted_at": "2026-11-10T18:12:05+00:00"
-  },
-  {
-   "title": "RAM kingston 8 GB GO RAM DDR4 1Rx8 PC4-2666v  SO-DIMM",
-   "price_raw": "23.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366799434613?_skw=ddr4&hash=item5566f33375:g:CksAAeSw8D1quN84",
-   "posted_at": "2026-11-10T15:15:45+00:00"
   },
   {
    "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
@@ -629,10 +598,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-xiaomi-pad-7-8256go-112-32k-144hz-snapdragon-7-gen-3-8850mah-wi-fi-18235eur-via-paypal-3451099",
    "posted_at": "2026-11-10T13:32:00+00:00"
+  },
+  {
+   "title": "Mini PC CHUWI Ubox - Ryzen 5 6600H, 16 Go LPDDR5, SSD 512 Go, Radeon 660M, Wi-Fi 6, BT 5.2, Windows 11 Pro (209.57€ via Paypal)",
+   "price_raw": "229,57€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-ubox-ryzen-5-6600h-16-go-lpddr5-ssd-512-go-radeon-660m-wi-fi-6-bt-52-windows-11-pro-20957eur-via-paypal-3451092",
+   "posted_at": "2026-11-10T13:29:16+00:00"
+  },
+  {
+   "title": "Switch Ethernet TP-Link LS1005G - 5 ports RJ45 Gigabit, sans ventilateur",
+   "price_raw": "9,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/switch-ethernet-tp-link-ls1005g-5-ports-rj45-gigabit-sans-ventilateur-3451083",
+   "posted_at": "2026-11-10T13:22:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1710,
-  "models_with_reference": 36
+  "listings_seen": 1711,
+  "models_with_reference": 37
  }
 }
