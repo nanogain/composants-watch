@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T05:08:00Z",
+ "generated_at": "2026-11-11T05:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 335,
-   "last_ok": "2026-11-11T05:08:00.636807+00:00"
+   "last_ok": "2026-11-11T05:38:00.624341+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T05:08:00.636807+00:00"
+   "last_ok": "2026-11-11T05:38:00.624341+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 386,
-   "last_ok": "2026-11-11T05:08:00.636807+00:00"
+   "items": 391,
+   "last_ok": "2026-11-11T05:38:00.624341+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 10,
-   "last_ok": "2026-11-11T05:08:00.636807+00:00"
+   "items": 75,
+   "last_ok": "2026-11-11T05:38:00.624341+00:00"
   }
  },
  "watchlist": [
@@ -71,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m1R51f1r3%2BJz8FnFnnXPxRdp0%2Fi0Qh7PSMSU%2BXQfKuw3jcd4%2BhRkX6wGpZhBeFBD9%2B%2FdLDR8nModjRPFmA6P8IxFA95ZGdH1Srq2f3a%2F4%2B%2BEVRHyvj0tKeDjEgA6Bh9JA1%2BLt0pINx7We7i92y6WcIUsdQOZHxyBDNSA27Fvsh1NJS%2F7pitliwe1dtfR7F6et9i2zHLPdN99HOBm89OJW7k11KdAVPu3dbkvOca50Vi0r8ksfR835d%2FMUrm8I0%2FYY7Hr6EhTt5piyYyKxYhNtO",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
    "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B90%2BAXOwUsmCDFQnZ5bA50sZ5uYq8BqjFxqw8Dezj2WuQPcMql2UR2MET3OjAHftEruf0Dl0CphZ1fRKVQMu94NZeQWTVeWPRyrC%2BXBFwlF6B17ebeGJ%2BeXNXZdEF8hSsk%2BoPns9LkXFvZ7HEO%2FJpe%2F40K%2F2zISwJR1RhrFfAO2kg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B95UArOr6FQWRSFZy%2ByZfbqhGvmOrhKfvjuVy4otqHXY15lacaCtY1KcP3g9zrI%2BWsgXGOmUni7t4vxCtlVXh7H2QRz4wPXqTFQlObyXgh7UtX4ICgHl7K%2F8QFwbxTml7onPTBDwL9HLVeXrBxOSloLLUwPkPiC2qZ%2BzhIeNnSZPQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -143,23 +143,6 @@
    "posted_at": "2026-11-10T23:39:54+00:00"
   },
   {
-   "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 25.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 25.99,
-   "median_eur": 37.09,
-   "discount_pct": 29.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · ppiteso_0 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128302414?_skw=ddr4&hash=itemc843a4554e:g:nRUAAeSwnilq8fN0",
-   "posted_at": "2026-11-09T16:23:45+00:00"
-  },
-  {
    "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
    "model": "SSD:SATA-1To",
    "category": "SSD",
@@ -194,6 +177,23 @@
    "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
+   "title": "SSD interne M.2 2280 SATA III 512 Go MICRON en très bon état.",
+   "model": "SSD:SATA-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.5,
+   "shipping_eur": 2.99,
+   "effective_eur": 50.49,
+   "median_eur": 62.39,
+   "discount_pct": 19.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ventesint2024 (100,0 %, 531 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920120896508?_skw=ssd&hash=itemd63b7aabfc:g:dVoAAeSwlWNq8ZXs",
+   "posted_at": "2026-11-09T09:44:35+00:00"
+  },
+  {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -209,6 +209,40 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860128033339?_skw=ssd&hash=itemc843a03a3b:g:tpEAAeSwEExq8dUz",
    "posted_at": "2026-11-09T14:16:05+00:00"
+  },
+  {
+   "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.32,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.32,
+   "median_eur": 53.89,
+   "discount_pct": 15.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860128000912?_skw=ssd&hash=itemc8439fbb90:g:JKMAAeSw62Jq8dBb",
+   "posted_at": "2026-11-09T13:55:06+00:00"
+  },
+  {
+   "title": "SSD Intel 660p 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.32,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.32,
+   "median_eur": 53.89,
+   "discount_pct": 15.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860127962020?_skw=ssd&hash=itemc8439f23a4:g:KUAAAeSwOIxq8cuL",
+   "posted_at": "2026-11-09T13:36:10+00:00"
   },
   {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
@@ -241,7 +275,7 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb3QvJ202hhIxVUQ7y4tN105wYHHQS4dlX10lOTYXbj6n72dWE0EiavXgGXQOUD3QAx8NDbsFKcVBN3J2ZUTbo1xiJrbBdl4AfD8Ne9cRiLervf3LNBHkdFsXKY3WIgE8Oarg2RTV8g4vIDQHgj8iax",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZzjRK6XTYWjnZTcE0d2mylNrjgzzgEf%2FG0bsRhdCRXqllefcDwMqle5%2BGcgmSmy22vOn3NKOqNR7uMlq3m82E6zw4ne734t%2BISupdUAaws4JgZZQeY90wNmvRbEixTYHDhBfQt7hRNu%2FdJT8TUn4CW",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
@@ -289,13 +323,6 @@
    "posted_at": "2026-07-11T20:08:37+00:00"
   },
   {
-   "title": "4GB - DDR4 - SODIMM 4GB 1Rx8 - PC4-2133P SK HYNIX",
-   "price_raw": "11.87 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198786380331?_skw=ddr4&hash=item2e4897722b:g:wdAAAeSwhNRqzT8p",
-   "posted_at": "2026-11-10T22:11:50+00:00"
-  },
-  {
    "title": "Logitech G510 (AZERTY)  Clavier Gamer - Rétroéclairage écran led touches prog",
    "price_raw": "41.52 EUR",
    "source": "ebay",
@@ -322,13 +349,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147675191008?_skw=carte+graphique&hash=item22622096e0:g:w0QAAeSw7PpqvhHO",
    "posted_at": "2026-11-11T00:40:17+00:00"
-  },
-  {
-   "title": "Processeur Intel Core i7-860 2,80GHz 1ère Gen Socket LGA1156 Occasion",
-   "price_raw": "13.77 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191176?_skw=processeur&hash=item2262209788:g:anYAAeSwM9Nq60NJ",
-   "posted_at": "2026-11-11T00:40:23+00:00"
   },
   {
    "title": "[GPU] ASRock Challenger Radeon RX 9070 16GB GDDR6 + Free ASRock AIO - $749.99",
@@ -443,11 +463,11 @@
    "posted_at": "2026-11-10T20:16:52+00:00"
   },
   {
-   "title": "Carte Graphique NVIDIA GeForce GT 740 4Go GDDR3 128 Bits HDMI DP DVI GPU PC EU",
-   "price_raw": "84.99 EUR",
+   "title": "#2 RAM Samsung 16GB (2x8GB) DDR4 So-Dimm PC4-3200 Neuves",
+   "price_raw": "78.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131943032?_skw=carte+graphique&hash=itemc843dbe278:g:M84AAeSw6khq83rg",
-   "posted_at": "2026-11-10T20:13:33+00:00"
+   "url": "https://www.ebay.fr/itm/307276374040?_skw=ddr4&hash=item478b196018:g:QckAAeSw3rBq5Pw0",
+   "posted_at": "2026-11-10T20:16:36+00:00"
   },
   {
    "title": "#1 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
@@ -478,6 +498,13 @@
    "posted_at": "2026-11-10T19:47:31+00:00"
   },
   {
+   "title": "Mémoire RAM DDR4 SODIMM PC Portable 8Go 2666MHz Laptop Ordinateur Upgrade EU",
+   "price_raw": "76.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlKCCiXnnvF2saCKG6Z%2BF1vjU9qsGywAK24h6VIpFehre9MbeYsYzZAChNWFjsFkJmCsRpYMPbLKFAZLlR8KqsWI182ey2TneLjx9UF0LRPhlVJj0V2xZbdU%2FVxXBja0X6x0JkR5%2F4gDic4%2BcfTjrFH6",
+   "posted_at": "2026-11-10T19:51:49+00:00"
+  },
+  {
    "title": "PC fixe CSL Sprint 5548 : Ryzen 5 7500F, Radeon RX 9060 XT 16 Go, 16 Go DDR5, SSD 1 To (Sans OS)",
    "price_raw": "1 299€",
    "source": "dealabs",
@@ -499,6 +526,13 @@
    "posted_at": "2026-11-10T19:00:51+00:00"
   },
   {
+   "title": "Samsung 8 Go DDR4 SDRAM SO-DIMM PC4-2666V PC4-21300 M471A1K43CB1-CTD",
+   "price_raw": "25.66 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940081596956?_skw=ddr4&hash=itemdae13aca1c:g:tvYAAeSwjYtq82gN",
+   "posted_at": "2026-11-10T18:54:08+00:00"
+  },
+  {
    "title": "Carte Graphique Gaming RX-580 8Go GDDR5 MLLSE (2048SP)",
    "price_raw": "167.00 EUR",
    "source": "ebay",
@@ -511,6 +545,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366799434613?_skw=ddr4&hash=item5566f33375:g:CksAAeSw8D1quN84",
    "posted_at": "2026-11-10T15:15:45+00:00"
+  },
+  {
+   "title": "RAM Samsung  8 GB GO RAM DDR4 1Rx8 PC4-2666v  SO-DIMM",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366799437310?_skw=ddr4&hash=item5566f33dfe:g:OjQAAeSwGB1quN-Q",
+   "posted_at": "2026-11-10T15:17:00+00:00"
   },
   {
    "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
@@ -562,6 +603,20 @@
    "posted_at": "2026-11-10T16:17:26+00:00"
   },
   {
+   "title": "Mémoire 4Go RAM DDR4 Kingston",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327449735945?_skw=ddr4&hash=item4c3d867309:g:oJEAAeSw4UFq80Nl",
+   "posted_at": "2026-11-10T16:17:56+00:00"
+  },
+  {
+   "title": "Mémoire RAM DDR4 Samsung 4 Go 1Rx16 PC4-2666V",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327449715474?_skw=ddr4&hash=item4c3d862312:g:5lwAAeSwdMZq80GG",
+   "posted_at": "2026-11-10T16:11:02+00:00"
+  },
+  {
    "title": "Asus ROG AZOTH Extreme Clavier gaming sans fil (USB/Bluetooth/RF 2,4 GHz)",
    "price_raw": "389.00 EUR",
    "source": "ebay",
@@ -574,31 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-souris-gaming-sans-fil-ultra-legere-tmice-g13-54-g-capteur-optique-paw3395-26-000-dpi-8k-hz-bluetooth-3451248",
    "posted_at": "2026-11-10T15:15:04+00:00"
-  },
-  {
-   "title": "[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)",
-   "price_raw": "$379.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
-   "posted_at": "2026-11-10T15:01:12+00:00"
-  },
-  {
-   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go RAM, 128 Go SSD, Wifi 5, BT 4.2, Windows 11 Pro",
-   "price_raw": "85,04€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ram-128-go-ssd-wifi-5-bt-42-windows-11-pro-3451172",
-   "posted_at": "2026-11-10T14:17:52+00:00"
-  },
-  {
-   "title": "Imprimante 3D Bambulab P2S combo + 4 kg de filaments (4x1kg)",
-   "price_raw": "644,37€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/bambulab-ps2-combo-4-bobinne-de-filaments-4x1kg-3434964",
-   "posted_at": "2026-11-10T13:43:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1707,
+  "listings_seen": 1708,
   "models_with_reference": 37
  }
 }
