@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T03:08:00Z",
+ "generated_at": "2026-11-11T03:37:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-11T03:08:00.676734+00:00"
+   "last_ok": "2026-11-11T03:37:00.624654+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T03:08:00.676734+00:00"
+   "last_ok": "2026-11-11T03:37:00.624654+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 388,
-   "last_ok": "2026-11-11T03:08:00.676734+00:00"
+   "items": 390,
+   "last_ok": "2026-11-11T03:37:00.624654+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-11T03:08:00.676734+00:00"
+   "items": 7,
+   "last_ok": "2026-11-11T03:37:00.624654+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B806Ull2deB7cWJvn1AZvGLSQRyl8ef4BVoY78390nEnlGtkXF0hXzvttTtFKpDpXsLUvG%2FYUVowWfhOYyvltrGzIWYEJxjuCUXT6cCrdD9JBlUSyJ78N8XJrK%2Fd6aKes0jUaOzPSnAUUeh2429Y5Qg3vl%2FHvNX0t4CSKhVsQ2boQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Isn6LzEYJ9Q6tt5n4dOhJkPIDq5lTqwhG2XRqkMGOcL64J3LprBVO%2ByOs18WHoo8RmzECpPTO%2BGKElt17Cy46ViP4GW0tLU6FEpajaDLvE1yKuaHP8wvTbWvgK1q7rFAq5d%2F0qbYBYulG8s%2FN5wtBpZTW01send0uY%2Bt1NXOhlw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -158,6 +158,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
    "posted_at": "2026-11-10T23:39:54+00:00"
+  },
+  {
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 69.99,
+   "discount_pct": 28.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fik-8981 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
   },
   {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
@@ -258,11 +275,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZZFs80Uq9R20q5260LAd6h2KHRnv2maJIiAVmCQinQyiwf06tt0Mzxq1dElflGHU9RIh7Cgs%2F%2Bzo019LQaN%2FLVoCSX%2F8A7mdSwxBjUyAfKhDQHm8tWaLF3IAKnNx12gIvJ72rUsGjZoMKYLa55PKLZ",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYBDLw5y2LUetE8QT4OszJhdytmwhW7njSz9EUJsiEEKHoz%2FttH1DOhkmcjzTInwXDxiTBHItijfEC9yVIde6AU1%2B9GizzL40yqpiCqiKZrESzMo4FlB3AxY1fsxQzJ1%2B99QdfrGGZs3Mb8IvEnhceA",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Logitech G510 (AZERTY)  Clavier Gamer - Rétroéclairage écran led touches prog",
+   "price_raw": "41.52 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168575286821?_skw=clavier&hash=item273fdebe25:g:kfUAAeSwVDJqa06s",
+   "posted_at": "2026-07-30T13:15:48+00:00"
+  },
   {
    "title": "PC Portable 18\" ASUS TUF A18 - 2,5k 240Hz, RTX 5070 8 Go, Ryzen 7 260, 32 Go DDR5, 1 To SSD",
    "price_raw": "1 759€",
@@ -285,25 +309,11 @@
    "posted_at": "2026-11-11T00:40:17+00:00"
   },
   {
-   "title": "Carte Graphique NVIDIA Quadro P400 HP 919985-002 2 GB – Utilisée, Testée",
-   "price_raw": "57.05 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191411?_skw=carte+graphique&hash=item2262209873:g:wLgAAeSw~XZqvUPU",
-   "posted_at": "2026-11-11T00:40:32+00:00"
-  },
-  {
    "title": "Processeur Intel Core i7-860 2,80GHz 1ère Gen Socket LGA1156 Occasion",
    "price_raw": "13.77 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147675191176?_skw=processeur&hash=item2262209788:g:anYAAeSwM9Nq60NJ",
    "posted_at": "2026-11-11T00:40:23+00:00"
-  },
-  {
-   "title": "Processeur CPU Intel Xeon E3-1220 V3 3,10GHz 4 Cœurs Socket LGA1150 Utilisé",
-   "price_raw": "6.89 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147675191546?_skw=processeur&hash=item22622098fa:g:ncAAAeSwtZNq60b2",
-   "posted_at": "2026-11-11T00:40:38+00:00"
   },
   {
    "title": "Mini PC Chuwi AMD Ryzen 5 6600H radeon 660M 16 Go DDR5 512 Go SSD Wifi 6 windows 11 pro",
@@ -346,6 +356,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-121-lenovo-idea-tab-plus-25k-90hz-dimensity-6400-ram-6-go-128-go-stylet-coque-avec-clavier-magnetique-vendeur-darty-3451625",
    "posted_at": "2026-11-10T22:48:17+00:00"
+  },
+  {
+   "title": "fanxiang S101 SSD interne 256 Go SATA III 2,5\" 520 Mo/s pour PC portable",
+   "price_raw": "104.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800859144643?_skw=ssd&hash=itemba76ecc1c3:g:-gYAAeSwc~Vq5dJj&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mYxY43jYgQCeJjN2LYhW237KbsgcORt9B2aOX53zP5lfFezQodxL89TSZu0o%2FlrYBQ%2BR2t2O09LuxN8mdgZj6H5xAEfelPyy%2F2vm36V1cv1f3Is69LGRxwrpfo3F5YFZqWdHDp4h59dZsNRyYKW0bm0RAuOnD2iyplAS5tvVmK5GSnKSGvBObJ3l9Wl3fNeIuDWTqCw53gAnv5GVN0%2BXbTOpGQMO%2BneSLj1r4EY5uNJ6%2FWmjEOlf0lVWy8rBvRuAGT0PtGhqsHV9kRar5cfBGeNqPSUDYFoMW2ZA7G%2FfWmDA%3D%3D",
+   "posted_at": "2026-10-31T11:35:10+00:00"
   },
   {
    "title": "Lot de 2 Écrans PC gaming 23.8\" AOC 24G50F - Full HD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync",
@@ -470,7 +487,7 @@
    "title": "Mémoire RAM DDR4 SODIMM PC Portable 8Go 2666MHz Laptop Ordinateur Upgrade EU",
    "price_raw": "76.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlKtfVVdosJaahUWRkNLxNSuN7wlEHSPSbOgfFqD9mu8qVGpbDMKFb2w%2Fwuj9T1H79en8vFsWi83DgKiUG81lrnp7wSy0635z3GabJEzcGSJA3X14gvf%2F1Fl4Pb3vOWlhZpisciNI0Pqvl08ErLpmGIT",
+   "url": "https://www.ebay.fr/itm/860131894202?_skw=ddr4&hash=itemc843db23ba:g:INMAAeSwbetq83Um&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lgceHkRThS9VNPK1ABDYI4eE2%2B3GyUun71G%2BAgaO2hew2KF3NvOvihDC%2BOSaNEHNGUKPRozP3fzHh9J9rJ9TCQHMxpwp9KDYMI50slAMz92Z%2Bo2J%2FQFjRgB5kT8HyPQlJbcdQdHJ%2FXjO%2FaY1Wtbl%2BlfOE72OjlaP%2FHefo3P%2FMCwtL%2BEZXMMTkhxpkr%2B7L6UNipRpaYo2LXCLaRQjdlGVJqMdfbeNxPwPedI%2Fc6GQ7LxbFLsuKg6gEVcDOFhztMkW7mXPevG9YqBuagwfNWTJE0",
    "posted_at": "2026-11-10T19:51:49+00:00"
   },
   {
@@ -615,7 +632,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1696,
+  "listings_seen": 1697,
   "models_with_reference": 37
  }
 }
