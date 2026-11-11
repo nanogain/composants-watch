@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T15:08:00Z",
+ "generated_at": "2026-11-11T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 337,
-   "last_ok": "2026-11-11T15:08:00.640722+00:00"
+   "last_ok": "2026-11-11T15:38:00.650137+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T15:08:00.640722+00:00"
+   "last_ok": "2026-11-11T15:38:00.650137+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-11T15:08:00.640722+00:00"
+   "items": 366,
+   "last_ok": "2026-11-11T15:38:00.650137+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 5,
-   "last_ok": "2026-11-11T15:08:00.640722+00:00"
+   "items": 73,
+   "last_ok": "2026-11-11T15:38:00.650137+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BNCLi1mwq2VvaeTJpVQwParcxY9Ise1nMa5stLsdugU0gNVrd002nXnAkJESVhSOIM7fPc%2FtQtNCzfuv409FtEasW0in1FdV8%2BlTdlJ%2BzmFFzONgyYGGey5uM6GeD%2FwfQz702Oye48rd9lf93D%2Fatl4%2FRWOBfQtnTaA6pHuQZaCQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FyuItQ6HD9RhxAlYJ6E755JFZJbcDPr6zxrcJtigXRVfzJYcm%2Bt6BrAPhqbX%2FTgNoH2vV8SfVPqhhTHuqIivGOTyHEJtuMkGSqjcluTDUnzuvKAxFzUJ0v6syTB8IhYs0MMfeALzdWK5Dt%2FzyDOwYhvAaHD7k6PQ6F7YrhtwyaHQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -218,8 +218,8 @@
    "price_eur": 29.0,
    "shipping_eur": 0.0,
    "effective_eur": 29.0,
-   "median_eur": 40.1,
-   "discount_pct": 27.7,
+   "median_eur": 40.34,
+   "discount_pct": 28.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · go35700 (100,0 %, 85 avis)",
@@ -245,6 +245,23 @@
    "posted_at": "2026-11-09T09:44:35+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -256,27 +273,10 @@
    "discount_pct": 17.6,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 383 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860128033339?_skw=ssd&hash=itemc843a03a3b:g:tpEAAeSwEExq8dUz",
    "posted_at": "2026-11-09T14:16:05+00:00"
-  },
-  {
-   "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 45.32,
-   "shipping_eur": 0.0,
-   "effective_eur": 45.32,
-   "median_eur": 54.99,
-   "discount_pct": 17.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128000912?_skw=ssd&hash=itemc8439fbb90:g:JKMAAeSw62Jq8dBb",
-   "posted_at": "2026-11-09T13:55:06+00:00"
   },
   {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
@@ -290,7 +290,7 @@
    "discount_pct": 15.6,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 383 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
    "posted_at": "2026-11-09T11:03:45+00:00"
@@ -309,11 +309,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZq0vriSOrrCc1BOaq421VkpCTSO3RF%2BrrJoBQqYNJdxDlHMhsiL%2FWIH7tlM%2BDubzqwLPRqcYALSekb%2FIUfRLowl7aZNCytR6D1dZLZME0proW%2BPsVStOnPJr3LiF5Qb%2FHu33KGPQ2SynfcVY7Pbhlv",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbVmdxiSiRtyFgW0mA6YXXgGAcKtV3w%2FYhx9Wwg2i%2BwG6ficp%2Fsyp%2BmdZTqwdCLZzjEuDHIf1OGYmnlJjuuTm5Jz%2B4c2pi0g4uz%2BoFmycZ%2Bnr20iapcIJu9%2B7UkmnQT8SDYBKMYP4gwmFb%2B9jJuQDBV",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Apple MacBook Air 15\" - Puce M5 CPU 10 cœurs GPU 10 cœurs RAM 16 Go SSD 1 To Bleu ciel, AZERTY, Sans Chargeur",
+   "price_raw": "1 716,37€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-puce-m5-cpu-10-coeurs-gpu-10-coeurs-ram-16-go-ssd-1-to-bleu-ciel-azerty-3452263",
+   "posted_at": "2026-11-11T14:09:07+00:00"
+  },
+  {
+   "title": "[CPU] AMD Ryzen 7 5700X, 8-Core 3.4 GHz Socket AM4 65W, No iGPU - $158.98 (w/code: BFF23)",
+   "price_raw": "$158.98",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtkae6/cpu_amd_ryzen_7_5700x_8core_34_ghz_socket_am4_65w/",
+   "posted_at": "2026-11-11T15:14:22+00:00"
+  },
+  {
+   "title": "Lot de 4 barrettes SK hynix 4 Go DDR4 SO-DIMM PC4-2400T",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168855099440?_skw=ddr4&hash=item27508c5830:g:yd8AAeSwgRZq9IX3",
+   "posted_at": "2026-11-11T15:16:00+00:00"
+  },
   {
    "title": "Imprimante Jet d'Encre EPSON EcoTank ET-1910",
    "price_raw": "128,99€",
@@ -395,7 +416,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOstpl%2FZscptsBM76ypeQ%2BVAhrwSklAE4E3CeuxzDuLMXV9x8aQOsPV7hdy%2FH5m1Xufu5TDVRsvZhN44i1ffwZ50jDCwgHebC6m%2BPbtWfmDXeCgCb1OL7FmVVI16HSAz3%2BcBLlml8REAc%2BKptBfVRv8uxus4p5MOs2rw51J9bbIW59g%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsveyU70c9zgVLHNVgUgm6OmJsSKq8JJfLxBatF1qgXZ0dSAYdXwMibsw36zvgDnUhrG%2Fuu9FKUzPiW8qdUI86YgU6lZoDqwhOhBDskx1e4yLNbLFIv3JFDKQTAX7T04y6Cdk2ah1iX5ZDhqHra%2FnSSmFJv34pHGSTgmmkWkXbFKuw%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
@@ -416,7 +437,7 @@
    "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
    "price_raw": "33.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n3gKugVRFbmqfO2LsFeybtx2d2yz7f7NfVnN9EexdlZI7kovRASU7ich6aPgQQNGOEYGrT4koqjuXgc4Wipq5l1xPXJhDOiIVmCs0dvq%2BYchUB6XjjccudaoF5Frj1NGNVP%2FmXBwTUlW0tjJc%2Bl3fmhHewxsSfBN7WzdJ%2FNdoj%2FL3nXEtQNAf55BgPc1OormY6PnMG2ppRZTCHDXU5OuVKzOkoqRW0SWP5QRf394M0P0c1skVUc99bOYFGpQDTBTXwFOY7ZQgQAL2TSrvVDdVYSKsGA2sjZAv%2FZf67kBxgvw%3D%3D",
+   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n3gKugVRFbmqfO2LsFeybtx2d2yz7f7NfVnN9EexdlZI7kovRASU7ich6aPgQQNGOEYGrT4koqjuXgc4Wipq5l1xPXJhDOiIVmCs0dvq%2BYchUB6XjjccudaoF5Frj1NGM4C9vu%2BCYUoDeXi5u1kthFHVh%2BkWUJFiOv5yHyGiwOupbaBaykPnnurVscA6%2FmjucyppU8wQMlQRf8A26aOuYtnDRsC6tTdz0lq%2BRA3N7tTwUrS3MTJyumfBxUVJdmxLgLr5wjjnBuLolvBfNi5Fog0QCIDzJLJymLq15L0zOWgw%3D%3D",
    "posted_at": "2026-11-11T13:24:30+00:00"
   },
   {
@@ -451,7 +472,7 @@
    "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F0uTS617NBEVBQLllFTy9H6lLHXFCAbAJd4VKB4oDcj%2Fc9hmx%2FIauiTTSKLGuKwGKIGwWrlRWQo4ayjZHX4OsVwjXWZd2GBLeDEDvBOgP0yCK3vpmzA90Zf0lyqetcPoSC1XUG2F3hurUWp2HfK3ejg",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F2HWipISIFx1nepvvzXJ7AdXtyADzNlp%2BaNQZUIlmO%2F5deZhMcZ7fArjgduimMU4v8sEwwk%2Bl%2BMPxNTUZfxa1LdehPWEtiz2rXPa%2BrtSIurY6%2FsUqZdAdVA1WhhpYq%2F3eGtI6XuULCqM3kYBdlF1s2%2B",
    "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
@@ -642,31 +663,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xt1q7l/cooler_noctua_processor_cooler_15_cm_open_box_6649/",
    "posted_at": "2026-11-10T23:11:26+00:00"
-  },
-  {
-   "title": "Mini PC GMKtec K12 - Barebone (sans RAM ni SSD), Ryzen 7 H 255, Radeon 780M, triple M.2 PCIe 4.0, OCuLink, WiFi 6E",
-   "price_raw": "217,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k12-barebone-sans-ram-ni-ssd-ryzen-7-h-255-radeon-780m-triple-m2-pcie-40-oculink-wifi-6e-19739eur-via-paypal-3451204",
-   "posted_at": "2026-11-10T23:02:00+00:00"
-  },
-  {
-   "title": "Tablette 12.1\" Lenovo Idea Tab Plus (2.5K 90Hz, Dimensity 6400, RAM 6 Go, 128 Go) + Stylet + Coque avec Clavier magnétique (Vendeur Darty)",
-   "price_raw": "288,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-121-lenovo-idea-tab-plus-25k-90hz-dimensity-6400-ram-6-go-128-go-stylet-coque-avec-clavier-magnetique-vendeur-darty-3451625",
-   "posted_at": "2026-11-10T22:48:17+00:00"
-  },
-  {
-   "title": "Lot de 2 Écrans PC gaming 23.8\" AOC 24G50F - Full HD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync",
-   "price_raw": "118,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecrans-pc-gaming-238-aoc-24g50f-fhd-ips-180hz-05-ms-hdr-compatible-g-sync-3450799",
-   "posted_at": "2026-11-10T22:26:05+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1748,
+  "listings_seen": 1750,
   "models_with_reference": 38
  }
 }
