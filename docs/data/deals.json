@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T20:38:00Z",
+ "generated_at": "2026-11-11T21:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-11T20:38:00.673661+00:00"
+   "last_ok": "2026-11-11T21:08:00.677127+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T20:38:00.673661+00:00"
+   "last_ok": "2026-11-11T21:08:00.677127+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 368,
-   "last_ok": "2026-11-11T20:38:00.673661+00:00"
+   "last_ok": "2026-11-11T21:08:00.677127+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-11T20:38:00.673661+00:00"
+   "items": 41,
+   "last_ok": "2026-11-11T21:08:00.677127+00:00"
   }
  },
  "watchlist": [
@@ -58,6 +58,23 @@
    "posted_at": "2026-10-12T17:30:00+00:00"
   },
   {
+   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 60.49,
+   "shipping_eur": 0.0,
+   "effective_eur": 60.49,
+   "median_eur": 149.99,
+   "discount_pct": 59.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-official-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
+   "posted_at": "2024-11-07T06:12:38+00:00"
+  },
+  {
    "title": "Ecran Pc 27\" HKC G27H4D - QHD, Fast IPS 240Hz (oc 275hz), HDMI 2.0, DP 1.4 (Vendeur tiers)",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -92,21 +109,21 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
-   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
-   "model": "SSD:SATA-128Go",
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
    "category": "SSD",
-   "condition": "used",
-   "price_eur": 10.5,
-   "shipping_eur": 3.47,
-   "effective_eur": 13.97,
-   "median_eur": 29.0,
-   "discount_pct": 51.8,
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 174 avis)",
+   "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:HoIAAeSwa~5q9K1t",
-   "posted_at": "2026-11-11T18:03:48+00:00"
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
   },
   {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
@@ -122,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fyz9NntPguc97o4iLLFVPcDm6z4jS6eS5G09mOncYYN9dpImb6Jat5%2FTZHb9P4cVh4C6Dl37TaHeKaiXODINRdqb2wL2i7Doqifh6jEmBeVnandwsbNwulC4O1hThwq4VGgXnbCoykN6nnit%2BlybeJ40L%2Bgkq%2FCdO26KKEPZfpuw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BzcdMyBAQF108rX2WVjRI9OYzermPdMgGPAyRXw8ptarOKf8DRXQdTAKRGshHvErghvNfTCT59c7LXBehGBKfCAYPy3yp6ExYbbjXjoGWLgrJ5cgiV%2FcuArjnQU3qWmqaY6uZw0T9Qf01dkzNcwqNwfaKTjPG%2BcO40LLk3EAaKRA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -211,23 +228,6 @@
    "posted_at": "2026-11-11T10:23:59+00:00"
   },
   {
-   "title": "Samsung SM863 SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM Ultra Fin 5 mm",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 17.0,
-   "shipping_eur": 2.78,
-   "effective_eur": 19.78,
-   "median_eur": 29.0,
-   "discount_pct": 31.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 174 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206692701431?_skw=ssd&hash=item301fd854f7:g:LjEAAeSwFMJq9K4U",
-   "posted_at": "2026-11-11T18:15:26+00:00"
-  },
-  {
    "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -243,23 +243,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860128302414?_skw=ddr4&hash=itemc843a4554e:g:nRUAAeSwnilq8fN0",
    "posted_at": "2026-11-09T16:23:45+00:00"
-  },
-  {
-   "title": "SSD 256GB SK hynix 2.5\" SATA III 6.0Gbps",
-   "model": "SSD:SATA-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 29.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 29.0,
-   "median_eur": 40.34,
-   "discount_pct": 28.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · go35700 (100,0 %, 85 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267831268864?_skw=ssd&hash=item3e5bfcd600:g:D8AAAeSw3qBq6NET",
-   "posted_at": "2026-11-02T18:08:22+00:00"
   },
   {
    "title": "Integral P Series  240GB  ( INSSD240GS625M7XP4 ) SATA 2.5 SSD (Bon)",
@@ -343,11 +326,25 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIY3eyaByx2uJzjbdgWdm7k3Halj4C6Q2uW3LRA0w77sWODL%2FChsy8bNYAsV5matq4%2B2x3PQ4XZBqbRElu8e4t16eDDfe08MonftqNgsEEll7kIlnzCaCS8TXcDC5tjzb9Da38KID%2FkIxTHRq0r3ezOG",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaiKlmsaP9jjhQF7HWLPWGS2QzHZVUpm3Ev1lNXzJER7R0rwV8pHYPSzxBg6m2%2BFlY%2Bs1bPwCm4sT8LWzFk4jLnthQk5hWppCzlJ6yMAbSWTTv%2FJf1InAY8I%2FdfCRFkKkBdT52o5VIqoN3othvZsHxk",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
+   "price_raw": "26.22 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147676544394?_skw=ddr4&hash=item2262353d8a:g:rocAAeSweLBq9NXL",
+   "posted_at": "2026-11-11T20:56:22+00:00"
+  },
+  {
+   "title": "Lexar SL500M SSD Externe Portable USB 3.2 Gen2x2 jusqu'à 2000 Mo/s",
+   "price_raw": "999.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800904963468?_skw=ssd&hash=itemba79a7e58c:g:mDMAAeSw18Fq9NJh",
+   "posted_at": "2026-11-11T20:39:49+00:00"
+  },
   {
    "title": "Alimentation PC modulaire MSI MPG A 1000gs",
    "price_raw": "109,99€",
@@ -363,17 +360,10 @@
    "posted_at": "2026-11-11T20:09:26+00:00"
   },
   {
-   "title": "Carte graphique Gigabyte GTX 980 Ti 6 Go testée ok",
-   "price_raw": "103.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/145203982007?_skw=carte+graphique&hash=item21ced4eeb7:g:IHQAAOSw45lkvEe8",
-   "posted_at": "2023-07-22T21:24:22+00:00"
-  },
-  {
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtlvKmIIBZEvHWqzpNMAuXWXyvxK8FoD2BHYrJ9EIT5NWbCVsZD8vEtlSW3eKI02mJwa1RPSAXZpuiE%2BFToLV1udiM9rTprSuMNy%2FkoAMvzxa1PtgdbkGpiM8Layel1OeRu9pOKIG5EzcwHyf5WD8nKWVwBdXPXwJSzdMMDEk39lgg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtn3P0dsAt1Sjhv2rQvhrqfvwzuoGAxJlwI1t8t29SyJ%2FUj6NI1n2ywAYdM9gjgVbENsX%2Bc4J4hN4ZmSyUFKyybPehYpsyDhsu6sm6yG7b4D%2ByTNBxuIc0vBeYYItL447573jc7fAsNQJyhkxA6y4zoA63jXFlV7OhuGwGvEEPAHyg%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -457,14 +447,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz36o4MyZqKL2%2FFzTr8nci2S2uPHDGl7%2Bfa0zgC7c5hEKwgR0oLCx6erqw7OUGPInJROPGs5VTMnWzDxfH734iRD1%2F5GYwtIrtUlSpr1BLZftuujGMAS4e2fcNiP4bgVpK7uvRkQmKvaMvviWSMLci57QqngYDhoiOJM%2Bse2OJe27w%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz21cbJwwHYGHSgRErYKlaUEXq0QVsYlX8q3ZuzKD%2FY6HXifuWHVa25KMa59HqJ84o4V0aKwMu%2BNLnR0H7sWdpsBXc%2FQtAfOVKzjL4VLqs56p%2Fyb%2FjNJ1nofBCwGSGEGxKITXa8s4NU8Jf9wX2ShFOQ6C%2FVDH%2F3jtUEH8Sbcx5CUsQ%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh1SkW74mhsWqiDqEeym0iSWK3dKXbxjVokAHwN9q0%2Bfn9pNyW3hpqzRfYVLkFJgHZTJU8FK0e6TTs6fP8ziZBpBXcNKOfZxh5Iko%2FH2DvOtF3CHV7cyfKMGDHaFwj%2B9YFJhnL4psbpE95bRG6gNegLCr4t%2ByOryi46fvVVqj0RK5Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3tcpRcR3ez0o8KyQSLX%2BBsaLZlJd26im%2BwE1%2FJW4Rd%2B0ebsUc4GHUFudZsWEd1KQGJU3lSi81SaCXJOqONdgjBH5dhnf6m8k9mGmcWJ%2B3TAusHp5MZaFe3PPVKyTkhUGsrvttPB0HwSSWMDwumr14IlNJHzu2mS4NouEfjmzC8ng%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -473,13 +463,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/vanne-thermostatique-connectee-tp-link-3452419",
    "posted_at": "2026-11-11T17:16:54+00:00"
-  },
-  {
-   "title": "carte graphique EVGA NVIDIA GeForce GTX 1060 6 Go GDDR5  06G-P4-6163-KR",
-   "price_raw": "63.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168855309792?_skw=carte+graphique&hash=item27508f8de0:g:bfIAAeSw2qZq9KAS",
-   "posted_at": "2026-11-11T17:05:28+00:00"
   },
   {
    "title": "[GPU] MSI Ventus GeForce RTX 5060 8GB GDDR7 - ($299.99)",
@@ -587,6 +570,13 @@
    "posted_at": "2026-11-11T14:03:28+00:00"
   },
   {
+   "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
+   "price_raw": "66.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsszm%2BGALqY1sWQzB94Hy3BFFhGTi%2BRj9GCFdfiK65Jc89XrrNYP3rD2R5Nk2F3e3oFd1jCYLZmuCi13XuskSOTemQ5dgPF0%2BgU4N2ddLdU%2FfV09XXchkKoAos8KXhR5XmZSyEKhWye%2F%2BbKvxwxheT0iwoEW4jeOdWbV7SveJc4Zyg%3D%3D",
+   "posted_at": "2025-03-04T13:03:51+00:00"
+  },
+  {
    "title": "PC Portable 16\" Gigabyte A16 Pro - Intel Core 7 240H, RTX 5070 Ti 12 Go, RAM 32 Go 5600MHz, SSD 1 To, QWERTY, Windows 11",
    "price_raw": "1 728,15€",
    "source": "dealabs",
@@ -690,17 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-jet-dencre-epson-ecotank-et-2926-4-bouteilles-dencre-serie-104-20eur-dodr-3451950",
    "posted_at": "2026-11-11T08:56:02+00:00"
-  },
-  {
-   "title": "[Possesseurs de Kindle] 20% de remise sur les Kindle - Ex. : Kindle 16 Go - avec Pubs",
-   "price_raw": "124,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/possesseurs-de-kindle-20-de-remise-sur-les-kindle-ex-kindle-16go-avec-pubs-a-12499eur-au-lieu-de-15499eur-3451890",
-   "posted_at": "2026-11-11T08:07:55+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1747,
+  "listings_seen": 1746,
   "models_with_reference": 40
  }
 }
