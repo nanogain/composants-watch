@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T10:08:00Z",
+ "generated_at": "2026-11-11T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 333,
-   "last_ok": "2026-11-11T10:08:00.667481+00:00"
+   "items": 332,
+   "last_ok": "2026-11-11T10:38:00.663451+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T10:08:00.667481+00:00"
+   "last_ok": "2026-11-11T10:38:00.663451+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-11T10:08:00.667481+00:00"
+   "items": 368,
+   "last_ok": "2026-11-11T10:38:00.663451+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 12,
-   "last_ok": "2026-11-11T10:08:00.667481+00:00"
+   "items": 3,
+   "last_ok": "2026-11-11T10:38:00.663451+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8udLonXKlmIPUZ8XUuhkhvmefVdcmKk9%2FabWjBs%2BcuTMw%2F9ekHz9QdaryvPuy456DP6qd28EBVupzgdGuOOoUVrDY6pCDF4jJNHv3j3K065KYsqt2sBD1B72BzsG2rQB%2BrEcPJYYuyBNfJHJsvOxf0Ll7t%2FMUzzHl47GltoiRILA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B6D7MeKJzXomW0utEf3yRpe0v5heaV%2FF452lPZyxZj8sKQ%2FbViH7rcEsX4n8nHZd1xgrJjDGQ31iy7c%2FhatKumw5st9d9lJo2i5h1fTaPT5nK4URYw%2BN1u4oCnYuyiK%2F8mGLqb7Shgc8nc7cULLnhxXbrkLHPpLCWDRRf%2F%2BGKrcQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -158,6 +175,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
    "posted_at": "2026-11-10T23:39:54+00:00"
+  },
+  {
+   "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
+   "model": "MON:24-FHD-100Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 64.99,
+   "shipping_eur": null,
+   "effective_eur": 64.99,
+   "median_eur": 96.56,
+   "discount_pct": 32.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-245-msi-pro-mp252l-245-fhd-100hz-dalle-ips-1ms-adaptive-sync-hdr-ready-3452009",
+   "posted_at": "2026-11-11T10:23:59+00:00"
   },
   {
    "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
@@ -292,11 +326,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbH5PkFIsA3LL9OxXYUD8J5JQL%2Bt7LI1Qg4v%2BqKsujx6c6sJKyuwtHzpswt2BqOeFkC7fOmU2s7y%2BaY2pMHe471rr3wwc5BEmGVHmHTJvUELYTjkSw5fZ1dtcrLcEIYAVyOrRipN270yqXVXo6VYwrc",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZYvfOjdAP4n6T%2FJspxWa8fWNQLtZq6Tx2dyov81cjbDN%2BX8t6%2BDgGQ%2F1dkhcoDB0iDwZm2SnAnOqJbLPWInKYZgECw21fkNBCzALOX%2Fudo4Fm1nM28kJTGnNbRnI0XJaUHECpgjYCI6qkT%2BrkDAr5D",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Ninkear A15 Ordinateur Portable 15.6 Pouces Écran FHD IPS AMD Ryzen 5 5500U 16Go RAM 512Go SSD Windows 11 WiFi 6",
+   "price_raw": "266,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ninkear-a15-ordinateur-portable-156-pouces-ecran-fhd-ips-amd-ryzen-5-5500u-16go-ram-512go-ssd-windows-11-wifi-6-3452053",
+   "posted_at": "2026-11-11T10:14:01+00:00"
+  },
   {
    "title": "Carte graphique GeForce NVIDIA GTX 280",
    "price_raw": "26.70 EUR",
@@ -313,7 +354,7 @@
   },
   {
    "title": "SK hynix 8 Go (2x4 Go) DDR4 SO-DIMM 260 broches PC4-2400T HMA851S6AFR6N-UH",
-   "price_raw": "31.90 EUR",
+   "price_raw": "26.70 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147675830909?_skw=ddr4&hash=item22622a5a7d:g:yiQAAeSwl2Jq9Do2",
    "posted_at": "2026-11-11T09:54:55+00:00"
@@ -361,7 +402,7 @@
    "posted_at": "2026-11-11T08:16:58+00:00"
   },
   {
-   "title": "[Possesseurs de Kindle] 20% de remise sur les Kindle. Ex. : Kindle 16Go avec pubs à 124,99€ au lieu de 154,99€",
+   "title": "[Possesseurs de Kindle] 20% de remise sur les Kindle - Ex. : Kindle 16 Go - avec Pubs",
    "price_raw": "124,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/possesseurs-de-kindle-20-de-remise-sur-les-kindle-ex-kindle-16go-avec-pubs-a-12499eur-au-lieu-de-15499eur-3451890",
@@ -639,17 +680,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xssj24/cooler_gamdias_chione_p5360_liquid_cpu_cooler/",
    "posted_at": "2026-11-10T17:11:09+00:00"
-  },
-  {
-   "title": "[Other] Nintendo eShop $200 Gift Card (Email Delivery) - $168 (w/code: BNWF2674)",
-   "price_raw": "$200",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsr2uo/other_nintendo_eshop_200_gift_card_email_delivery/",
-   "posted_at": "2026-11-10T16:17:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1728,
-  "models_with_reference": 37
+  "listings_seen": 1729,
+  "models_with_reference": 39
  }
 }
