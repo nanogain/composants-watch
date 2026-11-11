@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T16:38:00Z",
+ "generated_at": "2026-11-11T17:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-11T16:38:00.679924+00:00"
+   "last_ok": "2026-11-11T17:08:00.688923+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T16:38:00.679924+00:00"
+   "last_ok": "2026-11-11T17:08:00.688923+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 370,
-   "last_ok": "2026-11-11T16:38:00.679924+00:00"
+   "last_ok": "2026-11-11T17:08:00.688923+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 13,
-   "last_ok": "2026-11-11T16:38:00.679924+00:00"
+   "items": 78,
+   "last_ok": "2026-11-11T17:08:00.688923+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B6IBn402sV2O4LXNvTIpimlKDn050toJNODkQy765LKl6L2v%2Bp2j37OkTy5I5NwAmNj8v48vO7X%2FFYiabyb%2BWOCy49CBYR0GDNNJa3cDZlh6MvzEUnbCalUEnfxBk0hB3qhTvTBNj7ddXznc3br68wCgMppDJOfmU2Z%2FzUCU3pXg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B8SkYZxOiBBokDvX%2FkuK%2FXNKh9he5%2B%2FSRWm%2BPi1eJ9zgqAyNQ%2B23Tc3RSJLrAoUoLX7JsoPgC%2Byx7nUYnsmqdxOZSIGUZppfhfblsgZLF4iL5OMcJvF9Nk%2BAG22tQD%2BUP%2F3YuMwVBozKy8SQqi2U0s30CfPTQaesbm6ilQGU4mhw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -262,23 +262,6 @@
    "posted_at": "2026-11-09T11:03:45+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -313,6 +296,23 @@
    "posted_at": "2026-11-09T13:55:06+00:00"
   },
   {
+   "title": "SSD Intel 660p 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.32,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.32,
+   "median_eur": 54.99,
+   "discount_pct": 17.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 383 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860127962020?_skw=ssd&hash=itemc8439f23a4:g:KUAAAeSwOIxq8cuL",
+   "posted_at": "2026-11-09T13:36:10+00:00"
+  },
+  {
    "title": " Netac 8go ddr4 3200 8go C22",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -326,11 +326,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZKUWh%2F3WfhDV36tm501CxP9QtHbVRzHv8tpBovRqjuEzh3CpKTboE21ctTnZBr3z5bGbk%2FHRXL3MqHRDpuEEVQ%2BvJspSYSo9omHH00YACT2LnYyoUg7NhX5PtwFCmhFtmxJ%2BjpuwVIEq94r9jzGxa4",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYlRWhPcfrDIk87S7mJYYA86lNj6ZCW9LJSsZKr4yvX0JjRss%2B9f1peyrWoXGvtm%2FdThbvXU9ezNh4D35eaSOJ%2F6yboQlsCQWVlDNFA3V0MciyViWW4rU%2BCU87%2F8f%2Bh8464g9f%2F9Yayu6x4kHhEJZLv",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[GPU] MSI Ventus GeForce RTX 5060 8GB GDDR7 - ($299.99)",
+   "price_raw": "$299.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtn1ze/gpu_msi_ventus_geforce_rtx_5060_8gb_gddr7_29999/",
+   "posted_at": "2026-11-11T16:58:39+00:00"
+  },
+  {
+   "title": "Carte Graphique NVIDIA Quadro P1000 – 4 Go GDDR5",
+   "price_raw": "73.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327451389448?_skw=carte+graphique&hash=item4c3d9fae08:g:v5MAAeSwvAdq9J0Q",
+   "posted_at": "2026-11-11T16:53:21+00:00"
+  },
+  {
+   "title": "SK hynix 32 Go DDR4 RDIMM ECC Registered 288 broches PC4-2666V HMA84GR7CJR4N-VK",
+   "price_raw": "74.54 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267840849499?_skw=ddr4&hash=item3e5c8f065b:g:l2gAAeSw9RFq9Jhb",
+   "posted_at": "2026-11-11T16:39:34+00:00"
+  },
   {
    "title": "Samsung 860 EVO 250GB mSATA SSD Mini SATA III PC Laptop",
    "price_raw": "29.99 EUR",
@@ -489,7 +510,7 @@
    "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F2l34qb0HL7X0mkOHQXDCqpKKzdT4FqVg%2Fktbkvn6YLSijWCNoZlA6kiVuBMWft7eJY4XjMiukHc7tAG3zm460A0S%2FbWQIcDcA1ee9%2Bp9XkWVaoswRLC8Wu0%2BzVWJpU0ym1zteZS0bRpODAl%2BA50DVE",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F33y39utLfKF5fBssixSf0S0ubDXVGi%2FSeyTROxvD3mIxDwPJU%2BIljqKP0ZLqUuOAEvkbEBARJZ4f1g97JtH9L8ifIleVdBCR1XmQwEQCGAgdk8VPvCpvKr4To4JDl1PneeVdFdbgOICUptj2g13sz4",
    "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
@@ -659,31 +680,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147675191328?_skw=carte+graphique&hash=item2262209820:g:LSQAAeSwfipqvhNc",
    "posted_at": "2026-11-11T00:40:29+00:00"
-  },
-  {
-   "title": "[GPU] ASRock Challenger Radeon RX 9070 16GB GDDR6 + Free ASRock AIO - $749.99",
-   "price_raw": "$749.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xt39tz/gpu_asrock_challenger_radeon_rx_9070_16gb_gddr6/",
-   "posted_at": "2026-11-11T00:18:02+00:00"
-  },
-  {
-   "title": "AMD Athlon 3000G Processeur AM4 3,5 GHz Radeon Vega 3 Reconditionné Testé",
-   "price_raw": "19.97 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940082136181?_skw=processeur&hash=itemdae1430475:g:7DUAAeSwDqJq868J",
-   "posted_at": "2026-11-11T00:00:03+00:00"
-  },
-  {
-   "title": "[Cooler] Noctua Processor Cooler 15 Cm, (Open Box) - $66.49",
-   "price_raw": "$66.49",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xt1q7l/cooler_noctua_processor_cooler_15_cm_open_box_6649/",
-   "posted_at": "2026-11-10T23:11:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1750,
+  "listings_seen": 1749,
   "models_with_reference": 38
  }
 }
