@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T09:38:00Z",
+ "generated_at": "2026-11-11T10:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 333,
-   "last_ok": "2026-11-11T09:38:00.623344+00:00"
+   "last_ok": "2026-11-11T10:08:00.667481+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T09:38:00.623344+00:00"
+   "last_ok": "2026-11-11T10:08:00.667481+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-11T09:38:00.623344+00:00"
+   "items": 369,
+   "last_ok": "2026-11-11T10:08:00.667481+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-11T09:38:00.623344+00:00"
+   "items": 12,
+   "last_ok": "2026-11-11T10:08:00.667481+00:00"
   }
  },
  "watchlist": [
@@ -40,6 +40,23 @@
   }
  ],
  "opportunities": [
+  {
+   "title": "Netac NV3000 SSD Interne M.2 NVMe PCIe 3.0 Disque 250 Go 500Go 1To 2To 3500MB/s",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 149.99,
+   "discount_pct": 66.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · shop-produit-divers (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
+   "posted_at": "2026-10-12T17:30:00+00:00"
+  },
   {
    "title": "Ecran Pc 27\" HKC G27H4D - QHD, Fast IPS 240Hz (oc 275hz), HDMI 2.0, DP 1.4 (Vendeur tiers)",
    "model": "MON:27-QHD-240Hz",
@@ -88,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B985bXh67v3NO2U3aLD9aO0PqvKzDY05phMcaCU7szavxMPcPphuL77pNi4bjJJ8uAqeUzexacQtefxexsxRp0dd2SHknArD1vlSXF7szqzLavheaNDUnyksBPalLVLrzY3KlnIZ7n9%2BdrkWC25hosR%2FZ485d2IBe1hMlA94QoLVw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8udLonXKlmIPUZ8XUuhkhvmefVdcmKk9%2FabWjBs%2BcuTMw%2F9ekHz9QdaryvPuy456DP6qd28EBVupzgdGuOOoUVrDY6pCDF4jJNHv3j3K065KYsqt2sBD1B72BzsG2rQB%2BrEcPJYYuyBNfJHJsvOxf0Ll7t%2FMUzzHl47GltoiRILA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -194,6 +211,23 @@
    "posted_at": "2026-11-02T18:08:22+00:00"
   },
   {
+   "title": "SSD interne M.2 2280 SATA III 512 Go MICRON en très bon état.",
+   "model": "SSD:SATA-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.5,
+   "shipping_eur": 2.99,
+   "effective_eur": 50.49,
+   "median_eur": 62.39,
+   "discount_pct": 19.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ventesint2024 (100,0 %, 531 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920120896508?_skw=ssd&hash=itemd63b7aabfc:g:dVoAAeSwlWNq8ZXs",
+   "posted_at": "2026-11-09T09:44:35+00:00"
+  },
+  {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -258,11 +292,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZEBopLyAmJ1hfRSxDYfh%2FSCDL3qH2TRnOEumTzRnIk2nm40nWuNH1fEvu1fhjUKGxm%2B9bWC8cOh4%2BexIfKZbfTTgJHd143heZwi%2FYUwdKQ3YHMVy%2FYIHqeKN64DcJCzvL3w4sxSo23D%2BVmLIsW%2BY0S",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbH5PkFIsA3LL9OxXYUD8J5JQL%2Bt7LI1Qg4v%2BqKsujx6c6sJKyuwtHzpswt2BqOeFkC7fOmU2s7y%2BaY2pMHe471rr3wwc5BEmGVHmHTJvUELYTjkSw5fZ1dtcrLcEIYAVyOrRipN270yqXVXo6VYwrc",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Carte graphique GeForce NVIDIA GTX 280",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820341911441?_skw=carte+graphique&hash=itembf00302f91:g:AyYAAeSwF9Fq9Dmd",
+   "posted_at": "2026-11-11T09:51:34+00:00"
+  },
+  {
+   "title": "Carte graphique Asus GeForce GTX 560 Ti",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820341881487?_skw=carte+graphique&hash=itembf002fba8f:g:mQsAAeSwU8pq9DeE",
+   "posted_at": "2026-11-11T09:43:41+00:00"
+  },
+  {
+   "title": "SK hynix 8 Go (2x4 Go) DDR4 SO-DIMM 260 broches PC4-2400T HMA851S6AFR6N-UH",
+   "price_raw": "31.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147675830909?_skw=ddr4&hash=item22622a5a7d:g:yiQAAeSwl2Jq9Do2",
+   "posted_at": "2026-11-11T09:54:55+00:00"
+  },
   {
    "title": "RAM Kingston 8GB 1Rx8 PC4-2666V-SA1-11 SODIMM Laptop",
    "price_raw": "17.22 EUR",
@@ -285,7 +340,7 @@
    "posted_at": "2026-11-11T09:00:01+00:00"
   },
   {
-   "title": "Imprimante jet d'encre EPSON EcoTank ET-2926 + 4 bouteilles d'encre Série 104 (20€ d'ODR)",
+   "title": "Imprimante jet d'encre EPSON EcoTank ET-2926 + 4 bouteilles d'encre Série 104 (via 20€ d'ODR)",
    "price_raw": "158,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-jet-dencre-epson-ecotank-et-2926-4-bouteilles-dencre-serie-104-20eur-dodr-3451950",
@@ -502,25 +557,11 @@
    "posted_at": "2026-11-10T20:16:52+00:00"
   },
   {
-   "title": "Carte mere JINGSHA X99M-H mATX avec 16 Go ram 2133",
-   "price_raw": "50.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940081758338?_skw=carte+m%C3%A8re&hash=itemdae13d4082:g:Me4AAeSwHD5q83Xj",
-   "posted_at": "2026-11-10T20:12:20+00:00"
-  },
-  {
    "title": "BE QUIET! Light Base 500 – Boîtier PC GAMING ATX + 4 ventilateurs inclus",
    "price_raw": "125.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/168828425069?_skw=boitier+pc&hash=item274ef5536d:g:W3QAAeSwI5Fq5bao",
    "posted_at": "2026-10-31T09:37:42+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Gaming Acer Predator Helios Neo 16S AI, OLED 165Hz - Ultra 7 356H,, 32 Go RAM, 1 To SSD, Rtx 5070 - Win11",
-   "price_raw": "1 869€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acer-predator-helios-16s-ai-3451494",
-   "posted_at": "2026-11-10T19:52:50+00:00"
   },
   {
    "title": "[Bundle] Ryzen 5600X + B550 Eagle Wifi6 + 16GB DDR4 3200 $299+ Shipping After Promo Code BFF22",
@@ -605,17 +646,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xsr2uo/other_nintendo_eshop_200_gift_card_email_delivery/",
    "posted_at": "2026-11-10T16:17:26+00:00"
-  },
-  {
-   "title": "Asus ROG AZOTH Extreme Clavier gaming sans fil (USB/Bluetooth/RF 2,4 GHz)",
-   "price_raw": "389.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/127766410735?_skw=clavier&hash=item1dbf78b5ef:g:HBwAAeSw38Nq83Qn",
-   "posted_at": "2026-03-24T00:08:22+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1725,
-  "models_with_reference": 38
+  "listings_seen": 1728,
+  "models_with_reference": 37
  }
 }
