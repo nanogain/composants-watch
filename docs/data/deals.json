@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T14:38:00Z",
+ "generated_at": "2026-11-11T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-11T14:38:00.682720+00:00"
+   "items": 337,
+   "last_ok": "2026-11-11T15:08:00.640722+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T14:38:00.682720+00:00"
+   "last_ok": "2026-11-11T15:08:00.640722+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-11T14:38:00.682720+00:00"
+   "items": 368,
+   "last_ok": "2026-11-11T15:08:00.640722+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 44,
-   "last_ok": "2026-11-11T14:38:00.682720+00:00"
+   "items": 5,
+   "last_ok": "2026-11-11T15:08:00.640722+00:00"
   }
  },
  "watchlist": [
@@ -82,8 +82,8 @@
    "price_eur": 79.3,
    "shipping_eur": null,
    "effective_eur": 79.3,
-   "median_eur": 164.1,
-   "discount_pct": 51.7,
+   "median_eur": 169.99,
+   "discount_pct": 53.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BseXSVJsfHaGsPuoBK5ysdwyf2AW%2FfMfn%2BtNQxWgGswlMR%2FGX7zpMKnk58sCQKY3Oly8SUXD3KC2taUT6oOWaZxrtE238T63geLMFstKrcNKIg2eaMcKw%2Bki%2BqsZQwRxfD5pjv38WFet%2BDIESVL6qSOGKRyttlqaOL3T3ZuVSSeQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BNCLi1mwq2VvaeTJpVQwParcxY9Ise1nMa5stLsdugU0gNVrd002nXnAkJESVhSOIM7fPc%2FtQtNCzfuv409FtEasW0in1FdV8%2BlTdlJ%2BzmFFzONgyYGGey5uM6GeD%2FwfQz702Oye48rd9lf93D%2Fatl4%2FRWOBfQtnTaA6pHuQZaCQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -150,8 +150,8 @@
    "price_eur": 109.24,
    "shipping_eur": null,
    "effective_eur": 109.24,
-   "median_eur": 164.1,
-   "discount_pct": 33.4,
+   "median_eur": 169.99,
+   "discount_pct": 35.7,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -218,8 +218,8 @@
    "price_eur": 29.0,
    "shipping_eur": 0.0,
    "effective_eur": 29.0,
-   "median_eur": 35.95,
-   "discount_pct": 19.3,
+   "median_eur": 40.1,
+   "discount_pct": 27.7,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · go35700 (100,0 %, 85 avis)",
@@ -279,23 +279,6 @@
    "posted_at": "2026-11-09T13:55:06+00:00"
   },
   {
-   "title": "SSD Intel 660p 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 45.32,
-   "shipping_eur": 0.0,
-   "effective_eur": 45.32,
-   "median_eur": 54.99,
-   "discount_pct": 17.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127962020?_skw=ssd&hash=itemc8439f23a4:g:KUAAAeSwOIxq8cuL",
-   "posted_at": "2026-11-09T13:36:10+00:00"
-  },
-  {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -326,11 +309,53 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa%2FvhLbed6lLn0b%2F4T5nHmy4ByP%2B%2FS3xriKCll9L9ZB5nIJlLQBeenxZpFsoI%2BAF11nWu5uB4y%2BhpOVgMQeh4dx3HfNokGuoBw1h3ePISy%2FiWh0B2x2Wft%2FyTWV6C8RUVVzxhpzgwwj2%2FcWhhMz3tNy",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZq0vriSOrrCc1BOaq421VkpCTSO3RF%2BrrJoBQqYNJdxDlHMhsiL%2FWIH7tlM%2BDubzqwLPRqcYALSekb%2FIUfRLowl7aZNCytR6D1dZLZME0proW%2BPsVStOnPJr3LiF5Qb%2FHu33KGPQ2SynfcVY7Pbhlv",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Imprimante Jet d'Encre EPSON EcoTank ET-1910",
+   "price_raw": "128,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-jet-dencre-epson-ecotank-et-1910-3452304",
+   "posted_at": "2026-11-11T14:46:42+00:00"
+  },
+  {
+   "title": "PC Fixe PcCom Ready - i5-12400F, RTX 5060, 32 Go RAM, SSD 1 To, Wi-Fi 6, Windows 11 Home",
+   "price_raw": "1 179€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-fixe-pccom-ready-i5-12400f-rtx-5060-32-go-ram-ssd-1-to-wi-fi-6-windows-11-home-3452302",
+   "posted_at": "2026-11-11T14:43:48+00:00"
+  },
+  {
+   "title": "[Case] CORSAIR 3200D RS ARGB Mid-Tower PC Case – Smoke | 3x RS120 ARGB PWM Fans Included, GPU Anti-sag Stabilization Arm, ASUS BTF, MSI Project Zero, Gigabyte Project Stealth - $49.70",
+   "price_raw": "$49.70",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtk3wr/case_corsair_3200d_rs_argb_midtower_pc_case_smoke/",
+   "posted_at": "2026-11-11T15:07:26+00:00"
+  },
+  {
+   "title": "[SSD - M.2] Samsung Geek Squad REFURBISHED GOOD 990 PRO 1TB Internal SSD PCle Gen 4x4 NVMe - $139.99",
+   "price_raw": "$139.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtk3gd/ssd_m2_samsung_geek_squad_refurbished_good_990/",
+   "posted_at": "2026-11-11T15:06:58+00:00"
+  },
+  {
+   "title": "[AIO] Minorsonic CPU Cooler 360mm Aio, Liquid Cooler CPU Low-Noise AMD AM5/AM4, Refrigeracion Liquida Water Cooling Systems, Intel LGA 1851/1700 PC Water Cooler 3 x 120 mm PWM Fans Black - $37.03",
+   "price_raw": "$37.03",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtk071/aio_minorsonic_cpu_cooler_360mm_aio_liquid_cooler/",
+   "posted_at": "2026-11-11T15:03:16+00:00"
+  },
+  {
+   "title": "[PSU] ASRock PRO 850G Power Supply - 850W 80 Plus Gold Certified, ATX 3.1 & PCIe 5.1 Ready, Native 12V-2x6 Connector, 120mm Low-Noise Fan, 3-Year Warranty - $54.99",
+   "price_raw": "$54.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
+   "posted_at": "2026-11-11T15:01:24+00:00"
+  },
   {
    "title": "PC Portable Ninkear S14 R5 - 6600h, 512 Go, 16 Go, DDR5, Ips 2.2k",
    "price_raw": "313,61€",
@@ -370,7 +395,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOssEJtfdnzeVIChwFz%2FUFuqz6BHSOMgAmEGJmaPWT4FBviOlATqZdS07URCA4eDoTHyW3A%2FgLooWyGNSF8LCfII1eEYnHKMv4OPSbGoibK0sPB8HDYSoqV4ekSAzEGhHAMgyNDEZQvVZRt1gkWsilQJC6X29lYuLKV%2BWVI6fBbxdEw%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOstpl%2FZscptsBM76ypeQ%2BVAhrwSklAE4E3CeuxzDuLMXV9x8aQOsPV7hdy%2FH5m1Xufu5TDVRsvZhN44i1ffwZ50jDCwgHebC6m%2BPbtWfmDXeCgCb1OL7FmVVI16HSAz3%2BcBLlml8REAc%2BKptBfVRv8uxus4p5MOs2rw51J9bbIW59g%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
@@ -391,7 +416,7 @@
    "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
    "price_raw": "33.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n3gKugVRFbmqfO2LsFeybtx2d2yz7f7NfVnN9EexdlZI7kovRASU7ich6aPgQQNGOEYGrT4koqjuXgc4Wipq5l1xPXJhDOiIVmCs0dvq%2BYchUB6XjjccudaoF5Frj1NGNqRX6DO0Pyj2f8%2BkKNQgXEVgnFtH6no1vhrBwFPngbZHfhrhLXCjFliNSp7KIkNPN2rvIk1n54RnnquP%2Fui4Az0jvXqp%2FwJtEKYhF2ZGwbz1A56%2F0CNnr9oGo1GeauReVcg4Ba0%2BEfAI22%2FdoaEw4zwBEfuXcpyAzLXDkF6toJLA%3D%3D",
+   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n3gKugVRFbmqfO2LsFeybtx2d2yz7f7NfVnN9EexdlZI7kovRASU7ich6aPgQQNGOEYGrT4koqjuXgc4Wipq5l1xPXJhDOiIVmCs0dvq%2BYchUB6XjjccudaoF5Frj1NGNVP%2FmXBwTUlW0tjJc%2Bl3fmhHewxsSfBN7WzdJ%2FNdoj%2FL3nXEtQNAf55BgPc1OormY6PnMG2ppRZTCHDXU5OuVKzOkoqRW0SWP5QRf394M0P0c1skVUc99bOYFGpQDTBTXwFOY7ZQgQAL2TSrvVDdVYSKsGA2sjZAv%2FZf67kBxgvw%3D%3D",
    "posted_at": "2026-11-11T13:24:30+00:00"
   },
   {
@@ -426,7 +451,7 @@
    "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F2sxWp3jn7f4iyK5pG0%2Bfa3CX3wUYjXSUwQQeoYmyj745xlfIMlw6OsuMzvPPmQkTCAMN0Mhn3bQ8CWtbRznLQgbqilfkPwSIdFp%2BUc7m3MrCCyGc2lr4UpkkoTuk4aRtcmY8rQqTX5spoeXjlD3Irs",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F0uTS617NBEVBQLllFTy9H6lLHXFCAbAJd4VKB4oDcj%2Fc9hmx%2FIauiTTSKLGuKwGKIGwWrlRWQo4ayjZHX4OsVwjXWZd2GBLeDEDvBOgP0yCK3vpmzA90Zf0lyqetcPoSC1XUG2F3hurUWp2HfK3ejg",
    "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
@@ -463,13 +488,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xteul5/prebuilt_acer_nitro_60_gaming_desktop_intel/",
    "posted_at": "2026-11-11T10:56:07+00:00"
-  },
-  {
-   "title": "Antec A30 Ventirad CPU 80 mm 3 broches 12 V Socket 478 754939 940 462/A neuf ",
-   "price_raw": "21.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pwi0Kar7CTNd9KBB8cexhNTVgv7NjtChNdkDZea5K%2FGig6AH6ZTl9Bhr%2F1OkW2dxpbANfP%2F7FQWBJd6sEhqctMy8l7Su7NY5K9pnli2Dg9%2FajV8IyEC9koKS50iW9DWV0jNL98l6CZ%2FXDZnOeLhLPi4",
-   "posted_at": "2026-11-11T11:05:54+00:00"
   },
   {
    "title": "Carte graphique GeForce NVIDIA GTX 280",
@@ -563,6 +581,13 @@
    "posted_at": "2026-11-11T03:56:07+00:00"
   },
   {
+   "title": "Carte Graphique AMD Radeon HD 6350 512Mo Pegatron HP 635194-001 HDMI DVI PCIe",
+   "price_raw": "10.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800325893985?_skw=carte+graphique&hash=itemba5723ff61:g:CZEAAeSwrFJqUqKQ",
+   "posted_at": "2026-07-11T20:08:37+00:00"
+  },
+  {
    "title": "4GB - DDR4 - SODIMM 4GB 1Rx8 - PC4-2133P SK HYNIX",
    "price_raw": "11.87 EUR",
    "source": "ebay",
@@ -638,52 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecrans-pc-gaming-238-aoc-24g50f-fhd-ips-180hz-05-ms-hdr-compatible-g-sync-3450799",
    "posted_at": "2026-11-10T22:26:05+00:00"
-  },
-  {
-   "title": "Ecran PC 34\" Philips Evnia 34M2C3591L - Incurvé, 34 Pouce 180Hz Fast VA Dalle, 1ms GtG, HDR10, FreeSync Premium",
-   "price_raw": "229€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/philips-evnia-gaming-moniteur-incurve-34-pouce-180hz-fast-va-dalle-1ms-gtg-hdr10-freesync-premium-3440x1440-hdmi-2x-20-dp-1x-14-3451596",
-   "posted_at": "2026-11-10T22:10:46+00:00"
-  },
-  {
-   "title": "[Desk Pads] - BOGO - ($62 - $31 = $31) CODE: OZBFCM [ONEofZERO]",
-   "price_raw": "$62",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xszuaw/desk_pads_bogo_62_31_31_code_ozbfcm_oneofzero/",
-   "posted_at": "2026-11-10T21:51:44+00:00"
-  },
-  {
-   "title": "[Laptop] ASUS Zenbook A14, Snapdragon X2 Elite 18 Core, 16GB RAM, 512GB SSD, 14\" 2K OLED - $674.99 OPEN BOX YMMV",
-   "price_raw": "$674.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xszsrh/laptop_asus_zenbook_a14_snapdragon_x2_elite_18/",
-   "posted_at": "2026-11-10T21:50:00+00:00"
-  },
-  {
-   "title": "Noctua NH-U12P Ventirad CPU 120 mm NF-P12 1300 RPM LGA775 AM2 AM2+",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840005193330?_skw=ventirad&hash=itemc394360e72:g:1pAAAeSwtcpqyayZ",
-   "posted_at": "2026-10-10T03:16:28+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Acer Nitro V 16 AI - WQXGA IPS 180Hz, AMD Ryzen AI 9 365, Nvidia RTX 5070, 32Go RAM, 1To SSD, Copilot+ PC, Windows 11",
-   "price_raw": "1 849€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acer-nitro-v-16-ai-wqxga-ips-180hzamd-ryzen-ai-9-365-nvidia-rtx-5070-32gb-ram-1tb-ssd-copilot-pc-windows-11-3451559",
-   "posted_at": "2026-11-10T21:32:23+00:00"
-  },
-  {
-   "title": "PC Portable 14\" HP 14-hz0037nfx - Snapdragon X 8, Go de RAM DDR5, SSD de 512 Go, Windows 11, Azerty",
-   "price_raw": "499,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-hp-14-hz0037nfx-14-snapdragon-x-8-go-ram-ddr5-ssd-512-go-a-499eur99-3451513",
-   "posted_at": "2026-11-10T20:21:22+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1740,
+  "listings_seen": 1748,
   "models_with_reference": 38
  }
 }
