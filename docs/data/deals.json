@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T06:08:00Z",
+ "generated_at": "2026-11-11T06:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-11T06:08:00.681397+00:00"
+   "last_ok": "2026-11-11T06:38:00.665841+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T06:08:00.681397+00:00"
+   "last_ok": "2026-11-11T06:38:00.665841+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-11T06:08:00.681397+00:00"
+   "items": 380,
+   "last_ok": "2026-11-11T06:38:00.665841+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-11T06:08:00.681397+00:00"
+   "items": 8,
+   "last_ok": "2026-11-11T06:38:00.665841+00:00"
   }
  },
  "watchlist": [
@@ -58,6 +58,23 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
    "model": "SSD:NVMe-2To",
    "category": "SSD",
@@ -88,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9i9qFHwT1P93ka2tto3H%2BzojN0P4rq6QwDiT6owlujj6Yr52HHtU9RvHxhKXy1Ld2fBAadNGKrSVV%2FnKoXirXjoix2GD2waglqcXWKs63z1iprpR9FCBrPKe0pxMTW4RlVAFSHetig0xmC9k5sqSV0cDc9deumgQSt21gywTLpKw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8lPut0GpbpBuRBRB4FpV64967nmzymtpyD7i3rs3RSMD02bPsF2vsMWX5WaXc1m%2BkzDyo3%2Bhb58nboXdP7oF%2F0ddTUGumE1hk6gwaFcJah4tO%2FhDUZHOVHRCIQAO0Zta%2Bp%2F8EH3HJ62SszHqLW38ECM1GtbOVESCzy8bITjfCi3g%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -292,7 +309,7 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYiD1KGIhqpd9ZdCWmPaUM6Si2VaUd2%2BSlXsxi0GCT8a%2F%2BLuTzQvBrrTt3pxJGVrRIVtNFer1PbFYZR0tsKmWHtex0IPRBKYOLtSbComkrQMHx810R6dTw%2B2tsqyo2Llr3xiqwK3OpjhR%2FqYHIX9GIM",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbR%2BX6EuI9rYg%2B0qvBildR5sHya1gWqhqv2mUPWIZdsLlfMhg5iq13TfVr6xbpCcxk2WfsYwqzamd9pltGqg7DaRbw2JLO4nDgdA1jKK1DVnZxmWu6WQVL1KVJwsFwLz9xGCe4MCMWWOKhbfGaZVJcA",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
@@ -361,7 +378,7 @@
    "posted_at": "2026-07-30T13:15:48+00:00"
   },
   {
-   "title": "PC Portable 18\" ASUS TUF A18 - 2,5k 240Hz, RTX 5070 8 Go, Ryzen 7 260, 32 Go DDR5, 1 To SSD",
+   "title": "PC Portable 18\" Asus TUF A18 - Ryzen 7 260, RTX 5070 8 Go 5600Mhz, RAM 32 Go DDR5, SSD 1 To, 2,5k 240Hz, AZERTY, Windows 11",
    "price_raw": "1 759€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-18-asus-tuf-a18-25k-240hz-rtx-5070-8-go-ryzen-7-260-32-go-ddr5-1-to-ssd-3451714",
@@ -466,13 +483,6 @@
    "posted_at": "2026-11-10T21:32:23+00:00"
   },
   {
-   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
-   "price_raw": "24.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366799440102?_skw=ddr4&hash=item5566f348e6:g:3-QAAeSw2dRq8zXL",
-   "posted_at": "2026-11-10T15:18:50+00:00"
-  },
-  {
    "title": "Dynatron B13 – Ventirad CPU actif 2U – Intel LGA3647 Square ILM",
    "price_raw": "59.99 EUR",
    "source": "ebay",
@@ -492,6 +502,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-lexip-90x40cm-warner-game-of-thrones-edition-lannister-rouge-flexible-3451511",
    "posted_at": "2026-11-10T20:16:52+00:00"
+  },
+  {
+   "title": "#1 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307276373658?_skw=ddr4&hash=item478b195e9a:g:5pQAAeSw1hlq75bl",
+   "posted_at": "2026-11-10T20:15:59+00:00"
   },
   {
    "title": "Carte mere JINGSHA X99M-H mATX avec 16 Go ram 2133",
@@ -541,13 +558,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/940081502002?_skw=carte+graphique&hash=itemdae1395732:g:RZsAAeSw5Ntq82K1",
    "posted_at": "2026-11-10T18:12:05+00:00"
-  },
-  {
-   "title": "RAM kingston 8 GB GO RAM DDR4 1Rx8 PC4-2666v  SO-DIMM",
-   "price_raw": "23.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366799434613?_skw=ddr4&hash=item5566f33375:g:CksAAeSw8D1quN84",
-   "posted_at": "2026-11-10T15:15:45+00:00"
   },
   {
    "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
@@ -646,10 +656,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-xiaomi-pad-7-8256go-112-32k-144hz-snapdragon-7-gen-3-8850mah-wi-fi-18235eur-via-paypal-3451099",
    "posted_at": "2026-11-10T13:32:00+00:00"
+  },
+  {
+   "title": "Mini PC CHUWI Ubox - Ryzen 5 6600H, 16 Go LPDDR5, SSD 512 Go, Radeon 660M, Wi-Fi 6, BT 5.2, Windows 11 Pro (209.57€ via Paypal)",
+   "price_raw": "229,57€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-ubox-ryzen-5-6600h-16-go-lpddr5-ssd-512-go-radeon-660m-wi-fi-6-bt-52-windows-11-pro-20957eur-via-paypal-3451092",
+   "posted_at": "2026-11-10T13:29:16+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1709,
+  "listings_seen": 1708,
   "models_with_reference": 36
  }
 }
