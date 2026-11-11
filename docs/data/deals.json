@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T08:38:00Z",
+ "generated_at": "2026-11-11T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-11T08:38:00.676623+00:00"
+   "last_ok": "2026-11-11T09:08:00.621906+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T08:38:00.676623+00:00"
+   "last_ok": "2026-11-11T09:08:00.621906+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 370,
-   "last_ok": "2026-11-11T08:38:00.676623+00:00"
+   "items": 365,
+   "last_ok": "2026-11-11T09:08:00.621906+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 75,
-   "last_ok": "2026-11-11T08:38:00.676623+00:00"
+   "items": 3,
+   "last_ok": "2026-11-11T09:08:00.621906+00:00"
   }
  },
  "watchlist": [
@@ -65,14 +65,31 @@
    "price_eur": 79.3,
    "shipping_eur": null,
    "effective_eur": 79.3,
-   "median_eur": 147.9,
-   "discount_pct": 46.4,
+   "median_eur": 148.94,
+   "discount_pct": 46.8,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-b850m-wifi-itx-am5-ddr5-pcie-50-2x-m2-wi-fi-6-25gbe-3449732",
    "posted_at": "2026-11-09T10:01:59+00:00"
+  },
+  {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
   },
   {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
@@ -88,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B91FeRk4t5b82XYuaVO70C9PNDhRjicHEHBwk3jzPafJhJmwJIdWVATB%2Fa3PEWCNGFM9rQhTEw1JYHxumXtamOaFoVfaxwM5z7splvTt4B%2Bh72S3nXPJTx56eDEuVFR9irsQdJtIjO9dpPaOUJYz5q48Omv2TMizh%2F7N7rqHcksEQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FmNGKscNiG8ZexnRkuPogj7A1ZpDxek7uRMXdBOrIeTIct4J2vhv2vx9gFArWIKffG2RU35GUkZ3K4xHQAObIB38k2DhILLMSlo97%2BiyqNxeicVqHI6e2F%2F%2BBkgtGeFkyURQyEkpvDgWLCx4I8hrP8WNzpC2j1inqI2WrFS7e02A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -150,8 +167,8 @@
    "price_eur": 109.24,
    "shipping_eur": null,
    "effective_eur": 109.24,
-   "median_eur": 147.9,
-   "discount_pct": 26.1,
+   "median_eur": 148.94,
+   "discount_pct": 26.7,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -211,23 +228,6 @@
    "posted_at": "2026-11-09T13:55:06+00:00"
   },
   {
-   "title": "SSD Intel 660p 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 45.32,
-   "shipping_eur": 0.0,
-   "effective_eur": 45.32,
-   "median_eur": 53.89,
-   "discount_pct": 15.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127962020?_skw=ssd&hash=itemc8439f23a4:g:KUAAAeSwOIxq8cuL",
-   "posted_at": "2026-11-09T13:36:10+00:00"
-  },
-  {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -258,11 +258,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaZnmfSPqWoWc47XyKBIL1VNlrS9mqnzcuicP8FtdBdVou9bj0ZGriKHjSFbUH14o5PgIrz6fwcYP3caAES6AMrB%2BEzlI68eELrDGNvjIXx9vc0Yl6g47HtRI5z9o%2B51fmSnpBaa40DgzjXFMYznnql",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbIkSEt%2BAAmizarEmin9zOB4kSQ83NOvJXTk9Va5q5hHPpkyWYniDnIO4vH0SI%2B%2FJULFLnvWL14mKfv5TdmZzZhKDg9daTKTB6JGy5Y1k5TYI6E0QMjFCp013Bs4Umk2rI70%2F2f9Ryk6DUSz8nQItoY",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Ninkear s14 r5 6600h 512go 16 go ddr5 ips 2.2k",
+   "price_raw": "280,61€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ninkear-s14-r5-6600h-512go-16-go-ddr5-ips-22k-3451945",
+   "posted_at": "2026-11-11T08:52:22+00:00"
+  },
+  {
+   "title": "[Adhérents] 10% de réduction immédiate sur une sélection de tablettes Android",
+   "price_raw": "Adhérents :",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/adherents-10-de-reduction-immediate-sur-une-selection-de-tablettes-android-3451321",
+   "posted_at": "2026-11-11T09:00:01+00:00"
+  },
+  {
+   "title": "Imprimante jet d'encre EPSON EcoTank ET-2926 + 4 bouteilles d'encre Série 104 (20€ d'ODR)",
+   "price_raw": "158,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-jet-dencre-epson-ecotank-et-2926-4-bouteilles-dencre-serie-104-20eur-dodr-3451950",
+   "posted_at": "2026-11-11T08:56:02+00:00"
+  },
   {
    "title": "ram DDR4 ECC Kingston /  DELL 32GB 2Rx4 PC4-2400T-RB2-11  testées",
    "price_raw": "79.74 EUR",
@@ -276,13 +297,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/900082195837?_skw=ddr4&hash=itemd191145d7d:g:NTYAAeSwvIxq9CQ3",
    "posted_at": "2026-11-11T08:16:58+00:00"
-  },
-  {
-   "title": "Tour midi BeQuiet Pure Base 600 Boîtier PC noir isolé, fenêtre latérale, 2",
-   "price_raw": "121.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237176632854?_skw=boitier+pc&hash=item3738d43616:g:-sMAAeSwR~9q9CNh",
-   "posted_at": "2026-11-11T08:11:58+00:00"
   },
   {
    "title": "[Possesseurs de Kindle] 20% de remise sur les Kindle. Ex. : Kindle 16Go avec pubs à 124,99€ au lieu de 154,99€",
@@ -488,6 +502,13 @@
    "posted_at": "2026-11-10T20:12:20+00:00"
   },
   {
+   "title": "BE QUIET! Light Base 500 – Boîtier PC GAMING ATX + 4 ventilateurs inclus",
+   "price_raw": "125.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168828425069?_skw=boitier+pc&hash=item274ef5536d:g:W3QAAeSwI5Fq5bao",
+   "posted_at": "2026-10-31T09:37:42+00:00"
+  },
+  {
    "title": "PC Portable 16\" Gaming Acer Predator Helios Neo 16S AI, OLED 165Hz - Ultra 7 356H,, 32 Go RAM, 1 To SSD, Rtx 5070 - Win11",
    "price_raw": "1 869€",
    "source": "dealabs",
@@ -591,31 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-souris-gaming-sans-fil-ultra-legere-tmice-g13-54-g-capteur-optique-paw3395-26-000-dpi-8k-hz-bluetooth-3451248",
    "posted_at": "2026-11-10T15:15:04+00:00"
-  },
-  {
-   "title": "[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)",
-   "price_raw": "$379.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
-   "posted_at": "2026-11-10T15:01:12+00:00"
-  },
-  {
-   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go RAM, 128 Go SSD, Wifi 5, BT 4.2, Windows 11 Pro",
-   "price_raw": "85,04€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ram-128-go-ssd-wifi-5-bt-42-windows-11-pro-3451172",
-   "posted_at": "2026-11-10T14:17:52+00:00"
-  },
-  {
-   "title": "Imprimante 3D Bambulab P2S combo + 4 kg de filaments (4x1kg)",
-   "price_raw": "644,37€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/bambulab-ps2-combo-4-bobinne-de-filaments-4x1kg-3434964",
-   "posted_at": "2026-11-10T13:43:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1716,
+  "listings_seen": 1720,
   "models_with_reference": 36
  }
 }
