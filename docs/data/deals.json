@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T13:08:00Z",
+ "generated_at": "2026-11-11T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 334,
-   "last_ok": "2026-11-11T13:08:00.625486+00:00"
+   "last_ok": "2026-11-11T13:38:00.623097+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T13:08:00.625486+00:00"
+   "last_ok": "2026-11-11T13:38:00.623097+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 367,
-   "last_ok": "2026-11-11T13:08:00.625486+00:00"
+   "items": 368,
+   "last_ok": "2026-11-11T13:38:00.623097+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 4,
-   "last_ok": "2026-11-11T13:08:00.625486+00:00"
+   "items": 11,
+   "last_ok": "2026-11-11T13:38:00.623097+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
    "posted_at": "2026-10-12T17:30:00+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 289.99,
+   "discount_pct": 65.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Ecran Pc 27\" HKC G27H4D - QHD, Fast IPS 240Hz (oc 275hz), HDMI 2.0, DP 1.4 (Vendeur tiers)",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bi1zfHPwgZqGrSzQH8yFlfESMBVQtGEbxuDTdFh6YpKrmpxuc9yGyFS2D%2BqhostvQ1%2FkZjXcGQFdxXXIFPL%2FpMMrYSSIwjYpxXG6NucDr5boAEKTsHPCw%2BkbBtAf1XVq4zXxeFHnThTgpEU16bFREfwATXFHRFR0zEjEUZn0dwEg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BlC02Qt89iptS%2F54%2FLhgGd0m4NE%2FR2nClxD0eV85YLnM1FXEc5FGo5qcSGILeWJ343Vkc%2F6TPBxbmMHf219hSPSy5AT4b9UfbEADa36sJjF4it36J9DRDReM%2F3Lb%2F0fT4T5g0onlEwb7vmNqQrkYZLQ0lj1iO7qBMze4MOP9T2HQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -326,11 +343,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbsxmEvVzGg4rKN5onosK%2F0erMdtmzNRcCYzm9WTr0lgH6AxSeoNYX0OchRR%2BE5bg3MV4LszsIT8Rbq9c9rUakrFcXF%2Fxiha8Nc6arQCgsF%2BaXO%2BrwvqZt4rdidY8AlcI2UhCnCFOmvsT0zz%2F7fGGa9",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIae1vnqekXRpDy4ivrI13cLJFa5icW1QZqLoM1p41iZYSd6IlafcolIvrWLFrDIfq5QIlmRTydy3ZxQ8K2i1sSp%2Fu3vo7f5naZC3xeivaiP4ujI9Nqm50TfrU0tkvntm4bb59c5TJyB%2Fe46i2k5AhFn",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 16\" Gigabyte A16 Pro - Intel Core 7 240H, RTX 5070 Ti 12 Go, RAM 32 Go 5600MHz, SSD 1 To, QWERTY, Windows 11",
+   "price_raw": "1 728,15€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-gigabyte-gaming-a16-pro-16-intel-core-7-240h-32gb-1tb-ssd-rtx-5070-ti-windows-11-3452232",
+   "posted_at": "2026-11-11T13:27:40+00:00"
+  },
+  {
+   "title": "[CPU] Microcenter in Store Only | AMD Ryzen 7 9850X3D- $399.99",
+   "price_raw": "$399.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xthmp1/cpu_microcenter_in_store_only_amd_ryzen_7_9850x3d/",
+   "posted_at": "2026-11-11T13:23:12+00:00"
+  },
+  {
+   "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
+   "price_raw": "33.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC",
+   "posted_at": "2026-11-11T13:24:30+00:00"
+  },
   {
    "title": "Mini PC ACEMAGIC (i7-14650HX, 32 Go RAM, 1 To SSD NVMe, Wi-Fi 6E, Windows 11 Pro)",
    "price_raw": "534,64€",
@@ -363,15 +401,8 @@
    "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F13iwbLsCbUGR5IvDq7g9%2Fs%2BZ1wt9BO9PzpC%2BkdxrtWhEGnaKuTZfq%2Bf9IIwrOW%2BRb%2FvXb4cx04tbEFYm8nqWg5Fh4bARHnDaqYVWKJaFoctlvPwtMaK1wkSP%2Fdae89WH4hKTWVz0FxL513vNof1MR9",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F1ZjFeL%2FOUYVzyJCQjADoW1FESSPaRJDIFRPIs5fceVcsF5wgQNERB0CfzXg%2BcsdFy6%2FhwnDI0RH195rofb5cb2WBFJDxmcRnbLpoVKWw%2BNw9hnNWg0GTIBx31JUM9dUPs4V3Rp1mEMIX07woqnqRIc",
    "posted_at": "2026-11-04T11:40:27+00:00"
-  },
-  {
-   "title": "OMOTON Clavier sans Fil Bluetooth 2.4G AZERTY Silencieux Noir",
-   "price_raw": "63.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287721301135?_skw=clavier&hash=item42fd86a48f:g:HEIAAeSwOexq9Fdu",
-   "posted_at": "2026-11-11T11:54:32+00:00"
   },
   {
    "title": "PC de Bureau Apple Mac Studio 2026 - Puce M5 Max, CPU 18 cœurs, GPU 32 cœurs, 36 Go de RAM, 512 Go de SSD",
@@ -412,7 +443,7 @@
    "title": "Antec A30 Ventirad CPU 80 mm 3 broches 12 V Socket 478 754939 940 462/A neuf ",
    "price_raw": "21.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pwF6VI4F5w4cxh%2BwZRcJBqW8xrK0tWaC58ewhEuNZe31dOM83h4uEmNPg%2BylHnA4lowF553Er64QPoxytXAdJvh1gTXeGRBBLaD25jJxPiAUxRQkgqQUv5PB5i%2Bb6teWKnZFyA%2BVpwYHDPldjuLq%2FSJ",
+   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pxWDdLZcdsnxY2BF%2FQVIrlCO6Hs27%2Ba8ywxz9ANvhfhb2vWfcGmp%2BWky9JU4J%2Ft9K6i348B95AYWrOi%2BRuXcMv2XJSUQRKyq4EMm%2F8hRdmt1AJwx6X6HLbTr%2BthEnFCUtFH7EFm1viDu6YLjJykvBsM",
    "posted_at": "2026-11-11T11:05:54+00:00"
   },
   {
@@ -456,13 +487,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-jet-dencre-epson-ecotank-et-2926-4-bouteilles-dencre-serie-104-20eur-dodr-3451950",
    "posted_at": "2026-11-11T08:56:02+00:00"
-  },
-  {
-   "title": "ram DDR4 ECC Kingston /  DELL 32GB 2Rx4 PC4-2400T-RB2-11  testées",
-   "price_raw": "79.74 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840569163?_skw=ddr4&hash=item3e5c8abf4b:g:pkQAAeSwYsZq4PmF",
-   "posted_at": "2026-11-11T08:32:44+00:00"
   },
   {
    "title": "Ballistix Sport 16 Go (2x8 Go) DDR4 PC4-21300 DIMM 288p XMP BLS8G4D26BFSC",
@@ -519,13 +543,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xt7t5a/keyboard_hall_effect_glorious_gmmk_3_65/",
    "posted_at": "2026-11-11T03:56:07+00:00"
-  },
-  {
-   "title": "Carte Graphique AMD Radeon HD 6350 512Mo Pegatron HP 635194-001 HDMI DVI PCIe",
-   "price_raw": "10.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800325893985?_skw=carte+graphique&hash=itemba5723ff61:g:CZEAAeSwrFJqUqKQ",
-   "posted_at": "2026-07-11T20:08:37+00:00"
   },
   {
    "title": "4GB - DDR4 - SODIMM 4GB 1Rx8 - PC4-2133P SK HYNIX",
