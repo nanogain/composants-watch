@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T04:08:00Z",
+ "generated_at": "2026-11-11T04:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 334,
-   "last_ok": "2026-11-11T04:08:00.691843+00:00"
+   "items": 335,
+   "last_ok": "2026-11-11T04:38:00.678661+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T04:08:00.691843+00:00"
+   "last_ok": "2026-11-11T04:38:00.678661+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-11T04:08:00.691843+00:00"
+   "items": 391,
+   "last_ok": "2026-11-11T04:38:00.678661+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 33,
-   "last_ok": "2026-11-11T04:08:00.691843+00:00"
+   "items": 68,
+   "last_ok": "2026-11-11T04:38:00.678661+00:00"
   }
  },
  "watchlist": [
@@ -58,23 +58,6 @@
    "posted_at": "2026-11-06T12:29:59+00:00"
   },
   {
-   "title": "Bloc Alimentation PC Lenovo Delta DPS-280FB G FRU 41A9684 280W",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 3.99,
-   "effective_eur": 14.79,
-   "median_eur": 26.89,
-   "discount_pct": 45.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · scred69 (99,5 %, 1 848 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168705493019?_skw=alimentation+pc&hash=item2747a1881b:g:2MoAAeSw-TFqsYes",
-   "posted_at": "2026-09-21T19:39:03+00:00"
-  },
-  {
    "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
    "model": "SSD:NVMe-2To",
    "category": "SSD",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9M5APO1XIyLogTgdUIeBNFXk9dBexB%2FtrZRkOhKdHjIfw%2B1QpCqHln%2FMJRaeveaUJcfuNUKvRaoLCCi3B99jvfkI%2BgG%2Frqac3wTXtPOPBZ0zhNnjzemYYq8Yosii3UXbU0zyY6T84oj3ccJardBwrzpOhtaFAjvNq30aVShJs4Bg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8IB5V952aXWCRy95GBihp%2FsLb%2FU50TCMVxLevw3zgzBQxDoK0Dj0G4i3z%2FTZAwpW3jfOKeGzqAV6sLjbYpfS5vu5RgGdDLhZyfBUXVfkZykUG5Kp7quj2LkE24xo00GBFx4uAT2xjvvHlXg%2FzNLsBN2wMSxFxX7BCOr10X5h28Mw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -177,6 +160,23 @@
    "posted_at": "2026-11-09T16:23:45+00:00"
   },
   {
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 69.99,
+   "discount_pct": 28.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fik-8981 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
+  },
+  {
    "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
    "model": "MB:B850",
    "category": "MB",
@@ -194,21 +194,21 @@
    "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
-   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
-   "model": "SSD:NVMe-256Go",
+   "title": "SSD interne M.2 2280 SATA III 512 Go MICRON en très bon état.",
+   "model": "SSD:SATA-512Go",
    "category": "SSD",
    "condition": "used",
-   "price_eur": 22.44,
-   "shipping_eur": 0.0,
-   "effective_eur": 22.44,
-   "median_eur": 27.59,
-   "discount_pct": 18.7,
+   "price_eur": 47.5,
+   "shipping_eur": 2.99,
+   "effective_eur": 50.49,
+   "median_eur": 62.39,
+   "discount_pct": 19.1,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
+   "merchant": "eBay · ventesint2024 (100,0 %, 531 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
-   "posted_at": "2026-11-09T11:03:45+00:00"
+   "url": "https://www.ebay.fr/itm/920120896508?_skw=ssd&hash=itemd63b7aabfc:g:dVoAAeSwlWNq8ZXs",
+   "posted_at": "2026-11-09T09:44:35+00:00"
   },
   {
    "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
@@ -228,21 +228,55 @@
    "posted_at": "2026-11-09T14:16:05+00:00"
   },
   {
-   "title": "SSD de marque SANDISK de capacité 256Go modèle X600 M.2 format 2280",
+   "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.32,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.32,
+   "median_eur": 53.89,
+   "discount_pct": 15.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860128000912?_skw=ssd&hash=itemc8439fbb90:g:JKMAAeSw62Jq8dBb",
+   "posted_at": "2026-11-09T13:55:06+00:00"
+  },
+  {
+   "title": "SSD Intel 660p 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.32,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.32,
+   "median_eur": 53.89,
+   "discount_pct": 15.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860127962020?_skw=ssd&hash=itemc8439f23a4:g:KUAAAeSwOIxq8cuL",
+   "posted_at": "2026-11-09T13:36:10+00:00"
+  },
+  {
+   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
    "condition": "used",
-   "price_eur": 18.29,
-   "shipping_eur": 5.0,
-   "effective_eur": 23.29,
-   "median_eur": 27.59,
+   "price_eur": 22.44,
+   "shipping_eur": 0.0,
+   "effective_eur": 22.44,
+   "median_eur": 26.6,
    "discount_pct": 15.6,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · luc_nguyen69 (100,0 %, 1 750 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 382 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/278055441116?_skw=ssd&hash=item40bd6552dc:g:l-IAAeSwBY1qIeuh",
-   "posted_at": "2026-06-04T21:23:16+00:00"
+   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
+   "posted_at": "2026-11-09T11:03:45+00:00"
   },
   {
    "title": " Netac 8go ddr4 3200 8go C22",
@@ -258,24 +292,31 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaT7wli6EbvSdExp0uQhA7XFzZp%2FrbCs2zCCUHhQ5%2BVT5%2BClXZgvUOosueNavu3qoqDPWwVep71mvk9FU9Vzkd4Q27TLNaNrvyprd1q0I5EtWcuI%2BCKlIoklWq7TY5bIzxmNlr3b9QPLhFY%2FmLMDAzt",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYAAp9AbkWPl6Xt7oiwnjzcBB7%2BkFcDaklR2R1KRTtRYPZRuCTbv2Oqp6PhEdxkGpn40FtEYVo01Hg%2BvSE%2FoV0PH0Pa5rWgAnCCgHj5MeNP7vDVmB%2BP4McEEgOabxWJirydaqBlnTLYJDBvYl1yrhH%2F",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Processeurs Intel Core i3 i5 i7 Xeon E5 – LGA 1150 1151 1155 – Plusieurs modèles",
+   "price_raw": "14.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377488237358?_skw=processeur&hash=item57e40d632e:g:cC4AAeSwf8pqo87r",
+   "posted_at": "2026-09-12T22:00:43+00:00"
+  },
+  {
+   "title": "Alimentation ordinateur Fixe 420W- occasion",
+   "price_raw": "10.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840058391896?_skw=alimentation+pc&hash=itemc39761cd58:g:~Q0AAeSwhRJq3f8N",
+   "posted_at": "2026-10-25T13:08:55+00:00"
+  },
   {
    "title": "[Keyboard] Hall Effect - Glorious GMMK 3 - 65% - Hotswappable - $71.24",
    "price_raw": "$71.24",
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xt7t5a/keyboard_hall_effect_glorious_gmmk_3_65/",
    "posted_at": "2026-11-11T03:56:07+00:00"
-  },
-  {
-   "title": "Carte Graphique AMD Radeon HD 6350 512Mo Pegatron HP 635194-001 HDMI DVI PCIe",
-   "price_raw": "10.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800325893985?_skw=carte+graphique&hash=itemba5723ff61:g:CZEAAeSwrFJqUqKQ",
-   "posted_at": "2026-07-11T20:08:37+00:00"
   },
   {
    "title": "4GB - DDR4 - SODIMM 4GB 1Rx8 - PC4-2133P SK HYNIX",
@@ -404,6 +445,13 @@
    "posted_at": "2026-11-10T21:32:23+00:00"
   },
   {
+   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366799440102?_skw=ddr4&hash=item5566f348e6:g:3-QAAeSw2dRq8zXL",
+   "posted_at": "2026-11-10T15:18:50+00:00"
+  },
+  {
    "title": "Dynatron B13 – Ventirad CPU actif 2U – Intel LGA3647 Square ILM",
    "price_raw": "59.99 EUR",
    "source": "ebay",
@@ -488,13 +536,6 @@
    "posted_at": "2026-11-10T15:15:45+00:00"
   },
   {
-   "title": "RAM Samsung  8 GB GO RAM DDR4 1Rx8 PC4-2666v  SO-DIMM",
-   "price_raw": "24.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366799437310?_skw=ddr4&hash=item5566f33dfe:g:OjQAAeSwGB1quN-Q",
-   "posted_at": "2026-11-10T15:17:00+00:00"
-  },
-  {
    "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
    "price_raw": "6,99€",
    "source": "dealabs",
@@ -544,13 +585,6 @@
    "posted_at": "2026-11-10T16:17:26+00:00"
   },
   {
-   "title": "Mémoire 4Go RAM DDR4 Kingston",
-   "price_raw": "26.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327449735945?_skw=ddr4&hash=item4c3d867309:g:oJEAAeSw4UFq80Nl",
-   "posted_at": "2026-11-10T16:17:56+00:00"
-  },
-  {
    "title": "Asus ROG AZOTH Extreme Clavier gaming sans fil (USB/Bluetooth/RF 2,4 GHz)",
    "price_raw": "389.00 EUR",
    "source": "ebay",
@@ -579,6 +613,13 @@
    "posted_at": "2026-11-10T14:17:52+00:00"
   },
   {
+   "title": "Noctua NH-D14 Ventirad CPU Double Tour 6 Caloducs 2 Ventilateurs · Expédié d'UE",
+   "price_raw": "35.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/158260149875?_skw=ventirad&hash=item24d90a3e73:g:k8QAAeSw2HNqms7z",
+   "posted_at": "2026-09-05T09:51:54+00:00"
+  },
+  {
    "title": "Imprimante 3D Bambulab P2S combo + 4 kg de filaments (4x1kg)",
    "price_raw": "644,37€",
    "source": "dealabs",
@@ -605,17 +646,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-ubox-ryzen-5-6600h-16-go-lpddr5-ssd-512-go-radeon-660m-wi-fi-6-bt-52-windows-11-pro-20957eur-via-paypal-3451092",
    "posted_at": "2026-11-10T13:29:16+00:00"
-  },
-  {
-   "title": "Switch Ethernet TP-Link LS1005G - 5 ports RJ45 Gigabit, sans ventilateur",
-   "price_raw": "9,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/switch-ethernet-tp-link-ls1005g-5-ports-rj45-gigabit-sans-ventilateur-3451083",
-   "posted_at": "2026-11-10T13:22:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1699,
-  "models_with_reference": 36
+  "listings_seen": 1704,
+  "models_with_reference": 37
  }
 }
