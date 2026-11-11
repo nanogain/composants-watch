@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T16:08:00Z",
+ "generated_at": "2026-11-11T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-11T16:08:00.627050+00:00"
+   "items": 336,
+   "last_ok": "2026-11-11T16:38:00.679924+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T16:08:00.627050+00:00"
+   "last_ok": "2026-11-11T16:38:00.679924+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 362,
-   "last_ok": "2026-11-11T16:08:00.627050+00:00"
+   "items": 370,
+   "last_ok": "2026-11-11T16:38:00.679924+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-11T16:08:00.627050+00:00"
+   "items": 13,
+   "last_ok": "2026-11-11T16:38:00.679924+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9aWGChYfYrLX7Z%2B7Y4evRCD%2FpQLZu0q02O79VjctAothrg%2BcfH2Cq%2FBe7RGNPwozlAI%2BZIObZ82ymVQClICyJhgWtHL6uFJMYagVLbG%2F9rgGLGZqSAupjKhrneFJF1avfGzT3EFTcuQaVQh4IElZkvLBnJalV8IywrMgW5vpiqTw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B6IBn402sV2O4LXNvTIpimlKDn050toJNODkQy765LKl6L2v%2Bp2j37OkTy5I5NwAmNj8v48vO7X%2FFYiabyb%2BWOCy49CBYR0GDNNJa3cDZlh6MvzEUnbCalUEnfxBk0hB3qhTvTBNj7ddXznc3br68wCgMppDJOfmU2Z%2FzUCU3pXg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -296,6 +296,23 @@
    "posted_at": "2026-11-09T14:16:05+00:00"
   },
   {
+   "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.32,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.32,
+   "median_eur": 54.99,
+   "discount_pct": 17.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 383 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860128000912?_skw=ssd&hash=itemc8439fbb90:g:JKMAAeSw62Jq8dBb",
+   "posted_at": "2026-11-09T13:55:06+00:00"
+  },
+  {
    "title": " Netac 8go ddr4 3200 8go C22",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -309,38 +326,24 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIappBGW9LZdDsR0KQgt5G35EkR1Fg3t4CVot8hQsRWHOTpxKJ5TG4%2F6hfeC9u6OCvl5pK4wV6460GTUy05vreRsC87rNxIPRKWAgn8tlvlJB0sjueXDbHSjz5YkwOeWQ1MwGsjUWTNKrFTKhaA2Op3R",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZKUWh%2F3WfhDV36tm501CxP9QtHbVRzHv8tpBovRqjuEzh3CpKTboE21ctTnZBr3z5bGbk%2FHRXL3MqHRDpuEEVQ%2BvJspSYSo9omHH00YACT2LnYyoUg7NhX5PtwFCmhFtmxJ%2BjpuwVIEq94r9jzGxa4",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Samsung 860 EVO 250GB mSATA SSD Mini SATA III PC Laptop",
+   "price_raw": "29.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366749790578?_skw=ssd&hash=item5563fdb172:g:0kMAAeSwm6Fq2J8-",
+   "posted_at": "2026-10-21T11:19:47+00:00"
+  },
   {
    "title": "Kolink Unity Meshbay Performance Midi-Tower Boîtier, Boîtier gaming, Boîtier PC",
    "price_raw": "88.98 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267840821490?_skw=boitier+pc&hash=item3e5c8e98f2:g:mvgAAeSwWutq9I~A",
    "posted_at": "2026-11-11T15:54:36+00:00"
-  },
-  {
-   "title": "Tour midi Lian Li Vector V100 Boîtier PC, Boîtier, Boîtier gaming noir",
-   "price_raw": "111.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840821401?_skw=boitier+pc&hash=item3e5c8e9899:g:MvYAAeSw8z1q9I-3",
-   "posted_at": "2026-11-11T15:54:28+00:00"
-  },
-  {
-   "title": "Micro-tour Jonsbo D33 Wood Boîtier PC noir, bois",
-   "price_raw": "126.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840821311?_skw=boitier+pc&hash=item3e5c8e983f:g:lt8AAeSwGNBq9I-v",
-   "posted_at": "2026-11-11T15:54:20+00:00"
-  },
-  {
-   "title": "mini-tour Jonsbo C6 Handle Black Boîtier, Boîtier gaming, Boîtier PC noir",
-   "price_raw": "68.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840821444?_skw=boitier+pc&hash=item3e5c8e98c4:g:IyUAAeSwpCZq9I-6",
-   "posted_at": "2026-11-11T15:54:31+00:00"
   },
   {
    "title": "Apple MacBook Air 15\" - Puce M5 CPU 10 cœurs GPU 10 cœurs RAM 16 Go SSD 1 To Bleu ciel, AZERTY, Sans Chargeur",
@@ -458,15 +461,8 @@
    "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
    "price_raw": "33.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n3gKugVRFbmqfO2LsFeybtx2d2yz7f7NfVnN9EexdlZI7kovRASU7ich6aPgQQNGOEYGrT4koqjuXgc4Wipq5l1xPXJhDOiIVmCs0dvq%2BYchUB6XjjccudaoF5Frj1NGMLfPdrG2en%2BdpIXvISOB2L1WUNZusdyPpmyoU5Qgyf4sVgsZky7g%2B%2FE5rrKoan1Chknh%2FGk%2FWkdKr%2BGhmQMUD%2FkquRkdZapxrZ0XLBarqvMrN2%2BpripsJXD1qaBhO3jNXXkm5XercvLBhhRoAczcxdFVAH4qYV7VwFuikJdO4ZKA%3D%3D",
+   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC",
    "posted_at": "2026-11-11T13:24:30+00:00"
-  },
-  {
-   "title": "Mini PC ACEMAGIC (i7-14650HX, 32 Go RAM, 1 To SSD NVMe, Wi-Fi 6E, Windows 11 Pro)",
-   "price_raw": "534,64€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-acemagic-i7-14650hx-32-go-ram-1-to-ssd-nvme-wi-fi-6e-windows-11-pro-3452218",
-   "posted_at": "2026-11-11T13:07:36+00:00"
   },
   {
    "title": "ZYB Protection Clavier MacBook Air 13,6/15,3 et Pro 14/16 TPU AZERTY",
@@ -493,7 +489,7 @@
    "title": "SK hynix SC210 128Go 2,5\" SATA III HFS128G32MND-2200A Garantie : 2 ans",
    "price_raw": "29.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F1JHKsjSCdfKzNkekUUGxBsU7pzh3ZwXXrqZYMoZUcsjwAXvnbSoBxxQkonDtVRj1kBur601cSHgrEnbXmy7eKkxjJCJRUpdjSbn596QJXOalmqcOeiCynU4Mc7Uwf4KZwiG3qU%2FtETiXfYOGyDzYeA",
+   "url": "https://www.ebay.fr/itm/800875735904?_skw=ssd&hash=itemba77e9eb60:g:F0AAAeSw76dq6xmv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nAbEeqrYIP%2BI7jj2vgDs4HC4tk3hI2FPOmnCbyPLBxWNjIfl8PqWW%2Bwobc%2Ff8E9AumhZw5Mb6lGbRcj%2FAe%2BBfizZAS0xvfr4yhz74a8BZK8md%2FK%2BStWk4Yp5%2BBjzDED%2F2l34qb0HL7X0mkOHQXDCqpKKzdT4FqVg%2Fktbkvn6YLSijWCNoZlA6kiVuBMWft7eJY4XjMiukHc7tAG3zm460A0S%2FbWQIcDcA1ee9%2Bp9XkWVaoswRLC8Wu0%2BzVWJpU0ym1zteZS0bRpODAl%2BA50DVE",
    "posted_at": "2026-11-04T11:40:27+00:00"
   },
   {
@@ -537,6 +533,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/820341911441?_skw=carte+graphique&hash=itembf00302f91:g:AyYAAeSwF9Fq9Dmd",
    "posted_at": "2026-11-11T09:51:34+00:00"
+  },
+  {
+   "title": "Carte graphique Asus GeForce GTX 560 Ti",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820341881487?_skw=carte+graphique&hash=itembf002fba8f:g:mQsAAeSwU8pq9DeE",
+   "posted_at": "2026-11-11T09:43:41+00:00"
   },
   {
    "title": "SK hynix 8 Go (2x4 Go) DDR4 SO-DIMM 260 broches PC4-2400T HMA851S6AFR6N-UH",
@@ -663,10 +666,24 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xt39tz/gpu_asrock_challenger_radeon_rx_9070_16gb_gddr6/",
    "posted_at": "2026-11-11T00:18:02+00:00"
+  },
+  {
+   "title": "AMD Athlon 3000G Processeur AM4 3,5 GHz Radeon Vega 3 Reconditionné Testé",
+   "price_raw": "19.97 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940082136181?_skw=processeur&hash=itemdae1430475:g:7DUAAeSwDqJq868J",
+   "posted_at": "2026-11-11T00:00:03+00:00"
+  },
+  {
+   "title": "[Cooler] Noctua Processor Cooler 15 Cm, (Open Box) - $66.49",
+   "price_raw": "$66.49",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xt1q7l/cooler_noctua_processor_cooler_15_cm_open_box_6649/",
+   "posted_at": "2026-11-10T23:11:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1752,
+  "listings_seen": 1750,
   "models_with_reference": 38
  }
 }
