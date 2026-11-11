@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-11T11:08:00Z",
+ "generated_at": "2026-11-11T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 333,
-   "last_ok": "2026-11-11T11:08:00.669340+00:00"
+   "last_ok": "2026-11-11T11:38:00.619585+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-11T11:08:00.669340+00:00"
+   "last_ok": "2026-11-11T11:38:00.619585+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-11T11:08:00.669340+00:00"
+   "items": 366,
+   "last_ok": "2026-11-11T11:38:00.619585+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-11T11:08:00.669340+00:00"
+   "items": 36,
+   "last_ok": "2026-11-11T11:38:00.619585+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BQnr3bxswoosGir3rVQ8ssp3GzbzHXXEzP7656mp110HWttMWjGc7mGIfK9anKwiQQo0S9lgm86MnhE62VP8%2FKpfOaJ3VOZg9vzNC8qpd58GVx3zwrpgg4lYzwdGSGb%2FzkqGd2A7EyQgOPJo1o9sjyOvcfwyk8COZURgBp8f2VLQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8KuYVJ8lI6S4bdqz17MvV%2FXxOsBCQsMXoD72x%2B29sdNCq%2FZkyaePBnUZcVAoigtd8Nwmlium7AhpEHeagEqX88CqHtAIuF6kMLRm2PUShLVYN88PMgJv2TIptHI06NMEGbtdLWWO963Nu1CQ8kTguOxiSHXuTHnleBLTGjwjMa%2BA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -309,11 +326,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa34EISD4PwS6%2BsBuFLqiwxZ%2BOhpxK4dkv14g7Qz3E6jEOL2ss6yd3d3z7IULW%2FCszfWINjlIW7TLzZz0ZjDj5ZZUjjhJwuJBapbeaHKT%2FmUxgyY2qESRXrTn905B1SMw3Eo6jjcQ6A1pjHYl1aDjvp",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYqAzGbOzkrwFQjLNcILPGdkzoFTyYsAjlJ9qzip2qPS4oRdQIBD10oTnkqGTqeXk1JBqBYC3eMn4DvrT0rW7jAR9tuSERW071iqJzyjYNOcBUubZW8NiWItaSNa3kcXY2oMmBbANlxar7H086mUM%2Fq",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC de Bureau Apple Mac Studio 2026 - Puce M5 Max, CPU 18 cœurs, GPU 32 cœurs, 36 Go de RAM, 512 Go de SSD",
+   "price_raw": "2 654,75€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-apple-mac-studio-2026-puce-m5-max-cpu-18-coeurs-gpu-32-coeurs-36-go-de-ram-512-go-de-ssd-3452134",
+   "posted_at": "2026-11-11T11:26:39+00:00"
+  },
   {
    "title": "PC Portable 16\" CHUWI CoreBook Plus - Intel i5-12450H, 16 Go de RAM SO-DIMM DDR4 (jusqu'à 64 Go), SSD de 512 Go",
    "price_raw": "314,49€",
@@ -353,18 +377,11 @@
    "title": "Antec A30 Ventirad CPU 80 mm 3 broches 12 V Socket 478 754939 940 462/A neuf ",
    "price_raw": "21.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW",
+   "url": "https://www.ebay.fr/itm/267840650835?_skw=ventirad&hash=item3e5c8bfe53:g:2ywAAeSwsdVq9EtW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mIuh%2BgjhMLpXn94rDRnMXxv0SloKAmesZgAOguQ%2BuMtRb%2FmgkmrKQm9097iX3r2Fp77Q8FO0gCrRvmAxw7DXQy9GqCF9QBEWLWSEMBk7Q5D8n38doO3SrEjU3woTDt0pxi2pmBkpcAlP5Btp9eYwY26E0RnTWD32Jn1jPrapy2kOAuska1gMJ0%2BZLHDvMGm2uw%2BVgAx3KpUMxTdIgAdyuBONaG8LSue%2FlbEtrJxVlMq8t6jJOq%2BmLgL8B%2B0ziONuBm5CfQV7NexnOWSf3BrpT4",
    "posted_at": "2026-11-11T11:05:54+00:00"
   },
   {
-   "title": "Apple Magic Keyboard - clavier sans fil - QWERTZ / FR - Lightning - blanc",
-   "price_raw": "145.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900082540040?_skw=clavier&hash=itemd191199e08:g:A7oAAeSwX3Fq9EuS",
-   "posted_at": "2026-11-11T11:03:32+00:00"
-  },
-  {
-   "title": "Ninkear A15 Ordinateur Portable 15.6 Pouces Écran FHD IPS AMD Ryzen 5 5500U 16Go RAM 512Go SSD Windows 11 WiFi 6",
+   "title": "PC portable 15.6’’ Ryzen 5 5500U Ninkear A15 - 16Go, 512Go SSD (via Paypal)",
    "price_raw": "266,95€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-a15-ordinateur-portable-156-pouces-ecran-fhd-ips-amd-ryzen-5-5500u-16go-ram-512go-ssd-windows-11-wifi-6-3452053",
@@ -390,13 +407,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147675830909?_skw=ddr4&hash=item22622a5a7d:g:yiQAAeSwl2Jq9Do2",
    "posted_at": "2026-11-11T09:54:55+00:00"
-  },
-  {
-   "title": "RAM Kingston 8GB 1Rx8 PC4-2666V-SA1-11 SODIMM Laptop",
-   "price_raw": "17.22 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840117116887?_skw=ddr4&hash=itemc39ae1dfd7:g:uGgAAeSwu91q9C3d",
-   "posted_at": "2026-11-11T09:05:40+00:00"
   },
   {
    "title": "Ninkear s14 r5 6600h 512go 16 go ddr5 ips 2.2k",
@@ -474,13 +484,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xt8suu/gpu_asrock_7700xt_challenger_38999/",
    "posted_at": "2026-11-11T04:49:08+00:00"
-  },
-  {
-   "title": "Alimentation ordinateur Fixe 420W- occasion",
-   "price_raw": "10.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840058391896?_skw=alimentation+pc&hash=itemc39761cd58:g:~Q0AAeSwhRJq3f8N",
-   "posted_at": "2026-10-25T13:08:55+00:00"
   },
   {
    "title": "[Keyboard] Hall Effect - Glorious GMMK 3 - 65% - Hotswappable - $71.24",
@@ -658,15 +661,29 @@
    "posted_at": "2026-11-10T19:14:12+00:00"
   },
   {
-   "title": "PC Portable 16\" MSI raider 16 HX B2WI-016FR - QHD, Intel Core Ultra AI 9, 32 Go RAM, 1 To SSD, Geforce RTX 5080 (+ 270 € en bon d'achat)",
-   "price_raw": "2 799,99€",
+   "title": "Carte Graphique Gaming RX-580 8Go GDDR5 MLLSE (2048SP)",
+   "price_raw": "167.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940081502002?_skw=carte+graphique&hash=itemdae1395732:g:RZsAAeSw5Ntq82K1",
+   "posted_at": "2026-11-10T18:12:05+00:00"
+  },
+  {
+   "title": "Switch TP-Link Mercusys MS105G - 5 Port Gigabit Ethernet Switch, 1000 Mbps, RJ45, IEEE 802.3X",
+   "price_raw": "6,99€",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-raider-16-hx-rtx-5080-core-ultra-9-32-go-ram-1-to-ssd-fnac-270-eur-en-bon-dachat-3451447",
-   "posted_at": "2026-11-10T19:00:51+00:00"
+   "url": "https://www.dealabs.com/bons-plans/switch-tp-link-mercusys-ms105g-5-port-gigabit-ethernet-switch-1000-mbps-rj45-ieee-8023x-3451402",
+   "posted_at": "2026-11-10T18:03:35+00:00"
+  },
+  {
+   "title": "10% de réduction immédiate dès 150€ d’achat sur une sélection de tablettes Android et Accessoires",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/10-de-reduction-immediate-des-150eur-dachat-sur-une-selection-de-tablettes-android-et-accessoires-3451316",
+   "posted_at": "2026-11-10T18:00:01+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1736,
+  "listings_seen": 1741,
   "models_with_reference": 39
  }
 }
