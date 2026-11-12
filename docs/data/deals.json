@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T03:38:00Z",
+ "generated_at": "2026-11-12T04:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-12T03:38:00.683573+00:00"
+   "last_ok": "2026-11-12T04:08:00.672224+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T03:38:00.683573+00:00"
+   "last_ok": "2026-11-12T04:08:00.672224+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-12T03:38:00.683573+00:00"
+   "items": 389,
+   "last_ok": "2026-11-12T04:08:00.672224+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 40,
-   "last_ok": "2026-11-12T03:38:00.683573+00:00"
+   "items": 68,
+   "last_ok": "2026-11-12T04:08:00.672224+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
    "posted_at": "2026-10-12T17:30:00+00:00"
+  },
+  {
+   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 10.5,
+   "shipping_eur": 3.47,
+   "effective_eur": 13.97,
+   "median_eur": 29.0,
+   "discount_pct": 51.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (100,0 %, 176 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:HoIAAeSwa~5q9K1t",
+   "posted_at": "2026-11-11T18:03:48+00:00"
   },
   {
    "title": "Micron 1300 SSD interne 2,5\" SATA 6Gb/s 512 Go MTFDDAK512TDL-1AW1ZABGA",
@@ -122,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8yVqRvuHf6Wi8yPhbPOJOLG0n0kX7oqXN%2BGzT4fa04DOktwq7yhvjM1p3t1Sspu%2BQ6MFUcvSwDQU%2FYqPpFaNoGUrS56Dy2Dbp%2B%2FXoEeATcZAuS4SqdInn2pZsOsQ0GTPOsuGcclcVevTptuv4QUNoR8ru8oy4hK8JnYIliU07pcw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8lnvL%2FJ91MFkOLPgNVRXLT5%2FYAzKpvZsxqLjXqFqh6Canrw98gXwaQJpePMpSH%2B2mwykTakJflPVYj0dQjPd2UcSBblE0tVALQ5h9%2BxTwBSSLzIgMNDr1tt5uaxCVVbNYK0dU2zPNP4Mi0ike7vNEv91N0oLATxX%2FEphBIHio5Bg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -262,23 +279,6 @@
    "posted_at": "2026-11-09T11:03:45+00:00"
   },
   {
-   "title": "SSD interne M.2 2280 SATA III 512 Go MICRON en très bon état.",
-   "model": "SSD:SATA-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 47.5,
-   "shipping_eur": 2.99,
-   "effective_eur": 50.49,
-   "median_eur": 62.0,
-   "discount_pct": 18.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · ventesint2024 (100,0 %, 531 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920120896508?_skw=ssd&hash=itemd63b7aabfc:g:dVoAAeSwlWNq8ZXs",
-   "posted_at": "2026-11-09T09:44:35+00:00"
-  },
-  {
    "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -309,17 +309,31 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZQQByhA6rVQCRwbtdEjwHQg2hNe1IQME1lY7ABiy6tdQUuhWzEaC7Ul6l89r0%2Fu%2BqXFf74daVbsEgLQJELxTNcN%2B6TIyvTiiXXNmEVmPpuDbtXEAWjOlpWiJQ5o5lhewegduCFRxxRM6z85tphWTJt",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
   {
-   "title": "Carte graphique Gigabyte GTX 1050 OC 2GB Garantie 1an",
-   "price_raw": "59.99 EUR",
+   "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
+   "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/298110346725?_skw=carte+graphique&hash=item4568c2e5e5:g:7LAAAeSwf6xpsVDN",
-   "posted_at": "2026-03-11T11:24:37+00:00"
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGpdYP81f70s1XW%2FMFe3R3GXYQRkaK8wbu14vQOwIquwUpFgFfWyLgtdiw5MiprtmcdUu5bcN4OjZ5idUN9uWVLLdqtPl%2F%2BcVbogm%2FlTSfEO13QQLB6pVULnkRzKXBAfSC5HjrcUYhf49g8aRIXj1pLr",
+   "posted_at": "2026-11-10T12:11:11+00:00"
+  },
+  {
+   "title": "Biwin PR2000 SSD externe portable 1 To USB-C 3.2 Gen2x2 IP67 2000 Mo/s",
+   "price_raw": "475.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128189938634?_skw=ssd&hash=item1dd8b73bca:g:T8wAAeSwOiRq9TcS",
+   "posted_at": "2026-11-12T03:49:24+00:00"
+  },
+  {
+   "title": "KOOTION SSD Externe USB-C 1 To 250 Go 500 Go 512 Go Portable 2000 Mo/s",
+   "price_raw": "78.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128189940168?_skw=ssd&hash=item1dd8b741c8:g:VUEAAeSwJ3tq9Tdp",
+   "posted_at": "2026-11-12T03:50:52+00:00"
   },
   {
    "title": "Logitech G G502 HERO Souris Gamer Filaire Haute Performance",
@@ -357,6 +371,13 @@
    "posted_at": "2026-11-11T23:14:49+00:00"
   },
   {
+   "title": "Kit carte mère ASUS P8H67-M PRO / CPU i5-3470 / RAM 16Go DDR3",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147676636392?_skw=carte+m%C3%A8re&hash=item226236a4e8:g:XfsAAeSwrhJq9O5x",
+   "posted_at": "2026-11-11T22:47:44+00:00"
+  },
+  {
    "title": "PC de bureau CSL Sprint 5548 - Ryzen 5 7500X3D, RX 9070 GRE 12 Go, 16 Go RAM DDR5, B850-S Wi-Fi, 1 To SSD NVMe, Alim 700W Gold",
    "price_raw": "1 498,70€",
    "source": "dealabs",
@@ -378,13 +399,6 @@
    "posted_at": "2026-11-11T21:49:50+00:00"
   },
   {
-   "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
-   "price_raw": "26.22 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147676544394?_skw=ddr4&hash=item2262353d8a:g:rocAAeSweLBq9NXL",
-   "posted_at": "2026-11-11T20:56:22+00:00"
-  },
-  {
    "title": "[CPU] Microcenter In-Store Austin, TX - Intel Core Ultra 7 270K Plus Arrow Lake 3.7GHz Twenty Four-Core LGA 1851 Boxed Processor w/Intel Holiday Bundle (2 Free Games) - $249.99 ($100 off)",
    "price_raw": "$249.99",
    "source": "reddit",
@@ -402,7 +416,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtnhWVQ8ZDpQQ3LUjd3gsEi7%2FozL9Ah%2BqoiFi65SHuZ%2FgS5I%2BJHWmgweoR9rhZvR5eLFZ6UOwSWxWG9McHSZPtznzHXcsyHr9oLPMOLFTXvPIJzcjKdZQ9pB5rLmk8T9xNKRUqwC7FUesiNUZ3x8vI24aXrTchuHl48Zr%2FlZP7A7mg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtnHuAQEqRRtDI55j%2BvUehB2GBQjX8bILn29yVXPgkt%2FNr%2FIv2zFXN8vINidMg8MgO2Dgcl%2BH8r2%2FIdFtSK7b2RGVVt3fhIbj5Y%2B1xoE2%2FnNy1xDDPBg3%2BzgLGaMaFJ9jayERTK3hlDzFA%2BPghnO50G5ZHkx4SKhoYVi5wuEWdJO%2FQ%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -479,14 +493,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0%2FXkQtnbzFdJX6aikWvj%2BkKSFrEdglYES51fklYQ16mB8Aq2XQy%2FJ3AQTUn8q0091XvDCBRW4HeTwbdwmHzzbPk4ypg%2BqEO3wzbQC10S%2F3p4hgF3J1laHipvFXiFT3eMr5FudXqf2sLbBd2xeIilUmHeM%2B6TemGrArR%2BiOosWeuw%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz2mrk2maK2%2BrbhNOulk6LfzPMb924m1KBk5irYb5T0%2FSM%2FtueLmaaoJW8%2FUtmLO49GG49MQb1dlpFUR9SMsjfWBRyhH5r5V9LhQl%2BYgGgsaYAhr9hR%2BNhrijMNAIru2gvaCcWs6lbwd5%2BHExmfyVkW%2Fbpo22xS9djuP%2BBNX%2B11daQ%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3hCLg%2BRBjH95ZxLO3ifUpDnReXQUqyuRjiywW73MLzstkHJ8S%2B4HOu6EukzGDQN%2F6IOkqOgiM%2BouBwl1YLOx%2FIklOey8ZJ822ALX%2FH3NQa2ndG9Eo5ibJAcDHBaD6Any90WvTg3Vd1%2FxNEzVKVVzyjigre5TMiDdaoH1EFbBzmvA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3ybl5i0eTBo2J8o%2F6s3RxECer5RZCr%2FbuZcLiamND3tz0zJcXDiLEp4eZF%2F6YSwVLvXUcweV%2FJQkM3CEQiWJ3j3b4DyjdbBdXEyj3xkGZngEq%2B1hUnRSKoOAZOVt6YK7O0JaV6Le2KXm0rdsqpb%2Bcoww0IXSxT%2BLN3gwRzC9GzDw%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -516,6 +530,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366749790578?_skw=ssd&hash=item5563fdb172:g:0kMAAeSwm6Fq2J8-",
    "posted_at": "2026-10-21T11:19:47+00:00"
+  },
+  {
+   "title": "mini-tour Jonsbo C6 Handle Black Boîtier, Boîtier gaming, Boîtier PC noir",
+   "price_raw": "68.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267840821444?_skw=boitier+pc&hash=item3e5c8e98c4:g:IyUAAeSwpCZq9I-6",
+   "posted_at": "2026-11-11T15:54:31+00:00"
   },
   {
    "title": "Apple MacBook Air 15\" - Puce M5 CPU 10 cœurs GPU 10 cœurs RAM 16 Go SSD 1 To Bleu ciel, AZERTY, Sans Chargeur",
@@ -588,13 +609,6 @@
    "posted_at": "2026-11-11T14:03:28+00:00"
   },
   {
-   "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
-   "price_raw": "66.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsv3ySvsxGhrMKWFnoRZ1GwMk6nCNA%2F7oJm%2BlxQv4%2F9THGBWlkFrQPk4JsBuAQ%2FM9Wn%2BFUZAnmGRsbrMY7XMRbjICyOSheBA7NbLLui34aTS2I2Q8oqaBHqwuhoLl5NZJ1S2qr16nN2A1J2VJXn7XtVGpOGyD06kGTGMJaNCh7ybeg%3D%3D",
-   "posted_at": "2025-03-04T13:03:51+00:00"
-  },
-  {
    "title": "PC Portable 16\" Gigabyte A16 Pro - Intel Core 7 240H, RTX 5070 Ti 12 Go, RAM 32 Go 5600MHz, SSD 1 To, QWERTY, Windows 11",
    "price_raw": "1 728,15€",
    "source": "dealabs",
@@ -649,24 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-s5-ryzen-5-7535hs-ram-16-go-lpddr5-ssd-512-go-nvme-triple-ecran-4k-wi-fi-6-3452118",
    "posted_at": "2026-11-11T11:07:58+00:00"
-  },
-  {
-   "title": "[Prebuilt] Acer Nitro 60 Gaming Desktop Intel i7-14700F 32GB RAM 2TB SSD RTX 5070 Ti Refurb ($1,471.04 with coupon code)",
-   "price_raw": "$1,471.04",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xteul5/prebuilt_acer_nitro_60_gaming_desktop_intel/",
-   "posted_at": "2026-11-11T10:56:07+00:00"
-  },
-  {
-   "title": "Carte graphique Asus GeForce GTX 560 Ti",
-   "price_raw": "26.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820341881487?_skw=carte+graphique&hash=itembf002fba8f:g:mQsAAeSwU8pq9DeE",
-   "posted_at": "2026-11-11T09:43:41+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1694,
-  "models_with_reference": 40
+  "listings_seen": 1698,
+  "models_with_reference": 41
  }
 }
