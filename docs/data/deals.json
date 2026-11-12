@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T19:08:00Z",
+ "generated_at": "2026-11-12T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-12T19:08:00.660738+00:00"
+   "last_ok": "2026-11-12T19:38:00.618900+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T19:08:00.660738+00:00"
+   "last_ok": "2026-11-12T19:38:00.618900+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-12T19:08:00.660738+00:00"
+   "items": 369,
+   "last_ok": "2026-11-12T19:38:00.618900+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-12T19:08:00.660738+00:00"
+   "items": 10,
+   "last_ok": "2026-11-12T19:38:00.618900+00:00"
   }
  },
  "watchlist": [
@@ -69,7 +69,7 @@
    "discount_pct": 51.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,4 %, 181 avis)",
+   "merchant": "eBay · fastseller59 (99,4 %, 182 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:HoIAAeSwa~5q9K1t",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Xu%2FQBtIH8hfVCqVaroE%2F6G9SKgxzGdtfGA0P%2B57bRrL8sVLrqgSsKEQ9HJzITMcdoBuvpk0T5nteqC1smbStWuOVUnSPmShHgj52GUnDimaiyOXSx0iKmY%2BXye8kcK0O9R2qS8KEDp%2Fp%2FsjPxTd7MRMQrB5hmGIezrkIouGtRHQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B906IYeDZzXYHzbXiT28Q06iFPYjIKwda1IbROaDdG1CsPcy7neJ7Srn0LJ7b09fyOsN7bytPdWWPQZi0AD%2FMRczY4eHvcB5hNGrrrGus1ExdLPvxVz4LzvYBln8UwgDu2e0M2ZlmYBWp7UCVMyq2yzF%2Bj%2BmxeT3FFc7C%2BJKyvsQw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -309,11 +309,25 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZWbfv7jgqIlWcvVP6ix2xbAaBCYmxE3GslblK%2BAo4Gq14jXEFVxAbmMEwX3EPQ%2FaOCho%2FVazccm7tlKwUi9%2BP9jhJTnDrW5amCsNBvZNHFZL%2F7MLtKoo3yz0%2BRVXPaCRzCJVc0MZN2hOdCVExMi8da",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZmM5PJFYYyrtXez%2FFSwcHouLcoKFFC%2FonIv3qvuF3m6Rr773ZWu4ZuCYxas%2BrPbijilgeeFuxO9amkHy8%2BI5W2or7taB4EpUOqg8XL3fXdFMPTCGT%2FXEiiwQTe%2BH0UlzVUOyir92nYoqUZU%2Bj%2FWLtp",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 64 Go (2 x 32 Go) - 6000 MT/s - C30 - Black",
+   "price_raw": "1770.24 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336251755531?_skw=ddr5&hash=item4e4a2a9c0b:g:zMEAAeSwClRq9ahE",
+   "posted_at": "2025-10-25T10:27:19+00:00"
+  },
+  {
+   "title": "❄️ Ventirad AMD 60 mm OEM – fixation centrale 1 trou – pâte HY880 – 3‑pins",
+   "price_raw": "11.66 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267591081337?_skw=ventirad&hash=item3e4dabdd79:g:ZUAAAeSwjhBpnwTk",
+   "posted_at": "2026-03-01T18:56:48+00:00"
+  },
   {
    "title": "Lite-On LMT-256M6M SSD interne mSATA 256 Go amovible pour PC/ordinateur portable",
    "price_raw": "21.50 EUR",
@@ -453,6 +467,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336894128423?_skw=carte+m%C3%A8re&hash=item4e70747127:g:QKUAAeSwQ~xq9cUU",
    "posted_at": "2026-11-12T13:58:51+00:00"
+  },
+  {
+   "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
+   "price_raw": "159.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk7ellJvz1QfvLQST46g2eXYTqi3tcmERP%2BpcjlUAphXsQVnvg6FfEsbpVQ89jMxszxsfEXKJASoAfx6So8uvF26SxVUbciXd%2BiXQaHw%2B8tEqTPpQqjHtThor0fwZCaCpNDH7xxaWXsxbPD3J21KBoHMbpNmgWTlKq3ggJJrIM6E2w%3D%3D",
+   "posted_at": "2026-11-04T20:24:41+00:00"
   },
   {
    "title": "Souris sans fil gaming Razer Basilisk V3 X Hyperspeed Noir et Vert",
@@ -642,31 +663,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/168831236486?_skw=carte+graphique&hash=item274f203986:g:sCIAAeSwtkVq563F",
    "posted_at": "2026-11-01T21:28:56+00:00"
-  },
-  {
-   "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
-   "price_raw": "44.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGoxoWrJZ8AnLbPcJD2t2IQJe0T7AAZro7nOR8R1%2B3gpABOVjD5DulKAKM%2BHWRd1k4hRARA8Qseox6jFC9vZ8BCSa3flD%2FNVMPpK2JyyVRoHk6XwvNRWGKGBVrbeumqyUQpVyRZvjhb%2FjA3ZFxddk54X",
-   "posted_at": "2026-11-10T12:11:11+00:00"
-  },
-  {
-   "title": "Souris filaire Logitech G G502 Hero Gamer - Haute Performance (Frontaliers Belgique)",
-   "price_raw": "23,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g-g502-hero-souris-gamer-filaire-haute-performance-3452704",
-   "posted_at": "2026-11-12T02:12:12+00:00"
-  },
-  {
-   "title": "[Headphones] Bose QuietComfort Headphones, Bluetooth Over Ear Noise Cancelling Headphones, Moonlight Grey - NEW - $124.88",
-   "price_raw": "$124.88",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtzzb8/headphones_bose_quietcomfort_headphones_bluetooth/",
-   "posted_at": "2026-11-12T01:39:25+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1677,
+  "listings_seen": 1678,
   "models_with_reference": 45
  }
 }
