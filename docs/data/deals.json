@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T14:38:00Z",
+ "generated_at": "2026-11-12T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-12T14:38:00.658938+00:00"
+   "last_ok": "2026-11-12T15:08:00.679861+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T14:38:00.658938+00:00"
+   "last_ok": "2026-11-12T15:08:00.679861+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-12T14:38:00.658938+00:00"
+   "items": 377,
+   "last_ok": "2026-11-12T15:08:00.679861+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 66,
-   "last_ok": "2026-11-12T14:38:00.658938+00:00"
+   "items": 77,
+   "last_ok": "2026-11-12T15:08:00.679861+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FRUL8sXf3X%2F68R4ewKoV7tGAONPBbOA7ruw5%2BoR2xAI14W6ODWC0j0%2B48rdpNGLCXF2aeQEOww8V3qQ1WKmvklWDwiwG0ByxVAgdK9GmTotO8ZjQkQ%2BJGIlJMdcaYuZbj64o51PZDIL%2BzqaZdkVO2IyKVqdfE61MgkV94mh2fPbg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bj%2B1HvXFQXtGX%2Bos2J7%2FGxnM6s%2F%2BFUC5d2wKhH1a7bvD9MwYW%2F1dyzUNYOpd8rAZcIjfUlLzEdGduhTci3bJF1jx2UR%2FBtMr%2FMOSHc2BQ6YyN6fNvfyYUqzzC7%2Fod4yKzjrM4M8Q5GxUF1vmnqhFIy6%2BhwZlkuyGZVLXBdUoiJ7g%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -343,11 +343,25 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbwOd7vr8fi5KfdACdGdttNg3m1Yxh9SGe%2BM5KbARXn0FfZG7tBUcGoNWTqUx8F9JiuU8i9TAaVtiw%2FS6B%2FlJ3lb4A%2BMcOleGJrqJSM6uhy87eTQt3n9Iad683qCgVyo9YooA966%2FGFMfPk%2BcIXhXiG",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZ%2BIB3mTf20YRhuyk8Bf4wrsxzClr9XZmIpf9FX135pPRQE3hhkhwVsmfTuaOg%2FXI0vwelgcVCOEiAP9t8MEGvk%2FU4iJpXDUYeVyudVltiHqo8Qkc1jIswANNjuLFP1pkE1CH4%2FXg%2BEYpAwr%2BLxzi2%2B",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Ecran PC 26.5\" MSI Mag 274QPA - QD-OLED X24, WQHD",
+   "price_raw": "384,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-mag-274qpa-qd-oled-x24-ecran-gaming-265-wqhd-3453290",
+   "posted_at": "2026-11-12T14:49:11+00:00"
+  },
+  {
+   "title": "Souris sans fil Dell",
+   "price_raw": "16,68€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/dell-souris-sans-fil-mobile-3453277",
+   "posted_at": "2026-11-12T14:42:37+00:00"
+  },
   {
    "title": "[Nouveaux clients] Boîtier SSD M.2 Blueendless (M2818S) - USB-C 10 Gbit/s, SATA, aluminium, jusqu'à 8 To",
    "price_raw": "5,23€",
@@ -363,6 +377,13 @@
    "posted_at": "2026-11-12T14:02:28+00:00"
   },
   {
+   "title": "G.Skill Trident Z5 RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C36 - Black",
+   "price_raw": "765.88 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336251757093?_skw=ddr5&hash=item4e4a2aa225:g:LiwAAeSwZXlq9ahN",
+   "posted_at": "2025-10-25T10:27:48+00:00"
+  },
+  {
    "title": "GIGABYTE GA-F2A88XM-HD3P microATX FM2+ Avec Plaque Arrière",
    "price_raw": "37.10 EUR",
    "source": "ebay",
@@ -370,18 +391,18 @@
    "posted_at": "2026-11-12T13:58:51+00:00"
   },
   {
+   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
+   "price_raw": "222.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvS4dIkITmY6cBOB0nuleJYdGaXP44SFEx7nn4m9BI2edrkGnYOJnj6LmjixocOs%2FXx7WcEamDKLhUKFsYNFAtmqkYsiS1zVXoWnHn1hXfC8DYQTbkwl2ERTTlBT%2B%2FQup3zjXqm8bWq61N6YzvbSmgVKT93kiEYOpk1ZChHMCZLU9Q%3D%3D",
+   "posted_at": "2026-10-14T07:28:32+00:00"
+  },
+  {
    "title": "Samsung Kit RAM 16 Go (2x8 Go) DDR5 SO-DIMM PC5-5855 M425R1GB4PB0",
    "price_raw": "151.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128190725990?_skw=ddr5&hash=item1dd8c33f66:g:vwwAAeSwxJtq9bnx&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n7%2FldsB7Ql35fPoCxZ%2B%2BRG5MeW46frwooNQjJtkprzPheh%2BlF1uxGRrnZFhpTtxjTa7PNbF5I0GIPI%2FVg51rq7qI29VZP%2B9tTEj4Hc3YkwxoaTjEte2jISKQaDGLrIleGIKo%2FeaNugQr6psgkn3h7oMC4kGJG%2BLTifvR3Xu04Zii32EvybGmEH0lYcWctXuuba0J3OVo3QSGGKPJ6oMRDj%2ByC7TqXvJYUTCvMCK1nfySuX4HJLQE91g6GdXmwebD35DvK45%2BMZiYxuy0BK1htn",
+   "url": "https://www.ebay.fr/itm/128190725990?_skw=ddr5&hash=item1dd8c33f66:g:vwwAAeSwxJtq9bnx&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n7%2FldsB7Ql35fPoCxZ%2B%2BRG5MeW46frwooNQjJtkprzPheh%2BlF1uxGRrnZFhpTtxjTa7PNbF5I0GIPI%2FVg51rq7qI29VZP%2B9tTEj4Hc3YkwxoaTjEte2jISKQaDGLrIleHuAJ9GusWhZTq3AC8M89r%2BZxw2UDIIDzqm1F%2FTrrQqmHorH70smgqh4Iw86pWqaAFBIflyYv5qVK4JT5dFv8--f4Vw9PqJz9A%2BOsicp%2B9t9RBVxrZlWUNa4zzG7qwSTFr7y0pnuoOjJGv5tZ08kc1Z",
    "posted_at": "2026-11-12T13:11:55+00:00"
-  },
-  {
-   "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
-   "price_raw": "159.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk5hcntKwxYlwewbZ6OeLB9yFr5WXhL1S5qA%2BGIjNJZ%2BVOIjKyxxhVxfsOvptbOHS1DFeHokEWtEZknHeKXe0vzVFvUExeIy1uxA8QaxNTvY7%2BxmGJEAAeTpI0pOA1SNBiZWN5017ObcF05V%2BGrwXxE2lvWBhZpR7cz8jEJfksoKjQ%3D%3D",
-   "posted_at": "2026-11-04T20:24:41+00:00"
   },
   {
    "title": "Souris sans fil gaming Razer Basilisk V3 X Hyperspeed Noir et Vert",
@@ -583,7 +604,7 @@
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGqGtWTuqC9weh4lQuIMKgLIJFze6v4nZDoAyqhWOPGtL1ZZe7CjpoCLLZrFmPC2uMpNmp4ilehQZ0ESXeI%2BUJprW%2BRww4SdL3KHBl20ywH4hEit%2FfP%2BvEGuxl69XrIIAKdoW0y1AReZIBGX0FLNiwHp",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGqA3K0C1wpPn8jhEUUB5j5RnasV6c1wM2rad2G3eTH2i0QYprL4r68C1d3FlaJ%2BCFc9QNa%2B%2FWqGfa5hoYdqrUKNleCQL1mGCFRMr3dGGPbhkKMw2%2BAj2u0BT9nqsWXZDqNLxoswwtXroRSD10vmw%2BtL",
    "posted_at": "2026-11-10T12:11:11+00:00"
   },
   {
@@ -639,7 +660,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtmoIjK4Xt2x0Bgu4vyPOMU0aZy0XCPQAy3bmCUic9kh%2Fgw59%2BLiymVw8PXvfQeBV8xX8UKmNawOFkiGv8u0VdgBYdgkUolTOVGw%2FzoDUBjcW8A%2BeQn1vdsRLNgS4KZ5sb%2ByTEBb5btHQg1INSsHzWp2BmgyxKilQ4VLrNlmiYxhJQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtlXm6tAXWpahawOrMqXrocYs7zNsQrsW7QmJ2%2FmVlelDFK967iRUc8oNb0UAjucOzDpKru%2BSzhHZkVZWSMQTwT%2FgZuUCll5ddYpGlL6fIWxSLxSm96wCi88fgFlYPAOSF9z4p2LrGLtnRxan%2B3SVyNrdzyGlX7Ajc2AR%2BW3JJZUnQ%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -676,31 +697,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/be-quiet-silent-wings-4-120-mm-pwm-high-speed-black-ventilateur-pour-pc-3452498",
    "posted_at": "2026-11-11T19:01:24+00:00"
-  },
-  {
-   "title": "PC Portable 13\" Apple MacBook Air - M5, 32 Go Ram, 512 Go SSD + 180€ en carte cadeau",
-   "price_raw": "1 839€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/macbook-apple-air-13-512-go-ssd-32-go-ram-puce-m5-3452476",
-   "posted_at": "2026-11-11T18:28:43+00:00"
-  },
-  {
-   "title": "Reconditionné : PC portable 14\" tactile 2-en-1 Lenovo ThinkPad X1 Yoga Gen 6 - Core i7, 32 Go RAM, 512 Go SSD (+60€ offerts en carte cadeau)",
-   "price_raw": "679,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/reconditionne-pc-portable-14-tactile-2-en-1-lenovo-thinkpad-x1-yoga-gen-6-core-i7-32-go-ram-512-go-ssd-60eur-offerts-en-carte-cadeau-3452467",
-   "posted_at": "2026-11-11T18:14:46+00:00"
-  },
-  {
-   "title": "[HDD] WD - My Passport 4TB External USB 3.0 Portable Hard Drive - Black. Best Buy via TikTok Shop ($86.99)",
-   "price_raw": "$86.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtpish/hdd_wd_my_passport_4tb_external_usb_30_portable/",
-   "posted_at": "2026-11-11T18:27:59+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1670,
+  "listings_seen": 1665,
   "models_with_reference": 43
  }
 }
