@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T04:38:00Z",
+ "generated_at": "2026-11-12T05:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-12T04:38:00.623006+00:00"
+   "last_ok": "2026-11-12T05:08:00.682973+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T04:38:00.623006+00:00"
+   "last_ok": "2026-11-12T05:08:00.682973+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 392,
-   "last_ok": "2026-11-12T04:38:00.623006+00:00"
+   "items": 395,
+   "last_ok": "2026-11-12T05:08:00.682973+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-12T04:38:00.623006+00:00"
+   "items": 76,
+   "last_ok": "2026-11-12T05:08:00.682973+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9w6e4U5SR30xfmhZ1jUB6cxx%2BDtBoA9JBENGdUIQVOlvixsyMOwMr%2FAVTV%2F8w2yMBTIhQEkkZT%2BT7UxtONH%2BFkpABxkdZK3ByqDCX9jPIKK%2BDwmYNnOwDgDUjAAVn82zKb8vLJhPF6LU1FtTvdRW2L4Lzh2a3%2Bb%2FpmqgfQctOyPw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9YskMckJHzMqNQisMaettlCB5RcYc5r6S3j9y9LKvZrEad93X2FIHwmU4G9ZOBuf0ZCG4suuRJbirag3D1DFyAkFXHx8wjCgTlCCm%2FxL7kSiISNBbIYPMwqO8%2Fh%2FNrlvnxwMkFLYG0X4NQ5axzs7QjyrwANWXiUjK8gxnvoSFd1Q%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -349,6 +349,20 @@
  ],
  "unclassified": [
   {
+   "title": "[Prebuilt] CHUWI UBox Mini PC, Ryzen 5 6600H, 16GB DDR5, 512GB Gen4 NVMe SSD - $269.99 w/ coupon",
+   "price_raw": "$269.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xu3wuy/prebuilt_chuwi_ubox_mini_pc_ryzen_5_6600h_16gb/",
+   "posted_at": "2026-11-12T04:58:13+00:00"
+  },
+  {
+   "title": "Intel Core i5-4590 Processeur CPU de bureau (Desktop) - Voir photo",
+   "price_raw": "16.60 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198789021141?_skw=processeur&hash=item2e48bfbdd5:g:fZQAAeSwH~1q9UKq",
+   "posted_at": "2026-11-12T04:39:04+00:00"
+  },
+  {
    "title": "Carte graphique GTX 570 Asus PCIexpress Nvidia 1,28 Go 2x DVI + 1x DP + 1x HDMI",
    "price_raw": "21.50 EUR",
    "source": "ebay",
@@ -375,13 +389,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128189938634?_skw=ssd&hash=item1dd8b73bca:g:T8wAAeSwOiRq9TcS",
    "posted_at": "2026-11-12T03:49:24+00:00"
-  },
-  {
-   "title": "KOOTION SSD Externe USB-C 1 To 250 Go 500 Go 512 Go Portable 2000 Mo/s",
-   "price_raw": "78.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128189940168?_skw=ssd&hash=item1dd8b741c8:g:VUEAAeSwJ3tq9Tdp",
-   "posted_at": "2026-11-12T03:50:52+00:00"
   },
   {
    "title": "Logitech G G502 HERO Souris Gamer Filaire Haute Performance",
@@ -417,13 +424,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/via-paypal-imprimante-3d-multicolore-elegoo-centauri-2-combo-3452657",
    "posted_at": "2026-11-11T23:14:49+00:00"
-  },
-  {
-   "title": "Kit carte mère ASUS P8H67-M PRO / CPU i5-3470 / RAM 16Go DDR3",
-   "price_raw": "52.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147676636392?_skw=carte+m%C3%A8re&hash=item226236a4e8:g:XfsAAeSwrhJq9O5x",
-   "posted_at": "2026-11-11T22:47:44+00:00"
   },
   {
    "title": "PC de bureau CSL Sprint 5548 - Ryzen 5 7500X3D, RX 9070 GRE 12 Go, 16 Go RAM DDR5, B850-S Wi-Fi, 1 To SSD NVMe, Alim 700W Gold",
@@ -464,7 +464,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtn4r94x5pix4UhcCDzY8qxv6ynipsn2eFhg10SVTeY3v2Ppcy14hCvb1w1kY9ssDnEVssfNHfHVpMZBvgeofEXOG8GSBfFvidjxFzfo9G%2Fgf1Zib%2FK9w4zh0yBm93ArJMDFHGleQvNRlcr5U%2BurMoUupHest1DAILyJwmwrCDz9Kw%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtmiZdzuBffRafYBHtmzRTZmSDm7P6dBu5r8NSxnq5nxYjdoSyrnUhtgFXVioXW7TYj%2F6fBfXZ4qFEUfLqz8kRN8xzLstfFd%2B%2BrArtGnSiOpzCdPi2CDvI31cyQDBRgnEtfgDTij3Scc6trTTUHuH0OxmMiVQZGsnda27ikJPjx7dw%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -541,14 +541,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz1NcLWS86JIMEFqEYyXShsbJtS7KXkW2VV7IAfBQ1rEZnqcPSKnWjRU54HSmI30j8n4YakLJX9Bo645rZjKIUYSiIsqdOo5LCg%2BoVOKMQEEA5CbxdR91LyZnJQxXCmhEOoXN8O6O2Tt0AcMIaA4ehNvC1zVnSVTHC7%2BQfQvWGP52g%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0GVZcURRnHiAp6O2hC%2BePUrRADFxBwQ6dcD%2Fw3Bgqw6FyZ16HsLhLesuz6POX0gBAs2iw4wGPFxN4tpYC264Wv2SUvEFySRLoWR%2BXm9ylhMi6Xu2kTpIr1i7lwu1QqIDaNLWw12q%2BBoBIAv59FixGvVEv6OfDNR9VeiQErPul9Og%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh2diNHXhg3jMMb0F%2BUqVWcwcjH4nSFKYXXnK1dHvGAc0F2%2FoUeJnt3UbQGcv6wxhRKjqGaVJSyrI9s5YTav5xbm0gciK%2FngQnGDlwJ6oSC6BUDZ3BPGoARHiRLJRJVYPypCCssPHSWfQFbb8XMtzDHbidn4Jban%2BkSDUHnLVgwR4Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3jpqMOgNucQvuXxTLvqIpUtwF5WgI682uqNdZPI74qSSTsmctaOHUKY1QRJHs2b%2BusmGlA%2FIe3VMBzHjV0UzZPv4yiXzEp%2B%2FFAcOt70mTCnLcrBKbFGm9U6JzrNwBUYv7qcI8MCNfhFeyK%2Fgq8DNhnOg1ma1RnS8cPRy6r5BSUOw%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -578,13 +578,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366749790578?_skw=ssd&hash=item5563fdb172:g:0kMAAeSwm6Fq2J8-",
    "posted_at": "2026-10-21T11:19:47+00:00"
-  },
-  {
-   "title": "mini-tour Jonsbo C6 Handle Black Boîtier, Boîtier gaming, Boîtier PC noir",
-   "price_raw": "68.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840821444?_skw=boitier+pc&hash=item3e5c8e98c4:g:IyUAAeSwpCZq9I-6",
-   "posted_at": "2026-11-11T15:54:31+00:00"
   },
   {
    "title": "Apple MacBook Air 15\" - Puce M5 CPU 10 cœurs GPU 10 cœurs RAM 16 Go SSD 1 To Bleu ciel, AZERTY, Sans Chargeur",
@@ -697,10 +690,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-apple-mac-studio-2026-puce-m5-max-cpu-18-coeurs-gpu-32-coeurs-36-go-de-ram-512-go-de-ssd-3452134",
    "posted_at": "2026-11-11T11:26:39+00:00"
+  },
+  {
+   "title": "PC Portable 16\" CHUWI CoreBook Plus - Intel i5-12450H, 16 Go de RAM SO-DIMM DDR4, SSD de 512 Go",
+   "price_raw": "314,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-chuwi-corebook-plus-intel-i5-12450h-16-go-de-ram-so-dimm-ddr4-jusqua-64-go-ssd-de-512-go-3452089",
+   "posted_at": "2026-11-11T10:42:08+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1700,
+  "listings_seen": 1695,
   "models_with_reference": 40
  }
 }
