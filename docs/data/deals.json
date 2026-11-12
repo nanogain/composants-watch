@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T18:08:00Z",
+ "generated_at": "2026-11-12T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-12T18:08:00.671972+00:00"
+   "last_ok": "2026-11-12T18:38:00.668557+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T18:08:00.671972+00:00"
+   "last_ok": "2026-11-12T18:38:00.668557+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-12T18:08:00.671972+00:00"
+   "items": 375,
+   "last_ok": "2026-11-12T18:38:00.668557+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-12T18:08:00.671972+00:00"
+   "items": 76,
+   "last_ok": "2026-11-12T18:38:00.668557+00:00"
   }
  },
  "watchlist": [
@@ -41,6 +41,23 @@
  ],
  "opportunities": [
   {
+   "title": "Netac NV3000 SSD Interne M.2 NVMe PCIe 3.0 Disque 250 Go 500Go 1To 2To 3500MB/s",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 149.99,
+   "discount_pct": 66.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · shop-produit-divers (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
+   "posted_at": "2026-10-12T17:30:00+00:00"
+  },
+  {
    "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -52,7 +69,7 @@
    "discount_pct": 51.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 180 avis)",
+   "merchant": "eBay · fastseller59 (99,4 %, 180 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:HoIAAeSwa~5q9K1t",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -122,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FhWoEXSqhTEP0Wduj8THEhCExzgAPk3fRRIUMA1VjHK6fSxjd3CDvqV5ux0PQanR%2BsTIj0PW1hV8nmJ93gkXzZKK6LtDzeqvDwbfERCAHgL1uNgH%2B7wypvaSwtbfQ2tk%2Fyir6n9czC92UN9K2i7wA4ZhMDNyDeDGRvbFLkWqEazg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fay1mVVqyPNlQt33rFJtvmGoDBWj4OOE2xF81vkj22V%2FkYIxXXqoTqMm%2FG%2B1IlQW1%2FaOPoq54yLmwHiJOqewvEW4pWoSsQKlWN8zFgQBNerliSkwu%2BgVoFBrSYL3SWAyYKLcQBCSqdZqCLk5%2BhWQepnaW7jLvb58GuFeTmiEZFUQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -228,6 +245,23 @@
    "posted_at": "2026-11-09T16:23:45+00:00"
   },
   {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 69.99,
+   "discount_pct": 28.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-03T08:24:17+00:00"
+  },
+  {
    "title": "Processeur AMD Ryzen 7 7800X3D - Tray (180.33 via Paypal)",
    "model": "CPU:Ryzen 7 7800X3D",
    "category": "CPU",
@@ -292,11 +326,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYyc9M%2FC8T39je%2Ba09C3g%2Bw8p9SG3%2BDCyR%2Fp%2F%2B670l7bDjgNzHuIRNmJNskyjdMI2CN%2BRiZnQbkn3mN%2FukKTCuitZeNs78Ox%2BI6ecO6oRZCTIE1cq3OsTvh%2FstoGYqLLtngSfXNaYXJ75r3ITFlvChz",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZm1FYRrYaJnujleGigdGHt1Ar0sV01uC3FFmWL7mWXtTj2ukBxRQSAZcdfx1vCdh6WqEXx9bP0SEbVaT49%2FlX6T0yN8yPbYbshysMI1aEPm7UMurJf4oR0kh2Zdksw6powztdZWO2q5iPAvH%2BySWPH",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Clé WiFi 7 TP-Link BE3600 USB-C et USB-A, Archer TBE230U MLO, double bande",
+   "price_raw": "44,64€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tp-link-cle-wifi-7-be3600-usb-c-et-usb-a-archer-tbe230u-mlo-double-bande-3453429",
+   "posted_at": "2026-11-12T18:30:49+00:00"
+  },
   {
    "title": "KEFEYA Triple Écran PC Portable 15,6\" FHD 1080P IPS HDMI USB-C Neuf",
    "price_raw": "176.46 EUR",
@@ -417,18 +458,18 @@
    "posted_at": "2026-11-12T13:58:51+00:00"
   },
   {
+   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
+   "price_raw": "222.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvQ%2FMuk2Ab%2Fs1ca8blFSzN1RKQT9AmpyYIt2bGDKem0wiwLRORn6ZIr%2Bi%2FHIqpUyTRlGbHPWXRICiprE5wKbvF1eGNUxy%2FU4OMlNaj99TZ69uqYMdygtHjbX%2FQ84keN1avBBO64k5Pu29M5IuAUMBjn%2BYj1s6%2Fy3WWRDJ5RgfmETEA%3D%3D",
+   "posted_at": "2026-10-14T07:28:32+00:00"
+  },
+  {
    "title": "Samsung Kit RAM 16 Go (2x8 Go) DDR5 SO-DIMM PC5-5855 M425R1GB4PB0",
    "price_raw": "151.50 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128190725990?_skw=ddr5&hash=item1dd8c33f66:g:vwwAAeSwxJtq9bnx",
    "posted_at": "2026-11-12T13:11:55+00:00"
-  },
-  {
-   "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
-   "price_raw": "159.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk5%2BdUnFY1ADY9z2k7FwbvP27BToYkZCUte1l9DdtBn9n5PhftcajtOSiCUm2YrN2FneycLof35pgGFNBbAJEeUlpRoPfpNoMoXe%2F9um5KZ19fleRmW0xQR%2BNRAfEXuoH4%2FUiAtHZRDbbml%2B0LOZXvRMoW8J3PA4JnaTQtdS5EApSw%3D%3D",
-   "posted_at": "2026-11-04T20:24:41+00:00"
   },
   {
    "title": "Souris sans fil gaming Razer Basilisk V3 X Hyperspeed Noir et Vert",
@@ -623,7 +664,7 @@
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGrO6ONwUjJMmbg1DYzUXOFsXAVOjDllwPIUOy3DA9fesHqXEorFl2OnES8J0ZjMiOhdKjpWbDKc9xVaVJLQNO3RSwz5Tpl5wNL0%2BVtikheabU8eihUYn00su24XXiroK5QbaL9ico1q6ykATFEaGK0J",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGrDO2ucEj0e%2BfUfne8zCdcyeSQwHnwszrJJgZZ2CH7IxDDzHdnkkvRqCVDHDjKK8V1znJAywx8psVNTt%2BBdl4Wm%2F1W3RIKt949%2FO3Q8l0Y1iLyHaKO%2BEzcHFdDudK8TLX2w4%2B9vh5VACmrvw%2BrxrWO0",
    "posted_at": "2026-11-10T12:11:11+00:00"
   },
   {
@@ -639,17 +680,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xtzzb8/headphones_bose_quietcomfort_headphones_bluetooth/",
    "posted_at": "2026-11-12T01:39:25+00:00"
-  },
-  {
-   "title": "Boitier PC Endorfy Aquarius 8000 Corona",
-   "price_raw": "94,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/endorfy-aquarius-8000-corona-boitier-benchshow-3452663",
-   "posted_at": "2026-11-11T23:24:49+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1676,
-  "models_with_reference": 46
+  "listings_seen": 1677,
+  "models_with_reference": 45
  }
 }
