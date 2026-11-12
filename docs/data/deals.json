@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T01:38:00Z",
+ "generated_at": "2026-11-12T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-12T01:38:00.680938+00:00"
+   "last_ok": "2026-11-12T02:08:00.664692+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T01:38:00.680938+00:00"
+   "last_ok": "2026-11-12T02:08:00.664692+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-12T01:38:00.680938+00:00"
+   "items": 371,
+   "last_ok": "2026-11-12T02:08:00.664692+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-12T01:38:00.680938+00:00"
+   "items": 0,
+   "last_ok": "2026-11-12T02:08:00.664692+00:00"
   }
  },
  "watchlist": [
@@ -56,23 +56,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
    "posted_at": "2026-10-12T17:30:00+00:00"
-  },
-  {
-   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 99.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 99.99,
-   "median_eur": 289.99,
-   "discount_pct": 65.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
-   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
@@ -126,6 +109,23 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FuWoDo%2FFtFpOdf%2BChkqBu3F8avYtkfFzqrqMOTpmZ4MBtbschM3P%2Bqk4a7pkgdtBZJVUfOE4nYsranZXzoh4msI%2FP%2Bp3PFDs382Oz06lcYC0qVCzvDggFEmMDN55HtNtY3nb9MlrJ%2BuZ3jQNWHHga42ok6c4Dt6FKvXiPww8lpWg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FGS7MvCs003eQFZVEuJfsu6ChHbt0bnXTe7S2yZ2owpVdBhTtXqUShh%2FDgjwDp8jaEJIBDh8AJzKcB1%2FQOTzg7jcPciL3oRjBY34Ic7o6ZAk2wYLDR5b%2Fmj5VkuZDMrS2ojzyajOBypHKI%2BAAP04Scf57w0y4FTmzlYxU%2FMKGTqw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -326,11 +326,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYOzmujvZK5iFK7U8%2Bc3nQ9FgDrYbJVLloV5ppAKT%2B%2FSXAV2ruO%2FgtRC9TP91TJOX2g6T0enWAFKV3guKItUMm%2Fxr2Jn5Vc2RZH%2BNB%2BmFXkgziokjhS4Uz8q7707dYgxQzj7Dvw%2FV%2Fuplzvkd7V3UCG",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbWCoOJkJ22P%2BlgKQXBy56MIGWYZ9YqLQfl28tsXqhgA3BIMoumDUm8%2FHxSQpDtxnMNyXQpziRYYjwY%2FbNUoOf0v9Dixd0Qa9h5UYItxeekp4icJppZ6nG%2FntDnV6rHg2WGbnPMLQlRa3PjEfPi8vX7",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[Headphones] Bose QuietComfort Headphones, Bluetooth Over Ear Noise Cancelling Headphones, Moonlight Grey - NEW - $124.88",
+   "price_raw": "$124.88",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtzzb8/headphones_bose_quietcomfort_headphones_bluetooth/",
+   "posted_at": "2026-11-12T01:39:25+00:00"
+  },
   {
    "title": "Leclerc imprimante HP Deskjet 2910 jet d'encre et wifi a 29.90 au black friday",
    "price_raw": "29,90€",
@@ -482,14 +489,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz1Pj1MaaWQvcFGSSywDRjJuIyvdjw58Fen4dL0E%2FVKk7ei5n3QcdpRx7eciRZ6RWHKPq3QZspaLIgYC13Q7bUu%2BcWggamJNc1Jx4SSfW3MEipeAdqNaxXZAY0bGZB0%2FPZ%2B2PI0POPkabqnXlO7paPrG1jWrtC%2FOEcCQlwCOHlnaRQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0BGMVUGQBNNI9ZfOKm3NITWnGVWjrjYkt%2FiF9TALWuYdH%2BkAoomgEt%2B%2FtyKloQGx7vqgxzvx%2BldPuP7YoUXeKBTACU%2BtwOkaNlBBbcd27wLlJBbMfGVIh916NvDUTtTI3entNFbXPKf%2FIjbYpNFXCjOBOEBoyj2eRG%2FgMdmfSxPQ%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3byU0ADbLNzIshbfJrUbCQmCcyookUJvJfi3KUKF%2B4rasnsaP9aBwvJBN%2Bddl9JmHkUtMKo9QW2GGvyB68Lblapsd0u21oVMQW2ISYNPeIIn%2F0uHVInIPGisyqiW9VvGwelCqne1uMIVjUbXGDS3d6OEUao1S95aQ9HQVCDjxNVA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh02vZ5q6B9exok5XkS1UJhf7N79IKbdrcvY0ZjU2%2BHHQxpSiyLU1fibQM1G2urvatx17%2FF1Vg0fLLR6BPmjKfy%2BkF0JTkBEUeIGfY48MBJ0rHU6aBskTWSEbKL6b2saIPXDQUnJ4ZuNXND1GlqsM%2Budy6ff3m49s66h4lVUpM13MQ%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -594,7 +601,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsuPc5zO3iOg%2BY99i7llcBm%2FbVAIERVdQTFPP8esbbx%2BPywmxDkruLX5AoRvcsB4e6a50UCBs9fWCbUdoRJa8V76KZ9qpUDIio%2FoOKm8eOxwKwL2JXW3zqFZOSS9u7Xpzuc3OR355Zc7lBHpncFai1C0I2qjWXtgbxdKUCd91o2TBw%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsvdjaP9IXY11e26FWnYmn15Ux7S6oChPdu%2FPRJIFEbu5OWmkIZMN8cPf7AmKrP3C7Ro2L1xvsTHW8HcCual%2F4PmH9WLiKRfZYpn66nAONH6KAwZZ3DsIpURVGFPZSlnCD3nIlUFKrc%2F3Bdn5nTFcyNA6mI0pjFE96ou70fTFjXxqA%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
@@ -673,17 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/adherents-10-de-reduction-immediate-sur-une-selection-de-tablettes-android-3451321",
    "posted_at": "2026-11-11T09:00:01+00:00"
-  },
-  {
-   "title": "[Possesseurs de Kindle] 20% de remise sur les Kindle - Ex. : Kindle 16 Go - avec Pubs",
-   "price_raw": "124,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/possesseurs-de-kindle-20-de-remise-sur-les-kindle-ex-kindle-16go-avec-pubs-a-12499eur-au-lieu-de-15499eur-3451890",
-   "posted_at": "2026-11-11T08:07:55+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1708,
-  "models_with_reference": 39
+  "listings_seen": 1707,
+  "models_with_reference": 40
  }
 }
