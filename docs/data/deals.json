@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T12:38:00Z",
+ "generated_at": "2026-11-12T13:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-12T12:38:00.682343+00:00"
+   "last_ok": "2026-11-12T13:08:00.650318+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T12:38:00.682343+00:00"
+   "last_ok": "2026-11-12T13:08:00.650318+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-12T12:38:00.682343+00:00"
+   "items": 380,
+   "last_ok": "2026-11-12T13:08:00.650318+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-12T12:38:00.682343+00:00"
+   "items": 11,
+   "last_ok": "2026-11-12T13:08:00.650318+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FPQ2wSHkm7g25c9qKvML2v%2FyrgLBB6tjhoOu7TXr1%2BLAXgCDXxgr%2FeVLTK%2FgiYxgvE%2BixiNmNTY3FN14%2FybsgDSAMw2Xjx%2FGZKWln%2B%2BQahhLWPAmswZXvidYdu%2FJ2LLLglhuyzP2xk2GgcUNUw%2BJ3%2FQolBNzJBJPZQZBwA9mAjCg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B95%2BeJdyLDD5VDjjD5MsGhS10N6edNlnYgSvJYUTmzsbvtfvne28VWHCokqmST0ZAyThuLvi4XK%2BtCqZgOOjpRKQ9sTsxI4svCJ2TCkrjLEaILykLzNbbDFYCTpqoykkz5e7cXAxYRM1c6w0uLrIx19dZlZ2Hu0bPySKrnZg21qlA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -343,16 +343,23 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYvyPNH%2F1v3ncf4bbkHCJNPsnEw4bV3vooUrhumdaia4nkl%2FtWHBpiPtNq4PFVHAvLC0nobIFZwonzuMuNT0jYMPtuoF3wR1DByCxoZRY2A5CaniY0ALZo8MMlBbFPeGyWz5uY%2FSNBbdxn4VtelSc2R",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbp3uDpRQ9WlHbtSmCMVBbruPpFTv0oE88ribEYSDEmoaEHN%2FCr6FskqtT3CNsb45rMaUzU8FoGliMHXFxVyyneb60O66UKJpQGuaBLRMw9UIcY1H1xQXdAPE19AumoM%2Fz3oRyYLsZOZiiIsgIE7wEy",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
   {
+   "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
+   "price_raw": "159.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk7WXLo8un9qpFpO%2BTxmHaeGq76Evw--kcabUMPyaJZbD0A%2BVfFQlbgJehzuN1ygw5q0FS2%2FnCxlVevj54HLCpsfyVwd%2Fy2LE9XiRek9W6sgh5b0TUnY%2FD%2Frs62a4piiKtH2OAyYXjJ5BsAAdpa%2F%2Bq42mFE6I5gw4i7Gu5wblJ9z4A%3D%3D",
+   "posted_at": "2026-11-04T20:24:41+00:00"
+  },
+  {
    "title": "Processeur AMD DURON D800AUT1B",
    "price_raw": "14.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257441105675?_skw=processeur&hash=item3bf0af870b:g:dosAAOSw~bFm2sMb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lR0JSkoWkdL4kLB2fz%2F0GqihTVqVSgYQYY4txJy3%2B40mepj9wIdJx7XGhyCq%2ByK8xgnw64bI%2B3USiSjd%2Fdc9ey94xi1HBrFc7KscaML4csYziOAsztwuTsyt1LWZVj8zPJLFtuCLW5LprGfPDza9y5xQ3W3Dj0M1XIegxwX7G4JXKpYyY8X9gAgucL2d5CvioNqfLbFVZNWSI5%2FOVVXm4Ln72kB9lI6gG0JQf0o8noYvLUmiYxJAXAGAA%2Bw%2Bb1lyqUNSNsYU7PXMTJ7A9ke9Qr5LXcW2CYz8y6axNnP0Aktg%3D%3D",
+   "url": "https://www.ebay.fr/itm/257441105675?_skw=processeur&hash=item3bf0af870b:g:dosAAOSw~bFm2sMb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lR0JSkoWkdL4kLB2fz%2F0GqihTVqVSgYQYY4txJy3%2B40mepj9wIdJx7XGhyCq%2ByK8xgnw64bI%2B3USiSjd%2Fdc9ey94xi1HBrFc7KscaML4csYziOAsztwuTsyt1LWZVj8zPrgHGX%2BR2%2BayB6FsOSnSG5zT0Px%2F3SxESalJtG%2FZlmDNeJJ%2BU%2F%2BkGYJbN342nNpDlxoBKJ3nxO%2BlCUWiaSd5%2F4sAF0FoWA3VFwprXXhCTtvxrqjHd6F1jlOf4PKfWaGHqFvvuATE8CqtFKwzKK1OOt1SwE%2B6yhZOkzsAWsgn34ww%3D%3D",
    "posted_at": "2026-04-03T15:23:18+00:00"
   },
   {
@@ -545,6 +552,13 @@
    "posted_at": "2026-04-14T19:07:06+00:00"
   },
   {
+   "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
+   "price_raw": "44.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGpoWh74KCLF4U3KUKPrEW%2B8%2BoGbQzZ7b385%2FiQxOFDfzxDQh858OxXPjlcGKtR65%2FznfUipv2eNFLalaYwi3eJrNUurnsTLnAoME%2FEX1eeU55uYaQ046n0KHMFoKbRB2FKZbq7R4PWhMTkh05x4gpEm",
+   "posted_at": "2026-11-10T12:11:11+00:00"
+  },
+  {
    "title": "Carte graphique Gigabyte GTX 1050 OC 2GB Garantie 1an",
    "price_raw": "59.99 EUR",
    "source": "ebay",
@@ -611,7 +625,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtndPgeHX4%2F85Bb2uIF8KSF%2F89mIMQcVJ3FlBRDwyx%2FN9z3HU6wM9zqn8LEtMeNjewpsninUwOhc4EOlfeAxFeIo5WNgl%2Fru1jYC3HZZ7tR9%2Ff58XKTU69n3ROPQov0q1v2qW4BXvPew%2ByIyySHwoO2SgbjG0j4NYlkijoxhFhwa9g%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtmJuhLlEdcWTjX9y0ZIVxKvjIvdk%2BEXYCV1bojab3W1TdW4vlxsc%2F5J5U05Ef20HkNkQB5oC7xKSCo8vbjh5iT4Gi5kcm0EDchBBJRpElfwVuooK9wnMN5P9h2xMBaFCYI5I6XRpPKxh7WN0h0uMfli2GbXOnOxxXAEliVEBhovZg%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -683,24 +697,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/257847643167?_skw=carte+m%C3%A8re&hash=item3c08eacc1f:g:zEgAAeSw3EBq9Kkm",
    "posted_at": "2026-11-11T17:49:16+00:00"
-  },
-  {
-   "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
-   "price_raw": "29.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh2hKtVaiUOg%2Bb%2FzppT4h6GrLySY%2FOqus61K8EB8xhMlQdm1HHyXX1rfEbGmpoSLiwJQL349DcRmPueXRkJADsa5fZyq9o7os%2FDv2MjC81YFFpi3j3OddUj2OKbQOzqDVTOkLdwQ5kl--EiOfukxKOv%2BiwRRAOqcqMqb8v8CH7S7YA%3D%3D",
-   "posted_at": "2026-11-11T17:38:44+00:00"
-  },
-  {
-   "title": "Tête Thermostatique TP-Link Kasa KE100 - Connectée, HomeKit, Alexa & Google",
-   "price_raw": "27,54€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/vanne-thermostatique-connectee-tp-link-3452419",
-   "posted_at": "2026-11-11T17:16:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1683,
+  "listings_seen": 1681,
   "models_with_reference": 41
  }
 }
