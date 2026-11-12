@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T06:38:00Z",
+ "generated_at": "2026-11-12T07:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 341,
-   "last_ok": "2026-11-12T06:38:00.623590+00:00"
+   "last_ok": "2026-11-12T07:08:00.619125+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T06:38:00.623590+00:00"
+   "last_ok": "2026-11-12T07:08:00.619125+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 393,
-   "last_ok": "2026-11-12T06:38:00.623590+00:00"
+   "items": 390,
+   "last_ok": "2026-11-12T07:08:00.619125+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 75,
-   "last_ok": "2026-11-12T06:38:00.623590+00:00"
+   "items": 39,
+   "last_ok": "2026-11-12T07:08:00.619125+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bw8f8zO9tkgo546HnJ6FuVY5yqlxbdJRKjjpOnPvhIiwHwLqKqRCuxbudVeMdIimPhmZI%2BD52jq9pV8GeZkEii4Ny50z4pnZ2nkExl15Cn9hkZfNlJ%2Frzkvlq0X59U19%2Bf0OFTt0p%2FgScBHPmvmOL%2Bctv0YMFwTQcv82iM1QV4iA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9dVv0ObyRnLMabHh9w11j3uBLVgbolwYQPFJ33tmEy0X8pHBQMX5yug4fiABB%2BT8vDzD90aI%2FSdEaufIkTJa1QMKfLec8zVHgQAjjCyI4lDSpRwh3d5IXZ%2FDUJ8o1BzhyO5CWr2oD1o0NQjPXxgaCSYTY21T5iDNGIPVpIEPZ%2FFg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -343,11 +343,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaeySU3DspdjtjdqWWS2sAJJy2LvxxYpR26bujwN2HGaWD3jX%2Fhgs0EOcZGZgYUPrTRvXgFEFjnso2qaT4HgKEKH5KFAwuZtpZIo7JaMhrm3CqjUK3KIWHOtG8aj3nx3VjMY45oBcuiQ%2FMaericgNSt",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa%2BAMlzV7SoSiT%2FUwNM5Fzd3A2fEd7L9fBclBwe%2FanE4oxKAklJpydk0NqnlhbEfoO1cYOuXPGG0w5uU0igKma%2FGH4JrRwiDnWfwsxDO0O5a1%2BTkp5%2BIFZSLQyZCbXg5DU%2B87QqmQtWiEuiVgv2rl%2Fi",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "SK Hynix 16Gb LAPTOP  RAM PC5-4800B 1Rx8 DDR5 Laptop Memory HMCG78AEBSA095N",
+   "price_raw": "134.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267841350827?_skw=ddr5&hash=item3e5c96acab:g:05IAAeSwQrZq8cVw",
+   "posted_at": "2026-11-12T06:49:57+00:00"
+  },
   {
    "title": "PC Fixe Flow Up Savannah - AMD Ryzen 5 5600 , RTX 5060 Ti 8 Go, RAM 16 Go DDR4, SSD 1 To, MSI A520M-A Pro, Windows 11 Version d'Essai",
    "price_raw": "1 049,01€",
@@ -415,11 +422,11 @@
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGoAW2PGRQ5xwgZHHJbAg9ueBvc01UTJnoZ2JNsM3tL8JB7IzQGkJmAPfJM%2B6jgR0gA4bpiS5vxIwh1o7gbALXlM0F2CPFjnjZOunqX457RgGWBjMve8xUdw1cQ%2BIzGLvqFOWpyOt1Tlkwj3OOUClbL8",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGpq1B2xU3Y%2BwF5rJHgGLgKmJp3Z0VamMN6G4xtT3YfW0dc4uLc6tU%2BKk7YtNLaYlEvZUUv%2BTocFgJm51RzCoMkwMVAV3IW8df0Faw2M%2FgyeAdDPkiNUB8JhhRNhIkyJMXzj8UjarjPcf8Mmi1wiL6aX",
    "posted_at": "2026-11-10T12:11:11+00:00"
   },
   {
-   "title": "Logitech G G502 HERO Souris Gamer Filaire Haute Performance",
+   "title": "Souris filaire Logitech G G502 Hero Gamer - Haute Performance (Frontaliers Belgique)",
    "price_raw": "23,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/logitech-g-g502-hero-souris-gamer-filaire-haute-performance-3452704",
@@ -431,13 +438,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xtzzb8/headphones_bose_quietcomfort_headphones_bluetooth/",
    "posted_at": "2026-11-12T01:39:25+00:00"
-  },
-  {
-   "title": "Leclerc imprimante HP Deskjet 2910 jet d'encre et wifi a 29.90 au black friday",
-   "price_raw": "29,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/leclerc-imprimante-hp-deskjet-2910-jet-dencre-et-wifi-a-2990-au-black-friday-3452675",
-   "posted_at": "2026-11-12T00:28:17+00:00"
   },
   {
    "title": "Boitier PC Endorfy Aquarius 8000 Corona",
@@ -492,7 +492,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtneR8mgUHrZKp06EpQJBtjd01yIMVXHVdGmT74RSVnBXnboY4fVC8KD4fY1CLDzjiJrMDD2wt0HsLwfE1IRFmD0KGwTBaVeTS1SfUncM3iEXhGX0rKqu4EF0qkNgiDgUknPncjZnzQOKWc8l%2FXQSC1G5eNzDCIAjJ8HsDxd7qP4Lw%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtmbBioGzKzLRR5YVcXZ%2Bntg7SziUwRI2vi5phS8f6YopevO2jTT49ndPR9GVdU9ZtngZOlh00%2FcJ8zfABjsJnpFKApY6%2B0CReG9MqYnktheYPmdgf2Oa%2FivBRXMTjCINpvL%2BBQmGYFiAhddPYdd0f3vGq3hf8xSqo3YXgRV8LkJFA%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -569,14 +569,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0HLQXMs8G25dj%2Bkt8dFsbrTZaTy8y8ft6QXyTvLEqGSRTkJGRndY5qg%2FxDquTkDWWgyARI1QuCNvpyKeywtQ3pHD9hIg%2FRbMLK5mxgaci8QXwpOcct7Ms8tYubNIIofGQYpS5igT0mSOSflD3wakLx8gY%2Bs6q%2Fy0OE5y1BOIC6mg%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz1jR4ZvEIPi%2BZdOE71Q3iHAclPOzdgppy4eNNH4WYOi%2BCv4xsbSz50%2ByRv9XulkhZSaYNRx3K7RK%2BEbOQfDlDiqRs9rwtWEHG%2BIW--g7cNEDXrGEr1%2Fp%2BE4VDw%2Fo1B%2Fwcku2vv4zK8Gmcpczhvvm0LeAN9AqXZyKpwDMn%2BBBQ9Eeg%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh227wN2wKXJRfbUFEaY9pnhHDrie4p6vjNU2daNf0B2Ng3%2FD0sZbFLFwZbacUmihAsluN227tDdIwJTuqc80u9s3evnbxfKjahswaDxyBje%2BC3RceTCWA66TyFgZrjNVUD3XY45PMUeXO1qXMxxQ7uBh4dcxokiTQvscYOK1qPs6A%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh1ZfnDGWf88kaWaeooeMSLEFfUzVdJfo8O0mm8BpKLqgTj3f83SH69QdKRbWDU1%2B1g7GUuKeUa84L%2BjINF9qS9B5Aem77PZKNzUoqs7ylTuU379O3D2p4Cpch2NnqAMGGpIRWACWSAqwzLEDcC6QQIx8o4j940GC7Xdo9%2FCg95D8A%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -678,6 +678,13 @@
    "posted_at": "2026-11-11T14:03:28+00:00"
   },
   {
+   "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
+   "price_raw": "66.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsuxgp2YudNT6v56fY3%2Bpn1fyE9eNCrsC96FUbVuALTH1hxsPub8Ld5HpsZpg1GxsiGy%2Be00OMlOu8QO1N1f2RGyGhu4zV9FiaRxA4vu1utM33AjlMJeGPHkV94HoBF6v%2BvI3xZkp%2BY4B%2BaaAVw0d5WUb%2BqtFULOJ7jxoAxzKsG1wA%3D%3D",
+   "posted_at": "2025-03-04T13:03:51+00:00"
+  },
+  {
    "title": "PC Portable 16\" Gigabyte A16 Pro - Intel Core 7 240H, RTX 5070 Ti 12 Go, RAM 32 Go 5600MHz, SSD 1 To, QWERTY, Windows 11",
    "price_raw": "1 728,15€",
    "source": "dealabs",
@@ -690,17 +697,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xthmp1/cpu_microcenter_in_store_only_amd_ryzen_7_9850x3d/",
    "posted_at": "2026-11-11T13:23:12+00:00"
-  },
-  {
-   "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
-   "price_raw": "33.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920130493779?_skw=clavier&hash=itemd63c0d1d53:g:boUAAeSw3slq9GyC",
-   "posted_at": "2026-11-11T13:24:30+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1700,
+  "listings_seen": 1696,
   "models_with_reference": 41
  }
 }
