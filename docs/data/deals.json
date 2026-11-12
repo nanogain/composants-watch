@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T11:08:00Z",
+ "generated_at": "2026-11-12T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-12T11:08:00.723862+00:00"
+   "last_ok": "2026-11-12T11:38:00.683928+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T11:08:00.723862+00:00"
+   "last_ok": "2026-11-12T11:38:00.683928+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-12T11:08:00.723862+00:00"
+   "items": 385,
+   "last_ok": "2026-11-12T11:38:00.683928+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 72,
-   "last_ok": "2026-11-12T11:08:00.723862+00:00"
+   "items": 0,
+   "last_ok": "2026-11-12T11:38:00.683928+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B2G35mJcunHc9J0AcvBQrdoFz6aSfCjP%2BMv82l9Sz96Gc3M8WclRjXR7Uj9uS9%2BdjSu4udgzqCb5NNVzrK%2BIBfgLBgh933gBa5Oyi9DxMBkTT3iZrP0eJNUkNyd%2F1J5XiXsP0W%2BCfUg17Kja0hdYpBJlHvB0oURReBC3ZEilesnQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FVrs629lf3C8ROGqdvsxQMv8sgT1wA6%2FqfxjZfORPzII%2B0CTG5UsoPo5SOaz2Y0iMSg3duL1Jd8rzZsoAeYEiELsOUySa0pMEOLyKNr5%2Fy8xZB8hBkGoixH1LHkCLnuHgjD%2Bqt0XgdcXx4dD%2F7Dc4%2FTi5MTHYT%2FnGHtd7e6r2FPg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -343,7 +343,7 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa%2BtrdFvs%2FfVJ1P668mHfLv0vt26%2FEh%2F4bKpaUwvR072PQZpAF0032sJcYz%2FflrW7Weo39r67667IPgqCplmgHlmmmEf9F4lvvcfIm9ALuABXr9%2FO5ErrirhJrs%2B%2BiON5D7vgwHKCVhKj6HVDVlqSJg",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIai5WMeg9RkUkJoaUwwPqDjUomP%2B9NOB7L3F3qlkjHS19LqYb2hPUnbKmDURaMwVDMNaKmKqEQxLGdWmvlsjTEAyejd9%2Bm%2FKHyxCkE%2FRnPY%2FpjOz8cyTgW7%2B%2FXNzRAE6RDFHMGAx9TynlTJZlpSh539",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
@@ -520,7 +520,7 @@
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGqbD7B5%2Fnv72KlKTXzKBdE9Pa7zyYaknXe2sgEhGx1k5RMuMvopRHfVX6C0bK6bxr2e%2ByIarhhnAwQ%2BNo%2BS6U%2FGDVCcA%2FT6cpadCEAkRkslZsCYYpaGfBhgvQhj682M%2F%2Bwq%2FXXcGU8GmcU8dG4B3n0i",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGrwRKTTyQX35I3zQpbhLFeEtNkP5xIAGkDs5pmXyNnzq9jXWbpf0bcKAoy%2BJ6roGe456YRcxlF7%2FgY7qwjzoAQKw2oPCUkd2yz2ATr0Dbm%2BxS727tVTJNAQ64YQV%2FPL7Ih4XdjEqcMSZug8O9ct2%2FeG",
    "posted_at": "2026-11-10T12:11:11+00:00"
   },
   {
@@ -576,7 +576,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtmnNV3hUnIX8QNLulM9oNtstx6ZyHEclYOOVUWYUSmhAWKGE29nvIQw3%2FuGRvwKzYtFE56BKN1VLSabeBxL1%2Fj8WTaCc16MItJg2NY7Hl4W1R3hNRVpV%2Far2csLd2qAwJnP%2FO8uvFRg1tdxo6T8IQv59nIcdrnf6zzHxnppZpeZ%2FQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtl65XCRkHTvxj45DSXwmwTJJiMP%2B%2FuTnoHb9HOC%2B4EKHx66GsZdLzOwhVd9MxQnl4fZeUVDsexzEmXh6IdOoVIHUfKLjGMWjDrrD%2FB8h85%2F3GJL8IfSkl7vnWdTiN8Kb8Qn7YRl3zQhACiokxyFpwkZh9AmZwtwtD9zagl0PjcSJw%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -653,7 +653,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh0sk865cx3%2BG4xWalABaNpcflqOn31gKdUskPSsIXSM855XAAv2LJcJusY2tcSZ4I%2BtUKn%2BFx4WB34KLavfBYU9JWfgCnhp6SVhG1Wo4PtaOK2avU5yUBH%2B1Y6ZhcSw3l32HXrYLeF2xrfNV4loXpWEY9sdG6%2FzT4FJM8x6LrGV2Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3FpCigh7RNJrXqgdlyrsEr8sk7Mk0ZwWLvQrGyWz1VjBs5%2Fplo7PYCC1EWQpVOM6BlZP28rLQuOsaAQsP5TluD9%2FW3VodqwE35hKLU2oBAEEjELjVYKH9oNyHFXkr%2F9Ew14WrGHcXeG8XhR79ARu1lN85UaRg4GMvu2bWlKiq%2BEw%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -669,13 +669,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xtn1ze/gpu_msi_ventus_geforce_rtx_5060_8gb_gddr7_29999/",
    "posted_at": "2026-11-11T16:58:39+00:00"
-  },
-  {
-   "title": "SK hynix 32 Go DDR4 RDIMM ECC Registered 288 broches PC4-2666V HMA84GR7CJR4N-VK",
-   "price_raw": "62.06 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267840849499?_skw=ddr4&hash=item3e5c8f065b:g:l2gAAeSw9RFq9Jhb",
-   "posted_at": "2026-11-11T16:39:34+00:00"
   },
   {
    "title": "Samsung 860 EVO 250GB mSATA SSD Mini SATA III PC Laptop",
@@ -697,10 +690,17 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xtkae6/cpu_amd_ryzen_7_5700x_8core_34_ghz_socket_am4_65w/",
    "posted_at": "2026-11-11T15:14:22+00:00"
+  },
+  {
+   "title": "PC Fixe PcCom Ready - i5-12400F, RTX 5060, 32 Go RAM, SSD 1 To, Wi-Fi 6, Windows 11 Home",
+   "price_raw": "1 179€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-fixe-pccom-ready-i5-12400f-rtx-5060-32-go-ram-ssd-1-to-wi-fi-6-windows-11-home-3452302",
+   "posted_at": "2026-11-11T14:43:48+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1690,
+  "listings_seen": 1683,
   "models_with_reference": 42
  }
 }
