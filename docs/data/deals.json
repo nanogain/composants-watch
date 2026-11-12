@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T17:38:00Z",
+ "generated_at": "2026-11-12T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-12T17:38:00.681835+00:00"
+   "last_ok": "2026-11-12T18:08:00.671972+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T17:38:00.681835+00:00"
+   "last_ok": "2026-11-12T18:08:00.671972+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 373,
-   "last_ok": "2026-11-12T17:38:00.681835+00:00"
+   "items": 371,
+   "last_ok": "2026-11-12T18:08:00.671972+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 69,
-   "last_ok": "2026-11-12T17:38:00.681835+00:00"
+   "items": 0,
+   "last_ok": "2026-11-12T18:08:00.671972+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BoUgind5JxBkr47DKKoSKHcak667KKN4IltgdinCDAg2I79q564ONcRM9BJ0ThfVUwEz2d2nBmgdsBIJ%2B6tmCGG%2BgSRd%2BP69SCraZZDD4M7AQL9u2%2FiLLUQ0mAZcoj1C53Ne%2BRYEXO93ekgnbQ2o24TpyVamMT7mNOPlzA9IrB%2FA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FhWoEXSqhTEP0Wduj8THEhCExzgAPk3fRRIUMA1VjHK6fSxjd3CDvqV5ux0PQanR%2BsTIj0PW1hV8nmJ93gkXzZKK6LtDzeqvDwbfERCAHgL1uNgH%2B7wypvaSwtbfQ2tk%2Fyir6n9czC92UN9K2i7wA4ZhMDNyDeDGRvbFLkWqEazg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -150,8 +150,8 @@
    "price_eur": 24.9,
    "shipping_eur": 0.0,
    "effective_eur": 24.9,
-   "median_eur": 39.88,
-   "discount_pct": 37.6,
+   "median_eur": 38.99,
+   "discount_pct": 36.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · recyclageinformatiquesologne (pro)",
@@ -292,11 +292,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZa2TN4a%2F42IG%2F2jMan%2B6xmJJmIVDp%2BkFdlxhVjcEWJRfTp7u87ZTm18XPGpFHBICgAP2pUTB1ND79%2FMtzSqAu8Y3i296mCNF0iuvrkCK%2Flm2Kwu6kmHQAyDmpN1%2BW2%2FOB6OlNU6ANPeVZb%2FHAhSwGh",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYyc9M%2FC8T39je%2Ba09C3g%2Bw8p9SG3%2BDCyR%2Fp%2F%2B670l7bDjgNzHuIRNmJNskyjdMI2CN%2BRiZnQbkn3mN%2FukKTCuitZeNs78Ox%2BI6ecO6oRZCTIE1cq3OsTvh%2FstoGYqLLtngSfXNaYXJ75r3ITFlvChz",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "KEFEYA Triple Écran PC Portable 15,6\" FHD 1080P IPS HDMI USB-C Neuf",
+   "price_raw": "176.46 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800906993904?_skw=%C3%A9cran+pc&hash=itemba79c6e0f0:g:frgAAeSw4gNq9W-U",
+   "posted_at": "2026-11-12T17:45:01+00:00"
+  },
   {
    "title": "Gigabyte GTX 1050 Ti G1 Gaming 4 Go GV-N105TG1 GAMING-4GD Carte graphique",
    "price_raw": "47.50 EUR",
@@ -333,7 +340,7 @@
    "posted_at": "2026-11-12T16:08:29+00:00"
   },
   {
-   "title": "HyperX Predator 32 Go (2x16 Go) DDR4 SDRAM DIMM HX426C13PB3K4/32",
+   "title": "HyperX Predator 16Go (2x8 Go) DDR4 SDRAM DIMM HX426C13PB3K4/16",
    "price_raw": "89.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/900085939821?_skw=ddr4&hash=itemd1914d7e6d:g:9WwAAeSwio5q9ekU",
@@ -420,7 +427,7 @@
    "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
    "price_raw": "159.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk4Af8VI5JTUv2UWLNEZwacvtIsyIpVGo82038jVlXRpYIY73Z6uaeld8VLcqyBtNIK3h5jBxh3Os0IlsDmm0Y%2FVNRQzwSqDcQee3BACBhbYU0ryNd7meSNVgAbq0sTHJZC1K96E%2BuPWxBkeZvtkSUzquuyHlp5fsPTec3aKATt65Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk5%2BdUnFY1ADY9z2k7FwbvP27BToYkZCUte1l9DdtBn9n5PhftcajtOSiCUm2YrN2FneycLof35pgGFNBbAJEeUlpRoPfpNoMoXe%2F9um5KZ19fleRmW0xQR%2BNRAfEXuoH4%2FUiAtHZRDbbml%2B0LOZXvRMoW8J3PA4JnaTQtdS5EApSw%3D%3D",
    "posted_at": "2026-11-04T20:24:41+00:00"
   },
   {
@@ -616,7 +623,7 @@
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGqd31H8uh9RAEClbXsbY%2BrAbleGMSaOGRU51YjlJDMG2xyCJh%2FeHhZO3YiTlF1rMHp3P48A9chsxgcIGEOrps5uYbknfE7gJmGoPhg2KYrLmJH1B9ZDHSuU%2BIKoW3LR2g6y%2FfwDbKxivdufKi%2FFqDQm",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGrO6ONwUjJMmbg1DYzUXOFsXAVOjDllwPIUOy3DA9fesHqXEorFl2OnES8J0ZjMiOhdKjpWbDKc9xVaVJLQNO3RSwz5Tpl5wNL0%2BVtikheabU8eihUYn00su24XXiroK5QbaL9ico1q6ykATFEaGK0J",
    "posted_at": "2026-11-10T12:11:11+00:00"
   },
   {
@@ -639,17 +646,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/endorfy-aquarius-8000-corona-boitier-benchshow-3452663",
    "posted_at": "2026-11-11T23:24:49+00:00"
-  },
-  {
-   "title": "PC de bureau CSL Sprint 5548 - Ryzen 5 7500X3D, RX 9070 GRE 12 Go, 16 Go RAM DDR5, B850-S Wi-Fi, 1 To SSD NVMe, Alim 700W Gold",
-   "price_raw": "1 498,70€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-fixe-ryzen-5-7500x3d-rx-9070-gre-12-go-16-go-ram-ddr5-b850-s-wi-fi-1-to-ssd-nvme-alim-700w-gold-3452629",
-   "posted_at": "2026-11-11T22:20:52+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1675,
-  "models_with_reference": 44
+  "listings_seen": 1676,
+  "models_with_reference": 46
  }
 }
