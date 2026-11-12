@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T10:38:00Z",
+ "generated_at": "2026-11-12T11:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-12T10:38:00.665037+00:00"
+   "items": 344,
+   "last_ok": "2026-11-12T11:08:00.723862+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T10:38:00.665037+00:00"
+   "last_ok": "2026-11-12T11:08:00.723862+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 388,
-   "last_ok": "2026-11-12T10:38:00.665037+00:00"
+   "items": 387,
+   "last_ok": "2026-11-12T11:08:00.723862+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-12T10:38:00.665037+00:00"
+   "items": 72,
+   "last_ok": "2026-11-12T11:08:00.723862+00:00"
   }
  },
  "watchlist": [
@@ -69,7 +69,7 @@
    "discount_pct": 51.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 177 avis)",
+   "merchant": "eBay · fastseller59 (100,0 %, 178 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:HoIAAeSwa~5q9K1t",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B87pJ0hUwXo3d6iE3tOIycXL1PEsGNslUk9SNpuhv2uV05McG0SJEcmabcxho1Z0JW2T2BwWAFvy3hQTH6qhuF%2BISgEkNX4SB4kLyjc7df%2FV78d0z1PtByDRvzKUDeTLFmnudcl%2BNYoWSlh12N7cR9%2B3ygcfdG0mgT7GEOEN9kW1w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B2G35mJcunHc9J0AcvBQrdoFz6aSfCjP%2BMv82l9Sz96Gc3M8WclRjXR7Uj9uS9%2BdjSu4udgzqCb5NNVzrK%2BIBfgLBgh933gBa5Oyi9DxMBkTT3iZrP0eJNUkNyd%2F1J5XiXsP0W%2BCfUg17Kja0hdYpBJlHvB0oURReBC3ZEilesnQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -343,11 +343,39 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa9YLLwPsXdYguiSzuC%2F7fZZ9sJpJ2H06aLs%2F8JcD3vBGCQYZdjz7cIxaRxjxqgWoRG1402W3XziAwreKNuolUWGiHJQTiJd7W7ENRUfyQcplc%2B4dPYSKU4a20LCog10ELdqOizyZeI1ha8dMt6J2x8",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa%2BtrdFvs%2FfVJ1P668mHfLv0vt26%2FEh%2F4bKpaUwvR072PQZpAF0032sJcYz%2FflrW7Weo39r67667IPgqCplmgHlmmmEf9F4lvvcfIm9ALuABXr9%2FO5ErrirhJrs%2B%2BiON5D7vgwHKCVhKj6HVDVlqSJg",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, 16 Go RAM, 512 Go - coloris au choix",
+   "price_raw": "1 249,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-16-go-ram-512-go-coloris-au-choix-3453092",
+   "posted_at": "2026-11-12T11:03:25+00:00"
+  },
+  {
+   "title": "Souris sans Fil Pro X2 Superstrike",
+   "price_raw": "149€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pro-x2-superstrike-naviwin-3453038",
+   "posted_at": "2026-11-12T10:48:00+00:00"
+  },
+  {
+   "title": "Aspirateur Eau & Poussière Mac Allister MWDV-20 L-A - 1400W, Cuve Inox 20L, Fonction Soufflerie",
+   "price_raw": "49,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/aspirateur-eau-et-poussiere-mac-allister-mwdv-20-l-a-1400-w-cuve-inox-20-l-fonction-soufflerie-3453045",
+   "posted_at": "2026-11-12T10:38:38+00:00"
+  },
+  {
+   "title": "Samsung 8 Go DDR4 SDRAM SO-DIMM PC4-2666V M471A1K43DB1-CTD",
+   "price_raw": "27.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168857003497?_skw=ddr4&hash=item2750a965e9:g:E0EAAeSwvmBq9Zs8",
+   "posted_at": "2026-11-12T10:58:13+00:00"
+  },
   {
    "title": "Perceuse à percussion filaire Mac Allister MCB1234DHR – 600 W, mandrin 13 mm, vitesse variable",
    "price_raw": "19,90€",
@@ -492,7 +520,7 @@
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGo%2B2mpHjDmfo3MdN%2Bz07hHO4At2AxIpoMu1VP3SgL978Ii1U%2Bffr%2Bk88pC9N1KjAi7559ccEX20WdtdKwM1YPbpk4M65%2FPDTRVAf68OpS3%2FxiBl%2FWNkdjjpDfloseIqQHGQzPhPpMisOZDhoQ4g2PxL",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGqbD7B5%2Fnv72KlKTXzKBdE9Pa7zyYaknXe2sgEhGx1k5RMuMvopRHfVX6C0bK6bxr2e%2ByIarhhnAwQ%2BNo%2BS6U%2FGDVCcA%2FT6cpadCEAkRkslZsCYYpaGfBhgvQhj682M%2F%2Bwq%2FXXcGU8GmcU8dG4B3n0i",
    "posted_at": "2026-11-10T12:11:11+00:00"
   },
   {
@@ -548,7 +576,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtkYeVMYfkYetFQkP6d5qh5bWRZiXHcGeEOMfC9vsc06FPX6ldP5N6xSr5fV2A3Lfl5v4WcRDo%2Fy4RS1QhU6GZEL6sRoGoITIE%2FpEGl%2B4LxatxPiPxFvXfMhN%2FgLPKgvxHoh2%2Bzj2KWXndL82KlF9gTdD%2B9wV76PPlxquHm9bArnDA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtmnNV3hUnIX8QNLulM9oNtstx6ZyHEclYOOVUWYUSmhAWKGE29nvIQw3%2FuGRvwKzYtFE56BKN1VLSabeBxL1%2Fj8WTaCc16MItJg2NY7Hl4W1R3hNRVpV%2Far2csLd2qAwJnP%2FO8uvFRg1tdxo6T8IQv59nIcdrnf6zzHxnppZpeZ%2FQ%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -625,7 +653,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3h%2Fm32wOdRQN8pXjAR8fwt7vPvgQ1fIOtjVGJfbvGFzya0Ln3yxCJY%2FMZTO4rSmEeNB45BOf16vSTy8tPU6Pw5u7OLqfyHuBehlXpPKQO7oWCUecBu75FxVPRk%2BbC4RQlTgE%2F3RVpuQtN8RAywMH6uA%2BD2rwwnN0mZ6THSo4iEKA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh0sk865cx3%2BG4xWalABaNpcflqOn31gKdUskPSsIXSM855XAAv2LJcJusY2tcSZ4I%2BtUKn%2BFx4WB34KLavfBYU9JWfgCnhp6SVhG1Wo4PtaOK2avU5yUBH%2B1Y6ZhcSw3l32HXrYLeF2xrfNV4loXpWEY9sdG6%2FzT4FJM8x6LrGV2Q%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -644,7 +672,7 @@
   },
   {
    "title": "SK hynix 32 Go DDR4 RDIMM ECC Registered 288 broches PC4-2666V HMA84GR7CJR4N-VK",
-   "price_raw": "74.54 EUR",
+   "price_raw": "62.06 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267840849499?_skw=ddr4&hash=item3e5c8f065b:g:l2gAAeSw9RFq9Jhb",
    "posted_at": "2026-11-11T16:39:34+00:00"
@@ -669,38 +697,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xtkae6/cpu_amd_ryzen_7_5700x_8core_34_ghz_socket_am4_65w/",
    "posted_at": "2026-11-11T15:14:22+00:00"
-  },
-  {
-   "title": "PC Fixe PcCom Ready - i5-12400F, RTX 5060, 32 Go RAM, SSD 1 To, Wi-Fi 6, Windows 11 Home",
-   "price_raw": "1 179€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-fixe-pccom-ready-i5-12400f-rtx-5060-32-go-ram-ssd-1-to-wi-fi-6-windows-11-home-3452302",
-   "posted_at": "2026-11-11T14:43:48+00:00"
-  },
-  {
-   "title": "[Case] CORSAIR 3200D RS ARGB Mid-Tower PC Case – Smoke | 3x RS120 ARGB PWM Fans Included, GPU Anti-sag Stabilization Arm, ASUS BTF, MSI Project Zero, Gigabyte Project Stealth - $49.70",
-   "price_raw": "$49.70",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtk3wr/case_corsair_3200d_rs_argb_midtower_pc_case_smoke/",
-   "posted_at": "2026-11-11T15:07:26+00:00"
-  },
-  {
-   "title": "[SSD - M.2] Samsung Geek Squad REFURBISHED GOOD 990 PRO 1TB Internal SSD PCle Gen 4x4 NVMe - $139.99",
-   "price_raw": "$139.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtk3gd/ssd_m2_samsung_geek_squad_refurbished_good_990/",
-   "posted_at": "2026-11-11T15:06:58+00:00"
-  },
-  {
-   "title": "[AIO] Minorsonic CPU Cooler 360mm Aio, Liquid Cooler CPU Low-Noise AMD AM5/AM4, Refrigeracion Liquida Water Cooling Systems, Intel LGA 1851/1700 PC Water Cooler 3 x 120 mm PWM Fans Black - $37.03",
-   "price_raw": "$37.03",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtk071/aio_minorsonic_cpu_cooler_360mm_aio_liquid_cooler/",
-   "posted_at": "2026-11-11T15:03:16+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1691,
+  "listings_seen": 1690,
   "models_with_reference": 42
  }
 }
