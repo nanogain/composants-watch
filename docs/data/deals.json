@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T02:08:00Z",
+ "generated_at": "2026-11-12T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-12T02:08:00.664692+00:00"
+   "last_ok": "2026-11-12T02:38:00.620054+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T02:08:00.664692+00:00"
+   "last_ok": "2026-11-12T02:38:00.620054+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-12T02:08:00.664692+00:00"
+   "items": 370,
+   "last_ok": "2026-11-12T02:38:00.620054+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-12T02:08:00.664692+00:00"
+   "items": 17,
+   "last_ok": "2026-11-12T02:38:00.620054+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
    "posted_at": "2026-10-12T17:30:00+00:00"
+  },
+  {
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 289.99,
+   "discount_pct": 65.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
   },
   {
    "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
@@ -109,23 +126,6 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FGS7MvCs003eQFZVEuJfsu6ChHbt0bnXTe7S2yZ2owpVdBhTtXqUShh%2FDgjwDp8jaEJIBDh8AJzKcB1%2FQOTzg7jcPciL3oRjBY34Ic7o6ZAk2wYLDR5b%2Fmj5VkuZDMrS2ojzyajOBypHKI%2BAAP04Scf57w0y4FTmzlYxU%2FMKGTqw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FIlQNFF9Whno4z9uLXeqhG%2BsW7C3qi6ZuuJg%2BAuFL2ex%2FJIvLWVSTPcM0DqhSaFRPPhRsN2GbSb4k2%2FiAdWVy7T0pb9PV%2F2YHfnTdxQCs%2FOD93uDgWjD56AzVGs9aO0QgQWXrKM9Td39iAk984PIQTWtE7VlIOaeBzbSFuWkrZHw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -326,11 +326,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbWCoOJkJ22P%2BlgKQXBy56MIGWYZ9YqLQfl28tsXqhgA3BIMoumDUm8%2FHxSQpDtxnMNyXQpziRYYjwY%2FbNUoOf0v9Dixd0Qa9h5UYItxeekp4icJppZ6nG%2FntDnV6rHg2WGbnPMLQlRa3PjEfPi8vX7",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbe%2FH2WN5%2B7PU6VvOfSmAtqOslGy52bjxvEyEvhlis2%2F1voez6BYvPBuv7dlhN3jE6YbEHuUCDIhKZTjGigWJ%2BSouQZggTDaWuGK9Rf9%2FWwYT22kqmaqMkeI0NzM%2FQN1qIUE5Q%2BmQB5N%2BkUteC5GGiy",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Logitech G G502 HERO Souris Gamer Filaire Haute Performance",
+   "price_raw": "23,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-g-g502-hero-souris-gamer-filaire-haute-performance-3452704",
+   "posted_at": "2026-11-12T02:12:12+00:00"
+  },
   {
    "title": "[Headphones] Bose QuietComfort Headphones, Bluetooth Over Ear Noise Cancelling Headphones, Moonlight Grey - NEW - $124.88",
    "price_raw": "$124.88",
@@ -365,13 +372,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/via-paypal-imprimante-3d-multicolore-elegoo-centauri-2-combo-3452657",
    "posted_at": "2026-11-11T23:14:49+00:00"
-  },
-  {
-   "title": "Kit carte mère ASUS P8H67-M PRO / CPU i5-3470 / RAM 16Go DDR3",
-   "price_raw": "52.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147676636392?_skw=carte+m%C3%A8re&hash=item226236a4e8:g:XfsAAeSwrhJq9O5x",
-   "posted_at": "2026-11-11T22:47:44+00:00"
   },
   {
    "title": "PC de bureau CSL Sprint 5548 - Ryzen 5 7500X3D, RX 9070 GRE 12 Go, 16 Go RAM DDR5, B850-S Wi-Fi, 1 To SSD NVMe, Alim 700W Gold",
@@ -489,14 +489,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0BGMVUGQBNNI9ZfOKm3NITWnGVWjrjYkt%2FiF9TALWuYdH%2BkAoomgEt%2B%2FtyKloQGx7vqgxzvx%2BldPuP7YoUXeKBTACU%2BtwOkaNlBBbcd27wLlJBbMfGVIh916NvDUTtTI3entNFbXPKf%2FIjbYpNFXCjOBOEBoyj2eRG%2FgMdmfSxPQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz14dwaVEeX8017sMBo5kzp5Behhga%2F1v5XnH7pEX%2BDKkHIRI6bqbp0KvbJpryfW%2FA%2Fk%2FoPqR4m4%2BURWxuCCE4OTnOttTjMGk%2Bd3azdikjUSQHwimrsEgIlXhDHHBTZ%2BKw4bBKo7krVGKDxUw1p7f8zRG0vq7tburXgN6flc18rbNA%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh02vZ5q6B9exok5XkS1UJhf7N79IKbdrcvY0ZjU2%2BHHQxpSiyLU1fibQM1G2urvatx17%2FF1Vg0fLLR6BPmjKfy%2BkF0JTkBEUeIGfY48MBJ0rHU6aBskTWSEbKL6b2saIPXDQUnJ4ZuNXND1GlqsM%2Budy6ff3m49s66h4lVUpM13MQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh05hmv1ZuM7kQ99H%2BbO48bnIr6CWIJubzcXDyMwWcmtzorTqrNatRGV3dN59GtnpKkuaHD7qcqD8sqSaDmqN7WVuDibOQShGZiAGE0fIax5%2FtEScXvnGs4uVokB4b8n1XD7IW9N5fOq1ptrivmS9PRvkFMMTEmKY1P6tYBx31P5LA%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -601,7 +601,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsvdjaP9IXY11e26FWnYmn15Ux7S6oChPdu%2FPRJIFEbu5OWmkIZMN8cPf7AmKrP3C7Ro2L1xvsTHW8HcCual%2F4PmH9WLiKRfZYpn66nAONH6KAwZZ3DsIpURVGFPZSlnCD3nIlUFKrc%2F3Bdn5nTFcyNA6mI0pjFE96ou70fTFjXxqA%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOstElwWQRDXNZJlk8ovs8lEhE7QHPObeO0uBNo2rfG8Vl2JsrLnEef3BfSSuON5DU%2FM13xFnCF7k3MC2RYkYSrKgBxyuYcOHuDhALVCg0bmmuveJ8QDw6fuerJTH7VorZV2%2ByFy72%2BoWkwUPHnT77POsjqQT7NfXPS%2BWvcCS4faKFw%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
@@ -668,22 +668,22 @@
    "posted_at": "2026-11-11T10:56:07+00:00"
   },
   {
+   "title": "Carte graphique GeForce NVIDIA GTX 280",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820341911441?_skw=carte+graphique&hash=itembf00302f91:g:AyYAAeSwF9Fq9Dmd",
+   "posted_at": "2026-11-11T09:51:34+00:00"
+  },
+  {
    "title": "Carte graphique Asus GeForce GTX 560 Ti",
    "price_raw": "26.70 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/820341881487?_skw=carte+graphique&hash=itembf002fba8f:g:mQsAAeSwU8pq9DeE",
    "posted_at": "2026-11-11T09:43:41+00:00"
-  },
-  {
-   "title": "[Adhérents] 10% de réduction immédiate sur une sélection de tablettes Android",
-   "price_raw": "Adhérents :",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-10-de-reduction-immediate-sur-une-selection-de-tablettes-android-3451321",
-   "posted_at": "2026-11-11T09:00:01+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1707,
-  "models_with_reference": 40
+  "listings_seen": 1700,
+  "models_with_reference": 39
  }
 }
