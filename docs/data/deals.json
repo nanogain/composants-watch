@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T12:08:00Z",
+ "generated_at": "2026-11-12T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-12T12:08:00.675459+00:00"
+   "last_ok": "2026-11-12T12:38:00.682343+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T12:08:00.675459+00:00"
+   "last_ok": "2026-11-12T12:38:00.682343+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 383,
-   "last_ok": "2026-11-12T12:08:00.675459+00:00"
+   "items": 385,
+   "last_ok": "2026-11-12T12:38:00.682343+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-12T12:08:00.675459+00:00"
+   "last_ok": "2026-11-12T12:38:00.682343+00:00"
   }
  },
  "watchlist": [
@@ -109,21 +109,21 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
-   "title": "Disque SSD INTERNE M.2  128Go TOSHIBA  THNSNK128GVN8  SATA M.2  2280  - 128GB",
-   "model": "SSD:SATA-128Go",
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
    "category": "SSD",
-   "condition": "used",
-   "price_eur": 15.0,
+   "condition": "new",
+   "price_eur": 83.99,
    "shipping_eur": 0.0,
-   "effective_eur": 15.0,
-   "median_eur": 29.0,
-   "discount_pct": 48.3,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
+   "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227169935964?_skw=ssd&hash=item34e462225c:g:vT0AAeSwOYdpY-fu",
-   "posted_at": "2026-01-11T18:22:04+00:00"
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
   },
   {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FigIiTSgMBbohPARQEf6rDKC9zcFskqCBIG81IlqNzCnOBDsugzdH0z%2BDx0ukpDNpjc1lQEeXR2moLVd0JisMX6JMOOQAv5BAopMf8WVpbQs7hVCzHBf1cfvWp7hPyZ%2B6nkBAAfok2b3OMI88hrx6USvYftAuZ4sWmhYZCMERYZw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FPQ2wSHkm7g25c9qKvML2v%2FyrgLBB6tjhoOu7TXr1%2BLAXgCDXxgr%2FeVLTK%2FgiYxgvE%2BixiNmNTY3FN14%2FybsgDSAMw2Xjx%2FGZKWln%2B%2BQahhLWPAmswZXvidYdu%2FJ2LLLglhuyzP2xk2GgcUNUw%2BJ3%2FQolBNzJBJPZQZBwA9mAjCg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -245,6 +245,23 @@
    "posted_at": "2026-11-09T16:23:45+00:00"
   },
   {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 69.99,
+   "discount_pct": 28.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-03T08:24:17+00:00"
+  },
+  {
    "title": "Processeur AMD Ryzen 7 7800X3D - Tray (180.33 via Paypal)",
    "model": "CPU:Ryzen 7 7800X3D",
    "category": "CPU",
@@ -326,11 +343,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb2QZTSOpmVA7pZK4oVQaaH%2FG1ERkKfrB8ceYzwz4ogWYScfGDpQNX3iP6iwpwSNbb8GNikAsNfp2lnxAxS3k9j3idatHgXz9D4%2Fu9%2BFHPF6nBVksgGVd3kC%2B9oCUut2eEuw3YyEKwjlu5duHvEJUFv",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYvyPNH%2F1v3ncf4bbkHCJNPsnEw4bV3vooUrhumdaia4nkl%2FtWHBpiPtNq4PFVHAvLC0nobIFZwonzuMuNT0jYMPtuoF3wR1DByCxoZRY2A5CaniY0ALZo8MMlBbFPeGyWz5uY%2FSNBbdxn4VtelSc2R",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Processeur AMD DURON D800AUT1B",
+   "price_raw": "14.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257441105675?_skw=processeur&hash=item3bf0af870b:g:dosAAOSw~bFm2sMb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lR0JSkoWkdL4kLB2fz%2F0GqihTVqVSgYQYY4txJy3%2B40mepj9wIdJx7XGhyCq%2ByK8xgnw64bI%2B3USiSjd%2Fdc9ey94xi1HBrFc7KscaML4csYziOAsztwuTsyt1LWZVj8zPJLFtuCLW5LprGfPDza9y5xQ3W3Dj0M1XIegxwX7G4JXKpYyY8X9gAgucL2d5CvioNqfLbFVZNWSI5%2FOVVXm4Ln72kB9lI6gG0JQf0o8noYvLUmiYxJAXAGAA%2Bw%2Bb1lyqUNSNsYU7PXMTJ7A9ke9Qr5LXcW2CYz8y6axNnP0Aktg%3D%3D",
+   "posted_at": "2026-04-03T15:23:18+00:00"
+  },
   {
    "title": "Souris sans fil gaming Razer Basilisk V3 X Hyperspeed Noir et Vert",
    "price_raw": "49,99€",
@@ -437,25 +461,11 @@
    "posted_at": "2026-11-12T09:45:14+00:00"
   },
   {
-   "title": "Samsung RAM 8 Go DDR4 SDRAM DIMM PC4-2400T  M378A1K43CB2-CTD",
-   "price_raw": "21.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840120712027?_skw=ddr4&hash=itemc39b18bb5b:g:4LAAAeSw-kdq9Yww",
-   "posted_at": "2026-11-12T09:55:28+00:00"
-  },
-  {
    "title": "PC Portable 15.6\" HP 15-fc0013nf - FHD IPS, Ryzen 7 7730U, 16 Go Ram, 512 Go SSD + Souris Sans Fil",
    "price_raw": "599,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-156-hp-15-fc0013nf-ryzen-7-7730u-16-go-ram-512-go-ssd-3452552",
    "posted_at": "2026-11-12T09:22:09+00:00"
-  },
-  {
-   "title": "Tablette OnePlus Pad 4 13,2\" - Snapdragon 8 Elite Gen 5, 12/256 Go, sans chargeur",
-   "price_raw": "400,56€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-oneplus-pad-4-132-snapdragon-8-elite-gen-5-12256-go-sans-chargeur-via-coupon-paypal-3452901",
-   "posted_at": "2026-11-12T08:46:00+00:00"
   },
   {
    "title": "Imprimante Multifonction Epson EcoTank ET-8550 (Via 60€ d'ODR - allpages.fr)",
@@ -528,13 +538,6 @@
    "posted_at": "2026-03-23T22:07:20+00:00"
   },
   {
-   "title": "MSI GT 710 2GD3H LP 2 Go DDR3 carte graphique low profile",
-   "price_raw": "20.43 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168831236486?_skw=carte+graphique&hash=item274f203986:g:sCIAAeSwtkVq563F",
-   "posted_at": "2026-11-01T21:28:56+00:00"
-  },
-  {
    "title": "Kingston DDR4 SDRAM 8GB 1Rx8 UDIMM PC4-2400T CL17 288 broches",
    "price_raw": "56.28 EUR",
    "source": "ebay",
@@ -542,11 +545,11 @@
    "posted_at": "2026-04-14T19:07:06+00:00"
   },
   {
-   "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
-   "price_raw": "44.90 EUR",
+   "title": "Carte graphique Gigabyte GTX 1050 OC 2GB Garantie 1an",
+   "price_raw": "59.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGrdWl%2Fi%2FV9G%2BgRKDaB%2FHCsfgiO%2BpIoUUKHAt5Yn1xYVTsoJQdk%2FoKlgHWfggt5YNITNeh6o5amTjzSiQAay2wV7cTev0O4ZCaQa1rm6ym7DQZKhKJpK%2BoXPJ0KVrZRvt22os6yarpDvLTYWQhr1ibRG",
-   "posted_at": "2026-11-10T12:11:11+00:00"
+   "url": "https://www.ebay.fr/itm/298110346725?_skw=carte+graphique&hash=item4568c2e5e5:g:7LAAAeSwf6xpsVDN",
+   "posted_at": "2026-03-11T11:24:37+00:00"
   },
   {
    "title": "Souris filaire Logitech G G502 Hero Gamer - Haute Performance (Frontaliers Belgique)",
@@ -577,6 +580,13 @@
    "posted_at": "2026-11-11T22:20:52+00:00"
   },
   {
+   "title": "Carte graphique PNY GeForce GeForce GTX 1660 SUPER 6Go",
+   "price_raw": "135.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960184397914?_skw=carte+graphique&hash=itemdf8f73305a:g:GS8AAeSwiTdq9OgA",
+   "posted_at": "2026-11-11T22:13:19+00:00"
+  },
+  {
    "title": "Station air chaud avec fer et alimentation Yihua 853D 2A USB SMD (Vendeur tiers)",
    "price_raw": "130,81€",
    "source": "dealabs",
@@ -601,7 +611,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtkNIg25IXqY8QHgZ6iFU8JZ7BHshzGhFE%2FscDc9c5j%2FToDzJkQnbSTL0peDz0LNogjFdKk7sYRtT1Is2xZbSRJ9EOtZbVOKb0qUZ3TSqxwdTt2RTER8RTtazKl51SyvdbSQeTeQrFCN%2BYjGryjoR%2F5ldFRyQCEOU%2BJen4MPfn1F%2Bg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtndPgeHX4%2F85Bb2uIF8KSF%2F89mIMQcVJ3FlBRDwyx%2FN9z3HU6wM9zqn8LEtMeNjewpsninUwOhc4EOlfeAxFeIo5WNgl%2Fru1jYC3HZZ7tR9%2Ff58XKTU69n3ROPQov0q1v2qW4BXvPew%2ByIyySHwoO2SgbjG0j4NYlkijoxhFhwa9g%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -678,12 +688,19 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh0c9JYjTuMqZ7S7VSfboxJ2FfGeV7ao2qHtXRPPMYFcYbm8xanZxJ4t32N%2BDEzVHvhYpx5yXKluOZ45ZQ0zS9ojLcYjn2YAW3YizKLWh6p39WoDeCgUjZ0Zq5p%2FYhRbBhzi7oYOsX44R5SB6nR44yQg%2BjxusrF0AC2nifbPrlChiA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh2hKtVaiUOg%2Bb%2FzppT4h6GrLySY%2FOqus61K8EB8xhMlQdm1HHyXX1rfEbGmpoSLiwJQL349DcRmPueXRkJADsa5fZyq9o7os%2FDv2MjC81YFFpi3j3OddUj2OKbQOzqDVTOkLdwQ5kl--EiOfukxKOv%2BiwRRAOqcqMqb8v8CH7S7YA%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
+  },
+  {
+   "title": "Tête Thermostatique TP-Link Kasa KE100 - Connectée, HomeKit, Alexa & Google",
+   "price_raw": "27,54€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/vanne-thermostatique-connectee-tp-link-3452419",
+   "posted_at": "2026-11-11T17:16:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1685,
+  "listings_seen": 1683,
   "models_with_reference": 41
  }
 }
