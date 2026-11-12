@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T01:08:00Z",
+ "generated_at": "2026-11-12T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-12T01:08:00.626403+00:00"
+   "last_ok": "2026-11-12T01:38:00.680938+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T01:08:00.626403+00:00"
+   "last_ok": "2026-11-12T01:38:00.680938+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 374,
-   "last_ok": "2026-11-12T01:08:00.626403+00:00"
+   "items": 375,
+   "last_ok": "2026-11-12T01:38:00.680938+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 73,
-   "last_ok": "2026-11-12T01:08:00.626403+00:00"
+   "items": 79,
+   "last_ok": "2026-11-12T01:38:00.680938+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8Gtd5HhbCm2mlkJVmHFjOwwXkKaKvrnmFb2qlMXN%2FP5AMeKVWBKSYK8sFSIaIrE9EUPqy2crJFkVDfhLq0x%2FF%2F%2By0aZ6UOW9VOZ6Ao11lyFihGa0CTTk3vvGvax0EYLW5wsGl2lKzxLcVpViAHMZAFtpu%2B7cHastpdQEir%2FUQ6tg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FuWoDo%2FFtFpOdf%2BChkqBu3F8avYtkfFzqrqMOTpmZ4MBtbschM3P%2Bqk4a7pkgdtBZJVUfOE4nYsranZXzoh4msI%2FP%2Bp3PFDs382Oz06lcYC0qVCzvDggFEmMDN55HtNtY3nb9MlrJ%2BuZ3jQNWHHga42ok6c4Dt6FKvXiPww8lpWg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -326,7 +326,7 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa8ptsYKMp1XZPzEU67BdSVwou0qey56vySQeyAMjeFTWhpg2TamTtBy%2BErQSHDKh%2FBpuURKcUJaWXDjyZ4aCLkVL7qFC4xZs3gpDrn1pT0%2FVP3VTLpheKob%2F5WmseeuGOM47Urks%2BHoH5OjWUfzP56",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYOzmujvZK5iFK7U8%2Bc3nQ9FgDrYbJVLloV5ppAKT%2B%2FSXAV2ruO%2FgtRC9TP91TJOX2g6T0enWAFKV3guKItUMm%2Fxr2Jn5Vc2RZH%2BNB%2BmFXkgziokjhS4Uz8q7707dYgxQzj7Dvw%2FV%2Fuplzvkd7V3UCG",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
@@ -482,14 +482,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0ata6i5qOdXWhmzZYdzoYlATJRzTMBRb%2BPYCf6DzMJbslHmbbzG%2BNsrEi3lXrQGJU7biEHnt3btGlSsppRJro9x35yLfTBpCmMzm%2BXKdwjvJ8uUF6GGGYSByGeSnfWGFhDtyotVExQ%2FzrV%2FVE%2F8WGqjbL5O1%2FVRNErmnf%2BYef3Mg%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz1Pj1MaaWQvcFGSSywDRjJuIyvdjw58Fen4dL0E%2FVKk7ei5n3QcdpRx7eciRZ6RWHKPq3QZspaLIgYC13Q7bUu%2BcWggamJNc1Jx4SSfW3MEipeAdqNaxXZAY0bGZB0%2FPZ%2B2PI0POPkabqnXlO7paPrG1jWrtC%2FOEcCQlwCOHlnaRQ%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh2p95bkSTOP48Q1yp4l%2FWs9JEh2QIrcwkWg8%2F0IMFLIZSdZSLSjdpnlPcS%2BZr1VIrPA4iWYo8bz5JsC0N5alcQXcSazgKtNTVTp1XgNQE49Jw5hklCzsWWvcl5%2B7m0HpGGI%2FQiuiXzHt9DHJC11jPTQx3uLuyzPY%2FK6LlvKEA2Jjw%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3byU0ADbLNzIshbfJrUbCQmCcyookUJvJfi3KUKF%2B4rasnsaP9aBwvJBN%2Bddl9JmHkUtMKo9QW2GGvyB68Lblapsd0u21oVMQW2ISYNPeIIn%2F0uHVInIPGisyqiW9VvGwelCqne1uMIVjUbXGDS3d6OEUao1S95aQ9HQVCDjxNVA%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -594,7 +594,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsvoWUU1D1IApc3KaMG5dQIibKpN7SMg9Hdd4rCHiBpJSMF7e84OBUA1sRMwCZn%2Frx1Cu8%2FfCQrEHZudFf73kf3n1oIX1sryPaoZVvmXMZkWqeqw%2BARplow6w2QGLoaarMPEa%2FhPB2QwehnWGWDNJrUNysfudAJi6R2Z15RCjTFYUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsuPc5zO3iOg%2BY99i7llcBm%2FbVAIERVdQTFPP8esbbx%2BPywmxDkruLX5AoRvcsB4e6a50UCBs9fWCbUdoRJa8V76KZ9qpUDIio%2FoOKm8eOxwKwL2JXW3zqFZOSS9u7Xpzuc3OR355Zc7lBHpncFai1C0I2qjWXtgbxdKUCd91o2TBw%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
@@ -683,7 +683,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1725,
+  "listings_seen": 1708,
   "models_with_reference": 39
  }
 }
