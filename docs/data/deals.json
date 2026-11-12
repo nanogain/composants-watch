@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T10:08:00Z",
+ "generated_at": "2026-11-12T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-12T10:08:00.673330+00:00"
+   "items": 343,
+   "last_ok": "2026-11-12T10:38:00.665037+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T10:08:00.673330+00:00"
+   "last_ok": "2026-11-12T10:38:00.665037+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 384,
-   "last_ok": "2026-11-12T10:08:00.673330+00:00"
+   "items": 388,
+   "last_ok": "2026-11-12T10:38:00.665037+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 39,
-   "last_ok": "2026-11-12T10:08:00.673330+00:00"
+   "items": 1,
+   "last_ok": "2026-11-12T10:38:00.665037+00:00"
   }
  },
  "watchlist": [
@@ -126,6 +126,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8ICWsaAbZQf9GJolWfYZmVrexhjan1UaqgeIagB1DyjvcYcAMgIcPevKdIgdX%2FlVprEYgizDRovi3jj8NDrjzmiwJevDqgFvNwEgheNnqhWu4McHc2MJxjoePmz1WOBZhraNcikiWmeE7pqtoZrGBrvv7bse%2BV%2FOjpLcS7Zarw4Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B87pJ0hUwXo3d6iE3tOIycXL1PEsGNslUk9SNpuhv2uV05McG0SJEcmabcxho1Z0JW2T2BwWAFvy3hQTH6qhuF%2BISgEkNX4SB4kLyjc7df%2FV78d0z1PtByDRvzKUDeTLFmnudcl%2BNYoWSlh12N7cR9%2B3ygcfdG0mgT7GEOEN9kW1w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -290,7 +307,7 @@
    "discount_pct": 18.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 383 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 384 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
    "posted_at": "2026-11-09T11:03:45+00:00"
@@ -307,7 +324,7 @@
    "discount_pct": 15.9,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 383 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 384 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860128000912?_skw=ssd&hash=itemc8439fbb90:g:JKMAAeSw62Jq8dBb",
    "posted_at": "2026-11-09T13:55:06+00:00"
@@ -326,11 +343,32 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYK%2F5PsDrYznTXQfkbeESbVbD56iYjFmOFqJ3FqUpKnFfZdfBelvGSyviNuX7srHY59RKjnQYv9HOYTcxvvj%2FHxO6zUsJQCVc0s1Eckwh95X7fXZFYre0Z8bnWtP9hecW2fgf1Bx27AAo2ZZpAGkYkc",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa9YLLwPsXdYguiSzuC%2F7fZZ9sJpJ2H06aLs%2F8JcD3vBGCQYZdjz7cIxaRxjxqgWoRG1402W3XziAwreKNuolUWGiHJQTiJd7W7ENRUfyQcplc%2B4dPYSKU4a20LCog10ELdqOizyZeI1ha8dMt6J2x8",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Perceuse à percussion filaire Mac Allister MCB1234DHR – 600 W, mandrin 13 mm, vitesse variable",
+   "price_raw": "19,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/perceuse-a-percussion-filaire-mac-allister-mcb1234dhr-600-w-mandrin-13-mm-vitesse-variable-3453041",
+   "posted_at": "2026-11-12T10:33:24+00:00"
+  },
+  {
+   "title": "NVIDIA Quadro P620 carte graphique PCIe x16 4x Mini DisplayPort",
+   "price_raw": "34.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168856913725?_skw=carte+graphique&hash=item2750a8073d:g:q9YAAeSwHUNq9Y76",
+   "posted_at": "2026-11-12T10:06:37+00:00"
+  },
+  {
+   "title": "SK hynix 8 Go DDR4 ECC Registered DIMM 1Rx8 PC4-2400T-RD1-11 ",
+   "price_raw": "45.42 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267841465441?_skw=ddr4&hash=item3e5c986c61:g:osAAAeSwENRq9YyO",
+   "posted_at": "2026-11-12T10:02:31+00:00"
+  },
   {
    "title": "PC portable 15,6\" Ninkear YBOOK15 - Ecran tactile IPS FHD, 360°, AMD Ryzen 3 3250U, 16Go RAM, 512Go SSD",
    "price_raw": "296,49€",
@@ -454,7 +492,7 @@
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGqZsds8kRmghXW501g1aB2De53kdUZxlCeSVwwUruVfEAN8NiNymf9DssWT%2F9bZkAYk0CAolZno86JDUCYiPc7YpUjg7RI1xvgjBhh6mJyKxN4xXczrhXs8meXeJlO3ivVusfJjZMxReTKjjo%2FkBLcr",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGo%2B2mpHjDmfo3MdN%2Bz07hHO4At2AxIpoMu1VP3SgL978Ii1U%2Bffr%2Bk88pC9N1KjAi7559ccEX20WdtdKwM1YPbpk4M65%2FPDTRVAf68OpS3%2FxiBl%2FWNkdjjpDfloseIqQHGQzPhPpMisOZDhoQ4g2PxL",
    "posted_at": "2026-11-10T12:11:11+00:00"
   },
   {
@@ -510,7 +548,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtmJXRNpArFz9xVddBEy8OZxbMtIPtd23sJIY1YZo2eiUKUoYxKfytPxICll%2FZZ4dvrqGsWyccoOnE%2FP%2F5NpkWikD2dtag%2BkFWpYfn3aA32NDXNczVCno8QalnQuB524xL99ybeG4VRN53Z6%2BdRbcx241AEyFE64vFbZo4AjZ85wFQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtkYeVMYfkYetFQkP6d5qh5bWRZiXHcGeEOMfC9vsc06FPX6ldP5N6xSr5fV2A3Lfl5v4WcRDo%2Fy4RS1QhU6GZEL6sRoGoITIE%2FpEGl%2B4LxatxPiPxFvXfMhN%2FgLPKgvxHoh2%2Bzj2KWXndL82KlF9gTdD%2B9wV76PPlxquHm9bArnDA%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -587,7 +625,7 @@
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh2SZRFvo7916TnVnTpId2zR0DBbLv6Lb3iU3%2FQtMlKGkz1DDLMyCoQLxdcCiz87dBDhPaURS%2BHkKrSOw6kZFHkiOYo%2FdwkxAbXAiztJ3eTcnvc4AzKxMnB2UzqCRYkEHtBkr7dRBjUrQuFeYajLRCG%2BThV7Upny0sBT%2Be7zZBaBog%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3h%2Fm32wOdRQN8pXjAR8fwt7vPvgQ1fIOtjVGJfbvGFzya0Ln3yxCJY%2FMZTO4rSmEeNB45BOf16vSTy8tPU6Pw5u7OLqfyHuBehlXpPKQO7oWCUecBu75FxVPRk%2BbC4RQlTgE%2F3RVpuQtN8RAywMH6uA%2BD2rwwnN0mZ6THSo4iEKA%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -659,31 +697,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xtk071/aio_minorsonic_cpu_cooler_360mm_aio_liquid_cooler/",
    "posted_at": "2026-11-11T15:03:16+00:00"
-  },
-  {
-   "title": "[PSU] ASRock PRO 850G Power Supply - 850W 80 Plus Gold Certified, ATX 3.1 & PCIe 5.1 Ready, Native 12V-2x6 Connector, 120mm Low-Noise Fan, 3-Year Warranty - $54.99",
-   "price_raw": "$54.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
-   "posted_at": "2026-11-11T15:01:24+00:00"
-  },
-  {
-   "title": "PC Portable Ninkear S14 R5 - 6600h, 512 Go, 16 Go, DDR5, Ips 2.2k",
-   "price_raw": "313,61€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ninkear-s14-ryzen-5-6600h-16gb-ddr5-512gb-22k-ips-3452269",
-   "posted_at": "2026-11-11T14:15:22+00:00"
-  },
-  {
-   "title": "Station d'Alimentation Portable Oukitel P1000E Plus",
-   "price_raw": "274,54€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/station-dalimentation-portable-oukitel-p1000e-pluspayment-via-paypal-3452248",
-   "posted_at": "2026-11-11T13:48:15+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1688,
+  "listings_seen": 1691,
   "models_with_reference": 42
  }
 }
