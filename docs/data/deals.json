@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T05:38:00Z",
+ "generated_at": "2026-11-12T06:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-12T05:38:00.621349+00:00"
+   "items": 340,
+   "last_ok": "2026-11-12T06:08:00.624946+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T05:38:00.621349+00:00"
+   "last_ok": "2026-11-12T06:08:00.624946+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 395,
-   "last_ok": "2026-11-12T05:38:00.621349+00:00"
+   "items": 392,
+   "last_ok": "2026-11-12T06:08:00.624946+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 17,
-   "last_ok": "2026-11-12T05:38:00.621349+00:00"
+   "items": 1,
+   "last_ok": "2026-11-12T06:08:00.624946+00:00"
   }
  },
  "watchlist": [
@@ -69,7 +69,7 @@
    "discount_pct": 51.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 176 avis)",
+   "merchant": "eBay · fastseller59 (100,0 %, 177 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:HoIAAeSwa~5q9K1t",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9XU16lsBgIB0LBmKzPQRTB5cSZQnbvhRC4ITEhaMTSnrI0%2FUSYubORvzpVbdFFh%2ByVWGEqmtTfz%2B3PMU8ylwX6J5QKlj%2F2ILYCq4Pr8J5mBT01UFUSVazHfoZg8qKipvAxFuJoGDwYLieo9P%2Fc9F6h%2ByS9HOyoAYdR8uPtRu2QzQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2F6gZe97zfIYKl%2BgVD9iNsSBsC3uM3Z0zdo%2B0qUt4fiF0H4Ivjczn8jFfQTyT4kT7KBsmKQoJ8L7sj2JI8P1DRa6Lf%2BRPCatjqy2Ua9pfuNyRnRqmVXdXpMkjNTaMPbOgmGvIV%2FeSVTrkyN1cl41fA2COxtPPv8kP1J7ri4kPdVvA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -256,7 +256,7 @@
    "discount_pct": 31.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 176 avis)",
+   "merchant": "eBay · fastseller59 (100,0 %, 177 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692701431?_skw=ssd&hash=item301fd854f7:g:LjEAAeSwFMJq9K4U",
    "posted_at": "2026-11-11T18:15:26+00:00"
@@ -343,11 +343,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZM1yoKhycQ02RnhHmrb3BDKg6FcNlsy45bvfAHld8zg1RCdDOK2IhKIjGWdH4F%2F%2BpcfER8l4UVZcXM%2BmvL56PGRpuNT%2BZOU1DSW0m2808ADfy6rfsTwvQGO0uJe97ymY7RfYV8Y4q1K4LnKXlpLXu2",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Imprimante 3D ELEGOO Centauri 2 Combo – Système Multicolore 4 Couleurs",
+   "price_raw": "279€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/centauri-2-combo-3452733",
+   "posted_at": "2026-11-12T05:05:55+00:00"
+  },
   {
    "title": "[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999",
    "price_raw": "$999",
@@ -426,8 +433,8 @@
    "posted_at": "2026-11-11T23:24:49+00:00"
   },
   {
-   "title": "[via Paypal] Imprimante 3D multicolore Elegoo Centauri 2 Combo",
-   "price_raw": "320,69€",
+   "title": "Imprimante 3D Multicolore Elegoo Centauri 2 Combo (Via Paiement Paypal)",
+   "price_raw": "323,69€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/via-paypal-imprimante-3d-multicolore-elegoo-centauri-2-combo-3452657",
    "posted_at": "2026-11-11T23:14:49+00:00"
@@ -471,7 +478,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtkSNRX3D5Zhj%2BTM%2BPx07gRUreZN7szblsrtrMabjXyNc3K2nHAQIyWOu2cMt2mrC98K3XMabFr%2BjrRutn0HWDKyImW5%2FdzFCknTh%2B%2Fg1ObcHBjLerdWpRNP1MnaSuoTnjiguaeTzLD30t6waaolg1NP55UH84XXt0jT2jIopnG5%2Fw%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtldqN%2BbD%2F3uTIXeDGdXQg1CgQ%2FO1G%2FOzVye3T5H8QmMw4irvni9EJR3Z7yhEnINiUTZTz6%2F9eKmt0Qcm7tep2MRMSgN8CV4gjl01zFdei10EvoLObeZjgcxjW8LacKU635KH3M8ciwebHpWgkcmpjJL1E7uDK10ViemRG0oyT5ZqQ%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -548,14 +555,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0%2FPo4Mr4mBlglvgWP%2B3N8SuaxtuJu94iUJUiyWIdhscTo%2BeLZCS38hp5uEo%2Ff0KK9lt0pQ%2F05b5acjJ9D9e5%2FwFGA%2FHj3TFB5L9h%2BhzxeQtCZMuye9A8TJYGltkqUZSw511X%2BpfFoeqyHxiqCZP2rcusZpdiy94zBYnrtZrDdwkA%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz3N5sFSn54SyMuuEnS05L4AKvn%2FUGLH5PvCx2rUkUtIBoXFZgoFgVfOX%2F0Ny24oFV%2FLeFBKz86Z3imPJq9l3YYYb8ZoHu1a0NDpyac0tNNrHFAtC2MqLH8MuJdYpzlB51hQk8jnCnoDef6aMWcapIPrlnA01O3p1NKuaUnc5KXxsQ%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh2fNi%2ByIxFLRdVcFnLbvdwa5wq3AIRZ5j5rNJW46228JQ1O7dnrOs%2FB3pZz9jM0%2BvnGS6gSbc0Uyi3GUUzNZWavkHFEEjtXofBCLGtAyIr1%2Ba%2Ftigbponsjd9jK8InMCfIL4A5h4bmIc4IfPoCUPmVMiOGDjEKWcx2iTQxOagiNwA%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh2xUREIn7GYHDcvC1pWyOYcr8eGsUA6TAUjcKjltrPwNXB0VluOnDACxXJPOUcEFcKR59%2FNMB7tZaeno4G335J%2Bkg40cFJbdZD9YliAnhH%2B%2BxpYSLRs3uuWbF2r27nPOykcxjcehmHX4axJgvKakr%2FrbUS3IHmvsSGRB%2B8B79C0UQ%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -690,17 +697,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-m6-16-go-ram-256-go-ssd-gpu-12-coeurs-macos-27-golden-gate-3452142",
    "posted_at": "2026-11-11T11:39:41+00:00"
-  },
-  {
-   "title": "PC de Bureau Apple Mac Studio 2026 - Puce M5 Max, CPU 18 cœurs, GPU 32 cœurs, 36 Go de RAM, 512 Go de SSD",
-   "price_raw": "2 654,75€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-apple-mac-studio-2026-puce-m5-max-cpu-18-coeurs-gpu-32-coeurs-36-go-de-ram-512-go-de-ssd-3452134",
-   "posted_at": "2026-11-11T11:26:39+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1696,
+  "listings_seen": 1699,
   "models_with_reference": 40
  }
 }
