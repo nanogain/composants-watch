@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T08:38:00Z",
+ "generated_at": "2026-11-12T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-12T08:38:00.688084+00:00"
+   "items": 341,
+   "last_ok": "2026-11-12T09:08:00.669680+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T08:38:00.688084+00:00"
+   "last_ok": "2026-11-12T09:08:00.669680+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 393,
-   "last_ok": "2026-11-12T08:38:00.688084+00:00"
+   "items": 390,
+   "last_ok": "2026-11-12T09:08:00.669680+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-12T08:38:00.688084+00:00"
+   "items": 16,
+   "last_ok": "2026-11-12T09:08:00.669680+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B88eTOhiGtK%2B8N5XxsTNdF4vFBZpjtcJozxtITGLldMAb625AQ53SPYywonabo0Kgtlwo2DaewR83p3GMholUWVeZELPBgm4FeeujCWP6Nz2qzKgbkoZx1qznf9qlF%2FPLrMaJLkqnZKUX4i8TK5%2FSXTyxt4gUwxoSN7lgLwkSKU2Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fs1b1F5nqNvcClcsj1rgP3o79R68gXmLGtcousYrxMLEv1AUNwESMRbvsVOSV%2FI5qa8fx6rNPC04H8N1pikKyuFokP7yNy1opPsldtzLOYBaecwQXG3DdKEWeyOgMmveTLYy9adD9IaUlzoFL0s4iPyleu5Q%2B6AAUsEbUl%2Bd4eJA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -360,11 +360,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaAqlGtoewjOG6i%2BDGLfaFIgKB1r97o4c4xglpxkpej7dw8HP7bV1VBIz6fG3ffICdyXazDHQgiM%2BQn2Kkw6fy4fcwjAPgOTy5hj0AoN2BfnY1eVBgoIx48oxkQbnX%2Fz%2FwBtOTF06tj6JWlrs8%2Bwp9Z",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Tablette OnePlus Pad 4 13,2\" - Snapdragon 8 Elite Gen 5, 12/256 Go, sans chargeur",
+   "price_raw": "400,56€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-oneplus-pad-4-132-snapdragon-8-elite-gen-5-12256-go-sans-chargeur-via-coupon-paypal-3452901",
+   "posted_at": "2026-11-12T08:46:00+00:00"
+  },
   {
    "title": "Imprimante Multifonction Epson EcoTank ET-8550 (Via 60€ d'ODR - allpages.fr)",
    "price_raw": "589€",
@@ -450,13 +457,6 @@
    "posted_at": "2026-04-14T19:07:06+00:00"
   },
   {
-   "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
-   "price_raw": "44.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGol8rs9uAeztuZm1eBG9pPnAnZlWSm93jxp4nxMSKT2RHraOP6FkE8iBlhZn%2FcygMwk9oelfkaNLT6xGd2nXdd6xy8yfVtcnTIB4SklBFmAgISWlEwP6quQJymG--t6tChodAYouyqfDTuXKav%2FVcqa",
-   "posted_at": "2026-11-10T12:11:11+00:00"
-  },
-  {
    "title": "Souris filaire Logitech G G502 Hero Gamer - Haute Performance (Frontaliers Belgique)",
    "price_raw": "23,99€",
    "source": "dealabs",
@@ -523,7 +523,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtkrvmDBtnUxa%2BfEzVXvSR0Y4rpYmmwmFxdvjMqvyDWxjZJKhFIiQRpFyxvodJvqlI7OTCbxms61myPUtVLiadEgshkX4zdXWRPcO5WRqy1w%2BAW4LoMa7ewHvXvBByt%2BlF6%2BCrRoQ5i3sE2iB%2BglqdYEOzD0TD%2B9sJa6T7d4HbHFcQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtlDzXqCZowgLQJwfrxLdryG1zjlSS%2Btr9Ns9qTT1Dn%2B4XKiSwOWhcUR%2BAWkPfn4aBg54g9%2B%2BllR%2Fd9fQpu9eOEVBO9YOAIF9t%2B5OoIarwe6Z9lZDGAKHeAKOf1KISDOdQcfTj96ShaCBCYKQv8HY6vRluHr6yIhzmUK1ix%2FJwWYgQ%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -600,14 +600,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz2QesKQoNXzXIe%2Fec%2BQUDr4FHzhHXtBjQP%2Fa58DxGL%2Bl6%2BPf3vMNRS4YBndRDmCMqkvplamihZE40%2Bz02qB0uDV0pQ%2F3SxTg2lcvvgP0Rgt17syKDFs4qH57bP0dWVkzIT2ZCNxT3BV0aCDUXbM1LVMXOkwLuXneW7LM5xAxI3Tqg%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz0bYAcXAqLal%2FImXR4JxltqQxwFAk78zb22XnJTFCkYOwDRvl1I%2BimRkVA%2BCZELoFkX4GjqJxXDcNzN7N%2BZvTt9rpKlpJjnpSUx9G7xBRdk44PaHlILoNYMCmoPz2EPLEcnrRveFdC9ETB69mqaER5phULgpZlbbuAgggr70%2BhJ7A%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3FjNpz1A%2B713%2FiQNPIapO5CW%2B6QKDBGlfEnFAdAcomHwvJQouydVGybRYMf1MWvM2VQkIhcWQ3UUBEK8cUsQ%2FXFtUUVU90aXmSiIbBHyAsEFPLbcw3uslt%2B7Uch4LkpGTVFsUdxkFIBJPUoLeX902AwEjeLIAVwPoA%2BhgjGt4QJw%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh1hH1Nbq8GWnCtpjoU46OMxfI%2FqJA0ULR2%2B9AnharHVXBAuTW7YbBdC5opp0z66R4hfSPbWJeW%2Bf%2Fm1HrpKKsn11sF9ppA8jVPrQLC8k8ldV9sXW3hTNwvwxxeR77fKPfmenSOy5DFmbVgdzt5pSphUnRlR2DqPTX2mD%2BmSYvISog%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -712,7 +712,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsu4d4sVOcZJFWGnOpcMXSE7HsoFjMYg33%2B5OM4El4wt%2BvgukR0kaJ%2FW8c4AcN2Z%2Fhi8Rb335eJwgrWn2Ze6n1Ul6M7aQnqzMpSJblTWwnez0D6MvPzhXQguLr%2BhObJjdPBXGdidIu4nyTNx0gEFHl8sAcGbisTOzL6VfYzw64iqSg%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsu3mEtDhD1i%2Ba4uiaA5i8u2edKY9UFOxqM2v4mwgE6KyDh95ldsMzACwud3jO2ut2YyQtLVHjvkOe0J2fS%2BdLFHAbBI2bMeQijil%2B%2B4M%2B1phD4Km8AcCLONitv0z2FgTzHcbmwgHsxI2NG6bM2EZTz5w%2FtGvd%2BoeOWguNrDF3we%2Fg%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   }
  ],
