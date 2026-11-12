@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T00:08:00Z",
+ "generated_at": "2026-11-12T00:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-12T00:08:00.685548+00:00"
+   "last_ok": "2026-11-12T00:38:00.621304+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T00:08:00.685548+00:00"
+   "last_ok": "2026-11-12T00:38:00.621304+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-12T00:08:00.685548+00:00"
+   "items": 370,
+   "last_ok": "2026-11-12T00:38:00.621304+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 41,
-   "last_ok": "2026-11-12T00:08:00.685548+00:00"
+   "items": 3,
+   "last_ok": "2026-11-12T00:38:00.621304+00:00"
   }
  },
  "watchlist": [
@@ -58,21 +58,38 @@
    "posted_at": "2026-10-12T17:30:00+00:00"
   },
   {
-   "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
-   "model": "MB:B850",
-   "category": "MB",
+   "title": "Fanxiang 2280 SSD Interne M.2 NVMe PCIe 4.0 2 To 1 To 4 To Pour PS5 PC 7300 Mo/s",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
    "condition": "new",
-   "price_eur": 79.3,
-   "shipping_eur": null,
-   "effective_eur": 79.3,
-   "median_eur": 169.99,
-   "discount_pct": 53.4,
+   "price_eur": 99.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.99,
+   "median_eur": 289.99,
+   "discount_pct": 65.5,
    "target_hit": false,
    "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-b850m-wifi-itx-am5-ddr5-pcie-50-2x-m2-wi-fi-6-25gbe-3449732",
-   "posted_at": "2026-11-09T10:01:59+00:00"
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/297290109613?_skw=ssd&hash=item4537df12ad:g:bacAAOSwV8Jmj2r6",
+   "posted_at": "2025-05-09T06:24:05+00:00"
+  },
+  {
+   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 60.49,
+   "shipping_eur": 0.0,
+   "effective_eur": 60.49,
+   "median_eur": 149.99,
+   "discount_pct": 59.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-official-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
+   "posted_at": "2024-11-07T06:12:38+00:00"
   },
   {
    "title": "Micron 1300 SSD interne 2,5\" SATA 6Gb/s 512 Go MTFDDAK512TDL-1AW1ZABGA",
@@ -92,21 +109,21 @@
    "posted_at": "2026-11-11T23:35:03+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
+   "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
+   "model": "MB:B850",
+   "category": "MB",
    "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
+   "price_eur": 79.3,
+   "shipping_eur": null,
+   "effective_eur": 79.3,
+   "median_eur": 161.11,
+   "discount_pct": 50.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-b850m-wifi-itx-am5-ddr5-pcie-50-2x-m2-wi-fi-6-25gbe-3449732",
+   "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
@@ -122,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8jqUy%2BsyBxM%2F%2B1Q5vJ7uRUm%2BWwSYisyXSksOg4WsR%2B7bUge8Zmw3KN5p60kD3G%2BLYEn48dkbEnOhncKWGTR0kAPLqwe6nz2Hxs5jXK11ZGxP9IKrCybKPujknLDUrMJ8FBhZ16adJL34w6WwJBFDIKyjUAhvx7wJJeiK7utfBQdA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9oyG1qmwFVVc0t%2BZggQwOKoVoKo%2B%2Fh8UH2YpwJGY4%2F8J5TgtOiaXDi%2Be616IkWxkWy6TKKHMU1Gc2PyPEfU7XeMM6E3qiLIQ3XISJxRH%2FfFWY5PCyKkSdSuBjcX0WEYBmPA%2FAr2ImrPr8o%2BgmAGHxpvtbg7cpseS3PWRQnisd8NA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -143,40 +160,6 @@
    "posted_at": "2026-11-10T10:59:57+00:00"
   },
   {
-   "title": "Tacens Anima APIII500 Alimentation PC ATX 500W Bronze Silencieuse 12cm",
-   "model": "PSU:500W-Bronze",
-   "category": "PSU",
-   "condition": "new",
-   "price_eur": 20.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 20.99,
-   "median_eur": 33.99,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · comptoir_des_cigognes (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880054729738?_skw=alimentation+pc&hash=itemcce7597c0a:g:2UYAAeSwmOtq3~PD",
-   "posted_at": "2026-10-27T00:43:59+00:00"
-  },
-  {
-   "title": "Tacens Anima APSIII500 Alimentation PC SFX 500W Bronze Silencieuse Noire",
-   "model": "PSU:500W-Bronze",
-   "category": "PSU",
-   "condition": "new",
-   "price_eur": 20.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 20.99,
-   "median_eur": 33.99,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · comptoir_des_cigognes (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880054729360?_skw=alimentation+pc&hash=itemcce7597a90:g:t7gAAeSwFppq3~Os",
-   "posted_at": "2026-10-27T00:43:40+00:00"
-  },
-  {
    "title": "Processeur Intel Core i5-8500 3,00 GHz 6 cœurs LGA1151 SR3XE",
    "model": "CPU:Core i5-8500",
    "category": "CPU",
@@ -192,23 +175,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
    "posted_at": "2026-11-11T09:31:40+00:00"
-  },
-  {
-   "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
-   "model": "MB:B850",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 109.24,
-   "shipping_eur": null,
-   "effective_eur": 109.24,
-   "median_eur": 169.99,
-   "discount_pct": 35.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "JoyBuy",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
-   "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
    "title": "Processeur AMD Ryzen 7 7800X3D - Tray (via Paypal)",
@@ -243,6 +209,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-245-msi-pro-mp252l-245-fhd-100hz-dalle-ips-1ms-adaptive-sync-hdr-ready-3452009",
    "posted_at": "2026-11-11T10:23:59+00:00"
+  },
+  {
+   "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
+   "model": "MB:B850",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 109.24,
+   "shipping_eur": null,
+   "effective_eur": 109.24,
+   "median_eur": 161.11,
+   "discount_pct": 32.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "JoyBuy",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
+   "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
    "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
@@ -296,21 +279,21 @@
    "posted_at": "2026-11-09T11:03:45+00:00"
   },
   {
-   "title": "SSD WD PC SN530 512Go NVMe M.2 2230 PCIe 3.0 + Support Dell 2280 87%",
-   "model": "SSD:NVMe-512Go",
+   "title": "SSD interne M.2 2280 SATA III 512 Go MICRON en très bon état.",
+   "model": "SSD:SATA-512Go",
    "category": "SSD",
    "condition": "used",
-   "price_eur": 45.32,
-   "shipping_eur": 0.0,
-   "effective_eur": 45.32,
-   "median_eur": 53.89,
-   "discount_pct": 15.9,
+   "price_eur": 47.5,
+   "shipping_eur": 2.99,
+   "effective_eur": 50.49,
+   "median_eur": 62.0,
+   "discount_pct": 18.6,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 383 avis)",
+   "merchant": "eBay · ventesint2024 (100,0 %, 531 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128033339?_skw=ssd&hash=itemc843a03a3b:g:tpEAAeSwEExq8dUz",
-   "posted_at": "2026-11-09T14:16:05+00:00"
+   "url": "https://www.ebay.fr/itm/920120896508?_skw=ssd&hash=itemd63b7aabfc:g:dVoAAeSwlWNq8ZXs",
+   "posted_at": "2026-11-09T09:44:35+00:00"
   },
   {
    "title": "SSD KIOXIA XG6 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
@@ -343,11 +326,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa%2FIrIuPdbsz97rpuTQdH8J7Zahhtsc0P7Ddy%2F9A5cHAQ7IBHQ%2B0zswNIwtgxdGZnb98y5ATbadW60nI2G52dJB8F%2FCg9nrCf%2FZ8Z2On65p8LhasZGHp%2F0FP7UPKap%2FhYpqqXoYsUnACK2GkZDLA3KJ",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZqsNSnebTIcuiFvpvUzJuj0Uy1tqjLOfq41TtefIHyemUR1LeDUE48TJIoTd8C42t--YsVhR022XQyPpx8nPXyx2m0HYkv68wp0G9yjdH6FHor9OpuB7o3rQxhJIFHiGWYw%2FrzYDrYWPa%2BDW30q%2BYP",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Leclerc imprimante HP Deskjet 2910 jet d'encre et wifi a 29.90 au black friday",
+   "price_raw": "29,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/leclerc-imprimante-hp-deskjet-2910-jet-dencre-et-wifi-a-2990-au-black-friday-3452675",
+   "posted_at": "2026-11-12T00:28:17+00:00"
+  },
   {
    "title": "FURY Beast DDR5 PC5-41600 - 2x 16Go / CL36-Kingston FURY Beast - DDR5 - kit - 32 Go",
    "price_raw": "243,53€",
@@ -422,7 +412,7 @@
    "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
    "price_raw": "33.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtlkiNV4J1aaeRN3pYN%2BcwspEXmv%2Bbb49841OPsxXV48sfmvbhsxRgJPJdWQ%2B72viTPzq%2BkEH2M%2BBv6TaUcqyaeQXjz0SwVgHTgr8jO%2Ftyik%2FpCsjkIIU5Y9fITajqIcfIiqR6%2Fzbz0UugM9%2FXPRaUVKXu5NYx0yjqUf6NZG465qEw%3D%3D",
+   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtkBt4iLmT9qOT1ApVf35wmyEoD4tQ4cyLjwgnhp4NTsYp3LPks7H0%2FRRpu3poyFcqqUSUNakfHMhTnV6WAdO0zEjY%2F9NlUZcLIx3g5GXFDvXrNCt4K6RYUEv8cjNZwnx%2FAFyKS5WqkpCc5hK%2BMr%2ByeWz08JaYCIC5G3%2FvR3kyfoeA%3D%3D",
    "posted_at": "2026-10-25T16:32:23+00:00"
   },
   {
@@ -499,14 +489,14 @@
    "title": "Pc Gamer Compact Amd Rayzen 5 1600,gtx 960 4go,16go De Ram Ddr4",
    "price_raw": "259.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz36hoXnK1zNm%2BXXM8gs%2BwaoAro9i5vuXP%2F3paMqELjHEO1kt%2FbCgVHAjaPelMbwwwx3YxM6fok88dwWd2Ppb4sFNeQsGDmYngoqk%2BQKK054dDHLz7Vd%2BAxRuZUyaerJ1h4xo2mHi1DxEQSGvoyZxZLr0Q6mlzP1dXep7x3YtGQU5w%3D%3D",
+   "url": "https://www.ebay.fr/itm/327450085896?_skw=boitier+pc&hash=item4c3d8bca08:g:6aEAAeSw9gtq84TQ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lpJ%2Fs0ue31IDIe6em7iJvrkXfbNtUXPTcYxaOK1gScPMJDCunS8AdcTrkjnqawJHNzCGhYHuxO4YQ9ICEgvXbxx3Ysgqd8cD9YuzHjIUYRmvfTdsz0YdRG6WqGO7tqMz1kwQ0GiAJbqOxvWUZDiEdu%2B4ncpsoVKRgvqbkWtoxz%2F6neBPrIByjgfOlWhSsACjSZ1%2Fn2uU%2B2f8q4hkUf7oIiacmuY%2BQglBsokxqnWDa2Y%2FjX7IefNmCDzVBDatf2w1GuxIuSwBChJeCWm9Hm3Mn8YUs5%2FbfJnPE0eH0R%2Bxy58w%3D%3D",
    "posted_at": "2026-11-10T20:58:39+00:00"
   },
   {
    "title": "MICROSOFT - Clavier AZERTY FR - Microsoft Wired Keyboard 600 USB - Neuf Scelle",
    "price_raw": "29.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh3wnJBjGUaoQPH0%2FPS8SKrjPxZBXZUHHQ%2FhoQ0Av58zOK%2F6DXkai93m7M7hXdUkxDgfJ17TyWowyQ2tR9eo4VNdpTB%2FCdX5NqAMGQbi7QJSWrJ%2FQ9vdtsE68yHFbywtH9p9FKHYNoJtVErFWJLlklnQt2dCNgwKo%2BHFt4l1RFXyKg%3D%3D",
+   "url": "https://www.ebay.fr/itm/407356037483?_skw=clavier&hash=item5ed84fd96b:g:75sAAeSwlWdq3iYw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kXL78N3VBff3Y4%2Fq3jTxzDw1QOP2Mx3u0R4C0rnnLWvX4dANti9edghcWwSNMDeqclPIGJF4ufuln6Q8qGvLgLTopR5%2BJhQa6j2Uz0ad4JjvmOc52j1WYO9SbrIS47Wh366Z7KQcg7u0BBjQ9YnEGFJVXr4BSnxG192hqp7R8jtYx8VknkSPYTxMt%2FV8DeSlmtpFGk6zlLF2l1hRi9qM1QPf4aezIpTbMediuh7XhYAEq7B%2F7ePuVzOxIfZNHo6asZOd0qYX%2BLDOQgUd6qbvZnAmX3rjTINqA6%2F1JghtC5LA%3D%3D",
    "posted_at": "2026-11-11T17:38:44+00:00"
   },
   {
@@ -522,6 +512,13 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xtn1ze/gpu_msi_ventus_geforce_rtx_5060_8gb_gddr7_29999/",
    "posted_at": "2026-11-11T16:58:39+00:00"
+  },
+  {
+   "title": "SK hynix 32 Go DDR4 RDIMM ECC Registered 288 broches PC4-2666V HMA84GR7CJR4N-VK",
+   "price_raw": "74.54 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267840849499?_skw=ddr4&hash=item3e5c8f065b:g:l2gAAeSw9RFq9Jhb",
+   "posted_at": "2026-11-11T16:39:34+00:00"
   },
   {
    "title": "Samsung 860 EVO 250GB mSATA SSD Mini SATA III PC Laptop",
@@ -611,7 +608,7 @@
    "title": "Dalle Ecran Innolux N133HCE-EAA Matte 13.3 \" LED Full HD  pour PC portable",
    "price_raw": "66.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsuN0U5wMJfiJc2AOKFm%2FD7UQ9U%2FSYXjH8iViGtWEniIP3YOhGMQJO%2F1Lyd9leN5uvttBPtysMJmAI8IJOeSRvUVVv35i%2FHLIj6WBdvoaJ%2FPEA%2BeDblngOsvn%2Fr4FhCZb18YGYGCGRqbdUmIL05ZPyGwhNEmZSSLeDfaNu%2BPQb9%2Bzw%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493514?_skw=%C3%A9cran+pc&hash=item2b8b0d39ca:g:f7YAAeSwHUlnxvqN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mln5gf1B9Ca2KmhxswmnMXAlC2lPm6DlKZRXeTN6bSxWhqQYoLQ2fwYuSlHU1WNvFrI04qHAzFJiFpFqAGHgOxtAEwBH84sMugZK0pooqrQNZKsQ8U15QMPXcDnqtoOsvvFE%2BWJnXLxKm642WyDGAhGHv%2F3aXCA%2BG7M%2F5YgD%2FjGaJwCeUsnUMGzzz9qanF7GmIuJzwPhSpKq8QSRaeL0B22amNqYZ4cXu2X7UqJIpVdX%2F5bOeKvGw22En5w9tJuYM8%2FV0vbdPbW10KL2tqxsuhiZyJS2U1xxaOK9hESu2zvw%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
@@ -683,24 +680,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/820341911441?_skw=carte+graphique&hash=itembf00302f91:g:AyYAAeSwF9Fq9Dmd",
    "posted_at": "2026-11-11T09:51:34+00:00"
-  },
-  {
-   "title": "Carte graphique Asus GeForce GTX 560 Ti",
-   "price_raw": "26.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820341881487?_skw=carte+graphique&hash=itembf002fba8f:g:mQsAAeSwU8pq9DeE",
-   "posted_at": "2026-11-11T09:43:41+00:00"
-  },
-  {
-   "title": "[Adhérents] 10% de réduction immédiate sur une sélection de tablettes Android",
-   "price_raw": "Adhérents :",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-10-de-reduction-immediate-sur-une-selection-de-tablettes-android-3451321",
-   "posted_at": "2026-11-11T09:00:01+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1732,
-  "models_with_reference": 40
+  "models_with_reference": 39
  }
 }
