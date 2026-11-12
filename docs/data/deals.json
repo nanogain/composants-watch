@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T17:07:00Z",
+ "generated_at": "2026-11-12T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-12T17:07:00.656013+00:00"
+   "items": 343,
+   "last_ok": "2026-11-12T17:38:00.681835+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T17:07:00.656013+00:00"
+   "last_ok": "2026-11-12T17:38:00.681835+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-12T17:07:00.656013+00:00"
+   "items": 373,
+   "last_ok": "2026-11-12T17:38:00.681835+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-12T17:07:00.656013+00:00"
+   "items": 69,
+   "last_ok": "2026-11-12T17:38:00.681835+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": "Netac NV3000 SSD Interne M.2 NVMe PCIe 3.0 Disque 250 Go 500Go 1To 2To 3500MB/s",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 149.99,
-   "discount_pct": 66.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · shop-produit-divers (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
-   "posted_at": "2026-10-12T17:30:00+00:00"
-  },
   {
    "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
    "model": "SSD:SATA-128Go",
@@ -92,6 +75,23 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
+   "title": "Disque SSD INTERNE M.2  128Go TOSHIBA  THNSNK128GVN8  SATA M.2  2280  - 128GB",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 15.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 15.0,
+   "median_eur": 29.0,
+   "discount_pct": 48.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bons_prix_bons_produits (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227169935964?_skw=ssd&hash=item34e462225c:g:vT0AAeSwOYdpY-fu",
+   "posted_at": "2026-01-11T18:22:04+00:00"
+  },
+  {
    "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9RQM2lcIyL8zW5Ky%2BurLW2HAICDkggl0eCubTN4TU0f0dYn0jlddag2Tck1HIpmyb5gMZMcu42I%2B9cQaqs%2FlCosZ0Jfmw1xtTXnYPw4NMlJc3%2BbJ7eZxENi2tpKXMEWzkB2aZyOT%2FDdsZEUtdisBR%2FOtyyxEyr0mtXV64aHhGciQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BoUgind5JxBkr47DKKoSKHcak667KKN4IltgdinCDAg2I79q564ONcRM9BJ0ThfVUwEz2d2nBmgdsBIJ%2B6tmCGG%2BgSRd%2BP69SCraZZDD4M7AQL9u2%2FiLLUQ0mAZcoj1C53Ne%2BRYEXO93ekgnbQ2o24TpyVamMT7mNOPlzA9IrB%2FA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -158,23 +158,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
    "posted_at": "2026-11-11T09:31:40+00:00"
-  },
-  {
-   "title": "Ecran PC 32\" Gigabyte MO32U2 - QD-OLED, 4K UHD, 240Hz, 0,03ms, HDR True Black 400, HDMI 2.1, FreeSync Premium Pro (via Remise Panier)",
-   "model": "MON:32-UHD-240Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 506.22,
-   "shipping_eur": null,
-   "effective_eur": 506.22,
-   "median_eur": 773.0,
-   "discount_pct": 34.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon.es",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-32-gigabyte-mo32u2-qd-oled-4k-uhd-240hz-003ms-hdr-true-black-400-hdmi-21-freesync-premium-pro-via-remise-panier-3452807",
-   "posted_at": "2026-11-12T07:17:05+00:00"
   },
   {
    "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
@@ -309,11 +292,18 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa0SoScSeSFfsWEBF9F%2BR%2BW9hWxS5MkxJEJhCJQ06AYb7HNqLVyZDCuH5fIboauR%2FXKicD3KbR4F6d0m%2FzEatdsTTCUFnQjYAW%2FyM%2FGybTICV7rO5gTw63suPtuReFOIGtbi1t%2Fy1iOtb96XbQHxoQv",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZa2TN4a%2F42IG%2F2jMan%2B6xmJJmIVDp%2BkFdlxhVjcEWJRfTp7u87ZTm18XPGpFHBICgAP2pUTB1ND79%2FMtzSqAu8Y3i296mCNF0iuvrkCK%2Flm2Kwu6kmHQAyDmpN1%2BW2%2FOB6OlNU6ANPeVZb%2FHAhSwGh",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Gigabyte GTX 1050 Ti G1 Gaming 4 Go GV-N105TG1 GAMING-4GD Carte graphique",
+   "price_raw": "47.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206695757301?_skw=carte+graphique&hash=item302006f5f5:g:98EAAeSwqolq9fh1",
+   "posted_at": "2026-11-12T17:32:55+00:00"
+  },
   {
    "title": "Boîtier PC Thermaltake View 270 Plus TG ARGB - Panneaux en Verre Trempé, 3 ventilateurs ARGB, noir",
    "price_raw": "71,16€",
@@ -378,13 +368,6 @@
    "posted_at": "2026-11-12T15:25:00+00:00"
   },
   {
-   "title": "Carte graphique Palit Geforce GTX960 2gb",
-   "price_raw": "37.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/127785461475?_skw=carte+graphique&hash=item1dc09b66e3:g:weEAAeSwGwtpzU0T",
-   "posted_at": "2026-04-01T16:54:40+00:00"
-  },
-  {
    "title": "Noctua NH-U12P SE2 ventirad CPU 120 mm 2x NF-P12 LGA1366/1156/775 AM3",
    "price_raw": "37.42 EUR",
    "source": "ebay",
@@ -432,6 +415,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128190725990?_skw=ddr5&hash=item1dd8c33f66:g:vwwAAeSwxJtq9bnx",
    "posted_at": "2026-11-12T13:11:55+00:00"
+  },
+  {
+   "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
+   "price_raw": "159.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk4Af8VI5JTUv2UWLNEZwacvtIsyIpVGo82038jVlXRpYIY73Z6uaeld8VLcqyBtNIK3h5jBxh3Os0IlsDmm0Y%2FVNRQzwSqDcQee3BACBhbYU0ryNd7meSNVgAbq0sTHJZC1K96E%2BuPWxBkeZvtkSUzquuyHlp5fsPTec3aKATt65Q%3D%3D",
+   "posted_at": "2026-11-04T20:24:41+00:00"
   },
   {
    "title": "Souris sans fil gaming Razer Basilisk V3 X Hyperspeed Noir et Vert",
@@ -616,18 +606,18 @@
    "posted_at": "2026-03-23T22:07:20+00:00"
   },
   {
+   "title": "MSI GT 710 2GD3H LP 2 Go DDR3 carte graphique low profile",
+   "price_raw": "20.43 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168831236486?_skw=carte+graphique&hash=item274f203986:g:sCIAAeSwtkVq563F",
+   "posted_at": "2026-11-01T21:28:56+00:00"
+  },
+  {
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGoodI6R2kBl2CMxVWC%2FRJ3slvGG70QSsBDyZfY6rIRvMvlBVbow40%2BbW0vpGh08iMVQoKZEbmSeU6yVkK4AlGsLub1M2QtikdyrdyjUPtA%2BGT2o%2FrLocNe%2BHr5x2UKxHclhAVCLTritjd0bMWH5zLkp",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGqd31H8uh9RAEClbXsbY%2BrAbleGMSaOGRU51YjlJDMG2xyCJh%2FeHhZO3YiTlF1rMHp3P48A9chsxgcIGEOrps5uYbknfE7gJmGoPhg2KYrLmJH1B9ZDHSuU%2BIKoW3LR2g6y%2FfwDbKxivdufKi%2FFqDQm",
    "posted_at": "2026-11-10T12:11:11+00:00"
-  },
-  {
-   "title": "Carte graphique Gigabyte GTX 1050 OC 2GB Garantie 1an",
-   "price_raw": "59.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/298110346725?_skw=carte+graphique&hash=item4568c2e5e5:g:7LAAAeSwf6xpsVDN",
-   "posted_at": "2026-03-11T11:24:37+00:00"
   },
   {
    "title": "Souris filaire Logitech G G502 Hero Gamer - Haute Performance (Frontaliers Belgique)",
@@ -656,17 +646,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-fixe-ryzen-5-7500x3d-rx-9070-gre-12-go-16-go-ram-ddr5-b850-s-wi-fi-1-to-ssd-nvme-alim-700w-gold-3452629",
    "posted_at": "2026-11-11T22:20:52+00:00"
-  },
-  {
-   "title": "Carte graphique PNY GeForce GeForce GTX 1660 SUPER 6Go",
-   "price_raw": "135.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960184397914?_skw=carte+graphique&hash=itemdf8f73305a:g:GS8AAeSwiTdq9OgA",
-   "posted_at": "2026-11-11T22:13:19+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1679,
+  "listings_seen": 1675,
   "models_with_reference": 44
  }
 }
