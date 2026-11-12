@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-12T15:38:00Z",
+ "generated_at": "2026-11-12T16:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-12T15:38:00.700355+00:00"
+   "items": 345,
+   "last_ok": "2026-11-12T16:08:00.677031+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-12T15:38:00.700355+00:00"
+   "last_ok": "2026-11-12T16:08:00.677031+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 374,
-   "last_ok": "2026-11-12T15:38:00.700355+00:00"
+   "items": 378,
+   "last_ok": "2026-11-12T16:08:00.677031+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-12T15:38:00.700355+00:00"
+   "items": 10,
+   "last_ok": "2026-11-12T16:08:00.677031+00:00"
   }
  },
  "watchlist": [
@@ -69,27 +69,10 @@
    "discount_pct": 51.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (100,0 %, 179 avis)",
+   "merchant": "eBay · fastseller59 (100,0 %, 180 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:HoIAAeSwa~5q9K1t",
    "posted_at": "2026-11-11T18:03:48+00:00"
-  },
-  {
-   "title": "Micron 1300 SSD interne 2,5\" SATA 6Gb/s 512 Go MTFDDAK512TDL-1AW1ZABGA",
-   "model": "SSD:SATA-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 27.37,
-   "shipping_eur": 2.78,
-   "effective_eur": 30.15,
-   "median_eur": 62.0,
-   "discount_pct": 51.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · boiteachiner (100,0 %, 213 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327451780281?_skw=ssd&hash=item4c3da5a4b9:g:bgUAAeSwgI9q9Psw",
-   "posted_at": "2026-11-11T23:35:03+00:00"
   },
   {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
@@ -107,23 +90,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-b850m-wifi-itx-am5-ddr5-pcie-50-2x-m2-wi-fi-6-25gbe-3449732",
    "posted_at": "2026-11-09T10:01:59+00:00"
-  },
-  {
-   "title": "Disque SSD INTERNE M.2  128Go TOSHIBA  THNSNK128GVN8  SATA M.2  2280  - 128GB",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 15.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 15.0,
-   "median_eur": 29.0,
-   "discount_pct": 48.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227169935964?_skw=ssd&hash=item34e462225c:g:vT0AAeSwOYdpY-fu",
-   "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
    "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
@@ -156,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8wFvgBB4xfNBW4vo%2BrNRksXew%2BY%2B88J7btN7uWh%2BY2Od894%2FtN%2F4yhskxQflrx8Casmkw7AdyX9asfXtZwz2Rr%2Ff8PBvyK3d7gRrNup2IbYc2q8ZoT49DPVh6GUvBFQkbfuBjp93yHDm9NXFbNK1jJxLDWkxG8Skmu1REuM7y1qA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BanOeteN7UUaXHoHEAWaeKA7wnJHG3KGk4CmW3%2BfMYKZ7BnRvf4U6UC8ZzxHcPseg0h8zY4uoneWJb6zWb%2BMANrWkuaHduMFeQH3R%2BfH6SGJSGnSm6oM8crpa7UcZ1eOI6fOQc8B8B4V%2BtBA15JNVEMQOL9YNhKJWV3VZXOSdO2w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -360,11 +326,25 @@
    "suspect": true,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbiZACMhN4W3IMRvtfVyBc%2FhJ0J%2FMzgvCckZsls%2FVFxrM%2BVpoy1qwDNJnB3C%2Bor6n2C1HopapY6Tjtt23WXyLI39Z6jkK0sdeCUo9pF091BhPHgMltEIaeWjM2NbGktXiR0lqfCOjHcYuDBEbHk5n18",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbFaWQttMOf1HnvPHXrUa118LUcQ%2B%2BGt8w9uu3XRA9a7CW7kW2aay8ngpKXRanqIFgYAJZd94AU44zJ95ApAmB9MqAa%2Fc7hj6Dyr3cA2b3UdMT6S5IxGhp0WQkfiRfy8nEQ74SxDgzWjIBJIBLs6LD8",
    "posted_at": "2026-10-24T22:43:47+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Micron 8 Go DDR5 SODIMM 5600 MHz PC5-5600B MTC4C10163S1SC56BH1 RAM PC portable",
+   "price_raw": "120.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840121562523?_skw=ddr5&hash=itemc39b25b59b:g:hT8AAeSwLEtq9eHT",
+   "posted_at": "2026-11-12T16:00:02+00:00"
+  },
+  {
+   "title": "Samsung 8 Go DDR5 SODIMM 5600 MHz PC5-5600B M425R1GB4PB0-CWMOD – RAM PC portable",
+   "price_raw": "120.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840121553500?_skw=ddr5&hash=itemc39b25925c:g:YbUAAeSw6xhq9d9~",
+   "posted_at": "2026-11-12T15:54:50+00:00"
+  },
   {
    "title": "Mini PC SOYO M5 - Processeur AMD Ryzen 3 4300U",
    "price_raw": "178,51€",
@@ -401,7 +381,7 @@
    "posted_at": "2026-11-12T14:42:37+00:00"
   },
   {
-   "title": "[Nouveaux clients] Boîtier SSD M.2 Blueendless (M2818S) - USB-C 10 Gbit/s, SATA, aluminium, jusqu'à 8 To",
+   "title": "[Nouveaux clients] Boîtier SSD M.2 Blueendless (M2818S) - USB-C 5 Gbit/s, SATA, aluminium, jusqu'à 8 To",
    "price_raw": "5,23€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-boitier-ssd-m2-blueendless-m2818s-usb-c-10-gbits-sata-aluminium-jusqua-8-to-3453243",
@@ -429,10 +409,17 @@
    "posted_at": "2026-11-12T13:58:51+00:00"
   },
   {
+   "title": "Thermaltake The Tower 250 Boîtier PC Mini-ITX Vertical Noir Verre Trempé",
+   "price_raw": "222.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147635162871?_skw=boitier+pc&hash=item225fbdcef7:g:YxYAAeSwjO1qzy7q&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nw0wINfuZdr9BSDBGMKDkJNadRHh%2BPTf%2FQrRyawi3L%2BoH4ZvKM8VRv6vts%2BJzlXD6HsgTxjPM8iy6zLHQNyL4qhdeOmtHhM4jXGG6DlVGYy50gKL8IZ5n1bJOtOvxFBvQ2KdExruur7BBk6NdZhYmcqRDy5hHhYEfy5rovg%2B0CR2sTcySQAh4d1ej4QoLmDq%2FoqpmbA1ek5ta5acre7UIDUN5ciG5poNhnO9DoS0dPo5%2BfNRpw%2FXhYH%2BiC%2FMFfIdQqH0Qa8IJm%2FdrH%2FuC0qFRpP%2FmMiPLJXQH0EFf73seaAA%3D%3D",
+   "posted_at": "2026-10-14T07:28:32+00:00"
+  },
+  {
    "title": "Samsung Kit RAM 16 Go (2x8 Go) DDR5 SO-DIMM PC5-5855 M425R1GB4PB0",
    "price_raw": "151.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128190725990?_skw=ddr5&hash=item1dd8c33f66:g:vwwAAeSwxJtq9bnx&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n7%2FldsB7Ql35fPoCxZ%2B%2BRG5MeW46frwooNQjJtkprzPheh%2BlF1uxGRrnZFhpTtxjTa7PNbF5I0GIPI%2FVg51rq7qI29VZP%2B9tTEj4Hc3YkwxoaTjEte2jISKQaDGLrIleGt%2FZCNBw07bb63xyCSWCL2LWWaBPLMIn3RZlPEkSy7xOsuogA0y33kOzm1JBuSf8IOaIEwEeozJc8ayNU71kAOar8g4VkBWofSzknQ0afeg0BMDyktTo5HHVWRlgMCAIO7sQ9qyzxbCwMoDjjmOSG%2F",
+   "url": "https://www.ebay.fr/itm/128190725990?_skw=ddr5&hash=item1dd8c33f66:g:vwwAAeSwxJtq9bnx&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n7%2FldsB7Ql35fPoCxZ%2B%2BRG5MeW46frwooNQjJtkprzPheh%2BlF1uxGRrnZFhpTtxjTa7PNbF5I0GIPI%2FVg51rq7qI29VZP%2B9tTEj4Hc3YkwxoaTjEte2jISKQaDGLrIleFx%2Fn15UTwp87NCxdiseGlqUI4KO%2Fy1cEvyOofXy6y6FPHqjGN3VGDGTD4bZLR8hEwPSOfR96XSa%2BCXhkrjQQmGxxWXq7haEn8S73qXAXEQp68elPQ1NO4KAECtDMJp9q%2FZ%2FbxsiFeAA2NK%2Fko3rP5u",
    "posted_at": "2026-11-12T13:11:55+00:00"
   },
   {
@@ -628,7 +615,7 @@
    "title": "Barrette mémoire KINGSTON - ACR24D4S7S8MB-8 - 8Gb 1Rx8-2400R-SA1-11",
    "price_raw": "44.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGpd1h5k%2B5b%2BgT2l%2Fjjg8EKuOn39V6s0xbj%2FgAbIrErnby1VBvYrHk98lneUh%2BLAkAa6q3CnBzB6HwxvHgnKrv0t3HiHesmAY3payl3wev%2FXmRfpPRl%2Bhcu5jmweM9ny9GijWd1le941tAZblUtfs9qM",
+   "url": "https://www.ebay.fr/itm/407352933636?_skw=ddr4&hash=item5ed8207d04:g:h78AAeSw4xBpvPyf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lWpG1W5gAhijsgfcVD7C%2BpY6INWbLlbUeWFAVqetZ5xQ91nx6cV5hGsrMtVj66BWxTchbZxU3ucAKJUdMGajdT8N0dyvbPM1PMq0v16DQFOyipjjW66BeN8aAxkIKfDGpkevSmdVKBscUH1nDPmp1Z1YYdK8aH5FWrpC5IlXAfRAQtVyiSzfjQ%2Fi2kCMq9Pjyf0fNpkynHrg%2BOqeDeWNopYWXdnav%2FcCnLTSnmpt95wP9M3rwqpfULTbkzy3C5wRhFS36sa4tljNq8Th%2BD%2Bs%2F9",
    "posted_at": "2026-11-10T12:11:11+00:00"
   },
   {
@@ -693,31 +680,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/145203982007?_skw=carte+graphique&hash=item21ced4eeb7:g:IHQAAOSw45lkvEe8",
    "posted_at": "2023-07-22T21:24:22+00:00"
-  },
-  {
-   "title": "Carte graphique Quadro 2000 1 Go GDDR5 128 bits 2xDP DVI-I x16 Garantie : 2 ans",
-   "price_raw": "33.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800837401123?_skw=carte+graphique&hash=itemba75a0fa23:g:3CcAAeSwOXZq3h9l&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m4amyBA4%2FMWhw5xHBDkqJfwqAkEB1dpKzAc3xx%2FBo62I%2BScEeAvKanx23%2FgOnM0oa31V9ikM0G%2B6vw3Dye9Bb0zsvFzLlfFKAZ6hVIJkRCZSGc8wEzQEbmFP8o51FmWtmcs%2BKwXGYxnzuPuu%2FmBjzDjSko27fheQfpNk1dwrkK7wttrRMVDGwMl82PgkXNCTLlMbpOyQ5P6K0mkMpeGlApIMqAHtiQJwuJjJepMlM7suFxR%2FsIcYVDaLqQ465qSYWIztnW%2FIrpiFABo0AhwnFYlC0N5tinIzVkqovimhDrqQ%3D%3D",
-   "posted_at": "2026-10-25T16:32:23+00:00"
-  },
-  {
-   "title": "Tablette 11\" Apple IPAD Air 11 Cellular 2025 - M3, 1 To, Gris Sidéral",
-   "price_raw": "869€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-apple-ipad-air-11-m3-1to-gris-sideral-cellular-2025-3452542",
-   "posted_at": "2026-11-11T20:00:06+00:00"
-  },
-  {
-   "title": "[GPU] Microcenter In-Store Austin, TX - PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $749.99 ($430 off)",
-   "price_raw": "$749.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/",
-   "posted_at": "2026-11-11T20:00:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1666,
+  "listings_seen": 1670,
   "models_with_reference": 43
  }
 }
