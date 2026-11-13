@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T18:38:00Z",
+ "generated_at": "2026-11-13T19:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-13T18:38:00.630494+00:00"
+   "last_ok": "2026-11-13T19:08:00.664438+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T18:38:00.630494+00:00"
+   "last_ok": "2026-11-13T19:08:00.664438+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-13T18:38:00.630494+00:00"
+   "items": 342,
+   "last_ok": "2026-11-13T19:08:00.664438+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 16,
-   "last_ok": "2026-11-13T18:38:00.630494+00:00"
+   "items": 73,
+   "last_ok": "2026-11-13T19:08:00.664438+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8TxxGrTrzftaC9ugKPHXqctDPAH2TrXsX9V40CY%2FrULRl2UrDLv0acviefs7ciocGP1xdrC3HLikAB91r2wrkrIt5sGj3fUM%2Bobyakq4ajkScZvRh4j%2BjD13mA3inyf3naz5LbF%2FJjNPe9HHO1o1uK%2Bse%2FGNyBFfkas137Vn%2FTJw%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "SSD M.2 SATA 512 Go XUANCUN - Format 2242",
    "model": "SSD:SATA-512Go",
    "category": "SSD",
@@ -99,8 +116,8 @@
    "price_eur": 30.86,
    "shipping_eur": 0.0,
    "effective_eur": 30.86,
-   "median_eur": 53.33,
-   "discount_pct": 42.1,
+   "median_eur": 50.49,
+   "discount_pct": 38.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
@@ -116,8 +133,8 @@
    "price_eur": 30.86,
    "shipping_eur": 0.0,
    "effective_eur": 30.86,
-   "median_eur": 53.33,
-   "discount_pct": 42.1,
+   "median_eur": 50.49,
+   "discount_pct": 38.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
@@ -133,31 +150,14 @@
    "price_eur": 30.86,
    "shipping_eur": 0.0,
    "effective_eur": 30.86,
-   "median_eur": 53.33,
-   "discount_pct": 42.1,
+   "median_eur": 50.49,
+   "discount_pct": 38.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237180847185?_skw=ssd&hash=item3739148451:g:kZEAAeSw~Opq9xNf",
    "posted_at": "2026-11-13T13:31:25+00:00"
-  },
-  {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FtB1m3ExMPNJyUxX0%2FpYZLP%2BHdEadbp4Aq2q8lsUSBJjbTRa5oYWnkpuM9oZMTSnnr3h9m59vhEPy4QCIT%2BZ4HP2nHxiSnGB%2FmFf%2Fzan%2FqdgGZCsM%2BTH4Cdtibp%2FBxE1%2B1ocHlBvhdJaEQ55pSqaANtLI6YOWPf7VTQ6Q%2F%2BJJ6ZA%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": " Netac 8go ddr4 3200 8go C22",
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb%2B9vJKrSezB8TCSgDrUHJAlm4GmfqZkD4m51L5aeZrUBhEWao%2BP0E72PYArkNjatSbGzhAe%2BUuH%2Fz1iK2PbxA0HZYlSwonT1zPfIwUBs8aN9S3IQ0R%2BryhDUtYpNUlVJ907qJ0zaJFoMNqnetnNoGA",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaZNwHB2d2%2BYXv0DV0zGKKkBKW%2Bigt8wcs1bDA7FQm71Mwji3YOQpjQzsV2odUeYatDryW5%2FDgwFLnRIHTxPlniH0nZQ97H7d55oa3ilbCE27uo2gr5VJ5ekYOr09OonSZG4OyuVH47kGfP%2Fq8Mt3H2",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -277,23 +277,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-32-gigabyte-mo32u2-qd-oled-4k-uhd-240-hz-hdr-true-black-400-3454326",
    "posted_at": "2026-11-13T12:47:04+00:00"
-  },
-  {
-   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
-   "model": "SSD:NVMe-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 22.44,
-   "shipping_eur": 0.0,
-   "effective_eur": 22.44,
-   "median_eur": 27.59,
-   "discount_pct": 18.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 389 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
-   "posted_at": "2026-11-09T11:03:45+00:00"
   }
  ],
  "unclassified": [
@@ -338,13 +321,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/920139739738?_skw=processeur&hash=itemd63c9a325a:g:uecAAeSwc1hq90OT",
    "posted_at": "2026-11-13T17:06:55+00:00"
-  },
-  {
-   "title": "TECKNET Clavier sans Fil Rechargeable AZERTY, Multi-Appareils Bluetooth 2,4 GHz",
-   "price_raw": "66.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920139794280?_skw=clavier&hash=itemd63c9b0768:g:JzAAAeSwjHtq90kP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mQdKwG0uPOa5WEsqIpKEQekcjC7H3Qb5WPNIHIlqsVOwPiqVwJTv1vJRj3xCftVTjXEmWs8s3hTEmtQiUCS9ti0JW6AGmrvPHfkoEff%2FsLZPY1BC78r772HS8y%2FeorHqMGqrM5r7QUCfb%2FQlrBCcmvOCzJr9Y6C1K6KInz6%2Bw%2FuoY6l9kJzt9zYpPAlg9Ik5PeiyR%2BmBY82uefI1EEdnL%2BrlUFapZDJqdYMMBM5UP5WnqMlNrNINuFB7WLe2gDoQtw4l7U3cTGrRdQPJmDZExb08emUGMa7xkvT56FXGjlpg%3D%3D",
-   "posted_at": "2026-11-13T17:30:03+00:00"
   },
   {
    "title": "20% de réduction dès 200€ d'achat sur une sélection d'imprimantes",
@@ -646,10 +622,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-14-acer-aspire-go-14-ag14-72p-58az-fhd-ips-core-5-120u-16go-ram-512go-ssd-ecran-pc-27-acer-nitro-260-hz-fhd-odr-3453907",
    "posted_at": "2026-11-13T07:33:36+00:00"
+  },
+  {
+   "title": "PC portable 16\" Acer Aspire 16 AI A16-61M-R4H0 - Full HD OLED, AI 5 330, 16Go RAM, 512Go SSD, 61 Wh, Win 11 + Ecran 16\" portable (via ODR)",
+   "price_raw": "699€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-acer-aspire-16-ai-a16-61m-r4h0-full-hd-oled-ryzen-ai-5-330-16-go-ram-512-go-ssd-61-wh-windows-11-3453899",
+   "posted_at": "2026-11-13T07:28:37+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1728,
-  "models_with_reference": 48
+  "listings_seen": 1727,
+  "models_with_reference": 47
  }
 }
