@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T05:08:00Z",
+ "generated_at": "2026-11-13T05:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-13T05:08:00.675099+00:00"
+   "items": 341,
+   "last_ok": "2026-11-13T05:38:00.682008+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T05:08:00.675099+00:00"
+   "last_ok": "2026-11-13T05:38:00.682008+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 375,
-   "last_ok": "2026-11-13T05:08:00.675099+00:00"
+   "last_ok": "2026-11-13T05:38:00.682008+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-13T05:08:00.675099+00:00"
+   "items": 80,
+   "last_ok": "2026-11-13T05:38:00.682008+00:00"
   }
  },
  "watchlist": [
@@ -71,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZd3mPzMRbqXUCgVVfKPaxGsWyvnk910dE3lTDgL8Wiq%2Bt6%2B630HBU9tO0U5369TQz%2FiE3Z%2BZuQJpcWteeMRGunc0QaD1XUvQzRtLFLk1ZDk7RoSWskUD7%2FPsSPGX6VxHpVWAv%2Fzf88Ovnl0pXdfIdA",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb4J5thRSMNC2SpxdkBNL8w%2FdYqJBK6gQ%2BwouFenSonRK7fA3yhTzMmZx2m%2FXpP0x5eFxMkyAGzpiHMhgou%2BixZXxRwbmblpwQgrCww%2BuSiEaOjC9blQ50nx2WXumoM8rDhr%2FTkP4XEmCaBiHMV%2BzNH",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9kVojx7c7%2BEZDramMb%2FRY95j%2F22Gu8U5xqAXaaRF3uNPdmzqZyfj8u4piCBTnxf2Jf%2F6fT%2FLYWJsSxiA5GXJihdZiYzbgUQnB2x9HY4KZNy28gq9G%2FP4F6abT6%2F014Z7RzNa5h0vIk3eSlJRv3tMSX201ySrpHnph2lcCQJL31%2BA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8gfznwULqy8X8wEb8qvf1bZ918DSIllp51SWY8vMni39vYBytu562%2B1ExesLeRYzZpJbDZ%2Fiet2ayzkW9r6kFSjjkXyRNaEnuZyNYBbrMpb7v6%2F1I47dHnTIkkXW7OuH98rYXJy7sh05tFg8Agp2bezvfYP10zlzYVGgcx5nLYWA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -160,23 +160,6 @@
    "posted_at": "2026-11-06T12:36:05+00:00"
   },
   {
-   "title": "SSD NVMe interne Lexar Play 2 To - Avec dissipateur thermique, compatible PS5 (+10€ offerts en fidélité pour les adhérents)",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 199.99,
-   "shipping_eur": null,
-   "effective_eur": 199.99,
-   "median_eur": 289.24,
-   "discount_pct": 30.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Fnac",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-lexar-play-avec-dissipateur-2-to-gris-compatible-ps5-10eur-offerts-en-fidelite-pour-les-adherents-3453075",
-   "posted_at": "2026-11-12T15:31:17+00:00"
-  },
-  {
    "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -209,6 +192,40 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-238-lenovo-l24-4e-fhd-ips-100-hz-3453547",
    "posted_at": "2026-11-12T20:26:49+00:00"
+  },
+  {
+   "title": "SSD interne LEXAR PLAY AVEC DISSIPATEUR 2 TO GRIS POUR PS5",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 199.0,
+   "shipping_eur": null,
+   "effective_eur": 199.0,
+   "median_eur": 274.62,
+   "discount_pct": 27.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Darty",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-lexar-play-avec-dissipateur-2-to-gris-pour-ps5-3453769",
+   "posted_at": "2026-11-13T05:23:42+00:00"
+  },
+  {
+   "title": "SSD NVMe interne Lexar Play 2 To - Avec dissipateur thermique, compatible PS5 (+10€ offerts en fidélité pour les adhérents)",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 199.99,
+   "shipping_eur": null,
+   "effective_eur": 199.99,
+   "median_eur": 274.62,
+   "discount_pct": 27.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Fnac",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-lexar-play-avec-dissipateur-2-to-gris-compatible-ps5-10eur-offerts-en-fidelite-pour-les-adherents-3453075",
+   "posted_at": "2026-11-12T15:31:17+00:00"
   },
   {
    "title": "Processeur AMD Ryzen 7 7800X3D - Tray (180.33 via Paypal)",
@@ -298,10 +315,31 @@
  ],
  "unclassified": [
   {
+   "title": "PNY NVIDIA Quadro K420 2GB DDR3 Carte Graphique Pro Low Profile HDMI DVI",
+   "price_raw": "19.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366366495572?_skw=carte+graphique&hash=item554d251354:g:W9MAAeSwmT1p6yCb",
+   "posted_at": "2026-04-24T07:51:04+00:00"
+  },
+  {
+   "title": "Disque SSD externe portable USB Type-C 1 To 2 To pour PC Mac Windows",
+   "price_raw": "46.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800910832673?_skw=ssd&hash=itemba7a017421:g:xUgAAeSwkWZq9qE-",
+   "posted_at": "2026-11-13T05:34:01+00:00"
+  },
+  {
+   "title": "Thermalright AXP90 X53 ventirad CPU bas profil 92mm AM4 AM5 LGA1700 ITX",
+   "price_raw": "53.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198791160669?_skw=ventirad&hash=item2e48e0635d:g:ldcAAeSwQzlq9psd",
+   "posted_at": "2026-11-13T05:07:52+00:00"
+  },
+  {
    "title": "8Go RAM Mémoire Mesh Elite Skylake Fury X (DDR4-17000 - Non-ECC)",
    "price_raw": "75.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/115802761598?_skw=ddr4&hash=item1af661e97e:g:nTkAAOSwPaJgeGLP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mDoqtW%2Fm%2BgtTMAHfdaCs6tP8qO4l2%2Fu9%2B2aNyoVk8rs%2BQFk0aNaIlvMi%2BCcDSuAtRhHt3%2FaharWIZ5N6qkrbB%2BdTnD9jiJcZGO79hqcJt01LeYBK9X8fc1xvWEys5n2kdxo87SH7eDG45cNL9%2FLeAIo8%2FKWVGsH1soM%2B6eBTKtQXbjloRKZ7SQLuCMfuYwyk006ZrHm0sDpmQx7pUTq56nEfZ%2F1oxDEFvKSCGzg1mmugiuIFme93AH5pW6EHbfaXbvGvWSmmbiEQ9ko63LFk%2F2",
+   "url": "https://www.ebay.fr/itm/115802761598?_skw=ddr4&hash=item1af661e97e:g:nTkAAOSwPaJgeGLP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mDoqtW%2Fm%2BgtTMAHfdaCs6tP8qO4l2%2Fu9%2B2aNyoVk8rs%2BQFk0aNaIlvMi%2BCcDSuAtRhHt3%2FaharWIZ5N6qkrbB%2BdTnD9jiJcZGO79hqcJt01LeYBK9X8fc1xvWEys5n2kdOae%2BVWB5KV7WRRNH9foBClodtgS%2BG64qBqQx%2FB7pn5nAdb7A9h43qU4BV%2FsI97pAwBV%2B884BFnsmR%2BY1P%2Bf4VW91DX7Ed33yW8cd7p9yNpNzs8WB0Mo1a1GoEQ3NVtPTmIVgtGPMgHvNQ78ze88Ea",
    "posted_at": "2023-05-12T13:56:49+00:00"
   },
   {
@@ -315,7 +353,7 @@
    "title": "SK hynix 8 Go DDR4 SDRAM SO-DIMM 260 broches PC4-3200AA HMA81GS6DJR8N-XN",
    "price_raw": "39.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhIIQnn%2F4BWm%2BqfyF0Gd17MSnSdZMgv4IAF06N8hQ3PuTCfYm%2FXKZaIlXQcpAkYR0Fq3dbiTTHrBSPPj3C%2FqgUICX7HhEORGkgrQzpMKp3a%2BDasDjRq4zGjMjrVAQ5NaJVPQ7IMydcokQht%2B1%2FLL03Tb",
+   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhIXiX%2BRwEz8af7fwXzLjFfLiL3Id11zUdXZcYRriQRCK%2FlatABVaQz3HDOLbM4pSFfrBy6U%2BDqmNb8Jm8cBiBJrucisbwmDz6%2BeiIqG627g%2B6kSjz1GAQ%2FHjEOqJ2PTr%2Fllt5h3IU320WXntagjkeaA",
    "posted_at": "2026-09-16T16:45:20+00:00"
   },
   {
@@ -336,7 +374,7 @@
    "title": "Carte graphique NVIDIA GTX 560 TI 1280MB",
    "price_raw": "20.43 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryAR5Uxbo5WAIytt5WS9tqbd%2Fjuo5qAp0vQgH4UHr2UyttnsAH0nb3%2FmViYha2cef7x3B%2BK6UnVWu%2BLiFvzozvlozOxOYTeskZyjjr8BGwPgfW72ZLD1p0pRFEtSf%2FscnUSscJrSD7LqlS2fAnxxoDPbSZUxrUMusn8KKV6aVSvYWw%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryAbVtF7ro6MK306mtHGn0vKeIpycUfCBP2Bm9seOKu7%2FRO81OxtFc864%2FRobA8UpdadwthnfxRK6Ixw8mBNwIhkHMZnXtG5q22VwbfFHj9e1swc26uRgQKokYNkjDmnIEGt6OTZp1nwoRGhT0tUeKcAUX5ZM0%2BM1FxnkkLPmdTL8Q%3D%3D",
    "posted_at": "2026-09-07T19:07:28+00:00"
   },
   {
@@ -522,13 +560,6 @@
    "posted_at": "2026-11-12T14:02:28+00:00"
   },
   {
-   "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
-   "price_raw": "159.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk5EfTF7LPHWoyjUlQ23TJ9a4LhGTkJaFOKW6vYrAQzAoUvq8jlRiA6%2FQYGgn0jrqIQ3lfOw4fssQas3NOxuW4R%2BNnqY85eoHD%2BbSp1T9P3MxC%2BtgGw%2BxRXp3x8sFL6iMBx5oPj%2FD8hb%2F7UJWMEM95Zytjb%2Bs9WGwAhJ8otrdJugCg%3D%3D",
-   "posted_at": "2026-11-04T20:24:41+00:00"
-  },
-  {
    "title": "Souris sans fil gaming Razer Basilisk V3 X Hyperspeed Noir et Vert",
    "price_raw": "49,99€",
    "source": "dealabs",
@@ -632,24 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/flow-up-pc-savannah-r5-5600-rtx-5060-ti-8gb-16-go-ddr4-ssd-1-to-3452668",
    "posted_at": "2026-11-12T06:09:10+00:00"
-  },
-  {
-   "title": "Imprimante 3D ELEGOO Centauri 2 Combo – Système Multicolore 4 Couleurs",
-   "price_raw": "279€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/centauri-2-combo-3452733",
-   "posted_at": "2026-11-12T05:05:55+00:00"
-  },
-  {
-   "title": "[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999",
-   "price_raw": "$999",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/",
-   "posted_at": "2026-11-12T05:30:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1688,
+  "listings_seen": 1691,
   "models_with_reference": 45
  }
 }
