@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T17:38:00Z",
+ "generated_at": "2026-11-13T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-13T17:38:00.653215+00:00"
+   "last_ok": "2026-11-13T18:08:00.647422+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T17:38:00.653215+00:00"
+   "last_ok": "2026-11-13T18:08:00.647422+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-13T17:38:00.653215+00:00"
+   "items": 350,
+   "last_ok": "2026-11-13T18:08:00.647422+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-13T17:38:00.653215+00:00"
+   "items": 61,
+   "last_ok": "2026-11-13T18:08:00.647422+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9RqXOj6u6%2BS6kBul0vzBcrz%2Fjsf%2Fh9CnUOu5Uk3tQ%2FQgkHu2hKOrJ620iKYo5OJMvrhtckK0k5VfOZ%2BusKYWFCx0OT296zzJVxhQ13etK%2FNS4%2BbIzqKikPCHE9PCND48XO9xTIX8r0sjF1AFGr70fSk%2BQX1XkqpRzlUXMFmsxuDg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BbWMrcIW96p2n43Oh65Tui2%2FqlLaMC%2F8nIg%2FtoomLiNjK%2Fq%2FTIgoRzGXt1vEVWve3t9VKeFBB46j6E8OxPyVyzP7r0cztMQ9seomldCo3B1fKabseNnoOUyrxxdfvF5b0O4bd%2BT9qRgfph%2FCUsHsAYA0XCLbIzXoYAhJiXseOZ0w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZLWNEhdbpswmLFic8v%2BN9qkGFYePL0%2Fe%2BSVTALvGLc13wXsFkJI%2F8oDaGnAabc84GDR15zlpSJ29wkVVu2QpX68edKhOncnGDXTw91eN9I8d2xabOLXTcJxyJF%2FlFmlGmemU2LChK0jTe3%2BuXzedrV",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZZpv1%2Fnkqqmb7ZkczZzI9QE3putYzpoAg4pNMPksbWL2huvWGXIpiWL0bhCaJUxt9nrUMIoCAk8aYAehdr0gBNXJ51rsDRlR7zODfRE5unOQSEe0qjRgzDDDfJdcjhx7ZtE4mw2MIYDngw%2B%2BwD%2BhPr",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -277,6 +277,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-32-gigabyte-mo32u2-qd-oled-4k-uhd-240-hz-hdr-true-black-400-3454326",
    "posted_at": "2026-11-13T12:47:04+00:00"
+  },
+  {
+   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
+   "model": "SSD:NVMe-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 22.44,
+   "shipping_eur": 0.0,
+   "effective_eur": 22.44,
+   "median_eur": 27.59,
+   "discount_pct": 18.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 389 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
+   "posted_at": "2026-11-09T11:03:45+00:00"
   }
  ],
  "unclassified": [
@@ -305,7 +322,7 @@
    "title": "TECKNET Clavier sans Fil Rechargeable AZERTY, Multi-Appareils Bluetooth 2,4 GHz",
    "price_raw": "66.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920139794280?_skw=clavier&hash=itemd63c9b0768:g:JzAAAeSwjHtq90kP",
+   "url": "https://www.ebay.fr/itm/920139794280?_skw=clavier&hash=itemd63c9b0768:g:JzAAAeSwjHtq90kP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mQdKwG0uPOa5WEsqIpKEQekcjC7H3Qb5WPNIHIlqsVOwPiqVwJTv1vJRj3xCftVTjXEmWs8s3hTEmtQiUCS9ti0JW6AGmrvPHfkoEff%2FsLZPY1BC78r772HS8y%2FeorHqPVlYfubejntKgwhzLRo7v%2FjLxgotkfujM%2FBFztsjcAUE7ZImHAVelslNmIIHmWwdSCeMNWNjxJEEHrY6LNifzrdVVpd5VgO2LPmZmnkjo8u3hZwsLYS3YM0jXU37KL99xMPRyXaUhhWlP%2FpOzx9qETG0bvW3ovMaKOnYP0s1VmJw%3D%3D",
    "posted_at": "2026-11-13T17:30:03+00:00"
   },
   {
@@ -342,20 +359,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xvcrvp/cpu_r7_5800x3d_10th_anniversary_edition_26900/",
    "posted_at": "2026-11-13T16:43:17+00:00"
-  },
-  {
-   "title": "Lot de 13 Processeurs CPU Intel Core i5 6e Gen i5-6500 i5-6400 i5-6500T LGA1151",
-   "price_raw": "203.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920139738456?_skw=processeur&hash=itemd63c9a2d58:g:siQAAeSwLcRq90NQ",
-   "posted_at": "2026-11-13T17:05:57+00:00"
-  },
-  {
-   "title": "Thermalright AXP90 X53 ventirad CPU bas profil 92 mm ITX AM4 AM5 LGA1700",
-   "price_raw": "51.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287727493618?_skw=ventirad&hash=item42fde521f2:g:kOUAAeSw5X1q9z-a",
-   "posted_at": "2026-11-13T16:50:22+00:00"
   },
   {
    "title": "Tablette Lenovo Ideatab 8 - 128 Go (Via 55,00€ sur carte Fidélité)",
@@ -629,10 +632,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-14-acer-aspire-go-14-ag14-72p-58az-fhd-ips-core-5-120u-16go-ram-512go-ssd-ecran-pc-27-acer-nitro-260-hz-fhd-odr-3453907",
    "posted_at": "2026-11-13T07:33:36+00:00"
+  },
+  {
+   "title": "PC portable 16\" Acer Aspire 16 AI A16-61M-R4H0 - Full HD OLED, AI 5 330, 16Go RAM, 512Go SSD, 61 Wh, Win 11 + Ecran 16\" portable (via ODR)",
+   "price_raw": "699€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-acer-aspire-16-ai-a16-61m-r4h0-full-hd-oled-ryzen-ai-5-330-16-go-ram-512-go-ssd-61-wh-windows-11-3453899",
+   "posted_at": "2026-11-13T07:28:37+00:00"
+  },
+  {
+   "title": "[Prebuilt] CyberPowerPC Gaming Desktop AMD Ryzen 7 9800X3D 2024 AMD Radeon RX 9070 16GB 32GB DDR5 Memory 1TB SSD Storage Black - $1749.99",
+   "price_raw": "$1749.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xv1hw7/prebuilt_cyberpowerpc_gaming_desktop_amd_ryzen_7/",
+   "posted_at": "2026-11-13T07:24:48+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1740,
-  "models_with_reference": 47
+  "listings_seen": 1737,
+  "models_with_reference": 48
  }
 }
