@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T22:08:00Z",
+ "generated_at": "2026-11-13T22:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-13T22:08:00.672745+00:00"
+   "items": 342,
+   "last_ok": "2026-11-13T22:38:00.648696+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T22:08:00.672745+00:00"
+   "last_ok": "2026-11-13T22:38:00.648696+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-13T22:08:00.672745+00:00"
+   "items": 338,
+   "last_ok": "2026-11-13T22:38:00.648696+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 76,
-   "last_ok": "2026-11-13T22:08:00.672745+00:00"
+   "items": 74,
+   "last_ok": "2026-11-13T22:38:00.648696+00:00"
   }
  },
  "watchlist": [
@@ -126,6 +126,23 @@
    "posted_at": "2026-11-12T20:26:23+00:00"
   },
   {
+   "title": "Samsung SSD interne M.2 SATA 128 Go MZNTD128HAGM-00000 MZ-NTD1280/000",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 13.96,
+   "shipping_eur": 2.78,
+   "effective_eur": 16.74,
+   "median_eur": 29.0,
+   "discount_pct": 42.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · boiteachiner (100,0 %, 215 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327454846987?_skw=ssd&hash=item4c3dd4700b:g:nMcAAeSwXHdq942o",
+   "posted_at": "2026-11-13T22:23:40+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FgBwcXMvnjd2bGc0LaBJqndt7Uarbi69Nia0iY%2FMu4Oudj9KHztIv0%2B5vLamVXnxYGN4UHb6S4tugaKVLaUv72QwCjA9JLAWamroaR6JlfowCjtCWZ6Q%2FMHayX6vKNxB4XaVIkzi5816z%2FkXL537IjySRR%2BleeH9GKK1tnhbMnKw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BYIXYN1ELPrUGUM0FFfFzkS9oxejNU%2FDdXaCmN37zhbJvOAK%2Fqdq43GHrbr6wx4V7RMwNduiwVZxiGm0Bc1es%2FYwfXINfIpmh4E%2FH8JA64n%2FRwIcVhCs5rPGGglQLDOMUA5qgQCJ%2B3CUfw6%2FSVzmcZWx8w%2F1HKJYDCJGG39biGfw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZrWL1jYWxDERKMXF1%2BvibCL4JsWnQTdLclSViiRgqPwGyitQrHEOCOpkJ5P%2Bk2AKlMlXkpAJBMQORCBiDUPIebDAm75TrS6viEiWn4ZsJemizxE%2FVm6r2PBeUlVyGLTcgoR%2BR1u3kB7%2Ba6hrd97TkR",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZWtCpToTfD0w%2FZo%2B%2FvnFo3%2F1p%2FOPqiSrFlof0odZ1lOXbHH6jkEdUFJCP5%2FkP36InxwanorH4SY5SkKYsz5GCNPZ4IPJTiDEp%2BPt5DzI1FyM2huuZVUWh8uaBuqmxHhgDhj8DRLfjo9wlyQTeBtb1f",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -330,6 +347,23 @@
    "posted_at": "2026-11-13T12:47:04+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -337,8 +371,8 @@
    "price_eur": 22.44,
    "shipping_eur": 0.0,
    "effective_eur": 22.44,
-   "median_eur": 27.59,
-   "discount_pct": 18.7,
+   "median_eur": 26.6,
+   "discount_pct": 15.6,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 389 avis)",
@@ -348,6 +382,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
+   "price_raw": "104,42€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ddr3-m2-2280-sata-de-128-go-wifi-5-bt-42-windows-11-pro-3454902",
+   "posted_at": "2026-11-13T22:30:26+00:00"
+  },
+  {
+   "title": "[ ASUS - PRIME NVIDIA GeForce RTX 5070 Ti 16GB] - $1,199.99 - @BestBuy",
+   "price_raw": "$1,199.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xvlofk/asus_prime_nvidia_geforce_rtx_5070_ti_16gb_119999/",
+   "posted_at": "2026-11-13T22:24:28+00:00"
+  },
   {
    "title": "PC Portable 17.3\" HP OmniBook 7 - Intel Core Ultra 7, 32 Go RAM, SSD 2 To, QWERTY (Frontaliers Suisse)",
    "price_raw": "1 065€",
@@ -375,13 +423,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128193128081?_skw=carte+m%C3%A8re&hash=item1dd8e7e691:g:tYwAAeSwj~Zq94JM",
    "posted_at": "2026-11-13T21:37:57+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" MSI MAG 274QPF X30MV",
-   "price_raw": "292,40€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-mag-274qpf-x30mv-3454858",
-   "posted_at": "2026-11-13T21:33:48+00:00"
   },
   {
    "title": "Souris Gaming Asus ROG Keris II Ace sans fil - Noir",
@@ -552,13 +593,6 @@
    "posted_at": "2026-11-13T16:30:27+00:00"
   },
   {
-   "title": "Ecran d'ordinateur Lenovo L24-4C 23.8\" 1920 x 1080 pixels Full HD LCD Gris",
-   "price_raw": "106.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960191471669?_skw=%C3%A9cran+pc&hash=itemdf8fdf2035:g:iEEAAeSww6dq9zxa",
-   "posted_at": "2026-11-13T16:35:34+00:00"
-  },
-  {
    "title": "Processeur Intel Core Ultra 7 Processor 270K Plus 24 - 8 P-Cores + 16 E-Cores, up to 5.5 GHz",
    "price_raw": "279,90€",
    "source": "dealabs",
@@ -700,7 +734,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1724,
+  "listings_seen": 1726,
   "models_with_reference": 44
  }
 }
