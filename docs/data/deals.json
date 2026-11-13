@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T08:38:00Z",
+ "generated_at": "2026-11-13T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-13T08:38:00.679962+00:00"
+   "items": 339,
+   "last_ok": "2026-11-13T09:08:00.624389+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T08:38:00.679962+00:00"
+   "last_ok": "2026-11-13T09:08:00.624389+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 374,
-   "last_ok": "2026-11-13T08:38:00.679962+00:00"
+   "items": 373,
+   "last_ok": "2026-11-13T09:08:00.624389+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 7,
-   "last_ok": "2026-11-13T08:38:00.679962+00:00"
+   "items": 80,
+   "last_ok": "2026-11-13T09:08:00.624389+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": "Netac NV3000 SSD Interne M.2 NVMe PCIe 3.0 Disque 250 Go 500Go 1To 2To 3500MB/s",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 149.99,
-   "discount_pct": 66.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · shop-produit-divers (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
-   "posted_at": "2026-10-12T17:30:00+00:00"
-  },
   {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
    "model": "MB:B850",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B7qLw8fyXyCQfOyVQl2l2aYXbO7Ec7jgYBlGNMmbzfjKHBv%2FoNSfQNk%2FBT36GmBwiO%2BKAd9dvGDcdyiTs2fV5z8ZwNdrsEALG5bKZPDoBT5c1j9bjogFFbOGwJPfhnfx88%2FA2vYHV%2BBN5OlyRkcru5k2b%2FS8fDDv1wl4DWkVlKDg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8dhfY6%2Fz8r%2FaMc5WCF4u3s%2BUndkURgRPv3Hf%2FXRsn9tkITAtH3TYqWUQbd0mRhPbIFnYNCIZGWhtG26qczzmH9IF5TWQcgCl6m9eMwTbvZyLwr7cFDp4sMdTQwj0uXnBcnClZt8i7fUkWBiu8zdf5wKkCtj8h%2Fzh5LBBu9JLN%2BWA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb7j25fS7x5IyD%2Fz1UDS70z79HVDTvTDS93Ev3ZKOqVfGBcUR5szcgfam2zqGRGckXJFw4NduGfc%2Fj19i%2F7Zq6f3cTmcKTmiRMw3xv218O3UFy1mi5IDhwNifEeDv2WkPDR2BpLRrwgzCihSZYAJ1m6",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbl6X1foOwJkTT01kgR--jJqHKUiv0dODXMExhMg0F2KTs0AY%2FeeG7XhtCpjxCgpofuv%2B5IVAnj8egQmILr2Ga6ifYFstQRuloFEvRiUiDT%2BtWW15--fehegX6s58vT2J%2BKKR19CoYEZntU%2BRcyMi--",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -281,6 +264,20 @@
  ],
  "unclassified": [
   {
+   "title": "Sac à dos Travelite avec compartiment rembourré pour ordinateur portable 15,6 pouces",
+   "price_raw": "16,63€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/sac-a-dos-bagages-a-main-travelite-compartiment-rembourre-pour-ordinateur-portable-156-pouces-3453997",
+   "posted_at": "2026-11-13T08:39:49+00:00"
+  },
+  {
+   "title": "SK hynix 16 Go DDR5 SDRAM SO-DIMM PC5-5600B 1x16 Go HMCG78AGBSA095N",
+   "price_raw": "260.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227612277094?_skw=ddr5&hash=item34febfb966:g:xL0AAeSw~Opq9tEw",
+   "posted_at": "2026-11-13T09:04:45+00:00"
+  },
+  {
    "title": "Boitier PC SilverStone FLP02",
    "price_raw": "149,90€",
    "source": "dealabs",
@@ -340,36 +337,29 @@
    "title": "SSD externe portable Somdisk USB Type-C haute vitesse pour PC Mac Android",
    "price_raw": "47.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910867417?_skw=ssd&hash=itemba7a01fbd9:g:MFsAAeSwHwBq9qZo&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mBL0tWOgXxISx4eGzOH9vEE8Ld6UwLbu%2FUJJn3UXBI94jsifbRF%2ByAMVezESmVNrT%2BPJlD3UYJa4YLY2W%2BQ8YNzjP4M5KIFa3h%2FsXu33J%2BhXEKmh%2FdGFZRNklk8u0qeZbKo%2FX11nIO12Rxqsbp7vfVQQiPbjgAY9m7S0OykAxJYkLh1du%2FTmfOTkptvJkSZmbDW5faG2K2w3bZfiUszmxtG086282r4Cwvy1F9Fm%2FaGFf594eiFokwDJ027TOgZuNPyjYcpQv9Z8JtECKVgkf4",
+   "url": "https://www.ebay.fr/itm/800910867417?_skw=ssd&hash=itemba7a01fbd9:g:MFsAAeSwHwBq9qZo&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mBL0tWOgXxISx4eGzOH9vEE8Ld6UwLbu%2FUJJn3UXBI94jsifbRF%2ByAMVezESmVNrT%2BPJlD3UYJa4YLY2W%2BQ8YNzjP4M5KIFa3h%2FsXu33J%2BhXEKmh%2FdGFZRNklk8u0qeZY2I7SVinAUvxYiVeuN1rcH19KZ%2FFUlhnveF8l4aQRzQ6EDypZNhQpShFcxrPQ6qHTwgf%2F5jb2ktJSfutAtmOQ7%2FaUlXIgSZNgMIFWUEmXlNnoaTVJKQLDDW234b9jtJiNuTXfgx1OEwxka9DH9qXfA",
    "posted_at": "2026-11-13T05:56:03+00:00"
-  },
-  {
-   "title": "Disque dur externe 2 To SSD portable 1 To USB 3.1 haute vitesse Mac PC",
-   "price_raw": "43.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910888025?_skw=ssd&hash=itemba7a024c59:g:36UAAeSwEVRq9qf~&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mzs7I55G3%2F0B%2BQriiiMAvBRdr7R7Iw4hYby%2Fahy%2BSLwRI9uuG5smHlXcTFicjlvB6H9sYugTVWBwZrecIhajMYlMS5TDpvHI2x6anOk0HJsK7QnBvfdbUlsvXfnb3yfh3Uz1vRAzvOuSsB9o1wj35a5eNER%2BxrBrCjxRN33Ta7LwlKqtsCtBDZQbnPz1kwdO2oRP2qq05sGc0XP99tcHCbVgWZtqeB%2F5C%2F5APmBRd0XNeC00Wfh%2BOhl51mp7vozRJ4Nc9nGRBdY7n82taaHEZK",
-   "posted_at": "2026-11-13T06:02:49+00:00"
   },
   {
    "title": "SSD externe portable 16 To USB 3.1 Type-C haute vitesse pour PC et Mac",
    "price_raw": "46.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910874574?_skw=ssd&hash=itemba7a0217ce:g:WTEAAeSwQXxq9qeT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7koJpHjw1YSAKM%2FzQF1xQCOQBN1uPoSMoIdL%2F9Vx%2Bjm5j%2BO9MbAEXg%2ByL4KYGHUN41dgzTZcbAf54070hMkDTYiqM%2FVo7UtZ9TZuRlJfnB7kqDQ9twaggxfL4GQiCZyje%2FMdTomHxxsu39aVUyYJ4OuAR85wPB%2FZIv5teXN5HMV7GdkdrmPCovvBdQra6PIv0uTkm%2B0zpsigvbZCoiq07GkVO6LzM6l2HgkJ%2FZxRNViYczUIpHFdHsa74H3RLZkUBnspMoU1YOWFu55dFbq4U1a",
+   "url": "https://www.ebay.fr/itm/800910874574?_skw=ssd&hash=itemba7a0217ce:g:WTEAAeSwQXxq9qeT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7koJpHjw1YSAKM%2FzQF1xQCOQBN1uPoSMoIdL%2F9Vx%2Bjm5j%2BO9MbAEXg%2ByL4KYGHUN41dgzTZcbAf54070hMkDTYiqM%2FVo7UtZ9TZuRlJfnB7kqDQ9twaggxfL4GQiCZyje%2ByEyZMm7UUlMwRe2R%2BlKO9685YMjG8eonjf9P0Jvs4mF8xq0TG3tr2ykZdHSc13wuSQQHGvnrspjaeD4ydOFLjjjBeW2vVA8PjAv7BtdJoL3Djp7KKuhlbyZSjr2a8uxnuO51eEWHWtBShoDWWnntV",
    "posted_at": "2026-11-13T06:01:03+00:00"
   },
   {
-   "title": "SSD portable 2 To USB Type-C, disque externe rapide pour PC Mac ordinateur",
-   "price_raw": "44.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910872037?_skw=ssd&hash=itemba7a020de5:g:Kh8AAeSw4VFq9qdE&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ncPQ4eSVdaikGNj%2FjYX8T7L0EmVEepDlHnCrQpjRHkylxmKwyvlDsrWqsKR1gdBbT5a4XTThH09eNqFClPO577Eni%2BBBzlvDLt4Hnu4yTaHiqcSCRUMy3BvnvCJFMzr1KG%2FYKPMNqyNfMjRl2V%2Bgqsvav0WiHVRkTxVoD9qBncygafgx3RuziveSHjkzYbK8yyIdbGywb%2BaXQBHSt2O0RwrazBdCeuRhPNGt%2BhSOp9sVgsEx8N6RHG85P4j%2FeF6OGL1B8QcbZU7HWZ4ykYDNp%2F",
-   "posted_at": "2026-11-13T05:59:43+00:00"
-  },
-  {
-   "title": "Disque SSD portable USB 3.1 Type-C 2 To, disque dur externe rapide PC Mac",
+   "title": "SSD externe portable USB 3.1 Type-C haute vitesse pour téléphone PC Mac",
    "price_raw": "66.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910869949?_skw=ssd&hash=itemba7a0205bd:g:IIcAAeSwaHJq9qbZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ku3OV75HLXGQG3fHLfWxSCUF0iAKEKb0ybINaPgaoUliBKOJz5FIMYqlQGwQh9borHHW0P1z6%2FAZWy8wCnCEZ45w0hFvLzs8lvTFeAFgrPBKmFq6a%2FsibVNveINup1rAVQHHC1ZIRNpsv8zFWiF6xJq4MK5suv9goxUpqFR3q2z3UA%2F1FqSI%2Fu46J5pbThj6qEVF4ck5TtSpbxr313KlwroOlRVE63RDSSFhC2atnypn0HL%2BoCv389LCmZBPQXwlGMK6aBUrHiODA3qhdou60s",
-   "posted_at": "2026-11-13T05:57:55+00:00"
+   "url": "https://www.ebay.fr/itm/800910859070?_skw=ssd&hash=itemba7a01db3e:g:82QAAeSwa8lq9qUt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nNwzLzKG6gntNlW3xRhW5veu5%2FnOCgf6hLPb%2Fz05Hop%2Fa%2FXSuoUU4iO9PAGixhoey3dDTnxYKmPp0Y5gYbdLutGfK4JlyHl6w4v7RQxixWTClcIDNj2mgKMdsPg7ATmWtMewRuSOH0c1e7JyOLw4Kt%2FlkJcUFZ8RB2UKAQH%2BgwC53gbF37QWMGcc6v%2FQGkzvOXj8J8goVYidIKJ0GIV6SHVlRmkPaDkMm5YSbRo0ZsyyFIqSq1GuELMpAuLhc1%2FjPaOJakov3X7FvUbuRoC84C",
+   "posted_at": "2026-11-13T05:50:48+00:00"
+  },
+  {
+   "title": "SSD externe portable USB 3.1 Type-C 1 To 2 To 4 To haute vitesse PC Mac",
+   "price_raw": "67.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800910834086?_skw=ssd&hash=itemba7a0179a6:g:yeYAAeSwz89q9qGc&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nwTxEDLJqXsHnKpXF0O3%2B87Ce9KTwenw%2Fihp%2FQi6kXQuSUFxfFH%2FgZFXCHjjwVQ7ccojWhqTgo7nF6vQIiGRXi4K4qqaR3DUvIL%2F2W%2Bcj5CojfAO4kaFAFXPPjTn6hKCGroJEDQbj18iYfvqRmZbFijCrRn7Yq4mJjTtNLLeXryDzKx%2BJyz3hOG1O5JABqpZL6DVX8JEW0X%2BWG0vGwcqi3DW32v9ghkKNlYqD%2FxZB4%2FynRwZfE%2FykqKmJE3dYuU5ZYqj%2Be0cEPXQ1hj%2BCdqYwB",
+   "posted_at": "2026-11-13T05:35:35+00:00"
   },
   {
    "title": "Thermalright Peerless Assassin 120 SE ARGB ventirad CPU 6 caloducs double",
@@ -393,6 +383,13 @@
    "posted_at": "2026-04-24T07:51:04+00:00"
   },
   {
+   "title": "8Go RAM Mémoire Mesh Elite Skylake Fury X (DDR4-17000 - Non-ECC)",
+   "price_raw": "75.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/115802761598?_skw=ddr4&hash=item1af661e97e:g:nTkAAOSwPaJgeGLP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mDoqtW%2Fm%2BgtTMAHfdaCs6tP8qO4l2%2Fu9%2B2aNyoVk8rs%2BQFk0aNaIlvMi%2BCcDSuAtRhHt3%2FaharWIZ5N6qkrbB%2BdTnD9jiJcZGO79hqcJt01LeYBK9X8fc1xvWEys5n2kfxYM55jl2k5ZDVAPFdTlmI3Gq1C0G29VGyToqmauSfovTK06xp1fj%2BdYB9G0RthpCIzp2hwl%2FcbS9AWiMJmhXrVPVCmtxDdLo3QceMNmLwuEkZc3fQZPxDq%2FoBb2nuz5FaqkOEVPMkM6AToAiwMOTN",
+   "posted_at": "2023-05-12T13:56:49+00:00"
+  },
+  {
    "title": "[Prebuilt] Sams Club in Store Only | HP OMEN Gaming Desktop | Intel i7-14700F, 16GB DDR5 5600 RAM, 1TB SSD, NVIDIA RTX 5060 | $539.31 ($1199.00-$659.69) | YMMV!",
    "price_raw": "$539.31",
    "source": "reddit",
@@ -403,7 +400,7 @@
    "title": "SK hynix 8 Go DDR4 SDRAM SO-DIMM 260 broches PC4-3200AA HMA81GS6DJR8N-XN",
    "price_raw": "39.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhLeQgtjFcMWJwsU0PyhLLD5I9cFOk7GkzIB%2Bbb6niD332h0soglZe47yxjQYxihO2uKhaBubx1G2OOfhNH%2BydLOkKlyZCQjGM6I5fC%2Fq2t6gY89SJtyZXES20WK0z179aCAGhDb3SxboX2IAZyTfptp",
+   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhJeCwUxAMR7%2BN8dwpHU2UN58NLCTtRhoWyFhEAD59hBcue5EGijTH%2BYg6Ah6Kh%2B7h2rfrcGuwBUMd2W3JnToLAvXYxAKVh9GJ17w0po5Hr8DqLWYGoY8%2BH818Aial%2BppjK7xa7jOM493O4xQ3KA0rJh",
    "posted_at": "2026-09-16T16:45:20+00:00"
   },
   {
@@ -419,13 +416,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xuv3t5/prebuilt_cyberpowerpc_gamer_supreme_gaming_pc/",
    "posted_at": "2026-11-13T01:43:51+00:00"
-  },
-  {
-   "title": "Carte graphique NVIDIA GTX 560 TI 1280MB",
-   "price_raw": "20.43 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryCBwgoHpOcmxdpsHe%2Fs0D1E0TBgrJg6wMV6ctEBAamsAlL3%2BPXBe9t0uL6o7fjbGzu69PGGoaxaI5EaqFtiTcFQWejOs9BOVlkvwIjixfI%2BUmWBRDQvmM%2FSRWa%2BvWzE6H96ZEU%2FWO6cDh66ZTfdEfGfcNQmGzXPFU%2BmdmMy5XHpOQ%3D%3D",
-   "posted_at": "2026-09-07T19:07:28+00:00"
   },
   {
    "title": "Samsung Ram So-dimm Ddr4 Pc4-3200aa 16go 260pin M471A2K43EB1-CWE",
@@ -613,7 +603,7 @@
    "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
    "price_raw": "159.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk6wyv3UGgNPH1pXwnDttHIawJ1UKMlWEIUzNbc2IMlNRPaksjs5VRwujtp6fbIphZlkAo%2BpmvKH9eF%2FdFsMuK1D%2BUAKytXwLLaujGCGXRmLVuUcKZRf7WpVdzFrUBUZIZ4BpfbGJSJNYhfrwV8CsQB5ypCU29CfMvgy5sKBwmZspA%3D%3D",
+   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk5yMAaB8Xaf6S7rKGg4ts%2BvEl%2BMLkRtz%2BgCRfATjVK8vaIMiCKvNiNFCmR5Ka7xYYRih0TgmAoM7GF3T%2BbQ6vxKdbSpT%2Fwr%2BVqj59WSg1z%2FQVJIakSRkAE18D7DpZJP8djZRKKZdCQ%2FsPbRYxowqtg2D5JspLuJ%2FgzfprqGLuXmuA%3D%3D",
    "posted_at": "2026-11-04T20:24:41+00:00"
   },
   {
@@ -622,17 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-gaming-razer-basilisk-v3-x-hyperspeed-noir-et-vert-3453148",
    "posted_at": "2026-11-12T12:02:53+00:00"
-  },
-  {
-   "title": "Imprimante 3D Creality K2 SE Combo - Impression Multicouleur avec CFS (vendeur tiers)",
-   "price_raw": "402€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/creality-k2-se-combo-imprimante-3d-impression-multicouleur-avec-cfs-3453144",
-   "posted_at": "2026-11-12T12:01:10+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1710,
+  "listings_seen": 1709,
   "models_with_reference": 45
  }
 }
