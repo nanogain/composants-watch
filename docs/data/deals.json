@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T12:08:00Z",
+ "generated_at": "2026-11-13T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-13T12:08:00.620535+00:00"
+   "items": 345,
+   "last_ok": "2026-11-13T12:38:00.664685+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T12:08:00.620535+00:00"
+   "last_ok": "2026-11-13T12:38:00.664685+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 371,
-   "last_ok": "2026-11-13T12:08:00.620535+00:00"
+   "last_ok": "2026-11-13T12:38:00.664685+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-13T12:08:00.620535+00:00"
+   "items": 80,
+   "last_ok": "2026-11-13T12:38:00.664685+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": "Netac NV3000 SSD Interne M.2 NVMe PCIe 3.0 Disque 250 Go 500Go 1To 2To 3500MB/s",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 149.99,
-   "discount_pct": 66.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · shop-produit-divers (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
-   "posted_at": "2026-10-12T17:30:00+00:00"
-  },
   {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
    "model": "MB:B850",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B99RDPi0Ly%2B9WpW85uBIKtxbD5tQMdbZt81PJde80mGPQMA8mY525i%2FJbJr1%2Br933LQUQscGZtwmTqNBUUb5NzhZGd%2FYrByQ2YkYbowMe49QHKeUoqSwlIEHtpivqZlXFAxWTbJ64Px6ZmnnSN5CUZwjAC1QtFwo6i9mKBoTn8Ksw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FDaRSZe3dY24zsl0bAo2DaKyv8i9ohuYR7aUL2rtJ91omtUZKf8jBb7N%2FhCEza8KtFaZS4c5Bwxv9%2Bp9oZMniqrIUY3i%2BhRQhf0zTcFAfcaP56n79pMAhiT3qrSRaC8X90ERjve8p5ivr7iqxIu0%2B56PuMky0%2F9q7IGviHhPyK%2Bw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -122,25 +105,25 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYSZx%2Bdhj%2FWKCYMjwhFzeqxUj%2FWLT4RBWl0cE05mcZb6omqSo0iPtjLsesTwtvkEKchD2Gb1zsDTMyFKKI33tu5EEs5PRZ74Wfdqqwhm1IKbtST3GnJJh1DFfpKu6qn5rYdZ%2FC7tKxoUmyBMTkbNjd%2B",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYhLtzvYXhangCO3oKdOG%2Bvf925r6JxT6IFfXQjZ29pNvjWHbXHvCQM0W%2BQBZ2rO3mcMDNYwTHVk76MVu55VOD%2F173Ipy8toQUpsN7w8qLZJbUFaKG7eDiuP%2BDcXZ08bsQQQ3jFO3%2F%2BjTZcEWAaRQKq",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
-   "title": "Carte mère Mini ITX COLORFUL CVN B850I GAMING FROZEN V14 - Format ITX, WiFi 6E, DDR5, 2*DIMM DDR5 8000",
-   "model": "MB:B850",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 109.24,
-   "shipping_eur": null,
-   "effective_eur": 109.24,
-   "median_eur": 161.11,
-   "discount_pct": 32.2,
+   "title": "Processeur Intel Core i5-8500 3,00 GHz 6 cœurs LGA1151 SR3XE",
+   "model": "CPU:Core i5-8500",
+   "category": "CPU",
+   "condition": "used",
+   "price_eur": 24.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.9,
+   "median_eur": 38.99,
+   "discount_pct": 36.1,
    "target_hit": false,
    "suspect": false,
-   "merchant": "JoyBuy",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
-   "posted_at": "2026-11-06T12:36:05+00:00"
+   "merchant": "eBay · recyclageinformatiquesologne (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
+   "posted_at": "2026-11-11T09:31:40+00:00"
   },
   {
    "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
@@ -263,6 +246,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Reconditionné : PC Portable 15,6\" Lenovo ThinkPad P15S - Intel i5 10310U, Quadro P520, RAM 16 Go, SSD 512 Go, Windows 11 (Très Bon État)",
+   "price_raw": "449,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/reconditionne-tres-bon-etat-lenovo-thinkpad-p15s-16go-512go-ssd-w11-3454305",
+   "posted_at": "2026-11-13T12:22:40+00:00"
+  },
+  {
+   "title": "MSI GeForce GT 710 1GB DDR3 LP Carte Graphique Low Profile HDMI DVI VGA",
+   "price_raw": "24.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366807327367?_skw=carte+graphique&hash=item55676ba287:g:NikAAeSwbc9pqFdf",
+   "posted_at": "2026-11-13T12:21:37+00:00"
+  },
   {
    "title": "Boitier PC Sharkoon AK5M RGB",
    "price_raw": "34,90€",
@@ -439,13 +436,6 @@
    "posted_at": "2026-11-13T05:48:09+00:00"
   },
   {
-   "title": "SSD externe portable USB 3.1 Type-C 1 To 2 To 4 To haute vitesse PC Mac",
-   "price_raw": "67.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910834086?_skw=ssd&hash=itemba7a0179a6:g:yeYAAeSwz89q9qGc&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nwTxEDLJqXsHnKpXF0O3%2B87Ce9KTwenw%2Fihp%2FQi6kXQuSUFxfFH%2FgZFXCHjjwVQ7ccojWhqTgo7nF6vQIiGRXi4K4qqaR3DUvIL%2F2W%2Bcj5CojfAO4kaFAFXPPjTn6hKCFkH6R7YZxV12RSGSG629%2BTtpFJ4E805DPpxGzgbzwVpZE%2Bu4V4ombyBiWeMPq3TV0MjIQtjsVxJKUuUQxmlwO7zo%2FvyLXtFib9ng4DOUm5ymwTkGF%2BK7jJQmtl6rpdredEBF9VNe6Qq1u1wIaotcZK",
-   "posted_at": "2026-11-13T05:35:35+00:00"
-  },
-  {
    "title": "[Prebuilt] Sams Club in Store Only | HP OMEN Gaming Desktop | Intel i7-14700F, 16GB DDR5 5600 RAM, 1TB SSD, NVIDIA RTX 5060 | $539.31 ($1199.00-$659.69) | YMMV!",
    "price_raw": "$539.31",
    "source": "reddit",
@@ -456,7 +446,7 @@
    "title": "SK hynix 8 Go DDR4 SDRAM SO-DIMM 260 broches PC4-3200AA HMA81GS6DJR8N-XN",
    "price_raw": "39.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhKYS1Ob7OJXIJly2ukeF%2BTxdwEpLsJeuqhjt%2B29qF%2FtDn1Z%2F50t1qVxvsdfd2iD9JEj0kwxMSV28%2FYhUVlRowwC0CNtFEqo4ioQr%2BTagle%2FkxbtgkPI16ThYJfaSK1fd86gX37Ey3l58LUctPdeP8Gt",
+   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhLwvHk%2FpCE%2BzUtLOFauUMnm7A%2BE34rOtIBXDqBMqTsxXhhCKl5oVLZJy0kzKEGCsx87l%2B0SpUJYXueJothrNcizeVAfszo4kew%2BWRWCuemqfQj89hyPX2bn5EZH0TL1pl1YfG8F5guuiVGR%2BEHj8SFG",
    "posted_at": "2026-09-16T16:45:20+00:00"
   },
   {
@@ -472,13 +462,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xuv3t5/prebuilt_cyberpowerpc_gamer_supreme_gaming_pc/",
    "posted_at": "2026-11-13T01:43:51+00:00"
-  },
-  {
-   "title": "Carte graphique NVIDIA GTX 560 TI 1280MB",
-   "price_raw": "20.43 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryAzwfFyriOFtOvRLPIlwDPsyqSv3TAvWix2n8CySgLENFNjr29LoWI%2FR9UuVmbJbU7tJYp%2B%2FnxBo90vsc1r3hNfHrM%2FhRq0oGNz6Pr%2BqtkcZjRYbRHhz%2BDdRLTRyy6lZMmvJoZ%2Fh5C%2BvKEjayPUQC5eayF75%2FqhfMiLygABQppRIQ%3D%3D",
-   "posted_at": "2026-09-07T19:07:28+00:00"
   },
   {
    "title": "Micron 8 Go DDR4 SDRAM PC4-2666V SO-DIMM MTA8ATF1G64HZ-2G6H1",
@@ -523,11 +506,11 @@
    "posted_at": "2026-04-02T08:28:02+00:00"
   },
   {
-   "title": "Samsung 16 Go DDR5 SO-DIMM PC5-4800B 262 broches Non ECC M97596-001",
-   "price_raw": "141.10 EUR",
+   "title": "Disque SSD Crucial MX500 1 TB 2.5 SATA-III 6Gb/s CT1000MX500SSD1 iMac argent",
+   "price_raw": "115.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206696426715?_skw=ddr5&hash=item3020112cdb:g:JjYAAeSwumxq7I6g",
-   "posted_at": "2026-11-12T21:29:30+00:00"
+   "url": "https://www.ebay.fr/itm/336894549918?_skw=ssd&hash=item4e707adf9e:g:0AoAAeSw~Opq9iTk",
+   "posted_at": "2026-11-12T20:44:19+00:00"
   },
   {
    "title": "Carte mère MSI G41M-P33 Combo - Socket 775 - DDRII / DDRIII + CPU E7300",
@@ -552,9 +535,9 @@
   },
   {
    "title": "G.Skill Trident Z5 Neo RGB DDR5 - 64 Go (2 x 32 Go) - 6000 MT/s - C30 - Black",
-   "price_raw": "1770.24 EUR",
+   "price_raw": "1813.49 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336251755531?_skw=ddr5&hash=item4e4a2a9c0b:g:zMEAAeSwClRq9ahE",
+   "url": "https://www.ebay.fr/itm/336251755531?_skw=ddr5&hash=item4e4a2a9c0b:g:eFMAAeSwJWJq9wOE",
    "posted_at": "2025-10-25T10:27:19+00:00"
   },
   {
@@ -607,15 +590,15 @@
    "posted_at": "2025-10-23T04:14:24+00:00"
   },
   {
-   "title": "Mini PC SOYO M5 - Processeur AMD Ryzen 3 4300U",
-   "price_raw": "178,51€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-ordinateur-soyo-m5-processeur-amd-ryzen-3-4300u-3453328",
-   "posted_at": "2026-11-12T15:25:00+00:00"
+   "title": "Micron 8 Go DDR5 SODIMM 5600 MHz PC5-5600B MTC4C10163S1SC56BH1 RAM PC portable",
+   "price_raw": "120.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840121562523?_skw=ddr5&hash=itemc39b25b59b:g:hT8AAeSwLEtq9eHT",
+   "posted_at": "2026-11-12T16:00:02+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1708,
+  "listings_seen": 1713,
   "models_with_reference": 46
  }
 }
