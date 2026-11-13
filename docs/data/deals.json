@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T19:38:00Z",
+ "generated_at": "2026-11-13T20:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-13T19:38:00.620792+00:00"
+   "last_ok": "2026-11-13T20:08:00.675592+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T19:38:00.620792+00:00"
+   "last_ok": "2026-11-13T20:08:00.675592+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-13T19:38:00.620792+00:00"
+   "items": 349,
+   "last_ok": "2026-11-13T20:08:00.675592+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 73,
-   "last_ok": "2026-11-13T19:38:00.620792+00:00"
+   "items": 5,
+   "last_ok": "2026-11-13T20:08:00.675592+00:00"
   }
  },
  "watchlist": [
@@ -65,8 +65,8 @@
    "price_eur": 79.3,
    "shipping_eur": null,
    "effective_eur": 79.3,
-   "median_eur": 161.11,
-   "discount_pct": 50.8,
+   "median_eur": 156.28,
+   "discount_pct": 49.3,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -92,6 +92,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "Micron M600 SSD interne 256 Go 2,5\" SATA III 6 Gb/s MTFDDAK256MBF",
+   "model": "SSD:SATA-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 19.55,
+   "shipping_eur": 3.47,
+   "effective_eur": 23.02,
+   "median_eur": 40.1,
+   "discount_pct": 42.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · letresup (100,0 %, 123 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB",
+   "posted_at": "2026-11-12T20:26:23+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BWsIQbPoIU0MRGSX8zyZAkuHxjPvWByPPfwprg4ClA7MBXRWEd9v9Zt%2F7mBUvI7Sbz3F509pw0mXlft9H8Jr9ogAq5TIPLKOByH1vlXrOXQh0UR6ttfqlc%2FNUZpD82juHJ8aXFzPpSyibs5akwQWbHEq6g0DscVVc%2B95kmLmh0Cg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9fgvnjctpR0logctoXEme03nCqt6kYR%2BVLatd4tkGSfsb0jV4DhttmHwpsuRW%2F7XTwoYzKdZrqRGSL48px0zmNx7cvKhXV5iNpKUOoZvDcpeLm9gFXGVH2Oogz5NXOPMkSGdiuHjrl71qaZC964b1VKvu9OSgRjlrwp9nt%2FocMMA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYCmwJFAm2Dmnb4OWreI1KDX%2BVScqlx9UyrV5UCDS8JrfpPmv8D1S57ud0D6ApoQNldrgAncqJFEBAeBuCUBZqa2VqzGFOBWpfGNv946SiZ4yOf2KpfMQVoKPYk5qP6zvvYRt7Lcs5LkOJXWDa6Ji5W",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbUqsTR8e5wn9bNWjH9vnCf5jFH%2BcK7n8en1ovzBLsJEMybTsq2Nd7RbAOAOJ1t8t5VE1ueb9Vo7KjxfBmUbsXPM64smXY1pkdXxqfW6WQczpPySyRjsoYs9AYi50AFIpB0Hu1VmGVtYQH8sUAE791C",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -277,26 +294,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-32-gigabyte-mo32u2-qd-oled-4k-uhd-240-hz-hdr-true-black-400-3454326",
    "posted_at": "2026-11-13T12:47:04+00:00"
-  },
-  {
-   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
-   "model": "SSD:NVMe-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 22.44,
-   "shipping_eur": 0.0,
-   "effective_eur": 22.44,
-   "median_eur": 27.59,
-   "discount_pct": 18.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 389 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
-   "posted_at": "2026-11-09T11:03:45+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 18\" Asus TUF A18 - FHD 144hz, Ryzen 7 260, RTX 5060, 16 Go RAM, 512 Go SSD",
+   "price_raw": "1 349,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-tuf-a18-18-fhd-144hz-ryzen-7-260-rtx-5060-16-go-ram-512-ssd-3454774",
+   "posted_at": "2026-11-13T19:51:11+00:00"
+  },
+  {
+   "title": "Imprimante HP Smart Tank Plus 658",
+   "price_raw": "128,98€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-hp-smart-tank-plus-658-3454762",
+   "posted_at": "2026-11-13T19:40:11+00:00"
+  },
   {
    "title": "Samsung S36GD Essential Curved Monitor 24 pouces, écran PC avec panneau VA,...",
    "price_raw": "96.29 EUR",
@@ -338,13 +352,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/",
    "posted_at": "2026-11-13T17:21:39+00:00"
-  },
-  {
-   "title": "Lot de 10 Processeurs CPU Intel Core i5 7e Gen i5-7500 i5-7400 LGA1151",
-   "price_raw": "208.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920139739738?_skw=processeur&hash=itemd63c9a325a:g:uecAAeSwc1hq90OT",
-   "posted_at": "2026-11-13T17:06:55+00:00"
   },
   {
    "title": "20% de réduction dès 200€ d'achat sur une sélection d'imprimantes",
@@ -639,17 +646,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ordinateur-apple-macbook-pro-16-liquid-retina-xdr-m5-max-cpu-18-coeurs-gpu-32-coeurs-36-go-ram-ssd-2-to-argent-3453852",
    "posted_at": "2026-11-13T08:15:43+00:00"
-  },
-  {
-   "title": "PC Portable 14” Acer Aspire GO 14 AG14-72P-58AZ - FHD IPS, Core 5 120U, 16Go RAM, 512Go SSD + Ecran PC 27\" Acer Nitro - 260 Hz FHD (ODR)",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-acer-aspire-go-14-ag14-72p-58az-fhd-ips-core-5-120u-16go-ram-512go-ssd-ecran-pc-27-acer-nitro-260-hz-fhd-odr-3453907",
-   "posted_at": "2026-11-13T07:33:36+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1725,
+  "listings_seen": 1719,
   "models_with_reference": 45
  }
 }
