@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T23:08:00Z",
+ "generated_at": "2026-11-13T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-13T23:08:00.623052+00:00"
+   "items": 345,
+   "last_ok": "2026-11-13T23:38:00.623624+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T23:08:00.623052+00:00"
+   "last_ok": "2026-11-13T23:38:00.623624+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 345,
-   "last_ok": "2026-11-13T23:08:00.623052+00:00"
+   "items": 343,
+   "last_ok": "2026-11-13T23:38:00.623624+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-13T23:08:00.623052+00:00"
+   "items": 66,
+   "last_ok": "2026-11-13T23:38:00.623624+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FE4DDsVE4SV6MnpcOlW3nR7lQvQL1sASguAhdGU%2B5HCoEySpRhaC5k4FTO0%2FlzqjVHcvr50K8%2BLg%2BnM4MwFO1LsHwYZe977UDnRD%2FrdLf%2BgEJNjNWLOitMLhq0DVqAM1FrYaPppzcseh%2FxoACmRHZ8jU2BhRD67jOGOEe1gOdhQQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B57%2FVHtRXL9EMhr2XCvAOU2dUarktYWLf8eA%2Fi6scyNzmlIFvVrmfKoaSNY3%2FL4miK0Vk0pj497tnhlmcIxOtMsEDSK9S8BX1DL%2Fq27WCVVd0lYypQ%2F3wU8KEXWOHF0RhfAxYz14bJefyS0dd7nRZdyctp9S3krqmUXs2pHp3Yrw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -211,23 +211,6 @@
    "posted_at": "2026-11-13T13:31:25+00:00"
   },
   {
-   "title": " Netac 8go ddr4 3200 8go C22",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 31.9,
-   "shipping_eur": 8.0,
-   "effective_eur": 39.9,
-   "median_eur": 62.89,
-   "discount_pct": 36.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb2b2g1lMO%2B8PSP1Mj3UvrguZ%2BJ%2B1%2Be9gh%2BaUHBd0I%2Fqp0KF2bvgcVD5TNSuZQpN3lVRKUANoMQJFyyVFvYiyWytNlgf1HV3ODcbz0iYXH%2BGyhaTEs1rwiqID4Umvf1X%2FC6mn%2FwhgE%2F2BFn2k5wnDoO",
-   "posted_at": "2026-10-24T22:43:47+00:00"
-  },
-  {
    "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -262,23 +245,6 @@
    "posted_at": "2026-11-13T20:43:36+00:00"
   },
   {
-   "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
-   "model": "RAM:DDR4-16Go-2666",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 44.38,
-   "shipping_eur": 0.0,
-   "effective_eur": 44.38,
-   "median_eur": 63.1,
-   "discount_pct": 29.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
-   "posted_at": "2026-11-13T23:04:42+00:00"
-  },
-  {
    "title": "Écran PC 23.8'' Lenovo L24-4e - FHD, IPS, 100 Hz",
    "model": "MON:24-FHD-100Hz",
    "category": "MON",
@@ -294,6 +260,40 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-238-lenovo-l24-4e-fhd-ips-100-hz-3453547",
    "posted_at": "2026-11-12T20:26:49+00:00"
+  },
+  {
+   "title": "Barrette RAM 16 Go DDR4 2666 MHz DINGCUN - SODIMM",
+   "model": "RAM:DDR4-16Go-2666",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 44.38,
+   "shipping_eur": 0.0,
+   "effective_eur": 44.38,
+   "median_eur": 59.41,
+   "discount_pct": 25.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237181686688?_skw=ddr4&hash=item37392153a0:g:1IEAAeSwh~pq95fl",
+   "posted_at": "2026-11-13T23:07:13+00:00"
+  },
+  {
+   "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
+   "model": "RAM:DDR4-16Go-2666",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 44.38,
+   "shipping_eur": 0.0,
+   "effective_eur": 44.38,
+   "median_eur": 59.41,
+   "discount_pct": 25.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
+   "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
    "title": "Kingston A400 240Go 2,5” SSD Interne (SA400S37/240G) - CrystalDisk +80%",
@@ -383,25 +383,25 @@
  ],
  "unclassified": [
   {
+   "title": "PC de Bureau Apple Mac Studio 2026 - Puce M5 Max, CPU 18 cœurs, GPU 32 cœurs, 36 Go de RAM, 512 Go de SSD",
+   "price_raw": "2 620,84€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-mac-studio-avec-puce-m5-max-argent-cpu-18-coeurs-et-gpu-32-coeurs-36-go-ram-512-go-ssd-3454941",
+   "posted_at": "2026-11-13T23:28:23+00:00"
+  },
+  {
+   "title": "KTC MiniLED 27 Pouces M27P6, 4K 160Hz / 1080P 320Hz HDR1400",
+   "price_raw": "359€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ktc-miniled-27-pouces-m27p6-4k-160hz-1080p-320hz-hdr1400-3454947",
+   "posted_at": "2026-11-13T23:37:25+00:00"
+  },
+  {
    "title": "6 Mois d'abonnement Instant ink offert pour l'achat d'une imprimante HP",
    "price_raw": "",
    "source": "dealabs",
    "url": "https://www.dealabs.com/codes-promo/instant-ink-6-mois-offert-achat-nouvelle-imprimante-3454903",
    "posted_at": "2026-11-13T22:27:46+00:00"
-  },
-  {
-   "title": "Disque dur SSD externe 2 To USB 3.0 Type-C portable pour PC et Mac",
-   "price_raw": "69.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910869662?_skw=ssd&hash=itemba7a02049e:g:CbMAAeSw0flq9qbJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ltw1cGr%2BCKNKaP2fraPmd7E75noUWYittmfYmksAMHbiubsima031tA6dcMKSZ259%2BordiUEtAuk%2BYnIFkYfslT3NUv%2FmB3N2ETHl4Ayb8OnULAbDkKnrZ7ZSGZdfGpCPij0wYlD7NG1LE3dR8UUM7OLtsMcRyU%2Bq%2FzRQ%2F7LStGCSFmwiJ00DMGu5A0zQke5UxuvSPCNLrWudEsh0dfvsJ5UjUPdp%2BejrB7k1uRzznpYhSmvTQcGfHO2csJbyUfUaGDv6lc1SHtjzYhkqpnN2s",
-   "posted_at": "2026-11-13T05:57:41+00:00"
-  },
-  {
-   "title": "Carte Mère Medion Akoya E7222 Intel Core i3-2370M 2,40 GHz Noteboo",
-   "price_raw": "50.29 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147679577152?_skw=carte+m%C3%A8re&hash=item2262638440:g:Ra4AAeSw8Stq0Kkm",
-   "posted_at": "2026-11-13T22:49:06+00:00"
   },
   {
    "title": "ASUS Prime AP303 Tempered Glass (Noir) - Boîtier PC Gaming ATX",
@@ -479,13 +479,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/kkt-canon-selphy-cp1500-108-feuilles-3454810",
    "posted_at": "2026-11-13T20:44:36+00:00"
-  },
-  {
-   "title": "Processeur Intel Core Ultra 7 Processor 270K Plus 24 (8 P-Cores + 16 E-Cores) up to 5.5 GHz",
-   "price_raw": "279,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/intel-core-ultra-7-processor-270k-plus-24-8-p-cores-16-e-cores-up-to-55-ghz-3454795",
-   "posted_at": "2026-11-13T20:23:21+00:00"
   },
   {
    "title": "Souris filaire Logitech G502 HERO - capteur 25 600 ppp, 11 boutons, RGB",
@@ -684,13 +677,6 @@
    "posted_at": "2026-11-13T13:15:59+00:00"
   },
   {
-   "title": "Imprimante 3D Centauri Carbon 2 Combo + 2 kg de Filament",
-   "price_raw": "369,29€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/centauri-carbon-2-combo-2-kg-de-filament-pour-seulement-1-eur-3454372",
-   "posted_at": "2026-11-13T13:33:43+00:00"
-  },
-  {
    "title": "[GPU] MicroCenter In-Store Only - Radeon RX 9070XT Hellhound - $870",
    "price_raw": "$870",
    "source": "reddit",
@@ -731,10 +717,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-sharkoon-ak5m-rgb-3454290",
    "posted_at": "2026-11-13T12:06:43+00:00"
+  },
+  {
+   "title": "Boîtier PC Be Quiet! Pure Base 501 Airflow - Noir",
+   "price_raw": "49,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-be-quiet-pure-base-501-airflow-3454287",
+   "posted_at": "2026-11-13T12:05:52+00:00"
+  },
+  {
+   "title": "Barrette de Mémoire RAM Lexar Thor Z OC DDR5 RAM 32GB - 2x16GB (vendeur tiers, via coupon)",
+   "price_raw": "474,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lexar-thor-z-oc-ddr5-ram-32gb-2x16gb-promo-voucher-3454249",
+   "posted_at": "2026-11-13T11:27:47+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1722,
+  "listings_seen": 1723,
   "models_with_reference": 45
  }
 }
