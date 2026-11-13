@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T13:08:00Z",
+ "generated_at": "2026-11-13T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-13T13:08:00.674943+00:00"
+   "last_ok": "2026-11-13T13:38:00.622859+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T13:08:00.674943+00:00"
+   "last_ok": "2026-11-13T13:38:00.622859+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-13T13:08:00.674943+00:00"
+   "items": 374,
+   "last_ok": "2026-11-13T13:38:00.622859+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-13T13:08:00.674943+00:00"
+   "items": 47,
+   "last_ok": "2026-11-13T13:38:00.622859+00:00"
   }
  },
  "watchlist": [
@@ -40,6 +40,40 @@
   }
  ],
  "opportunities": [
+  {
+   "title": "Netac NV3000 SSD Interne M.2 NVMe PCIe 3.0 Disque 250 Go 500Go 1To 2To 3500MB/s",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 149.99,
+   "discount_pct": 66.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · shop-produit-divers (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
+   "posted_at": "2026-10-12T17:30:00+00:00"
+  },
+  {
+   "title": "Ecran PC gaming 27\" Ace Nitro VG272UW2bmiipx - QHD, Dalle IPS, 240Hz, 1ms, FreeSync Premium",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 129.95,
+   "shipping_eur": null,
+   "effective_eur": 129.95,
+   "median_eur": 299.99,
+   "discount_pct": 56.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Rue du Commerce",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ace-nitro-vg272uw2bmiipx-qhd-dalle-ips-240hz-1ms-freesync-premium-3454351",
+   "posted_at": "2026-11-13T13:14:00+00:00"
+  },
   {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
    "model": "MB:B850",
@@ -75,6 +109,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "SSD M.2 SATA 512 Go KingSpec (Format court 2242)",
+   "model": "SSD:SATA-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 30.86,
+   "shipping_eur": 0.0,
+   "effective_eur": 30.86,
+   "median_eur": 59.09,
+   "discount_pct": 47.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237180847185?_skw=ssd&hash=item3739148451:g:lvEAAeSw8KJq9w9r",
+   "posted_at": "2026-11-13T13:31:25+00:00"
+  },
+  {
    "title": "Mémoire RAM So-DIMM Corsair Vengeance 16 Go (1x16Go) SO-DDR5 5600Mhz - Paris 2 (75)",
    "model": "RAM:DDR5-16Go-5600",
    "category": "RAM",
@@ -105,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2F7b0MJUJHZaW8SBi3uNR9PIuNqQ6ejGHdI316nfDeRj9mWG6nkvWwwpUJhtO2Ou5dGAcbr1BZ93IEbo716Yy0LhsARJ0FE%2F9dNzepYYO1BBabnLo2wyUz5cAbp3ahgVAKkLAXTFvRE6TQyTK4SbvgbNgeY2q4YDhaql373BfhScg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BtpR7nzpkolUa17fXvQGWCQ0IokQfdfcwnVaiU8%2FqrUd0Fx30d1JK7fKpPwlr2rQMe4SvnXft--ggrzCMjflPB9li47TF26wO%2F3v7aO5i%2Bta0aNsmwWbOS5ONXq08nRGk3B1lPWBrj5bCpNsbS3Y%2FtHK6fpsxmh%2BgDxkQMf3kPbQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -122,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb%2F3OXaJ4C%2B33njopdgixxJVyI8iIfgGS0IsBZyx49Zzqo4oVxhEWHJLTPO6NwHgf%2F6%2B6E2Vy8YvlKWX3mN%2BhEYCb7WB20zI7l5Tty2T5wpO8Unf3SkiqXyTQBATG68RwEF0EDNPOxsH6Yf3KoUgro3",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYBrZjLyPsw774mAVjuh0bGgyrI2fbggtbkZJUgTatRgJgh%2F54wOqU5xL83MXh%2BVOJxBdd4kC9VSrvSTNC496j%2Bhff%2FFQEa1N%2BNHYUbBDoV0Hz0EHo2XVJNzni8EvexvU3K2weTfYqbuPFH5qwrT8Cv",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -264,18 +315,46 @@
  ],
  "unclassified": [
   {
+   "title": "[Megathread] Black Friday les offres boostées chez Fnac - Ex : Disque SSD Interne Lexar Play avec dissipateur 2 To Gris pour PS5 à 199,99€",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/megathread-black-friday-les-offres-boostees-chez-fnac-ex-disque-ssd-interne-lexar-play-avec-dissipateur-2-to-gris-pour-ps5-a-19999eur-3454352",
+   "posted_at": "2026-11-13T13:15:59+00:00"
+  },
+  {
+   "title": "Imprimante 3D Centauri Carbon 2 Combo + 2 kg de Filament",
+   "price_raw": "369,29€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/centauri-carbon-2-combo-2-kg-de-filament-pour-seulement-1-eur-3454372",
+   "posted_at": "2026-11-13T13:33:43+00:00"
+  },
+  {
+   "title": "[GPU] MicroCenter In-Store Only - Radeon RX 9070XT Hellhound - $870",
+   "price_raw": "$870",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xv7jfz/gpu_microcenter_instore_only_radeon_rx_9070xt/",
+   "posted_at": "2026-11-13T13:13:08+00:00"
+  },
+  {
+   "title": "Samsung 8 Go DDR4 SO-DIMM PC4-2666V 260 broches M471A1K43CB1-CTD",
+   "price_raw": "30.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940088187744?_skw=ddr4&hash=itemdae19f5b60:g:k80AAeSwX9dq4wFp",
+   "posted_at": "2026-11-13T06:19:59+00:00"
+  },
+  {
+   "title": "Watercooling : waterblock CPU AMD",
+   "price_raw": "31.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/224559225806?_skw=watercooling&hash=item3448c5dbce:g:VO0AAOSwMXphCk76",
+   "posted_at": "2021-08-04T08:26:21+00:00"
+  },
+  {
    "title": "Imprimante multifonction jet d'encre HP Deskjet 4210e - Instant Ink, WiFi, Couleur",
    "price_raw": "34,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-jet-dencre-hp-deskjet-4210e-instant-ink-wifi-couleur-3454331",
    "posted_at": "2026-11-13T12:52:53+00:00"
-  },
-  {
-   "title": "Micron RAM 8 Go DDR4 SDRAM PC4-2133P ECC Rdimm serveur MTA18ASF1G72PZ-2G1A2IG",
-   "price_raw": "20.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206698130490?_skw=ddr4&hash=item30202b2c3a:g:QZMAAeSwh3NqmE8D",
-   "posted_at": "2026-11-13T13:00:20+00:00"
   },
   {
    "title": "RAM SK hynix 16 Go DDR4 PC4-3200AA SO-DIMM HMA82GS6CJR8N-XN ",
@@ -477,21 +556,14 @@
    "title": "SSD externe portable 16 To USB 3.1 Type-C haute vitesse pour PC et Mac",
    "price_raw": "46.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910874574?_skw=ssd&hash=itemba7a0217ce:g:WTEAAeSwQXxq9qeT",
+   "url": "https://www.ebay.fr/itm/800910874574?_skw=ssd&hash=itemba7a0217ce:g:WTEAAeSwQXxq9qeT&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7koJpHjw1YSAKM%2FzQF1xQCOQBN1uPoSMoIdL%2F9Vx%2Bjm5j%2BO9MbAEXg%2ByL4KYGHUN41dgzTZcbAf54070hMkDTYiqM%2FVo7UtZ9TZuRlJfnB7kqDQ9twaggxfL4GQiCZyje8BToeIfEK1%2BJnRiF24vXolQBJw5mhoIxqMOoJ8Sr0ZHzGlCd8cxHmvgNYEBw52dkVg3KEk%2FbLEyew%2BD0%2B9wwpRimr26rbVjKK8sft69IZL%2FOSi%2F9H%2BEIqr8leS8yrsMZ1lBcJq5akeSVyKddRNGA8r",
    "posted_at": "2026-11-13T06:01:03+00:00"
-  },
-  {
-   "title": "SSD externe portable USB 3.1 Type-C haute vitesse pour téléphone PC Mac",
-   "price_raw": "66.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910859070?_skw=ssd&hash=itemba7a01db3e:g:82QAAeSwa8lq9qUt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nNwzLzKG6gntNlW3xRhW5veu5%2FnOCgf6hLPb%2Fz05Hop%2Fa%2FXSuoUU4iO9PAGixhoey3dDTnxYKmPp0Y5gYbdLutGfK4JlyHl6w4v7RQxixWTClcIDNj2mgKMdsPg7ATmWsAcgldKljNeVZpLscw%2FknophER3K7x9R%2BegCJ66WT37EiD0EWsb4OBbgkQWWwz%2Bf%2BHUqlh%2F590jpfF9kk32vhUOCS87GdqoaY8OvwO%2BddkFVPbfDwNemu2Q47O8vFlHSyc0ljpjNk9kdu9C1o0UqGF",
-   "posted_at": "2026-11-13T05:50:48+00:00"
   },
   {
    "title": "SSD externe portable USB 3.1 Type-C 1 To 2 To 4 To haute vitesse PC Mac",
    "price_raw": "67.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910834086?_skw=ssd&hash=itemba7a0179a6:g:yeYAAeSwz89q9qGc&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nwTxEDLJqXsHnKpXF0O3%2B87Ce9KTwenw%2Fihp%2FQi6kXQuSUFxfFH%2FgZFXCHjjwVQ7ccojWhqTgo7nF6vQIiGRXi4K4qqaR3DUvIL%2F2W%2Bcj5CojfAO4kaFAFXPPjTn6hKCHH2PS%2Bur120x90fIdctbDPw7gCuG%2BVfzS75tfi%2FNLPcLN7QeI6zpDBeuG1z6vBChJJ3Oo0g5bCl5luekg4DhexkudP9D3RHeA0LWu0I7%2Fyg2YrUShZN5ROJg9BcPmoFfZZTRX41tvtsGQ5DG0xwE8U",
+   "url": "https://www.ebay.fr/itm/800910834086?_skw=ssd&hash=itemba7a0179a6:g:yeYAAeSwz89q9qGc&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nwTxEDLJqXsHnKpXF0O3%2B87Ce9KTwenw%2Fihp%2FQi6kXQuSUFxfFH%2FgZFXCHjjwVQ7ccojWhqTgo7nF6vQIiGRXi4K4qqaR3DUvIL%2F2W%2Bcj5CojfAO4kaFAFXPPjTn6hKCHJ7aE2rDiLN3aRkHzZXoA6fN%2F2Lfd4VgYpSa4wx7rTXG0iLesoOlGkQRmTuKv8VbhsjbXlJku9vWFMJQs8S1JInj4f%2BYkZYwBK8QFsfif5Y7gwB1w59qLFjC3qYH5JNFmvbAP18frIyAOFOXEPWVnP",
    "posted_at": "2026-11-13T05:35:35+00:00"
   },
   {
@@ -505,7 +577,7 @@
    "title": "SK hynix 8 Go DDR4 SDRAM SO-DIMM 260 broches PC4-3200AA HMA81GS6DJR8N-XN",
    "price_raw": "39.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhKBBNd4PEH9FZ7KmzlP%2BDutugMa5QvS9GRKk6sOhyNtLFz8d5KtfkC6zAhThWy7Mja4Sl%2BeNKc8jpOkwGzWPNZdAHGbxSwFrRxnPaWORFIPx4VHzFwJJtpV1UrbHwr2%2FvYQNjdyw7m215plEJ6pvyoa",
+   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhLNA0iMWRJ0YdkMVBT7rFWeT6Wnyx8MNVkjFMfQ8qjFRf1SYgVz0T2CzhUJeMg74Rjq%2FxVTIsEem6ar0b9gl%2BTNY3grd0afkbrANq26DhA%2Fm2c10EiNqYgqDPvXi2v6szDD0AUw4gwN%2BBnps1td6pid",
    "posted_at": "2026-09-16T16:45:20+00:00"
   },
   {
@@ -521,6 +593,27 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xuv3t5/prebuilt_cyberpowerpc_gamer_supreme_gaming_pc/",
    "posted_at": "2026-11-13T01:43:51+00:00"
+  },
+  {
+   "title": "Carte graphique NVIDIA GTX 560 TI 1280MB",
+   "price_raw": "20.43 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryAWeBKHkUjj5FAGD82g8bXQKFCtWxIJ8Gznc8vADacc8TZmZoEyzIz3PlkdV3Jb0SAg6isJaN%2BCONFt4XuWPabdRsJV5ZBsaXh7A6LPOYOcSr9AV5fn5Ljq6KOxc98QZbMJ5fxURbz2JJwvdJxAEd0UXSEqQecSxUDYlQec%2BIyOxQ%3D%3D",
+   "posted_at": "2026-09-07T19:07:28+00:00"
+  },
+  {
+   "title": "Remplace carte graphique Radeon 6970 Apple iMac 12,2 27\" 2011 A1312 - 661-5969",
+   "price_raw": "149.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/405766858576?_skw=carte+graphique&hash=item5e7996e750:g:pqwAAOSwLihn~il~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLRzDzMl5jqiGHcFKpMagO2KzhJjifCo%2FsAeTt%2BpIZNP2v9VLPDE7kFt9WxZtZkC%2BaHP9fBLsxL9xKsJPvcrDiGaudxqIV6h%2Fxh1GJXzwa%2B28tmtnTasybAgdR8sYvCmq6ZBJffLDikl0yBRTjy17b54NgvzJggF37%2FpHellLwXM34huxxBoIS3kqlasHl4qQDNkKnOHaeNLEUqDns0hZJ53kapfNlzgWE0pSZUrZITG1ubUYdsWgojhe0mbhIZknqtLr2YM%2BJaCbzHVZQJh%2BYyXPotZ%2FDQzZWmIvszbtjkw%3D%3D",
+   "posted_at": "2025-04-15T09:15:08+00:00"
+  },
+  {
+   "title": "Fikwot NVMe SSD M.2 PCIe 4.0 2280 Disque Dur SSD Internes PS5 Jusqu’à 7300 Mo/s",
+   "price_raw": "309.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366667754404?_skw=ssd&hash=item555f19eba4:g:E24AAeSwvqJqWE-H",
+   "posted_at": "2026-09-14T06:16:01+00:00"
   },
   {
    "title": "[Adhérents] PC Portable 17\" LG Gram 17Z90TL - Intel Ultra 7, 32 Go RAM, 1 To SSD",
@@ -544,18 +637,18 @@
    "posted_at": "2026-04-02T08:28:02+00:00"
   },
   {
+   "title": "Samsung 16 Go DDR5 SO-DIMM PC5-4800B 262 broches Non ECC M97596-001",
+   "price_raw": "141.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206696426715?_skw=ddr5&hash=item3020112cdb:g:JjYAAeSwumxq7I6g",
+   "posted_at": "2026-11-12T21:29:30+00:00"
+  },
+  {
    "title": "Disque SSD Crucial MX500 1 TB 2.5 SATA-III 6Gb/s CT1000MX500SSD1 iMac argent",
    "price_raw": "115.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336894549918?_skw=ssd&hash=item4e707adf9e:g:0AoAAeSw~Opq9iTk",
    "posted_at": "2026-11-12T20:44:19+00:00"
-  },
-  {
-   "title": "Carte graphique HP 717219-001 716521-001 HD8490 R1.00 1GB DP DVI",
-   "price_raw": "17.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/226192332144?_skw=carte+graphique&hash=item34aa1d1570:g:T3EAAeSwAsRpb6c3&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mldeAP%2FvG1frQ1ZHObAcTS52v9EHPAbBSSkMYhpIP5Vt1LpRuAnYUissfukH3t%2FukC1SWngs5I3U80BDQkQQHKvhwrc%2FAPTv3jp17%2B7csniGoqnmSNJvbNOCP5QJRdavRO5lj7%2FfoXnFr7jihiVDnaEzFN%2FXrtqUjKdPBTJHZY9e9O4cp6XqlH3j%2Bwy%2FKy16V443HDeq%2BANN9O4j%2FnxIPJIRCKPSmHMj9OEEgT%2FtVWOcPh%2F0Cn%2B7DETDYY9zAeykk5DcYSVIodc0%2FlY%2FNsymKdZkxW6Ju%2BGkjieYs1W3ueZg%3D%3D",
-   "posted_at": "2024-06-13T18:41:37+00:00"
   },
   {
    "title": "Carte mère MSI G41M-P33 Combo - Socket 775 - DDRII / DDRIII + CPU E7300",
@@ -565,57 +658,15 @@
    "posted_at": "2026-09-07T20:03:05+00:00"
   },
   {
-   "title": "Carte mère MSI H81I MS-7851 Ver 2.2 Mini-ITX LGA1150 + Intel Cooler & I/O Shiel",
-   "price_raw": "55.79 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198345649643?_skw=carte+m%C3%A8re&hash=item2e2e526deb:g:0-0AAeSwtmpqANf5",
-   "posted_at": "2026-05-10T19:03:48+00:00"
-  },
-  {
    "title": "Routeur WiFi 6 TP-Link Archer AX18 AX1500 Mbps, 1.5 Gbit/s bi-Bande, 4 Ports Gigabit, 4 antennes à Haute Performance, WPA3, EasyMesh, VPN",
    "price_raw": "40,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tp-link-archer-ax18-routeur-wifi-6-ax1500-mbps-15-gbits-bi-bande-4-ports-gigabit-4-antennes-a-haute-performance-wpa3-easymesh-vpn-3453526",
    "posted_at": "2026-11-12T20:00:42+00:00"
-  },
-  {
-   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 64 Go (2 x 32 Go) - 6000 MT/s - C30 - Black",
-   "price_raw": "1813.49 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336251755531?_skw=ddr5&hash=item4e4a2a9c0b:g:eFMAAeSwJWJq9wOE",
-   "posted_at": "2025-10-25T10:27:19+00:00"
-  },
-  {
-   "title": "Clé WiFi 7 TP-Link BE3600 USB-C et USB-A, Archer TBE230U MLO, double bande",
-   "price_raw": "44,64€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tp-link-cle-wifi-7-be3600-usb-c-et-usb-a-archer-tbe230u-mlo-double-bande-3453429",
-   "posted_at": "2026-11-12T18:30:49+00:00"
-  },
-  {
-   "title": "KEFEYA Triple Écran PC Portable 15,6\" FHD 1080P IPS HDMI USB-C Neuf",
-   "price_raw": "176.46 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800906993904?_skw=%C3%A9cran+pc&hash=itemba79c6e0f0:g:frgAAeSw4gNq9W-U",
-   "posted_at": "2026-11-12T17:45:01+00:00"
-  },
-  {
-   "title": "Boîtier PC Thermaltake View 270 Plus TG ARGB - Panneaux en Verre Trempé, 3 ventilateurs ARGB, noir",
-   "price_raw": "71,16€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-thermaltake-view-270-plus-tg-argb-panneaux-en-verre-trempe-3-ventilateurs-argb-noir-3453402",
-   "posted_at": "2026-11-12T17:00:59+00:00"
-  },
-  {
-   "title": "[GPU] ASRock Challenger Arc B570 10GB GDDR6 PCI Express 4.0 x8 ATX Graphics Card CL 10GO w/ASRock AIO and Intel Holiday Bundle (2 Free Games) - $289.99 (5% off)",
-   "price_raw": "$289.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xuibvg/gpu_asrock_challenger_arc_b570_10gb_gddr6_pci/",
-   "posted_at": "2026-11-12T17:06:59+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1715,
+  "listings_seen": 1719,
   "models_with_reference": 48
  }
 }
