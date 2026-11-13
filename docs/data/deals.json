@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T22:38:00Z",
+ "generated_at": "2026-11-13T23:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-13T22:38:00.648696+00:00"
+   "items": 344,
+   "last_ok": "2026-11-13T23:08:00.623052+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T22:38:00.648696+00:00"
+   "last_ok": "2026-11-13T23:08:00.623052+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-13T22:38:00.648696+00:00"
+   "items": 345,
+   "last_ok": "2026-11-13T23:08:00.623052+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 74,
-   "last_ok": "2026-11-13T22:38:00.648696+00:00"
+   "items": 1,
+   "last_ok": "2026-11-13T23:08:00.623052+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BYIXYN1ELPrUGUM0FFfFzkS9oxejNU%2FDdXaCmN37zhbJvOAK%2Fqdq43GHrbr6wx4V7RMwNduiwVZxiGm0Bc1es%2FYwfXINfIpmh4E%2FH8JA64n%2FRwIcVhCs5rPGGglQLDOMUA5qgQCJ%2B3CUfw6%2FSVzmcZWx8w%2F1HKJYDCJGG39biGfw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FE4DDsVE4SV6MnpcOlW3nR7lQvQL1sASguAhdGU%2B5HCoEySpRhaC5k4FTO0%2FlzqjVHcvr50K8%2BLg%2BnM4MwFO1LsHwYZe977UDnRD%2FrdLf%2BgEJNjNWLOitMLhq0DVqAM1FrYaPppzcseh%2FxoACmRHZ8jU2BhRD67jOGOEe1gOdhQQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -224,8 +224,25 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZWtCpToTfD0w%2FZo%2B%2FvnFo3%2F1p%2FOPqiSrFlof0odZ1lOXbHH6jkEdUFJCP5%2FkP36InxwanorH4SY5SkKYsz5GCNPZ4IPJTiDEp%2BPt5DzI1FyM2huuZVUWh8uaBuqmxHhgDhj8DRLfjo9wlyQTeBtb1f",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb2b2g1lMO%2B8PSP1Mj3UvrguZ%2BJ%2B1%2Be9gh%2BaUHBd0I%2Fqp0KF2bvgcVD5TNSuZQpN3lVRKUANoMQJFyyVFvYiyWytNlgf1HV3ODcbz0iYXH%2BGyhaTEs1rwiqID4Umvf1X%2FC6mn%2FwhgE%2F2BFn2k5wnDoO",
    "posted_at": "2026-10-24T22:43:47+00:00"
+  },
+  {
+   "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 25.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 25.99,
+   "median_eur": 40.1,
+   "discount_pct": 35.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860128302414?_skw=ddr4&hash=itemc843a4554e:g:nRUAAeSwnilq8fN0",
+   "posted_at": "2026-11-09T16:23:45+00:00"
   },
   {
    "title": "Kingston 16 Go DIMM DDR4-3200 MHz CL22 1.2v Non-ECC KCP432NS8/16",
@@ -245,21 +262,21 @@
    "posted_at": "2026-11-13T20:43:36+00:00"
   },
   {
-   "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
-   "model": "RAM:DDR4-8Go-3200",
+   "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
+   "model": "RAM:DDR4-16Go-2666",
    "category": "RAM",
    "condition": "used",
-   "price_eur": 25.99,
+   "price_eur": 44.38,
    "shipping_eur": 0.0,
-   "effective_eur": 25.99,
-   "median_eur": 38.59,
-   "discount_pct": 32.7,
+   "effective_eur": 44.38,
+   "median_eur": 63.1,
+   "discount_pct": 29.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · ppiteso_0 (pro)",
+   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128302414?_skw=ddr4&hash=itemc843a4554e:g:nRUAAeSwnilq8fN0",
-   "posted_at": "2026-11-09T16:23:45+00:00"
+   "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
+   "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
    "title": "Écran PC 23.8'' Lenovo L24-4e - FHD, IPS, 100 Hz",
@@ -347,23 +364,6 @@
    "posted_at": "2026-11-13T12:47:04+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -382,6 +382,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "6 Mois d'abonnement Instant ink offert pour l'achat d'une imprimante HP",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/codes-promo/instant-ink-6-mois-offert-achat-nouvelle-imprimante-3454903",
+   "posted_at": "2026-11-13T22:27:46+00:00"
+  },
+  {
+   "title": "Disque dur SSD externe 2 To USB 3.0 Type-C portable pour PC et Mac",
+   "price_raw": "69.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800910869662?_skw=ssd&hash=itemba7a02049e:g:CbMAAeSw0flq9qbJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ltw1cGr%2BCKNKaP2fraPmd7E75noUWYittmfYmksAMHbiubsima031tA6dcMKSZ259%2BordiUEtAuk%2BYnIFkYfslT3NUv%2FmB3N2ETHl4Ayb8OnULAbDkKnrZ7ZSGZdfGpCPij0wYlD7NG1LE3dR8UUM7OLtsMcRyU%2Bq%2FzRQ%2F7LStGCSFmwiJ00DMGu5A0zQke5UxuvSPCNLrWudEsh0dfvsJ5UjUPdp%2BejrB7k1uRzznpYhSmvTQcGfHO2csJbyUfUaGDv6lc1SHtjzYhkqpnN2s",
+   "posted_at": "2026-11-13T05:57:41+00:00"
+  },
+  {
+   "title": "Carte Mère Medion Akoya E7222 Intel Core i3-2370M 2,40 GHz Noteboo",
+   "price_raw": "50.29 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147679577152?_skw=carte+m%C3%A8re&hash=item2262638440:g:Ra4AAeSw8Stq0Kkm",
+   "posted_at": "2026-11-13T22:49:06+00:00"
+  },
+  {
+   "title": "ASUS Prime AP303 Tempered Glass (Noir) - Boîtier PC Gaming ATX",
+   "price_raw": "109.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117204191687?_skw=boitier+pc&hash=item1b49ea09c7:g:3ecAAeSw43tq92f4",
+   "posted_at": "2026-05-19T21:23:13+00:00"
+  },
   {
    "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
    "price_raw": "104,42€",
@@ -703,38 +731,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-sharkoon-ak5m-rgb-3454290",
    "posted_at": "2026-11-13T12:06:43+00:00"
-  },
-  {
-   "title": "Boîtier PC Be Quiet! Pure Base 501 Airflow - Noir",
-   "price_raw": "49,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-be-quiet-pure-base-501-airflow-3454287",
-   "posted_at": "2026-11-13T12:05:52+00:00"
-  },
-  {
-   "title": "Barrette de Mémoire RAM Lexar Thor Z OC DDR5 RAM 32GB - 2x16GB (vendeur tiers, via coupon)",
-   "price_raw": "474,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lexar-thor-z-oc-ddr5-ram-32gb-2x16gb-promo-voucher-3454249",
-   "posted_at": "2026-11-13T11:27:47+00:00"
-  },
-  {
-   "title": "Enceinte Bluetooth Bose SoundLink Flex SE (2e gén) - Ultra-Portable, 12 Heures d’autonomie (via remise au panier)",
-   "price_raw": "96,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-bose-soundlink-flex-se-2e-gen-ultra-portable-12-heures-dautonomie-via-remise-au-panier-3454207",
-   "posted_at": "2026-11-13T10:52:00+00:00"
-  },
-  {
-   "title": "PC de Bureau Beastcom - Q5 AMD Ryzen 7 5700X 16GB 1TB SSD RTX 5070 Ti Windows 11 Pro WiFi 5 (Vendeur Tiers)",
-   "price_raw": "1 949€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-beastcom-q5-amd-ryzen-7-5700x-16gb-1tb-ssd-rtx-5070-ti-windows-11-pro-wifi-5-3454169",
-   "posted_at": "2026-11-13T10:27:34+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1726,
-  "models_with_reference": 44
+  "listings_seen": 1722,
+  "models_with_reference": 45
  }
 }
