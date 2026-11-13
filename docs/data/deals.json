@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T10:38:00Z",
+ "generated_at": "2026-11-13T11:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-13T10:38:00.677545+00:00"
+   "items": 344,
+   "last_ok": "2026-11-13T11:08:00.810619+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T10:38:00.677545+00:00"
+   "last_ok": "2026-11-13T11:08:00.810619+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-13T10:38:00.677545+00:00"
+   "items": 379,
+   "last_ok": "2026-11-13T11:08:00.810619+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 7,
-   "last_ok": "2026-11-13T10:38:00.677545+00:00"
+   "items": 68,
+   "last_ok": "2026-11-13T11:08:00.810619+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": "Netac NV3000 SSD Interne M.2 NVMe PCIe 3.0 Disque 250 Go 500Go 1To 2To 3500MB/s",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 149.99,
-   "discount_pct": 66.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · shop-produit-divers (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
-   "posted_at": "2026-10-12T17:30:00+00:00"
-  },
   {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
    "model": "MB:B850",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8O63%2F9SfQqXXSVpEtdkYsZo%2BjyTA0JhneSMMUlOPRkX%2BV8n0AWM2gmTrcvhgCZ%2B%2BzbgI3aq5Ez%2FMX1OxLzO5QFPqm3G9urpdLqdUDL98qC8K72nIeGVRWlsgQLKatx38lgP1fEyVVZnS3GdJ1FN01CN6MkrrbDXOA1VZCNsED59g%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8OLfY4Lmd%2F7ZoLY3dx0g6qBQC9kbpSHgO7W59piFRNzDzJ1%2FtNq9TUt7s%2BZn8F5eFJE32lmL%2FNR28xhQz52yNTd7ScImkFogW4MzqdHKuu6A96W3JUArs4IPxUTUmBYDZuzqHLz6Vm%2FWj7xwOLVuxg2FBY%2F6qVjy9qF34LdPE96w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -139,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaWH0VEjpAmL0sYnVlOeP20kBGIDkWb%2BwzWP59wVtnbKEs1urFPmsPNhPQrKzAEy9KtIkqoftDt1nCyJLCttZFcwx0Au%2FZLf1R%2Fg4y3V8UcyqdgKe8OFWEbYQOhbJP8DImJ9E9oIuqb7jreGjNzDQMq",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaHQkKYznZ60sjnMVaXXss%2FejCV7W1Kk%2BG19TjvNo%2BZ013Zvbv611RzNGWnpJU01oGQfY6uE1NRMU48ru1gIWb7HClfD%2FW6mdfpE6GijvdsrXZOsk5lvOExaSvB6zL7JXVGZcb7bMSCRRN1FrIhSQTM",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -273,7 +256,7 @@
    "discount_pct": 18.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 386 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 387 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
    "posted_at": "2026-11-09T11:03:45+00:00"
@@ -290,13 +273,20 @@
    "discount_pct": 15.9,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 386 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 387 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860127962020?_skw=ssd&hash=itemc8439f23a4:g:KUAAAeSwOIxq8cuL",
    "posted_at": "2026-11-09T13:36:10+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Enceinte Bluetooth Bose SoundLink Flex SE (2e gén) - Ultra-Portable, 12 Heures d’autonomie (via remise au panier)",
+   "price_raw": "96,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-bose-soundlink-flex-se-2e-gen-ultra-portable-12-heures-dautonomie-via-remise-au-panier-3454207",
+   "posted_at": "2026-11-13T10:52:00+00:00"
+  },
   {
    "title": "PC de Bureau Beastcom - Q5 AMD Ryzen 7 5700X 16GB 1TB SSD RTX 5070 Ti Windows 11 Pro WiFi 5 (Vendeur Tiers)",
    "price_raw": "1 949€",
@@ -462,8 +452,15 @@
    "title": "SSD externe portable USB 3.1 Type-C haute vitesse pour téléphone PC Mac",
    "price_raw": "66.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910859070?_skw=ssd&hash=itemba7a01db3e:g:82QAAeSwa8lq9qUt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nNwzLzKG6gntNlW3xRhW5veu5%2FnOCgf6hLPb%2Fz05Hop%2Fa%2FXSuoUU4iO9PAGixhoey3dDTnxYKmPp0Y5gYbdLutGfK4JlyHl6w4v7RQxixWTClcIDNj2mgKMdsPg7ATmWvbEw9n0ilMoYR7ZvFUWFt8OhvIgZHC%2BM6HH%2FYuJC7YPGnZBKvTZzzNCP0tYbpXDFWay%2BnSyWQdlaU1ERg0ZPz22YdJoV6pFEcAYkuiB2uk4jyPmCwW7r5n2VCC905PEo1t61PyHqEtNYl1tVYG9f%2FG",
+   "url": "https://www.ebay.fr/itm/800910859070?_skw=ssd&hash=itemba7a01db3e:g:82QAAeSwa8lq9qUt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nNwzLzKG6gntNlW3xRhW5veu5%2FnOCgf6hLPb%2Fz05Hop%2Fa%2FXSuoUU4iO9PAGixhoey3dDTnxYKmPp0Y5gYbdLutGfK4JlyHl6w4v7RQxixWTClcIDNj2mgKMdsPg7ATmWuVhcz73exeBYshnb6FLlPBvK99A8NSMp3RdcEh%2BsyWA181UpQKnos1Gi6VGEUe30At2H%2B33z5nAG9Z6guXQDzRLOv8wAF2mm%2BA7rAipxaDf2CFJ%2FuAXF%2FMDNiSmLDtaKdu%2BtPW9lH1YPj0ZrQyJDnW",
    "posted_at": "2026-11-13T05:50:48+00:00"
+  },
+  {
+   "title": "SSD externe portable USB 3.1 Type-C 1 To 2 To 4 To haute vitesse PC Mac",
+   "price_raw": "67.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800910834086?_skw=ssd&hash=itemba7a0179a6:g:yeYAAeSwz89q9qGc&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nwTxEDLJqXsHnKpXF0O3%2B87Ce9KTwenw%2Fihp%2FQi6kXQuSUFxfFH%2FgZFXCHjjwVQ7ccojWhqTgo7nF6vQIiGRXi4K4qqaR3DUvIL%2F2W%2Bcj5CojfAO4kaFAFXPPjTn6hKCGUWf1JoDEhPK6XA3ojUeS1YKCCLCd2G0Rnxlz1PrVLzv%2BpjeWHSYaLckJLU6eFqMAum10tdj9nPb%2B9L%2FCOmzGGW0icxTVICn9xisdPU1gyxKhxqinpcXSs2gbAHWKcxb4PGEy3alCE%2By5vQ3io1clX",
+   "posted_at": "2026-11-13T05:35:35+00:00"
   },
   {
    "title": "PNY NVIDIA Quadro K420 2GB DDR3 Carte Graphique Pro Low Profile HDMI DVI",
@@ -483,7 +480,7 @@
    "title": "SK hynix 8 Go DDR4 SDRAM SO-DIMM 260 broches PC4-3200AA HMA81GS6DJR8N-XN",
    "price_raw": "39.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhIeDIxkDTkeTCF21Ckq1L4pnxw31KiesKz8pBSZL%2BmkExZAl%2BvXidxIDMnqcdLANA7egR5m6rZogRPB5h7Tr0cIjXbMFMe4T9A94JaMr4LN2MTli8%2BT%2FQ%2BaVmWUbqDdsq3WL5JaTRcjQ4lXF6sNYo9a",
+   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhKer1JJ4gqg2RJz85f9qLwbZnIITBs%2BzqTAKUFMusHfTviEQkZcjKpQrYM8Dy%2BuBsg6o9UFH0LLSulDwXcea%2B8Q6TOM1mDbCVE0IcTLjB18uLs7n9fYFLhg1mTt8qq8wseHzIjw7GDjY2nJ7pen%2BSGG",
    "posted_at": "2026-09-16T16:45:20+00:00"
   },
   {
@@ -504,7 +501,7 @@
    "title": "Carte graphique NVIDIA GTX 560 TI 1280MB",
    "price_raw": "20.43 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryD37vNCIbDuKJWiakyxiJyN7ZHnRosbO3Lgl01dlp5fPxY6k8gHzdho6%2FqsE8a3Y8jRgOWt40NPiPSqnOdPtrSI8M8xrWQrw7eX3IXa8u045iniK5JrMBGZIJFYR7tzdR9uB%2FP5yiJFpi7y9WTNa4qTgM9Bn15u%2BW0Vca05jIy7ZQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryAXl9KsjR9TLCzgBz613X9Dcb5v7K9z87DF7HaICHIOAVbD0BJE3genB%2B6UQcGRZPDHy2NdXVTCQeVNiWC0iXeCjg95go%2B5UDvTnR8vRjnQDAQjkhhmOlaKt3Bb0WyX%2ByR7BaKX2wyOaUTh3hdU52SncMBtTnerTMHK%2B%2Fu2xM8Z0A%3D%3D",
    "posted_at": "2026-09-07T19:07:28+00:00"
   },
   {
@@ -578,6 +575,13 @@
    "posted_at": "2026-09-07T20:03:05+00:00"
   },
   {
+   "title": "Carte mère MSI H81I MS-7851 Ver 2.2 Mini-ITX LGA1150 + Intel Cooler & I/O Shiel",
+   "price_raw": "55.79 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198345649643?_skw=carte+m%C3%A8re&hash=item2e2e526deb:g:0-0AAeSwtmpqANf5",
+   "posted_at": "2026-05-10T19:03:48+00:00"
+  },
+  {
    "title": "Routeur WiFi 6 TP-Link Archer AX18 AX1500 Mbps, 1.5 Gbit/s bi-Bande, 4 Ports Gigabit, 4 antennes à Haute Performance, WPA3, EasyMesh, VPN",
    "price_raw": "40,99€",
    "source": "dealabs",
@@ -625,31 +629,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xugxj8/monitor_asrock_phantom_gaming_qdoled_27_qhd_2k/",
    "posted_at": "2026-11-12T16:15:02+00:00"
-  },
-  {
-   "title": "[SSD] Verbatim Vi7000 2TB PCIe 4.0 NVMe M.2 SSD w/ DRAM + Heatsink is $199 at Walmart",
-   "price_raw": "$199",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/",
-   "posted_at": "2026-11-12T16:08:29+00:00"
-  },
-  {
-   "title": "Mars Gaming MCS2 Boîtier PC Gaming Compact MicroATX 2 Ventilateurs FRGB Ra",
-   "price_raw": "36.75 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132744966?_skw=boitier+pc&hash=item5a9a1e7906:g:-j0AAeSwSOZo-Ukc",
-   "posted_at": "2025-10-23T04:14:24+00:00"
-  },
-  {
-   "title": "Micron 8 Go DDR5 SODIMM 5600 MHz PC5-5600B MTC4C10163S1SC56BH1 RAM PC portable",
-   "price_raw": "120.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840121562523?_skw=ddr5&hash=itemc39b25b59b:g:hT8AAeSwLEtq9eHT",
-   "posted_at": "2026-11-12T16:00:02+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1714,
-  "models_with_reference": 45
+  "listings_seen": 1707,
+  "models_with_reference": 46
  }
 }
