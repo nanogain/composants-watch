@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T04:38:00Z",
+ "generated_at": "2026-11-13T05:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 342,
-   "last_ok": "2026-11-13T04:38:00.624852+00:00"
+   "last_ok": "2026-11-13T05:08:00.675099+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T04:38:00.624852+00:00"
+   "last_ok": "2026-11-13T05:08:00.675099+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-13T04:38:00.624852+00:00"
+   "items": 375,
+   "last_ok": "2026-11-13T05:08:00.675099+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 69,
-   "last_ok": "2026-11-13T04:38:00.624852+00:00"
+   "items": 0,
+   "last_ok": "2026-11-13T05:08:00.675099+00:00"
   }
  },
  "watchlist": [
@@ -71,7 +71,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYAQ40jeAOZI%2B2O6LR7MgVFpPzV%2B4Rq8N55kihcGw1gW7R6bZm8yOfrl3o1xqh0PCFAaMipQUMEMu0%2BqwalAbgnxUpJKNoJYU53FcUnzfsHOBnpznoqUdFke3auque6Er%2Fr4A4PoCI5a%2BFhGO0TCNah",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZd3mPzMRbqXUCgVVfKPaxGsWyvnk910dE3lTDgL8Wiq%2Bt6%2B630HBU9tO0U5369TQz%2FiE3Z%2BZuQJpcWteeMRGunc0QaD1XUvQzRtLFLk1ZDk7RoSWskUD7%2FPsSPGX6VxHpVWAv%2Fzf88Ovnl0pXdfIdA",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -109,23 +109,6 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
-   "title": "Crucial RAM 8Go DDR4-3200 SO-DIMM CT8G4SFRA32A.8FE1 CL22 260 Broches",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 57.9,
-   "shipping_eur": 4.99,
-   "effective_eur": 62.89,
-   "median_eur": 108.94,
-   "discount_pct": 42.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · kaixo_bakea (100,0 %, 81 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840122244871?_skw=ddr4&hash=itemc39b301f07:g:OUAAAeSwXS1qt6li&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lI%2B0Uaiwg%2FuSL3ahVic%2Bj%2FSSu3aoCQaWv4YK4sw73xHxTQT%2F7JXF5LplSyMIVlNBr0zasJrF2OLPU90w2jKwupN1MNGAqFHvpLcNhO6mBa1XSOA40UYtkIycuXjFYFvXmtOeXDr3sXXmZHTj1WPIhxrmZP%2FhkchmU7sD0ukItVzGtyUYQFYebIBxHQUIHVYWWBsexLJJ2m%2FXyenjkf0oA%2Bj48JwQCFD7a5H1fyycI9DTYljGe1LYZIUPqL5jZ%2FBSPxoTM6mZSMwLpeCxCEvKI8",
-   "posted_at": "2026-11-12T20:52:49+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8BlCedw5qyPInQRxx3AVI1vH9tjwp3K87XlpvaYjOO09G49yRNmJ7ThVlJYZq7sv7ZAwg%2BKcGFX%2BQ14TbDusr6bZ05gO%2BRGBkkHrE3ev3zGKWojW%2BKv0Kbwd5B9bQYQI%2F0ataxlCWtCfar2FT2J6TYb3qzdtCU5nnlG%2FDTyUqR9A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9kVojx7c7%2BEZDramMb%2FRY95j%2F22Gu8U5xqAXaaRF3uNPdmzqZyfj8u4piCBTnxf2Jf%2F6fT%2FLYWJsSxiA5GXJihdZiYzbgUQnB2x9HY4KZNy28gq9G%2FP4F6abT6%2F014Z7RzNa5h0vIk3eSlJRv3tMSX201ySrpHnph2lcCQJL31%2BA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -315,6 +298,13 @@
  ],
  "unclassified": [
   {
+   "title": "8Go RAM Mémoire Mesh Elite Skylake Fury X (DDR4-17000 - Non-ECC)",
+   "price_raw": "75.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/115802761598?_skw=ddr4&hash=item1af661e97e:g:nTkAAOSwPaJgeGLP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mDoqtW%2Fm%2BgtTMAHfdaCs6tP8qO4l2%2Fu9%2B2aNyoVk8rs%2BQFk0aNaIlvMi%2BCcDSuAtRhHt3%2FaharWIZ5N6qkrbB%2BdTnD9jiJcZGO79hqcJt01LeYBK9X8fc1xvWEys5n2kdxo87SH7eDG45cNL9%2FLeAIo8%2FKWVGsH1soM%2B6eBTKtQXbjloRKZ7SQLuCMfuYwyk006ZrHm0sDpmQx7pUTq56nEfZ%2F1oxDEFvKSCGzg1mmugiuIFme93AH5pW6EHbfaXbvGvWSmmbiEQ9ko63LFk%2F2",
+   "posted_at": "2023-05-12T13:56:49+00:00"
+  },
+  {
    "title": "[Prebuilt] Sams Club in Store Only | HP OMEN Gaming Desktop | Intel i7-14700F, 16GB DDR5 5600 RAM, 1TB SSD, NVIDIA RTX 5060 | $539.31 ($1199.00-$659.69) | YMMV!",
    "price_raw": "$539.31",
    "source": "reddit",
@@ -325,7 +315,7 @@
    "title": "SK hynix 8 Go DDR4 SDRAM SO-DIMM 260 broches PC4-3200AA HMA81GS6DJR8N-XN",
    "price_raw": "39.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhJOzdbqiweZJXd0V3l5Zq%2B%2FkbJj0mDsa73JkDGF1T8nNKl42A1%2B5C2eJENjHHg9qy%2Fpr9QeXatcuGoeuFdkSnVafkj6fkaEUPGYxYXBGwIijiDcRlEPuclSRpL6wxyO0dUopYYyB2uF3U3rOv0xcSsc",
+   "url": "https://www.ebay.fr/itm/398401271779?_skw=ddr4&hash=item5cc290f7e3:g:iSIAAeSwZBRqqscf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nvmUqGz2jMZKoTLpRQb954WJ961j%2BzJ3LfL74qeyuNbyV0v70W24%2FSe7qQdjNwDUl3EjSn4ambJ%2BGpb7F6P4An6H2JW1%2F3GfXNx4wpoROsJHdVRlVAKk%2F6%2FBodYqWdKhIIQnn%2F4BWm%2BqfyF0Gd17MSnSdZMgv4IAF06N8hQ3PuTCfYm%2FXKZaIlXQcpAkYR0Fq3dbiTTHrBSPPj3C%2FqgUICX7HhEORGkgrQzpMKp3a%2BDasDjRq4zGjMjrVAQ5NaJVPQ7IMydcokQht%2B1%2FLL03Tb",
    "posted_at": "2026-09-16T16:45:20+00:00"
   },
   {
@@ -346,15 +336,8 @@
    "title": "Carte graphique NVIDIA GTX 560 TI 1280MB",
    "price_raw": "20.43 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryDG6rgZwxI6OP%2FePjacYGWvXmbwCMu%2BGpoaq5F7oNpA1AlMQnIkGmBDWbv1k7j1lug%2BF5O6g7c%2Fk%2Bw9k6l2LCYRnWSYIqxUkr24QV2Js2Lk8VRbvxBL0IkJzOr2rMreitcNzqYibXvyNUywE0z1GB1M5S5j1XpljFm8rwIlsiAwTg%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839966926?_skw=carte+graphique&hash=item4a3c57ccce:g:UO4AAeSwS0RqnwtX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lM30jpJkCXJt7RcHhjwmhl58MTYUkOc2dvBmVqDq5%2FF6v0J6O5X0LnXJfL36fbiT4DtbDejaHE7NbFCQUavuIYg3%2F6fCJEeZLnM8JI7ICkrhK9snmIfFgbsxMibEPiryAR5Uxbo5WAIytt5WS9tqbd%2Fjuo5qAp0vQgH4UHr2UyttnsAH0nb3%2FmViYha2cef7x3B%2BK6UnVWu%2BLiFvzozvlozOxOYTeskZyjjr8BGwPgfW72ZLD1p0pRFEtSf%2FscnUSscJrSD7LqlS2fAnxxoDPbSZUxrUMusn8KKV6aVSvYWw%3D%3D",
    "posted_at": "2026-09-07T19:07:28+00:00"
-  },
-  {
-   "title": "Remplace carte graphique Radeon 6970 Apple iMac 12,2 27\" 2011 A1312 - 661-5969",
-   "price_raw": "149.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858576?_skw=carte+graphique&hash=item5e7996e750:g:pqwAAOSwLihn~il~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLRzDzMl5jqiGHcFKpMagO2KzhJjifCo%2FsAeTt%2BpIZNP2v9VLPDE7kFt9WxZtZkC%2BaHP9fBLsxL9xKsJPvcrDiGaudxqIV6h%2Fxh1GJXzwa%2B28tmtnTasybAgdR8sYvCmqtzJRyNFoyFG42%2BITKS31NTb4P1zcJqSAVAZA4zN6Sq2TRTVjyZ3Gkjv5klZeFreKw7q3ScqpC%2Bf%2BLqU%2F8j542wb3jcLHOOIuDV7Hm70FVia0PUZIjpNgBYvp5K8paYLbxp966laKv%2FgpOtqUEvUL%2FkYLJLF%2Fdiv1yn7C%2BYBf3Ng%3D%3D",
-   "posted_at": "2025-04-15T09:15:08+00:00"
   },
   {
    "title": "Samsung Ram So-dimm Ddr4 Pc4-3200aa 16go 260pin M471A2K43EB1-CWE",
@@ -406,39 +389,11 @@
    "posted_at": "2026-04-02T08:28:02+00:00"
   },
   {
-   "title": "SK hynix RAM 16 Go DDR4 SDRAM Registered PC4-2400T DIMM 288 broches",
-   "price_raw": "39.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206696371759?_skw=ddr4&hash=item302010562f:g:HJAAAeSww6dq9ioP",
-   "posted_at": "2026-11-12T21:09:03+00:00"
-  },
-  {
-   "title": "SK hynix RAM 4 Go DDR4 SDRAM DIMM PC4-2133P 1Rx8 288 broches HMA451U6AFR8N-TF",
-   "price_raw": "11.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206696426123?_skw=ddr4&hash=item3020112a8b:g:PWgAAeSws8Rq9i-K",
-   "posted_at": "2026-11-12T21:29:24+00:00"
-  },
-  {
    "title": "Samsung 16 Go DDR5 SO-DIMM PC5-4800B 262 broches Non ECC M97596-001",
    "price_raw": "141.10 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206696426715?_skw=ddr5&hash=item3020112cdb:g:JjYAAeSwumxq7I6g",
    "posted_at": "2026-11-12T21:29:30+00:00"
-  },
-  {
-   "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-2133P Registered HMA41GR7AFR8N-TF",
-   "price_raw": "20.25 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206696355327?_skw=ddr4&hash=item30201015ff:g:~LgAAeSw8l9q9ijn",
-   "posted_at": "2026-11-12T21:04:25+00:00"
-  },
-  {
-   "title": "SK hynix RAM 4 Go DDR4 SDRAM PC4-2666V SO-DIMM 1 module HMA851S6JJR6N-VK",
-   "price_raw": "13.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206696327027?_skw=ddr4&hash=item30200fa773:g:1fAAAeSwJ~1q9iaf",
-   "posted_at": "2026-11-12T20:52:46+00:00"
   },
   {
    "title": "AMD Ryzen 9 série 9000 Processeur CPU pour Socket AM5 PC Desktop",
@@ -570,7 +525,7 @@
    "title": "Kit Carte Mère QIYIDA X99 Gaming Intel Xeon E5-2680 V4 DDR4 M.2 NVMe PC Bureau",
    "price_raw": "159.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk6PLT3lKQmp4LOoicSUZ5jIIWjJ3%2F0jsnYe4Ig6%2BYeYjmJb%2Fs71YZzi9KsmsGPIJZfqGlv4Noq31HRnRfOEPnIDe7RJO9%2FQYnO5IJmWDH%2FwMx00yvkvlXV4U2Jnb%2FA8q2Mvys8nujnZSAV5pMTn%2FpbmI9qNiPHxLDhNC%2FpZ3FXmqw%3D%3D",
+   "url": "https://www.ebay.fr/itm/860113651845?_skw=carte+m%C3%A8re&hash=itemc842c4c885:g:GzIAAeSw3P5q65CL&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7khSWkzbYcx0yA2ovn%2BfOOyuwD5AXTLkV42w2S0ML4bgHej1rN8sSISRl56feN0V0MqTuJdhjbUgLhmCC6Jlj3XonFYH8718JGNQZJxZPFVzol9Z2l4069KTqDev%2BlNpk5EfTF7LPHWoyjUlQ23TJ9a4LhGTkJaFOKW6vYrAQzAoUvq8jlRiA6%2FQYGgn0jrqIQ3lfOw4fssQas3NOxuW4R%2BNnqY85eoHD%2BbSp1T9P3MxC%2BtgGw%2BxRXp3x8sFL6iMBx5oPj%2FD8hb%2F7UJWMEM95Zytjb%2Bs9WGwAhJ8otrdJugCg%3D%3D",
    "posted_at": "2026-11-04T20:24:41+00:00"
   },
   {
@@ -663,10 +618,38 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/orico-9-en-1-hub-usb-c-avec-boitier-ssd-m2-nvme-10-gbps-3452837",
    "posted_at": "2026-11-12T07:58:00+00:00"
+  },
+  {
+   "title": "SK Hynix 16Gb LAPTOP  RAM PC5-4800B 1Rx8 DDR5 Laptop Memory HMCG78AEBSA095N",
+   "price_raw": "134.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267841350827?_skw=ddr5&hash=item3e5c96acab:g:05IAAeSwQrZq8cVw",
+   "posted_at": "2026-11-12T06:49:57+00:00"
+  },
+  {
+   "title": "PC Fixe Flow Up Savannah - AMD Ryzen 5 5600 , RTX 5060 Ti 8 Go, RAM 16 Go DDR4, SSD 1 To, MSI A520M-A Pro, Windows 11 Version d'Essai",
+   "price_raw": "1 049,01€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/flow-up-pc-savannah-r5-5600-rtx-5060-ti-8gb-16-go-ddr4-ssd-1-to-3452668",
+   "posted_at": "2026-11-12T06:09:10+00:00"
+  },
+  {
+   "title": "Imprimante 3D ELEGOO Centauri 2 Combo – Système Multicolore 4 Couleurs",
+   "price_raw": "279€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/centauri-2-combo-3452733",
+   "posted_at": "2026-11-12T05:05:55+00:00"
+  },
+  {
+   "title": "[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999",
+   "price_raw": "$999",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/",
+   "posted_at": "2026-11-12T05:30:13+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1688,
-  "models_with_reference": 46
+  "models_with_reference": 45
  }
 }
