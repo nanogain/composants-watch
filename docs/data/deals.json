@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-13T20:08:00Z",
+ "generated_at": "2026-11-13T20:37:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-13T20:08:00.675592+00:00"
+   "items": 342,
+   "last_ok": "2026-11-13T20:37:00.632658+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-13T20:08:00.675592+00:00"
+   "last_ok": "2026-11-13T20:37:00.632658+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-13T20:08:00.675592+00:00"
+   "items": 350,
+   "last_ok": "2026-11-13T20:37:00.632658+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 5,
-   "last_ok": "2026-11-13T20:08:00.675592+00:00"
+   "items": 59,
+   "last_ok": "2026-11-13T20:37:00.632658+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9fgvnjctpR0logctoXEme03nCqt6kYR%2BVLatd4tkGSfsb0jV4DhttmHwpsuRW%2F7XTwoYzKdZrqRGSL48px0zmNx7cvKhXV5iNpKUOoZvDcpeLm9gFXGVH2Oogz5NXOPMkSGdiuHjrl71qaZC964b1VKvu9OSgRjlrwp9nt%2FocMMA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8Au2fqw36IUf0uoB0q5V0l0yc3bnYHp9vHYBzLG8VT2UyfR1BxxiuWzbuSl48TESHTkea%2Fz%2ByGazl7jWSCCCz%2FaJTl1nG3cbYa9MFrlkjHrWIMRdqAsk%2BY%2F4kO5ycymzY%2FnOB%2B0Zay0Rk2yPr6etwq%2BRd5cv94Tbs2Yi1LXj2zqQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbUqsTR8e5wn9bNWjH9vnCf5jFH%2BcK7n8en1ovzBLsJEMybTsq2Nd7RbAOAOJ1t8t5VE1ueb9Vo7KjxfBmUbsXPM64smXY1pkdXxqfW6WQczpPySyRjsoYs9AYi50AFIpB0Hu1VmGVtYQH8sUAE791C",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbazgE0vcWLK4%2FHvyxsHToNAk2hKq8bB%2BaNhIwQ%2FAa4XvAHnMpdjGLMxUFaouXK3%2FJttnegNF8QESJp2gmARUskFsjSFUWqJOH%2Fo2pFBsRpnPiEFNzY5lINFTjyb9djnSzql0hwwiiLF2L18RmKleXz",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -294,9 +294,61 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-32-gigabyte-mo32u2-qd-oled-4k-uhd-240-hz-hdr-true-black-400-3454326",
    "posted_at": "2026-11-13T12:47:04+00:00"
+  },
+  {
+   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
+   "model": "SSD:NVMe-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 22.44,
+   "shipping_eur": 0.0,
+   "effective_eur": 22.44,
+   "median_eur": 27.59,
+   "discount_pct": 18.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 389 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
+   "posted_at": "2026-11-09T11:03:45+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Processeur Intel Core Ultra 7 Processor 270K Plus 24 (8 P-Cores + 16 E-Cores) up to 5.5 GHz",
+   "price_raw": "279,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/intel-core-ultra-7-processor-270k-plus-24-8-p-cores-16-e-cores-up-to-55-ghz-3454795",
+   "posted_at": "2026-11-13T20:23:21+00:00"
+  },
+  {
+   "title": "Souris filaire Logitech G502 HERO - capteur 25 600 ppp, 11 boutons, RGB",
+   "price_raw": "29,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-filaire-logitech-g502-hero-capteur-25-600-ppp-11-boutons-rgb-3454801",
+   "posted_at": "2026-11-13T20:33:11+00:00"
+  },
+  {
+   "title": "SK hynix 16GB 2Rx8 PC4-2666V Desktop RAM DDR4 2666Mhz",
+   "price_raw": "56.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307281259762?_skw=ddr4&hash=item478b63ecf2:g:9PwAAeSwMp1qrQnI",
+   "posted_at": "2026-11-13T20:09:41+00:00"
+  },
+  {
+   "title": "SK hynix 32GB 2Rx4 PC4-2666V Desktop RAM DDR4 2666Mhz",
+   "price_raw": "144.22 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307281262693?_skw=ddr4&hash=item478b63f865:g:~VkAAeSwrtdq9262",
+   "posted_at": "2026-11-13T20:11:56+00:00"
+  },
+  {
+   "title": "ALIMENTATION 500Watts pour tour ordinateur",
+   "price_raw": "16.15 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128075606393?_skw=alimentation+pc&hash=item1dd1e6a979:g:oOoAAeSwf9tqpUKe",
+   "posted_at": "2026-09-12T12:21:59+00:00"
+  },
   {
    "title": "PC Portable 18\" Asus TUF A18 - FHD 144hz, Ryzen 7 260, RTX 5060, 16 Go RAM, 512 Go SSD",
    "price_raw": "1 349,99€",
@@ -429,6 +481,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960191302570?_skw=%C3%A9cran+pc&hash=itemdf8fdc8baa:g:LaQAAeSwrtdq9zMP",
    "posted_at": "2026-11-13T15:55:56+00:00"
+  },
+  {
+   "title": "Samsung T9 - 4TB - Disque dur SSD externe / Noir - MU-PG4T0B/EU",
+   "price_raw": "590.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128192622629?_skw=ssd&hash=item1dd8e03025:g:SjIAAeSwMQJq9x9t",
+   "posted_at": "2026-11-13T15:11:23+00:00"
   },
   {
    "title": "Imprimante jet d'encre HP Envy 6130 éligible Instant Ink",
@@ -604,52 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-apple-ipad-air-13-m3-512go-2025-1978eur-cagnottes-3454028",
    "posted_at": "2026-11-13T09:27:47+00:00"
-  },
-  {
-   "title": "Sac à dos Travelite avec compartiment rembourré pour ordinateur portable 15,6 pouces",
-   "price_raw": "16,63€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/sac-a-dos-bagages-a-main-travelite-compartiment-rembourre-pour-ordinateur-portable-156-pouces-3453997",
-   "posted_at": "2026-11-13T08:39:49+00:00"
-  },
-  {
-   "title": "SK hynix 16 Go DDR5 SDRAM SO-DIMM PC5-5600B 1x16 Go HMCG78AGBSA095N",
-   "price_raw": "208.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227612277094?_skw=ddr5&hash=item34febfb966:g:xL0AAeSw~Opq9tEw",
-   "posted_at": "2026-11-13T09:04:45+00:00"
-  },
-  {
-   "title": "Boitier PC SilverStone FLP02",
-   "price_raw": "149,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-silverstone-flp02-3453976",
-   "posted_at": "2026-11-13T08:37:35+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech G PRO 2 Lightspeed",
-   "price_raw": "74,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g-pro-2-lightspeed-noire-3453888",
-   "posted_at": "2026-11-13T08:22:28+00:00"
-  },
-  {
-   "title": "Souris filaire Asus ROG Gladius III Core - Noir",
-   "price_raw": "29,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-gaming-filaire-rog-gladius-iii-core-noir-3453886",
-   "posted_at": "2026-11-13T08:21:05+00:00"
-  },
-  {
-   "title": "PC Apple Macbook Pro 16\" - Liquid Retina XDR, M5 Max, CPU 18 coeurs / GPU 32 coeurs, 36 Go RAM, SSD 2 To, Argent",
-   "price_raw": "3 999€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ordinateur-apple-macbook-pro-16-liquid-retina-xdr-m5-max-cpu-18-coeurs-gpu-32-coeurs-36-go-ram-ssd-2-to-argent-3453852",
-   "posted_at": "2026-11-13T08:15:43+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1719,
+  "listings_seen": 1722,
   "models_with_reference": 45
  }
 }
