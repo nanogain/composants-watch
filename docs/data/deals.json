@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T18:07:00Z",
+ "generated_at": "2026-11-14T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 347,
-   "last_ok": "2026-11-14T18:07:00.660184+00:00"
+   "last_ok": "2026-11-14T18:38:00.624090+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T18:07:00.660184+00:00"
+   "last_ok": "2026-11-14T18:38:00.624090+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 361,
-   "last_ok": "2026-11-14T18:07:00.660184+00:00"
+   "items": 357,
+   "last_ok": "2026-11-14T18:38:00.624090+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 73,
-   "last_ok": "2026-11-14T18:07:00.660184+00:00"
+   "items": 65,
+   "last_ok": "2026-11-14T18:38:00.624090+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9%2FkYg1DxmbO2IcRlwbGREWkgTmg180%2FMPb7yXoLheBQZ1aA9qbq3TlGeMsSd6xpP%2Burzz9Y1FYQj6NjIq7DOzGhb8CVIDXtuT4xgC%2BYie%2Btbm6cMbMdvOXUmYh%2Fu0UOF2Th6EK15QVrJToZ01f22ub3JwF6kZpMLxWoMSBJflVMA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8CPOQI4ITJOoTD0FEtpw2gKThBJElXx5XcCAKWjpoLhb9Prpj9tcQrstuYV2JBjHqOYUSmuAw3bebmyRXcYCkfN%2BK9Mz5cf%2FEGEIA5s45qDTKZe9bUrYv%2F69OHVnHmVsyazci8PGmpTjbqebvTPakncKhKGBBZ5CR%2Bx1foy9crCA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,25 +156,8 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYCoC7IJEcisjh8%2Bd%2BXtDkgYgPj8LE1f6UHeNAeFZoaNd0Aw--SlsH5t%2FHkEBqD7spA%2FnLxPidfyJog17bYC3JNr2KQSQyM34mzRNHZe%2FC3u%2FNIHJYh75jPdhOj%2FDGRZ7Y9Kwna31QZFJVeNEXiQFVr",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbXhs9htAXtlIjdCJrPl8AzEV5AMZEVDjB2CRewX2qO8uc2d1nZ%2F7XKsO0LrxGSPdZ7HIUGyVxl0FCd%2F6%2BpyaM7JjXpncbu2WlIh2YcugZhlUlpWgVNPdG0B9fer9MDO8l46%2F8Ufw9R1J16DyLk5hm6",
    "posted_at": "2026-10-24T22:43:47+00:00"
-  },
-  {
-   "title": "Écran PC 23.8'' Lenovo L24-4e - FHD, IPS, 100 Hz",
-   "model": "MON:24-FHD-100Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 57.24,
-   "shipping_eur": null,
-   "effective_eur": 57.24,
-   "median_eur": 80.78,
-   "discount_pct": 29.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon.es",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-238-lenovo-l24-4e-fhd-ips-100-hz-3453547",
-   "posted_at": "2026-11-12T20:26:49+00:00"
   },
   {
    "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
@@ -314,6 +297,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Coque ADEQWAT iPad 10.9/ iPad 11 A16 Beige",
+   "price_raw": "19,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/coque-adeqwat-ipad-109-ipad-11-a16-beige-3455604",
+   "posted_at": "2026-11-14T18:36:22+00:00"
+  },
+  {
+   "title": "PC Portable 15,6\" Samsung Galaxy Book 4 Edge SE - Snapdragon X, RAM 16 Go LPDDR5x, SSD 256 Go, Windows 11, avec Souris & Sacoche",
+   "price_raw": "699,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-samsung-galaxy-book-4-edge-se-156-snapdragon-x-16go-ram-ssd-256go-souris-3455597",
+   "posted_at": "2026-11-14T18:27:36+00:00"
+  },
   {
    "title": "[Console] Woot Nintendo Switch 2 Console (Grade A Refurbished) (Open Box) - $426.55 - Free shipping for Prime members",
    "price_raw": "$426.55",
@@ -649,24 +646,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ddr3-m2-2280-sata-de-128-go-wifi-5-bt-42-windows-11-pro-3454902",
    "posted_at": "2026-11-13T22:30:26+00:00"
-  },
-  {
-   "title": "[ ASUS - PRIME NVIDIA GeForce RTX 5070 Ti 16GB] - $1,199.99 - @BestBuy",
-   "price_raw": "$1,199.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xvlofk/asus_prime_nvidia_geforce_rtx_5070_ti_16gb_119999/",
-   "posted_at": "2026-11-13T22:24:28+00:00"
-  },
-  {
-   "title": "PC Portable 17.3\" HP OmniBook 7 - Intel Core Ultra 7, 32 Go RAM, SSD 2 To, QWERTZ (Frontaliers Suisse)",
-   "price_raw": "1 065€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-173-hp-omnibook-7-intel-core-ultra-7-32-go-ram-ssd-2-to-qwerty-frontaliers-suisse-3454880",
-   "posted_at": "2026-11-13T21:54:03+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1713,
+  "listings_seen": 1715,
   "models_with_reference": 49
  }
 }
