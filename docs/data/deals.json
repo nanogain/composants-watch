@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T01:38:00Z",
+ "generated_at": "2026-11-14T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-14T01:38:00.672953+00:00"
+   "last_ok": "2026-11-14T02:08:00.674896+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T01:38:00.672953+00:00"
+   "last_ok": "2026-11-14T02:08:00.674896+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-14T01:38:00.672953+00:00"
+   "items": 336,
+   "last_ok": "2026-11-14T02:08:00.674896+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-14T01:38:00.672953+00:00"
+   "items": 70,
+   "last_ok": "2026-11-14T02:08:00.674896+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
    "posted_at": "2026-10-12T17:30:00+00:00"
+  },
+  {
+   "title": "Fanxiang M.2 NVME SSD 1TB 2TB 4TB SSD 4.0 PCIE Game SSD Interne Festplatte Lot",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 60.49,
+   "shipping_eur": 0.0,
+   "effective_eur": 60.49,
+   "median_eur": 149.99,
+   "discount_pct": 59.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-official-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/365215992597?_skw=ssd&hash=item550891cb15:g:7IQAAOSw4XdmTGWX",
+   "posted_at": "2024-11-07T06:12:38+00:00"
   },
   {
    "title": "Ecran PC gaming 27\" Acer Nitro VG272UW2bmiipx - QHD, Dalle IPS, 240Hz, 1ms, FreeSync Premium",
@@ -109,6 +126,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "Micron M600 SSD interne 256 Go 2,5\" SATA III 6 Gb/s MTFDDAK256MBF",
    "model": "SSD:SATA-256Go",
    "category": "SSD",
@@ -122,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · letresup (100,0 %, 124 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB",
+   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kANEecdTmmwmcTBokhnUtgR1XrZ74%2FKu11s5OTIiyQgee6GYZcp4WfxWJaryODOX50qlQb7VQ9wU6OwWrgyAVxDrwwclcMUH3HxrgblB%2FP9BWtGmwnOh1bgRE1ssmzmqrfEHnTfeqn7QvC2SiHT%2BTCg52MmrzphkowIi6wrVeIPVme62qV4JZ3Z%2ByYGpl%2F7%2B%2BFURgdbWfYKWE0i0rEfaw9s--5In6scl5Fc4OkipA8mVsU%2BcMlQuktVJtjU6JLuCP%2BGJ%2Fysv9HIFEgsJxfbi1Z",
    "posted_at": "2026-11-12T20:26:23+00:00"
   },
   {
@@ -156,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fnidzxc8RlyJ33IoavKXGZ1TPJEtgmUbc70fC%2FlcXByrpnQpbz%2BjVA3yMeMIHeWgSyQkxyMBhlukLIlXM1mpTUxVVRuEltvj%2Fl7UOFXEmY5TMF50%2BEKrwhhnDYkQatfguoCx3Yftvhu0lCeTmIs5a3U9P9GDUpvuUamrcSE5ryQg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FOXsmlsqYKoRkgKDzuxWnxHmPaHB099hd2RcDja3vSqGx%2BL4ZElsdIVLvXVfSPoP9L6HLZJ4R4IIkdMf%2BJCbWZxHqjbjUt2MHggjRqc9mJx%2Fb6XcUoeMvREqbO%2BbO%2B%2FRLZbFNjOg41Wx%2BnhDNUEzofVte8%2FjoQ10nzhG7zqOM5oA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -381,6 +415,23 @@
    "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -440,13 +491,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/codes-promo/instant-ink-6-mois-offert-achat-nouvelle-imprimante-3454903",
    "posted_at": "2026-11-13T22:27:46+00:00"
-  },
-  {
-   "title": "Disque dur SSD externe 2 To USB 3.0 Type-C portable pour PC et Mac",
-   "price_raw": "69.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910869662?_skw=ssd&hash=itemba7a02049e:g:CbMAAeSw0flq9qbJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ltw1cGr%2BCKNKaP2fraPmd7E75noUWYittmfYmksAMHbiubsima031tA6dcMKSZ259%2BordiUEtAuk%2BYnIFkYfslT3NUv%2FmB3N2ETHl4Ayb8OnULAbDkKnrZ7ZSGZdfGpCOyD1HKggNYPFe374ATI2SoIsZ%2BCRG2yfNj505GJ1z1NlClSDzZjjVU2xEAMZTqtNPTKRT8qUsq7pgvKpxFoKR%2BU0GvDIyU4GVyOnYBKAM8CSGndax9Jp%2F9XAAw17CryYGruftDY3RM7VFehdzPVVyN",
-   "posted_at": "2026-11-13T05:57:41+00:00"
   },
   {
    "title": "ASUS Prime AP303 Tempered Glass (Noir) - Boîtier PC Gaming ATX",
@@ -538,6 +582,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/307281259762?_skw=ddr4&hash=item478b63ecf2:g:9PwAAeSwMp1qrQnI",
    "posted_at": "2026-11-13T20:09:41+00:00"
+  },
+  {
+   "title": "SK hynix 32GB 2Rx4 PC4-2666V Desktop RAM DDR4 2666Mhz",
+   "price_raw": "149.42 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307281262693?_skw=ddr4&hash=item478b63f865:g:~VkAAeSwrtdq9262",
+   "posted_at": "2026-11-13T20:11:56+00:00"
   },
   {
    "title": "ALIMENTATION 500Watts pour tour ordinateur",
@@ -751,7 +802,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1714,
+  "listings_seen": 1707,
   "models_with_reference": 46
  }
 }
