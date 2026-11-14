@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T18:38:00Z",
+ "generated_at": "2026-11-14T19:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 347,
-   "last_ok": "2026-11-14T18:38:00.624090+00:00"
+   "last_ok": "2026-11-14T19:08:00.674236+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T18:38:00.624090+00:00"
+   "last_ok": "2026-11-14T19:08:00.674236+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 357,
-   "last_ok": "2026-11-14T18:38:00.624090+00:00"
+   "items": 355,
+   "last_ok": "2026-11-14T19:08:00.674236+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 65,
-   "last_ok": "2026-11-14T18:38:00.624090+00:00"
+   "items": 72,
+   "last_ok": "2026-11-14T19:08:00.674236+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8CPOQI4ITJOoTD0FEtpw2gKThBJElXx5XcCAKWjpoLhb9Prpj9tcQrstuYV2JBjHqOYUSmuAw3bebmyRXcYCkfN%2BK9Mz5cf%2FEGEIA5s45qDTKZe9bUrYv%2F69OHVnHmVsyazci8PGmpTjbqebvTPakncKhKGBBZ5CR%2Bx1foy9crCA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9scse53FsIXhPJED7QbV06byi4gPl798%2FvGV%2FJIEsyGcIaS1MfnM1GmNnbI%2FzQ8eolnxpe3z0oqLvdbnhwoxDtK7j92waYfwxtjOQAiUebJoq3jWQdSOUaXzV2QhiCljxDYotK5zK4O7pspYbPf55rGGYSb3UH4ETwCJ%2BvOw2myA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbXhs9htAXtlIjdCJrPl8AzEV5AMZEVDjB2CRewX2qO8uc2d1nZ%2F7XKsO0LrxGSPdZ7HIUGyVxl0FCd%2F6%2BpyaM7JjXpncbu2WlIh2YcugZhlUlpWgVNPdG0B9fer9MDO8l46%2F8Ufw9R1J16DyLk5hm6",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZCqLKCHLkC4gqynBJGBVKJ%2FjsGZMIk8CWBa%2BXLVxmWLIzNpxktiGGMwMkE3BnbHJHYO7lM57BK4nP5vVUA4%2FwwP%2F304MV1CHZWxXC4EPHxqx0EleWLY1CtLH4HRrG%2FOqQsPIrB4BrnqZTY3ZJzLSdL",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -298,7 +298,21 @@
  ],
  "unclassified": [
   {
-   "title": "Coque ADEQWAT iPad 10.9/ iPad 11 A16 Beige",
+   "title": "Boîtier PC Sharkoon AK6 RGB Blanc",
+   "price_raw": "82.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307282685715?_skw=boitier+pc&hash=item478b79af13:g:8eUAAeSwxrlq-EwF",
+   "posted_at": "2026-11-14T18:44:56+00:00"
+  },
+  {
+   "title": "MSI MAG 32CQ6F écran PC 32\" incurvé Rapid VA WQHD 180 Hz 0,5 ms HDR Gare dec2027",
+   "price_raw": "193.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137931014962?_skw=%C3%A9cran+pc&hash=item201d544332:g:kR4AAeSwYNlq5hws",
+   "posted_at": "2026-11-14T18:58:08+00:00"
+  },
+  {
+   "title": "Coque Adeqwat iPad 10.9/ iPad 11 A16 Beige",
    "price_raw": "19,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/coque-adeqwat-ipad-109-ipad-11-a16-beige-3455604",
@@ -585,13 +599,6 @@
    "posted_at": "2026-11-14T05:08:05+00:00"
   },
   {
-   "title": "Carte graphique MSI GeForce 210 1 Go DDR3 Low Profile HDMI / DVI / VGA",
-   "price_raw": "12.94 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168671523864?_skw=carte+graphique&hash=item27459b3418:g:ohQAAeSw14xqnvsM",
-   "posted_at": "2026-09-07T18:00:59+00:00"
-  },
-  {
    "title": "[GPU] PNY NVIDIA GeForce RTX 5070 Ti OC - $1229.99 @ Staples",
    "price_raw": "$1229.99",
    "source": "reddit",
@@ -634,13 +641,6 @@
    "posted_at": "2026-11-13T22:27:46+00:00"
   },
   {
-   "title": "ASUS Prime AP303 Tempered Glass (Noir) - Boîtier PC Gaming ATX",
-   "price_raw": "109.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117204191687?_skw=boitier+pc&hash=item1b49ea09c7:g:3ecAAeSw43tq92f4",
-   "posted_at": "2026-05-19T21:23:13+00:00"
-  },
-  {
    "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
    "price_raw": "104,42€",
    "source": "dealabs",
@@ -649,7 +649,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1715,
+  "listings_seen": 1716,
   "models_with_reference": 49
  }
 }
