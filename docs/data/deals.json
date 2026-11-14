@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T19:08:00Z",
+ "generated_at": "2026-11-14T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 347,
-   "last_ok": "2026-11-14T19:08:00.674236+00:00"
+   "last_ok": "2026-11-14T19:38:00.679558+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T19:08:00.674236+00:00"
+   "last_ok": "2026-11-14T19:38:00.679558+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 355,
-   "last_ok": "2026-11-14T19:08:00.674236+00:00"
+   "items": 354,
+   "last_ok": "2026-11-14T19:38:00.679558+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 72,
-   "last_ok": "2026-11-14T19:08:00.674236+00:00"
+   "items": 55,
+   "last_ok": "2026-11-14T19:38:00.679558+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9scse53FsIXhPJED7QbV06byi4gPl798%2FvGV%2FJIEsyGcIaS1MfnM1GmNnbI%2FzQ8eolnxpe3z0oqLvdbnhwoxDtK7j92waYfwxtjOQAiUebJoq3jWQdSOUaXzV2QhiCljxDYotK5zK4O7pspYbPf55rGGYSb3UH4ETwCJ%2BvOw2myA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9e6Y%2B20OmK51fTFXacPHO%2BwgizrL1Wy2qJdPGh8gk54YZN1tmynvW2zdrdI7d0126HEwomY2ewXZMJ6BPVjiubBbiMFKllVrN7LxVbANQCwEUyrKINT39zqTtFh8Lxk9nLJSctyHCi3bdGA2j2nHzQGGbBeNcQwtYoTHYYjQHvoA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZCqLKCHLkC4gqynBJGBVKJ%2FjsGZMIk8CWBa%2BXLVxmWLIzNpxktiGGMwMkE3BnbHJHYO7lM57BK4nP5vVUA4%2FwwP%2F304MV1CHZWxXC4EPHxqx0EleWLY1CtLH4HRrG%2FOqQsPIrB4BrnqZTY3ZJzLSdL",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYUuCHJ99Oex%2FU8JfjmBPL9v3dmri0oJ2WgHd01cWv2ZopwXf4RKN1mhNtb5GoB1oSMX0RoLv4YiAJxPvn4ZG6lZqp0QMtu8ZpEmxKvQfxgdMMDHI78RVKlD1WhUbhONP4e9wUcjiYMdgVAF4Y%2BNUte",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -297,6 +297,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 14\" Tactile Lenovo Yoga Slim 7 Ultra 14IPH11 - WQXGA+ 120 Hz, Intel Core Ultra 7, 32 Go RAM, 1 To SSD, Bleu cosmique",
+   "price_raw": "1 399,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-tactile-lenovo-yoga-slim-7-ultra-14iph11-wqxga-120-hz-intel-core-ultra-7-32-go-ram-1-to-ssd-bleu-cosmique-3455635",
+   "posted_at": "2026-11-14T19:10:27+00:00"
+  },
+  {
+   "title": "Ordinateur Apple MAC Studio M5 Max CPU 18 coeurs 36 Go RAM SSD 512 Go Argent",
+   "price_raw": "2 699€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-apple-mac-studio-m5-max-cpu-18-coeurs-36-go-ram-ssd-512-go-argent-3455633",
+   "posted_at": "2026-11-14T19:08:24+00:00"
+  },
+  {
+   "title": "[Prebuilt] Costco - MSI Aegis R2 AI Gaming Desktop – Intel Core Ultra 9 285 - GeForce RTX 5080 – 32GB RAM – 1TB SSD - $2899.99",
+   "price_raw": "$2899.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwaje0/prebuilt_costco_msi_aegis_r2_ai_gaming_desktop/",
+   "posted_at": "2026-11-14T19:08:31+00:00"
+  },
+  {
+   "title": "Barrette mémoire SK HYNIX 8Go 1Rx16  PC4-3200AA SODIMM HMAA1GS6CJR6N PC Portable",
+   "price_raw": "83.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117521379133?_skw=ddr4&hash=item1b5cd1ef3d:g:9dAAAeSwjbpq-KZ9",
+   "posted_at": "2026-11-14T19:25:08+00:00"
+  },
   {
    "title": "Boîtier PC Sharkoon AK6 RGB Blanc",
    "price_raw": "82.90 EUR",
@@ -494,13 +522,6 @@
    "posted_at": "2026-11-14T11:22:17+00:00"
   },
   {
-   "title": "Kingston 8 Go DDR4 SDRAM DIMM PC4-2133 288 broches KCP421NS8/8",
-   "price_raw": "22.54 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307282187784?_skw=ddr4&hash=item478b721608:g:qH0AAeSwLDpq-D3h",
-   "posted_at": "2026-11-14T10:55:57+00:00"
-  },
-  {
    "title": "PC Portable 14\" Asus Zenbook DUO UX8406CA-DRFQL305W Ecran Tactile OLED 60 Hz Intel Core Ultra 7 32 Go RAM 1 To SSD Gris, Sans Chargeur",
    "price_raw": "1 569,99€",
    "source": "dealabs",
@@ -625,31 +646,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xvoa11/laptop_cert_refurb_acer_aspire_16_ai_16_intel/",
    "posted_at": "2026-11-14T00:18:28+00:00"
-  },
-  {
-   "title": "PC de Bureau Apple Mac Studio 2026 - Puce M5 Max, CPU 18 cœurs, GPU 32 cœurs, 36 Go de RAM, 512 Go de SSD",
-   "price_raw": "2 620,84€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-mac-studio-avec-puce-m5-max-argent-cpu-18-coeurs-et-gpu-32-coeurs-36-go-ram-512-go-ssd-3454941",
-   "posted_at": "2026-11-13T23:28:23+00:00"
-  },
-  {
-   "title": "6 Mois d'abonnement Instant ink offert pour l'achat d'une imprimante HP",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/codes-promo/instant-ink-6-mois-offert-achat-nouvelle-imprimante-3454903",
-   "posted_at": "2026-11-13T22:27:46+00:00"
-  },
-  {
-   "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
-   "price_raw": "104,42€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-plus-intel-core-i7-4600u-15w-8-go-ddr3-m2-2280-sata-de-128-go-wifi-5-bt-42-windows-11-pro-3454902",
-   "posted_at": "2026-11-13T22:30:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1716,
-  "models_with_reference": 49
+  "listings_seen": 1717,
+  "models_with_reference": 50
  }
 }
