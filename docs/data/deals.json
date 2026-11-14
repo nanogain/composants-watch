@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T20:08:00Z",
+ "generated_at": "2026-11-14T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-14T20:08:00.675132+00:00"
+   "items": 346,
+   "last_ok": "2026-11-14T20:38:00.630956+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T20:08:00.675132+00:00"
+   "last_ok": "2026-11-14T20:38:00.630956+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 351,
-   "last_ok": "2026-11-14T20:08:00.675132+00:00"
+   "items": 350,
+   "last_ok": "2026-11-14T20:38:00.630956+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 2,
-   "last_ok": "2026-11-14T20:08:00.675132+00:00"
+   "items": 28,
+   "last_ok": "2026-11-14T20:38:00.630956+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9v0Ce%2Bz6XFKZZ3EraABGYQTieayqubhxUZ9gPahjMrLST0OH1mxFkUAglUf2nyaH8h7atLq%2BQUK81%2FvCSIOtldWY6qTrJDCzDz0w5pVMWRsfRag%2BGL1jEbLk6bDkczECHUXf1r7s5YDq8jCKuYPuoWzEngn%2BIohlYdI6SKchRZlw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fc3uijS6qqdlXaxJoIIIn3rzbrmNJbO52Yvel3IDiK5Dp88F0JLQnFyX4HqEBDL%2BSBu5ajc2Wy2Z7Q36Ig7oBpzZqwMAoX7SCqiT3GqvQrf8WTUua6%2B5U5D2CnIDa7H5PBAgYNqvOSTjDDgGLONFvhc5zTmMayziGyeF74EjLAYw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,25 +156,8 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIY38Pb%2F9knvoQ36VCou9ouynqzCATEMN28BicZQkIltivA2u%2FdVoVRIPHvlYrbPI7qONH7Mtbf16Ms%2FF3CLXL5Bd7LcMpBVKvPaY7HH7xC3W%2Fpa6VEZUyGJYxX3cCMQdfEB4Mswpu3HrmRc0RMuAXdx",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaqYi8uJx8jeNUkyeDKKT02u7XhuYT1O8VdNm7rSmbTq3pvM4etAq7w0tTxzPo%2B9QZFOPVOcKaY8oe3F9R4SpRn4iYTB%2FSqI9jfSExXAyFqNj2tkUxnqvvUWhAC9Epq6JeEsh5CygJtAaAng8BO9x9Q",
    "posted_at": "2026-10-24T22:43:47+00:00"
-  },
-  {
-   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 69.99,
-   "discount_pct": 28.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
-   "posted_at": "2024-01-03T08:24:17+00:00"
   },
   {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
@@ -192,6 +175,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
    "posted_at": "2026-09-11T15:16:56+00:00"
+  },
+  {
+   "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 31.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 31.9,
+   "median_eur": 40.1,
+   "discount_pct": 20.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237181676371?_skw=ddr4&hash=item3739212b53:g:e90AAeSwfvBq95a3",
+   "posted_at": "2026-11-13T23:01:35+00:00"
   },
   {
    "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
@@ -298,6 +298,27 @@
  ],
  "unclassified": [
   {
+   "title": "Boîtier PC Deepcool CG530-4F - noir, panoramique vitré, ventilateurs ARGB inclus",
+   "price_raw": "54,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-deepcool-noir-panoramique-vitre-ventilateurs-argb-inclus-3455667",
+   "posted_at": "2026-11-14T20:16:11+00:00"
+  },
+  {
+   "title": "[Adhérents Fnac+] PC Portable Gamer 16\" MSI Crosshair 16 Max HX E2WGK-002FR - QHD+ 240Hz, Core Ultra 7, RTX 5070, 16 Go, 512 Go",
+   "price_raw": "1 350,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/adherents-fnac-pc-portable-gamer-16-msi-crosshair-16-max-hx-qhd-240-hz-intel-core-ultra-7-255hx-rtx-5070-16go-512go-ssd-3455664",
+   "posted_at": "2026-11-14T20:08:23+00:00"
+  },
+  {
+   "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
+   "price_raw": "11.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8rna%2FlQkY118IIJm2SlvYBmFe31h%2Fs2qyLzht%2FsCj04lCvjCzWE%2B7udhEiRt%2BYHj9xoxeg4PMQ4HxRpP7RqFM7QquDyItQ8sujRH5BJhBYlOktKgKJ9QYrtHU%2FtxaiMxVNU8qk3tEIA1EFRyuLjefdo73WeObEOe%2BAMsFFQ%2Bke5%2BA%3D%3D",
+   "posted_at": "2026-10-13T20:37:56+00:00"
+  },
+  {
    "title": "[Adhérents FNAC] PC Portable 16\" MSI raider 16 HX B2WI-016FR - QHD, Intel Core Ultra AI 9, 32 Go RAM, 1 To SSD, Geforce RTX 5080",
    "price_raw": "2 519€",
    "source": "dealabs",
@@ -319,13 +340,6 @@
    "posted_at": "2026-09-01T13:26:02+00:00"
   },
   {
-   "title": "AP04 Touche Clavier MacBook Pro Unibody 13\" 15\" 17\" A1278 A1286 A1297 2008-2012",
-   "price_raw": "1.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/286919453225?_skw=clavier&hash=item42cdbb6a29:g:FDQAAeSw~iRq7Ilw",
-   "posted_at": "2025-11-05T13:48:28+00:00"
-  },
-  {
    "title": "PC Portable 14\" Tactile Lenovo Yoga Slim 7 Ultra 14IPH11 - WQXGA+ 120 Hz, Intel Core Ultra 7, 32 Go RAM, 1 To SSD, Bleu cosmique",
    "price_raw": "1 399,99€",
    "source": "dealabs",
@@ -345,13 +359,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xwaje0/prebuilt_costco_msi_aegis_r2_ai_gaming_desktop/",
    "posted_at": "2026-11-14T19:08:31+00:00"
-  },
-  {
-   "title": "Barrette mémoire SK HYNIX 8Go 1Rx16  PC4-3200AA SODIMM HMAA1GS6CJR6N PC Portable",
-   "price_raw": "83.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117521379133?_skw=ddr4&hash=item1b5cd1ef3d:g:9dAAAeSwjbpq-KZ9",
-   "posted_at": "2026-11-14T19:25:08+00:00"
   },
   {
    "title": "Boîtier PC Sharkoon AK6 RGB Blanc",
@@ -487,13 +494,6 @@
    "posted_at": "2026-11-14T14:12:59+00:00"
   },
   {
-   "title": "Tablette Apple IPAD Air 11 M3 1To Lumière Stell Cellular 2025 - Sans Chargeur",
-   "price_raw": "869€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ipad-air-11-m3-1to-lumiere-stell-cellular-2025-3455391",
-   "posted_at": "2026-11-14T13:48:51+00:00"
-  },
-  {
    "title": "Carte Mère Asus G750JS , Carte Graphique et Processeur.",
    "price_raw": "43.60 EUR",
    "source": "ebay",
@@ -522,13 +522,6 @@
    "posted_at": "2026-11-14T13:18:25+00:00"
   },
   {
-   "title": "Lot de 2 barrettes RAM SO-DIMM Samsung 4 Go DDR4 PC4-2666V M471A5244CB0-CTD",
-   "price_raw": "23.75 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168862441538?_skw=ddr4&hash=item2750fc6042:g:DgwAAeSwcMJq-F3X",
-   "posted_at": "2026-11-14T13:10:50+00:00"
-  },
-  {
    "title": "NVIDIA Quadro 400 carte graphique  DisplayPort DVI P/N NVA-P1052-000(B)",
    "price_raw": "10.80 EUR",
    "source": "ebay",
@@ -541,13 +534,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/407275453321?_skw=ddr4&hash=item5ed3823b89:g:QQQAAeSw7sxqx2sG",
    "posted_at": "2026-10-08T10:07:13+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast DDR5 - 16 Go (2 x 8 Go) - 5600 MT/s C36 - AMD EXPO - Noir",
-   "price_raw": "453.60 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335448535928?_skw=ddr5&hash=item4e1a4a7378:g:-C0AAeSwI0dq-Epc",
-   "posted_at": "2024-06-19T10:38:28+00:00"
   },
   {
    "title": "Tapis de souris Logitech, moyen - surface souple",
@@ -646,10 +632,24 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xvucfe/mouse_logitech_g_pro_x_superlight_2_se_red_69/",
    "posted_at": "2026-11-14T05:31:06+00:00"
+  },
+  {
+   "title": "[PREBUILT] Alienware Aurora Gaming Desktop, RTX 5080, Intel Core Ultra 9 285 - $2,799.99",
+   "price_raw": "$2,799.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xvtzeo/prebuilt_alienware_aurora_gaming_desktop_rtx_5080/",
+   "posted_at": "2026-11-14T05:10:48+00:00"
+  },
+  {
+   "title": "[Microphone] BLUE YETI MICROPHONE GRAY - $40.49 (REFURBISHED)",
+   "price_raw": "$40.49",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xvtxmg/microphone_blue_yeti_microphone_gray_4049/",
+   "posted_at": "2026-11-14T05:08:05+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1719,
+  "listings_seen": 1720,
   "models_with_reference": 49
  }
 }
