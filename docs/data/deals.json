@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T16:38:00Z",
+ "generated_at": "2026-11-14T17:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 349,
-   "last_ok": "2026-11-14T16:38:00.672990+00:00"
+   "last_ok": "2026-11-14T17:08:00.679338+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T16:38:00.672990+00:00"
+   "last_ok": "2026-11-14T17:08:00.679338+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-14T16:38:00.672990+00:00"
+   "items": 363,
+   "last_ok": "2026-11-14T17:08:00.679338+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 55,
-   "last_ok": "2026-11-14T16:38:00.672990+00:00"
+   "items": 26,
+   "last_ok": "2026-11-14T17:08:00.679338+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BrZdf6EetU%2F1qERnQXnlGEbGG20PFxKv8pYqt7dKfHLzPzLsE9oo%2FZ1DNI%2B%2BhEM9UNMAHZEp9gYkQ6Gqhs7UhEiykAoFabWxDr7gG5eTTGwqsoYpUpLtqZRy5GVQ6%2BpX6aJmyuME94GExfHG%2F1P1ZFNighEHawneNz4%2FZGqtqQlA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B9a6B%2FD74eJn7GBCjjB1wQBMRDEp9rWYVEfivdyaoH0JtghGTGQ2kH4Kpb0wMagvbWY4eVOjnmdH0VM%2Bc3%2FiKBhZui2VSqRMAu1BL5UoiIBQ1Dvw%2B2fYAjZY9uQo8UVjF0EU265GRtiUiH%2B0vqHS8NpvSUoA%2F5c5i1O7kqXv3I8w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZhV2wAbc1IakX%2BVbuin1TAig9rHant9njSYx4ESwaCa7PdjTxIA%2BjIhb9wicPT9WNLmm0AY3UnpvFBpNRmsKp7MF9jgUhynOwEN%2B8j%2Fpz8RGP4aHIUOwIi5WSvR7mvZwIJXYbCigSu0oQUGgD45AJe",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZNm8WQURcQBBtwldvowqsS%2FTf9Dn5WpqJ0lwA%2FWRFY7S7MrkUJJUiRSlVYUQdKiHvkYxwo0Gg%2BO%2FFYPESx91THjierIw8oA0qyg3p4NarlZ0MbI9nCL1jeMUnKTWLU6bGW7JJoxLRagZzgvBITYx0h",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -158,6 +158,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-238-lenovo-l24-4e-fhd-ips-100-hz-3453547",
    "posted_at": "2026-11-12T20:26:49+00:00"
+  },
+  {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 69.99,
+   "discount_pct": 28.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-03T08:24:17+00:00"
   },
   {
    "title": "Ram mémoire Crucial 16GB DDR4-2400 CL17 SODIMM testée",
@@ -280,6 +297,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Adhérents] 10€ de réduction sur une sélection de PC portables, PC de bureau et tablettes",
+   "price_raw": "10€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/codes-promo/adherents-10eur-de-reduction-sur-une-selection-de-pc-portables-pc-de-bureau-et-tablettes-3454346",
+   "posted_at": "2026-11-14T17:00:00+00:00"
+  },
+  {
+   "title": "ARCTIC Liquid Freezer III Pro 360 A-RGB, Watercooling",
+   "price_raw": "59,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/arctic-liquid-freezer-iii-pro-360-a-rgb-watercooling-3455533",
+   "posted_at": "2026-11-14T17:06:56+00:00"
+  },
+  {
+   "title": "[Monitor] 27 Inch Odyssey G8 G80HF 5K 180hz or QHD 360hz IPS Gaming Monitor ($350 w/ edu discount)",
+   "price_raw": "$350",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xw7hrf/monitor_27_inch_odyssey_g8_g80hf_5k_180hz_or_qhd/",
+   "posted_at": "2026-11-14T17:06:22+00:00"
+  },
+  {
+   "title": "16 Go Ram DDR4 - lot de 2 x 8 Go - samsung so-dimm - 3200 AA",
+   "price_raw": "49.89 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940092077402?_skw=ddr4&hash=itemdae1dab55a:g:PgAAAeSwQ2Rq6eZ4",
+   "posted_at": "2026-11-14T16:42:35+00:00"
+  },
   {
    "title": "[Monitor] Samsung Odyssey G8 G80HF 27\" 5K 180Hz / QHD 360Hz Fast IPS, DP 2.1, HDMI 2.1 is $549.99 at Amazon",
    "price_raw": "$549.99",
@@ -526,13 +571,6 @@
    "posted_at": "2026-11-14T05:08:05+00:00"
   },
   {
-   "title": "Carte graphique MSI GeForce 210 1 Go DDR3 Low Profile HDMI / DVI / VGA",
-   "price_raw": "12.94 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168671523864?_skw=carte+graphique&hash=item27459b3418:g:ohQAAeSw14xqnvsM",
-   "posted_at": "2026-09-07T18:00:59+00:00"
-  },
-  {
    "title": "[GPU] PNY NVIDIA GeForce RTX 5070 Ti OC - $1229.99 @ Staples",
    "price_raw": "$1229.99",
    "source": "reddit",
@@ -575,6 +613,13 @@
    "posted_at": "2026-11-13T22:27:46+00:00"
   },
   {
+   "title": "ASUS Prime AP303 Tempered Glass (Noir) - Boîtier PC Gaming ATX",
+   "price_raw": "109.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117204191687?_skw=boitier+pc&hash=item1b49ea09c7:g:3ecAAeSw43tq92f4",
+   "posted_at": "2026-05-19T21:23:13+00:00"
+  },
+  {
    "title": "Mini PC Soyo Y5 Plus - Intel Core i7-4600U (15W), 8 Go DDR3, M.2 2280 SATA de 128 Go, Wifi 5 & BT 4.2, Windows 11 Pro",
    "price_raw": "104,42€",
    "source": "dealabs",
@@ -601,38 +646,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-mpg27-4k-uhd-3840-x-2160-rapid-ips-05-ms-displayhdr-1000-mini-led-dual-mode-3454869",
    "posted_at": "2026-11-13T21:43:34+00:00"
-  },
-  {
-   "title": "Imprimante Photo A4 EcoTank ET-8500 avec réservoir d’encre - 6 encres (via ODR de 60€)",
-   "price_raw": "396€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-photo-a4-ecotank-et-8500-avec-reservoir-dencre-6-encres-456-euros-60-euros-en-odr-3454865",
-   "posted_at": "2026-11-13T21:39:52+00:00"
-  },
-  {
-   "title": "Souris Gaming Asus ROG Keris II Ace sans fil - Noir",
-   "price_raw": "89,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-asus-rog-keris-ii-ace-sans-fil-noir-3454855",
-   "posted_at": "2026-11-13T21:33:18+00:00"
-  },
-  {
-   "title": "Répéteur WiFi Mercusys ME30",
-   "price_raw": "16,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/repeteur-wifi-mercusys-me30-3454830",
-   "posted_at": "2026-11-13T21:01:25+00:00"
-  },
-  {
-   "title": "Station d'accueil USB-C 14-en-1 UGREEN Revodok Pro 314 - Triple affichage 4K, PD 100W, USB 10 Gbps, RJ45 Gigabit (Vendeur Tiers)",
-   "price_raw": "127,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/station-daccueil-usb-c-14-en-1-ugreen-revodok-pro-314-triple-affichage-4k-pd-100w-usb-10-gbps-rj45-gigabit-3454829",
-   "posted_at": "2026-11-13T21:00:12+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1710,
-  "models_with_reference": 49
+  "listings_seen": 1713,
+  "models_with_reference": 47
  }
 }
