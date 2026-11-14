@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T00:38:00Z",
+ "generated_at": "2026-11-14T01:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-14T00:38:00.693606+00:00"
+   "last_ok": "2026-11-14T01:08:00.626880+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T00:38:00.693606+00:00"
+   "last_ok": "2026-11-14T01:08:00.626880+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-14T00:38:00.693606+00:00"
+   "items": 341,
+   "last_ok": "2026-11-14T01:08:00.626880+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 21,
-   "last_ok": "2026-11-14T00:38:00.693606+00:00"
+   "items": 0,
+   "last_ok": "2026-11-14T01:08:00.626880+00:00"
   }
  },
  "watchlist": [
@@ -109,6 +109,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "Micron M600 SSD interne 256 Go 2,5\" SATA III 6 Gb/s MTFDDAK256MBF",
    "model": "SSD:SATA-256Go",
    "category": "SSD",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FrL--R%2B0%2BYQ9vPTCv1xMHWhOJD%2BBT8ozUFCIzUPS8rSfqblJWfrYyctD9a%2FoFxQTLICkGUdIeJqAm3wOqtNquaY%2FCVSh6Oa%2FEltG%2Fcivr%2FpE2JI2U%2BfkP0CZpqNNqe1IGkESVq0Wm2uCvpaKN0IUz%2FN7axxqY1%2BmHQymqkAMn0Ug%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B%2FUknJOKRu0%2B8CphpQ1xMk9ZxKNkzNOBSG7j6f8su3OTG9WBFCvjFIvW45X%2FxmvzSjv0T%2F%2B6a71BopfCiwI%2FcyJ84ldhVrZOQ9k3klgUdddEoZXiBn0t6mj1UaWDobm6uyIs5XXjAqUBn3MSFNfRwwepCMIgW4wpLcPpf4GT7aRA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -211,23 +228,6 @@
    "posted_at": "2026-11-13T13:31:25+00:00"
   },
   {
-   "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 25.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 25.99,
-   "median_eur": 40.1,
-   "discount_pct": 35.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · ppiteso_0 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860128302414?_skw=ddr4&hash=itemc843a4554e:g:nRUAAeSwnilq8fN0",
-   "posted_at": "2026-11-09T16:23:45+00:00"
-  },
-  {
    "title": "Kingston 16 Go DIMM DDR4-3200 MHz CL22 1.2v Non-ECC KCP432NS8/16",
    "model": "RAM:DDR4-16Go-3200",
    "category": "RAM",
@@ -243,6 +243,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960192797564?_skw=ddr4&hash=itemdf8ff35b7c:g:iYoAAeSw~5pq2Pcc",
    "posted_at": "2026-11-13T20:43:36+00:00"
+  },
+  {
+   "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 25.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 25.99,
+   "median_eur": 37.09,
+   "discount_pct": 29.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860128302414?_skw=ddr4&hash=itemc843a4554e:g:nRUAAeSwnilq8fN0",
+   "posted_at": "2026-11-09T16:23:45+00:00"
   },
   {
    "title": "Écran PC 23.8'' Lenovo L24-4e - FHD, IPS, 100 Hz",
@@ -294,23 +311,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/800913124950?_skw=ssd&hash=itemba7a246e56:g:rnMAAeSwINxqcLKz",
    "posted_at": "2026-11-13T20:42:17+00:00"
-  },
-  {
-   "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
-   "model": "SSD:NVMe-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.0,
-   "shipping_eur": 3.9,
-   "effective_eur": 15.9,
-   "median_eur": 19.95,
-   "discount_pct": 20.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
-   "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
    "title": "SSD Intel 660p 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
@@ -400,6 +400,13 @@
  ],
  "unclassified": [
   {
+   "title": "[AIO PC]Raspberry Pi 400 - $34.99",
+   "price_raw": "$34.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xvp3eu/aio_pcraspberry_pi_400_3499/",
+   "posted_at": "2026-11-14T00:57:35+00:00"
+  },
+  {
    "title": "Mini PC Firebat R3, Ryzen 5 7430U, 16 Go de LPDDR4, SSD 512 Go, WiFi6 & BT 5.2, Windows 11",
    "price_raw": "263,31€",
    "source": "dealabs",
@@ -431,7 +438,7 @@
    "title": "Disque dur SSD externe 2 To USB 3.0 Type-C portable pour PC et Mac",
    "price_raw": "69.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910869662?_skw=ssd&hash=itemba7a02049e:g:CbMAAeSw0flq9qbJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ltw1cGr%2BCKNKaP2fraPmd7E75noUWYittmfYmksAMHbiubsima031tA6dcMKSZ259%2BordiUEtAuk%2BYnIFkYfslT3NUv%2FmB3N2ETHl4Ayb8OnULAbDkKnrZ7ZSGZdfGpCP8w%2FVuVJ3qoS9nVUso5G3yF4CecWI4C9LWTbcGerNbVXWsSAncQ0aqLA6QxT9VzCyiSXymCjKZYGUuumtfDvQm3g1hnawtLfucbeaXoHzWYHHXspmGVa27S6e7cGjSqTRBDHOYntHvH%2BBHcl4SzWLg",
+   "url": "https://www.ebay.fr/itm/800910869662?_skw=ssd&hash=itemba7a02049e:g:CbMAAeSw0flq9qbJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ltw1cGr%2BCKNKaP2fraPmd7E75noUWYittmfYmksAMHbiubsima031tA6dcMKSZ259%2BordiUEtAuk%2BYnIFkYfslT3NUv%2FmB3N2ETHl4Ayb8OnULAbDkKnrZ7ZSGZdfGpCMgsDRzYQeODX7gCYqA7T4BGecbtU1y%2Bg5%2BNzYOPFiomEnN9XvyF5CvwC2mUrYoia42c3u0dxvMee%2FcON8ZAhCn8Gg9jqWOv9MZ%2BD5LL65zeX%2BDFJwsc8TqlrCPnGqEqtlcdU4Y9fwVQgDIqAm8mfpW",
    "posted_at": "2026-11-13T05:57:41+00:00"
   },
   {
@@ -741,17 +748,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366807327367?_skw=carte+graphique&hash=item55676ba287:g:NikAAeSwbc9pqFdf",
    "posted_at": "2026-11-13T12:21:37+00:00"
-  },
-  {
-   "title": "Boitier PC Sharkoon AK5M RGB",
-   "price_raw": "34,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-sharkoon-ak5m-rgb-3454290",
-   "posted_at": "2026-11-13T12:06:43+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1718,
-  "models_with_reference": 46
+  "models_with_reference": 45
  }
 }
