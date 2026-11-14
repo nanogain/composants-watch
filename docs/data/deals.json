@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T03:38:00Z",
+ "generated_at": "2026-11-14T04:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-14T03:38:00.691132+00:00"
+   "last_ok": "2026-11-14T04:08:00.677438+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T03:38:00.691132+00:00"
+   "last_ok": "2026-11-14T04:08:00.677438+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-14T03:38:00.691132+00:00"
+   "items": 345,
+   "last_ok": "2026-11-14T04:08:00.677438+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 57,
-   "last_ok": "2026-11-14T03:38:00.691132+00:00"
+   "items": 20,
+   "last_ok": "2026-11-14T04:08:00.677438+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": "Netac NV3000 SSD Interne M.2 NVMe PCIe 3.0 Disque 250 Go 500Go 1To 2To 3500MB/s",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 149.99,
-   "discount_pct": 66.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · shop-produit-divers (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237120791491?_skw=ssd&hash=item37358023c3:g:n6QAAeSwtHBqzIvA",
-   "posted_at": "2026-10-12T17:30:00+00:00"
-  },
   {
    "title": "Ecran PC gaming 27\" Acer Nitro VG272UW2bmiipx - QHD, Dalle IPS, 240Hz, 1ms, FreeSync Premium",
    "model": "MON:27-QHD-240Hz",
@@ -139,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · letresup (100,0 %, 124 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kANEecdTmmwmcTBokhnUtgR1XrZ74%2FKu11s5OTIiyQgee6GYZcp4WfxWJaryODOX50qlQb7VQ9wU6OwWrgyAVxDrwwclcMUH3HxrgblB%2FP9BWtGmwnOh1bgRE1ssmzmqrP43YM0gN1Xjxnldsz8wGZZy9vo%2FR4%2FZ4eBIlbHWBTSM%2FNFmKkHk6aLgZ9896P8WJnkKY9w5la17yN3NqE2DCnsYdYa%2BUxKJ%2FyhWGM%2FEtzJY50R6vREWo7r4H0YVEcYXmnBOPTvabyDVtYS7%2F9u8Ad",
+   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kANEecdTmmwmcTBokhnUtgR1XrZ74%2FKu11s5OTIiyQgee6GYZcp4WfxWJaryODOX50qlQb7VQ9wU6OwWrgyAVxDrwwclcMUH3HxrgblB%2FP9BWtGmwnOh1bgRE1ssmzmqp4PEVIYnVa4LYye9h7Dv28197hbVA%2BU4GQkjPzlsySB8FdMjENAv9dkAPM02BXvBebpEaFSSyfAthC3kgbAkt%2FCCQ%2FfhLfOtP2H7qK34l2fVpW5UGojGx305yxm1sTzORMPWms9zcWWTsm%2FzY4vVmm",
    "posted_at": "2026-11-12T20:26:23+00:00"
   },
   {
@@ -173,42 +156,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8MMsRLjdICBkYesZaUrLb5J1x8i8q%2BCOKBJ6dLaeu%2B8bZHjwNNpwt9l4HvdHNYR6%2BVDdtMyyIB7hA5rScf2RaLDiMGPJZWkycabp5hov%2BxSg57IFbOueOPBnwQT0%2FWZjDEwLzaesjzq3CFU6xKrKqw9KgL4PKdYcC%2B2bUQRv02kg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B6qzzfeqle0vAAnOO%2BwEoHUVgx94CXrBJfm1DQmxUPKeoUlYgtajm3Zc1x9NIb6TpBZTTWlT8KUW6Fj51eiz9pBwcB4eMEatqj%2FERLwEUAGzDthoRmOvxGKzfUbKga7C39GrBfYvvaCBiCkT68ZRF7rQAx3vNhiBCQkB62URHDHw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "SSD M.2 SATA 512 Go XUANCUN - Format 2242",
-   "model": "SSD:SATA-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 30.86,
-   "shipping_eur": 0.0,
-   "effective_eur": 30.86,
-   "median_eur": 50.49,
-   "discount_pct": 38.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237180862574?_skw=ssd&hash=item373914c06e:g:l4oAAeSwz6hq9xL~",
-   "posted_at": "2026-11-13T13:40:26+00:00"
-  },
-  {
-   "title": "SSD M.2 SATA 512 Go SEAPIY - Format 2242",
-   "model": "SSD:SATA-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 30.86,
-   "shipping_eur": 0.0,
-   "effective_eur": 30.86,
-   "median_eur": 50.49,
-   "discount_pct": 38.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237180864870?_skw=ssd&hash=item373914c966:g:2zUAAeSwmjdq9xQk",
-   "posted_at": "2026-11-13T13:43:37+00:00"
   },
   {
    "title": "SSD M.2 SATA 512 Go KingSpec (Format court 2242)",
@@ -241,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYwcXK8ocBZu%2FUDwc19ov9zPYQWf0FCo0a%2BAYUBxP32dBQ77tKCJimbzoaZEhQbYlbcVgmmE7n0HmDte0vnEtNb0wU7B2b81npenqCpxlMEtXGjPEOshbiEwr19AYucbbeaCbqbRpLA9FaYpSQUXst5",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYQo1mPMlw5paoEYZcElFRHrD%2B%2Fejdmk%2B6aixpUrfZ8Ta5qAvxHS3IN6nexvMnYckGRZ5akqfSt%2FZjVQfuYIUVCLkf7KefLSjKPCmDCU2IQ8FFDsGKyB5pGQm5zi9%2FaXrKZbe0Iz0TzAJgBbZdbqc1f",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -381,6 +330,23 @@
    "posted_at": "2026-11-13T12:47:04+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -440,6 +406,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/codes-promo/instant-ink-6-mois-offert-achat-nouvelle-imprimante-3454903",
    "posted_at": "2026-11-13T22:27:46+00:00"
+  },
+  {
+   "title": "Disque dur SSD externe 2 To USB 3.0 Type-C portable pour PC et Mac",
+   "price_raw": "69.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800910869662?_skw=ssd&hash=itemba7a02049e:g:CbMAAeSw0flq9qbJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ltw1cGr%2BCKNKaP2fraPmd7E75noUWYittmfYmksAMHbiubsima031tA6dcMKSZ259%2BordiUEtAuk%2BYnIFkYfslT3NUv%2FmB3N2ETHl4Ayb8OnULAbDkKnrZ7ZSGZdfGpCPsp4fPTVBDmX64ajwaQyh7uHsOiTMgh8In4dpAlNxept%2FT14rsVF%2FfnfHcJVDvUaGIOY9%2FnwM9gqosWkV3fQc%2FhrHXkxIRD7%2BZ6IFy4PYjSh72%2BoJYPj1zjTSjdhIP2TPfJCKxNhbpVGNV9YZfpPcj",
+   "posted_at": "2026-11-13T05:57:41+00:00"
   },
   {
    "title": "ASUS Prime AP303 Tempered Glass (Noir) - Boîtier PC Gaming ATX",
@@ -587,13 +560,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/",
    "posted_at": "2026-11-13T17:21:39+00:00"
-  },
-  {
-   "title": "TECKNET Clavier sans Fil Rechargeable AZERTY, Multi-Appareils Bluetooth 2,4 GHz",
-   "price_raw": "66.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920139794280?_skw=clavier&hash=itemd63c9b0768:g:JzAAAeSwjHtq90kP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mQdKwG0uPOa5WEsqIpKEQekcjC7H3Qb5WPNIHIlqsVOwPiqVwJTv1vJRj3xCftVTjXEmWs8s3hTEmtQiUCS9ti0JW6AGmrvPHfkoEff%2FsLZPY1BC78r772HS8y%2FeorHqMsFO2uqk3cANPMkXVACp2cCIa1nPFzr1Qoc%2B%2FebXlU0pyH%2BvaRKbJN6cNKiAJXsmcdJ6NJxlugO4OwtulPrWpYiXLcrROP71%2FBfIyoe0Qb5%2BWV6bflAxaii5RRMJNteNAz15whpGeOIbRUHwD2HmA%2Bldxj%2BZSqvzzcTwTiq9Zlkw%3D%3D",
-   "posted_at": "2026-11-13T17:30:03+00:00"
   },
   {
    "title": "20% de réduction dès 200€ d'achat sur une sélection d'imprimantes",
@@ -751,7 +717,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1704,
+  "listings_seen": 1698,
   "models_with_reference": 45
  }
 }
