@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T04:08:00Z",
+ "generated_at": "2026-11-14T04:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-14T04:08:00.677438+00:00"
+   "last_ok": "2026-11-14T04:38:00.678943+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T04:08:00.677438+00:00"
+   "last_ok": "2026-11-14T04:38:00.678943+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 345,
-   "last_ok": "2026-11-14T04:08:00.677438+00:00"
+   "items": 343,
+   "last_ok": "2026-11-14T04:38:00.678943+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 20,
-   "last_ok": "2026-11-14T04:08:00.677438+00:00"
+   "items": 77,
+   "last_ok": "2026-11-14T04:38:00.678943+00:00"
   }
  },
  "watchlist": [
@@ -58,6 +58,23 @@
    "posted_at": "2026-11-13T13:14:00+00:00"
   },
   {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 32.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 32.99,
+   "median_eur": 69.99,
+   "discount_pct": 52.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-02T08:24:05+00:00"
+  },
+  {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
    "model": "MB:B850",
    "category": "MB",
@@ -92,23 +109,6 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "Micron M600 SSD interne 256 Go 2,5\" SATA III 6 Gb/s MTFDDAK256MBF",
    "model": "SSD:SATA-256Go",
    "category": "SSD",
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · letresup (100,0 %, 124 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kANEecdTmmwmcTBokhnUtgR1XrZ74%2FKu11s5OTIiyQgee6GYZcp4WfxWJaryODOX50qlQb7VQ9wU6OwWrgyAVxDrwwclcMUH3HxrgblB%2FP9BWtGmwnOh1bgRE1ssmzmqp4PEVIYnVa4LYye9h7Dv28197hbVA%2BU4GQkjPzlsySB8FdMjENAv9dkAPM02BXvBebpEaFSSyfAthC3kgbAkt%2FCCQ%2FfhLfOtP2H7qK34l2fVpW5UGojGx305yxm1sTzORMPWms9zcWWTsm%2FzY4vVmm",
+   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kANEecdTmmwmcTBokhnUtgR1XrZ74%2FKu11s5OTIiyQgee6GYZcp4WfxWJaryODOX50qlQb7VQ9wU6OwWrgyAVxDrwwclcMUH3HxrgblB%2FP9BWtGmwnOh1bgRE1ssmzmqrY%2FvmYHL%2BzjLoJ0hWZavMZDiJJutPzymbPeRdRf%2BPiYGHCa0D25BCGTWQ0soTQq6BrMgqz2NFiO3O1lI3ECKa0i5OzdZuok36wilaVigtCBKgKDBgthaZdMF%2BtAPnfj0vHAFi1wtiWNfKWTe2SAvij",
    "posted_at": "2026-11-12T20:26:23+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B6qzzfeqle0vAAnOO%2BwEoHUVgx94CXrBJfm1DQmxUPKeoUlYgtajm3Zc1x9NIb6TpBZTTWlT8KUW6Fj51eiz9pBwcB4eMEatqj%2FERLwEUAGzDthoRmOvxGKzfUbKga7C39GrBfYvvaCBiCkT68ZRF7rQAx3vNhiBCQkB62URHDHw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8RlA7NLPCPv2E%2F6PNq5C7cU33Q3bW3vZCVQuq7JSaj%2BXQflQkB7Fwzj1H6WXgInsD10%2Bz8sbmQYS81PBm7K43PvVLxGMqSeuiJGE9plTFEQM2R1bCRfYwg5vPsGkWD2CnVQo23aMDTGeqdnobvOFAQXz5Bg8BwjqmFClz7I%2BbgcQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYQo1mPMlw5paoEYZcElFRHrD%2B%2Fejdmk%2B6aixpUrfZ8Ta5qAvxHS3IN6nexvMnYckGRZ5akqfSt%2FZjVQfuYIUVCLkf7KefLSjKPCmDCU2IQ8FFDsGKyB5pGQm5zi9%2FaXrKZbe0Iz0TzAJgBbZdbqc1f",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYH4PbUKjAr6vzOqrT5%2FUEcbtSKLfkryG2gzaRx2YeAunHCwtAgE7ECeQeSch3HHOpc4tCI2P%2F%2BhMmPPr7itsP5U5%2FA32k%2BEAoAJ79WpmzvU2NE61gNhbIR4kB23ax%2BNUpVEZV%2BJtZ5X%2F5cMPmTRNdM",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -262,23 +262,6 @@
    "posted_at": "2026-11-13T20:42:17+00:00"
   },
   {
-   "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
-   "model": "SSD:NVMe-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.0,
-   "shipping_eur": 3.9,
-   "effective_eur": 15.9,
-   "median_eur": 19.95,
-   "discount_pct": 20.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
-   "posted_at": "2026-01-14T17:31:44+00:00"
-  },
-  {
    "title": "SSD Intel 660p 512Go NVMe M.2 2280 PCIe 3.0 x4 HP Santé 89%",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -330,23 +313,6 @@
    "posted_at": "2026-11-13T12:47:04+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
    "model": "SSD:NVMe-256Go",
    "category": "SSD",
@@ -365,6 +331,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Carte graphique MSI GeForce 210 1 Go DDR3 Low Profile HDMI / DVI / VGA",
+   "price_raw": "12.94 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168671523864?_skw=carte+graphique&hash=item27459b3418:g:ohQAAeSw14xqnvsM",
+   "posted_at": "2026-09-07T18:00:59+00:00"
+  },
   {
    "title": "[GPU] PNY NVIDIA GeForce RTX 5070 Ti OC - $1229.99 @ Staples",
    "price_raw": "$1229.99",
@@ -408,13 +381,6 @@
    "posted_at": "2026-11-13T22:27:46+00:00"
   },
   {
-   "title": "Disque dur SSD externe 2 To USB 3.0 Type-C portable pour PC et Mac",
-   "price_raw": "69.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800910869662?_skw=ssd&hash=itemba7a02049e:g:CbMAAeSw0flq9qbJ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7ltw1cGr%2BCKNKaP2fraPmd7E75noUWYittmfYmksAMHbiubsima031tA6dcMKSZ259%2BordiUEtAuk%2BYnIFkYfslT3NUv%2FmB3N2ETHl4Ayb8OnULAbDkKnrZ7ZSGZdfGpCPsp4fPTVBDmX64ajwaQyh7uHsOiTMgh8In4dpAlNxept%2FT14rsVF%2FfnfHcJVDvUaGIOY9%2FnwM9gqosWkV3fQc%2FhrHXkxIRD7%2BZ6IFy4PYjSh72%2BoJYPj1zjTSjdhIP2TPfJCKxNhbpVGNV9YZfpPcj",
-   "posted_at": "2026-11-13T05:57:41+00:00"
-  },
-  {
    "title": "ASUS Prime AP303 Tempered Glass (Noir) - Boîtier PC Gaming ATX",
    "price_raw": "109.00 EUR",
    "source": "ebay",
@@ -455,6 +421,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-photo-a4-ecotank-et-8500-avec-reservoir-dencre-6-encres-456-euros-60-euros-en-odr-3454865",
    "posted_at": "2026-11-13T21:39:52+00:00"
+  },
+  {
+   "title": "Carte mère HP core i5 924756-601 CSL50 DDR4 HDMI RJ-45 Ethernet, USB 3.0",
+   "price_raw": "31.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128193128081?_skw=carte+m%C3%A8re&hash=item1dd8e7e691:g:tYwAAeSwj~Zq94JM",
+   "posted_at": "2026-11-13T21:37:57+00:00"
   },
   {
    "title": "Souris Gaming Asus ROG Keris II Ace sans fil - Noir",
@@ -707,17 +680,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366807327367?_skw=carte+graphique&hash=item55676ba287:g:NikAAeSwbc9pqFdf",
    "posted_at": "2026-11-13T12:21:37+00:00"
-  },
-  {
-   "title": "Boitier PC Sharkoon AK5M RGB",
-   "price_raw": "34,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-sharkoon-ak5m-rgb-3454290",
-   "posted_at": "2026-11-13T12:06:43+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1698,
-  "models_with_reference": 45
+  "models_with_reference": 44
  }
 }
