@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T22:38:00Z",
+ "generated_at": "2026-11-14T23:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-14T22:38:00.631388+00:00"
+   "items": 348,
+   "last_ok": "2026-11-14T23:08:00.685153+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T22:38:00.631388+00:00"
+   "last_ok": "2026-11-14T23:08:00.685153+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 357,
-   "last_ok": "2026-11-14T22:38:00.631388+00:00"
+   "items": 356,
+   "last_ok": "2026-11-14T23:08:00.685153+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-14T22:38:00.631388+00:00"
+   "items": 58,
+   "last_ok": "2026-11-14T23:08:00.685153+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BKSAXzV5feXEvqVj2PnXH5sU1a9ZFemZO0IM4ieCCLoMOTl0IXZ139TmKOhLYm5Au26QvCjJK5UCDwTOlSxfE7MzQm39pf8xuv4VMC85gW4FGl50iXh21GnQYqqx0dSYqkHFvcg4xL6KK5of1rnZwN5aGrmUk8p1EbU%2BQD48H03w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9RGNsf1w4oWtS2VqFsZ6b%2BU95f%2BYqP5CS3gMF2tc6cfUg4x7mWK45YCSECLiDzD9kq8IvNHLZMcawgoCJuWsJ%2FIZJnmjxMPUzpTuRPzjVgv%2BSJgxx3xGyOwM2CmjRYv2MB%2FltEvuvZKzLueYbmacFWVSaFsK1TOGlZteMDxL%2FcXA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,25 +156,8 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 199 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt5wghTzKsELhrWufdai%2FMu5Nt%2FVpWQr%2Fvcj5vONXBPAZCPmrFB4Z5zXx0bByYzrHiRxpAUR6ZncX1gsn3LNFHVVVbRgI8yEuVG0V1HmGYVvldTr9HsF%2Bln80bX94z7eRgkkAcSCCgafEFb3oIx1svCG",
    "posted_at": "2026-11-14T21:53:41+00:00"
-  },
-  {
-   "title": "GIGASTONE Game Turbo SSD interne 128 Go 2,5\" SATA III 6 Gb/s  20H GSTG128G240520",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 15.9,
-   "shipping_eur": 2.78,
-   "effective_eur": 18.68,
-   "median_eur": 29.0,
-   "discount_pct": 35.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 199 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701560721?_skw=ssd&hash=item30205f8391:g:KpkAAeSwPJpq-N4I",
-   "posted_at": "2026-11-14T22:19:30+00:00"
   },
   {
    "title": "Ram 8Gb PC4-3200AA-SA1-11 DDR4 1.2V 3200MHz 1Rx8 Samsung ",
@@ -207,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYEARwDGtzghcLGAONXsYeO2SDsNMNsJFQXoaCAjeRIMHcsWFXblqT%2BwkDdaP1CBytbCiBAJCi6z%2F85Z%2FIxCTiLPySN36uwHGIUlK5sB1ucp69sc%2BwMMq7rWbwUlkP28rHoXHXxtZx2ayPnpUV78hoc",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbRQGT0ybG1AecoRy7rxm9C43iuDgzPzkNYgpauqkfrd0l%2Bi%2FuDiT4C2VIByMJpf1SnNmFCv5U88vXbRRvXnRIFloTbq7VvvyBgLdFaLDn070eKSiCruXX%2Ff%2FWw15Kwg3Ap4a%2F3heyRk0N3KDbpgr%2F2",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -330,6 +313,23 @@
    "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
    "model": "MON:27-FHD-144Hz",
    "category": "MON",
@@ -349,6 +349,27 @@
  ],
  "unclassified": [
   {
+   "title": "PC portable gamer 16\" Gigabyte Gaming A16 EWHS3FRC94SH, Intel Core Ultra 9 185H, , RAM 16 Go, SSD 1 To, RTX 5070 - Win11",
+   "price_raw": "1 499,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gigabyte-gaming-a16-ewhs3frc94sh-3455736",
+   "posted_at": "2026-11-14T22:55:19+00:00"
+  },
+  {
+   "title": "Souris gaming Razer Basilisk V3 X Hyperspeed, sans fil, RGB, 18000 dpi, 285 heures d'autonomie",
+   "price_raw": "49,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-razer-basilisk-v3-x-hyperspeed-sans-fil-rgb-18000-dpi-285-heures-dautonomie-3455729",
+   "posted_at": "2026-11-14T22:46:38+00:00"
+  },
+  {
+   "title": "Samsung 16Go DDR5 SDRAM SO-DIMM PC5-5600B 1 Module M425R2GA3PB0-CWM0L",
+   "price_raw": "234.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267843824159?_skw=ddr5&hash=item3e5cbc6a1f:g:fsMAAeSwMmBqz7En",
+   "posted_at": "2026-11-14T22:58:09+00:00"
+  },
+  {
    "title": "SOVERECA RAM 16 Go DDR4 SDRAM ECC SO-DIMM PC4-2666V-S S4AS163H12G4L",
    "price_raw": "54.90 EUR",
    "source": "ebay",
@@ -356,7 +377,7 @@
    "posted_at": "2026-11-14T22:34:42+00:00"
   },
   {
-   "title": "[Adhérents Fnac+] PC Portable 16\" Asus Vivobook S16 - 16gb DDR5, 1to nvme, OLED, Snapdragon X2 Elite 18 coeurs",
+   "title": "[Adhérents Fnac+] PC Portable 16\" Asus Vivobook S16 - 16 Go RAM, 1 To Nvme, OLED, Snapdragon X2 Elite 18 coeurs",
    "price_raw": "855,44€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/adherents-fnac-pc-portable-16-asus-vivobook-s16-16gb-ddr5-1to-nvme-oled-snapdragon-x2-elite-18-coeurs-47ghz-3455712",
@@ -387,7 +408,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8p1ugNpY6pInQtSYtVMZw8PzIlPZR62HvjoHkG%2BP452ER1h5QMtl5CilsulMvkwynakHmqSs%2FVzuY25rgwzPx9W%2F9gKOoi7KgRdllTkRzxeHGEFAEF1%2BEa29CL%2Bn28esmDkPL%2BDAg3fnXasFScZ8w3YUEPDim01k%2BR1GWrXCZ7kJA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8qjiTT5cLl2M2k90apZ6u7U0fz12cEVgVDsXcYhlSWPhW1LDyD1GNju89tRw%2B5XELk2b0082%2FKWRp9fniRHN2%2F0y9Evjzy%2FIYbN%2FGWIoNmkv2lxZCghzvlDs46jP112srL8qhRqV%2FL6cqXtoOVltwYaIlZP3fGVfbgOKabvaIssaQ%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -676,31 +697,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-2026-1000-go-48-go-m5-pro-apple-m5-pro-16-coeurs-3455024",
    "posted_at": "2026-11-14T06:52:09+00:00"
-  },
-  {
-   "title": "Mini PC-NAS Minisforum N5 Air (Barebone) - Ryzen 7 255, 5 baies 3,5\", 3 slots M.2, 10+5 GbE, OCULINK, slot PCIe 16x, port USB interne",
-   "price_raw": "509€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-nas-minisforum-n5-air-barebone-ryzen-7-255-5-baies-35-3-slots-m2-105-gbe-oculink-slot-pcie-16x-port-usb-interne-3454973",
-   "posted_at": "2026-11-14T06:26:15+00:00"
-  },
-  {
-   "title": "[PSU] MSI MAG A650GN II 650W Gaming Power Supply $24.99",
-   "price_raw": "$24.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xvuxb3/psu_msi_mag_a650gn_ii_650w_gaming_power_supply/",
-   "posted_at": "2026-11-14T06:04:09+00:00"
-  },
-  {
-   "title": "[Mouse] Logitech G Pro x Superlight 2 SE (Red) $69 @ Walmart",
-   "price_raw": "$69",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xvucfe/mouse_logitech_g_pro_x_superlight_2_se_red_69/",
-   "posted_at": "2026-11-14T05:31:06+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1724,
-  "models_with_reference": 50
+  "listings_seen": 1726,
+  "models_with_reference": 52
  }
 }
