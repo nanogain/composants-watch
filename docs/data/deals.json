@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T21:08:00Z",
+ "generated_at": "2026-11-14T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-14T21:08:00.669283+00:00"
+   "last_ok": "2026-11-14T21:38:00.676981+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T21:08:00.669283+00:00"
+   "last_ok": "2026-11-14T21:38:00.676981+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 348,
-   "last_ok": "2026-11-14T21:08:00.669283+00:00"
+   "items": 347,
+   "last_ok": "2026-11-14T21:38:00.676981+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 71,
-   "last_ok": "2026-11-14T21:08:00.669283+00:00"
+   "items": 65,
+   "last_ok": "2026-11-14T21:38:00.676981+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ace-nitro-vg272uw2bmiipx-qhd-dalle-ips-240hz-1ms-freesync-premium-3454351",
    "posted_at": "2026-11-13T13:14:00+00:00"
+  },
+  {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 32.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 32.99,
+   "median_eur": 69.99,
+   "discount_pct": 52.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-02T08:24:05+00:00"
   },
   {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9%2FivkklPz96hkFXHK%2FKsmRJEqUbWwSrrWcZPsHAkrSBhUrlINJ0pj5gUgkXZrsJmBPrLQ1U6gd5%2BYcg8O7mVZ173pH0MMTuyOtRVEhUVcaq7UAIA%2FQiMiXOyqusgvoPjyuR2%2F5dtZt%2BiO5nNPPFfVI4wiDSbnfKeyMV2oRU6%2Ba8A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FTKsn88hVGRN6f4apcV5vpHXJ8rYkit%2B9tV7JP1PBpUht5pz%2FY57QLtnrZyJzDwTgBzVWUz9e953461pe1FlgCaXzWxKDWmGYMrugIHXjQtFrY8fh%2FI%2BRGFiqXlnC1A6P%2FqmSzBjfgz6IDXNlpcKa7EBhqCe%2B2UuHW4tSyw941lg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,8 +173,25 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYuIzaetjSIobzHRWxiQJxx2ezvMB3bNYg4Q%2Bj9skGHy6fcax5Qbjmz4ciQOQdUYa543f4vfpgqXA6363eSBkY3%2B5Bbj8prd%2Fjej6xD9WWq7ILV2wrTZzJvUbFT3qTcg7uJfJk8wo76a--cnHmSbnLP",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIasV9z3ynQVp%2BjSFZ4r1WaLHhc3MmU2Kn2Byl%2B7%2FKKhZJmnCGqpDnkhFWhHZkGpb2JXeZKPnTO%2BFQ17WWCySOW4yO6LliTmbyZ%2BfZVYekuEw2%2Bijz59D1D1vxNqVLgAWOkN43sRg4ew7j7wIlcGE796",
    "posted_at": "2026-10-24T22:43:47+00:00"
+  },
+  {
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 69.99,
+   "discount_pct": 28.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fik-8981 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
   },
   {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
@@ -262,6 +296,23 @@
    "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
    "model": "MON:27-FHD-144Hz",
    "category": "MON",
@@ -315,7 +366,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8rvRslFzKWC87UZNYq7DlLPHiisrzFsZMPtp6giq6eTDkb8qbbuyxn%2FiPSodrp%2F8OFYY%2BbugO771e%2FlVBWezc6FjSYqRofAlDc8zzLzkKnnB%2FUD5riQaS%2FMqZht1JeALJ3hcPsPBS%2Bg5cnLAqwSxpEihDR6RR0smLc4sey3YtrRUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8oxxk0gFoYmnVhOuBTxVUkzD2hpBa%2F8ti3VlFFRjrXR%2BkLSdSkaWQfFyPcWbn2o6mQNZKWfXScYlrHSjJQDdB%2B5v2fr5jzfdUteQHoy%2BzUa7UayJnxdMMkvS3vxEV11b644On0ieQEAJ2VGWAMkysTkkKHXH2IqJisswBNHCThm2g%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -443,13 +494,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-3956-blanc-rectoverso-auto-impression-et-scanner-3455444",
    "posted_at": "2026-11-14T14:52:30+00:00"
-  },
-  {
-   "title": "samsung ssd 990 pro",
-   "price_raw": "700.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307282472990?_skw=ssd&hash=item478b76701e:g:I~AAAeSwogdq-HtC",
-   "posted_at": "2026-11-14T15:29:03+00:00"
   },
   {
    "title": "Commutateur Multi-Gig Ubiquiti UniFi Enterprise 24 PoE — PoE+ 24 ports avec liaisons montantes 10G SFP+",
@@ -646,6 +690,13 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xvpsik/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_122999/",
    "posted_at": "2026-11-14T01:31:24+00:00"
+  },
+  {
+   "title": "[AIO PC]Raspberry Pi 400 - $34.99",
+   "price_raw": "$34.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xvp3eu/aio_pcraspberry_pi_400_3499/",
+   "posted_at": "2026-11-14T00:57:35+00:00"
   }
  ],
  "stats": {
