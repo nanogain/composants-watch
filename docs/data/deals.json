@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-14T03:08:00Z",
+ "generated_at": "2026-11-14T03:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-14T03:08:00.631089+00:00"
+   "last_ok": "2026-11-14T03:38:00.691132+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-14T03:08:00.631089+00:00"
+   "last_ok": "2026-11-14T03:38:00.691132+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-14T03:08:00.631089+00:00"
+   "items": 344,
+   "last_ok": "2026-11-14T03:38:00.691132+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-14T03:08:00.631089+00:00"
+   "items": 57,
+   "last_ok": "2026-11-14T03:38:00.691132+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · letresup (100,0 %, 124 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kANEecdTmmwmcTBokhnUtgR1XrZ74%2FKu11s5OTIiyQgee6GYZcp4WfxWJaryODOX50qlQb7VQ9wU6OwWrgyAVxDrwwclcMUH3HxrgblB%2FP9BWtGmwnOh1bgRE1ssmzmqpQFWn8KhNUK7g8HGVxIBHrfJ6olhbXwM%2FcO6w1eGJtLABPDQ%2F5pz4z3NrQlYiyLYuPRaYpfrE4B4LjNRwnbWjuTMWowWvYa94RCQo9p%2FfEnZUgYChnEBR7vDntER5OfxdH5igyZbmOGVJZOYeJGx1v",
+   "url": "https://www.ebay.fr/itm/198790446127?_skw=ssd&hash=item2e48d57c2f:g:qlAAAeSw2qZq9iDB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kANEecdTmmwmcTBokhnUtgR1XrZ74%2FKu11s5OTIiyQgee6GYZcp4WfxWJaryODOX50qlQb7VQ9wU6OwWrgyAVxDrwwclcMUH3HxrgblB%2FP9BWtGmwnOh1bgRE1ssmzmqrP43YM0gN1Xjxnldsz8wGZZy9vo%2FR4%2FZ4eBIlbHWBTSM%2FNFmKkHk6aLgZ9896P8WJnkKY9w5la17yN3NqE2DCnsYdYa%2BUxKJ%2FyhWGM%2FEtzJY50R6vREWo7r4H0YVEcYXmnBOPTvabyDVtYS7%2F9u8Ad",
    "posted_at": "2026-11-12T20:26:23+00:00"
   },
   {
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FDJPeOQk2c6rlP4m5BKntUd%2BQyZ8vYVcW7ORRqdEcIGwbBCxqDoE3r23LA8V7%2B5lJrJu2yPGGFbgshgGbqLGtr6zj6faD21Jym%2FKh5gZVsZrz%2FwtmKUOGeA7tw6%2BpwKse7o%2BJ11xOCWhb2JjoS636SWhhaO4AvsM9BVeL5jbBZBA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8MMsRLjdICBkYesZaUrLb5J1x8i8q%2BCOKBJ6dLaeu%2B8bZHjwNNpwt9l4HvdHNYR6%2BVDdtMyyIB7hA5rScf2RaLDiMGPJZWkycabp5hov%2BxSg57IFbOueOPBnwQT0%2FWZjDEwLzaesjzq3CFU6xKrKqw9KgL4PKdYcC%2B2bUQRv02kg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -226,6 +226,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237180847185?_skw=ssd&hash=item3739148451:g:kZEAAeSw~Opq9xNf",
    "posted_at": "2026-11-13T13:31:25+00:00"
+  },
+  {
+   "title": " Netac 8go ddr4 3200 8go C22",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 31.9,
+   "shipping_eur": 8.0,
+   "effective_eur": 39.9,
+   "median_eur": 62.89,
+   "discount_pct": 36.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYwcXK8ocBZu%2FUDwc19ov9zPYQWf0FCo0a%2BAYUBxP32dBQ77tKCJimbzoaZEhQbYlbcVgmmE7n0HmDte0vnEtNb0wU7B2b81npenqCpxlMEtXGjPEOshbiEwr19AYucbbeaCbqbRpLA9FaYpSQUXst5",
+   "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
    "title": "Kingston 16 Go DIMM DDR4-3200 MHz CL22 1.2v Non-ECC KCP432NS8/16",
@@ -575,7 +592,7 @@
    "title": "TECKNET Clavier sans Fil Rechargeable AZERTY, Multi-Appareils Bluetooth 2,4 GHz",
    "price_raw": "66.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920139794280?_skw=clavier&hash=itemd63c9b0768:g:JzAAAeSwjHtq90kP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mQdKwG0uPOa5WEsqIpKEQekcjC7H3Qb5WPNIHIlqsVOwPiqVwJTv1vJRj3xCftVTjXEmWs8s3hTEmtQiUCS9ti0JW6AGmrvPHfkoEff%2FsLZPY1BC78r772HS8y%2FeorHqN5RNGv9DQDETkD5aVHSJZPra4HDTHcYPqSrYE0xtA4GpbOn1n360KmtQnEc4Lcs6tv8mdjv8fAwgLby%2FGYjumQ0nbg4lqbKqB5UmZ0eihB9PO5cBHndSew%2FQXyk9vSPxJzYGI3e0O19BDN36GIf2%2Fq2PqQdxq7D%2FbnDiFi%2BQHxHw%3D%3D",
+   "url": "https://www.ebay.fr/itm/920139794280?_skw=clavier&hash=itemd63c9b0768:g:JzAAAeSwjHtq90kP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mQdKwG0uPOa5WEsqIpKEQekcjC7H3Qb5WPNIHIlqsVOwPiqVwJTv1vJRj3xCftVTjXEmWs8s3hTEmtQiUCS9ti0JW6AGmrvPHfkoEff%2FsLZPY1BC78r772HS8y%2FeorHqMsFO2uqk3cANPMkXVACp2cCIa1nPFzr1Qoc%2B%2FebXlU0pyH%2BvaRKbJN6cNKiAJXsmcdJ6NJxlugO4OwtulPrWpYiXLcrROP71%2FBfIyoe0Qb5%2BWV6bflAxaii5RRMJNteNAz15whpGeOIbRUHwD2HmA%2Bldxj%2BZSqvzzcTwTiq9Zlkw%3D%3D",
    "posted_at": "2026-11-13T17:30:03+00:00"
   },
   {
@@ -734,7 +751,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1708,
+  "listings_seen": 1704,
   "models_with_reference": 45
  }
 }
