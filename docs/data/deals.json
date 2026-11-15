@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T15:08:00Z",
+ "generated_at": "2026-11-15T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-15T15:08:00.625670+00:00"
+   "items": 344,
+   "last_ok": "2026-11-15T15:38:00.681476+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T15:08:00.625670+00:00"
+   "last_ok": "2026-11-15T15:38:00.681476+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 382,
-   "last_ok": "2026-11-15T15:08:00.625670+00:00"
+   "last_ok": "2026-11-15T15:38:00.681476+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 4,
-   "last_ok": "2026-11-15T15:08:00.625670+00:00"
+   "items": 80,
+   "last_ok": "2026-11-15T15:38:00.681476+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B--Aaxpfbljx%2FxElx4Itr7I4zZ%2FlLVeMVGB%2FVctos7mL%2BVUfFEw8w1BqGlKhv2ITAwAgu8Q9WNhu4vtsUz4QNA4kkH2bG1u3OscsynRQb1gJyQFh3NYdtJsyEnZp24ULyGd7wQLWpwfLKQxe2fKJiNW9K2Bx5tfR8X2WjqFfmwj7A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bbmp8TFRKVDAXROl1DpJBUZCh%2BYkTDysNIWTxtsiW3Hlh67%2FNNzpKKqwmSQpGHYAkholp3AZqvIAqpGTH2gcPvGtSaECEIR0PEJiQjpoMXOkHSlN0wmqY%2F612WmSdm4a6iSkQiCTgZcjCtO4GmekxCZmRQkA%2BhPIANiWIjD7UiMw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt6WyWtz7xiWafWAOezIdvvN%2FxoV7GgLxZZA286%2FOYuZyQxU3YT%2FMFUSymtFxRHOqMuH7lmnsD%2FOh0HTFZs%2B%2B4%2BT5qlpHQUQvUqZvdIfM65AgUu5IqJJ1VtK%2BRHIIRXSn%2B%2FEJ2qeRYu1buFoY9LVZyZr",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt6cdBr1UObbOvrH1yXRJMZatzNSnc8kDXpiWBfJNS7VwTdOR1n%2BKHZw%2FLM%2FG2tap29CedRShZsWFf026w652taYimP3znIK0JbKrfPJYhpNpAlSGObXsmAPwwc9zDCJbliJhwXcWf%2Fy9UY4ljlrR%2BWP",
    "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
@@ -224,8 +224,25 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYYrfvvtXbi7N2yEMEo2ybAGvByYkv3ghTktCqBggCmg2lfVa4US2IJZJvZVAOdyoOLb%2Bg7k1tI2ZgfnwYKvg7WoTmuDMn%2FVqsn8lLrVrT1qqNPxbUOeCMJ6fITyTzltucI%2Ba5B9N1TF0m62bFNwljv",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11",
    "posted_at": "2026-10-24T22:43:47+00:00"
+  },
+  {
+   "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
+   "model": "RAM:DDR4-16Go-2666",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 48.54,
+   "shipping_eur": 0.0,
+   "effective_eur": 48.54,
+   "median_eur": 63.1,
+   "discount_pct": 23.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
+   "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
    "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
@@ -364,23 +381,6 @@
    "posted_at": "2026-11-13T12:47:04+00:00"
   },
   {
-   "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
-   "model": "RAM:DDR4-16Go-2666",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 48.54,
-   "shipping_eur": 0.0,
-   "effective_eur": 48.54,
-   "median_eur": 59.41,
-   "discount_pct": 18.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
-   "posted_at": "2026-11-13T23:04:42+00:00"
-  },
-  {
    "title": "RAM 16 GO DDR4 3200MHZ SODIMM — Micron (1Rx8 / PC4-3200AA)",
    "model": "RAM:DDR4-16Go-3200",
    "category": "RAM",
@@ -434,6 +434,27 @@
  ],
  "unclassified": [
   {
+   "title": "Terminal de Paiement mobile Sumup Solo avec imprimante",
+   "price_raw": "59,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/sumup-solo-imprimante-terminal-de-paiement-mobile-et-autonome-avec-imprimante-3456258",
+   "posted_at": "2026-11-15T15:26:25+00:00"
+  },
+  {
+   "title": "[prebuilt] Alienware Aurora ACT1250 Gaming PC Intel Core Ultra 9 285 1.9GHz Processor; NVIDIA GeForce RTX 5070Ti 16GB GDDR7; 32GB DDR5-5200 RAM; 1TB Solid State Drive - $2299.99 in store",
+   "price_raw": "$2299.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwxstx/prebuilt_alienware_aurora_act1250_gaming_pc_intel/",
+   "posted_at": "2026-11-15T15:08:42+00:00"
+  },
+  {
+   "title": "RAM 8 Go DDR4 2666 MHz PC4-21300 UDIMM Kingston HP 933276-001 PC de bureau",
+   "price_raw": "26.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237184466571?_skw=ddr4&hash=item37394bbe8b:g:E18AAeSwywpq-c3B",
+   "posted_at": "2026-11-15T15:20:42+00:00"
+  },
+  {
    "title": "Boîtier PC Be Quiet Boitier Pure Base 501 Airflow - Black",
    "price_raw": "49,99€",
    "source": "dealabs",
@@ -469,18 +490,18 @@
    "posted_at": "2026-02-09T14:17:06+00:00"
   },
   {
+   "title": "Gigabyte GA-MA790X-UD3P Motherboard AMD AM2/AM2+/AM3 790X + SB750",
+   "price_raw": "94.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/298586721818?_skw=carte+m%C3%A8re&hash=item458527ce1a:g:E7YAAeSwwRFp~10E",
+   "posted_at": "2026-08-14T05:52:38+00:00"
+  },
+  {
    "title": "RAM Samsung 16 Go DDR4 SO-DIMM PC4-25600 3200  PC portable",
    "price_raw": "79.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860145721378?_skw=ddr4&hash=itemc844ae2022:g:LJoAAeSwAbVq-ZYy",
    "posted_at": "2026-11-15T11:24:58+00:00"
-  },
-  {
-   "title": "SK Hynix RAM SODIMM 16GB PC4 3200AA PC Portable",
-   "price_raw": "70.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860145748154?_skw=ddr4&hash=itemc844ae88ba:g:HMYAAeSwVExq-ZfK",
-   "posted_at": "2026-11-15T11:33:07+00:00"
   },
   {
    "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
@@ -507,7 +528,7 @@
    "title": "magic keyboard - A2450 - allemand Suisse ( QWERTZ)",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejV1hFkSey4vaKYkUMmfWd8ddI2RnSHMgNwQcp%2FD4%2B2UEDJ9%2BGkA6%2FL%2F9DLP4bp8%2FebHshxfjYGep3VtlHg8cezzbIvbHA7SZXbEJBU5tt3ePK%2BSO7Ez7lIsT1lGraQH4zaLtUo7Je7IjZ6EiJ94lnIA",
+   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejVAQ5Ar9ILlbTJgfkcLLABW62vrKT6QPnCyZXvt1IhnANrbVWapId%2FYoJafjN1RQq8dCMjHECReo%2BEej5ArVNt4Kp4ufaiWkaA86f%2FORQA7WPP75DekvXDiBhkiXZ3JDYTJTw7ps97VDvH0fVYTvo84",
    "posted_at": "2026-11-15T10:27:10+00:00"
   },
   {
@@ -525,32 +546,11 @@
    "posted_at": "2026-11-15T09:15:14+00:00"
   },
   {
-   "title": "#2 RAM Samsung 16GB (2x8GB) DDR4 So-Dimm PC4-3200 Neuves",
-   "price_raw": "78.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307283457272?_skw=ddr4&hash=item478b8574f8:g:QckAAeSw3rBq5Pw0",
-   "posted_at": "2026-11-15T09:22:05+00:00"
-  },
-  {
    "title": "Kingston FURY Beast 32 Gb (1x32 GB) 3600MHz DDR4 CL18 Desktop Memory",
    "price_raw": "409.60 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/840130619579?_skw=ddr4&hash=itemc39bafe8bb:g:~uAAAeSw7oNq6z16",
    "posted_at": "2026-11-15T09:24:44+00:00"
-  },
-  {
-   "title": "#2 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307283456588?_skw=ddr4&hash=item478b85724c:g:EqcAAeSwvr1q75cX",
-   "posted_at": "2026-11-15T09:21:01+00:00"
-  },
-  {
-   "title": "#1 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307283456427?_skw=ddr4&hash=item478b8571ab:g:5pQAAeSw1hlq75bl",
-   "posted_at": "2026-11-15T09:20:43+00:00"
   },
   {
    "title": "Kingston ram 8GB DDR5 5600MT/s SODIMM KCP556SS6-8 pour PC portable",
@@ -612,7 +612,7 @@
    "title": "Carte graphique Gainward GF9600GT 512Mo",
    "price_raw": "23.58 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUN6YiUrp2wejwrhVqrALIGFYdGbMP%2FNUrsB429%2B7WsKX8vAw1g2nJYto%2FN1zZuMfW2ACpzqsrkL1yLMI8gXL7ewv3UntgaaqtoPOEEfJK0ZggmlkcVPPRmk%2FF6ZYs2uosKQ%2FXOm1JMnKK3nsK1BL5E1nzgr5Dl2p3KPqRs3jlEcgQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUMTPhwIXMSDi%2F02c7kBPL6rd4sfxQg0kk%2BScMUphVXkoYCbhqz4jji%2Fk%2BKNLPRPrJpIkRRo7NxiSkCT4Z76kupiB7ImyEvmfmkEeBkv608m8nXHcLcr5ClPEhl102qWSUjTKRUrfoQIpQPMZloHWmG8EDj2VL7rtJ7m2c88ykvgOw%3D%3D",
    "posted_at": "2024-11-01T14:15:14+00:00"
   },
   {
