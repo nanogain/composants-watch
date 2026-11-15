@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T04:08:00Z",
+ "generated_at": "2026-11-15T04:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-15T04:08:00.622424+00:00"
+   "last_ok": "2026-11-15T04:38:00.654406+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T04:08:00.622424+00:00"
+   "last_ok": "2026-11-15T04:38:00.654406+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 366,
-   "last_ok": "2026-11-15T04:08:00.622424+00:00"
+   "last_ok": "2026-11-15T04:38:00.654406+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-15T04:08:00.622424+00:00"
+   "items": 54,
+   "last_ok": "2026-11-15T04:38:00.654406+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "SanDisk X400 SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ 7 mm",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 12.5,
+   "shipping_eur": 2.78,
+   "effective_eur": 15.28,
+   "median_eur": 29.0,
+   "discount_pct": 47.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,5 %, 200 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206701501616?_skw=ssd&hash=item30205e9cb0:g:AEEAAeSwPjFq-Nat",
+   "posted_at": "2026-11-14T21:49:57+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FvN6JAl1T6hfqUKSb8RA0xMOHhNHLHPL30VDDkSPUtLrcemUxrscgXmApErAj6CsWjsIX4iRoDctYXMr8owv6ln03nhq1FhByupKEYTvaBkn%2Br8icBriI1bVxpXhatummNbp70YtJVti4EuGT6NqIP1touowfJXRNHu1D8lmeeNw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BUC8NyeNcn1iuA0fJin5cq2oXI2%2FPTU2%2BHAvIARI8YD%2Bg2tgT0qLyWSfphRXdEGSmkG301WT5cOGvQ29PO7q0L9FzgaJ4W%2Bx5x%2B1gl9j%2FBErEzAzyJyF6%2BfJ6ZIqqi9F9kT%2BnxRlGx6TQU7EAKkyaA8P0j12dBY3YT5O1054FL%2Fw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,25 +190,8 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZP0KTTeIfSVs4cRDn%2BpxWxRT0W7WQott2w0kuhN%2Fo9Mu0duXtW7yeoXLYM3Pk1WsAVqmhpIlQCwubNDnu5YXcVHTmbw%2B%2BjKjC2Xc1OgiltLNdjHd4ePe401HoJf7gi9TAEVK3KRSKqd8nxG6iDS5wp",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa19Sgciu9HkU%2F4fnsxKw7u0LguvqyhzuCLCG%2BmVqrxOnTubd39gH1DzuqyUm6W5Gq17femI9KKjqHxKxG8b0R9cvztJoP6WJ5fIAjaS%2FX5QDn8ynEcEYlSntHeqhtR9EkbIFV1iB%2Bbkiw95ensZ7Cj",
    "posted_at": "2026-10-24T22:43:47+00:00"
-  },
-  {
-   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 69.99,
-   "discount_pct": 28.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fik-8981 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
-   "posted_at": "2026-09-11T06:05:29+00:00"
   },
   {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
@@ -332,11 +332,11 @@
  ],
  "unclassified": [
   {
-   "title": "[ECC Unbuffered] 32Go (2 x 16Go) barrette RAM DDR4 SODIMM 2400T SK Hynix server",
-   "price_raw": "149.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840115784436?_skw=ddr4&hash=itemc39acd8af4:g:UIMAAeSwqR5q5Rl0",
-   "posted_at": "2026-11-10T23:21:43+00:00"
+   "title": "[Cooler] Cooler Master MLW-D24M-A18PA-R1 FN2429 MASTERLIQUID 240 Core II 9.4 inches (240 mm) Simple Water Cooling CPU Cooler, Black - $53",
+   "price_raw": "$53",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwmhty/cooler_cooler_master_mlwd24ma18par1_fn2429/",
+   "posted_at": "2026-11-15T04:37:58+00:00"
   },
   {
    "title": "Carte mère ASUS H81M-K/K31ADE/DP",
@@ -344,6 +344,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/287658107531?_skw=carte+m%C3%A8re&hash=item42f9c2628b:g:YcgAAeSwnNZq1ebP",
    "posted_at": "2026-10-19T09:55:52+00:00"
+  },
+  {
+   "title": "Carte graphique Gainward GF9600GT 512Mo",
+   "price_raw": "23.58 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUN5zBEDLKQW4sFK5gSo28MW%2BcEGViHL09j2ANWpG07LMKmZxWDPy0tPoLWFGqwYmmu%2BpSOFlritD6Al0fbZm8T4UBenYLdS9GgiwhNoBW1RK5ck4zu7P8RzlFXce1uVcCLnJ2fwaSG9XUDpxcR6p6BYHRVzfpN29bR9bqqROW%2F5Wg%3D%3D",
+   "posted_at": "2024-11-01T14:15:14+00:00"
   },
   {
    "title": "iiyama G-MASTER G2741QSU-B1 écran plat de PC 68,6 cm (27\") 2560 x 1440 pixels 4K",
@@ -379,6 +386,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-gaming-razer-basilisk-v3-x-hyperspeed-sans-fil-rgb-18000-dpi-285-heures-dautonomie-3455729",
    "posted_at": "2026-11-14T22:46:38+00:00"
+  },
+  {
+   "title": "Samsung 16Go DDR5 SDRAM SO-DIMM PC5-5600B 1 Module M425R2GA3PB0-CWM0L",
+   "price_raw": "234.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267843824159?_skw=ddr5&hash=item3e5cbc6a1f:g:fsMAAeSwMmBqz7En",
+   "posted_at": "2026-11-14T22:58:09+00:00"
   },
   {
    "title": "SOVERECA RAM 16 Go DDR4 SDRAM ECC SO-DIMM PC4-2666V-S S4AS163H12G4L",
@@ -419,7 +433,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8pVyT6U0dSjAYkloIvzYYQ0KwtFwr1CP6q8yTW%2FFNhIPow%2BbzuRf%2BtpmTNrZylJNOSJ7L5Zr2XfncCCBXltDH5CpKP6JodR82S7Q8nvKzxb%2Fb4HxapyWtt8GFKG7En4t2T1xDEt3VtyAUXhz5hTCehvRt44i6OG6ZiTUy%2FXj3RYLQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8odx5zOFPq%2FBT%2F2QYvOGp31Fd7gxFCCkkoqdgHLa69Vr5c3P4MjBgxZ8ZM6YoqTQOnWMn%2Bv5dQqBeaJ%2B3SHMWUbFZJAhE%2FzP2rHWiDSBFwPfc2JhiM97uF6RB1ZlQ%2F8hOlQs8cd1Yha3RTuy5Hu8x%2FCs%2FZgpnqz%2BGGdJyrAtu6gag%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -584,6 +598,13 @@
    "posted_at": "2026-11-14T14:12:59+00:00"
   },
   {
+   "title": "Mars Gaming MC-CORE Boîtier PC Blanc Tour Micro-ATX Verre Trempé RGB Face Avant",
+   "price_raw": "31.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307282379186?_skw=boitier+pc&hash=item478b7501b2:g:1DsAAeSwzkZq-C6p",
+   "posted_at": "2026-11-14T13:56:54+00:00"
+  },
+  {
    "title": "PC 16'' Portable Asus Vivobook 16 - X1607CA-MB307W WUXGA 60 Hz Intel Core Ultra 9 16 Go RAM 512 Go SSD Gris clair",
    "price_raw": "799,99€",
    "source": "dealabs",
@@ -612,6 +633,13 @@
    "posted_at": "2026-10-08T10:07:13+00:00"
   },
   {
+   "title": "Kingston Fury™ Beast DDR5 - 16 Go (1 x 16 Go) - 5600 MT/s C40 - Intel XMP 3.0 -",
+   "price_raw": "420.89 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336278954360?_skw=ddr5&hash=item4e4bc9a178:g:BlAAAeSw8hNq-Ep1",
+   "posted_at": "2025-11-10T13:49:24+00:00"
+  },
+  {
    "title": "Tapis de souris Logitech, moyen - surface souple",
    "price_raw": "6,99€",
    "source": "dealabs",
@@ -624,13 +652,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-zenbook-duo-ux8406ca-drfql305w-14-ecran-tactile-oled-60-hz-intel-core-ultra-7-32-go-ram-1-to-ssd-gris-3455177",
    "posted_at": "2026-11-14T09:43:16+00:00"
-  },
-  {
-   "title": "KIOXIA BG4 256 Go SSD interne M.2 NVMe PCIe Bleu PC Portable KBG40ZNS256G",
-   "price_raw": "37.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920141996729?_skw=ssd&hash=itemd63cbca2b9:g:0vsAAeSwJ~1q-DEW",
-   "posted_at": "2026-11-14T10:02:23+00:00"
   },
   {
    "title": "Tablette Tactile Samsung Pack Galaxy Tab S10 FE 10,9\" Wi-Fi 128 Go Anthracite + Book Cover Keyboard, sans Chargeur",
@@ -659,31 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tp-link-carte-wifi-6-pcie-ax1800-avec-bluetooth-52-archer-tx20e-double-bande-wpa3-antennes-haut-gain-bluetooth-52-3455126",
    "posted_at": "2026-11-14T08:50:21+00:00"
-  },
-  {
-   "title": "Boîtier PC be quiet! Light Base 900 FX",
-   "price_raw": "129,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/be-quiet-light-base-900-fx-3455134",
-   "posted_at": "2026-11-14T08:45:46+00:00"
-  },
-  {
-   "title": "Tapis de souris Razer Gentle Mates",
-   "price_raw": "12,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-razer-gentle-mates-3455079",
-   "posted_at": "2026-11-14T07:57:20+00:00"
-  },
-  {
-   "title": "[Samsung+] PC Portable 14\" Samsung galaxy book 6 pro - Ultra 7, 16 Go, 512 Go",
-   "price_raw": "1 199€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/samsung-galaxy-book-6-pro-14-ultra-7-3455059",
-   "posted_at": "2026-11-14T07:28:50+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1718,
+  "listings_seen": 1708,
   "models_with_reference": 52
  }
 }
