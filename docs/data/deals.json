@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T08:08:00Z",
+ "generated_at": "2026-11-15T08:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 345,
-   "last_ok": "2026-11-15T08:08:00.670406+00:00"
+   "items": 344,
+   "last_ok": "2026-11-15T08:38:00.683520+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T08:08:00.670406+00:00"
+   "last_ok": "2026-11-15T08:38:00.683520+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 367,
-   "last_ok": "2026-11-15T08:08:00.670406+00:00"
+   "last_ok": "2026-11-15T08:38:00.683520+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-15T08:08:00.670406+00:00"
+   "items": 46,
+   "last_ok": "2026-11-15T08:38:00.683520+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FEArc8Q0p0qTx2wJvzacmG7v6WjZ%2B1HHixFd3pKmpEPyfPE1NdLxrthm0%2FwFbbp%2BlVsdq1FCLQMH0nLvUWkZxS%2B5kT1sxu%2Fydt5aalZjMzQiS4s6M5IhV2KdhI2%2B5P7ZLnZXsnYKRcVKSrGIVsI8FBm7uzBaukjQBTc2cDi9RbWQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FnWbF7uY8wZFjdaMqaUOmFLRWD53j9dYahcQOo21HcsH3An6uwB%2FVtRlePuflOYuGdOhkKNPGjvYVibOyWAfYIq7QQ0GCkGwkgqzi3qqnyOc3Al2%2B%2BYhYLBVbEfhSkTyYiiAHf43CMxwT3ocRrFkEXxV3lLVUq3C1WC0eYYHoj6g%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -133,8 +133,8 @@
    "price_eur": 30.86,
    "shipping_eur": 0.0,
    "effective_eur": 30.86,
-   "median_eur": 50.49,
-   "discount_pct": 38.9,
+   "median_eur": 50.25,
+   "discount_pct": 38.6,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYRZaynA22o%2Fik8OdbH0cRYHNlILg6N22fe%2BFRkEE7KkfrU6jj0zTKV19idEX7hXmH3jESIoGSttgGX6XWwcYcmuUGQMKnSii0KbxFahaXEo%2FVJjbjZ4xoSkVEp%2BiXOqxUd3b6%2FvApGogcEFmbLuqC3",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZbolMh8EegONXKg0ft%2B%2F6TncvKhHaDs7Cd18EiqD%2Fid9wmR6Fq8q1Q9ZnCsYNEJ5VrFwtbbMzYd2zxZ%2F0Fz5xfUKhRE3c2satbshvg9vNMexTwSX%2F8p4yUNRuGKf5D37L%2Bs3HmnM1rt8yLt3wovW91",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -226,6 +226,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237181676371?_skw=ddr4&hash=item3739212b53:g:e90AAeSwfvBq95a3",
    "posted_at": "2026-11-13T23:01:35+00:00"
+  },
+  {
+   "title": "Crucial MX500 SSD 500 Go 2,5\" SATA III CT500MX500SSD1",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 50.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 50.0,
+   "median_eur": 62.77,
+   "discount_pct": 20.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · nikko22 (100,0 %, 52 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206702536381?_skw=ssd&hash=item30206e66bd:g:-d8AAeSwiU1q-WfW",
+   "posted_at": "2026-11-15T08:06:18+00:00"
   },
   {
    "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
@@ -315,6 +332,13 @@
  ],
  "unclassified": [
   {
+   "title": "Lot de 2 Caméras de Surveillance EufyCam C37 - 4K, 360°, Panneau Solaire",
+   "price_raw": "160,38€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lot-de-2-cameras-de-surveillance-eufycam-c37-4k-360-panneau-solaire-3455897",
+   "posted_at": "2026-11-15T08:19:25+00:00"
+  },
+  {
    "title": "[Laptop] Acer Aspire 16 AI 16\" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc ($460) eBay Certified Seller",
    "price_raw": "$460",
    "source": "reddit",
@@ -367,7 +391,7 @@
    "title": "Carte graphique Gainward GF9600GT 512Mo",
    "price_raw": "23.58 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUPDydJHckC4HdRV3ByALSpqNf6Arn7jpez8xVVlA6Nvydy5Q0cex%2F%2Bj5S6ccweRJkUdtEmcm5YHvx%2FXfCwhBHiImmm%2BcCdrBUIsFSwSVyeAFgmAN4uISAv6A5hbx4ksVQ4rgHy6mYzVWEHtR8RAdg%2FI5tORwj5jdHuPc%2BT7GGSm6w%3D%3D",
+   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUOUIWLq15VQ1paVlvuuLiP%2BL2zkEFOOy7LLoNRCcywueLwz824sGRStz4P%2F8piEhHibLs%2F5qVsqNemaUZNwZaVPSIT2VjkC5uOB9Pqo1pbTWljaquBhf%2FAg3ZcAfOTZiFwRhmisKP0t7RyfuEn4cAwqqMTcDDM1WIbu%2FCDyPClvBQ%3D%3D",
    "posted_at": "2024-11-01T14:15:14+00:00"
   },
   {
@@ -444,7 +468,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8pf5YVvaScK7UtEjhk%2Fq2X2z45en40Zv7lnRGrwjy%2FYTAN1Hg5Dt0JL9nZwTZYbrHw5YQ0mMEKudbqOYSlCUAqKlJ4AW1Rke96JybBvY074hHM7JcoXnQQmt2LK3T%2FZxNUnTCnrwQu57GpQm71N484KTY7bSZrIwgAxQcrG4IMicA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8raarmgIWXC95yviM0tVKtMo7781Q7mc7wkLUybBurH2Z%2F5QjAJgvH2BjLmgjjvb1vnBiwOcUjZP3zxMxtZ1Nc0%2BU10XFOhhLrh9%2F0cfIHbWAGJJf3uTMkZVxnzzrM9RG2eTt7ZYlwURkoyId9w9L0NScY47ESFrGZkBg%2BCBQA40Q%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -656,17 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/samsung-pack-galaxy-tab-s10-fe-109-wi-fi-128-go-anthracite-book-cover-keyboard-3455150",
    "posted_at": "2026-11-14T09:04:16+00:00"
-  },
-  {
-   "title": "PC Portable 11,1\" Lenovo Yoga Tab - 256 Go, Coquillage + Clavier + Lenovo Tab Pen Pro",
-   "price_raw": "449,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lenovo-yoga-tab-111-256-go-coquillage-clavier-lenovo-tab-pen-pro-3455147",
-   "posted_at": "2026-11-14T09:02:11+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1710,
-  "models_with_reference": 52
+  "listings_seen": 1711,
+  "models_with_reference": 51
  }
 }
