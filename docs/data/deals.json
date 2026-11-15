@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T22:38:00Z",
+ "generated_at": "2026-11-15T23:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 348,
-   "last_ok": "2026-11-15T22:38:00.631831+00:00"
+   "items": 343,
+   "last_ok": "2026-11-15T23:08:00.684295+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T22:38:00.631831+00:00"
+   "last_ok": "2026-11-15T23:08:00.684295+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-15T22:38:00.631831+00:00"
+   "items": 377,
+   "last_ok": "2026-11-15T23:08:00.684295+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 77,
-   "last_ok": "2026-11-15T22:38:00.631831+00:00"
+   "items": 73,
+   "last_ok": "2026-11-15T23:08:00.684295+00:00"
   }
  },
  "watchlist": [
@@ -65,8 +65,8 @@
    "price_eur": 79.3,
    "shipping_eur": null,
    "effective_eur": 79.3,
-   "median_eur": 156.28,
-   "discount_pct": 49.3,
+   "median_eur": 154.25,
+   "discount_pct": 48.6,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9FcFKmgHcicuJa3VETHTgWfp3xHGtAOM3l8MHnLsXLZDIHGgTNtSuVCN6%2F6gulyDWCOJYo9UxstkGH%2Bf3yHU2hFRl3g3iazEFN%2FbRskowOQsID6O6kNEJlejQciaxeKE%2FlogPpwRJGa0Eze00pfPZS%2B0zlJDR2jffG%2FqzZEQTQoQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FSUQNp9r2jkbkn8HIURzTi0C6WfODfslt7VFHflIlNIZVKwVjbCExU0Z%2Bnu8nmm4LVDB%2BlPGkNXGmk34gnUJNW2zAHE0GNoNE2SbkSrBKtqekjKAbsPXTwN9Ym9Ukio8IbpwT1WF88tCoCgQGVwJ0w4z4Q4Y6geVYiccm9E1ZHLA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,8 +190,25 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt6SHSUei7B0QMjG45pDixe2kENMDzqoS6lTT%2B5f9rZr4kyW5fdZgoru9UVCTRHD1eJE4YykBv2q7aFLs9s15csyc7FQwCpiByA%2FgMrt3NxF%2F9t9%2BFRPZGQCIAmz2LS8%2FzWxssatO7GyqPQv%2F6end7bm",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt4YunylZAZqCL0ZYjFPVsVeerbmS6vbpHSrvtROFGeOVrl2mO4wZEVn7vDlUdGmF%2BSt5rkna2ZUO6A0IkxygcPtE1cm7bnWBNAFNxH6784LjFgQy66aLRGqnkZUbTK76Jwv7o5XeIRACnRFdQQdzzZM",
    "posted_at": "2026-11-14T21:53:41+00:00"
+  },
+  {
+   "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
+   "model": "MB:B550",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 76.99,
+   "shipping_eur": null,
+   "effective_eur": 76.99,
+   "median_eur": 101.99,
+   "discount_pct": 24.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b550m-acsm-am4-ddr4-pcie-40-2-x-m2-micro-atx-3455364",
+   "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
    "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
@@ -434,18 +451,74 @@
  ],
  "unclassified": [
   {
+   "title": "UGREEN NASync DXP4800 Plus - NAS 4 baies, 8 Go DDR5, 10GbE + 2.5GbE, Intel Pentium Gold 8505 (vendeur tiers)",
+   "price_raw": "519,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-plus-nas-4-baies-8-go-ddr5-10gbe-25gbe-intel-pentium-gold-8505-vendeur-tiers-3454040",
+   "posted_at": "2026-11-15T23:06:05+00:00"
+  },
+  {
+   "title": "UGREEN NASync DXP4800 Pro - NAS 4 baies, 8 Go DDR5, Intel Core i3-1315U, 10GbE + 2.5GbE (vendeur tiers)",
+   "price_raw": "599,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-pro-nas-4-baies-8-go-ddr5-intel-core-i3-1315u-10gbe-25gbe-vendeur-tiers-3454042",
+   "posted_at": "2026-11-15T23:04:07+00:00"
+  },
+  {
+   "title": "UGREEN NASync DXP4800 GT - NAS 4 baies, double 10GbE, Ryzen Embedded R2514, 8 Go RAM (vendeur tiers)",
+   "price_raw": "499,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-gt-nas-4-baies-double-10gbe-ryzen-embedded-r2514-8-go-ram-vendeur-tiers-3454030",
+   "posted_at": "2026-11-15T23:08:00+00:00"
+  },
+  {
+   "title": "NZXT Kraken Elite 240 RGB - watercooling AIO 240 mm avec écran LCD, noir ou blanc",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nzxt-kraken-elite-240-rgb-watercooling-aio-240-mm-avec-ecran-lcd-noir-ou-blanc-3455405",
+   "posted_at": "2026-11-15T23:06:04+00:00"
+  },
+  {
+   "title": "PC portable ASUS Vivobook 14 X1407QA - 14\" WUXGA IPS, Snapdragon X 8 cœurs, 16 Go RAM, SSD 512 Go, Copilot+ PC, Windows 11 - Sans chargeur",
+   "price_raw": "529,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-vivobook-14-x1407qa-14-wuxga-ips-snapdragon-x-8-coeurs-16-go-ram-ssd-512-go-copilot-pc-windows-11-sans-chargeur-3454429",
+   "posted_at": "2026-11-15T23:05:57+00:00"
+  },
+  {
+   "title": "Écran PC 27\" ASUS ROG Strix OLED XG27AQDMES - QD-OLED, 240 Hz, 0,03 ms, capteur de proximité Neo, OLED Care Pro, ELMB, G-Sync",
+   "price_raw": "379,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-asus-rog-strix-oled-xg27aqdmes-qd-oled-240-hz-003-ms-capteur-de-proximite-neo-oled-care-pro-elmb-g-sync-3454046",
+   "posted_at": "2026-11-15T23:05:15+00:00"
+  },
+  {
+   "title": "Pack Souris + Clavier sans fil Logitech MK295 Silent (Blanc ou Noir)",
+   "price_raw": "19,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-souris-clavier-sans-fil-logitech-mk295-silent-blanc-ou-noir-3454121",
+   "posted_at": "2026-11-15T23:01:12+00:00"
+  },
+  {
+   "title": "Pack clavier + souris sans fil Logitech MK235 Combo",
+   "price_raw": "19,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-clavier-souris-sans-fil-logitech-mk235-combo-3454608",
+   "posted_at": "2026-11-15T23:00:53+00:00"
+  },
+  {
+   "title": "Serveur NAS 2 baies Ugreen NASync DXP2800 (ugreen.com)",
+   "price_raw": "329,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp2800-3456523",
+   "posted_at": "2026-11-15T22:59:33+00:00"
+  },
+  {
    "title": "PC Portable 16\" Asus V3607VM-RP097W - FHD 144Hz, Intel 5 210H, RTX 5060, RAM 16 Go, SSD 512 Go, Windows 11 (via remise fidélité)",
    "price_raw": "879,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/asus-pc-portable-gamer-3456498",
    "posted_at": "2026-11-15T21:54:19+00:00"
-  },
-  {
-   "title": "Pack Clavier gaming, Tapis de souris gaming, Souris gaming",
-   "price_raw": "4,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/clavier-gaming-tapis-de-souris-gaming-souris-gaming-3456493",
-   "posted_at": "2026-11-15T21:49:59+00:00"
   },
   {
    "title": "DISQUE DUR SSD INTERNE ORIGINE APPLE IMAC 2017 256GB (MZ-KPW2560/0A4)",
@@ -467,6 +540,20 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-ram-16-go-ssd-512-go-wifi-7-3456472",
    "posted_at": "2026-11-15T21:03:25+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast RGB DDR5 - 16 Go (1 x 16 Go) - 6000 MT/s C36 - AMD EXPO - B",
+   "price_raw": "456.76 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336104681865?_skw=ddr5&hash=item4e41667189:g:dYAAAeSwh5Bq-gz9",
+   "posted_at": "2025-08-03T01:28:32+00:00"
+  },
+  {
+   "title": "Écran Moniteur PC MSI Pro MP275 27 Full HD 100Hz IPS HDMI VGA Haut-Parleurs Neuf",
+   "price_raw": "162.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/127801284489?_skw=%C3%A9cran+pc&hash=item1dc18cd789:g:oXMAAeSw9-pp18yl",
+   "posted_at": "2026-04-09T19:27:15+00:00"
   },
   {
    "title": "PC Portable 14\" Asus Zenbook A14 UX3407 - Snapdragon X2 Elite, RAM 32 Go LPDDR5X, SSD 1 To. (1278€ avec la carte Fnac+)",
@@ -651,13 +738,6 @@
    "posted_at": "2026-11-15T16:24:05+00:00"
   },
   {
-   "title": "Micron RAM 8 Go DDR4 SDRAM PC4-2666V-UA2-11 DIMM MTA8ATF1G64AZ-2G6H1",
-   "price_raw": "21.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168864577293?_skw=ddr4&hash=item27511cf70d:g:mC4AAeSwvG9q-dkE",
-   "posted_at": "2026-11-15T16:10:51+00:00"
-  },
-  {
    "title": "Kingston 8 Go DDR4 SDRAM DIMM 288 broches PC4-2666V HP26D4U9S8ME-8",
    "price_raw": "21.50 EUR",
    "source": "ebay",
@@ -719,73 +799,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-hp-15-fc0013nf-ryzen-7-7730u-16-go-512-go-ssd-argent-3456216",
    "posted_at": "2026-11-15T14:36:22+00:00"
-  },
-  {
-   "title": "SK hynix DDR5 SO-DIMM 16 Go (2x8 Go) PC5-5600B HMCG66AGBSA095N AA",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880119569373?_skw=ddr5&hash=itemcceb36dbdd:g:ONIAAeSwbZ1q-a~x",
-   "posted_at": "2026-11-15T13:19:56+00:00"
-  },
-  {
-   "title": "Imprimante HP smart tank 570",
-   "price_raw": "129,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/hp-smart-tank-570-3456098",
-   "posted_at": "2026-11-15T12:15:50+00:00"
-  },
-  {
-   "title": "Processeur CPU AMD A6-8500 Séries AD855BYBI23JC 3.5 GHz FM2+",
-   "price_raw": "14.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/306760414236?_skw=processeur&hash=item476c58741c:g:cNoAAeSwyHhq7M6N",
-   "posted_at": "2026-02-09T14:17:06+00:00"
-  },
-  {
-   "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
-   "price_raw": "1 097,14€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-avec-puce-apple-m6-argent-processeur-12-coeurs-et-carte-graphique-12-coeurs-16-go-de-memoire-partagee-512-go-3456029",
-   "posted_at": "2026-11-15T10:40:45+00:00"
-  },
-  {
-   "title": "KOORUI Écran PC Incurvé 23,6\" 100Hz Full HD VA 24N5CA HDMI VGA",
-   "price_raw": "186.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206702817795?_skw=%C3%A9cran+pc&hash=item302072b203:g:rP4AAeSwkRJq-Y6w",
-   "posted_at": "2026-11-15T10:51:40+00:00"
-  },
-  {
-   "title": "magic keyboard - A2450 - allemand Suisse ( QWERTZ)",
-   "price_raw": "63.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejWvO52jhZoI%2F153M2VzBgsgCw4xS%2FwjmmoJS4XFrMMeEKa7FXyZy0QgzV0gEtLh5hIG0IW8hmeLDMPSfl2pQJAWhZsH39uEX%2FWFkQdqgbDrDwX1QvCt2hUoNpRWlFJykgbP1dON7i24CHCNFJs4LADz",
-   "posted_at": "2026-11-15T10:27:10+00:00"
-  },
-  {
-   "title": "Écran 32\" MSI MAG 321UP - QD-OLED X24, 240 hz",
-   "price_raw": "779,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-mag-321up-qd-oled-x24-monitor-3455949",
-   "posted_at": "2026-11-15T09:15:14+00:00"
-  },
-  {
-   "title": "Lot de 2 Caméras de Surveillance EufyCam C37 - 4K, 360°, Panneau Solaire",
-   "price_raw": "160,38€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-2-cameras-de-surveillance-eufycam-c37-4k-360-panneau-solaire-3455897",
-   "posted_at": "2026-11-15T08:19:25+00:00"
-  },
-  {
-   "title": "[Laptop] Acer Aspire 16 AI 16\" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc ($460) eBay Certified Seller",
-   "price_raw": "$460",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwprwc/laptop_acer_aspire_16_ai_16_intel_ultra_5_226v/",
-   "posted_at": "2026-11-15T07:51:29+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1721,
+  "listings_seen": 1731,
   "models_with_reference": 51
  }
 }
