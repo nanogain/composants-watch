@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T09:08:00Z",
+ "generated_at": "2026-11-15T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-15T09:08:00.674811+00:00"
+   "items": 342,
+   "last_ok": "2026-11-15T09:38:00.679880+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T09:08:00.674811+00:00"
+   "last_ok": "2026-11-15T09:38:00.679880+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 369,
-   "last_ok": "2026-11-15T09:08:00.674811+00:00"
+   "last_ok": "2026-11-15T09:38:00.679880+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-15T09:08:00.674811+00:00"
+   "items": 9,
+   "last_ok": "2026-11-15T09:38:00.679880+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8CQNRVEChsGDEjLNusl29LZoN2p2Usa21pBNPUrKosQJJ7QjIlmxtQcvH2U9DBTHEDpHBseDZPgdkVktnJlF0QSE52%2FDaXSdI8HNk5BPKYzJQpRZx27dBF6vmRRN2euKafsLDWLNzkSZN62GyNxWGUnsKQbfGvg1vWYIGsYjDVNQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BLNg7pCXOLJ%2BUeQym64IplsQNSoTXKSV8iUPn5jFLU5ZfW8%2BGtDf8OBav2266VAOFnL3gVDGnifJh6AMI4a%2FxIPxFHHm4O7jHosFHKnLrfAmaYePLcZJ%2FjiLzFvQsaxtnSJUxDYZ1l00bcCMM2t6LEanmsWrll95BoOIw8uAV64w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYRyarIje37JBmKNeZm7KmT0tnLArVTTYFFIusJJMkkdqwo2fVByC7mYLkwXwpu8Mwjqtd0%2BT4En9pXJvMaOD7y3DXlg5DCMOWCditE%2BS4Wu3b%2F%2BOq%2BgVIBLs3y4YSUXJVyN5ZWClUVwPwSB6m8hONx",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZ747j9A8%2FJwK5pAQq6hTEw3xFhztDRL5uYHM7kpyIIGIxPzbiUfWSoQKNt%2Bm8TjAn8qBRi6O2NvQzrne6nqLBVetP%2BeLVOiuP6OT4jlnSkCwuez8vECVFf83Mxq3HPQQdUL2q1qeVtYLMVVE8NNfqZ",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -296,23 +296,6 @@
    "posted_at": "2026-11-13T12:47:04+00:00"
   },
   {
-   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
-   "model": "SSD:NVMe-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 22.44,
-   "shipping_eur": 0.0,
-   "effective_eur": 22.44,
-   "median_eur": 27.59,
-   "discount_pct": 18.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
-   "posted_at": "2026-11-09T11:03:45+00:00"
-  },
-  {
    "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
    "model": "RAM:DDR4-16Go-2666",
    "category": "RAM",
@@ -348,6 +331,48 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Écran 32\" MSI MAG 321UP - QD-OLED X24, 240 hz",
+   "price_raw": "779,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-mag-321up-qd-oled-x24-monitor-3455949",
+   "posted_at": "2026-11-15T09:15:14+00:00"
+  },
+  {
+   "title": "#2 RAM Samsung 16GB (2x8GB) DDR4 So-Dimm PC4-3200 Neuves",
+   "price_raw": "78.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307283457272?_skw=ddr4&hash=item478b8574f8:g:QckAAeSw3rBq5Pw0",
+   "posted_at": "2026-11-15T09:22:05+00:00"
+  },
+  {
+   "title": "Kingston FURY Beast 32 Gb (1x32 GB) 3600MHz DDR4 CL18 Desktop Memory",
+   "price_raw": "409.60 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840130619579?_skw=ddr4&hash=itemc39bafe8bb:g:~uAAAeSw7oNq6z16",
+   "posted_at": "2026-11-15T09:24:44+00:00"
+  },
+  {
+   "title": "#2 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307283456588?_skw=ddr4&hash=item478b85724c:g:EqcAAeSwvr1q75cX",
+   "posted_at": "2026-11-15T09:21:01+00:00"
+  },
+  {
+   "title": "#1 RAM Samsung 16GB (2x8GB) DDR4 So-Dimm PC4-3200 Neuves",
+   "price_raw": "78.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307283457119?_skw=ddr4&hash=item478b85745f:g:YWYAAeSwfgxq5Pvc",
+   "posted_at": "2026-11-15T09:21:49+00:00"
+  },
+  {
+   "title": "#1 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307283456427?_skw=ddr4&hash=item478b8571ab:g:5pQAAeSw1hlq75bl",
+   "posted_at": "2026-11-15T09:20:43+00:00"
+  },
   {
    "title": "SK hynix 8 Go DDR4 SO-DIMM 260 broches PC4-2400T HMA81GS6AFR8N-UH",
    "price_raw": "26.70 EUR",
@@ -405,13 +430,6 @@
    "posted_at": "2026-11-15T04:37:58+00:00"
   },
   {
-   "title": "[ECC Unbuffered] 32Go (2 x 16Go) barrette RAM DDR4 SODIMM 2400T SK Hynix server",
-   "price_raw": "149.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840115784436?_skw=ddr4&hash=itemc39acd8af4:g:UIMAAeSwqR5q5Rl0",
-   "posted_at": "2026-11-10T23:21:43+00:00"
-  },
-  {
    "title": "Carte mère ASUS H81M-K/K31ADE/DP",
    "price_raw": "16.15 EUR",
    "source": "ebay",
@@ -422,7 +440,7 @@
    "title": "Carte graphique Gainward GF9600GT 512Mo",
    "price_raw": "23.58 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUMQAxnc97Nayivwk5%2B0ss61WT8GZTg7UW2Wv27JRhNPIOkDYS8pqKyNz4CfjoY7pWzeM7s3rIP1CnYK0r1iE0SPC%2FoUrFbG1UfG2yhCUiLz%2BPgQucZatI9t9jB%2BneIVpcQbJ9Wot1kq%2BV7p9M%2FIUfX%2B0E4wK8HKGaN%2B%2BcQsJjoepQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUMkWPPjIxeM0RFyj%2FN%2BnfoVj0vqgKUfuqUwN%2FfJk8uKRIk06jeVehxJPFW0bR719qjDkWZpOEp2OnVgFT567G7mYsi0Z1SF%2F9BPES3tYDqQhejxyac6gDJLMN0Qfqb7LSQNZeLZkBHaHSqpU6pKhrrf4DXcsyyynffitkyKh9zehQ%3D%3D",
    "posted_at": "2024-11-01T14:15:14+00:00"
   },
   {
@@ -499,7 +517,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8qACrfCF4XJKVczF8nZGSoyZuuKY4%2BvHUyQmeDIdisvJTj6okDmcStMxgp2uhH0CzaladxC%2BOPOwAXvhnG3gprxNMuGTSfficQEgfN3YGg7FJBzHGTKq%2B8quoIQO2%2F2GBK8X4em1mnR34woWyNZ9qohB2VZsJyXmbHt6XV6ooBLmw%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8qTAVgTHzF5AK6sjo7qCPHEU%2BnKYoYstsjXeUmpTcsgJgC9LlUrv7sFPDntcTXMWqDZuDYAdut8m%2FLpls8WonMX6qbCQF7g3w2McDdVTq0QYBz12fiJgWkqJOSw7k0pNtXcQv9E0oVcys8N2l4jOGEPUb1nwqXltr3HRMDITACmng%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -662,45 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-vivobook-16-x1607ca-mb307w-16-wuxga-60-hz-intel-core-ultra-9-16-go-ram-512-go-ssd-gris-clair-pc-portable-3455373",
    "posted_at": "2026-11-14T13:27:18+00:00"
-  },
-  {
-   "title": "PC Gamer Blacklegend - Ryzen 7 9800X3D, RTX 5080, 32 Go RAM , 2 To SSD, Watercooling, Win11",
-   "price_raw": "3 299,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-gamer-blacklegend-ryzen-7-9800x3d-rtx-5080-32-go-ram-2-to-ssd-watercooling-win11-3455356",
-   "posted_at": "2026-11-14T13:18:25+00:00"
-  },
-  {
-   "title": "NVIDIA Quadro 400 carte graphique  DisplayPort DVI P/N NVA-P1052-000(B)",
-   "price_raw": "10.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227613961498?_skw=carte+graphique&hash=item34fed96d1a:g:-WUAAeSwkZBq-EgG",
-   "posted_at": "2026-11-14T11:42:26+00:00"
-  },
-  {
-   "title": "Samsung 8GB (M393A1G43DB0-CPB) 2Rx8 PC4-2133P RDIMM ECC DDR4 SDRAM",
-   "price_raw": "16.15 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407275453321?_skw=ddr4&hash=item5ed3823b89:g:QQQAAeSw7sxqx2sG",
-   "posted_at": "2026-10-08T10:07:13+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast DDR5 - 16 Go (1 x 16 Go) - 5600 MT/s C40 - Intel XMP 3.0 -",
-   "price_raw": "420.89 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336278954360?_skw=ddr5&hash=item4e4bc9a178:g:BlAAAeSw8hNq-Ep1",
-   "posted_at": "2025-11-10T13:49:24+00:00"
-  },
-  {
-   "title": "Tapis de souris Logitech, moyen - surface souple",
-   "price_raw": "6,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-logitech-moyen-surface-souple-3455284",
-   "posted_at": "2026-11-14T11:22:17+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1711,
+  "listings_seen": 1713,
   "models_with_reference": 52
  }
 }
