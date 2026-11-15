@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T17:38:00Z",
+ "generated_at": "2026-11-15T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 342,
-   "last_ok": "2026-11-15T17:38:00.650701+00:00"
+   "last_ok": "2026-11-15T18:08:00.774251+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T17:38:00.650701+00:00"
+   "last_ok": "2026-11-15T18:08:00.774251+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-15T17:38:00.650701+00:00"
+   "items": 378,
+   "last_ok": "2026-11-15T18:08:00.774251+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-15T17:38:00.650701+00:00"
+   "items": 80,
+   "last_ok": "2026-11-15T18:08:00.774251+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8UzhxD%2FsgPQaaqboOBV0COHLa%2FuHuidqEkQpYHXe6N9Sq4wgweaSkW%2BjTFqEU9cWjJL6%2Ft3tRjVMad64p8ss8V8kXPKEoYa3%2FurqcUoVu5ytBb7uX6B0EfSiTmyAY6OyygES5WbSit6Am%2F2nnRJ%2Bt22gsg6gAAfZLyfVSGuB7iPQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B--%2B3OQmoBVF1ieau%2F1mI55FVHHRPY21CyeG%2F8QMVOJ2UrQHE9IivJqGVjyALU7QYClcfwYw5DuWEglG2WwjoR7ob3zc58uFZ2GvofJ1QOX5e3JSc4bfz%2Fn0tdIy36d10lBB4HoEqKMAaDXvqjMfOeCrG5ylwxHR9YjGP2zsIRJmw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -143,23 +143,6 @@
    "posted_at": "2026-11-13T13:40:26+00:00"
   },
   {
-   "title": "SSD M.2 SATA 512 Go SEAPIY - Format 2242",
-   "model": "SSD:SATA-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 30.86,
-   "shipping_eur": 0.0,
-   "effective_eur": 30.86,
-   "median_eur": 50.49,
-   "discount_pct": 38.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237180864870?_skw=ssd&hash=item373914c966:g:2zUAAeSwmjdq9xQk",
-   "posted_at": "2026-11-13T13:43:37+00:00"
-  },
-  {
    "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -173,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt5fRKqRgf38vwZNvpfMXBs3IfDXUdFQa7rS77lhiO7rtFrFWwlb2KKZS%2F47vv85ShPeg%2ByzRYPN72v79GgAPl7qMKZQt7KfPfcIgnlBhMeVQNgLP696a1GGS4g2iAuDdiHM%2BDbiddP%2Fh3Eh1zw8D10R",
    "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
@@ -207,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIbybWQ4bSCQdi3LYWvFof0AUIzTcbWXIZMP5KJRnOFlhyV%2BxXRhv81xe%2FoHf7tUC40Qk3Fox922EpE80cG0%2BBKsrmALLJSAC6W2YkDznBiOHFVRVbpDQKSCeUZ9waF%2FG1tszKol5mFI0QycW55oSWKi",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZSHZsU%2BD38pdWX0rv9x9gdzCFOFOQ%2B%2BRuriyzcvIzLe0nRThVk9GsWwBMfCnffvFsyLrkVP5J8dPlygyJZKNfhNPF6kU4UoBs0uFS33L5cxos4mJB8c%2BYTj%2FaqwMstbRpXMTKFvEBuINZdOznDdpte",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -313,6 +296,23 @@
    "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
+   "title": "RAM 16 GO DDR4 3200MHZ SODIMM — Micron (1Rx8 / PC4-3200AA)",
+   "model": "RAM:DDR4-16Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 59.0,
+   "shipping_eur": 2.78,
+   "effective_eur": 61.78,
+   "median_eur": 76.99,
+   "discount_pct": 19.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · wrekse (100,0 %, 119 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840131364452?_skw=ddr4&hash=itemc39bbb4664:g:SIQAAeSwSNhq-b8p",
+   "posted_at": "2026-11-15T14:22:21+00:00"
+  },
+  {
    "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
    "model": "MON:24-FHD-100Hz",
    "category": "MON",
@@ -330,38 +330,38 @@
    "posted_at": "2026-11-11T10:23:59+00:00"
   },
   {
-   "title": "Ecran PC 32\" Gigabyte MO32U2 QD-OLED - 4k UHD, 240 Hz, HDR True Black 400",
-   "model": "MON:32-UHD-240Hz",
-   "category": "MON",
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
    "condition": "new",
-   "price_eur": 555.0,
-   "shipping_eur": null,
-   "effective_eur": 555.0,
-   "median_eur": 685.43,
-   "discount_pct": 19.0,
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "Alternate",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-32-gigabyte-mo32u2-qd-oled-4k-uhd-240-hz-hdr-true-black-400-3454326",
-   "posted_at": "2026-11-13T12:47:04+00:00"
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
-   "title": "RAM 16 GO DDR4 3200MHZ SODIMM — Micron (1Rx8 / PC4-3200AA)",
-   "model": "RAM:DDR4-16Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 59.0,
-   "shipping_eur": 2.78,
-   "effective_eur": 61.78,
-   "median_eur": 75.24,
-   "discount_pct": 17.9,
+   "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 1 To Garanti 5 ans",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 125.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 125.0,
+   "median_eur": 149.99,
+   "discount_pct": 16.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · wrekse (100,0 %, 119 avis)",
+   "merchant": "eBay · playerone78 (100,0 %, 529 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840131364452?_skw=ddr4&hash=itemc39bbb4664:g:SIQAAeSwSNhq-b8p",
-   "posted_at": "2026-11-15T14:22:21+00:00"
+   "url": "https://www.ebay.fr/itm/327457765504?_skw=ssd&hash=item4c3e00f880:g:V08AAeSw6xhq-bPB",
+   "posted_at": "2026-11-15T13:30:57+00:00"
   },
   {
    "title": "SSD M.2 NVMe 1 To Crucial P3 (Santé 99%)",
@@ -400,6 +400,20 @@
  ],
  "unclassified": [
   {
+   "title": "Processeur Intel i5 14600KF version tray + 2 jeux offerts",
+   "price_raw": "229,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/processeur-intel-i5-14600kf-version-tray-2-jeux-offerts-3456339",
+   "posted_at": "2026-11-15T17:38:43+00:00"
+  },
+  {
+   "title": "PC Portable 15,3\" Lenovo Legion 7a Gen 11 - Circuit graphique intégré, AMD Ryzen AI Max, 32 Go LPDDR5X-8, 1 To SSD M.2",
+   "price_raw": "2 349,22€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lnovo-legion-7a-gen-11-15-amd-3456340",
+   "posted_at": "2026-11-15T17:39:06+00:00"
+  },
+  {
    "title": "[Adhérent Fnac+] PC portable 16\" MSI Raider 16 HX B2WH-019FR - QHD+, 240 Hz, Intel Core Ultra 7, 32 Go RAM, 1 To SSD, Nvidia RTX 5070 Ti",
    "price_raw": "2 069,99€",
    "source": "dealabs",
@@ -414,7 +428,7 @@
    "posted_at": "2025-10-23T04:15:30+00:00"
   },
   {
-   "title": "Mini PC GMKtec Nucbox M8 AMD Ryzen 5 PRO - 6650H",
+   "title": "Mini PC GMKtec Nucbox M8 AMD Ryzen 5 PRO - 6650H, 1 Go SSD",
    "price_raw": "379,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/gmktec-nucbox-m8-amd-ryzen-5-pro-6650h-mini-pc-3456304",
@@ -578,7 +592,7 @@
    "title": "magic keyboard - A2450 - allemand Suisse ( QWERTZ)",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejXRIbzgFtlfI5DINszfUvCIB6hYyjT9iwZmvfEHbfxAGvqtxHBUv96hL%2BTSbCL1Kh9e%2BziO%2BHu5TfaAV4%2F5Bo7%2FbRTuci2Zm73TGwZWdj%2FgtS28ttimhOj6DD8umGOpQBuJtM44j8kd0eRrC89xUjCw",
+   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejUNmzT1axrx1P7k2mUznQrAYAvuQI3lOcycNN1g%2Fo9ZJ6Lio0l52C0qf2Gj4K3J9SFKsB8UiFyjMf1jEwXZse0ybJwoj2ihP7b1S9maYzHZx8om0Guah63elTFa0A3hMZu9az5uzfpZhRsykVD1FSqz",
    "posted_at": "2026-11-15T10:27:10+00:00"
   },
   {
@@ -596,11 +610,11 @@
    "posted_at": "2026-11-15T09:15:14+00:00"
   },
   {
-   "title": "Kingston FURY Beast 32 Gb (1x32 GB) 3600MHz DDR4 CL18 Desktop Memory",
-   "price_raw": "409.60 EUR",
+   "title": "#2 RAM Samsung 16GB (2x8GB) DDR4 So-Dimm PC4-3200 Neuves",
+   "price_raw": "78.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840130619579?_skw=ddr4&hash=itemc39bafe8bb:g:~uAAAeSw7oNq6z16",
-   "posted_at": "2026-11-15T09:24:44+00:00"
+   "url": "https://www.ebay.fr/itm/307283457272?_skw=ddr4&hash=item478b8574f8:g:QckAAeSw3rBq5Pw0",
+   "posted_at": "2026-11-15T09:22:05+00:00"
   },
   {
    "title": "Lot de 2 Caméras de Surveillance EufyCam C37 - 4K, 360°, Panneau Solaire",
@@ -655,7 +669,7 @@
    "title": "Carte graphique Gainward GF9600GT 512Mo",
    "price_raw": "23.58 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUP4Y9fl56pIp9dBTV7yx8sjuvI9vwEtGLspUPJX%2BmLrygMW3sUJq64BPro6ta4h17BicsTzZP%2FFoIX8cdeEXMsW%2BQ9OX2H%2BKGvJ7yavlSSuVxhV8uJMNAx6%2BCLj2Kjnsuk0eFgJ2LMlDNlpG79yYnYoAS%2Bfi5awygavH6YYFB%2B55A%3D%3D",
+   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUM5OuBYadU4dQhFhEHDnX3aHkovPj%2FTMgRDulu%2Fh9ujibyfEp8ldEhgecxaEruzMYP66UVw8kFmcemmdCAGN5SQVH7uCXZgDR7Z3oaDQNkwBIGWkRIcABmer6gU5slGwMWEkOLY4DI78mVH2uhkfoAReGwnqqUkxhrtPt%2BzUgiXgA%3D%3D",
    "posted_at": "2024-11-01T14:15:14+00:00"
   },
   {
@@ -734,24 +748,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ordinateur-apple-mac-studio-m5-max-cpu-18-coeurs-36-go-ram-ssd-512-go-argent-3455633",
    "posted_at": "2026-11-14T19:08:24+00:00"
-  },
-  {
-   "title": "[Prebuilt] Costco - MSI Aegis R2 AI Gaming Desktop – Intel Core Ultra 9 285 - GeForce RTX 5080 – 32GB RAM – 1TB SSD - $2899.99",
-   "price_raw": "$2899.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwaje0/prebuilt_costco_msi_aegis_r2_ai_gaming_desktop/",
-   "posted_at": "2026-11-14T19:08:31+00:00"
-  },
-  {
-   "title": "Coque Adeqwat iPad 10.9/ iPad 11 A16 Beige",
-   "price_raw": "19,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/coque-adeqwat-ipad-109-ipad-11-a16-beige-3455604",
-   "posted_at": "2026-11-14T18:36:22+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1715,
-  "models_with_reference": 52
+  "listings_seen": 1714,
+  "models_with_reference": 51
  }
 }
