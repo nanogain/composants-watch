@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T21:08:00Z",
+ "generated_at": "2026-11-15T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 350,
-   "last_ok": "2026-11-15T21:08:00.680628+00:00"
+   "items": 347,
+   "last_ok": "2026-11-15T21:38:00.678228+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T21:08:00.680628+00:00"
+   "last_ok": "2026-11-15T21:38:00.678228+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-15T21:08:00.680628+00:00"
+   "items": 377,
+   "last_ok": "2026-11-15T21:38:00.678228+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 7,
-   "last_ok": "2026-11-15T21:08:00.680628+00:00"
+   "items": 80,
+   "last_ok": "2026-11-15T21:38:00.678228+00:00"
   }
  },
  "watchlist": [
@@ -109,6 +109,23 @@
    "posted_at": "2026-11-14T21:49:57+00:00"
   },
   {
+   "title": "Processeur Intel Core i5-8500 3,00 GHz 6 cœurs LGA1151 SR3XE",
+   "model": "CPU:Core i5-8500",
+   "category": "CPU",
+   "condition": "used",
+   "price_eur": 24.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.9,
+   "median_eur": 40.99,
+   "discount_pct": 39.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · recyclageinformatiquesologne (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
+   "posted_at": "2026-11-11T09:31:40+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -122,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8x4c76LPIv7140DnIgbJDU2prHbo7NYts8ZH0CZ%2FmIunx5qUgiRpUc79o18dGwuntHOkhRMpuAMPpnfVmdsRx77CkZDWy8BwAhmwn0GMgM9meADSq%2FR%2Ff%2FnxSTtUWFy9tFQuIulu5mC5WJ5ZR1rM3AWuk5kzbKAwgDCwcS7H5d0g%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8PQGMieYKLKgeaLNNLg5SWdU5T8a0IFg%2FcfVT8bGBgULzhOCBGyQ3pMg6AFMT2OLJxhPp3yn3iPEK7Xm9pSAlDF%2Fq5hrAQG%2Bbx8ggx%2BvuBHmhmal4LUC3jsRvjl5PPFq0tGaKiTOw6iBn%2BwjNREQiWMTM22biZUiiX88kR1cCmlg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt4Lm6rOPMvT4y9fshkQpz5JsiWK4gOi4DtBq6xuFyY491C4jly0Ye29%2Bk5WPhECY7sL3KIWFozjcG1yaaO6byVcTuJP5O33eqLEUQV2oEHbl8i3eDkn03L80Q%2BpNn19UYkZx8%2FR%2FcpoT4FeJlGLacga",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt6ZL70zqj7uYxG5DF4Qv4R%2BEgweW6xcBOZJms7KwC0CmQwxmiL9YMv%2Bt0lqrkv8%2BsL%2B%2FGqvAmzpqlxl7P6FxNKMgZPM6TDI4Gu2GLJ3djTmjL%2BZh0L2LilLwQ6rnVR1bVq%2FxO0rqTYaNAld50CmJkOJ",
    "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
@@ -194,21 +211,21 @@
    "posted_at": "2026-11-15T18:42:13+00:00"
   },
   {
-   "title": "RAM 16 GO DDR4 3200MHZ SODIMM — Micron (1Rx8 / PC4-3200AA)",
-   "model": "RAM:DDR4-16Go-3200",
+   "title": " Netac 8go ddr4 3200 8go C22",
+   "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
-   "condition": "used",
-   "price_eur": 59.0,
-   "shipping_eur": 2.78,
-   "effective_eur": 61.78,
-   "median_eur": 80.44,
-   "discount_pct": 23.2,
+   "condition": "new",
+   "price_eur": 31.9,
+   "shipping_eur": 8.0,
+   "effective_eur": 39.9,
+   "median_eur": 56.79,
+   "discount_pct": 29.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · wrekse (100,0 %, 119 avis)",
+   "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840131364452?_skw=ddr4&hash=itemc39bbb4664:g:SIQAAeSwSNhq-b8p",
-   "posted_at": "2026-11-15T14:22:21+00:00"
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZcrseuffeuCvQMzAzo%2BRfELVu%2F7srBe0OdXmkqmLCUdTa4IzSHKEVA6V9Ted5%2BEJA0oyv46JnqXJ51tT7EvHV8kvMgBY6oqK41COi%2B3xgAgxLcbpc4mdBXYYabCT5%2BIxMUzWuO2NxJjf8CKz3EMGl8",
+   "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
    "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
@@ -364,6 +381,23 @@
    "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
+   "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 378.17,
+   "shipping_eur": null,
+   "effective_eur": 378.17,
+   "median_eur": 464.08,
+   "discount_pct": 18.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
+   "posted_at": "2026-11-14T05:57:28+00:00"
+  },
+  {
    "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 1 To Garanti 5 ans",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -441,7 +475,7 @@
    "posted_at": "2026-11-15T21:07:25+00:00"
   },
   {
-   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7 (Plusieurs coloris)",
+   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7, Plusieurs coloris (1099€ pour les étudiants via Unidays)",
    "price_raw": "1 199€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-ram-16-go-ssd-512-go-wifi-7-3456472",
@@ -455,14 +489,7 @@
    "posted_at": "2025-08-03T01:28:32+00:00"
   },
   {
-   "title": "Écran Moniteur PC MSI Pro MP275 27 Full HD 100Hz IPS HDMI VGA Haut-Parleurs Neuf",
-   "price_raw": "162.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/127801284489?_skw=%C3%A9cran+pc&hash=item1dc18cd789:g:oXMAAeSw9-pp18yl",
-   "posted_at": "2026-04-09T19:27:15+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Asus Zenbook A14 UX3407 - Snapdragon X2 Elite, GPU Qualcomm Adreno, RAM 32 Go LPDDR5X, SSD 1 To, Windows 11",
+   "title": "PC Portable 14\" Asus Zenbook A14 UX3407 - Snapdragon X2 Elite, RAM 32 Go LPDDR5X, SSD 1 To. (1278€ avec la carte Fnac+)",
    "price_raw": "1 419,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-14-asus-zenbook-a14-ux3407-snapdragon-x2-elite-gpu-qualcomm-adreno-ram-32-go-lpddr5x-ssd-1-to-windows-11-3456431",
@@ -495,13 +522,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206703697847?_skw=carte+graphique&hash=item3020801fb7:g:HlkAAeSw3Uxq8HMT",
    "posted_at": "2026-11-15T19:41:48+00:00"
-  },
-  {
-   "title": "Carte mère ASRock Rack B565D4-V1L ATX - Socket AM4 - 4x emplacements RAM DDR4",
-   "price_raw": "59.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188354211052?_skw=carte+m%C3%A8re&hash=item2bdac92cec:g:GtoAAeSwAMNqS7kj",
-   "posted_at": "2026-05-06T10:18:46+00:00"
   },
   {
    "title": "Be Quiet! Dark Rock TF 2 - Ventirad Processeur",
@@ -728,13 +748,6 @@
    "posted_at": "2026-11-15T13:19:56+00:00"
   },
   {
-   "title": "Yodoit Écran Portable 15,6\" FHD IPS HDMI USB-C Haut-parleurs PC Mac Xbox",
-   "price_raw": "103.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731256118?_skw=%C3%A9cran+pc&hash=item42fe1e8b36:g:tGYAAeSwuxBq-aht&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lJu%2BFh53bouAlnLEqq7N1AA5mbaHS8uXUCVkot0vDlUMmm%2FFerM3gPt3N6nm4jG%2Btik0ZKHCFGxzU%2F8HtTxmCldeFmlzqB%2BKFm6w98tVh9W5uksBvp5g7D2e4peC%2BVPaibdlkh8i0ojVQFyzPMn6HFQcg64HNK5Tw1KLzCBIhr73Py9pkAbqdRpWh0TAwQXQSVX%2FRDSMPN2SLgre6OmMp4EMXaIGo3Pv61MZIu8CgG8Oq%2FU1AGMHsLwZKQOto446cwjXtl7PuLZHGF1Ij10vKc2iudww75P431lV5rA44HhA%3D%3D",
-   "posted_at": "2026-11-15T12:41:31+00:00"
-  },
-  {
    "title": "Imprimante HP smart tank 570",
    "price_raw": "129,99€",
    "source": "dealabs",
@@ -749,11 +762,11 @@
    "posted_at": "2026-02-09T14:17:06+00:00"
   },
   {
-   "title": "Gigabyte GA-MA790X-UD3P Motherboard AMD AM2/AM2+/AM3 790X + SB750",
-   "price_raw": "94.10 EUR",
+   "title": "RAM Samsung 16 Go DDR4 SO-DIMM PC4-25600 3200  PC portable",
+   "price_raw": "79.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/298586721818?_skw=carte+m%C3%A8re&hash=item458527ce1a:g:E7YAAeSwwRFp~10E",
-   "posted_at": "2026-08-14T05:52:38+00:00"
+   "url": "https://www.ebay.fr/itm/860145721378?_skw=ddr4&hash=itemc844ae2022:g:LJoAAeSwAbVq-ZYy",
+   "posted_at": "2026-11-15T11:24:58+00:00"
   },
   {
    "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
@@ -773,7 +786,7 @@
    "title": "magic keyboard - A2450 - allemand Suisse ( QWERTZ)",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejW4h2PWL0mfEFVJqPUTY%2F1XCeO%2BukBci0rcm4HDyQing5YoJpUmMJ%2FQbmbRhCIFwDLhIP4gQhur%2FVvha%2F%2BsDueWXgFyLEhc%2FysXzCYV0krGqQvvr1pTiBI8EeN3pAXSJ%2F%2BXSJamdP6bRUnjFZF4jSHb",
+   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejWqWFyt9MnLx6NK5fIXsfocx2hbtYkcYIiFemxaa%2FzVBZvqx1qSTpvAAsdgIE7Y0AGYJMFdxbkL7o%2FABkTSlaVGcQc68EvlNH4vP0VVUMhPj69D0KwPRrSMnM5%2FRy58DjN1vx5OMTLXLFYOBJrceXo3",
    "posted_at": "2026-11-15T10:27:10+00:00"
   },
   {
@@ -782,10 +795,31 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-mag-321up-qd-oled-x24-monitor-3455949",
    "posted_at": "2026-11-15T09:15:14+00:00"
+  },
+  {
+   "title": "Lot de 2 Caméras de Surveillance EufyCam C37 - 4K, 360°, Panneau Solaire",
+   "price_raw": "160,38€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lot-de-2-cameras-de-surveillance-eufycam-c37-4k-360-panneau-solaire-3455897",
+   "posted_at": "2026-11-15T08:19:25+00:00"
+  },
+  {
+   "title": "[Laptop] Acer Aspire 16 AI 16\" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc ($460) eBay Certified Seller",
+   "price_raw": "$460",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwprwc/laptop_acer_aspire_16_ai_16_intel_ultra_5_226v/",
+   "posted_at": "2026-11-15T07:51:29+00:00"
+  },
+  {
+   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, 16 Go RAM, 512 Go, coloris ciel",
+   "price_raw": "1 199€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-16-go-ram-512-go-coloris-au-choix-3455858",
+   "posted_at": "2026-11-15T07:16:12+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1731,
+  "listings_seen": 1724,
   "models_with_reference": 51
  }
 }
