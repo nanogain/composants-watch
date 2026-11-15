@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T00:08:00Z",
+ "generated_at": "2026-11-15T00:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 347,
-   "last_ok": "2026-11-15T00:08:00.626149+00:00"
+   "last_ok": "2026-11-15T00:38:00.678117+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T00:08:00.626149+00:00"
+   "last_ok": "2026-11-15T00:38:00.678117+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 360,
-   "last_ok": "2026-11-15T00:08:00.626149+00:00"
+   "items": 359,
+   "last_ok": "2026-11-15T00:38:00.678117+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-15T00:08:00.626149+00:00"
+   "items": 80,
+   "last_ok": "2026-11-15T00:38:00.678117+00:00"
   }
  },
  "watchlist": [
@@ -92,23 +92,6 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
-   "title": "SanDisk X400 SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ 7 mm",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.5,
-   "shipping_eur": 2.78,
-   "effective_eur": 15.28,
-   "median_eur": 29.0,
-   "discount_pct": 47.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 199 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701501616?_skw=ssd&hash=item30205e9cb0:g:AEEAAeSwPjFq-Nat",
-   "posted_at": "2026-11-14T21:49:57+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B95RZNt34WRz3oXEQ0scJ3lO9lY10sH%2BLPEqle1pBVpyH7B5A8VasCaRQOTKIBRgyThDwD54xHyRNjM%2ByOvG7MWE4lBo%2FPbaoYTl1smEbEUfKmHawGK%2Fy0Ax1So3wZfrXTUArMDVsTGffZBlHvbjXCchuXOn%2FSb%2FyBKUtq3DjsC6g%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BtDwtCsUKR9WYho%2FqXfNBUUnkOhXID4ENI2%2BzYXCbmkT7vFg%2FNDnZ56AJ%2BnWx65CsKPE5kIQ%2F4gwwSqUedxJ%2BvPn9NwhY1nb6azq8PQd%2FpzxKOPoPc8sc9PNbvxJ52q2UWUQKgwbi305DTz3UF7zdWEvYsXXKCqXmKsITTFb%2FQKQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIb16pJ86kWL%2BHh6AXifXchKfFeK2h%2FLFjFmd%2FIGifj25gmHVQynVawuFaPzz9XvZBNJOsw%2FiyG8qjHq7rq%2BBFVKR38k4MDcZom08VKadIjK%2BWaWM9ZXYS4LJHQ3NAAPamC9Kdd9o1FVj3VbDardL%2F47",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIa3BU7UzC3aGmrOYhaabLBkRO0h3mE8XR7CMtafB3NqpiRO5%2F78N%2F44WsBUu4yO75J4AULTsm2%2Fhr1ugWvM%2Bp7vVgq7ipqgHFpVbMtKoje7OwrTsX38%2B6RVHIML0yz5Ck2uAIxD9kgNDudX9QWBkKdg",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -190,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 199 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE713eZTJawXEV0Ghiz5%2FoLSQSHdK3%2Bx%2BfGV0zkNrSKc3hXJXEXdp83IOY5fXiXX6CpOQhziekrMc5oSIUZDa3ERer2aKvHD9V6SlmBTfyZB39AuuEpT0yl%2FjnkCz4T4wvzD8EiSy6R8GpgxXveQLmrfE",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE7058oF31NUmpK98iuBt9uB9m9%2Fj8tpC4iUgvBoLSqG2QPssk6EQUE%2FXLpJuT8yZ4JGA7yDcpx2zNqD1QtF21cVR0YNLuqhhVuKKpnq%2Firt3om8g0AoD3lIS9I%2FAdtuaiivT0lAPh4%2Bd3ZTDOPO3D6yp",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -296,6 +279,23 @@
    "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 477.0,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
    "model": "MON:27-FHD-144Hz",
    "category": "MON",
@@ -398,7 +398,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8oq2RIDKpDADYCh7C4lYNKvu3gB1rxAT68Ophf5t7Qu9cY%2BOblasI%2BXv%2Ftkl7HZckULzHDacv5dSi0n4itHN2Tt3tbBnIC%2FJKp2NuOkhuNEzjBzBfioitIl6VmB6WBz5p3mIzvz1X8xglSgLsgJhxFKMz5mX%2FdooaDvMsT80iQZCQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8qF3DCQRjxJWtfV1o2I4iRQRZJUDtLBtnpNMva4sRH%2FXtmgZToLNFKH738Nc0JesIsVsG6bpzSYDW9ke%2BowWLDwTuxdVJcM1RNLLK5ARfwXs5fi7RB0VhmIoQ%2B2F2T5XoN0UujVUbq53WAbG7UEQ4BXSEDJjRYpJBUl5VP%2B6nUP6A%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -683,7 +683,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1729,
+  "listings_seen": 1728,
   "models_with_reference": 52
  }
 }
