@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T06:08:00Z",
+ "generated_at": "2026-11-15T06:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-15T06:08:00.674460+00:00"
+   "last_ok": "2026-11-15T06:38:00.669570+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T06:08:00.674460+00:00"
+   "last_ok": "2026-11-15T06:38:00.669570+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-15T06:08:00.674460+00:00"
+   "items": 366,
+   "last_ok": "2026-11-15T06:38:00.669570+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-15T06:08:00.674460+00:00"
+   "items": 7,
+   "last_ok": "2026-11-15T06:38:00.669570+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BJimER7P8g9FmGdQ3T1BpWlnUZd04FaYw0bwWGWD0xa%2BhUZPo6n2imiymWBAbZfj4Eisnclt5iU5vdMyA4lWbbOcJ8n8tKFl18xswVWIIKF0JfXQvdRa%2FAKQqedGt0kKrZA5H3bi%2B7JY3F%2F%2BzTiNenwDPSP26olgET4p8nKnQhYA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FNkYV9ZgWqzX4f1vRY9AaKkp2iBLT6MGXBAJJmeJ5RpUPINXMWXipDZRVIqwVf5g4PNkviYAPRk1PYgNa83FUDjhgE%2FOA990aD8oKW675vS%2FI6XTqpMGF5%2FObYdUYQvDuepePCCTCCn%2FAyYzHEVB15g3hu0PsT6bDP6pdjzX6mmQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYO%2BEPIU2lCjIJe1Gaj1esDAWyfmLUuKbWQBH5NSLUPO0GPdvnyIVJuH%2BrDSGUug2Oql%2BnYSjVbgslSVIVLNMLv%2BRMOOospj5UwwcaMmgzBVHKxoeh9waxTsOtjKIGqzufN5yZrT4E2r7%2Br4f9Busqv",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYJOk3JOSe8a49rdeoZVU%2FXEsgGelR07haqrr2PjZYl2BQOTga8kaQT2rF2BqEt3n%2FCZ1KcTZfqesa5QuR1jZuqWLw0McMcF3t40d2UoyTNakjkjA5cCBubSYRdxsrYT3PW3bDLXhHSEJhRj6bivCnu",
    "posted_at": "2026-10-24T22:43:47+00:00"
   },
   {
@@ -356,7 +356,7 @@
    "title": "Carte graphique Gainward GF9600GT 512Mo",
    "price_raw": "23.58 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUOtBdDuvPdWg3dyUm5cEYZnHHVbhk0tNpZh%2F6EnwnbfxqbbEZ3iXtGZZEaDRTT5fI5jPS2I97NXEDyQ%2FGX3ETz%2F5dLiVjgdI9X4AmOeJdLqNnCE0sYB2iu05wjXtN4sn3NWWN8N%2FChVVxqKgD2o5qpJTWy3tmBbNq%2B%2BtJVeHShVtg%3D%3D",
+   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUONDoZvgi80g9viqljPpIqtQGeAj4kGddHrTJryW6HoJi2FrB90xIxXxM%2BXBh8SZ8X109dcKYXvAwq9Kts7fURXdBomOc7N2LHsBUjozFbBFuvqdPTEkzJXg67Zs5btM6ed987AGMfDPz80fEuBEzhXjIIihyZk4HaSdIV%2FcD%2BWog%3D%3D",
    "posted_at": "2024-11-01T14:15:14+00:00"
   },
   {
@@ -440,7 +440,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8ryg6R%2FFjdWEHfSlBjkPUGqJqKm1qqq8%2BZSGUtchHC1C75eApKrp3N8%2F9WWgvsgXvnG4oaUj%2BPziqPlLp1ZSHWkQKMmlWId6jjswxzNmaDSwYgVSzkCrAvmcnAoUzbdAzsb98e9ODfJLpTjF3rO%2Bg31zlK1ySmnEYqDZtQLtuqhgA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8rWEDljrNU2AUhroEThPdm7nQo55dyfF3q0yGEadBz6KA%2Fop%2FKTfWc099b4b6I83DATJ8tg%2FGyO7K9SteZf%2Fhk8%2BbRaEylpFJRKRIpHGAIyJFF6wHT8qqQ8TFwhKQUA0BQ7aj6%2BU9qP7loy6jyiRt56R2X09Fb7Gsxew4iG5E4DFA%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -683,7 +683,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1711,
+  "listings_seen": 1710,
   "models_with_reference": 53
  }
 }
