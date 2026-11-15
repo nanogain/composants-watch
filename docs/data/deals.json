@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T13:08:00Z",
+ "generated_at": "2026-11-15T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-15T13:08:00.679025+00:00"
+   "last_ok": "2026-11-15T13:38:00.683436+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T13:08:00.679025+00:00"
+   "last_ok": "2026-11-15T13:38:00.683436+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-15T13:08:00.679025+00:00"
+   "items": 390,
+   "last_ok": "2026-11-15T13:38:00.683436+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-15T13:08:00.679025+00:00"
+   "items": 73,
+   "last_ok": "2026-11-15T13:38:00.683436+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,23 @@
    "posted_at": "2026-11-09T10:01:59+00:00"
   },
   {
+   "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 250 Go Garanti 5 ans",
+   "model": "SSD:NVMe-250Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 45.0,
+   "shipping_eur": null,
+   "effective_eur": 45.0,
+   "median_eur": 86.97,
+   "discount_pct": 48.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · playerone78 (100,0 %, 529 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327457745375?_skw=ssd&hash=item4c3e00a9df:g:3rgAAeSwq3Zq-bDI",
+   "posted_at": "2026-11-15T13:24:00+00:00"
+  },
+  {
    "title": "Disque SSD INTERNE M.2  128Go TOSHIBA  THNSNK128GVN8  SATA M.2  2280  - 128GB",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -109,23 +126,6 @@
    "posted_at": "2026-11-14T21:49:57+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "Kingston FURY Beast DDR4 32 Go (2x16 Go) 3200 MHz DIMM KF432C16BBK2/32",
    "model": "RAM:DDR4-32Go-3200",
    "category": "RAM",
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9XmuW1DKtZg9%2B%2BWRDbQalDoZ7YJ8yIdQqwzGgcEk27K%2Fi%2BGGWiC6oLaGKDIDiWz8YxS8N9lNrSdc3iN0DiX2V90zarOAidd8kEGoSHol3%2B3VcDZQjv3U1kYPmj7D2Pu3Ys0l3Kn%2F746IFrvnUdQ1E9HihDKRdhIWygRLo0U4RNwg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8ZUZsr6tRnGNnNf2XL6scukf2tIDhw%2FgmTjgVrqyqhM9RozceWXZy6QWHiJrWxaPoa45506WnFnOmZPM5VsMjRR45E8pN6NUnmSAdIYUm0aj%2FZQhLD3qPgptIWa5%2B3N47Ue1q84EiitXAnJWLf%2FzfWgNy%2BTc720D9NBCngTxTe4A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt7p5%2FIkZs2Xzpdg%2BITW5lvAd6qW0sIKysimJMGusyAIkPqarx%2FHbka2%2FaEi3BxhJvRId9FKznJHe3GWnCtmHEHaso9e%2FB19pDoaI2MeRnJBtOmiSfy1amVzJ9U%2Bw2C58ypuj0wAZSsLVHsBSKy5pm8m",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt4bL8gAJRcLrQgcOkwSevaVtf4OPz4TGPYjRU2N%2BjicqqT1%2BZhl2oou8zH0TVwGU8g8JtJt5kGqYIMGPi6wvzqpZXzKy09K%2Bzf5Fc7aSipWBMzfwnZVGEdyyyXqlVaZQZf1zm%2BXqm5VPJ%2Fpyw1w8o%2BZ",
    "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
@@ -211,6 +211,23 @@
    "posted_at": "2026-11-13T13:43:37+00:00"
   },
   {
+   "title": "Processeur Intel Core i5-8500 3,00 GHz 6 cœurs LGA1151 SR3XE",
+   "model": "CPU:Core i5-8500",
+   "category": "CPU",
+   "condition": "used",
+   "price_eur": 24.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.9,
+   "median_eur": 38.99,
+   "discount_pct": 36.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · recyclageinformatiquesologne (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
+   "posted_at": "2026-11-11T09:31:40+00:00"
+  },
+  {
    "title": "Kingston 240Go SSD  ( A400 - SA400S37/240G )  2,5\" SATA Interne PC (88%)",
    "model": "SSD:SATA-240Go",
    "category": "SSD",
@@ -241,8 +258,25 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYEEldrlpIbaI3KZi7pSNLciG86G7kXsvDKHbaZGrOAKvODuo0KynSp94sokohGySnHikzxu1wPcauXGG3N2bnQeeovNLkqdJQDDu6EKu1icK8PM5Qse4z4ysjafmTqL6ramkvyIhMPKDjZP42ikjPk",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIYD0mMjJf%2F209LIqa2Vap3nmDbQgAKG2%2FlfWfhEH609U9T3VuKtDKJwQzogQN%2Br8LIlhb115VptJ8sfx%2FwNCqWsiSWWyIMi5LmveacXltqaOFKJmNRoZAeMT1Fr%2Fu%2FFyXnSot51NivDiIFeSb4Tvb51",
    "posted_at": "2026-10-24T22:43:47+00:00"
+  },
+  {
+   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
+   "model": "SSD:NVMe-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 22.44,
+   "shipping_eur": 0.0,
+   "effective_eur": 22.44,
+   "median_eur": 28.58,
+   "discount_pct": 21.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
+   "posted_at": "2026-11-09T11:03:45+00:00"
   },
   {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
@@ -364,6 +398,23 @@
    "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
+   "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 1 To Garanti 5 ans",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 125.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 125.0,
+   "median_eur": 149.99,
+   "discount_pct": 16.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · playerone78 (100,0 %, 529 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327457765504?_skw=ssd&hash=item4c3e00f880:g:V08AAeSw6xhq-bPB",
+   "posted_at": "2026-11-15T13:30:57+00:00"
+  },
+  {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
    "model": "MON:27-FHD-144Hz",
    "category": "MON",
@@ -400,11 +451,11 @@
  ],
  "unclassified": [
   {
-   "title": "Yodoit Écran Portable 15,6\" FHD IPS HDMI USB-C Haut-parleurs PC Mac Xbox",
-   "price_raw": "103.99 EUR",
+   "title": "SK hynix DDR5 SO-DIMM 16 Go (2x8 Go) PC5-5600B HMCG66AGBSA095N AA",
+   "price_raw": "125.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731256118?_skw=%C3%A9cran+pc&hash=item42fe1e8b36:g:tGYAAeSwuxBq-aht&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lJu%2BFh53bouAlnLEqq7N1AA5mbaHS8uXUCVkot0vDlUMmm%2FFerM3gPt3N6nm4jG%2Btik0ZKHCFGxzU%2F8HtTxmCldeFmlzqB%2BKFm6w98tVh9W5uksBvp5g7D2e4peC%2BVPaiTpPGqUr6HtfwjJoPbHLtDskQ6yLIOPznsW%2FjMWO3Le53ZGVgrEWmALsF2BHS2nt27ety29oZPwSKruErbOGmgShSb8lZOmk6Ug64q9G3nR2Au2JM9V1h%2BMQ5kVBkNKz98eS1FezauuOhMOe5%2FqsdVlrA4%2BtMfnJSWakZSHtoWhg%3D%3D",
-   "posted_at": "2026-11-15T12:41:31+00:00"
+   "url": "https://www.ebay.fr/itm/880119569373?_skw=ddr5&hash=itemcceb36dbdd:g:ONIAAeSwbZ1q-a~x",
+   "posted_at": "2026-11-15T13:19:56+00:00"
   },
   {
    "title": "Imprimante HP smart tank 570",
@@ -442,6 +493,13 @@
    "posted_at": "2026-11-15T11:33:07+00:00"
   },
   {
+   "title": "Moniteur Ordinateur Portable Arzopa A1 Gamut Fine De 14 \" FHD Avec HDMI Usb-C PC",
+   "price_raw": "179.94 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227614959041?_skw=%C3%A9cran+pc&hash=item34fee8a5c1:g:-rsAAeSwWcBq-Wl2&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nvlN%2B%2BtyEErTbI5Tl0or01QZv7qnIgPedgo2buNK6HfeymuKxBDGFHkCPDxU1w3drsF0SG6EMUkVf0L6F0Wo8OfjfwetqsQHoFdITZ4o%2FmIe%2FBo%2B2H6Sstb9vxdAccNH31Tvjaq1iE1eOCctQ9cowvrwYAGvbfGDSuIC2Y0QLhMDX3wh1PxgqmAnzQ2AcYwFsSZiLsyMjP73EOYNyvAA5E%2F6fmBQY4%2BiQItVxf6aZ6dbLtfJtrNBM32tF%2B%2F%2BRSgidWLIilCfC0IzEu5D%2FK2xOq%2FRz7YT73%2BIlxrwrIdOkiRA%3D%3D",
+   "posted_at": "2026-11-15T05:08:36+00:00"
+  },
+  {
    "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
    "price_raw": "1 097,14€",
    "source": "dealabs",
@@ -466,7 +524,7 @@
    "title": "magic keyboard - A2450 - allemand Suisse ( QWERTZ)",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejWWYqc9KBwjZP38v4BVBJqwiY%2F632174LrxbNPVmv5MPe7TXVyrW7kb9iwm%2B4HF29VNc5v7M4kP%2FcKdnL45OrSEAYwQQSZfc%2BLbLJ1UFQkbDf7kbVN7MgUkTQmxaM5iiz6mlVQAfPqHtAurQpyC7H7K",
+   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejWCZdWMSQxi6c%2B%2FtRdqVPy9VHyZ6WMRFCneYooAv9NDUoAIlbwZs%2BESrvJLnujJMU5ZLDKXaBzTjy21JaD0f980aZh11VvXtYr%2FGb7vHVGWGXCQnbiPh3qy%2BXh9%2BpEcWsDZTI6Dz2D5Pmv%2BW%2Bsd6W3O",
    "posted_at": "2026-11-15T10:27:10+00:00"
   },
   {
@@ -484,32 +542,11 @@
    "posted_at": "2026-11-15T09:15:14+00:00"
   },
   {
-   "title": "#2 RAM Samsung 16GB (2x8GB) DDR4 So-Dimm PC4-3200 Neuves",
-   "price_raw": "78.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307283457272?_skw=ddr4&hash=item478b8574f8:g:QckAAeSw3rBq5Pw0",
-   "posted_at": "2026-11-15T09:22:05+00:00"
-  },
-  {
    "title": "Kingston FURY Beast 32 Gb (1x32 GB) 3600MHz DDR4 CL18 Desktop Memory",
    "price_raw": "409.60 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/840130619579?_skw=ddr4&hash=itemc39bafe8bb:g:~uAAAeSw7oNq6z16",
    "posted_at": "2026-11-15T09:24:44+00:00"
-  },
-  {
-   "title": "#2 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307283456588?_skw=ddr4&hash=item478b85724c:g:EqcAAeSwvr1q75cX",
-   "posted_at": "2026-11-15T09:21:01+00:00"
-  },
-  {
-   "title": "#1 RAM Samsung 8GB DDR4 So-Dimm PC4-3200 Neuve",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307283456427?_skw=ddr4&hash=item478b8571ab:g:5pQAAeSw1hlq75bl",
-   "posted_at": "2026-11-15T09:20:43+00:00"
   },
   {
    "title": "SK hynix 8 Go DDR4 SO-DIMM 260 broches PC4-2400T HMA81GS6AFR8N-UH",
@@ -578,7 +615,7 @@
    "title": "Carte graphique Gainward GF9600GT 512Mo",
    "price_raw": "23.58 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUMydfg2lH0UuQDDuFJJMJxl9Cyo%2FKbeLOFTsohqhVIfpKFKJmPQJ8p1QNPCuvfl%2FATLHca8ZAoaYKbzps6R3PuRH54pyltAiEvEBCmulCOnyxDsZCHhp29Sipw%2BInYmwynCtTYFArbX8svdue%2F8CzO7EZbXu9cleHc7KJtWjHieNA%3D%3D",
+   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUMYYzeyKubHmA2dSXwrMfQ2dTF%2F0lun%2FtDdIvVgbzP5kewZtOCJXKusC7AiuLjUAgowjlxm6q%2FRGSgT3bKt1ExTHKexdv%2BodkXteR74dIMLOzpYVYivotfBAbcv5RCeQam%2FzuzSQZzD82r7Y9VLmt8pmVEuMRDN37yCEy02%2FrBhwA%3D%3D",
    "posted_at": "2024-11-01T14:15:14+00:00"
   },
   {
@@ -748,10 +785,24 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/307282488347?_skw=ddr5&hash=item478b76ac1b:g:3oEAAeSwpT9q-H5u",
    "posted_at": "2026-11-14T15:37:59+00:00"
+  },
+  {
+   "title": "Pack Philips Hue Play x2 + Play HDMI Sync Box 4K - Noir",
+   "price_raw": "239,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-philips-hue-play-x2-play-hdmi-sync-box-4k-noir-3455465",
+   "posted_at": "2026-11-14T15:11:19+00:00"
+  },
+  {
+   "title": "Imprimante multifonction Epson EcoTank ET-3956 - Blanc (via 60€ d'ODR)",
+   "price_raw": "239,48€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-3956-blanc-rectoverso-auto-impression-et-scanner-3455444",
+   "posted_at": "2026-11-14T14:52:30+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1714,
-  "models_with_reference": 51
+  "models_with_reference": 52
  }
 }
