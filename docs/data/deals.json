@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T05:08:00Z",
+ "generated_at": "2026-11-15T05:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-15T05:08:00.659867+00:00"
+   "items": 345,
+   "last_ok": "2026-11-15T05:38:00.661675+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T05:08:00.659867+00:00"
+   "last_ok": "2026-11-15T05:38:00.661675+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-15T05:08:00.659867+00:00"
+   "items": 365,
+   "last_ok": "2026-11-15T05:38:00.661675+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 70,
-   "last_ok": "2026-11-15T05:08:00.659867+00:00"
+   "items": 1,
+   "last_ok": "2026-11-15T05:38:00.661675+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B998iLfX142tGQHV%2BTMic3uYhtWnhJpE9F73JrTZRdnr8X36xgx%2BktjtvQDNp9fcG3xPPROzv3FN64MLN36AYQSeJXNRLmZUZLSuoln7VSVxupXHqIP%2F4slXmmETR4VjCUnNuSp99JGZn5m6LJX4JWM0VfBrlu0liraff5aIqs0Eg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FahtSBaMBjYP9Ordlf48WJAuv6SVv%2FZBO2etLfUfT%2F5oJr4FSdWrr6H6w%2BVqrK8%2FxNswTbEzwhpth5elMyPD3kr2K9%2BaLrDb8nFSvWkfyihZ5GPqVHyDGv%2FRgpKK%2BNjmxIJsIkjXFn1y4HLSfMbcLQgMCkATVSsBT21yHs0e71pw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,8 +190,25 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZrQFamOjBmcQBbT%2Bjd3lILrr9ReQM3dy4EIFbO8eRiX9ZL2zne45ERZIEksKlhLYr7U%2BCQPyGUKO%2FlCZ0TZommNudsyWM5iY5hsy7FjsdvCsrHEZ%2BgKmiTnJn%2Bv3RUNSxpswaXgaoJsuATAt%2BndpoQ",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIaqQkLTptA7R5eljbGJz5rnnSPtKJAsCqR9Czc3cJcOjz528Zvw%2FPkSOeV3JwGOZvVtGy7trfbKTa00Ap7B3ii3z9m1fUtOQ9G76FLgvlnx8hh5I0oKAZk9kVjskSifMfA5LtW1xlQi3kARZlTKe%2FD7",
    "posted_at": "2026-10-24T22:43:47+00:00"
+  },
+  {
+   "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 46.2,
+   "shipping_eur": 3.78,
+   "effective_eur": 49.98,
+   "median_eur": 63.89,
+   "discount_pct": 21.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,5 %, 200 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73VRPzVV5NfTHV9k9Ymy9LQkLFcERSgS%2Bg0afr3y1gEBtjqtRUg2FZN2G75fTk58Tj58kAM%2BTWZk8Ept7u%2FUGP98sxu%2F0BMx0LBH0bVlYRJShvqcAMFG505oFcdVXADeslX6IEfrtMiOOQeY5Xgs83h",
+   "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
@@ -296,23 +313,6 @@
    "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
    "model": "MON:27-FHD-144Hz",
    "category": "MON",
@@ -328,23 +328,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-27-fhd-144hz-ips-1ms-freesync-3455552",
    "posted_at": "2026-11-14T17:28:48+00:00"
-  },
-  {
-   "title": "SSD WD Western Digital PC SN530 256Go NVMe M.2 2230 PCIe 3.0 + Support 2280",
-   "model": "SSD:NVMe-256Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 22.44,
-   "shipping_eur": 0.0,
-   "effective_eur": 22.44,
-   "median_eur": 26.6,
-   "discount_pct": 15.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860127576342?_skw=ssd&hash=itemc843994116:g:VSkAAeSw9uxq8agN",
-   "posted_at": "2026-11-09T11:03:45+00:00"
   }
  ],
  "unclassified": [
@@ -373,7 +356,7 @@
    "title": "Carte graphique Gainward GF9600GT 512Mo",
    "price_raw": "23.58 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUPAThIhiHk6crQKWRzCUjl9Xb65qL%2FD9VeT%2FuQojxmAXFwHfZvkbJg8lZ2eZIAEWK5dlL7bvYwbd2txZyITxGdao4sedNumOud%2Bq3%2FlAeKMQkiIs5D%2BYTM8bJ5XScTc%2BUfMcmMnwk7YUALW2UcugKgdMtYKOoxMQwI4rG4N%2F4MDkQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/315911345933?_skw=carte+graphique&hash=item498dc8970d:g:WA0AAOSwUMxnJOIJ&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k64IkeEhPcMRyaFlw1afaNsj6cnYjyr5li3Aq9p%2FgXYXDI36XwjyeM1VsNaFpY0emMiNTEEUaHFXGUV9yY%2Fzde7FdHwqnz9ZAEOgKcRBXN9nq4QkZqekpwR0fucdjtkUNqOCNN%2FsmDs%2FgD6Zl1H9yQO0lZ7mm%2Bjw9NSejVuK4MpFwUwE2lCWvfTsilZTxSUWyBLLLae%2FCr1RAIpsZmqIw0BfGyiN1p%2F4KJXtO78IWEv87S2t3CPmZNVV8piW6aePxr5QaV9HWJP%2FpLOkfJUqiGlCI78yK4FXIsRcOl1Kikmw%3D%3D",
    "posted_at": "2024-11-01T14:15:14+00:00"
   },
   {
@@ -457,7 +440,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8p1JR8GOgCxpXCw5KEdLdwsAsTJUykRvWBjGII4jWS1UakQbYtyQAD8jl0YkL5Xb5BPj0FDa6Iun0mmBQqUKp1HmEYuPtoRYtm7Dl%2FVCaUvh%2F%2BQGyYDo1ZoqfjQz88Thg%2FqISENrfvjCFLZnl0vF1zaLaNk6sAdgFc7eG%2BGsJIokQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8qoJCknAgBCoXSHqfpoK1LhLtH0MLqDx%2F9DnTlKx4Owp5o7PmWUgoXW9js34jtliWrD93V33CMgjRvmmLAIAFiCZqstFvSIIIIkc3SUGo3hAQUMeHOYoHo4x5bzE5ltVT9A%2FREbH%2F%2B%2FR40kSR4JQqFuQhqzX%2ByYf6QCGV0hBE560Q%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -622,13 +605,6 @@
    "posted_at": "2026-11-14T14:12:59+00:00"
   },
   {
-   "title": "Mars Gaming MC-CORE Boîtier PC Blanc Tour Micro-ATX Verre Trempé RGB Face Avant",
-   "price_raw": "31.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307282379186?_skw=boitier+pc&hash=item478b7501b2:g:1DsAAeSwzkZq-C6p",
-   "posted_at": "2026-11-14T13:56:54+00:00"
-  },
-  {
    "title": "PC 16'' Portable Asus Vivobook 16 - X1607CA-MB307W WUXGA 60 Hz Intel Core Ultra 9 16 Go RAM 512 Go SSD Gris clair",
    "price_raw": "799,99€",
    "source": "dealabs",
@@ -697,10 +673,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-ecotank-et-2956-avec-reservoir-dencre-20-immediat-et-odr-de-40eur-3455139",
    "posted_at": "2026-11-14T08:57:48+00:00"
+  },
+  {
+   "title": "Carte WiFi 6 TP-Link PCIe AX1800 avec Bluetooth 5.2, Archer TX20E Double bande, WPA3, antennes haut gain, Bluetooth 5.2",
+   "price_raw": "27,27€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tp-link-carte-wifi-6-pcie-ax1800-avec-bluetooth-52-archer-tx20e-double-bande-wpa3-antennes-haut-gain-bluetooth-52-3455126",
+   "posted_at": "2026-11-14T08:50:21+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1710,
-  "models_with_reference": 52
+  "listings_seen": 1711,
+  "models_with_reference": 53
  }
 }
