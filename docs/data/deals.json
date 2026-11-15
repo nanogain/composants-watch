@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T20:08:00Z",
+ "generated_at": "2026-11-15T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 345,
-   "last_ok": "2026-11-15T20:08:00.672247+00:00"
+   "items": 347,
+   "last_ok": "2026-11-15T20:38:00.624002+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T20:08:00.672247+00:00"
+   "last_ok": "2026-11-15T20:38:00.624002+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-15T20:08:00.672247+00:00"
+   "items": 374,
+   "last_ok": "2026-11-15T20:38:00.624002+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 1,
-   "last_ok": "2026-11-15T20:08:00.672247+00:00"
+   "items": 66,
+   "last_ok": "2026-11-15T20:38:00.624002+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B33jH%2FgfC1LCdS0nO6uGlRdNDmrnDrBjM7yVqHETgGb%2BZkay0k%2FTLKmVBkkrcS6pZhthUw8HIRQ641mh%2FSFQiMdUPDBq8DT9wj%2B44AUSO1w5jkWrTakBLVvCHZg%2FohLq2LiNIEeqn6VPGm06ODLjahzmvHpngV79AXlkaAJn4AAA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9YLvJBTRY8sPlnbltnfDxpKOUnC2YfZHZbh%2BgQIMD4y9UIILrGpknHK2JKOhH4kQX2Czqd4WzwAhZbz%2BCnm%2Bx1fR%2FM%2FQSU4344XR%2FdjrTf4RtjDVkV9e27PzVvicB4oTzlmGUkMSiO1U%2BqziezdAtx5HBExLiSarWRaewNXTPDcw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt4x2DpWGuMf9JLQ7r%2F1UvlerUyoNM0eyXHWabZibMshPojm5Ds02sPWXL27cINZfcSWetCeG5LxBurkUtLSfuV9Q9T2NPMHu%2BDMa%2FReWdfrK14EV838Go2c5VXwU9xNX1DdJAr0aIgFh8L%2FZuCCh7nO",
    "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
@@ -262,7 +262,7 @@
    "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
-   "title": "Ecran PC Gaming 27\" Samsung Odyssey G5 LS27FG530EUXEN - QHD (2560 x 1440) IPS, 200 Hz, Freesync Premium, 1 ms",
+   "title": "Ecran PC Gaming 27\" Samsung Odyssey G5 S27FG530EU - QHD (2560 x 1440) IPS, 200 Hz, Freesync Premium, 1 ms",
    "model": "MON:27-QHD-200Hz",
    "category": "MON",
    "condition": "new",
@@ -286,8 +286,8 @@
    "price_eur": 22.44,
    "shipping_eur": 0.0,
    "effective_eur": 22.44,
-   "median_eur": 28.58,
-   "discount_pct": 21.5,
+   "median_eur": 28.63,
+   "discount_pct": 21.6,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
@@ -364,23 +364,6 @@
    "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 477.0,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 1 To Garanti 5 ans",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -450,6 +433,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 14\" Asus Zenbook A14 UX3407 - Snapdragon X2 Elite, GPU Qualcomm Adreno, RAM 32 Go LPDDR5X, SSD 1 To, Windows 11",
+   "price_raw": "1 419,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-asus-zenbook-a14-ux3407-snapdragon-x2-elite-gpu-qualcomm-adreno-ram-32-go-lpddr5x-ssd-1-to-windows-11-3456431",
+   "posted_at": "2026-11-15T20:10:50+00:00"
+  },
+  {
+   "title": "[Adhérents] PC Portable 16\" MSI Prestige 16 Flip B390 C3MTG-074FR - Intel Core Ultra X9 388h, 32 Go RAM, 1 To SSD",
+   "price_raw": "1 349,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-msi-prestige-16-flip-ai-c3mtg-074fr-16-ecran-tactile-copilotpc-intel-core-ultra-x9-32-go-ram-1-to-ssd-3456426",
+   "posted_at": "2026-11-15T19:56:05+00:00"
+  },
   {
    "title": "Camera EMeet S800 4K HDR • Streaming / Webcam",
    "price_raw": "95,60€",
@@ -598,13 +595,6 @@
    "posted_at": "2025-10-23T04:15:30+00:00"
   },
   {
-   "title": "Mini PC GMKtec Nucbox M8 AMD Ryzen 5 PRO - 6650H, 1 Go SSD",
-   "price_raw": "379,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/gmktec-nucbox-m8-amd-ryzen-5-pro-6650h-mini-pc-3456304",
-   "posted_at": "2026-11-15T16:37:38+00:00"
-  },
-  {
    "title": "Ramaxel 8 Go DDR4 SO-DIMM PC4-3200AA 260 broches non ECC non tamponnée",
    "price_raw": "30.86 EUR",
    "source": "ebay",
@@ -724,18 +714,18 @@
    "posted_at": "2026-02-09T14:17:06+00:00"
   },
   {
+   "title": "Gigabyte GA-MA790X-UD3P Motherboard AMD AM2/AM2+/AM3 790X + SB750",
+   "price_raw": "94.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/298586721818?_skw=carte+m%C3%A8re&hash=item458527ce1a:g:E7YAAeSwwRFp~10E",
+   "posted_at": "2026-08-14T05:52:38+00:00"
+  },
+  {
    "title": "RAM Samsung 16 Go DDR4 SO-DIMM PC4-25600 3200  PC portable",
    "price_raw": "79.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860145721378?_skw=ddr4&hash=itemc844ae2022:g:LJoAAeSwAbVq-ZYy",
    "posted_at": "2026-11-15T11:24:58+00:00"
-  },
-  {
-   "title": "Moniteur Ordinateur Portable Arzopa A1 Gamut Fine De 14 \" FHD Avec HDMI Usb-C PC",
-   "price_raw": "179.94 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227614959041?_skw=%C3%A9cran+pc&hash=item34fee8a5c1:g:f0AAAeSwd2Zq-b1a&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nvlN%2B%2BtyEErTbI5Tl0or01QZv7qnIgPedgo2buNK6HfeymuKxBDGFHkCPDxU1w3drsF0SG6EMUkVf0L6F0Wo8OfjfwetqsQHoFdITZ4o%2FmIe%2FBo%2B2H6Sstb9vxdAccNH3SeZmFKvXqPqZo3bXH3Shh07zH8AT9e124ZK44gA9DMr1Ki%2Frta8601sK%2FT%2FoIsOnw5QvtdDPy9jZ0lUKnauNz%2B8inQkXxyzyve77ZjmJtCc%2FekELSB4XGqILApblFDorMlOa3iBk4TjAlKmXOs20pFPqyEiq16%2Fi7jItc5%2BqlWw%3D%3D",
-   "posted_at": "2026-11-15T05:08:36+00:00"
   },
   {
    "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
@@ -755,7 +745,7 @@
    "title": "magic keyboard - A2450 - allemand Suisse ( QWERTZ)",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejVsfXyfbV74UCBH5vSlyR0wr3giPdyMkq5QtqgVdGkDO7GlPdaL8BAerQDo6JfbWmkOP2m2nBkno13jEU7jnBgZ%2FqWzIODBkei29pOgX5ZMdnKYKQu4NWHao1mi3grUfav905S8EQBR7For2ONFGr%2B%2B",
+   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejWdmXqv%2Fo5iNan1eY%2Bav6IM4LoSq5X12%2BE5jLveDfX6XkvV%2FXtrnWJh0qSl6omEeTbAXtDfN9L2mDuVHyxN7sFOIxuZxoB044q%2FGySm7Sic%2BJ4WuxgngWoy9fMAW1maBbzez%2FPPG0FD7j0amMxdAoKK",
    "posted_at": "2026-11-15T10:27:10+00:00"
   },
   {
@@ -792,17 +782,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-16-go-ram-512-go-coloris-au-choix-3455858",
    "posted_at": "2026-11-15T07:16:12+00:00"
-  },
-  {
-   "title": "[Monitor] 27 Inch Odyssey OLED G8 G80SH 4K ($479 with Edu discount)",
-   "price_raw": "$479",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwp4oy/monitor_27_inch_odyssey_oled_g8_g80sh_4k_479_with/",
-   "posted_at": "2026-11-15T07:11:14+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1732,
+  "listings_seen": 1721,
   "models_with_reference": 51
  }
 }
