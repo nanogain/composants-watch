@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T20:38:00Z",
+ "generated_at": "2026-11-15T21:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-15T20:38:00.624002+00:00"
+   "items": 350,
+   "last_ok": "2026-11-15T21:08:00.680628+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T20:38:00.624002+00:00"
+   "last_ok": "2026-11-15T21:08:00.680628+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 374,
-   "last_ok": "2026-11-15T20:38:00.624002+00:00"
+   "items": 378,
+   "last_ok": "2026-11-15T21:08:00.680628+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 66,
-   "last_ok": "2026-11-15T20:38:00.624002+00:00"
+   "items": 7,
+   "last_ok": "2026-11-15T21:08:00.680628+00:00"
   }
  },
  "watchlist": [
@@ -109,23 +109,6 @@
    "posted_at": "2026-11-14T21:49:57+00:00"
   },
   {
-   "title": "Processeur Intel Core i5-8500 3,00 GHz 6 cœurs LGA1151 SR3XE",
-   "model": "CPU:Core i5-8500",
-   "category": "CPU",
-   "condition": "used",
-   "price_eur": 24.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 24.9,
-   "median_eur": 40.99,
-   "discount_pct": 39.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · recyclageinformatiquesologne (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
-   "posted_at": "2026-11-11T09:31:40+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9YLvJBTRY8sPlnbltnfDxpKOUnC2YfZHZbh%2BgQIMD4y9UIILrGpknHK2JKOhH4kQX2Czqd4WzwAhZbz%2BCnm%2Bx1fR%2FM%2FQSU4344XR%2FdjrTf4RtjDVkV9e27PzVvicB4oTzlmGUkMSiO1U%2BqziezdAtx5HBExLiSarWRaewNXTPDcw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8x4c76LPIv7140DnIgbJDU2prHbo7NYts8ZH0CZ%2FmIunx5qUgiRpUc79o18dGwuntHOkhRMpuAMPpnfVmdsRx77CkZDWy8BwAhmwn0GMgM9meADSq%2FR%2Ff%2FnxSTtUWFy9tFQuIulu5mC5WJ5ZR1rM3AWuk5kzbKAwgDCwcS7H5d0g%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt4x2DpWGuMf9JLQ7r%2F1UvlerUyoNM0eyXHWabZibMshPojm5Ds02sPWXL27cINZfcSWetCeG5LxBurkUtLSfuV9Q9T2NPMHu%2BDMa%2FReWdfrK14EV838Go2c5VXwU9xNX1DdJAr0aIgFh8L%2FZuCCh7nO",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt4Lm6rOPMvT4y9fshkQpz5JsiWK4gOi4DtBq6xuFyY491C4jly0Ye29%2Bk5WPhECY7sL3KIWFozjcG1yaaO6byVcTuJP5O33eqLEUQV2oEHbl8i3eDkn03L80Q%2BpNn19UYkZx8%2FR%2FcpoT4FeJlGLacga",
    "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
@@ -330,6 +313,23 @@
    "posted_at": "2026-11-15T08:06:18+00:00"
   },
   {
+   "title": "Samsung PM871b 256 Go SSD interne M.2 SATA OEM MZNLN256HAJQ-000D1",
+   "model": "SSD:SATA-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 21.91,
+   "shipping_eur": 3.47,
+   "effective_eur": 25.38,
+   "median_eur": 31.8,
+   "discount_pct": 20.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ngrcrypto (100,0 %, 64 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147681732995?_skw=ssd&hash=item2262846983:g:aYEAAeSwkWZq-boW",
+   "posted_at": "2026-11-15T14:01:11+00:00"
+  },
+  {
    "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
    "model": "MON:24-FHD-100Hz",
    "category": "MON",
@@ -433,6 +433,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Macbook M5 512 Go",
+   "price_raw": "1 099€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/macbook-m5-512-go-3456475",
+   "posted_at": "2026-11-15T21:07:25+00:00"
+  },
+  {
+   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7 (Plusieurs coloris)",
+   "price_raw": "1 199€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-ram-16-go-ssd-512-go-wifi-7-3456472",
+   "posted_at": "2026-11-15T21:03:25+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast RGB DDR5 - 16 Go (1 x 16 Go) - 6000 MT/s C36 - AMD EXPO - B",
+   "price_raw": "456.76 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336104681865?_skw=ddr5&hash=item4e41667189:g:dYAAAeSwh5Bq-gz9",
+   "posted_at": "2025-08-03T01:28:32+00:00"
+  },
+  {
+   "title": "Écran Moniteur PC MSI Pro MP275 27 Full HD 100Hz IPS HDMI VGA Haut-Parleurs Neuf",
+   "price_raw": "162.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/127801284489?_skw=%C3%A9cran+pc&hash=item1dc18cd789:g:oXMAAeSw9-pp18yl",
+   "posted_at": "2026-04-09T19:27:15+00:00"
+  },
   {
    "title": "PC Portable 14\" Asus Zenbook A14 UX3407 - Snapdragon X2 Elite, GPU Qualcomm Adreno, RAM 32 Go LPDDR5X, SSD 1 To, Windows 11",
    "price_raw": "1 419,99€",
@@ -700,6 +728,13 @@
    "posted_at": "2026-11-15T13:19:56+00:00"
   },
   {
+   "title": "Yodoit Écran Portable 15,6\" FHD IPS HDMI USB-C Haut-parleurs PC Mac Xbox",
+   "price_raw": "103.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287731256118?_skw=%C3%A9cran+pc&hash=item42fe1e8b36:g:tGYAAeSwuxBq-aht&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lJu%2BFh53bouAlnLEqq7N1AA5mbaHS8uXUCVkot0vDlUMmm%2FFerM3gPt3N6nm4jG%2Btik0ZKHCFGxzU%2F8HtTxmCldeFmlzqB%2BKFm6w98tVh9W5uksBvp5g7D2e4peC%2BVPaibdlkh8i0ojVQFyzPMn6HFQcg64HNK5Tw1KLzCBIhr73Py9pkAbqdRpWh0TAwQXQSVX%2FRDSMPN2SLgre6OmMp4EMXaIGo3Pv61MZIu8CgG8Oq%2FU1AGMHsLwZKQOto446cwjXtl7PuLZHGF1Ij10vKc2iudww75P431lV5rA44HhA%3D%3D",
+   "posted_at": "2026-11-15T12:41:31+00:00"
+  },
+  {
    "title": "Imprimante HP smart tank 570",
    "price_raw": "129,99€",
    "source": "dealabs",
@@ -721,13 +756,6 @@
    "posted_at": "2026-08-14T05:52:38+00:00"
   },
   {
-   "title": "RAM Samsung 16 Go DDR4 SO-DIMM PC4-25600 3200  PC portable",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860145721378?_skw=ddr4&hash=itemc844ae2022:g:LJoAAeSwAbVq-ZYy",
-   "posted_at": "2026-11-15T11:24:58+00:00"
-  },
-  {
    "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
    "price_raw": "1 097,14€",
    "source": "dealabs",
@@ -745,15 +773,8 @@
    "title": "magic keyboard - A2450 - allemand Suisse ( QWERTZ)",
    "price_raw": "63.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejWdmXqv%2Fo5iNan1eY%2Bav6IM4LoSq5X12%2BE5jLveDfX6XkvV%2FXtrnWJh0qSl6omEeTbAXtDfN9L2mDuVHyxN7sFOIxuZxoB044q%2FGySm7Sic%2BJ4WuxgngWoy9fMAW1maBbzez%2FPPG0FD7j0amMxdAoKK",
+   "url": "https://www.ebay.fr/itm/287731069969?_skw=clavier&hash=item42fe1bb411:g:JccAAeSwp4Jq-Yci&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kCa34UW5fXZozNmWwM44%2FbNx9fkFYqr8%2BJHB8W%2F84gg7zNH1DoTxE7fp9%2BVeMdh4f%2BTYZ2i6NLE8Nf3dbdGoRzKpvB1v5IHcqHu4uln%2BOaaEMhbb07a2q7yN9gd7oZejW4h2PWL0mfEFVJqPUTY%2F1XCeO%2BukBci0rcm4HDyQing5YoJpUmMJ%2FQbmbRhCIFwDLhIP4gQhur%2FVvha%2F%2BsDueWXgFyLEhc%2FysXzCYV0krGqQvvr1pTiBI8EeN3pAXSJ%2F%2BXSJamdP6bRUnjFZF4jSHb",
    "posted_at": "2026-11-15T10:27:10+00:00"
-  },
-  {
-   "title": "T7 - 1TB - 1To - SSD Externe  SAMSUNG  Gris USB 3.2 - Gen 2 - Jusqu’à 1050 Mo/s",
-   "price_raw": "149.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287731013912?_skw=ssd&hash=item42fe1ad918:g:QA8AAeSwFalq-XH2",
-   "posted_at": "2026-11-15T09:39:02+00:00"
   },
   {
    "title": "Écran 32\" MSI MAG 321UP - QD-OLED X24, 240 hz",
@@ -761,31 +782,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-mag-321up-qd-oled-x24-monitor-3455949",
    "posted_at": "2026-11-15T09:15:14+00:00"
-  },
-  {
-   "title": "Lot de 2 Caméras de Surveillance EufyCam C37 - 4K, 360°, Panneau Solaire",
-   "price_raw": "160,38€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-2-cameras-de-surveillance-eufycam-c37-4k-360-panneau-solaire-3455897",
-   "posted_at": "2026-11-15T08:19:25+00:00"
-  },
-  {
-   "title": "[Laptop] Acer Aspire 16 AI 16\" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc ($460) eBay Certified Seller",
-   "price_raw": "$460",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwprwc/laptop_acer_aspire_16_ai_16_intel_ultra_5_226v/",
-   "posted_at": "2026-11-15T07:51:29+00:00"
-  },
-  {
-   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, 16 Go RAM, 512 Go, coloris ciel",
-   "price_raw": "1 199€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-16-go-ram-512-go-coloris-au-choix-3455858",
-   "posted_at": "2026-11-15T07:16:12+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1721,
+  "listings_seen": 1731,
   "models_with_reference": 51
  }
 }
