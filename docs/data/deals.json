@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T02:38:00Z",
+ "generated_at": "2026-11-15T03:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-15T02:38:00.676117+00:00"
+   "last_ok": "2026-11-15T03:08:00.682539+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-15T02:38:00.676117+00:00"
+   "last_ok": "2026-11-15T03:08:00.682539+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 360,
-   "last_ok": "2026-11-15T02:38:00.676117+00:00"
+   "items": 361,
+   "last_ok": "2026-11-15T03:08:00.682539+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-15T02:38:00.676117+00:00"
+   "items": 7,
+   "last_ok": "2026-11-15T03:08:00.682539+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ace-nitro-vg272uw2bmiipx-qhd-dalle-ips-240hz-1ms-freesync-premium-3454351",
    "posted_at": "2026-11-13T13:14:00+00:00"
+  },
+  {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 32.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 32.99,
+   "median_eur": 69.99,
+   "discount_pct": 52.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-02T08:24:05+00:00"
   },
   {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BevfOWNlmsQqJfgxhtVq0PshmcOQi58F4TsAUlZx9cT4UvQT94Kb9f2ClzsIenvTS32Lc7IHTokmO1kZ2KLdjGihI%2FNT8IfetK35xvVNaBxQQzlK3hzM%2B7pkCuFBka4cfMmfkiPlN4FZt8SNClTo4Uax%2B%2FZLhiEZwKI1jH5kjLkw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FuFQoZ%2FwSIKRkg3oxfLmDus7McPbOjs%2BPfcDgW0dFAcJ2w8%2Bo0F2yTCgevCEAbGa%2Fbm%2FWnNRmXO00yOg0MEx9dn16wyb0vGstP7P7Lu4U1J--BSk4rVbml5AMU0I6ayQje36uWTKawgniwD4dShyXW9OcvscQ2BcpDsQI7UuYymQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -139,8 +156,25 @@
    "suspect": false,
    "merchant": "eBay · prixbas100 (100,0 %, 180 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZ27YrD4JV74iEYmg5C81mmRS0YN7jJI1SIn2Boy9odYvk6lHl2OA8LpLuM1qnpX7OF8ihFNWh4r3z08zNlQCWuKIKhmWEtLViPi6EUkJ%2FWn5V18orO%2BE0UDDZmXvECQpTJQ5NAvA7%2BNniuTQqQ6HR1",
+   "url": "https://www.ebay.fr/itm/820274342923?_skw=ddr4&hash=itembefc292c0b:g:GfAAAeSwwatp3k11&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k5GV5v4sXOJ1Dx3Y%2Bo0FLmo4ln1%2Fh0bPbNKwET%2BuxWPGqtnR8nNTJSjormpoY%2BUxcnwW%2FYj3mC21HxPqO4LbhM%2F4%2F4Aid7TZE4pCFekjo8%2BXcsn06wNjAflGbScLFmoIZ9E9yB5n8m47R%2Fr0yPHSail91%2Fh8DhZT%2BPgNU12Pq1%2Fu7CntC7WHqJWxi3%2BnoM9TnInX4OhIV4wzJ%2F4rdwF8jJtmCBy4wGjbsSyTHi1dR4cVf4gZZKuhpqWJrZQbb0jUxrQOqiez6w7MD6ibAxSf1Z",
    "posted_at": "2026-10-24T22:43:47+00:00"
+  },
+  {
+   "title": "FIKWOT SSD SATA III 6Go/s Disque SSD SATA 2,5 Pouces 256Go 512Go 1To 2To 4To LOT",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 69.99,
+   "discount_pct": 28.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fik-8981 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366661908866?_skw=ssd&hash=item555ec0b982:g:l8wAAeSwRRNqctvs",
+   "posted_at": "2026-09-11T06:05:29+00:00"
   },
   {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
@@ -326,17 +360,10 @@
    "posted_at": "2026-11-14T22:46:38+00:00"
   },
   {
-   "title": "Samsung 16Go DDR5 SDRAM SO-DIMM PC5-5600B 1 Module M425R2GA3PB0-CWM0L",
-   "price_raw": "234.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267843824159?_skw=ddr5&hash=item3e5cbc6a1f:g:fsMAAeSwMmBqz7En",
-   "posted_at": "2026-11-14T22:58:09+00:00"
-  },
-  {
    "title": "SOVERECA RAM 16 Go DDR4 SDRAM ECC SO-DIMM PC4-2666V-S S4AS163H12G4L",
    "price_raw": "54.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701589507?_skw=ddr4&hash=item30205ff403:g:Ss4AAeSw1WRq-OHb&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l7cZ%2BCL65gVrjdqmjNOBCn5CzKnOmNJ0ZGygEAflD0%2F0Ea9oor%2BxpDnQvSFcOBN%2BKrxfJ63E0mslxTOMKnlkH0izPhjHrINUA1rHOlVNjEzLqUrUw8cTd6w6BIyXsPk9pj9yplVXlJjIoedpPAnfmcmcmR40oioicdR06YQwFsitt0E8VnTbYnTZBcih%2FrtDM%2FumdKQekND6U%2F7McwSl5%2B4TW5B3sYeYZb92z7sUhOcdbQa%2Fa7q%2F7j6W4%2Bx6nmmLFgSOmrbW8%2BnzH8xU4760jA",
+   "url": "https://www.ebay.fr/itm/206701589507?_skw=ddr4&hash=item30205ff403:g:Ss4AAeSw1WRq-OHb&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l7cZ%2BCL65gVrjdqmjNOBCn5CzKnOmNJ0ZGygEAflD0%2F0Ea9oor%2BxpDnQvSFcOBN%2BKrxfJ63E0mslxTOMKnlkH0izPhjHrINUA1rHOlVNjEzLqUrUw8cTd6w6BIyXsPk9qOsQInsAmBEItEKdtLQPjTBxCY2gKbqsNbXO6LZp2tEn3B14BKXRGbS8X7p2VTRThtbhfcw9HYwVzUlcixVMhr%2BlqyCHupEkmXETL8yczBxkSkzrlUVOILOmuyRF%2BoRVvMN4jfjSly0REGpeQyAn3D",
    "posted_at": "2026-11-14T22:34:42+00:00"
   },
   {
@@ -371,7 +398,7 @@
    "title": "AMD Athlon 64 X2 Processeur CPU Socket AM2 Réf. ADO4000IAA5DD",
    "price_raw": "11.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8oEhGu2sh4BAj3uybrW20%2BXtaaWe9aPM1E65ivKJbZ4B5vEgzh57I8De%2FGXuUU5%2F8YFxC%2BKwaRkiPRkCOm%2FHfmh2rs0pO2jqWzVcZ%2FkM2%2BFWS%2Fm9aYIndjwg3K%2BjfhAFTnXJNMTWU383bkSRkQBL%2Bl48x49XjyeTzp44gJMQuE%2FlQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287646266595?_skw=processeur&hash=item42f90db4e3:g:hBcAAeSw-xtqzpZ1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k0ewxW6t9gEBfBHKZZXQ0SPui1cf5nbiAwt3dXNmb0WEWqygQkQ8hF5Gph%2B%2B2TJeCmUiLcEH6vhkhJgiNoQz2tZ13xkV7%2FcdfjFmTmdvE6YyCQChnZt%2B7y0UHgtiUqi8pI%2FHoQs9rPJkMgw6TJF6MSvhe7vG%2BcCWVauEdWGijPDSIEBF7Uye5VQSJUi65qY3itObzd71xJ%2BgrO5sIx81RXWWNBr9i83d1U%2Bqbo6%2BkbyMaLJZ8Is0WxAr9Crv4Mr%2FPQ8%2F1aHHsfb%2FPlrRscTEpTkJlIlqp88zqaJeYrWhIptg%3D%3D",
    "posted_at": "2026-10-13T20:37:56+00:00"
   },
   {
@@ -550,13 +577,6 @@
    "posted_at": "2026-11-14T13:40:40+00:00"
   },
   {
-   "title": "Mars Gaming MC-CORE Boîtier PC Blanc Tour Micro-ATX Verre Trempé RGB Face Avant",
-   "price_raw": "31.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307282379186?_skw=boitier+pc&hash=item478b7501b2:g:1DsAAeSwzkZq-C6p",
-   "posted_at": "2026-11-14T13:56:54+00:00"
-  },
-  {
    "title": "PC 16'' Portable Asus Vivobook 16 - X1607CA-MB307W WUXGA 60 Hz Intel Core Ultra 9 16 Go RAM 512 Go SSD Gris clair",
    "price_raw": "799,99€",
    "source": "dealabs",
@@ -646,10 +666,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-razer-gentle-mates-3455079",
    "posted_at": "2026-11-14T07:57:20+00:00"
+  },
+  {
+   "title": "[Samsung+] PC Portable 14\" Samsung galaxy book 6 pro - Ultra 7, 16 Go, 512 Go",
+   "price_raw": "1 199€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/samsung-galaxy-book-6-pro-14-ultra-7-3455059",
+   "posted_at": "2026-11-14T07:28:50+00:00"
+  },
+  {
+   "title": "Mini PC Apple Mac Mini M5 Pro 2026 - 1 To, 48 Go, 16 cœurs",
+   "price_raw": "2 561,29€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-2026-1000-go-48-go-m5-pro-apple-m5-pro-16-coeurs-3455024",
+   "posted_at": "2026-11-14T06:52:09+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1718,
-  "models_with_reference": 52
+  "listings_seen": 1717,
+  "models_with_reference": 51
  }
 }
