@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T21:08:00Z",
+ "generated_at": "2026-11-16T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-16T21:08:00.639226+00:00"
+   "items": 345,
+   "last_ok": "2026-11-16T21:38:00.666270+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T21:08:00.639226+00:00"
+   "last_ok": "2026-11-16T21:38:00.666270+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-16T21:08:00.639226+00:00"
+   "items": 373,
+   "last_ok": "2026-11-16T21:38:00.666270+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T21:08:00.639226+00:00"
+   "last_ok": "2026-11-16T21:38:00.666270+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-11-16T20:19:28+00:00"
   },
   {
+   "title": "Carte Graphique Nvidia Gainward GeForce RTX 5060 Ghost 8Go",
+   "model": "GPU:RTX 5060",
+   "category": "GPU",
+   "condition": "new",
+   "price_eur": 462.86,
+   "shipping_eur": null,
+   "effective_eur": 462.86,
+   "median_eur": 869.99,
+   "discount_pct": 46.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Caseking",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-graphique-nvidia-gainward-geforce-rtx-5060-ghost-8go-3451022",
+   "posted_at": "2026-11-10T12:29:25+00:00"
+  },
+  {
    "title": "SSD Interne 1 To NVME M2.2280",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -126,23 +143,6 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
-   "title": "Carte Graphique Nvidia Gainward GeForce RTX 5060 Ghost 8Go",
-   "model": "GPU:RTX 5060",
-   "category": "GPU",
-   "condition": "new",
-   "price_eur": 462.86,
-   "shipping_eur": null,
-   "effective_eur": 462.86,
-   "median_eur": 772.63,
-   "discount_pct": 40.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Caseking",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-graphique-nvidia-gainward-geforce-rtx-5060-ghost-8go-3451022",
-   "posted_at": "2026-11-10T12:29:25+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8r%2BcqNqk3Z%2Fc001iLgaUqzikNWKXUVbTDwCIXJ%2FDQrJOu5vrGzTguzbiWHyvo2aZk1IOcgSO9KygA%2BsJabrZBywW%2Fdq9Rmn%2B0uPrSWz35TsRuPf7Fp%2FvOcAGsgv8xlp9FBCltrEQf9eIhfCNmODyPEaprBvhrS5szHZ4ESzt%2BglQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FnnXFnsuZrMPZ7AHq6uPA%2FOhEG0JZEkSlycN94tAdqHb4xQsHnw8r9iXXm5FqQEO0JlSiZpSTOmG6QHJGKitMUDZhGBj1sdHpQ7nD9NpifcV8YTrWV3z9%2Fu9lsr3yRwRe0x5bktBfqZx0L%2BjMpfWScgujb%2BMkvc1AMx85zHSZH6w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -228,6 +228,23 @@
    "posted_at": "2026-11-14T05:57:28+00:00"
   },
   {
+   "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
+   "model": "SSD:NVMe-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 3.0,
+   "effective_eur": 13.8,
+   "median_eur": 19.65,
+   "discount_pct": 29.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tortellifr (100,0 %, 153 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237184709590?_skw=ssd&hash=item37394f73d6:g:b0YAAeSw5X1q-fz3",
+   "posted_at": "2026-11-15T18:42:13+00:00"
+  },
+  {
    "title": "Crucial MX500 SSD 500 Go 2,5\" SATA III CT500MX500SSD1",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -243,23 +260,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206702536381?_skw=ssd&hash=item30206e66bd:g:-d8AAeSwiU1q-WfW",
    "posted_at": "2026-11-15T08:06:18+00:00"
-  },
-  {
-   "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
-   "model": "MB:B650",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 70.0,
-   "shipping_eur": 6.5,
-   "effective_eur": 76.5,
-   "median_eur": 106.49,
-   "discount_pct": 28.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · vacarm67 (99,4 %, 608 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
-   "posted_at": "2026-09-11T15:16:56+00:00"
   },
   {
    "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
@@ -341,9 +341,9 @@
    "discount_pct": 20.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
+   "merchant": "eBay · fastseller59 (99,5 %, 203 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71u%2BwNfWZYrYHjFkMVcuke0MeHO3uI8Cipk3vxKM9W6YGHK5n%2FkIhi%2F8yCCPaHNdLhng1cA3LFMRVeXJNtEDjuQrLS7HrulJXVVDeWkF%2BiVXZA8Aa7ouFdxkgz3vYuToeDGwIy5TJYi6%2B6G82MBStQf",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70cBVTmAEG3eg5IubHBkRiUUpVBkoaCEPoEzSlC%2BYfJsbrrwK%2BstyvNtg%2BRY%2BbMtm7DGC69wypk%2BPZKSjY3HYsE6%2Fyk14YM0bLuxfkFb4LHsiAWC9DMYZ%2FcIhB%2BsZN8W073bGtkFIY0sBnwkCzekpGm",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -362,23 +362,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-245-msi-pro-mp252l-245-fhd-100hz-dalle-ips-1ms-adaptive-sync-hdr-ready-3452009",
    "posted_at": "2026-11-11T10:23:59+00:00"
-  },
-  {
-   "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 1 To Garanti 5 ans",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 125.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 125.0,
-   "median_eur": 149.99,
-   "discount_pct": 16.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · playerone78 (100,0 %, 529 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327460031833?_skw=ssd&hash=item4c3e238d59:g:V08AAeSw6xhq-bPB",
-   "posted_at": "2026-11-16T20:17:44+00:00"
   },
   {
    "title": "Ecran PC 24\" AOC 24G50F, FHD, 180Hz, IPS, 0.5ms",
@@ -434,6 +417,27 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 15\" Alienware 15 - Intel Core 7 240H, RTX 5050, 16Go de Ram, SSD 512Go",
+   "price_raw": "1 099€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-gaming-alienware-15-intel-core-7-240h-rtx-5050-3458272",
+   "posted_at": "2026-11-16T21:28:58+00:00"
+  },
+  {
+   "title": "PC portable 14\" - Celeron N4020, 8Go de Ram, 256Go, Win11",
+   "price_raw": "249,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-pc-portable-14-pouces-8256go-win11-3458260",
+   "posted_at": "2026-11-16T21:21:12+00:00"
+  },
+  {
+   "title": "carte mère ECS L7VMM3 microATX Socket 478 + xp2200+ DDR 512mo  + plaque I/O",
+   "price_raw": "36.73 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198800770680?_skw=carte+m%C3%A8re&hash=item2e49730678:g:1bAAAeSwOdBq-3J3",
+   "posted_at": "2026-11-16T21:24:49+00:00"
+  },
+  {
    "title": "Tablette 11,5\" Huawei MatePad 11.5 (2025) - Écran PaperMatte 2.5K 120Hz, RAM 8 Go, 256 Go, 10 100 mAh + Stylet M-Pencil 3e Gén",
    "price_raw": "265€",
    "source": "dealabs",
@@ -446,13 +450,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-112-xiaomi-pad-8-8-go-128-go-clavier-stylet-focus-pen-pro-ecouteurs-redmi-buds-6-active-via-coupon-40eur-odr-70eur-3458209",
    "posted_at": "2026-11-16T20:39:53+00:00"
-  },
-  {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
   },
   {
    "title": "SSD M.2 NVMe 2To PCIe 4.0 7400 Mo/s 980Pro PS5 Gaming Ordinateur Portable Disque",
@@ -504,13 +501,6 @@
    "posted_at": "2026-11-16T19:26:12+00:00"
   },
   {
-   "title": "Barrette mémoire RAM Kingston 4 Go DDR4 SO-DIMM — 9995704-008.A00G",
-   "price_raw": "16.15 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147683596168?_skw=ddr4&hash=item2262a0d788:g:zKsAAeSwnLFq-1dL",
-   "posted_at": "2026-11-16T19:21:40+00:00"
-  },
-  {
    "title": "Alimentation Pc Corsair HX1500i (2025) ATX Entièrement Modulaire, Compatible ATX 3.1 & PCIe 5.1, Platinum",
    "price_raw": "227,99€",
    "source": "dealabs",
@@ -530,13 +520,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xxxzgq/keyboard_glorious_gmmk_3_he_65_gaming_keyboard/",
    "posted_at": "2026-11-16T19:03:11+00:00"
-  },
-  {
-   "title": "SK hynix RAM 4 Go DDR4 SDRAM PC4-2666V SO-DIMM 1 module HMA851S6JJR6N-VK",
-   "price_raw": "15.08 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147683579868?_skw=ddr4&hash=item2262a097dc:g:a1EAAeSw50dq-1MF",
-   "posted_at": "2026-11-16T19:04:23+00:00"
   },
   {
    "title": "PC Portable 13\" Apple MacBook Neo - Puce A18 Pro, 512 Go SSD, 8 Go RAM, avec touch id",
@@ -658,25 +641,25 @@
    "posted_at": "2026-11-16T15:12:17+00:00"
   },
   {
+   "title": "SK hynix 64 Go (4x16) DDR4 ECC RDIMM PC4-2400T 288P HMA82GR7AFR4N-UH",
+   "price_raw": "156.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336900389087?_skw=ddr4&hash=item4e70d3f8df:g:G9cAAeSw42hq-yGe&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m5d238aYofni5YQeOEzLb2tMSHz1%2FAnvx9sZoEgfwEVa9UfG%2BiIfk3lD17mDmstA9pO6xVuf1qN3oyVNJdDO8RjL8psO17wJJG8fecMH5rR6j68P9lSQxysOhW1SoUvr7BQCWpponvR--HZ%2FCsqA68KfWCFYNEo%2B77Xb1K%2BzXFfuqCU07zjkIKBcO7HVD0kEssLOx4YTKqJ9UdOlTrWPQDYCx6oJROfgVLC%2BLaKPYvuVJELADCTb5drZW%2FBxyTpdJkNykGi3IVTEer8OVRFXJx",
+   "posted_at": "2026-11-16T15:33:03+00:00"
+  },
+  {
    "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwo99f6Vq7i7PQEjswSXvIW%2BoLqPwSTR7GWowSbrLUIjxRr2lf%2Birxq%2BP2NzvJ2Kq48mMHi9fzlbrJWg6bdOMyanOENvR4PYEkaWRK7jI93PJJoNh83QiMvh1P6CEAvwEq%2FybBoxjJP2nX1ijSZsLBrZ",
+   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwp%2BrNGRAilnHoPuNHCD%2BKoyabTMTq4yin53%2BFQp2rVFYmqBW0WsiqXlcLvfkXjZya7t19UlMMes3RMDKszYoblb3DdyIs0YkFuTGS4cTTtlOveeNoVRcjMlIW1SwTU2zzpoMt7HHizvkCdxiQhqjK59",
    "posted_at": "2026-11-16T15:29:39+00:00"
   },
   {
-   "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
-   "price_raw": "68.30 EUR",
+   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
+   "price_raw": "24.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840134878167?_skw=carte+m%C3%A8re&hash=itemc39bf0e3d7:g:sGQAAeSwtJ9q-xv9",
-   "posted_at": "2026-11-16T15:07:06+00:00"
-  },
-  {
-   "title": "CARTE MÈRE HP NETSERVER E60 D7140-63000 + PENTIUM III 500 MHz + NAPPES",
-   "price_raw": "156.60 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123261277?_skw=carte+m%C3%A8re&hash=itemcceb6f315d:g:M8AAAeSwwidq-xvD",
-   "posted_at": "2026-11-16T15:16:32+00:00"
+   "url": "https://www.ebay.fr/itm/366814367678?_skw=ddr4&hash=item5567d70fbe:g:6dkAAeSwZKlq-x8g",
+   "posted_at": "2026-11-16T15:20:15+00:00"
   },
   {
    "title": "Boitier Disque Dur 2.5 Orico - 6Gbps USB C 3.1 Gen 2 (Vendeur Tiers)",
@@ -786,6 +769,6 @@
  ],
  "stats": {
   "listings_seen": 1921,
-  "models_with_reference": 60
+  "models_with_reference": 61
  }
 }
