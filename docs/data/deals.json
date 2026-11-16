@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T13:08:00Z",
+ "generated_at": "2026-11-16T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-16T13:08:00.676142+00:00"
+   "last_ok": "2026-11-16T13:38:00.652227+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T13:08:00.676142+00:00"
+   "last_ok": "2026-11-16T13:38:00.652227+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 364,
-   "last_ok": "2026-11-16T13:08:00.676142+00:00"
+   "items": 366,
+   "last_ok": "2026-11-16T13:38:00.652227+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-16T13:08:00.676142+00:00"
+   "items": 49,
+   "last_ok": "2026-11-16T13:38:00.652227+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FfhmFR4qpXKoVn0PgA9wcSb%2F0Uclpm5d%2B61ohafX1ahQdcHLUR7jqCGtxItmqpF7EUWuARpKQGdIa%2F9zhbyr6EIdWATv73%2BToSUynTNAcLgrvpE5kZV%2BOdCfPZwA3FswgKlvfO1mubinFvY7ARs58h6DJ5QEHD13aJEN8X%2BcPQWw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fq4rx7OA2ElLe1Xp8fjeAG13XaVL%2Bq7kwOgE9A5UrH92Pt7wMTQhGCl0f5SQZL3aQiCMn%2BrftZxcYQQRj0OTKVX5gCCk8jA5ox7%2BEZRRPBaUxJSlJ2xpULO%2F4TYZSm447upXbDXywET8nVCOBjyxAUbfhIKxEzfLKiDTPuauOXrQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -124,23 +124,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237180862574?_skw=ssd&hash=item373914c06e:g:l4oAAeSwz6hq9xL~",
    "posted_at": "2026-11-13T13:40:26+00:00"
-  },
-  {
-   "title": "Kingston 240Go SSD  ( A400 - SA400S37/240G )  2,5\" SATA Interne PC (86%)",
-   "model": "SSD:SATA-240Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 16.15,
-   "shipping_eur": 3.0,
-   "effective_eur": 19.15,
-   "median_eur": 29.43,
-   "discount_pct": 34.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tout_pour_vous_fr (98,7 %, 153 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407317637182?_skw=ssd&hash=item5ed605e83e:g:BQEAAeSw2l1q32SI",
-   "posted_at": "2026-10-26T14:36:31+00:00"
   },
   {
    "title": "Carte Graphique Nvidia Gainward GeForce RTX 5060 Ghost 8Go",
@@ -211,6 +194,23 @@
    "posted_at": "2026-11-13T23:01:35+00:00"
   },
   {
+   "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
+   "model": "MB:B650",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 70.0,
+   "shipping_eur": 6.5,
+   "effective_eur": 76.5,
+   "median_eur": 101.49,
+   "discount_pct": 24.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · vacarm67 (99,4 %, 608 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
+   "posted_at": "2026-09-11T15:16:56+00:00"
+  },
+  {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
    "model": "MB:B550",
    "category": "MB",
@@ -243,40 +243,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
    "posted_at": "2026-11-13T23:04:42+00:00"
-  },
-  {
-   "title": "Écran PC 27\" Samsung Odyssey G5 G53F - QHD, IPS, 200 Hz, Freesync Premium, 1 ms (Vendeur Darty - 89.99€ pour les nouveaux clients)",
-   "model": "MON:27-QHD-200Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 99.99,
-   "shipping_eur": null,
-   "effective_eur": 99.99,
-   "median_eur": 127.02,
-   "discount_pct": 21.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Cdiscount",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-samsung-odyssey-g5-g53f-qhd-ips-200-hz-freesync-premium-1-ms-vendeur-darty-8999eur-pour-les-nouveaux-clients-3456897",
-   "posted_at": "2026-11-16T05:44:44+00:00"
-  },
-  {
-   "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
-   "model": "MB:B650",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 70.0,
-   "shipping_eur": 6.5,
-   "effective_eur": 76.5,
-   "median_eur": 96.49,
-   "discount_pct": 20.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · vacarm67 (99,4 %, 608 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
-   "posted_at": "2026-09-11T15:16:56+00:00"
   },
   {
    "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
@@ -328,23 +294,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
    "posted_at": "2026-11-14T05:57:28+00:00"
-  },
-  {
-   "title": "RAM Micron 16 Go DDR4-3200 SO-DIMM PC4-25600 – MTA8ATF2G64HZ",
-   "model": "RAM:DDR4-16Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 62.06,
-   "shipping_eur": 4.0,
-   "effective_eur": 66.06,
-   "median_eur": 80.44,
-   "discount_pct": 17.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · pabx38 (100,0 %, 342 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407249823806?_skw=ddr4&hash=item5ed1fb283e:g:kFYAAeSw7xdquTVd",
-   "posted_at": "2026-09-27T15:27:20+00:00"
   },
   {
    "title": "SSD M.2 NVMe 1 To Crucial P3 (Santé 99%)",
@@ -400,8 +349,36 @@
  ],
  "unclassified": [
   {
-   "title": "PC portable Gamer LENOVO Legion 5 15IRX10 - Sans Windows - 15,1'' OLED 165 Hz - Core i7-",
-   "price_raw": "1 700€",
+   "title": "Ecran PC 24'' AOC 24G4HREAD - 260Hz, Fast IPS, 1ms GtG, HDR10, G-Sync Compatible, Haut-parleurs",
+   "price_raw": "89€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-aoc-24g4hread-260hz-fast-ips-1ms-gtg-hdr10-g-sync-compatible-haut-parleurs-3457673",
+   "posted_at": "2026-11-16T13:37:08+00:00"
+  },
+  {
+   "title": "Routeur Gaming MSI Radix AXE6600 WiFi 6E - Tri-bande, RGB, jusqu'à 6600 Mbps, MU-MIMO, WAN/LAN 2.5G & 4 x Ports LAN 1G",
+   "price_raw": "79,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/routeur-gaming-msi-radix-axe6600-wifi-6e-tri-bande-rgb-jusqua-6600-mbps-mu-mimo-wanlan-25g-4-x-ports-lan-1g-3457646",
+   "posted_at": "2026-11-16T13:20:29+00:00"
+  },
+  {
+   "title": "Routeur Wi-FI 7 Asus RT-BE55 - 4K-QAM, MLO, Port WAN 2,5G, Quatre Ports 1G",
+   "price_raw": "79€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/routeur-wi-fi-7-asus-rt-be55-4k-qam-mlo-port-wan-25g-quatre-ports-1g-3457643",
+   "posted_at": "2026-11-16T13:18:40+00:00"
+  },
+  {
+   "title": "Écran PC 38,6\" LG UltraGear 39GX950B-B - OLED, 165 Hz, 0,03 ms, 5120x2160, DisplayPort 2.2, Pivotable",
+   "price_raw": "1 399,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lg-ultragear-ecran-gaming-oled-386-5k2k-165hz-003ms-39gx950b-b-oled-386-5k2k-5120x2160-165hz-003ms-displayport-22-pivotable-3457633",
+   "posted_at": "2026-11-16T13:10:52+00:00"
+  },
+  {
+   "title": "PC Portable 15,1\" Lenovo Legion 5 15IRX10 - Intel Core i7 13650HX, RTX 5070 8 Go, RAM 16 Go 4800MHz, SSD 512 Go, OLED, 165Hz, sans OS",
+   "price_raw": "1 699,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-lenovo-legion-5-15irx10-sans-windows-151-oled-165-hz-core-i7-3457626",
    "posted_at": "2026-11-16T13:05:29+00:00"
@@ -720,38 +697,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/watercooling-aio-corsair-nautilus-360-rs-argb-3457063",
    "posted_at": "2026-11-16T08:22:53+00:00"
-  },
-  {
-   "title": "NAS Ugreen DH2300 - 2 Baies, Stockage, 4K HDMI, Sauvegarde Cloud 4Go RAM, Connexion NFC, LAN 1GbE (vendeur tiers)",
-   "price_raw": "179,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ugreen-dh2300-nas-bureau-2-baies-stockage-nas-4k-hdmi-sauvegarde-cloud-4go-ram-connexion-nfc-lan-1gbe-3457077",
-   "posted_at": "2026-11-16T08:20:00+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech G Pro X Superlight 2 SE - 5 boutons programmables",
-   "price_raw": "71,96€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-g-pro-x-superlight-2-se-5-boutons-programmables-3457076",
-   "posted_at": "2026-11-16T08:19:23+00:00"
-  },
-  {
-   "title": "Souris sans Fil Logitech G G305 Lightspeed - Capteur Gaming HERO, 12 000 PPP",
-   "price_raw": "29,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g-g305-lightspeed-souris-gamer-sans-fil-capteur-gaming-hero-12-000-ppp-3457102",
-   "posted_at": "2026-11-16T08:11:27+00:00"
-  },
-  {
-   "title": "Imprimante Multifonction tout-en-un HP Smart Tank 5107 - Blanc",
-   "price_raw": "149,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-tout-en-un-hp-smart-tank-5107-blanc-fnac-3457099",
-   "posted_at": "2026-11-16T08:10:40+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1850,
-  "models_with_reference": 57
+  "listings_seen": 1858,
+  "models_with_reference": 58
  }
 }
