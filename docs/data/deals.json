@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T14:08:00Z",
+ "generated_at": "2026-11-16T14:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-16T14:08:00.691617+00:00"
+   "items": 345,
+   "last_ok": "2026-11-16T14:38:00.662353+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T14:08:00.691617+00:00"
+   "last_ok": "2026-11-16T14:38:00.662353+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-16T14:08:00.691617+00:00"
+   "items": 367,
+   "last_ok": "2026-11-16T14:38:00.662353+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T14:08:00.691617+00:00"
+   "last_ok": "2026-11-16T14:38:00.662353+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-11-16T10:42:13+00:00"
   },
   {
+   "title": "Carte Graphique Nvidia Gainward GeForce RTX 5060 Ghost 8Go",
+   "model": "GPU:RTX 5060",
+   "category": "GPU",
+   "condition": "new",
+   "price_eur": 462.86,
+   "shipping_eur": null,
+   "effective_eur": 462.86,
+   "median_eur": 772.63,
+   "discount_pct": 40.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Caseking",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-graphique-nvidia-gainward-geforce-rtx-5060-ghost-8go-3451022",
+   "posted_at": "2026-11-10T12:29:25+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9dUEl%2FJn8sbz5%2F7KF3enmlyXPQVKUEkWiGQRlfOXhHol9VmBEBZfbN6PW5TywgTe23%2BfHc%2FAcVVGNTklAW9%2F2YwbOsoS8q0FQa%2BPjmQDQluqt6tStZLK%2BMDWAM0IJOP%2BsEdhk6JfeDyMCycZHleDH%2BHpHfgXSoc4IjF1VEiHO2MA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9x5c1mjuly0oIcpHYT2Us52kLgEsMU5duyF4wqGH3A5EitfybvC24IfZ3YsgN9DOwMwEvZq7e3fmNzZmuh1%2FzwazBaHW9XthgyFWUWlgMJoV2dkHezykUWbtDx%2FHhiiXF4p1zqSqfzM2Ch5fa0HD2fYB7ragZcVvNuNxlWK3vamw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -124,23 +141,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237180862574?_skw=ssd&hash=item373914c06e:g:l4oAAeSwz6hq9xL~",
    "posted_at": "2026-11-13T13:40:26+00:00"
-  },
-  {
-   "title": "Carte Graphique Nvidia Gainward GeForce RTX 5060 Ghost 8Go",
-   "model": "GPU:RTX 5060",
-   "category": "GPU",
-   "condition": "new",
-   "price_eur": 462.86,
-   "shipping_eur": null,
-   "effective_eur": 462.86,
-   "median_eur": 675.27,
-   "discount_pct": 31.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Caseking",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-graphique-nvidia-gainward-geforce-rtx-5060-ghost-8go-3451022",
-   "posted_at": "2026-11-10T12:29:25+00:00"
   },
   {
    "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
@@ -348,6 +348,69 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "ORICO Boitier Disque Dur 2.5, 6Gbps USB C 3.1 Gen 2 pour SATA SSD et HDD de 2,5'' (Bleu-ABS-25PW1-C)",
+   "price_raw": "7,59€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/orico-boitier-disque-dur-25-6gbps-usb-c-31-gen-2-pour-sata-ssd-et-hdd-de-25-bleu-abs-25pw1-c-3457782",
+   "posted_at": "2026-11-16T14:37:23+00:00"
+  },
+  {
+   "title": "Souris Gaming Corsair M65 RGB Ultra",
+   "price_raw": "39,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-corsair-m65-rgb-ultra-3457783",
+   "posted_at": "2026-11-16T14:37:44+00:00"
+  },
+  {
+   "title": "AOC Gaming Moniteur Q27G4ZRAD 27 Pouce 260Hz Fast IPS Dalle, 1ms GtG, HDR400, G-Sync, Ajustable en Hauteur, Haut-parleurs,2560x1440",
+   "price_raw": "149€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/aoc-gaming-moniteur-q27g4zrad-27-pouce-260hz-fast-ips-dalle-1ms-gtg-hdr400-g-sync-ajustable-en-hauteur-haut-parleurs2560x1440-3457781",
+   "posted_at": "2026-11-16T14:37:22+00:00"
+  },
+  {
+   "title": "Mini pc",
+   "price_raw": "389€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-3457780",
+   "posted_at": "2026-11-16T14:36:58+00:00"
+  },
+  {
+   "title": "Souris Razer Viper V3 Pro sans Fil ultralégère - 8K Hz HyperPolling, Design léger 54g, capteur Focus Pro 35K DPI",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-razer-viper-v3-pro-sans-fil-ultralegere-8k-hz-hyperpolling-design-leger-54g-capteur-focus-pro-35k-dpi-3457778",
+   "posted_at": "2026-11-16T14:35:16+00:00"
+  },
+  {
+   "title": "Tapis de souris Cooler Master MP511 XL",
+   "price_raw": "13,65€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-cooler-master-mp511-xl-3457767",
+   "posted_at": "2026-11-16T14:26:10+00:00"
+  },
+  {
+   "title": "Manette sans fil Sony DualSense 007 First Light Limited Edition - pour PS5, PC, Mac et mobile",
+   "price_raw": "64,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/manette-sans-fil-dualsense-007-first-light-limited-edition-pour-ps5-pc-mac-et-mobile-3457748",
+   "posted_at": "2026-11-16T14:18:57+00:00"
+  },
+  {
+   "title": "[Laptop] msi Katana A15 Laptop 15.6” QHD 165Hz – Ryzen 9-8945HS, RTX 4070, 32GB DDR5, 1TB SSD - $799",
+   "price_raw": "$799",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxqce9/laptop_msi_katana_a15_laptop_156_qhd_165hz_ryzen/",
+   "posted_at": "2026-11-16T14:12:15+00:00"
+  },
+  {
+   "title": "Processeur Intel Pentium II + Slot 1 + Refroidisseur",
+   "price_raw": "11.87 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117524670168?_skw=processeur&hash=item1b5d0426d8:g:CKAAAeSwOdBq-w5m",
+   "posted_at": "2026-11-16T14:11:00+00:00"
+  },
   {
    "title": "Souris sans fil Razer Basilisk Mobile - Capteur Focus X 18K, Bluetooth/2.4 GHz/USB, jusqu’à 105 h d’autonomie",
    "price_raw": "48,19€",
@@ -634,73 +697,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/324205662637?_skw=ventirad&hash=item4b7c29d1ad:g:hgwAAOSwR~Fe74tr",
    "posted_at": "2020-06-21T16:43:09+00:00"
-  },
-  {
-   "title": "Mémoire PC RAM 16 Go (2x8Go) Netac Shadow III - DDR4, 3200 MT/s, CL16",
-   "price_raw": "87,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kit-memoire-ram-32-go-2x16go-netac-shadow-iii-ddr4-3200-mts-cl16-3457238",
-   "posted_at": "2026-11-16T09:02:09+00:00"
-  },
-  {
-   "title": "Boitier Orico Disque Dur ou SSD - 2.5\", 6 Gbps, USB C 3.1 (vendeur tiers)",
-   "price_raw": "7,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-orico-disque-dur-ou-ssd-25-6gbps-usb-c-31-vendeur-tiers-3457163",
-   "posted_at": "2026-11-16T08:44:37+00:00"
-  },
-  {
-   "title": "Souris sans fil Ugreen - Verticale, ergonomique, 2,4G ou Bluetooth 5.4, 4000 DPI, 6 boutons (Vendeur Tiers)",
-   "price_raw": "17,13€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-ugreen-verticale-ergonomique-24g-ou-bluetooth-54-4000-dpi-6-boutons-vendeur-tiers-3457189",
-   "posted_at": "2026-11-16T08:52:36+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Gigabyte A16 EVHS3FR894SH - Intel Core Ultra 9 185H, 16 Go RAM, 1 To SSD, 16\" FHD+ 165 Hz, RTX 5060, W11",
-   "price_raw": "1 299,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/gigabyte-gaming-a16-evhs3fr894sh-intel-core-ultra-9-185h-16-go-ssd-1-to-16-fhd-165-hz-rtx-5060-3457193",
-   "posted_at": "2026-11-16T08:45:44+00:00"
-  },
-  {
-   "title": "Tablette tactile 5G 11\" Samsung Galaxy Tab A11+ - 128 Go, RAM 6 Go, Écran 90Hz, Android 16, Chargeur 25W inclus",
-   "price_raw": "249,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-5g-11-samsung-galaxy-tab-a11-128-go-ram-6-go-ecran-90hz-android-16-chargeur-25w-inclus-3457188",
-   "posted_at": "2026-11-16T08:41:39+00:00"
-  },
-  {
-   "title": "Volant & Pédalier Logitech G29 Driving Force - pour PS, PC & MAC",
-   "price_raw": "179,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/volant-gaming-logitech-g29-pour-ps-pc-mac-3457171",
-   "posted_at": "2026-11-16T08:36:28+00:00"
-  },
-  {
-   "title": "16 Go Ram DDR4 - lot de 2 x 8 Go - Sk hynix so-dimm - 3200 AA",
-   "price_raw": "48.85 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940096409183?_skw=ddr4&hash=itemdae21cce5f:g:xHgAAeSwJWJq-sCu",
-   "posted_at": "2026-11-16T08:37:35+00:00"
-  },
-  {
-   "title": "Boitier PC Fractal Design North XL Charcoal Black - Trois Ventilateurs Aspect PWM de 140 mm Inclus",
-   "price_raw": "127,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/fractal-design-north-xl-charcoal-black-3457147",
-   "posted_at": "2026-11-16T08:34:57+00:00"
-  },
-  {
-   "title": "Pack Souris Logitech G502 HERO + Clavier Azerty G213 RVB",
-   "price_raw": "63,48€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-logitech-g502-hero-clavier-azerty-g213-rvb-3457097",
-   "posted_at": "2026-11-16T08:28:32+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1854,
+  "listings_seen": 1868,
   "models_with_reference": 58
  }
 }
