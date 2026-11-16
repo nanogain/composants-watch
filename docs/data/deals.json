@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T13:38:00Z",
+ "generated_at": "2026-11-16T14:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-16T13:38:00.652227+00:00"
+   "items": 340,
+   "last_ok": "2026-11-16T14:08:00.691617+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T13:38:00.652227+00:00"
+   "last_ok": "2026-11-16T14:08:00.691617+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-16T13:38:00.652227+00:00"
+   "items": 365,
+   "last_ok": "2026-11-16T14:08:00.691617+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 49,
-   "last_ok": "2026-11-16T13:38:00.652227+00:00"
+   "items": 80,
+   "last_ok": "2026-11-16T14:08:00.691617+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fq4rx7OA2ElLe1Xp8fjeAG13XaVL%2Bq7kwOgE9A5UrH92Pt7wMTQhGCl0f5SQZL3aQiCMn%2BrftZxcYQQRj0OTKVX5gCCk8jA5ox7%2BEZRRPBaUxJSlJ2xpULO%2F4TYZSm447upXbDXywET8nVCOBjyxAUbfhIKxEzfLKiDTPuauOXrQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9dUEl%2FJn8sbz5%2F7KF3enmlyXPQVKUEkWiGQRlfOXhHol9VmBEBZfbN6PW5TywgTe23%2BfHc%2FAcVVGNTklAW9%2F2YwbOsoS8q0FQa%2BPjmQDQluqt6tStZLK%2BMDWAM0IJOP%2BsEdhk6JfeDyMCycZHleDH%2BHpHfgXSoc4IjF1VEiHO2MA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -141,6 +141,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-graphique-nvidia-gainward-geforce-rtx-5060-ghost-8go-3451022",
    "posted_at": "2026-11-10T12:29:25+00:00"
+  },
+  {
+   "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 378.17,
+   "shipping_eur": null,
+   "effective_eur": 378.17,
+   "median_eur": 549.99,
+   "discount_pct": 31.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
+   "posted_at": "2026-11-14T05:57:28+00:00"
   },
   {
    "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
@@ -279,23 +296,6 @@
    "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
-   "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 378.17,
-   "shipping_eur": null,
-   "effective_eur": 378.17,
-   "median_eur": 464.08,
-   "discount_pct": 18.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
-   "posted_at": "2026-11-14T05:57:28+00:00"
-  },
-  {
    "title": "SSD M.2 NVMe 1 To Crucial P3 (Santé 99%)",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -349,7 +349,21 @@
  ],
  "unclassified": [
   {
-   "title": "Ecran PC 24'' AOC 24G4HREAD - 260Hz, Fast IPS, 1ms GtG, HDR10, G-Sync Compatible, Haut-parleurs",
+   "title": "Souris sans fil Razer Basilisk Mobile - Capteur Focus X 18K, Bluetooth/2.4 GHz/USB, jusqu’à 105 h d’autonomie",
+   "price_raw": "48,19€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-razer-basilisk-mobile-capteur-focus-x-18k-bluetooth24-ghzusb-jusqua-105-h-dautonomie-3457712",
+   "posted_at": "2026-11-16T13:59:33+00:00"
+  },
+  {
+   "title": "Souris filaire Razer DeathAdder Essential 2021 - Blanc",
+   "price_raw": "15,08€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-razer-deathadder-essential-2021-blanc-3457675",
+   "posted_at": "2026-11-16T13:39:45+00:00"
+  },
+  {
+   "title": "Ecran PC 24'' AOC 24G4HREAD - 260 Hz, Fast IPS, 1ms GtG, HDR10, G-Sync Compatible, Haut-parleurs",
    "price_raw": "89€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-aoc-24g4hread-260hz-fast-ips-1ms-gtg-hdr10-g-sync-compatible-haut-parleurs-3457673",
@@ -683,24 +697,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-logitech-g502-hero-clavier-azerty-g213-rvb-3457097",
    "posted_at": "2026-11-16T08:28:32+00:00"
-  },
-  {
-   "title": "souris SteelSeries Aerox 9 Wireless - Souris MMO, sans fil, perforée, RGB, Ultra-légère et résistante à l’eau, 18 boutons, Bluetooth/2.4",
-   "price_raw": "81,21€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/steelseries-aerox-9-wireless-souris-mmo-sans-fil-perforee-rgb-ultra-legere-et-resistante-a-leau-18-boutons-bluetooth24-3457066",
-   "posted_at": "2026-11-16T08:24:14+00:00"
-  },
-  {
-   "title": "Watercooling AIO Corsair Nautilus 360RS ARGB",
-   "price_raw": "84,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/watercooling-aio-corsair-nautilus-360-rs-argb-3457063",
-   "posted_at": "2026-11-16T08:22:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1858,
+  "listings_seen": 1854,
   "models_with_reference": 58
  }
 }
