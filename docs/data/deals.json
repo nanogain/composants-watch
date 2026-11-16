@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T20:08:00Z",
+ "generated_at": "2026-11-16T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 348,
-   "last_ok": "2026-11-16T20:08:00.675502+00:00"
+   "items": 346,
+   "last_ok": "2026-11-16T20:38:00.623883+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T20:08:00.675502+00:00"
+   "last_ok": "2026-11-16T20:38:00.623883+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-16T20:08:00.675502+00:00"
+   "items": 380,
+   "last_ok": "2026-11-16T20:38:00.623883+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 69,
-   "last_ok": "2026-11-16T20:08:00.675502+00:00"
+   "items": 5,
+   "last_ok": "2026-11-16T20:38:00.623883+00:00"
   }
  },
  "watchlist": [
@@ -41,6 +41,23 @@
  ],
  "opportunities": [
   {
+   "title": "SSD Netac NVMe M.2 2280 PCIe 3.0 1To 500Go 250Go 3500Mbps",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 62.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 62.99,
+   "median_eur": 149.99,
+   "discount_pct": 58.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · electrodealglobal (100,0 %, 81 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287733631661?_skw=ssd&hash=item42fe42caad:g:op8AAeSwzc5q-veV",
+   "posted_at": "2026-11-16T12:31:09+00:00"
+  },
+  {
    "title": "Ecran PC gaming 27\" Acer Nitro VG272UW2bmiipx - QHD, Dalle IPS, 240Hz, 1ms, FreeSync Premium",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -58,21 +75,21 @@
    "posted_at": "2026-11-13T13:14:00+00:00"
   },
   {
-   "title": "SSD SATA 128Gb SanDisk X400 M.2 2280 tester ok fonctionne parfaitement ",
-   "model": "SSD:SATA-128Go",
+   "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 250 Go Garanti 5 ans",
+   "model": "SSD:NVMe-250Go",
    "category": "SSD",
-   "condition": "used",
-   "price_eur": 9.99,
-   "shipping_eur": 2.78,
-   "effective_eur": 12.77,
-   "median_eur": 26.58,
-   "discount_pct": 52.0,
+   "condition": "new",
+   "price_eur": 45.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.0,
+   "median_eur": 86.48,
+   "discount_pct": 48.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · hexatresors (99,6 %, 469 avis)",
+   "merchant": "eBay · playerone78 (100,0 %, 529 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960204692950?_skw=ssd&hash=itemdf90a8ddd6:g:GWwAAeSwLcRq-2C1",
-   "posted_at": "2026-11-16T20:00:12+00:00"
+   "url": "https://www.ebay.fr/itm/327460032805?_skw=ssd&hash=item4c3e239125:g:3rgAAeSwq3Zq-bDI",
+   "posted_at": "2026-11-16T20:19:28+00:00"
   },
   {
    "title": "SSD Interne 1 To NVME M2.2280",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FK%2FI3hW8ID%2FKfIrv1Q82O1HFg6MtMAw5madInh1Y6yHhLarJadL76gjoPbQ0nOfbJ4sfWxPAd0OM2rObYiUjTAJQjICk68uPmNyaTHs3WkF3xXepH7f28%2FymrksQ7qTVepooQFS6Y64tohUJtOU8wE2PAflBxsMWiRuSyWRXTitA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8hNtFMekUPYZG4Q1TRUNdvF3mZDoj7Zz9KTvuf%2B1WJMBXrYy%2BQTprZdI317sn9oD0PGVJi4XchM9e%2BgVV13hOSrnPn60Q3dMXMeQWvt9vmLitj5u%2F3njf80tIEmudHdlthxC3ILyrNQnrv9j0mfzsw7gm8HkZ10GKZcCtqvAx7hA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -158,6 +175,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237180862574?_skw=ssd&hash=item373914c06e:g:l4oAAeSwz6hq9xL~",
    "posted_at": "2026-11-13T13:40:26+00:00"
+  },
+  {
+   "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 HMAA2GS6AJR8N-XN",
+   "model": "RAM:DDR4-16Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 55.72,
+   "shipping_eur": 0.0,
+   "effective_eur": 55.72,
+   "median_eur": 83.9,
+   "discount_pct": 33.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860149304712?_skw=ddr4&hash=itemc844e4cd88:g:eGEAAeSw9SVq192D",
+   "posted_at": "2026-11-16T15:16:43+00:00"
   },
   {
    "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
@@ -192,23 +226,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
    "posted_at": "2026-11-14T05:57:28+00:00"
-  },
-  {
-   "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 HMAA2GS6AJR8N-XN",
-   "model": "RAM:DDR4-16Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 55.72,
-   "shipping_eur": 0.0,
-   "effective_eur": 55.72,
-   "median_eur": 80.44,
-   "discount_pct": 30.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860149304712?_skw=ddr4&hash=itemc844e4cd88:g:eGEAAeSw9SVq192D",
-   "posted_at": "2026-11-16T15:16:43+00:00"
   },
   {
    "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
@@ -296,6 +313,23 @@
    "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
+   "title": "Écran PC gaming incurvé 32\" AOC CQ32G4VE - QHD 2560x1440, 180Hz, 1ms GtG, HDR10, FreeSync",
+   "model": "MON:32-QHD-180Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 139.99,
+   "shipping_eur": null,
+   "effective_eur": 139.99,
+   "median_eur": 179.5,
+   "discount_pct": 22.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-incurve-32-aoc-cq32g4ve-qhd-2560x1440-180hz-1ms-gtg-hdr10-freesync-3456767",
+   "posted_at": "2026-11-16T06:06:03+00:00"
+  },
+  {
    "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -309,7 +343,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE714XixmqE21lVVdvWOuFPf9euoQr6uypd9AL%2Fv27x%2BWeJw5yWA4m9cYz5VR1DY1X%2FVpyQoAUE2EBq%2BEFtR28Pr%2Bj7%2BAvg0I8ZpWajLkrBCsqpqOnMeylj1bGwt7DBgoNKJo85Jio9GwvmY8zfHFSA1d",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70GR7SfU7KSWrZeBdHiy%2FRV%2FyZ%2Bb7z3QtyL4EGAyGXGAiX%2F15LplMFdnRYul0FdtxNoli4SKpP25QEhP5KqMvdqrzZdw8IE%2B10smfaclLukv6NVeOkAPCwHRYxdnS7hgJeZ0QydWU2SexNB0Q%2BxqTN9",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -347,21 +381,38 @@
    "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
-   "title": "Écran PC gaming incurvé 32\" AOC CQ32G4VE - QHD 2560x1440, 180Hz, 1ms GtG, HDR10, FreeSync",
-   "model": "MON:32-QHD-180Hz",
-   "category": "MON",
+   "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 1 To Garanti 5 ans",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
    "condition": "new",
-   "price_eur": 139.99,
-   "shipping_eur": null,
-   "effective_eur": 139.99,
-   "median_eur": 169.99,
-   "discount_pct": 17.6,
+   "price_eur": 125.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 125.0,
+   "median_eur": 149.99,
+   "discount_pct": 16.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "Amazon",
+   "merchant": "eBay · playerone78 (100,0 %, 529 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327460031833?_skw=ssd&hash=item4c3e238d59:g:V08AAeSw6xhq-bPB",
+   "posted_at": "2026-11-16T20:17:44+00:00"
+  },
+  {
+   "title": "Ecran PC 24\" AOC 24G50F, FHD, 180Hz, IPS, 0.5ms",
+   "model": "MON:24-FHD-180Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 69.9,
+   "shipping_eur": null,
+   "effective_eur": 69.9,
+   "median_eur": 83.44,
+   "discount_pct": 16.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Grosbill",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-incurve-32-aoc-cq32g4ve-qhd-2560x1440-180hz-1ms-gtg-hdr10-freesync-3456767",
-   "posted_at": "2026-11-16T06:06:03+00:00"
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-aoc-24g50f-fhd-180hz-ips-05ms-3455662",
+   "posted_at": "2026-11-14T20:01:22+00:00"
   },
   {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
@@ -400,11 +451,18 @@
  ],
  "unclassified": [
   {
-   "title": "Carte Graphique Gigabyte Aorus Waterforce II 240",
-   "price_raw": "48,25€",
+   "title": "Écran PC LC34G55TWW Samsung Moniteur Gaming 34\" UWHD 165Hz VA Odyssey G5",
+   "price_raw": "199€",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/gigabyte-aorus-waterforce-ii-240-3458169",
-   "posted_at": "2026-11-16T19:56:49+00:00"
+   "url": "https://www.dealabs.com/bons-plans/samsung-moniteur-gaming-34-uwhd-165hz-va-odyssey-g5-lc34g55tww-3458201",
+   "posted_at": "2026-11-16T20:23:43+00:00"
+  },
+  {
+   "title": "32GO (2X16GO) RAM Micron MTA8ATF2G64HZ Sodimm 1Rx8 PC4 DDR4 25600 3200AA",
+   "price_raw": "150.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800639898346?_skw=ddr4&hash=itemba69db52ea:g:y5IAAeSw8h9qomGc",
+   "posted_at": "2026-09-10T07:52:04+00:00"
   },
   {
    "title": "Kit de superposition avec tablette pour sèche-linge WTZ27400",
@@ -412,13 +470,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/kit-de-superposition-avec-tablette-pour-seche-linge-wtz27400-3458152",
    "posted_at": "2026-11-16T19:41:13+00:00"
-  },
-  {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
   },
   {
    "title": "Tablette Tactile 12.7'' Lenovo Yoga Tab Plus 2-en-1 - 16 Go RAM, 512 Go, Keyboard Pack + Tab Pen Pro",
@@ -512,6 +563,13 @@
    "posted_at": "2026-11-16T17:46:19+00:00"
   },
   {
+   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
+   "posted_at": "2026-11-16T17:51:34+00:00"
+  },
+  {
    "title": "Routeur Google Nest Wifi Pro",
    "price_raw": "179,99€",
    "source": "dealabs",
@@ -524,6 +582,13 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xxuzxy/ssd_verbatim_vi7000_1tb_nvme_ssd_40_x4_dram_cache/",
    "posted_at": "2026-11-16T17:11:23+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s C36 - AMD EXPO - Blanc",
+   "price_raw": "971.60 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336251737901?_skw=ddr5&hash=item4e4a2a572d:g:KrEAAeSwHOtq-vyg",
+   "posted_at": "2025-10-25T10:18:28+00:00"
   },
   {
    "title": "Logiciel FL Studio 2026 Producer Edition - Windows et Mac (Dématérialisé)",
@@ -561,11 +626,18 @@
    "posted_at": "2026-11-16T16:17:53+00:00"
   },
   {
-   "title": "Samsung 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
-   "price_raw": "57.80 EUR",
+   "title": "Carte graphique ASUS Radeon R5 230 1 Go DDR3 – R5230-SL-1GD3-L",
+   "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860149296148?_skw=ddr4&hash=itemc844e4ac14:g:oyQAAeSwnsNqlBeO",
-   "posted_at": "2026-11-16T15:11:49+00:00"
+   "url": "https://www.ebay.fr/itm/940097222260?_skw=carte+graphique&hash=itemdae2293674:g:ZMsAAeSwLqNq-yry",
+   "posted_at": "2026-11-16T16:10:59+00:00"
+  },
+  {
+   "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
+   "price_raw": "55.72 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860149307038?_skw=ddr4&hash=itemc844e4d69e:g:WXkAAeSwzadqlBXd",
+   "posted_at": "2026-11-16T15:18:02+00:00"
   },
   {
    "title": "Pack clavier + souris sans fil Logitech MK470 Slim Combo",
@@ -589,11 +661,25 @@
    "posted_at": "2026-11-16T15:12:17+00:00"
   },
   {
+   "title": "SK hynix 64 Go (4x16) DDR4 ECC RDIMM PC4-2400T 288P HMA82GR7AFR4N-UH",
+   "price_raw": "156.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336900389087?_skw=ddr4&hash=item4e70d3f8df:g:G9cAAeSw42hq-yGe&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m5d238aYofni5YQeOEzLb2tMSHz1%2FAnvx9sZoEgfwEVa9UfG%2BiIfk3lD17mDmstA9pO6xVuf1qN3oyVNJdDO8RjL8psO17wJJG8fecMH5rR6j68P9lSQxysOhW1SoUvr72fMMvdwGOgzZBMrCfyMVe47mvLpJ8YwdHS186EKuwKkh3fLXoRsLPxHpT%2By4LlVPD%2BGCOg7Xn788p3zp96od7zkKYBr6LJqL1t%2FvbRxMp8fQSlVuQLXDX%2FoZYARcFZXjRFK0CNo%2B6v28AB9Utiwjh",
+   "posted_at": "2026-11-16T15:33:03+00:00"
+  },
+  {
    "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b",
+   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwpm9Gy%2F3MO07lAMe0nHS23%2BA79CGhzVaP9A1tjOTH2h4iVsyfQvfP6Atb3ckDEx%2FBqEe4HhNTa3cve2et52bBkE9WwIaA7B4YAGYu%2FhdWbDrpns0FbSTw1OwrOrKh1EVEGbAQsnY0LssRtoTmrTS3cW",
    "posted_at": "2026-11-16T15:29:39+00:00"
+  },
+  {
+   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366814367678?_skw=ddr4&hash=item5567d70fbe:g:6dkAAeSwZKlq-x8g",
+   "posted_at": "2026-11-16T15:20:15+00:00"
   },
   {
    "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
@@ -713,45 +799,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336251731641?_skw=ddr5&hash=item4e4a2a3eb9:g:7PMAAeSw~adq-v31",
    "posted_at": "2025-10-25T10:13:40+00:00"
-  },
-  {
-   "title": "Corsair Vengeance® DDR5 - 64 Go (4 x 16 Go) - 6000 MT/s C36 - AMD EXPO - Gris",
-   "price_raw": "1849.36 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336251732191?_skw=ddr5&hash=item4e4a2a40df:g:qFgAAeSwCCBq-vzq",
-   "posted_at": "2025-10-25T10:14:19+00:00"
-  },
-  {
-   "title": "RAM Micron 16GB (2x8GB) DDR4 So-Dimm PC4-3200 original",
-   "price_raw": "50.52 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307285203295?_skw=ddr4&hash=item478ba0195f:g:Em0AAeSwF3Bq7wmW",
-   "posted_at": "2026-11-16T11:51:02+00:00"
-  },
-  {
-   "title": "Alimentation PC Corsair RM1000e ATX Modulaire & Silencieuse – Noir (2025)",
-   "price_raw": "107,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/alimentation-corsair-rm1000e-atx-modulaire-silencieuse-noir-2025-3457511",
-   "posted_at": "2026-11-16T11:21:20+00:00"
-  },
-  {
-   "title": "Liseuse 11\" Kindle Scribe colorsoft - 64 Go",
-   "price_raw": "489,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kindle-scribe-colorsoft-3457519",
-   "posted_at": "2026-11-16T11:29:13+00:00"
-  },
-  {
-   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7, Plusieurs coloris",
-   "price_raw": "1 199€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-ram-16-go-ssd-512-go-wifi-7-plusieurs-coloris-3457491",
-   "posted_at": "2026-11-16T11:06:51+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1901,
-  "models_with_reference": 62
+  "listings_seen": 1912,
+  "models_with_reference": 61
  }
 }
