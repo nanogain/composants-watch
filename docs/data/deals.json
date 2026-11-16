@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T03:38:00Z",
+ "generated_at": "2026-11-16T04:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 335,
-   "last_ok": "2026-11-16T03:38:00.624578+00:00"
+   "last_ok": "2026-11-16T04:08:00.629605+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T03:38:00.624578+00:00"
+   "last_ok": "2026-11-16T04:08:00.629605+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 374,
-   "last_ok": "2026-11-16T03:38:00.624578+00:00"
+   "items": 376,
+   "last_ok": "2026-11-16T04:08:00.629605+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 18,
-   "last_ok": "2026-11-16T03:38:00.624578+00:00"
+   "items": 80,
+   "last_ok": "2026-11-16T04:08:00.629605+00:00"
   }
  },
  "watchlist": [
@@ -109,23 +109,6 @@
    "posted_at": "2026-11-14T21:49:57+00:00"
   },
   {
-   "title": "Processeur Intel Core i5-8500 3,00 GHz 6 cœurs LGA1151 SR3XE",
-   "model": "CPU:Core i5-8500",
-   "category": "CPU",
-   "condition": "used",
-   "price_eur": 24.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 24.9,
-   "median_eur": 40.99,
-   "discount_pct": 39.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · recyclageinformatiquesologne (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
-   "posted_at": "2026-11-11T09:31:40+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FRwQRbRinmXWxooDqmXBAlmQEmHYT1%2FBUoYu4OdlNDwpwf3Q1bdh5utFfoZf30z6B1k5FuFKYCiVxl7%2B8M%2BlJQLDe6ksDqEUD4Y7SOgnBdgIp98SRQFnvoeHR1KaHeIn3aPIa7IPjDuDErI4xio8b%2BWfgn9KW3m20HdagYKzsnQQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9pPdv5e8hi39uwO%2Bi1mJ5ef3tI7deYHjgSkw9Ku%2B%2Fj69aY%2B2e7TFnM3hrzMdfLiHt3x6dNyfIgHsAqGw%2BbipFBJ3Z0RVv0UYuCKSr6XbDymGjoLvWVvz5RK%2B0tpHAVhFGQ9Wze%2B3rHGgE%2Fybw%2BeaXzn304y%2BK1vPsXUQ4sckj3dg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt6pTa16WWOUF6YKezfVX7dJ2PgNIZG4VYFLt3NAzJdO1kFx%2BopPbhwDosoOnhw3izt4duLJeJtpgozaAng%2BKbpwYfg63Wqox3Bjk%2FY5JhqtI2mx%2BYs5%2Fdq48SBF%2Fr%2FAsYqKhpWOcPao4v0KoQfU10z6",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt5%2BfQnguFYDSUz%2FgJnrHcyWMWemcy9FcSa7Yvx6Ot8CW3pASJtwugpO%2BTIC04Tb7aEJy7SARhr9ynGb6vIsgU5npVr1H8feeACBF5jlBfO5Vph9nAzf79MNoPPPITN30ccmIdTxRbZ9%2Fo%2FvOL4eq%2B7Y",
    "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
@@ -443,13 +426,34 @@
    "discount_pct": 15.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · neselaa (100,0 %, 327 avis)",
+   "merchant": "eBay · neselaa (100,0 %, 328 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/920070883155?_skw=processeur&hash=itemd6387f8753:g:REcAAeSwqpJq3M63",
    "posted_at": "2026-10-24T15:30:51+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "[PSU] MSI MAG A750GLS PCIE5 750W PSU (A- Tier, 10 yr Warranty) - $70 Best Buy",
+   "price_raw": "$70",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxfiwi/psu_msi_mag_a750gls_pcie5_750w_psu_a_tier_10_yr/",
+   "posted_at": "2026-11-16T03:55:23+00:00"
+  },
+  {
+   "title": "Ventilateur ventirad pour LENOVO Thinkpad T470 T480 FRU : 01AX926 01AX928 01ER49",
+   "price_raw": "10.69 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/157323143498?_skw=ventirad&hash=item24a130a94a:g:dfEAAeSwkeFoyBM0",
+   "posted_at": "2025-09-15T13:33:58+00:00"
+  },
+  {
+   "title": "iiyama G-MASTER GB2771UHSU-B1 écran plat de PC 68,6 cm (27\") 3840 x 2160 pixels",
+   "price_raw": "287.28 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307195440592?_skw=%C3%A9cran+pc&hash=item4786466dd0:g:-qEAAeSwAHxq7jfk",
+   "posted_at": "2026-09-23T21:50:58+00:00"
+  },
   {
    "title": "[TV] TCL 98\" Q Series QLED 4K UHD HDR Smart Google TV (New, Limited Edition) - Dolby Vision, Dolby Atmos, Motion Rate 240, HDR 10+, Auto Game Mode - $898 (includes free installation)",
    "price_raw": "$898",
@@ -626,6 +630,13 @@
    "posted_at": "2026-11-15T21:03:25+00:00"
   },
   {
+   "title": "Écran Moniteur PC MSI Pro MP275 27 Full HD 100Hz IPS HDMI VGA Haut-Parleurs Neuf",
+   "price_raw": "162.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/127801284489?_skw=%C3%A9cran+pc&hash=item1dc18cd789:g:oXMAAeSw9-pp18yl",
+   "posted_at": "2026-04-09T19:27:15+00:00"
+  },
+  {
    "title": "PC Portable 14\" Asus Zenbook A14 UX3407 - Snapdragon X2 Elite, RAM 32 Go LPDDR5X, SSD 1 To. (1278€ avec la carte Fnac+)",
    "price_raw": "1 419,99€",
    "source": "dealabs",
@@ -771,38 +782,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128196666141?_skw=carte+graphique&hash=item1dd91de31d:g:3owAAOSw0LFmxiMN",
    "posted_at": "2026-11-15T16:18:11+00:00"
-  },
-  {
-   "title": "Terminal de Paiement mobile Sumup Solo avec imprimante",
-   "price_raw": "59,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/sumup-solo-imprimante-terminal-de-paiement-mobile-et-autonome-avec-imprimante-3456258",
-   "posted_at": "2026-11-15T15:26:25+00:00"
-  },
-  {
-   "title": "[prebuilt] Alienware Aurora ACT1250 Gaming PC Intel Core Ultra 9 285 1.9GHz Processor; NVIDIA GeForce RTX 5070Ti 16GB GDDR7; 32GB DDR5-5200 RAM; 1TB Solid State Drive - $2299.99 in store",
-   "price_raw": "$2299.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xwxstx/prebuilt_alienware_aurora_act1250_gaming_pc_intel/",
-   "posted_at": "2026-11-15T15:08:42+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" HP 15-fc0013nf - Ryzen 7 7730U, 16 Go RAM, 512 Go SSD, Argent",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-hp-15-fc0013nf-ryzen-7-7730u-16-go-512-go-ssd-argent-3456216",
-   "posted_at": "2026-11-15T14:36:22+00:00"
-  },
-  {
-   "title": "SK hynix DDR5 SO-DIMM 16 Go (2x8 Go) PC5-5600B HMCG66AGBSA095N AA",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880119569373?_skw=ddr5&hash=itemcceb36dbdd:g:ONIAAeSwbZ1q-a~x",
-   "posted_at": "2026-11-15T13:19:56+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1764,
+  "listings_seen": 1762,
   "models_with_reference": 54
  }
 }
