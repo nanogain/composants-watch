@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T07:08:00Z",
+ "generated_at": "2026-11-16T07:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-16T07:08:00.647850+00:00"
+   "items": 343,
+   "last_ok": "2026-11-16T07:38:00.627539+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T07:08:00.647850+00:00"
+   "last_ok": "2026-11-16T07:38:00.627539+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-16T07:08:00.647850+00:00"
+   "items": 377,
+   "last_ok": "2026-11-16T07:38:00.627539+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-16T07:08:00.647850+00:00"
+   "items": 15,
+   "last_ok": "2026-11-16T07:38:00.627539+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8ZntoPiP3aNHwEyJu58sAvvngHkaKGe4ly%2Frix0LpSgJC7dXeGNqstAcKXJdEB573O8VM8Cesf8wFL2tcnk1DS1ZeRx%2FGrjv8H35t6N3ILg5WJZV6y%2BIs%2BluWF9PM16ZDg%2B%2FmAGcAI%2Fyi%2BIhy4hU5LCwpetIaspSq9rI0FqlfqDw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9cnYsxLADz2rIbP2Iy9iIjeWTToantzbljtVhb04q3Cr4YUMzK8KvAPjNA4zbQe4mQFOZEDrIABcZ1MBvGhjdECvuhRSjYDrnH9hNT8aF1k22eNvR0OTAx7obzzwU8DdEG%2F90%2FfqkAInOoqn0hcSulpxXmpnXq3tevMpgUcrLNsg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -158,6 +158,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/407317637182?_skw=ssd&hash=item5ed605e83e:g:BQEAAeSw2l1q32SI",
    "posted_at": "2026-10-26T14:36:31+00:00"
+  },
+  {
+   "title": "Alimentation PC modulaire Cooler Master MWE 750 Gold V2 - 750W, seuil de température 50˚C - garantie 5 ans",
+   "model": "PSU:750W-Gold",
+   "category": "PSU",
+   "condition": "new",
+   "price_eur": 45.9,
+   "shipping_eur": null,
+   "effective_eur": 45.9,
+   "median_eur": 68.44,
+   "discount_pct": 32.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/allimentation-pc-modulaire-cooler-master-mwe-750-gold-v2-3456882",
+   "posted_at": "2026-11-16T05:28:01+00:00"
   },
   {
    "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
@@ -228,7 +245,7 @@
    "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
-   "title": "Ecran PC 27\" Samsung Odyssey G5 G53F - QHD, IPS, 200 Hz, Freesync Premium, 1 ms (Vendeur Darty - 89.99€ pour les nouveaux clients)",
+   "title": "Écran PC 27\" Samsung Odyssey G5 G53F - QHD, IPS, 200 Hz, Freesync Premium, 1 ms (Vendeur Darty - 89.99€ pour les nouveaux clients)",
    "model": "MON:27-QHD-200Hz",
    "category": "MON",
    "condition": "new",
@@ -451,6 +468,83 @@
  ],
  "unclassified": [
   {
+   "title": "Boîtier PC gaming MSI MPG GUNGNIR 110R WHITE",
+   "price_raw": "59,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-gaming-msi-mpg-gungnir-110r-white-3457024",
+   "posted_at": "2026-11-16T07:29:35+00:00"
+  },
+  {
+   "title": "[Adhérents] PC portable 16\" Acer Aspire 16 AI A16-61M-R4H0 - FHD OLED, AI 5 330, 16Go RAM, 512Go SSD, 61 Wh, Win 11 + Ecran 16\" (via ODR)",
+   "price_raw": "649€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-16-acer-aspire-16-ai-a16-61m-r4h0-fhd-oled-ai-5-330-16go-ram-512go-ssd-61-wh-win-11-ecran-16-via-odr-3457023",
+   "posted_at": "2026-11-16T07:29:25+00:00"
+  },
+  {
+   "title": "Mini PC GEEKOM A5 Pro 2026 Edition - AMD Ryzen 5 7530U, 16 Go RAM, SSD 1 To, Wi-Fi 6, 2x HDMI, LAN 2,5G, Windows 11 Pro",
+   "price_raw": "449€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-geekom-a5-pro-2026-edition-amd-ryzen-5-7530u-16-go-ram-ssd-1-to-wi-fi-6-2x-hdmi-lan-25g-windows-11-pro-3457021",
+   "posted_at": "2026-11-16T07:28:15+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Acer Nitro V16 - Ryzen 7, RTX 5050, RAM 16 Go, SSD 512 Go, QWERTY, sans OS",
+   "price_raw": "868,84€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/acer-nitro-v16-16-ryzen-7-rtx-5050-16-go-ram-512-go-ssd-a-86884-eur-chez-pccomponentes-3457009",
+   "posted_at": "2026-11-16T07:27:23+00:00"
+  },
+  {
+   "title": "[Adhérents] PC Portable 14” Acer Aspire GO 14 AG14-72P-58AZ - FHD IPS, 5 120U, 16Go RAM, 512Go SSD + Ecran PC 27\" Acer 260 Hz FHD (ODR)",
+   "price_raw": "549,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-14-acer-aspire-go-14-ag14-72p-58az-fhd-ips-5-120u-16go-ram-512go-ssd-ecran-pc-27-acer-260-hz-fhd-odr-3457017",
+   "posted_at": "2026-11-16T07:26:37+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Acer Nitro V 16 AI - WQXGA IPS 180Hz, AMD Ryzen AI 9 365, Nvidia RTX 5070, 32Go RAM, 1To SSD, Copilot+ PC, W11",
+   "price_raw": "1 649€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-acer-nitro-v-16-ai-wqxga-ips-180hz-amd-ryzen-ai-9-365-nvidia-rtx-5070-32go-ram-1to-ssd-copilot-pc-windows-11-3456907",
+   "posted_at": "2026-11-16T07:26:35+00:00"
+  },
+  {
+   "title": "Liseuse eBook AMAZON Kindle Colorsoft - Noire 16Go",
+   "price_raw": "164,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/liseuse-ebook-amazon-kindle-colorsoft-noire-16go-3457003",
+   "posted_at": "2026-11-16T07:12:00+00:00"
+  },
+  {
+   "title": "souris Logitech G PRO X Superlight 2",
+   "price_raw": "89,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-g-pro-x-superlight-2-3456922",
+   "posted_at": "2026-11-16T06:18:03+00:00"
+  },
+  {
+   "title": "Micron 16Go DDR4 ECC Registered RDIMM 288 broches PC4-2133P",
+   "price_raw": "40.22 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147682793133?_skw=ddr4&hash=item22629496ad:g:x5UAAeSwK09q-q~u",
+   "posted_at": "2026-11-16T07:26:53+00:00"
+  },
+  {
+   "title": "SK hynix 16Go DDR4 ECC Registered DIMM 288 broches PC4-2666V",
+   "price_raw": "45.42 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147682782918?_skw=ddr4&hash=item2262946ec6:g:2-EAAeSw9LZq-q-g",
+   "posted_at": "2026-11-16T07:19:18+00:00"
+  },
+  {
+   "title": "Micron 16gb DDR5 5600  MTC8C1084S1SC56BD1 BC Sodimm Laptop Ram come nuovo #D102",
+   "price_raw": "155.66 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267844932166?_skw=ddr5&hash=item3e5ccd5246:g:EbkAAeSwRexq-qqC",
+   "posted_at": "2026-11-16T07:05:06+00:00"
+  },
+  {
    "title": "Ecran PC 27\" Philips Evnia 27M2N3500AM - 180Hz, Fast VA Dalle, 1ms GtG, HDR10, FreeSync Premium",
    "price_raw": "119€",
    "source": "dealabs",
@@ -528,7 +622,7 @@
    "posted_at": "2026-11-16T05:38:45+00:00"
   },
   {
-   "title": "Ventilateur de boîtier PC NZXT F120 RGB - 120mm PWM",
+   "title": "Ventilateur de boîtier PC NZXT F120 RGB - 120mm PWM, Blanc",
    "price_raw": "8,30€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ventilateur-de-boitier-pc-nzxt-f120-rgb-120mm-pwm-3456879",
@@ -542,11 +636,18 @@
    "posted_at": "2026-11-16T05:18:58+00:00"
   },
   {
-   "title": "PC portable Gaming 16\" Asus V3607VM-RP097W - FHD 144 Hz, Intel 5 210H, RTX 5060 75W, 16 Go RAM, 512 Go SSD, Win 11 (via 200€ fidelité)",
+   "title": "PC portable Gaming 16\" Asus V3607VM-RP097W - FHD 144 Hz, Intel 5 210H, RTX 5060 75W, 16Go RAM, 512Go SSD, Win 11 (via 200€ fidelité)",
    "price_raw": "799,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-16-asus-v3607vm-rp097w-fhd-144-hz-intel-5-210h-rtx-5060-75w-16-go-ram-512-go-ssd-win-11-via-200eur-fidelite-3456872",
    "posted_at": "2026-11-16T05:12:56+00:00"
+  },
+  {
+   "title": "Boîtier PC Corsair Frame 4500X RS-R ARGB - Verre Panoramique, avec 3 Ventilateurs RS120-R, Blanc",
+   "price_raw": "67,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-moyen-tour-corsair-frame-4500x-rs-r-argb-3x-ventilateurs-rs120-r-blanc-3456871",
+   "posted_at": "2026-11-16T05:12:48+00:00"
   },
   {
    "title": "Alimentation PC NZXT C750 80 Plus Bronze",
@@ -573,7 +674,7 @@
    "title": "Remplace carte graphique Radeon 5750 Apple iMac 11,3 27\" 2010 A1312 - 661-5578",
    "price_raw": "149.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858566?_skw=carte+graphique&hash=item5e7996e746:g:z3QAAOSwephn~il0&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nO%2BcMYTJkMPX9fh9LKl731bBnMQwXp3JknH0poFxwI9eVawuS%2FQyfXL7pOhmbVvL68rPatBJQmS4IXVxZyDfyJs80sRzuw47LKHa2k1aGocoCYDVvyKRwrlSVAZ9khmlCkCogN5DdEM20bGGJR1j7Izcj6w8gHGXhA7iii6M4599eNDkGDzgF%2FVFJZn11AoO8b5XcWnIodG3%2BC3Z%2BsrleEWw8QWB74FYTXbmJCv2bFB340TpyLlQza0dTEIAPNNWsOWqMuBxs1lY0xiWcIOlRe0h587aagDWvaLOlyGdDXEQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/405766858566?_skw=carte+graphique&hash=item5e7996e746:g:z3QAAOSwephn~il0&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nO%2BcMYTJkMPX9fh9LKl731bBnMQwXp3JknH0poFxwI9eVawuS%2FQyfXL7pOhmbVvL68rPatBJQmS4IXVxZyDfyJs80sRzuw47LKHa2k1aGocoCYDVvyKRwrlSVAZ9khmlCJxoIuhadWnQQhlo2fWgwWEwFki%2FvVk%2BSs%2FcB3qe20zPs8QcENFRVUe%2BoLLiyyBIVr6mt%2F5gGGmVMQiJLouixzUgAs3YOdNZSJKUU3nVrskwxhxEyorHNGzMNM1qqAov4fC6cKPSmFHIAshjM1SacJrznhZzgndNZ6rsfuO3nz5g%3D%3D",
    "posted_at": "2025-04-15T09:15:08+00:00"
   },
   {
@@ -715,94 +816,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/asus-34-oled-rog-strix-xg34wcdg-3456550",
    "posted_at": "2026-11-15T23:14:49+00:00"
-  },
-  {
-   "title": "PC Portable 16\" HP OmniBook 3 16-bz0000sf - Snapdragon X1, 16 Go RAM, SSD 512 Go, IPS FHD+, AZERTY, Windows 11",
-   "price_raw": "529€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-i16-hp-omnibook-3-16-bz0000sf-snapdragon-x1-16-go-ram-ssd-512-go-ips-fhd-azerty-windows-11-3456557",
-   "posted_at": "2026-11-15T23:14:26+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" MSI MAG 276CFA E20 - FullHD, incurvé",
-   "price_raw": "113,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-mag-276cfa-e20-ecran-gaming-incurve-27-fhd-3456553",
-   "posted_at": "2026-11-15T23:13:54+00:00"
-  },
-  {
-   "title": "Écran PC BenQ GW2790TE – Écran IPS 27\" FHD",
-   "price_raw": "126,31€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/benq-gw2790te-ecran-ips-27-fhd-3456541",
-   "posted_at": "2026-11-15T23:10:26+00:00"
-  },
-  {
-   "title": "Souris sans Fil/Hybride Cooler Master MM712 RGB-LED",
-   "price_raw": "19,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-filhybride-cooler-master-mm712-rgb-led-ultralegere-59g-19k-dpi-3456533",
-   "posted_at": "2026-11-15T23:08:31+00:00"
-  },
-  {
-   "title": "UGREEN NASync DXP4800 Plus - NAS 4 baies, 8 Go DDR5, 10GbE + 2.5GbE, Intel Pentium Gold 8505 (vendeur tiers)",
-   "price_raw": "519,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-plus-nas-4-baies-8-go-ddr5-10gbe-25gbe-intel-pentium-gold-8505-vendeur-tiers-3454040",
-   "posted_at": "2026-11-15T23:06:05+00:00"
-  },
-  {
-   "title": "UGREEN NASync DXP4800 Pro - NAS 4 baies, 8 Go DDR5, Intel Core i3-1315U, 10GbE + 2.5GbE (vendeur tiers)",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-pro-nas-4-baies-8-go-ddr5-intel-core-i3-1315u-10gbe-25gbe-vendeur-tiers-3454042",
-   "posted_at": "2026-11-15T23:04:07+00:00"
-  },
-  {
-   "title": "UGREEN NASync DXP4800 GT - NAS 4 baies, double 10GbE, Ryzen Embedded R2514, 8 Go RAM (vendeur tiers)",
-   "price_raw": "499,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-gt-nas-4-baies-double-10gbe-ryzen-embedded-r2514-8-go-ram-vendeur-tiers-3454030",
-   "posted_at": "2026-11-15T23:08:00+00:00"
-  },
-  {
-   "title": "NZXT Kraken Elite 240 RGB - watercooling AIO 240 mm avec écran LCD, noir ou blanc",
-   "price_raw": "99,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nzxt-kraken-elite-240-rgb-watercooling-aio-240-mm-avec-ecran-lcd-noir-ou-blanc-3455405",
-   "posted_at": "2026-11-15T23:06:04+00:00"
-  },
-  {
-   "title": "PC portable ASUS Vivobook 14 X1407QA - 14\" WUXGA IPS, Snapdragon X 8 cœurs, 16 Go RAM, SSD 512 Go, Copilot+ PC, Windows 11 - Sans chargeur",
-   "price_raw": "529,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-vivobook-14-x1407qa-14-wuxga-ips-snapdragon-x-8-coeurs-16-go-ram-ssd-512-go-copilot-pc-windows-11-sans-chargeur-3454429",
-   "posted_at": "2026-11-15T23:05:57+00:00"
-  },
-  {
-   "title": "Écran PC 27\" ASUS ROG Strix OLED XG27AQDMES - QD-OLED, 240 Hz, 0,03 ms, capteur de proximité Neo, OLED Care Pro, ELMB, G-Sync",
-   "price_raw": "379,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-asus-rog-strix-oled-xg27aqdmes-qd-oled-240-hz-003-ms-capteur-de-proximite-neo-oled-care-pro-elmb-g-sync-3454046",
-   "posted_at": "2026-11-15T23:05:15+00:00"
-  },
-  {
-   "title": "Pack Souris + Clavier sans fil Logitech MK295 Silent (Blanc ou Noir)",
-   "price_raw": "19,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-souris-clavier-sans-fil-logitech-mk295-silent-blanc-ou-noir-3454121",
-   "posted_at": "2026-11-15T23:01:12+00:00"
-  },
-  {
-   "title": "Pack clavier + souris sans fil Logitech MK235 Combo",
-   "price_raw": "19,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-clavier-souris-sans-fil-logitech-mk235-combo-3454608",
-   "posted_at": "2026-11-15T23:00:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1783,
-  "models_with_reference": 54
+  "listings_seen": 1793,
+  "models_with_reference": 55
  }
 }
