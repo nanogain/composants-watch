@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T15:08:00Z",
+ "generated_at": "2026-11-16T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-16T15:08:00.657453+00:00"
+   "items": 346,
+   "last_ok": "2026-11-16T15:38:00.672091+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T15:08:00.657453+00:00"
+   "last_ok": "2026-11-16T15:38:00.672091+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-16T15:08:00.657453+00:00"
+   "items": 376,
+   "last_ok": "2026-11-16T15:38:00.672091+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 17,
-   "last_ok": "2026-11-16T15:08:00.657453+00:00"
+   "items": 80,
+   "last_ok": "2026-11-16T15:38:00.672091+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9yWWHS4gOpDZH3T6qt%2FpzsNc1a%2FvcvAcwCf0dMNEEDZrryxkvvADT36Ef17Jk9smwynTjkMcXvpUF0CJ%2F3tecucc3coKXjcuEE1Dj6AbmcNHFgBsawLuXTWIWXnVsMQISzx2u0HT44sqMkIOWN5lL97UmBGkmkoBeZR%2FTQHA2PVg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B81Aaebk%2BYUCj83pRB3PfBaaYAP5RU2Tmfg6RE2CZP%2FxnHNc32FkeQFJc4r%2BxXfWTvPoNJ%2FX%2FkuXZmDWwELIXQtRGjlGzaTr%2FMK3VGeX0L6vpT2BZWZA9lrywneD5FUaz3U2XKzSFnOyfiJUX6v%2ByyUdDXIFCqSsykOQoJ2%2BdZevQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -211,23 +211,6 @@
    "posted_at": "2026-11-13T23:01:35+00:00"
   },
   {
-   "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
-   "model": "RAM:DDR4-16Go-2666",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 48.54,
-   "shipping_eur": 0.0,
-   "effective_eur": 48.54,
-   "median_eur": 66.22,
-   "discount_pct": 26.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
-   "posted_at": "2026-11-13T23:04:42+00:00"
-  },
-  {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
    "model": "MB:B650",
    "category": "MB",
@@ -262,21 +245,21 @@
    "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
-   "title": "TIMETEC 32 Go SODIMM 78AP26NUS2R8 DDR4 2666 MHz barrette mémoire RAM",
-   "model": "RAM:DDR4-32Go-2666",
-   "category": "RAM",
+   "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
    "condition": "used",
-   "price_eur": 104.7,
-   "shipping_eur": 3.0,
-   "effective_eur": 107.7,
-   "median_eur": 140.87,
-   "discount_pct": 23.5,
+   "price_eur": 46.2,
+   "shipping_eur": 3.78,
+   "effective_eur": 49.98,
+   "median_eur": 62.77,
+   "discount_pct": 20.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · retrogames600 (99,2 %, 443 avis)",
+   "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366814336035?_skw=ddr4&hash=item5567d69423:g:JOQAAeSwk9Fq-xhh",
-   "posted_at": "2026-11-16T15:02:46+00:00"
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71MfTACTQ--XOzbIdh9r3Vu1pVsQQjdvK8Ysw4rIZX0iHic8WP3woukHbrWCBm3pvEU2jjXFJYp0ut%2BQs5ZtGXU%2BP9nRanYEm4DoOPYtaQtDFCt0faJCgw0%2BY5c9bCxk0iYOS6XUp8tKo%2F%2BlFsdxTFQ",
+   "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
    "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
@@ -349,18 +332,81 @@
  ],
  "unclassified": [
   {
-   "title": "Logitech G G515 Lightspeed TKL profilé Clavier Gaming sans Fil",
-   "price_raw": "74,99€",
+   "title": "Webcam éElgato Facecam Neo – Webcam Full HD",
+   "price_raw": "37,99€",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g-g515-lightspeed-tkl-profile-clavier-gaming-sans-fil-3457833",
-   "posted_at": "2026-11-16T15:08:05+00:00"
+   "url": "https://www.dealabs.com/bons-plans/elgato-facecam-neo-webcam-full-hd-3457851",
+   "posted_at": "2026-11-16T15:23:00+00:00"
   },
   {
-   "title": "MSI GeForce GT 710 1GB DDR3 LP Carte Graphique Low Profile HDMI DVI VGA",
-   "price_raw": "29.90 EUR",
+   "title": "Souris sans fil Logitech G Pro X Superlight 2",
+   "price_raw": "85,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-g-pro-x-superlight-2-souris-gaming-sans-fil-est-europe-version-3457837",
+   "posted_at": "2026-11-16T15:12:17+00:00"
+  },
+  {
+   "title": "SK hynix 64 Go (4x16) DDR4 ECC RDIMM PC4-2400T 288P HMA82GR7AFR4N-UH",
+   "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377650566182?_skw=carte+graphique&hash=item57edba5426:g:aMYAAeSwegtq-xbc",
-   "posted_at": "2026-11-16T14:46:27+00:00"
+   "url": "https://www.ebay.fr/itm/336900389087?_skw=ddr4&hash=item4e70d3f8df:g:G9cAAeSw42hq-yGe",
+   "posted_at": "2026-11-16T15:33:03+00:00"
+  },
+  {
+   "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC SDRAM DIMM PC4-2400T HMA82GR7MFR4N-UH",
+   "price_raw": "156.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b",
+   "posted_at": "2026-11-16T15:29:39+00:00"
+  },
+  {
+   "title": "RAM crucial 8 GB GO RAM DDR4 PC4-2400 SO-DIMM",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366814369386?_skw=ddr4&hash=item5567d7166a:g:US8AAeSwAkhq-x8~",
+   "posted_at": "2026-11-16T15:21:39+00:00"
+  },
+  {
+   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx16 PC4-3200AA  SO-DIMM",
+   "price_raw": "26.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366814372138?_skw=ddr4&hash=item5567d7212a:g:n2QAAeSwS~Nq-x~F",
+   "posted_at": "2026-11-16T15:23:41+00:00"
+  },
+  {
+   "title": "Kingston 32gb 2x16gb Ddr4  KCP432SD8/16 3200 Sodimm Laptop Ram",
+   "price_raw": "149.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366814378506?_skw=ddr4&hash=item5567d73a0a:g:mCIAAeSwK09q-yBy",
+   "posted_at": "2026-11-16T15:27:26+00:00"
+  },
+  {
+   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366814367678?_skw=ddr4&hash=item5567d70fbe:g:6dkAAeSwZKlq-x8g",
+   "posted_at": "2026-11-16T15:20:15+00:00"
+  },
+  {
+   "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
+   "price_raw": "68.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840134878167?_skw=carte+m%C3%A8re&hash=itemc39bf0e3d7:g:sGQAAeSwtJ9q-xv9",
+   "posted_at": "2026-11-16T15:07:06+00:00"
+  },
+  {
+   "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
+   "price_raw": "68.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840134902843?_skw=carte+m%C3%A8re&hash=itemc39bf1443b:g:JcEAAeSwE41q-x21",
+   "posted_at": "2026-11-16T15:14:31+00:00"
+  },
+  {
+   "title": "CARTE MÈRE HP NETSERVER E60 D7140-63000 + PENTIUM III 500 MHz + NAPPES",
+   "price_raw": "156.60 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880123261277?_skw=carte+m%C3%A8re&hash=itemcceb6f315d:g:M8AAAeSwwidq-xvD",
+   "posted_at": "2026-11-16T15:16:32+00:00"
   },
   {
    "title": "Lot de barrettes RAM PC portables DDR4/DDR3 et fixes DDR2/DDR3...",
@@ -634,73 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-156-samsung-galaxy-book4-edge-snapdragon-x-plus-ram-16-go-ssd-256-go-wi-fi-7-copilot-fhd-windows-11-3457317",
    "posted_at": "2026-11-16T09:40:13+00:00"
-  },
-  {
-   "title": "Souris filaire Logitech G G502 Hero - Noir",
-   "price_raw": "28,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gamer-filaire-logitech-g-g502-hero-3457314",
-   "posted_at": "2026-11-16T09:39:42+00:00"
-  },
-  {
-   "title": "[Adhérents Fnac+] PC Portable Gamer 16\" MSI Crosshair 16 Max HX E2WGK-002FR - QHD+ 240Hz, Core Ultra 7, RTX 5070, 16 Go, 512 Go",
-   "price_raw": "1 449,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-fnac-pc-portable-gamer-16-msi-crosshair-16-max-hx-e2wgk-002fr-qhd-240hz-core-ultra-7-rtx-5070-16-go-512-go-1-35039eur-3457230",
-   "posted_at": "2026-11-16T08:59:15+00:00"
-  },
-  {
-   "title": "Liseuse 7\" Amazon Kindle Paperwhite Signature Edition 32 Go (modèle 2024)",
-   "price_raw": "159,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amazon-kindle-paperwhite-signature-edition-32-go-modele-2024-3457291",
-   "posted_at": "2026-11-16T09:25:58+00:00"
-  },
-  {
-   "title": "Souris sans fil Razer Basilisk V3 Pro",
-   "price_raw": "78,69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-razer-basilisk-v3-pro-3457288",
-   "posted_at": "2026-11-16T09:24:13+00:00"
-  },
-  {
-   "title": "PC portable 13\" Apple MacBook Neo (2026) - Puce A18 Pro, 8 Go RAM, 256 Go SSD, Jaune agrume, AZERTY (via 159,99€ fidélité)",
-   "price_raw": "639,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-13-apple-macbook-neo-2026-puce-a18-pro-8-go-ram-256-go-ssd-jaune-agrume-azerty-via-15999eur-fidelite-3457285",
-   "posted_at": "2026-11-16T09:22:58+00:00"
-  },
-  {
-   "title": "Liseuse 11\" Amazon Kindle Scribe 2026 - 64 Go",
-   "price_raw": "399,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amazon-kindle-scribe-64-go-nouvelle-generation-ecran-11-effet-papier-avec-eclairage-avant-3457277",
-   "posted_at": "2026-11-16T09:17:59+00:00"
-  },
-  {
-   "title": "Souris sans fil Razer Viper V3 Pro SE",
-   "price_raw": "70,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-razer-viper-v3-pro-se-3457266",
-   "posted_at": "2026-11-16T09:12:32+00:00"
-  },
-  {
-   "title": "[Via App] Ecran PC 27\" Samsung ViewFinity S8 S80HF - 5K, IPS, USB-C 90 W, Ethernet, KVM",
-   "price_raw": "404,10€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/via-app-samsung-shop-ecran-pc-27-samsung-viewfinity-s8-s80hf-5k-ips-usb-c-90-w-ethernet-kvm-avec-le-code-app10-3457212",
-   "posted_at": "2026-11-16T08:50:58+00:00"
-  },
-  {
-   "title": "[Controller] Sony Interactive Entertainment DualSense Wireless Controller for PS5, PC, Mac & Mobile Midnight Black - $54.99 (26% off)",
-   "price_raw": "$54.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxl74f/controller_sony_interactive_entertainment/",
-   "posted_at": "2026-11-16T09:35:09+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1880,
+  "listings_seen": 1893,
   "models_with_reference": 60
  }
 }
