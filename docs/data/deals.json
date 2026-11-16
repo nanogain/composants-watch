@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T08:38:00Z",
+ "generated_at": "2026-11-16T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-16T08:38:00.625705+00:00"
+   "items": 343,
+   "last_ok": "2026-11-16T09:08:00.619481+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T08:38:00.625705+00:00"
+   "last_ok": "2026-11-16T09:08:00.619481+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-16T08:38:00.625705+00:00"
+   "items": 374,
+   "last_ok": "2026-11-16T09:08:00.619481+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 37,
-   "last_ok": "2026-11-16T08:38:00.625705+00:00"
+   "items": 80,
+   "last_ok": "2026-11-16T09:08:00.619481+00:00"
   }
  },
  "watchlist": [
@@ -58,6 +58,23 @@
    "posted_at": "2026-11-13T13:14:00+00:00"
   },
   {
+   "title": "SSD SATA 128Gb SanDisk X400 M.2 2280 ",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 13.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 13.99,
+   "median_eur": 27.79,
+   "discount_pct": 49.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860148328289?_skw=ssd&hash=itemc844d5e761:g:3t0AAeSwNGdq-sNM",
+   "posted_at": "2026-11-16T08:48:33+00:00"
+  },
+  {
    "title": "Carte mère SOYO B850M WiFi ITX - AM5, DDR5, PCIe 5.0, 2x M.2, Wi-Fi 6, 2.5GbE",
    "model": "MB:B850",
    "category": "MB",
@@ -65,8 +82,8 @@
    "price_eur": 79.3,
    "shipping_eur": null,
    "effective_eur": 79.3,
-   "median_eur": 157.13,
-   "discount_pct": 49.5,
+   "median_eur": 156.28,
+   "discount_pct": 49.3,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -82,31 +99,14 @@
    "price_eur": 15.0,
    "shipping_eur": 0.0,
    "effective_eur": 15.0,
-   "median_eur": 29.0,
-   "discount_pct": 48.3,
+   "median_eur": 27.79,
+   "discount_pct": 46.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · bons_prix_bons_produits (pro)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227169935964?_skw=ssd&hash=item34e462225c:g:vT0AAeSwOYdpY-fu",
    "posted_at": "2026-01-11T18:22:04+00:00"
-  },
-  {
-   "title": "SanDisk X400 SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ 7 mm",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.5,
-   "shipping_eur": 2.78,
-   "effective_eur": 15.28,
-   "median_eur": 29.0,
-   "discount_pct": 47.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701501616?_skw=ssd&hash=item30205e9cb0:g:AEEAAeSwPjFq-Nat",
-   "posted_at": "2026-11-14T21:49:57+00:00"
   },
   {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B84y%2FXLsXPekVLgRGeyp2PRSozGncAEmFJK4MzdbTDJB0VnGB%2FVDDZnjUCqLZEgFPGQw83jz%2BFTuzx89B5i00AdpJacq90icJt59k6rOVnlNjK9Dnp%2FZj4CaRscKwNEKKHo1tjtux57mQ9P01M0j6O%2Fq%2BCMZDu7yqQFVp8DUvVelQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bz3FwQk98bAMFrK1qaZXI1%2BD90KIHhbmqoIodz3OrTX%2FwQ3SPZiYqmV%2B6Xz6HUv5Nd2rwcoBgKax24NOnRpiQlSMek2pzp4DK8dsg1BYT9BodAeqGRAu2uzpM%2Fr2U6RcB6AdNZR3kD8QXJXJhGKMxqPFBgAGlkSTzFYuG8%2B4YodA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -141,6 +141,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237180862574?_skw=ssd&hash=item373914c06e:g:l4oAAeSwz6hq9xL~",
    "posted_at": "2026-11-13T13:40:26+00:00"
+  },
+  {
+   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 13.96,
+   "shipping_eur": 3.78,
+   "effective_eur": 17.74,
+   "median_eur": 27.79,
+   "discount_pct": 36.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt6QOTNrJpB%2BC3krWfhhkw0dVxbX1G4Tt3kOlpE6cjdqxf8LUMeL8mvHLEb%2Fnk8sslUqmpj3y9hWBGqLuEimjP7%2Bg9KJY1KLJjiJpfS7XwojCHkA3ZA4M%2Be%2B6ml3sgG2%2BL%2BGfD5afk%2BaTDdPiZW%2FqkUT",
+   "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
    "title": "Kingston 240Go SSD  ( A400 - SA400S37/240G )  2,5\" SATA Interne PC (86%)",
@@ -228,6 +245,23 @@
    "posted_at": "2026-11-13T23:01:35+00:00"
   },
   {
+   "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
+   "model": "MB:B550",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 76.99,
+   "shipping_eur": null,
+   "effective_eur": 76.99,
+   "median_eur": 101.99,
+   "discount_pct": 24.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b550m-acsm-am4-ddr4-pcie-40-2-x-m2-micro-atx-3455364",
+   "posted_at": "2026-11-15T23:04:06+00:00"
+  },
+  {
    "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
    "model": "RAM:DDR4-16Go-2666",
    "category": "RAM",
@@ -243,23 +277,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
    "posted_at": "2026-11-13T23:04:42+00:00"
-  },
-  {
-   "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
-   "model": "MB:B550",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 76.99,
-   "shipping_eur": null,
-   "effective_eur": 76.99,
-   "median_eur": 99.86,
-   "discount_pct": 22.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b550m-acsm-am4-ddr4-pcie-40-2-x-m2-micro-atx-3455364",
-   "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
    "title": "Écran PC 27\" Samsung Odyssey G5 G53F - QHD, IPS, 200 Hz, Freesync Premium, 1 ms (Vendeur Darty - 89.99€ pour les nouveaux clients)",
@@ -467,6 +484,62 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Mémoire PC RAM 32 Go (2x8Go) Netac Shadow III - DDR4, 3200 MT/s, CL16",
+   "price_raw": "87,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kit-memoire-ram-32-go-2x16go-netac-shadow-iii-ddr4-3200-mts-cl16-3457238",
+   "posted_at": "2026-11-16T09:02:09+00:00"
+  },
+  {
+   "title": "Boitier Orico Disque Dur ou SSD - 2.5\", 6 Gbps, USB C 3.1 (vendeur tiers)",
+   "price_raw": "7,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-orico-disque-dur-ou-ssd-25-6gbps-usb-c-31-vendeur-tiers-3457163",
+   "posted_at": "2026-11-16T08:44:37+00:00"
+  },
+  {
+   "title": "Souris sans fil Logitech G305 Lightspeed - 12 000 dpi, 6 Boutons Programmables, Capteur HERO + Tapis de souris gamer Logitech G G240",
+   "price_raw": "24,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-g305-lightspeed-12-000-dpi-6-boutons-programmables-capteur-hero-tapis-de-souris-gamer-logitech-g-g240-3452526",
+   "posted_at": "2026-11-16T09:02:00+00:00"
+  },
+  {
+   "title": "Souris sans fil Ugreen - Verticale, ergonomique, 2,4G ou Bluetooth 5.4, 4000 DPI, 6 boutons (Vendeur Tiers)",
+   "price_raw": "17,13€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-ugreen-verticale-ergonomique-24g-ou-bluetooth-54-4000-dpi-6-boutons-vendeur-tiers-3457189",
+   "posted_at": "2026-11-16T08:52:36+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Gigabyte A16 EVHS3FR894SH - Intel Core Ultra 9 185H, 16 Go RAM, 1 To SSD, 16\" FHD+ 165 Hz, RTX 5060, W11",
+   "price_raw": "1 299,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gigabyte-gaming-a16-evhs3fr894sh-intel-core-ultra-9-185h-16-go-ssd-1-to-16-fhd-165-hz-rtx-5060-3457193",
+   "posted_at": "2026-11-16T08:45:44+00:00"
+  },
+  {
+   "title": "Tablette tactile 5G 11\" Samsung Galaxy Tab A11+ - 128 Go, RAM 6 Go, Écran 90Hz, Android 16, Chargeur 25W inclus",
+   "price_raw": "249,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-5g-11-samsung-galaxy-tab-a11-128-go-ram-6-go-ecran-90hz-android-16-chargeur-25w-inclus-3457188",
+   "posted_at": "2026-11-16T08:41:39+00:00"
+  },
+  {
+   "title": "Volant & Pédalier Logitech G29 Driving Force - pour PS, PC & MAC",
+   "price_raw": "179,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/volant-gaming-logitech-g29-pour-ps-pc-mac-3457171",
+   "posted_at": "2026-11-16T08:36:28+00:00"
+  },
+  {
+   "title": "16 Go Ram DDR4 - lot de 2 x 8 Go - Sk hynix so-dimm - 3200 AA",
+   "price_raw": "48.85 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940096409183?_skw=ddr4&hash=itemdae21cce5f:g:xHgAAeSwJWJq-sCu",
+   "posted_at": "2026-11-16T08:37:35+00:00"
+  },
   {
    "title": "Boitier PC Fractal Design North XL Charcoal Black - Trois Ventilateurs Aspect PWM de 140 mm Inclus",
    "price_raw": "127,49€",
@@ -760,66 +833,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-moyen-tour-corsair-frame-4500x-rs-r-argb-3x-ventilateurs-rs120-r-blanc-3456871",
    "posted_at": "2026-11-16T05:12:48+00:00"
-  },
-  {
-   "title": "Souris MMO filaire Redragon M908 Impact RGB - 12400 DPI, White (Vendeur tiers)",
-   "price_raw": "32,29€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/redragon-m908-impact-souris-mmo-filaire-rgb-12400-dpi-white-3456853",
-   "posted_at": "2026-11-16T04:39:54+00:00"
-  },
-  {
-   "title": "Batterie de secours et parasurtenseur Ugreen US2000 Onduleur NAS (Vendeur tiers)",
-   "price_raw": "59,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/10eur-de-remise-sur-le-ugreen-us2000-3456849",
-   "posted_at": "2026-11-16T04:36:10+00:00"
-  },
-  {
-   "title": "Remplace carte graphique Radeon 5750 Apple iMac 11,3 27\" 2010 A1312 - 661-5578",
-   "price_raw": "149.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858566?_skw=carte+graphique&hash=item5e7996e746:g:z3QAAOSwephn~il0&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nO%2BcMYTJkMPX9fh9LKl731bBnMQwXp3JknH0poFxwI9eVawuS%2FQyfXL7pOhmbVvL68rPatBJQmS4IXVxZyDfyJs80sRzuw47LKHa2k1aGocoCYDVvyKRwrlSVAZ9khmlB%2BY%2BeU7Lrw%2BLcAuB%2Fk5SKMax3JT0RaoJo%2BxIykBjRYdup6Py6EfsL94Mig6UraxnWkVaqOI9%2FCtOtCvPCYn%2B9xbkJo4ncM5xeVlJI4x1A3rrOzdx6kf8BwMqQTNQZig8R6aeUAXly63BW%2BEOrZ%2FCAzJ%2B7eyVOxGBuD9EfsnHF4Zw%3D%3D",
-   "posted_at": "2025-04-15T09:15:08+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Lenovo Chromebook 14M8911 - MediaTek Kompanio 540, RAM 8 Go, SSD 128 Go, Wi-Fi 6E, ChromeOS, sans chargeur",
-   "price_raw": "249,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lenovo-chromebook-14m8911-pc-8go-ram-128go-mediatek-kompanio-540-3456845",
-   "posted_at": "2026-11-16T04:29:31+00:00"
-  },
-  {
-   "title": "KINGSTON pour DELL – Barrette RAM 4 Go DDR4-2400T – DIMM 288 broches – PC4",
-   "price_raw": "26.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398358565806?_skw=ddr4&hash=item5cc00553ae:g:jz8AAeSwFs9qmruR",
-   "posted_at": "2026-09-04T12:39:19+00:00"
-  },
-  {
-   "title": "Carte mère pour MacBook Pro 15 A1398 2012-2015 compatible - Mid 2012 / Early",
-   "price_raw": "50.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/820284780077?_skw=carte+m%C3%A8re&hash=itembefcc86e2d:g:sAQAAeSwMFJq4PYJ",
-   "posted_at": "2026-10-27T19:04:38+00:00"
-  },
-  {
-   "title": "NEUF NEW clavier gaming AZERTY rétro éclairé PC touche rapide macro métal NACON",
-   "price_raw": "14.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/305109395806?_skw=clavier&hash=item4709efe95e:g:2oMAAOSwMLFk8LOU",
-   "posted_at": "2023-08-31T15:40:26+00:00"
-  },
-  {
-   "title": "[PSU] MSI MAG A750GLS PCIE5 750W PSU (A- Tier, 10 yr Warranty) - $70 Best Buy",
-   "price_raw": "$70",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxfiwi/psu_msi_mag_a750gls_pcie5_750w_psu_a_tier_10_yr/",
-   "posted_at": "2026-11-16T03:55:23+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1818,
+  "listings_seen": 1832,
   "models_with_reference": 57
  }
 }
