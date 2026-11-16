@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T08:08:00Z",
+ "generated_at": "2026-11-16T08:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-16T08:08:00.670902+00:00"
+   "items": 346,
+   "last_ok": "2026-11-16T08:38:00.625705+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T08:08:00.670902+00:00"
+   "last_ok": "2026-11-16T08:38:00.625705+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 378,
-   "last_ok": "2026-11-16T08:08:00.670902+00:00"
+   "last_ok": "2026-11-16T08:38:00.625705+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-16T08:08:00.670902+00:00"
+   "items": 37,
+   "last_ok": "2026-11-16T08:38:00.625705+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9TxWYLOhWP6KtMkNISZzrIK%2Fkq9%2FGpuP%2FiXE%2B7B9HE2rkTQhGrxbrnE56k3HglEObxA46%2BXcOr215zEeWnEI44eTtTMsqiSXRoa%2BnR8cNkw70haqjQ0D1DdlhPZiPaNDeMl9V8YuXEgW5LTfN9ngd9LON1exer5J7zbVa3eE5C%2Bw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B84y%2FXLsXPekVLgRGeyp2PRSozGncAEmFJK4MzdbTDJB0VnGB%2FVDDZnjUCqLZEgFPGQw83jz%2BFTuzx89B5i00AdpJacq90icJt59k6rOVnlNjK9Dnp%2FZj4CaRscKwNEKKHo1tjtux57mQ9P01M0j6O%2Fq%2BCMZDu7yqQFVp8DUvVelQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -141,23 +141,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237180862574?_skw=ssd&hash=item373914c06e:g:l4oAAeSwz6hq9xL~",
    "posted_at": "2026-11-13T13:40:26+00:00"
-  },
-  {
-   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 13.96,
-   "shipping_eur": 3.78,
-   "effective_eur": 17.74,
-   "median_eur": 29.0,
-   "discount_pct": 38.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt6qgsxkQlFnChwJS9jxHWyTiFo91F%2BmHDSePfSiBTnCrJcj1IuZoqTjM6VLN8kj4jtQbS0duxIkJXHMx%2Bme1kihLaBEoYfvF3fu%2F0SjcNQ19rCiGwpjmhAYI4w2Mu6oHMJiKxvUsgW6fz3mdK00wxVB",
-   "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
    "title": "Kingston 240Go SSD  ( A400 - SA400S37/240G )  2,5\" SATA Interne PC (86%)",
@@ -485,6 +468,90 @@
  ],
  "unclassified": [
   {
+   "title": "Boitier PC Fractal Design North XL Charcoal Black - Trois Ventilateurs Aspect PWM de 140 mm Inclus",
+   "price_raw": "127,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/fractal-design-north-xl-charcoal-black-3457147",
+   "posted_at": "2026-11-16T08:34:57+00:00"
+  },
+  {
+   "title": "Pack Souris Logitech G502 HERO + Clavier Azerty G213 RVB",
+   "price_raw": "63,48€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-logitech-g502-hero-clavier-azerty-g213-rvb-3457097",
+   "posted_at": "2026-11-16T08:28:32+00:00"
+  },
+  {
+   "title": "souris SteelSeries Aerox 9 Wireless - Souris MMO, sans fil, perforée, RGB, Ultra-légère et résistante à l’eau, 18 boutons, Bluetooth/2.4",
+   "price_raw": "81,21€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/steelseries-aerox-9-wireless-souris-mmo-sans-fil-perforee-rgb-ultra-legere-et-resistante-a-leau-18-boutons-bluetooth24-3457066",
+   "posted_at": "2026-11-16T08:24:14+00:00"
+  },
+  {
+   "title": "Watercooling AIO Corsair Nautilus 360RS ARGB",
+   "price_raw": "84,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/watercooling-aio-corsair-nautilus-360-rs-argb-3457063",
+   "posted_at": "2026-11-16T08:22:53+00:00"
+  },
+  {
+   "title": "NAS Ugreen DH2300 - 2 Baies, Stockage, 4K HDMI, Sauvegarde Cloud 4Go RAM, Connexion NFC, LAN 1GbE (vendeur tiers)",
+   "price_raw": "179,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-dh2300-nas-bureau-2-baies-stockage-nas-4k-hdmi-sauvegarde-cloud-4go-ram-connexion-nfc-lan-1gbe-3457077",
+   "posted_at": "2026-11-16T08:20:00+00:00"
+  },
+  {
+   "title": "Souris sans fil Logitech G Pro X Superlight 2 SE - 5 boutons programmables",
+   "price_raw": "71,96€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-g-pro-x-superlight-2-se-5-boutons-programmables-3457076",
+   "posted_at": "2026-11-16T08:19:23+00:00"
+  },
+  {
+   "title": "Souris sans Fil Logitech G G305 Lightspeed - Capteur Gaming HERO, 12 000 PPP",
+   "price_raw": "29,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-g-g305-lightspeed-souris-gamer-sans-fil-capteur-gaming-hero-12-000-ppp-3457102",
+   "posted_at": "2026-11-16T08:11:27+00:00"
+  },
+  {
+   "title": "Imprimante Multifonction tout-en-un HP Smart Tank 5107 - Blanc",
+   "price_raw": "149,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-tout-en-un-hp-smart-tank-5107-blanc-fnac-3457099",
+   "posted_at": "2026-11-16T08:10:40+00:00"
+  },
+  {
+   "title": "Boitier PC Cooler Master MasterBox NR200P Max",
+   "price_raw": "159,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-cooler-master-mini-itx-nrp-200-p-max-3457096",
+   "posted_at": "2026-11-16T08:10:07+00:00"
+  },
+  {
+   "title": "Souris filaire Logitech G502 X - Capteur Hero 25K, 13 Boutons, avec Tapis G240, Noir",
+   "price_raw": "39,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-filaire-logitech-g502-x-capteur-hero-25k-13-boutons-avec-tapis-g240-noir-3457086",
+   "posted_at": "2026-11-16T08:06:50+00:00"
+  },
+  {
+   "title": "Sonnette vidéo filaire Blink 2K+ (nouvelle génération) - Alimentation raccordée, Audio amélioré, Résistant aux intempéries IP65 (Noir)",
+   "price_raw": "24,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/sonnette-video-filaire-blink-2k-nouvelle-generation-alimentation-raccordee-audio-ameliore-resistant-aux-intemperies-ip65-noir-3454614",
+   "posted_at": "2026-11-16T08:06:13+00:00"
+  },
+  {
+   "title": "[PREBUILT] MSI Aegis Gaming Desktop - AMD Ryzen 9 9900X - GeForce RTX 5080 - Windows 11 Home - 32GB RAM - 2TB SSD - $2799.99",
+   "price_raw": "$2799.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxjx93/prebuilt_msi_aegis_gaming_desktop_amd_ryzen_9/",
+   "posted_at": "2026-11-16T08:12:05+00:00"
+  },
+  {
    "title": "Liseuse Amazon Kindle Colorsoft - 16 Go, Écran couleur 7\", Éclairage réglable, Autonomie jusqu'à 8 semaines",
    "price_raw": "164,99€",
    "source": "dealabs",
@@ -497,13 +564,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/acer-nitro-v-15-gaming-laptop-156-ryzen-7-rtx-5050-16gb-3457075",
    "posted_at": "2026-11-16T08:00:47+00:00"
-  },
-  {
-   "title": "NZXT H6 Flow - Boîtier PC Compact Double Chambre ATX - Blanc",
-   "price_raw": "69,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nzxt-h6-flow-boitier-pc-compact-double-chambre-atx-blanc-3457049",
-   "posted_at": "2026-11-16T07:51:18+00:00"
   },
   {
    "title": "Macbook Air 15 pouces - M5, 512Go, coloris Lumière stellaire ou Argent",
@@ -527,7 +587,7 @@
    "posted_at": "2026-11-16T07:42:33+00:00"
   },
   {
-   "title": "Boîtier PC gaming MSI MPG GUNGNIR 110R WHITE",
+   "title": "Boîtier PC gaming MSI MPG Gungnir 110R - White",
    "price_raw": "59,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-gaming-msi-mpg-gungnir-110r-white-3457024",
@@ -702,13 +762,6 @@
    "posted_at": "2026-11-16T05:12:48+00:00"
   },
   {
-   "title": "Alimentation PC NZXT C750 80 Plus Bronze",
-   "price_raw": "37,94€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-nzxt-c750-80-plus-bronze-3456865",
-   "posted_at": "2026-11-16T05:02:00+00:00"
-  },
-  {
    "title": "Souris MMO filaire Redragon M908 Impact RGB - 12400 DPI, White (Vendeur tiers)",
    "price_raw": "32,29€",
    "source": "dealabs",
@@ -726,7 +779,7 @@
    "title": "Remplace carte graphique Radeon 5750 Apple iMac 11,3 27\" 2010 A1312 - 661-5578",
    "price_raw": "149.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858566?_skw=carte+graphique&hash=item5e7996e746:g:z3QAAOSwephn~il0&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nO%2BcMYTJkMPX9fh9LKl731bBnMQwXp3JknH0poFxwI9eVawuS%2FQyfXL7pOhmbVvL68rPatBJQmS4IXVxZyDfyJs80sRzuw47LKHa2k1aGocoCYDVvyKRwrlSVAZ9khmlDYjsAX9ki2qpiAG66BF4N8qs4p6SkE8wGDftssff9dOsLbiAHgiDbSMVBURVWoeBgUm%2BiBsFClHDxeh%2FyfcXIaJlejlhiq6XN7i1eZDE20er%2FArdrGtGPMd5Qwprh%2FVrXm2LfpxopkQc9%2BdUr2O5SGVmrZOeAJO4uFmajrE%2Bo2Qg%3D%3D",
+   "url": "https://www.ebay.fr/itm/405766858566?_skw=carte+graphique&hash=item5e7996e746:g:z3QAAOSwephn~il0&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nO%2BcMYTJkMPX9fh9LKl731bBnMQwXp3JknH0poFxwI9eVawuS%2FQyfXL7pOhmbVvL68rPatBJQmS4IXVxZyDfyJs80sRzuw47LKHa2k1aGocoCYDVvyKRwrlSVAZ9khmlB%2BY%2BeU7Lrw%2BLcAuB%2Fk5SKMax3JT0RaoJo%2BxIykBjRYdup6Py6EfsL94Mig6UraxnWkVaqOI9%2FCtOtCvPCYn%2B9xbkJo4ncM5xeVlJI4x1A3rrOzdx6kf8BwMqQTNQZig8R6aeUAXly63BW%2BEOrZ%2FCAzJ%2B7eyVOxGBuD9EfsnHF4Zw%3D%3D",
    "posted_at": "2025-04-15T09:15:08+00:00"
   },
   {
@@ -763,80 +816,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xxfiwi/psu_msi_mag_a750gls_pcie5_750w_psu_a_tier_10_yr/",
    "posted_at": "2026-11-16T03:55:23+00:00"
-  },
-  {
-   "title": "Ventilateur ventirad pour LENOVO Thinkpad T470 T480 FRU : 01AX926 01AX928 01ER49",
-   "price_raw": "10.69 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/157323143498?_skw=ventirad&hash=item24a130a94a:g:dfEAAeSwkeFoyBM0",
-   "posted_at": "2025-09-15T13:33:58+00:00"
-  },
-  {
-   "title": "iiyama G-MASTER GB2771UHSU-B1 écran plat de PC 68,6 cm (27\") 3840 x 2160 pixels",
-   "price_raw": "287.28 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307195440592?_skw=%C3%A9cran+pc&hash=item4786466dd0:g:-qEAAeSwAHxq7jfk",
-   "posted_at": "2026-09-23T21:50:58+00:00"
-  },
-  {
-   "title": "[TV] TCL 98\" Q Series QLED 4K UHD HDR Smart Google TV (New, Limited Edition) - Dolby Vision, Dolby Atmos, Motion Rate 240, HDR 10+, Auto Game Mode - $898 (includes free installation)",
-   "price_raw": "$898",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxcoek/tv_tcl_98_q_series_qled_4k_uhd_hdr_smart_google/",
-   "posted_at": "2026-11-16T01:31:57+00:00"
-  },
-  {
-   "title": "[Headset] HyperX Cloud III Wired Headphones at Walmart - $39",
-   "price_raw": "$39",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxco0v/headset_hyperx_cloud_iii_wired_headphones_at/",
-   "posted_at": "2026-11-16T01:31:28+00:00"
-  },
-  {
-   "title": "Souris filaire Logitech G502 Hero - HERO 25K, 25 600 PPP, RVB, Poids Ajustable, 11 Boutons Programmables",
-   "price_raw": "29,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g-g502-hero-3456710",
-   "posted_at": "2026-11-16T00:12:51+00:00"
-  },
-  {
-   "title": "Alimentation PC Corsair RM850e - 2025, ATX, Entièrement Modulaire & Silencieuse, Efficacité Cybenetics Gold",
-   "price_raw": "82,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/alimentation-3456686",
-   "posted_at": "2026-11-15T23:59:38+00:00"
-  },
-  {
-   "title": "Souris Gaming sans Fil Logitech G G502 X Plus Lightspeed RVB",
-   "price_raw": "79,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g-g502-x-3456701",
-   "posted_at": "2026-11-16T00:05:05+00:00"
-  },
-  {
-   "title": "Souris filaire Razer Basilisk V3",
-   "price_raw": "34,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/razer-basilisk-v3-3456677",
-   "posted_at": "2026-11-15T23:55:53+00:00"
-  },
-  {
-   "title": "Alimentation modulaire MSI Mag A850GLS PCIE5 ATX 3.1, 80 PLUS Gold",
-   "price_raw": "84,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-msi-mag-a850gls-3456645",
-   "posted_at": "2026-11-15T23:40:12+00:00"
-  },
-  {
-   "title": "Bundle carte mere Biostar M7VKA mATX Socket A  thunderbird 1ghz + geforce4mx420 ",
-   "price_raw": "41.26 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198798298587?_skw=carte+m%C3%A8re&hash=item2e494d4ddb:g:Oq4AAeSwPWNq-kAe",
-   "posted_at": "2026-11-15T23:41:14+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1801,
-  "models_with_reference": 56
+  "listings_seen": 1818,
+  "models_with_reference": 57
  }
 }
