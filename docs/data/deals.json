@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T14:38:00Z",
+ "generated_at": "2026-11-16T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 345,
-   "last_ok": "2026-11-16T14:38:00.662353+00:00"
+   "items": 342,
+   "last_ok": "2026-11-16T15:08:00.657453+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T14:38:00.662353+00:00"
+   "last_ok": "2026-11-16T15:08:00.657453+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 367,
-   "last_ok": "2026-11-16T14:38:00.662353+00:00"
+   "items": 369,
+   "last_ok": "2026-11-16T15:08:00.657453+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-16T14:38:00.662353+00:00"
+   "items": 17,
+   "last_ok": "2026-11-16T15:08:00.657453+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9x5c1mjuly0oIcpHYT2Us52kLgEsMU5duyF4wqGH3A5EitfybvC24IfZ3YsgN9DOwMwEvZq7e3fmNzZmuh1%2FzwazBaHW9XthgyFWUWlgMJoV2dkHezykUWbtDx%2FHhiiXF4p1zqSqfzM2Ch5fa0HD2fYB7ragZcVvNuNxlWK3vamw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9yWWHS4gOpDZH3T6qt%2FpzsNc1a%2FvcvAcwCf0dMNEEDZrryxkvvADT36Ef17Jk9smwynTjkMcXvpUF0CJ%2F3tecucc3coKXjcuEE1Dj6AbmcNHFgBsawLuXTWIWXnVsMQISzx2u0HT44sqMkIOWN5lL97UmBGkmkoBeZR%2FTQHA2PVg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -201,14 +201,31 @@
    "price_eur": 31.9,
    "shipping_eur": 0.0,
    "effective_eur": 31.9,
-   "median_eur": 42.99,
-   "discount_pct": 25.8,
+   "median_eur": 43.95,
+   "discount_pct": 27.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237181676371?_skw=ddr4&hash=item3739212b53:g:e90AAeSwfvBq95a3",
    "posted_at": "2026-11-13T23:01:35+00:00"
+  },
+  {
+   "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
+   "model": "RAM:DDR4-16Go-2666",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 48.54,
+   "shipping_eur": 0.0,
+   "effective_eur": 48.54,
+   "median_eur": 66.22,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
+   "posted_at": "2026-11-13T23:04:42+00:00"
   },
   {
    "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
@@ -245,21 +262,21 @@
    "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
-   "title": "Barrette RAM 16 Go DDR4 2666 MHz COLORFIRE - SODIMM",
-   "model": "RAM:DDR4-16Go-2666",
+   "title": "TIMETEC 32 Go SODIMM 78AP26NUS2R8 DDR4 2666 MHz barrette mémoire RAM",
+   "model": "RAM:DDR4-32Go-2666",
    "category": "RAM",
    "condition": "used",
-   "price_eur": 48.54,
-   "shipping_eur": 0.0,
-   "effective_eur": 48.54,
-   "median_eur": 63.1,
-   "discount_pct": 23.1,
+   "price_eur": 104.7,
+   "shipping_eur": 3.0,
+   "effective_eur": 107.7,
+   "median_eur": 140.87,
+   "discount_pct": 23.5,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
+   "merchant": "eBay · retrogames600 (99,2 %, 443 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237181685339?_skw=ddr4&hash=item3739214e5b:g:rZcAAeSwvnRq95dJ",
-   "posted_at": "2026-11-13T23:04:42+00:00"
+   "url": "https://www.ebay.fr/itm/366814336035?_skw=ddr4&hash=item5567d69423:g:JOQAAeSwk9Fq-xhh",
+   "posted_at": "2026-11-16T15:02:46+00:00"
   },
   {
    "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
@@ -294,23 +311,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
    "posted_at": "2026-01-14T17:31:44+00:00"
-  },
-  {
-   "title": "SSD M.2 NVMe 1 To Crucial P3 (Santé 99%)",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 104.7,
-   "shipping_eur": 0.0,
-   "effective_eur": 104.7,
-   "median_eur": 124.99,
-   "discount_pct": 16.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · theagp44 (100,0 %, 327 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128196768933?_skw=ssd&hash=item1dd91f74a5:g:hEkAAeSwcu9q-eje",
-   "posted_at": "2026-11-15T17:17:02+00:00"
   },
   {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
@@ -349,25 +349,39 @@
  ],
  "unclassified": [
   {
-   "title": "ORICO Boitier Disque Dur 2.5, 6Gbps USB C 3.1 Gen 2 pour SATA SSD et HDD de 2,5'' (Bleu-ABS-25PW1-C)",
+   "title": "Logitech G G515 Lightspeed TKL profilé Clavier Gaming sans Fil",
+   "price_raw": "74,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-g-g515-lightspeed-tkl-profile-clavier-gaming-sans-fil-3457833",
+   "posted_at": "2026-11-16T15:08:05+00:00"
+  },
+  {
+   "title": "MSI GeForce GT 710 1GB DDR3 LP Carte Graphique Low Profile HDMI DVI VGA",
+   "price_raw": "29.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377650566182?_skw=carte+graphique&hash=item57edba5426:g:aMYAAeSwegtq-xbc",
+   "posted_at": "2026-11-16T14:46:27+00:00"
+  },
+  {
+   "title": "Lot de barrettes RAM PC portables DDR4/DDR3 et fixes DDR2/DDR3...",
+   "price_raw": "63.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940097071509?_skw=ddr4&hash=itemdae226e995:g:HMsAAeSw14Nq-xmw",
+   "posted_at": "2026-11-16T15:03:43+00:00"
+  },
+  {
+   "title": "Boitier Disque Dur 2.5 Orico - 6Gbps USB C 3.1 Gen 2 (Vendeur Tiers)",
    "price_raw": "7,59€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/orico-boitier-disque-dur-25-6gbps-usb-c-31-gen-2-pour-sata-ssd-et-hdd-de-25-bleu-abs-25pw1-c-3457782",
    "posted_at": "2026-11-16T14:37:23+00:00"
   },
   {
-   "title": "Souris Gaming Corsair M65 RGB Ultra",
+   "title": "Souris filaire Corsair M65 RGB Ultra",
    "price_raw": "39,69€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-gaming-corsair-m65-rgb-ultra-3457783",
    "posted_at": "2026-11-16T14:37:44+00:00"
-  },
-  {
-   "title": "AOC Gaming Moniteur Q27G4ZRAD 27 Pouce 260Hz Fast IPS Dalle, 1ms GtG, HDR400, G-Sync, Ajustable en Hauteur, Haut-parleurs,2560x1440",
-   "price_raw": "149€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/aoc-gaming-moniteur-q27g4zrad-27-pouce-260hz-fast-ips-dalle-1ms-gtg-hdr400-g-sync-ajustable-en-hauteur-haut-parleurs2560x1440-3457781",
-   "posted_at": "2026-11-16T14:37:22+00:00"
   },
   {
    "title": "Mini pc",
@@ -403,13 +417,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xxqce9/laptop_msi_katana_a15_laptop_156_qhd_165hz_ryzen/",
    "posted_at": "2026-11-16T14:12:15+00:00"
-  },
-  {
-   "title": "Processeur Intel Pentium II + Slot 1 + Refroidisseur",
-   "price_raw": "11.87 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117524670168?_skw=processeur&hash=item1b5d0426d8:g:CKAAAeSwOdBq-w5m",
-   "posted_at": "2026-11-16T14:11:00+00:00"
   },
   {
    "title": "Souris sans fil Razer Basilisk Mobile - Capteur Focus X 18K, Bluetooth/2.4 GHz/USB, jusqu’à 105 h d’autonomie",
@@ -690,17 +697,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xxl74f/controller_sony_interactive_entertainment/",
    "posted_at": "2026-11-16T09:35:09+00:00"
-  },
-  {
-   "title": "16 clips/pin de fixation pour ventirad INTEL socket 775/1150 /1151/1155 et 1156.",
-   "price_raw": "8.80 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/324205662637?_skw=ventirad&hash=item4b7c29d1ad:g:hgwAAOSwR~Fe74tr",
-   "posted_at": "2020-06-21T16:43:09+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1868,
-  "models_with_reference": 58
+  "listings_seen": 1880,
+  "models_with_reference": 60
  }
 }
