@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T04:08:00Z",
+ "generated_at": "2026-11-16T04:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-16T04:08:00.629605+00:00"
+   "items": 336,
+   "last_ok": "2026-11-16T04:38:00.674792+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T04:08:00.629605+00:00"
+   "last_ok": "2026-11-16T04:38:00.674792+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-16T04:08:00.629605+00:00"
+   "items": 372,
+   "last_ok": "2026-11-16T04:38:00.674792+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-16T04:08:00.629605+00:00"
+   "items": 12,
+   "last_ok": "2026-11-16T04:38:00.674792+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9pPdv5e8hi39uwO%2Bi1mJ5ef3tI7deYHjgSkw9Ku%2B%2Fj69aY%2B2e7TFnM3hrzMdfLiHt3x6dNyfIgHsAqGw%2BbipFBJ3Z0RVv0UYuCKSr6XbDymGjoLvWVvz5RK%2B0tpHAVhFGQ9Wze%2B3rHGgE%2Fybw%2BeaXzn304y%2BK1vPsXUQ4sckj3dg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8qsGk77%2BYKiATnAX0KyUT7aUCuzicp3EXSRhaP4QxhQ7ek4pxytl6zlAT5lXJWqChWdxrWqTDXSVG%2Fs%2F6b2%2BkRCYe8IsEHPu%2BsU55o69IPjZi29N3SCmAU3YAqYjyX64t1Rq7nVK6jpWIYG4E14ZFoTNrC7JNFqBd16yoLaYKHIg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,8 +156,25 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt5%2BfQnguFYDSUz%2FgJnrHcyWMWemcy9FcSa7Yvx6Ot8CW3pASJtwugpO%2BTIC04Tb7aEJy7SARhr9ynGb6vIsgU5npVr1H8feeACBF5jlBfO5Vph9nAzf79MNoPPPITN30ccmIdTxRbZ9%2Fo%2FvOL4eq%2B7Y",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt4jBn2Wok8WARMxSK0CgS%2FwpSvFSi0uYMEc7ogSYKf5V4gkn2d4PFgj0YjpIbWSoo%2FP9DV%2BobWGQ6957cKIZRwBKul6atMUfCqZygsqPMiBk9vrleHMdPVRsBxaGLpkihDIeFuHuoQ1A%2B9StOBlA4%2Fu",
    "posted_at": "2026-11-14T21:53:41+00:00"
+  },
+  {
+   "title": "Kingston 240Go SSD  ( A400 - SA400S37/240G )  2,5\" SATA Interne PC (86%)",
+   "model": "SSD:SATA-240Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 16.15,
+   "shipping_eur": 3.0,
+   "effective_eur": 19.15,
+   "median_eur": 29.43,
+   "discount_pct": 34.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tout_pour_vous_fr (98,7 %, 153 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407317637182?_skw=ssd&hash=item5ed605e83e:g:BQEAAeSw2l1q32SI",
+   "posted_at": "2026-10-26T14:36:31+00:00"
   },
   {
    "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
@@ -434,6 +451,48 @@
  ],
  "unclassified": [
   {
+   "title": "Lenovo Chromebook 14M8911 PC | 8Go RAM | 128Go | MediaTek Kompanio 540",
+   "price_raw": "249,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lenovo-chromebook-14m8911-pc-8go-ram-128go-mediatek-kompanio-540-3456845",
+   "posted_at": "2026-11-16T04:29:31+00:00"
+  },
+  {
+   "title": "Razer Naga V2 HyperSpeed - Souris de Jeu MMO sans Fil (Frontaliers Belgique)",
+   "price_raw": "59,89€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/razer-naga-v2-hyperspeed-souris-de-jeu-mmo-sans-fil-frontaliers-belgique-3456843",
+   "posted_at": "2026-11-16T04:26:55+00:00"
+  },
+  {
+   "title": "KINGSTON pour DELL – Barrette RAM 4 Go DDR4-2400T – DIMM 288 broches – PC4",
+   "price_raw": "26.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/398358565806?_skw=ddr4&hash=item5cc00553ae:g:jz8AAeSwFs9qmruR",
+   "posted_at": "2026-09-04T12:39:19+00:00"
+  },
+  {
+   "title": "Carte mère pour MacBook Pro 15 A1398 2012-2015 compatible - Mid 2012 / Early",
+   "price_raw": "50.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820284780077?_skw=carte+m%C3%A8re&hash=itembefcc86e2d:g:sAQAAeSwMFJq4PYJ",
+   "posted_at": "2026-10-27T19:04:38+00:00"
+  },
+  {
+   "title": "Écran Portable 15,6\" FHD 1080P IPS Mat USB-C HDMI Moniteur Second Écran PC",
+   "price_raw": "115.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336803597683?_skw=%C3%A9cran+pc&hash=item4e6b0f0d73:g:p1IAAeSwQR5qr7fh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nOT4U6u3ALPbl1cJwjoSWAffbTsgqYxImRWb2IUkRfLYybu%2BISfOeVaVvGnqG2ZvGjPm13nqr%2Bh97XjvRCmvEstBIgrJT1O8h%2FEUIZHp6l7AuRCirabs9%2FeEMps%2FL%2F%2BbbungySpNFIN4AnRqlf6%2B1N%2BJHIPcxAN9%2BPVM2K6C%2Bxt%2BVHjjYLcajHS%2B6PYBoO%2BERep91kkvTWqc8EgHdpb7n0ojJVkoLZCxREXp8xOwUL5SUovb%2F0QA%2FbiCW%2BvUkEPK6nSByjrRThG%2FQ%2BPVBYvykJvlajEVAMBgqjetyxKMeg7Q%3D%3D",
+   "posted_at": "2026-09-20T10:39:38+00:00"
+  },
+  {
+   "title": "NEUF NEW clavier gaming AZERTY rétro éclairé PC touche rapide macro métal NACON",
+   "price_raw": "14.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/305109395806?_skw=clavier&hash=item4709efe95e:g:2oMAAOSwMLFk8LOU",
+   "posted_at": "2023-08-31T15:40:26+00:00"
+  },
+  {
    "title": "[PSU] MSI MAG A750GLS PCIE5 750W PSU (A- Tier, 10 yr Warranty) - $70 Best Buy",
    "price_raw": "$70",
    "source": "reddit",
@@ -446,13 +505,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/157323143498?_skw=ventirad&hash=item24a130a94a:g:dfEAAeSwkeFoyBM0",
    "posted_at": "2025-09-15T13:33:58+00:00"
-  },
-  {
-   "title": "iiyama G-MASTER GB2771UHSU-B1 écran plat de PC 68,6 cm (27\") 3840 x 2160 pixels",
-   "price_raw": "287.28 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307195440592?_skw=%C3%A9cran+pc&hash=item4786466dd0:g:-qEAAeSwAHxq7jfk",
-   "posted_at": "2026-09-23T21:50:58+00:00"
   },
   {
    "title": "[TV] TCL 98\" Q Series QLED 4K UHD HDR Smart Google TV (New, Limited Edition) - Dolby Vision, Dolby Atmos, Motion Rate 240, HDR 10+, Auto Game Mode - $898 (includes free installation)",
@@ -747,45 +799,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227519658412?_skw=processeur&hash=item34f93a79ac:g:0GwAAeSwJMFqpqM~",
    "posted_at": "2026-09-13T13:21:21+00:00"
-  },
-  {
-   "title": "Processeur Intel i5 14600KF version tray + 2 jeux offerts",
-   "price_raw": "229,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/processeur-intel-i5-14600kf-version-tray-2-jeux-offerts-3456339",
-   "posted_at": "2026-11-15T17:38:43+00:00"
-  },
-  {
-   "title": "PC Portable 15,3\" Lenovo Legion 7a Gen 11 - Circuit graphique intégré, AMD Ryzen AI Max, 32 Go LPDDR5X-8, 1 To SSD M.2",
-   "price_raw": "2 349,22€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lnovo-legion-7a-gen-11-15-amd-3456340",
-   "posted_at": "2026-11-15T17:39:06+00:00"
-  },
-  {
-   "title": "Tacens ENSIS Boîtier PC ATX Design Tout Métal Structure Ultra Robuste Semi",
-   "price_raw": "55.72 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132747177?_skw=boitier+pc&hash=item5a9a1e81a9:g:rW8AAeSwordo-U8s",
-   "posted_at": "2025-10-23T04:15:30+00:00"
-  },
-  {
-   "title": "Samsung 8 Go DDR5 SO-DIMM PC5-5600B 1 module M425R1GB4PB0-CWM0L 5M31L87375",
-   "price_raw": "174.73 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960200266108?_skw=ddr5&hash=itemdf9065517c:g:ScsAAeSw2qZq-d~-",
-   "posted_at": "2026-11-15T16:40:39+00:00"
-  },
-  {
-   "title": "carte graphique MSI R4870",
-   "price_raw": "83.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128196666141?_skw=carte+graphique&hash=item1dd91de31d:g:3owAAOSw0LFmxiMN",
-   "posted_at": "2026-11-15T16:18:11+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1762,
-  "models_with_reference": 54
+  "listings_seen": 1764,
+  "models_with_reference": 55
  }
 }
