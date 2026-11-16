@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T11:08:00Z",
+ "generated_at": "2026-11-16T11:37:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-16T11:08:00.666222+00:00"
+   "items": 343,
+   "last_ok": "2026-11-16T11:37:00.676685+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T11:08:00.666222+00:00"
+   "last_ok": "2026-11-16T11:37:00.676685+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-16T11:08:00.666222+00:00"
+   "items": 362,
+   "last_ok": "2026-11-16T11:37:00.676685+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 6,
-   "last_ok": "2026-11-16T11:08:00.666222+00:00"
+   "items": 80,
+   "last_ok": "2026-11-16T11:37:00.676685+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fkd2YPCW2JwxlREXzdm%2B2vcKUjmG5mSCWMr2X6%2B9jIVT%2B7f3wV7fA1OVWS2HNw1uZ6GNjzSAgXge2sXc06QdM69vwz5th2QjzLmpD26%2FYc9qZMSddMfKI06UszQJCObzFsKv7J%2FHgHr%2BsRc7yKORqsMO53saKICP7q21jgzAeCfQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8jWtFkpSix4sLZw71xJF8Jlmxhsk9rWg54cVyIuQ41WYzAkkbq%2BQg6sADdodjXkTcoyX5%2Bku8uW1CnEOjC9QeSOip8ghEPjrABKIF9W63libBCPnxHDshrMeKEbGwAfNjPOyYAXjdOaPuRaK--Qn7aacMw7WOxN9fKSNUIxhHIfA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -175,6 +175,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237184709590?_skw=ssd&hash=item37394f73d6:g:b0YAAeSw5X1q-fz3",
    "posted_at": "2026-11-15T18:42:13+00:00"
+  },
+  {
+   "title": "Crucial MX500 SSD 500 Go 2,5\" SATA III CT500MX500SSD1",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.0,
+   "median_eur": 62.77,
+   "discount_pct": 28.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · nikko22 (100,0 %, 52 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206702536381?_skw=ssd&hash=item30206e66bd:g:-d8AAeSwiU1q-WfW",
+   "posted_at": "2026-11-15T08:06:18+00:00"
   },
   {
    "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
@@ -260,23 +277,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
    "posted_at": "2026-09-11T15:16:56+00:00"
-  },
-  {
-   "title": "Crucial MX500 SSD 500 Go 2,5\" SATA III CT500MX500SSD1",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 50.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 50.0,
-   "median_eur": 62.77,
-   "discount_pct": 20.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · nikko22 (100,0 %, 52 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206702536381?_skw=ssd&hash=item30206e66bd:g:-d8AAeSwiU1q-WfW",
-   "posted_at": "2026-11-15T08:06:18+00:00"
   },
   {
    "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
@@ -399,6 +399,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Alimentation PC Corsair RM1000e ATX Modulaire & Silencieuse – Noir (2025)",
+   "price_raw": "107,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/alimentation-corsair-rm1000e-atx-modulaire-silencieuse-noir-2025-3457511",
+   "posted_at": "2026-11-16T11:21:20+00:00"
+  },
+  {
+   "title": "Liseuse 11\" Kindle Scribe colorsoft - 64 Go",
+   "price_raw": "489,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kindle-scribe-colorsoft-3457519",
+   "posted_at": "2026-11-16T11:29:13+00:00"
+  },
   {
    "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7, Plusieurs coloris",
    "price_raw": "1 199€",
@@ -575,13 +589,6 @@
    "posted_at": "2026-11-16T09:35:09+00:00"
   },
   {
-   "title": "SSD M.2 NVMe 2To PCIe 4.0 7400 Mo/s 980Pro PS5 Gaming Ordinateur Portable Disque",
-   "price_raw": "136.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287733230521?_skw=ssd&hash=item42fe3cabb9:g:B2cAAeSwWeVq-szv",
-   "posted_at": "2026-11-16T09:29:15+00:00"
-  },
-  {
    "title": "16 clips/pin de fixation pour ventirad INTEL socket 775/1150 /1151/1155 et 1156.",
    "price_raw": "8.80 EUR",
    "source": "ebay",
@@ -741,17 +748,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/acer-nitro-v-15-gaming-laptop-156-ryzen-7-rtx-5050-16gb-3457075",
    "posted_at": "2026-11-16T08:00:47+00:00"
-  },
-  {
-   "title": "Macbook Air 15 pouces - M5, 512Go, coloris Lumière stellaire ou Argent",
-   "price_raw": "1 499€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/macbook-air-15-pouces-m5-3457040",
-   "posted_at": "2026-11-16T07:45:44+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1852,
+  "listings_seen": 1858,
   "models_with_reference": 58
  }
 }
