@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T17:38:00Z",
+ "generated_at": "2026-11-16T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 345,
-   "last_ok": "2026-11-16T17:38:00.652618+00:00"
+   "items": 346,
+   "last_ok": "2026-11-16T18:08:00.682673+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T17:38:00.652618+00:00"
+   "last_ok": "2026-11-16T18:08:00.682673+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-16T17:38:00.652618+00:00"
+   "items": 374,
+   "last_ok": "2026-11-16T18:08:00.682673+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T17:38:00.652618+00:00"
+   "last_ok": "2026-11-16T18:08:00.682673+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FVrLGh7EU86FXDmxs7ByF%2FWiiF0lPU9Zti%2BfTt7Ozv0PzYqYmMvfg1%2BPTx4GuGe58rSpVthZeRkEbHKtJubf6a59wBCYFJ%2Bl%2FnUCuEBFbtJsEyRDvNlEYwL1IKlNllYC5SQD3O%2BtV3%2BP4mMzZA7TXRg3oSLDf8%2F1okhnzW1NiwLw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8dAC3vk7RUoPp006oJsr0Q06ye7UzWQwKQAaIm%2FHVMY2zttCC4MKcWYpnqW5smzng1q1FlCDNY8YPrDroxcu04jp%2BUPZz%2F7nrkV8z24k2jPhqNdyOSy0xKpM%2Fb0Zoe4zgEGomgbVwP9%2BnHmmMt%2Fn%2Frh1ri7b6iTa8AXKs836n5Ow%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -192,6 +192,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860149304712?_skw=ddr4&hash=itemc844e4cd88:g:eGEAAeSw9SVq192D",
    "posted_at": "2026-11-16T15:16:43+00:00"
+  },
+  {
+   "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
+   "model": "SSD:NVMe-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 3.0,
+   "effective_eur": 13.8,
+   "median_eur": 19.65,
+   "discount_pct": 29.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tortellifr (100,0 %, 153 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237184709590?_skw=ssd&hash=item37394f73d6:g:b0YAAeSw5X1q-fz3",
+   "posted_at": "2026-11-15T18:42:13+00:00"
   },
   {
    "title": "Crucial MX500 SSD 500 Go 2,5\" SATA III CT500MX500SSD1",
@@ -275,7 +292,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71aTLK9LF3nuVgaKFobjz29X6qngsguus1Z8EO6Yfgb7%2FopguQtHS4lqwtg9lhGD1UcAAxI17Jcygi60WUAQ0hXbr3fVxY7Hs2l7EYbswdfc3bO4KVGDSotFcQzZFh%2BdiM1lxjWjNZx5NjwOykIOrX%2B",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70SDjGqgPQAYkATFk7mQULfAgpIoWr8A4oKAPV38HdbiknM7C%2BM1d0a1lin%2Fl2Az%2FOFf69i%2BeZuveEeDw%2FASW5LJ%2FWWtLylo2hBRy7ufwFbzLI9NKx%2BF1%2F5O6AQu31XMzrp0z0O6gTSUgFViXIhXxnb",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -366,6 +383,27 @@
  ],
  "unclassified": [
   {
+   "title": "Ecran PC 26,5\" Asus Gaming Rog XG27AQWMG-R - 280 Hz, OLED",
+   "price_raw": "469,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/asus-gaming-rog-xg27aqwmg-r-265-280-hz-oled-3458031",
+   "posted_at": "2026-11-16T17:52:18+00:00"
+  },
+  {
+   "title": "Tablette tactile Lenovo Idea Tab Pro Vert 256 Go + Stylet Tab Pen Plus",
+   "price_raw": "379,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-lenovo-idea-tab-pro-vert-256-go-stylet-tab-pen-plus-3458022",
+   "posted_at": "2026-11-16T17:46:19+00:00"
+  },
+  {
+   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
+   "posted_at": "2026-11-16T17:51:34+00:00"
+  },
+  {
    "title": "Routeur Google Nest Wifi Pro",
    "price_raw": "179,99€",
    "source": "dealabs",
@@ -436,6 +474,13 @@
    "posted_at": "2026-11-16T16:10:59+00:00"
   },
   {
+   "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
+   "price_raw": "55.72 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860149307038?_skw=ddr4&hash=itemc844e4d69e:g:WXkAAeSwzadqlBXd",
+   "posted_at": "2026-11-16T15:18:02+00:00"
+  },
+  {
    "title": "Samsung 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
    "price_raw": "57.80 EUR",
    "source": "ebay",
@@ -467,14 +512,14 @@
    "title": "SK hynix 64 Go (4x16) DDR4 ECC RDIMM PC4-2400T 288P HMA82GR7AFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900389087?_skw=ddr4&hash=item4e70d3f8df:g:G9cAAeSw42hq-yGe&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m5d238aYofni5YQeOEzLb2tMSHz1%2FAnvx9sZoEgfwEVa9UfG%2BiIfk3lD17mDmstA9pO6xVuf1qN3oyVNJdDO8RjL8psO17wJJG8fecMH5rR6j68P9lSQxysOhW1SoUvr6Z08I5fTGgkkB2SO%2FhHdpbNrpB7nGdUVd9dNkdNvsizBG67SVa8hWY0d57bjvHgW6aVmnW1wIq2IU8ySborIvh4ahCI2M0rV6YcA8Z5Ps5zmQTyzbyZ29GQrjMpqVrQfBEAw6U%2B%2Bs14FqLAwjYeUFx",
+   "url": "https://www.ebay.fr/itm/336900389087?_skw=ddr4&hash=item4e70d3f8df:g:G9cAAeSw42hq-yGe&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m5d238aYofni5YQeOEzLb2tMSHz1%2FAnvx9sZoEgfwEVa9UfG%2BiIfk3lD17mDmstA9pO6xVuf1qN3oyVNJdDO8RjL8psO17wJJG8fecMH5rR6j68P9lSQxysOhW1SoUvr4aAnhz9A4BUFoTlpuuBjuu%2BOo4VfWNmmsBsxBWQQXOedasd8FOtlQEZG6MwpWIUSFSylqrFNYuTUbf%2B9HqvneSd34v9DHduPdEwtWYF0Z15QdgFlOm54gxl9g34bMyyHglGeW53eUT89bcnPX6tsYQ",
    "posted_at": "2026-11-16T15:33:03+00:00"
   },
   {
    "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwp906Ed7Iy%2FJuwn6RL6UHr8rk3Je9jeZFiA2vcCB%2BKgC1tLvzj%2Ff%2FMv5t4SPTPBgipyOiCHkE%2BnfYEXq3lOvjjeLXedhhUixDu87D1Naf%2F5nz%2FU9j9gUq%2BAlII5wvcsYrcytXFh2qyEWDvk%2F8P5cBqi",
+   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwoLvpPCqjSbs1zEX1aefb1cQybIq0ON7mbjaZzWQSUfuwkVn8qEQv7OgXFIryaJi03oaSMoa4nYGBFYc9hO2QvxrM2Wz--j40xzSOBTB0jmu9Chk%2FlUQMDhZ8N%2B54Fe%2BDRh7j%2B7Ig4JsLxa2Zlb79rN",
    "posted_at": "2026-11-16T15:29:39+00:00"
   },
   {
@@ -518,13 +563,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-gaming-corsair-m65-rgb-ultra-3457783",
    "posted_at": "2026-11-16T14:37:44+00:00"
-  },
-  {
-   "title": "Mini pc",
-   "price_raw": "389€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-3457780",
-   "posted_at": "2026-11-16T14:36:58+00:00"
   },
   {
    "title": "Souris Razer Viper V3 Pro sans Fil ultralégère - 8K Hz HyperPolling, Design léger 54g, capteur Focus Pro 35K DPI",
@@ -611,13 +649,6 @@
    "posted_at": "2026-11-16T13:04:45+00:00"
   },
   {
-   "title": "Carte graphique MSI RX300HM-TD128E",
-   "price_raw": "16.15 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147659256895?_skw=carte+graphique&hash=item22612d743f:g:puAAAOSwVfRn9luz",
-   "posted_at": "2026-10-31T09:09:53+00:00"
-  },
-  {
    "title": "Mémoire SK Hynix Serveur 16GB DDR5 EC8 RDIMM 1Rx8 PC5-4800B-RD0-1010-XT",
    "price_raw": "350.00 EUR",
    "source": "ebay",
@@ -700,24 +731,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-mag-271qp-qd-oled-x28-ecran-gaming-265-wqhd-3457411",
    "posted_at": "2026-11-16T10:20:07+00:00"
-  },
-  {
-   "title": "Liseuse Amazon Kindle nouvelle génération - 16Go",
-   "price_raw": "124,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amazon-kindle-16-go-nouvelle-generation-3457395",
-   "posted_at": "2026-11-16T10:15:02+00:00"
-  },
-  {
-   "title": "Ecran PC 26,5\" MSI MAG 274QPA QD-OLED X24 - WQHD",
-   "price_raw": "349,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-mag-274qpa-qd-oled-x24-ecran-gaming-265-wqhd-3457390",
-   "posted_at": "2026-11-16T10:13:52+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1906,
-  "models_with_reference": 60
+  "models_with_reference": 61
  }
 }
