@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T16:08:00Z",
+ "generated_at": "2026-11-16T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-16T16:08:00.659009+00:00"
+   "items": 345,
+   "last_ok": "2026-11-16T16:38:00.665856+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T16:08:00.659009+00:00"
+   "last_ok": "2026-11-16T16:38:00.665856+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 373,
-   "last_ok": "2026-11-16T16:08:00.659009+00:00"
+   "items": 374,
+   "last_ok": "2026-11-16T16:38:00.665856+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T16:08:00.659009+00:00"
+   "last_ok": "2026-11-16T16:38:00.665856+00:00"
   }
  },
  "watchlist": [
@@ -48,8 +48,8 @@
    "price_eur": 129.95,
    "shipping_eur": null,
    "effective_eur": 129.95,
-   "median_eur": 312.72,
-   "discount_pct": 58.4,
+   "median_eur": 299.99,
+   "discount_pct": 56.7,
    "target_hit": false,
    "suspect": false,
    "merchant": "Rue du Commerce",
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9NSI2XjbNxlGxj43qqffEg3hzBl1cfiRbxZ40GzwKBJKYLi%2FkHouuJWIitvSZTKpwS0yuSqTv5tIIYSrRe5VG9pjy5bIhMN8EozMYTGvP9E7Nl8Sd34HEoJsBcjyfIhv7cUcvrhA532%2FPt%2Bg82Ambz0iKfYDSUz8MrawYwzz1%2FjQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FXVYYPGPFpA9JjTlRaIb8lE%2F2ALm1hjLD8Cv887osP%2BDcngAVLkjcwHBUIRgZ7PFtPS7LOM5CBkjjL%2BlU85S6%2BTCN4joH7RmNm4UAVgDaQWSXnTneZDYsVIWvlKoo%2F4jQoLePE5w192Q1EgxVmeS1t4Y1a5bYiEVxtlvfhDiS06A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -143,6 +143,23 @@
    "posted_at": "2026-11-13T13:40:26+00:00"
   },
   {
+   "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 199.99,
+   "shipping_eur": null,
+   "effective_eur": 199.99,
+   "median_eur": 299.99,
+   "discount_pct": 33.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hp-omen-27qs-qhd-ips-240hz-1ms-2560-x-1440-antireflet-amd-freesync-premium-noir-3457934",
+   "posted_at": "2026-11-16T16:24:55+00:00"
+  },
+  {
    "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -158,6 +175,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
    "posted_at": "2026-11-14T05:57:28+00:00"
+  },
+  {
+   "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 HMAA2GS6AJR8N-XN",
+   "model": "RAM:DDR4-16Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 55.72,
+   "shipping_eur": 0.0,
+   "effective_eur": 55.72,
+   "median_eur": 80.44,
+   "discount_pct": 30.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860149304712?_skw=ddr4&hash=itemc844e4cd88:g:eGEAAeSw9SVq192D",
+   "posted_at": "2026-11-16T15:16:43+00:00"
   },
   {
    "title": "Crucial MX500 SSD 500 Go 2,5\" SATA III CT500MX500SSD1",
@@ -241,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72eMMeBmSXXu2TnIEcyttfKTgaL0nBzx97hX3UbtdBn%2F3qju%2Br2WFdHyvUGJLEH%2FO7pSqJU6Kq1IAgzTJvZIo1bJdi43Cd5Anuz7wjacA0Npck8Gsiwi76LsHSmKur%2Fb5QJrFysg6qdUi6IlXUPtR8j",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73HDfRY0LrFhqqbr7OC%2By%2FD8deKNI%2Fc0Lng4lVnL5j7IVCOAp9wkHIZmT8jm7BQa75lX1Xa9EMluJsi6YBRtbxnj%2Bkl4hT0FLL9FwdXvjXou8BXIZipPFzIVbv5elwROW0ususxTvQBIzVWHjfZhH94",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -332,18 +366,67 @@
  ],
  "unclassified": [
   {
+   "title": "Souris sans fil Logitech G G502 X Plus Lightspeed",
+   "price_raw": "79,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-g502-x-plus-lightspeed-3457938",
+   "posted_at": "2026-11-16T16:31:17+00:00"
+  },
+  {
+   "title": "Souris sans fil Esport Asus ROG Keris II Ace - blanc, 54g, AimPoint Pro 42K",
+   "price_raw": "53,70€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-esport-asus-rog-keris-ii-ace-blanc-54g-aimpoint-pro-42k-3457929",
+   "posted_at": "2026-11-16T16:22:10+00:00"
+  },
+  {
+   "title": "Souris sans fil Corsair Sabre v2 Pro Ultralight - 33000 DPI, 8000Hz, Blanc, 36g, 70h batterie",
+   "price_raw": "64,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-corsair-sabre-v2-pro-ultralight-33000-dpi-8000hz-blanc-36g-70h-batterie-3457916",
+   "posted_at": "2026-11-16T16:12:38+00:00"
+  },
+  {
+   "title": "[Cooler] SAMA L70 White, L50 White or L50 Black 360 AIO Liquid CPU Cooler $39.99",
+   "price_raw": "$39.99",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxtjel/cooler_sama_l70_white_l50_white_or_l50_black_360/",
+   "posted_at": "2026-11-16T16:17:53+00:00"
+  },
+  {
+   "title": "Carte graphique ASUS Radeon R5 230 1 Go DDR3 – R5230-SL-1GD3-L",
+   "price_raw": "20.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940097222260?_skw=carte+graphique&hash=itemdae2293674:g:ZMsAAeSwLqNq-yry",
+   "posted_at": "2026-11-16T16:10:59+00:00"
+  },
+  {
+   "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
+   "price_raw": "55.72 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860149307038?_skw=ddr4&hash=itemc844e4d69e:g:WXkAAeSwzadqlBXd",
+   "posted_at": "2026-11-16T15:18:02+00:00"
+  },
+  {
+   "title": "Samsung 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
+   "price_raw": "57.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860149296148?_skw=ddr4&hash=itemc844e4ac14:g:oyQAAeSwnsNqlBeO",
+   "posted_at": "2026-11-16T15:11:49+00:00"
+  },
+  {
+   "title": "Carte mère pour Dell Latitude 3520 Processeur i3-1135g7 ",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960204122043?_skw=carte+m%C3%A8re&hash=itemdf90a027bb:g:qVMAAeSw8Xlq-y97",
+   "posted_at": "2026-11-16T16:30:51+00:00"
+  },
+  {
    "title": "Pack clavier + souris sans fil Logitech MK470 Slim Combo",
    "price_raw": "36,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pack-clavier-souris-sans-fil-logitech-mk470-slim-combo-3457909",
    "posted_at": "2026-11-16T16:07:31+00:00"
-  },
-  {
-   "title": "Carte mère pour ordinateur portable Dell Latitude 3420 i5-1135G7 2.4GHz...",
-   "price_raw": "59.53 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287733951705?_skw=carte+m%C3%A8re&hash=item42fe47acd9:g:1roAAeSwqdFq-yjZ",
-   "posted_at": "2026-11-16T16:01:25+00:00"
   },
   {
    "title": "Webcam éElgato Facecam Neo – Webcam Full HD",
@@ -363,22 +446,15 @@
    "title": "SK hynix 64 Go (4x16) DDR4 ECC RDIMM PC4-2400T 288P HMA82GR7AFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900389087?_skw=ddr4&hash=item4e70d3f8df:g:G9cAAeSw42hq-yGe",
+   "url": "https://www.ebay.fr/itm/336900389087?_skw=ddr4&hash=item4e70d3f8df:g:G9cAAeSw42hq-yGe&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m5d238aYofni5YQeOEzLb2tMSHz1%2FAnvx9sZoEgfwEVa9UfG%2BiIfk3lD17mDmstA9pO6xVuf1qN3oyVNJdDO8RjL8psO17wJJG8fecMH5rR6j68P9lSQxysOhW1SoUvr4jC1qgLetYU0YKocK41Zx3dLkJ3fEZPOHps80w5X28vjZhih%2FP6SGA4PI5T2L7R%2F%2B6wfF1cwtrkeqX0oAYV3v4xxjzOJgZnzy8So9eavD%2BLbExCnlcVdpLAjYonQbzQqOuN3D31AsHg1LAV0qmWbAa",
    "posted_at": "2026-11-16T15:33:03+00:00"
   },
   {
    "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b",
+   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwqe5wLTkHrFL4FkBM75sF0yZyNAT3iI6pJIXXq7HrZvz0qO%2FaXtiaqV%2BXKgZKUoulFFJG2xiqlHAUGKN1Gx2KvfciMEaJNGN1NLC%2BQ7lwoqlDXvs5ak1W89WxpSCyQWKfuX0kXCGSobarb8puV3F9Uv",
    "posted_at": "2026-11-16T15:29:39+00:00"
-  },
-  {
-   "title": "RAM crucial 8 GB GO RAM DDR4 PC4-2400 SO-DIMM",
-   "price_raw": "24.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366814369386?_skw=ddr4&hash=item5567d7166a:g:US8AAeSwAkhq-x8~",
-   "posted_at": "2026-11-16T15:21:39+00:00"
   },
   {
    "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx16 PC4-3200AA  SO-DIMM",
@@ -638,52 +714,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amazon-kindle-colorsoft-signature-edition-32-go-modele-2024-3457379",
    "posted_at": "2026-11-16T10:08:12+00:00"
-  },
-  {
-   "title": "Souris Ergonomique Verticale sans Fil Logitech Lift - Bluetooth, Molette et Clics Silencieux, 4 Boutons Personnalisables, blanc",
-   "price_raw": "39,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-ergonomique-verticale-sans-fil-logitech-lift-bluetooth-molette-et-clics-silencieux-4-boutons-personnalisables-blanc-3457332",
-   "posted_at": "2026-11-16T09:46:03+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" TECNO K15SRA - Intel i3, 8Go RAM, 256Go SSD",
-   "price_raw": "399,98€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-processeur-intel-i3-recent-a-moins-de-400-eur-3457336",
-   "posted_at": "2026-11-16T09:45:58+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Asus CM1505CM4A-S70121- FHD, 1920 x 1080, 60Hz, 8Go RAM, 128Go eMMC, Sans chargeur",
-   "price_raw": "189€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-cm1505cm4a-s70121-156-pouces-fhd-1920-x-1080-60hz-pc-portable-3457334",
-   "posted_at": "2026-11-16T09:44:42+00:00"
-  },
-  {
-   "title": "Souris Sans Fil Logitech M185 - 2.4 GHz, Longévité de la Pile 12 Mois, 1000 PPP, Ambidextre, Gris",
-   "price_raw": "7,96€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-m185-24-ghz-longevite-de-la-pile-12-mois-1000-ppp-ambidextre-gris-3457321",
-   "posted_at": "2026-11-16T09:42:01+00:00"
-  },
-  {
-   "title": "Ordinateur portable 16\" HP OmniBook 3 - Oled, Snapdragon X, 8 Go RAM LPDDR5x, SSD 256 Go",
-   "price_raw": "499,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/hp-omnibook-3-16-oled-snapdragon-x-49999-eur-37-3457323",
-   "posted_at": "2026-11-16T09:41:13+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Samsung Galaxy Book4 Edge - Snapdragon X Plus, RAM 16 Go, SSD 256 Go, Wi-Fi 7, Copilot+, FHD, Windows 11",
-   "price_raw": "599€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-samsung-galaxy-book4-edge-snapdragon-x-plus-ram-16-go-ssd-256-go-wi-fi-7-copilot-fhd-windows-11-3457317",
-   "posted_at": "2026-11-16T09:40:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1895,
+  "listings_seen": 1904,
   "models_with_reference": 60
  }
 }
