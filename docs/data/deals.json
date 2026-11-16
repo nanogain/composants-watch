@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T19:38:00Z",
+ "generated_at": "2026-11-16T20:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 348,
-   "last_ok": "2026-11-16T19:38:00.673280+00:00"
+   "last_ok": "2026-11-16T20:08:00.675502+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T19:38:00.673280+00:00"
+   "last_ok": "2026-11-16T20:08:00.675502+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-16T19:38:00.673280+00:00"
+   "items": 375,
+   "last_ok": "2026-11-16T20:08:00.675502+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-16T19:38:00.673280+00:00"
+   "items": 69,
+   "last_ok": "2026-11-16T20:08:00.675502+00:00"
   }
  },
  "watchlist": [
@@ -58,21 +58,21 @@
    "posted_at": "2026-11-13T13:14:00+00:00"
   },
   {
-   "title": "Disque SSD INTERNE M.2  128Go TOSHIBA  THNSNK128GVN8  SATA M.2  2280  - 128GB",
+   "title": "SSD SATA 128Gb SanDisk X400 M.2 2280 tester ok fonctionne parfaitement ",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
    "condition": "used",
-   "price_eur": 15.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 15.0,
-   "median_eur": 27.79,
-   "discount_pct": 46.0,
+   "price_eur": 9.99,
+   "shipping_eur": 2.78,
+   "effective_eur": 12.77,
+   "median_eur": 26.58,
+   "discount_pct": 52.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
+   "merchant": "eBay · hexatresors (99,6 %, 469 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227169935964?_skw=ssd&hash=item34e462225c:g:vT0AAeSwOYdpY-fu",
-   "posted_at": "2026-01-11T18:22:04+00:00"
+   "url": "https://www.ebay.fr/itm/960204692950?_skw=ssd&hash=itemdf90a8ddd6:g:GWwAAeSwLcRq-2C1",
+   "posted_at": "2026-11-16T20:00:12+00:00"
   },
   {
    "title": "SSD Interne 1 To NVME M2.2280",
@@ -90,6 +90,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/disque-dur-1-to-3457454",
    "posted_at": "2026-11-16T10:42:13+00:00"
+  },
+  {
+   "title": "Disque SSD INTERNE M.2  128Go TOSHIBA  THNSNK128GVN8  SATA M.2  2280  - 128GB",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 15.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 15.0,
+   "median_eur": 26.58,
+   "discount_pct": 43.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bons_prix_bons_produits (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227169935964?_skw=ssd&hash=item34e462225c:g:vT0AAeSwOYdpY-fu",
+   "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
    "title": "Carte Graphique Nvidia Gainward GeForce RTX 5060 Ghost 8Go",
@@ -122,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FPNwMhjRSZ1MQFxo1Ga%2FDqpbm7qBEfgJ4mL3A0n2rp5%2Bm6DsFScEesaT1Abzc1jdrBG2T7X9zJz49zubBcxX%2Bgb5PXvBpDpnCVqwUOims%2Fv%2FmadFCuzZgHS%2FDYJbL0RaMWkT%2Bx%2F2jGtC2je9y%2BpJVX67KEJgHvUZ%2Fke%2FOLGV7dog%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FK%2FI3hW8ID%2FKfIrv1Q82O1HFg6MtMAw5madInh1Y6yHhLarJadL76gjoPbQ0nOfbJ4sfWxPAd0OM2rObYiUjTAJQjICk68uPmNyaTHs3WkF3xXepH7f28%2FymrksQ7qTVepooQFS6Y64tohUJtOU8wE2PAflBxsMWiRuSyWRXTitA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -292,7 +309,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73HotfdrwQ4ie7EqAsbq3GMe1pyDGXSRbSTi9eOy7EKwmg1s8Rjk1Qs9VTyCLvHTi4RfttrkKRp6hLyI2XYhCTQSpZ8%2BBx0e%2BWLvro4ml5vSkuYm%2FtdAG%2FA1DPpblHcgZC45UmmszemCCuc57MT%2FVBo",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE714XixmqE21lVVdvWOuFPf9euoQr6uypd9AL%2Fv27x%2BWeJw5yWA4m9cYz5VR1DY1X%2FVpyQoAUE2EBq%2BEFtR28Pr%2Bj7%2BAvg0I8ZpWajLkrBCsqpqOnMeylj1bGwt7DBgoNKJo85Jio9GwvmY8zfHFSA1d",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -328,6 +345,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
    "posted_at": "2026-01-14T17:31:44+00:00"
+  },
+  {
+   "title": "Écran PC gaming incurvé 32\" AOC CQ32G4VE - QHD 2560x1440, 180Hz, 1ms GtG, HDR10, FreeSync",
+   "model": "MON:32-QHD-180Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 139.99,
+   "shipping_eur": null,
+   "effective_eur": 139.99,
+   "median_eur": 169.99,
+   "discount_pct": 17.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-incurve-32-aoc-cq32g4ve-qhd-2560x1440-180hz-1ms-gtg-hdr10-freesync-3456767",
+   "posted_at": "2026-11-16T06:06:03+00:00"
   },
   {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
@@ -366,6 +400,27 @@
  ],
  "unclassified": [
   {
+   "title": "Carte Graphique Gigabyte Aorus Waterforce II 240",
+   "price_raw": "48,25€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gigabyte-aorus-waterforce-ii-240-3458169",
+   "posted_at": "2026-11-16T19:56:49+00:00"
+  },
+  {
+   "title": "Kit de superposition avec tablette pour sèche-linge WTZ27400",
+   "price_raw": "70€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kit-de-superposition-avec-tablette-pour-seche-linge-wtz27400-3458152",
+   "posted_at": "2026-11-16T19:41:13+00:00"
+  },
+  {
+   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
+   "posted_at": "2026-11-16T17:51:34+00:00"
+  },
+  {
    "title": "Tablette Tactile 12.7'' Lenovo Yoga Tab Plus 2-en-1 - 16 Go RAM, 512 Go, Keyboard Pack + Tab Pen Pro",
    "price_raw": "569€",
    "source": "dealabs",
@@ -392,13 +447,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147683596168?_skw=ddr4&hash=item2262a0d788:g:zKsAAeSwnLFq-1dL",
    "posted_at": "2026-11-16T19:21:40+00:00"
-  },
-  {
-   "title": "Barrette mémoire RAM SK Hynix 4 Go DDR4 SO-DIMM — HMA851S6CJR6N-VK",
-   "price_raw": "14.01 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147683582999?_skw=ddr4&hash=item2262a0a417:g:mEUAAeSw7SRq-1P-",
-   "posted_at": "2026-11-16T19:07:46+00:00"
   },
   {
    "title": "Alimentation Pc Corsair HX1500i (2025) ATX Entièrement Modulaire, Compatible ATX 3.1 & PCIe 5.1, Platinum",
@@ -464,13 +512,6 @@
    "posted_at": "2026-11-16T17:46:19+00:00"
   },
   {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
-  },
-  {
    "title": "Routeur Google Nest Wifi Pro",
    "price_raw": "179,99€",
    "source": "dealabs",
@@ -520,20 +561,6 @@
    "posted_at": "2026-11-16T16:17:53+00:00"
   },
   {
-   "title": "Carte graphique ASUS Radeon R5 230 1 Go DDR3 – R5230-SL-1GD3-L",
-   "price_raw": "20.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940097222260?_skw=carte+graphique&hash=itemdae2293674:g:ZMsAAeSwLqNq-yry",
-   "posted_at": "2026-11-16T16:10:59+00:00"
-  },
-  {
-   "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
-   "price_raw": "55.72 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860149307038?_skw=ddr4&hash=itemc844e4d69e:g:WXkAAeSwzadqlBXd",
-   "posted_at": "2026-11-16T15:18:02+00:00"
-  },
-  {
    "title": "Samsung 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
    "price_raw": "57.80 EUR",
    "source": "ebay",
@@ -562,25 +589,11 @@
    "posted_at": "2026-11-16T15:12:17+00:00"
   },
   {
-   "title": "SK hynix 64 Go (4x16) DDR4 ECC RDIMM PC4-2400T 288P HMA82GR7AFR4N-UH",
-   "price_raw": "156.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900389087?_skw=ddr4&hash=item4e70d3f8df:g:G9cAAeSw42hq-yGe&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m5d238aYofni5YQeOEzLb2tMSHz1%2FAnvx9sZoEgfwEVa9UfG%2BiIfk3lD17mDmstA9pO6xVuf1qN3oyVNJdDO8RjL8psO17wJJG8fecMH5rR6j68P9lSQxysOhW1SoUvr449v5KzrLwcZYgHkXO81hpb6P76QXxCC2XONmLt%2B6PhPEDLsMqWiTK3fEI0WUU1Btxc%2FnzkJU5--SHPBuS111qlrg%2FP8CN5hEZ5FSLLKq%2Frihb%2F%2BSjQu5lZ1ciMrw4GLGmFT7B%2Bd7CRBXrjvcnuvCo",
-   "posted_at": "2026-11-16T15:33:03+00:00"
-  },
-  {
    "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwpoPWAciz4SMKxSgj7uB4O42dXmySFjYtnbu3UwrHAjR2QWS8hu868xmTrmMkNWZYoXr5U5zFSo8y7Gd7yoJrNvdk6wnBc0hqsxNxDC4VlNIXazWu9MQB166xnQ8eYNZoAPrETLG%2B%2BtgX3v1vInp4%2BJ",
+   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b",
    "posted_at": "2026-11-16T15:29:39+00:00"
-  },
-  {
-   "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
-   "price_raw": "24.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366814367678?_skw=ddr4&hash=item5567d70fbe:g:6dkAAeSwZKlq-x8g",
-   "posted_at": "2026-11-16T15:20:15+00:00"
   },
   {
    "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
@@ -653,13 +666,6 @@
    "posted_at": "2026-11-16T13:37:08+00:00"
   },
   {
-   "title": "Routeur Gaming MSI Radix AXE6600 WiFi 6E - Tri-bande, RGB, jusqu'à 6600 Mbps, MU-MIMO, WAN/LAN 2.5G & 4 x Ports LAN 1G",
-   "price_raw": "79,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/routeur-gaming-msi-radix-axe6600-wifi-6e-tri-bande-rgb-jusqua-6600-mbps-mu-mimo-wanlan-25g-4-x-ports-lan-1g-3457646",
-   "posted_at": "2026-11-16T13:20:29+00:00"
-  },
-  {
    "title": "Routeur Wi-FI 7 Asus RT-BE55 - 4K-QAM, MLO, Port WAN 2,5G, Quatre Ports 1G",
    "price_raw": "79€",
    "source": "dealabs",
@@ -709,15 +715,43 @@
    "posted_at": "2025-10-25T10:13:40+00:00"
   },
   {
+   "title": "Corsair Vengeance® DDR5 - 64 Go (4 x 16 Go) - 6000 MT/s C36 - AMD EXPO - Gris",
+   "price_raw": "1849.36 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336251732191?_skw=ddr5&hash=item4e4a2a40df:g:qFgAAeSwCCBq-vzq",
+   "posted_at": "2025-10-25T10:14:19+00:00"
+  },
+  {
    "title": "RAM Micron 16GB (2x8GB) DDR4 So-Dimm PC4-3200 original",
    "price_raw": "50.52 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/307285203295?_skw=ddr4&hash=item478ba0195f:g:Em0AAeSwF3Bq7wmW",
    "posted_at": "2026-11-16T11:51:02+00:00"
+  },
+  {
+   "title": "Alimentation PC Corsair RM1000e ATX Modulaire & Silencieuse – Noir (2025)",
+   "price_raw": "107,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/alimentation-corsair-rm1000e-atx-modulaire-silencieuse-noir-2025-3457511",
+   "posted_at": "2026-11-16T11:21:20+00:00"
+  },
+  {
+   "title": "Liseuse 11\" Kindle Scribe colorsoft - 64 Go",
+   "price_raw": "489,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kindle-scribe-colorsoft-3457519",
+   "posted_at": "2026-11-16T11:29:13+00:00"
+  },
+  {
+   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7, Plusieurs coloris",
+   "price_raw": "1 199€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-ram-16-go-ssd-512-go-wifi-7-plusieurs-coloris-3457491",
+   "posted_at": "2026-11-16T11:06:51+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1907,
-  "models_with_reference": 60
+  "listings_seen": 1901,
+  "models_with_reference": 62
  }
 }
