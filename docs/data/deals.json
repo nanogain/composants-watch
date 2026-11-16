@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T12:08:00Z",
+ "generated_at": "2026-11-16T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-16T12:08:00.667103+00:00"
+   "items": 339,
+   "last_ok": "2026-11-16T12:38:00.674145+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T12:08:00.667103+00:00"
+   "last_ok": "2026-11-16T12:38:00.674145+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 359,
-   "last_ok": "2026-11-16T12:08:00.667103+00:00"
+   "items": 366,
+   "last_ok": "2026-11-16T12:38:00.674145+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T12:08:00.667103+00:00"
+   "last_ok": "2026-11-16T12:38:00.674145+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B95TJZHkPN6oIZYf2S6YlHo6mYsraQvlLsJqkFSjn%2Bv4Ep4ir25o79Y%2F%2BYYS8OXIv2x1o799QC1XCwCCIYZo1OcifWQnSOBraCjD1J63l5DKkdPTRJwSskKhr6uWiROreO8InKv5AqqaZDqycQ%2B9Fox1ez3cDuN9OrX7zLuljUMlQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9GulDnpHB4zTwQXENneAkJwJCZoxcBljCLN3YsSLgjxiVX9OQ%2FEdR%2BfYHtmTsP1RsRESbw7GKhDbwAeHKekmDVj7lp7cS0ClxFUmX4dp9D3S13XLKuSaOsq082UbY6M76BQfeLhw2nPY4ktOuRGRjUu3%2BJzYDcHhTJF76%2BkguQAQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -751,7 +751,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1859,
+  "listings_seen": 1850,
   "models_with_reference": 58
  }
 }
