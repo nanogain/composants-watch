@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T15:38:00Z",
+ "generated_at": "2026-11-16T16:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-16T15:38:00.672091+00:00"
+   "last_ok": "2026-11-16T16:08:00.659009+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T15:38:00.672091+00:00"
+   "last_ok": "2026-11-16T16:08:00.659009+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-16T15:38:00.672091+00:00"
+   "items": 373,
+   "last_ok": "2026-11-16T16:08:00.659009+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T15:38:00.672091+00:00"
+   "last_ok": "2026-11-16T16:08:00.659009+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B81Aaebk%2BYUCj83pRB3PfBaaYAP5RU2Tmfg6RE2CZP%2FxnHNc32FkeQFJc4r%2BxXfWTvPoNJ%2FX%2FkuXZmDWwELIXQtRGjlGzaTr%2FMK3VGeX0L6vpT2BZWZA9lrywneD5FUaz3U2XKzSFnOyfiJUX6v%2ByyUdDXIFCqSsykOQoJ2%2BdZevQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9NSI2XjbNxlGxj43qqffEg3hzBl1cfiRbxZ40GzwKBJKYLi%2FkHouuJWIitvSZTKpwS0yuSqTv5tIIYSrRe5VG9pjy5bIhMN8EozMYTGvP9E7Nl8Sd34HEoJsBcjyfIhv7cUcvrhA532%2FPt%2Bg82Ambz0iKfYDSUz8MrawYwzz1%2FjQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -160,23 +160,6 @@
    "posted_at": "2026-11-14T05:57:28+00:00"
   },
   {
-   "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
-   "model": "SSD:NVMe-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 3.0,
-   "effective_eur": 13.8,
-   "median_eur": 19.65,
-   "discount_pct": 29.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tortellifr (100,0 %, 153 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237184709590?_skw=ssd&hash=item37394f73d6:g:b0YAAeSw5X1q-fz3",
-   "posted_at": "2026-11-15T18:42:13+00:00"
-  },
-  {
    "title": "Crucial MX500 SSD 500 Go 2,5\" SATA III CT500MX500SSD1",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -194,6 +177,23 @@
    "posted_at": "2026-11-15T08:06:18+00:00"
   },
   {
+   "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
+   "model": "MB:B650",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 70.0,
+   "shipping_eur": 6.5,
+   "effective_eur": 76.5,
+   "median_eur": 106.49,
+   "discount_pct": 28.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · vacarm67 (99,4 %, 608 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
+   "posted_at": "2026-09-11T15:16:56+00:00"
+  },
+  {
    "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
    "model": "RAM:DDR4-8Go-3200",
    "category": "RAM",
@@ -209,23 +209,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237181676371?_skw=ddr4&hash=item3739212b53:g:e90AAeSwfvBq95a3",
    "posted_at": "2026-11-13T23:01:35+00:00"
-  },
-  {
-   "title": "ASRock B650M-H/M.2+ - Carte mère Micro ATX Socket AM5 AMD B650 - NEUVE",
-   "model": "MB:B650",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 70.0,
-   "shipping_eur": 6.5,
-   "effective_eur": 76.5,
-   "median_eur": 101.49,
-   "discount_pct": 24.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · vacarm67 (99,4 %, 608 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267782507356?_skw=carte+m%C3%A8re&hash=item3e5914cb5c:g:ZlsAAeSw5Q9qpBqw",
-   "posted_at": "2026-09-11T15:16:56+00:00"
   },
   {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
@@ -258,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71MfTACTQ--XOzbIdh9r3Vu1pVsQQjdvK8Ysw4rIZX0iHic8WP3woukHbrWCBm3pvEU2jjXFJYp0ut%2BQs5ZtGXU%2BP9nRanYEm4DoOPYtaQtDFCt0faJCgw0%2BY5c9bCxk0iYOS6XUp8tKo%2F%2BlFsdxTFQ",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72eMMeBmSXXu2TnIEcyttfKTgaL0nBzx97hX3UbtdBn%2F3qju%2Br2WFdHyvUGJLEH%2FO7pSqJU6Kq1IAgzTJvZIo1bJdi43Cd5Anuz7wjacA0Npck8Gsiwi76LsHSmKur%2Fb5QJrFysg6qdUi6IlXUPtR8j",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -294,6 +277,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
    "posted_at": "2026-01-14T17:31:44+00:00"
+  },
+  {
+   "title": "Moniteur Gaming 27” GIGABYTE G27Q20 - QHD, 200Hz",
+   "model": "MON:27-QHD-200Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 104.99,
+   "shipping_eur": null,
+   "effective_eur": 104.99,
+   "median_eur": 124.99,
+   "discount_pct": 16.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gigabyte-g27q20-27-qhd-2560-x-1440-200hz-05ms-3457884",
+   "posted_at": "2026-11-16T15:47:42+00:00"
   },
   {
    "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
@@ -332,6 +332,20 @@
  ],
  "unclassified": [
   {
+   "title": "Pack clavier + souris sans fil Logitech MK470 Slim Combo",
+   "price_raw": "36,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-clavier-souris-sans-fil-logitech-mk470-slim-combo-3457909",
+   "posted_at": "2026-11-16T16:07:31+00:00"
+  },
+  {
+   "title": "Carte mère pour ordinateur portable Dell Latitude 3420 i5-1135G7 2.4GHz...",
+   "price_raw": "59.53 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287733951705?_skw=carte+m%C3%A8re&hash=item42fe47acd9:g:1roAAeSwqdFq-yjZ",
+   "posted_at": "2026-11-16T16:01:25+00:00"
+  },
+  {
    "title": "Webcam éElgato Facecam Neo – Webcam Full HD",
    "price_raw": "37,99€",
    "source": "dealabs",
@@ -353,7 +367,7 @@
    "posted_at": "2026-11-16T15:33:03+00:00"
   },
   {
-   "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC SDRAM DIMM PC4-2400T HMA82GR7MFR4N-UH",
+   "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b",
@@ -372,13 +386,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366814372138?_skw=ddr4&hash=item5567d7212a:g:n2QAAeSwS~Nq-x~F",
    "posted_at": "2026-11-16T15:23:41+00:00"
-  },
-  {
-   "title": "Kingston 32gb 2x16gb Ddr4  KCP432SD8/16 3200 Sodimm Laptop Ram",
-   "price_raw": "149.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366814378506?_skw=ddr4&hash=item5567d73a0a:g:mCIAAeSwK09q-yBy",
-   "posted_at": "2026-11-16T15:27:26+00:00"
   },
   {
    "title": "RAM sk hynix 8 GB GO RAM DDR4 1Rx8 PC4-2666v SO-DIMM",
@@ -400,13 +407,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/840134902843?_skw=carte+m%C3%A8re&hash=itemc39bf1443b:g:JcEAAeSwE41q-x21",
    "posted_at": "2026-11-16T15:14:31+00:00"
-  },
-  {
-   "title": "CARTE MÈRE HP NETSERVER E60 D7140-63000 + PENTIUM III 500 MHz + NAPPES",
-   "price_raw": "156.60 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123261277?_skw=carte+m%C3%A8re&hash=itemcceb6f315d:g:M8AAAeSwwidq-xvD",
-   "posted_at": "2026-11-16T15:16:32+00:00"
   },
   {
    "title": "Lot de barrettes RAM PC portables DDR4/DDR3 et fixes DDR2/DDR3...",
@@ -683,7 +683,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1893,
+  "listings_seen": 1895,
   "models_with_reference": 60
  }
 }
