@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T10:38:00Z",
+ "generated_at": "2026-11-16T11:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 351,
-   "last_ok": "2026-11-16T10:38:00.675814+00:00"
+   "items": 349,
+   "last_ok": "2026-11-16T11:08:00.666222+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T10:38:00.675814+00:00"
+   "last_ok": "2026-11-16T11:08:00.666222+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 367,
-   "last_ok": "2026-11-16T10:38:00.675814+00:00"
+   "items": 366,
+   "last_ok": "2026-11-16T11:08:00.666222+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 72,
-   "last_ok": "2026-11-16T10:38:00.675814+00:00"
+   "items": 6,
+   "last_ok": "2026-11-16T11:08:00.666222+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "SSD Interne 1 To NVME M2.2280",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 84.12,
+   "shipping_eur": null,
+   "effective_eur": 84.12,
+   "median_eur": 149.99,
+   "discount_pct": 43.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/disque-dur-1-to-3457454",
+   "posted_at": "2026-11-16T10:42:13+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -88,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FucbbTlqbv5XboEokdvLVpDH5rfLJoNqYC73FmoMUCSOSS%2B2nmaTQCU51K5wX7cGPU4CdQ2Cx0QYFTAriZatUt5hZzA798KdAJCLNkk%2FoZ1dHuBUqf3Cwg4o9xbzCiHbAoSe902eXpoMzX649Suem3DqpIK7LptCP78jsp%2BbwLsw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fkd2YPCW2JwxlREXzdm%2B2vcKUjmG5mSCWMr2X6%2B9jIVT%2B7f3wV7fA1OVWS2HNw1uZ6GNjzSAgXge2sXc06QdM69vwz5th2QjzLmpD26%2FYc9qZMSddMfKI06UszQJCObzFsKv7J%2FHgHr%2BsRc7yKORqsMO53saKICP7q21jgzAeCfQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -383,7 +400,35 @@
  ],
  "unclassified": [
   {
-   "title": "Amazon Kindle Paperwhite (modèle 2024) - Écran antireflets de 7\" et autonomie de plusieurs semaines - 16 Go",
+   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7, Plusieurs coloris",
+   "price_raw": "1 199€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-ram-16-go-ssd-512-go-wifi-7-plusieurs-coloris-3457491",
+   "posted_at": "2026-11-16T11:06:51+00:00"
+  },
+  {
+   "title": "NAS Ugreen NASync DH4300 - 4 baies, 8 Go RAM, 2.5 GbE, HDMI 4K, 128 To max (vendeur tiers)",
+   "price_raw": "309,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nas-ugreen-nasync-dh4300-4-baies-8-go-ram-25-gbe-hdmi-4k-128-to-max-3457490",
+   "posted_at": "2026-11-16T11:03:31+00:00"
+  },
+  {
+   "title": "Boitier PC Fractal Design North",
+   "price_raw": "106,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/fractal-design-north-3457447",
+   "posted_at": "2026-11-16T10:39:23+00:00"
+  },
+  {
+   "title": "NEW Cherry G84-5500 XS Clavier 75% Compact Filaire AVEC Pavé Tactile AZERTY FR",
+   "price_raw": "35.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336895780579?_skw=clavier&hash=item4e708da6e3:g:GekAAeSwq3xq9yBw",
+   "posted_at": "2026-11-16T11:00:01+00:00"
+  },
+  {
+   "title": "Liseuse Amazon Kindle Paperwhite 2024 - Écran antireflets de 7\", 16 Go",
    "price_raw": "144,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amazon-kindle-paperwhite-modele-2024-ecran-antireflets-de-7-et-autonomie-de-plusieurs-semaines-16-go-3457438",
@@ -703,38 +748,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/macbook-air-15-pouces-m5-3457040",
    "posted_at": "2026-11-16T07:45:44+00:00"
-  },
-  {
-   "title": "Volant et pédales Logitech G G29 Driving Force pour PS5, PS4, PC et Mac",
-   "price_raw": "182,59€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/driving-force-volant-ps5-ps4-pc-et-mac-noir-logitech-g-g29-3456929",
-   "posted_at": "2026-11-16T07:39:00+00:00"
-  },
-  {
-   "title": "Micron DDR4 RDIMM 16 Go PC4-3200AA MTA18ASF2G72PDZ-3G2R1TI",
-   "price_raw": "130.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327459053511?_skw=ddr4&hash=item4c3e149fc7:g:I3IAAeSwEJBq-rOU",
-   "posted_at": "2026-11-16T07:42:33+00:00"
-  },
-  {
-   "title": "Boîtier PC gaming MSI MPG Gungnir 110R - White",
-   "price_raw": "59,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-gaming-msi-mpg-gungnir-110r-white-3457024",
-   "posted_at": "2026-11-16T07:29:35+00:00"
-  },
-  {
-   "title": "[Adhérents] PC portable 16\" Acer Aspire 16 AI A16-61M-R4H0 - FHD OLED, AI 5 330, 16Go RAM, 512Go SSD, 61 Wh, Win 11 + Ecran 16\" (via ODR)",
-   "price_raw": "649€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-16-acer-aspire-16-ai-a16-61m-r4h0-fhd-oled-ai-5-330-16go-ram-512go-ssd-61-wh-win-11-ecran-16-via-odr-3457023",
-   "posted_at": "2026-11-16T07:29:25+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1846,
+  "listings_seen": 1852,
   "models_with_reference": 58
  }
 }
