@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T23:08:00Z",
+ "generated_at": "2026-11-16T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-16T23:08:00.678488+00:00"
+   "items": 346,
+   "last_ok": "2026-11-16T23:38:00.663640+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T23:08:00.678488+00:00"
+   "last_ok": "2026-11-16T23:38:00.663640+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 370,
-   "last_ok": "2026-11-16T23:08:00.678488+00:00"
+   "items": 374,
+   "last_ok": "2026-11-16T23:38:00.663640+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T23:08:00.678488+00:00"
+   "last_ok": "2026-11-16T23:38:00.663640+00:00"
   }
  },
  "watchlist": [
@@ -48,14 +48,31 @@
    "price_eur": 129.95,
    "shipping_eur": null,
    "effective_eur": 129.95,
-   "median_eur": 299.99,
-   "discount_pct": 56.7,
+   "median_eur": 312.72,
+   "discount_pct": 58.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "Rue du Commerce",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ace-nitro-vg272uw2bmiipx-qhd-dalle-ips-240hz-1ms-freesync-premium-3454351",
    "posted_at": "2026-11-13T13:14:00+00:00"
+  },
+  {
+   "title": "SSD Netac NVMe M.2 2280 PCIe 3.0 1To 500Go 250Go 3500Mbps",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 62.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 62.99,
+   "median_eur": 149.99,
+   "discount_pct": 58.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · electrodealglobal (100,0 %, 81 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287733631661?_skw=ssd&hash=item42fe42caad:g:op8AAeSwzc5q-veV",
+   "posted_at": "2026-11-16T12:31:09+00:00"
   },
   {
    "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 250 Go Garanti 5 ans",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bjzwws4nyBRAN34lwZhNdtYdSVqUgGlGzzlcLGlSR7KArPd7E712uo7ecDLPUth9NmfS9eTFTR0i1YKGnsKlbqH%2BwfZYo6Fywv5wgAFPr9RbxG2kNHO7Cwu%2B72ARB5StlyXevhcqoA9Q6iHGoa8P5tiDHYHEt5CNV542HYh93Fsw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fxo725tchS5%2FTmEzCcAbUTMsmEoj5GCF0GWVP8YsDG8gQXEOeMxBfQkroSbY26Ya6w08l%2BIr5OSOWj1Cm72wX9e%2BJUx15Ta4OY%2BIJTA7Sd%2Fc0uzlL7zzUwk6pLOOoz2zrJWVXkaBzb1TsSyEb8zGP3TPX7d9jPWIcECq6ClsDqIA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -160,6 +177,23 @@
    "posted_at": "2026-11-13T13:40:26+00:00"
   },
   {
+   "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 199.99,
+   "shipping_eur": null,
+   "effective_eur": 199.99,
+   "median_eur": 312.72,
+   "discount_pct": 36.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hp-omen-27qs-qhd-ips-240hz-1ms-2560-x-1440-antireflet-amd-freesync-premium-noir-3457934",
+   "posted_at": "2026-11-16T16:24:55+00:00"
+  },
+  {
    "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 HMAA2GS6AJR8N-XN",
    "model": "RAM:DDR4-16Go-3200",
    "category": "RAM",
@@ -175,23 +209,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860149304712?_skw=ddr4&hash=itemc844e4cd88:g:eGEAAeSw9SVq192D",
    "posted_at": "2026-11-16T15:16:43+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
-   "model": "MON:27-QHD-240Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 199.99,
-   "shipping_eur": null,
-   "effective_eur": 199.99,
-   "median_eur": 299.99,
-   "discount_pct": 33.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hp-omen-27qs-qhd-ips-240hz-1ms-2560-x-1440-antireflet-amd-freesync-premium-noir-3457934",
-   "posted_at": "2026-11-16T16:24:55+00:00"
   },
   {
    "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
@@ -309,7 +326,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 203 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE728hewY5SsE0EVxDdsAFRm1QS2Poc3hwWeXV4313VXkhxTgjqOFNAliZ6d3U8uYBndnawE%2FmFGueckqLsUJ9zn3Giy7Rmao4XJUasFi2NB1Ow9sxP7vVuo2hrfnzH9cvBTLhxixiE7GDD3hgxqkBHln",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72ikYbkQhcnSAZsXczb8kQQ4hGBQmWB7SldbAPsKuTZLH9Z67G4u2GHH5qWzAObOlH3Ge4Cp0EuzWtyujf3nBd4CeitHjw8CUgf%2FHbXqJLDNMB310QRic%2Bvs9%2Fmw6BqxFqmUYgF0rHj%2FUGeiqegaMlP",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -382,6 +399,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Samsung CM871 192Go 2,5\" SATA III 6 Gb/s TLC MZ-7LF1920 Garantie : 2 ans",
+   "price_raw": "33.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800926976417?_skw=ssd&hash=itemba7af7c9a1:g:S1YAAeSw42hq-450&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m81CoT8o8jB9SbVfMW2uATby9qhn%2FI0ytxUhOw6QIDjQAOu0QP%2FSizAF1Oxys8IIbTLKkhGu%2FZ5MQEFQEJMpxiae0XdZZLqLbxMZwt1NpeZOvG2tGsxLcxoHanIWARKBSaU%2B4WaSVLwT4IrET%2FPnvRlYUjXmuDuLkabbRPzvxaHIrgnWRRxM7USZsEU82vEUC4hxzoovgQD5uW9bOpDabYuEJzHndQ2SyiRIdNVFjUYx9jI7GaVIJT4ZsFGbGqd9nQX5zn6NDtRyI300fgHaMp",
+   "posted_at": "2026-11-16T23:14:53+00:00"
+  },
   {
    "title": "Tapis de Souris Pixiecube - 90x40cm, Raccourcis Excel, en anglais (vendeur tiers)",
    "price_raw": "13€",
@@ -472,13 +496,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-112-xiaomi-pad-8-8-go-128-go-clavier-stylet-focus-pen-pro-ecouteurs-redmi-buds-6-active-via-coupon-40eur-odr-70eur-3458209",
    "posted_at": "2026-11-16T20:39:53+00:00"
-  },
-  {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
   },
   {
    "title": "Écran PC LC34G55TWW Samsung Moniteur Gaming 34\" UWHD 165Hz VA Odyssey G5",
@@ -628,6 +645,13 @@
    "posted_at": "2026-11-16T16:17:53+00:00"
   },
   {
+   "title": "Carte graphique ASUS Radeon R5 230 1 Go DDR3 – R5230-SL-1GD3-L",
+   "price_raw": "20.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940097222260?_skw=carte+graphique&hash=itemdae2293674:g:ZMsAAeSwLqNq-yry",
+   "posted_at": "2026-11-16T16:10:59+00:00"
+  },
+  {
    "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
    "price_raw": "55.72 EUR",
    "source": "ebay",
@@ -659,8 +683,15 @@
    "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
    "price_raw": "156.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwof6FG3bx91drPHOago8mDo9cZp3Qx%2Ffoj4XQwiYckvj67UgdH8BcTaC471rHqg8P7H0SaHYKFLjrvPOU2vQVxLu2TAgKcq%2FZgu%2Bwi82hcKbifcNaKW7gmgHiy6e9iQzjwJAOZzNIySw9EtjsqrOwQ9",
+   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwrKCdJQWchwgHVRz%2B38aS8FelrKtQFWjXXckYYy39YiwKzmG1r7upNk9bMifZtjqmMdsHvqfw6I5t7p44zpz9MapcRSLi7hMCwqAzixswiDdAW2T1ZsIRYnya0oqaVLBjtL36zWkHNnu30iShvTl9IA",
    "posted_at": "2026-11-16T15:29:39+00:00"
+  },
+  {
+   "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
+   "price_raw": "68.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840134878167?_skw=carte+m%C3%A8re&hash=itemc39bf0e3d7:g:sGQAAeSwtJ9q-xv9",
+   "posted_at": "2026-11-16T15:07:06+00:00"
   },
   {
    "title": "Boitier Disque Dur 2.5 Orico - 6Gbps USB C 3.1 Gen 2 (Vendeur Tiers)",
@@ -717,24 +748,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-razer-basilisk-mobile-capteur-focus-x-18k-bluetooth24-ghzusb-jusqua-105-h-dautonomie-3457712",
    "posted_at": "2026-11-16T13:59:33+00:00"
-  },
-  {
-   "title": "Souris filaire Razer DeathAdder Essential 2021 - Blanc",
-   "price_raw": "15,08€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-razer-deathadder-essential-2021-blanc-3457675",
-   "posted_at": "2026-11-16T13:39:45+00:00"
-  },
-  {
-   "title": "Ecran PC 24'' AOC 24G4HREAD - 260 Hz, Fast IPS, 1ms GtG, HDR10, G-Sync Compatible, Haut-parleurs",
-   "price_raw": "89€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-aoc-24g4hread-260hz-fast-ips-1ms-gtg-hdr10-g-sync-compatible-haut-parleurs-3457673",
-   "posted_at": "2026-11-16T13:37:08+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1922,
-  "models_with_reference": 60
+  "listings_seen": 1925,
+  "models_with_reference": 61
  }
 }
