@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T12:38:00Z",
+ "generated_at": "2026-11-16T13:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-16T12:38:00.674145+00:00"
+   "last_ok": "2026-11-16T13:08:00.676142+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T12:38:00.674145+00:00"
+   "last_ok": "2026-11-16T13:08:00.676142+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-16T12:38:00.674145+00:00"
+   "items": 364,
+   "last_ok": "2026-11-16T13:08:00.676142+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T12:38:00.674145+00:00"
+   "last_ok": "2026-11-16T13:08:00.676142+00:00"
   }
  },
  "watchlist": [
@@ -48,8 +48,8 @@
    "price_eur": 129.95,
    "shipping_eur": null,
    "effective_eur": 129.95,
-   "median_eur": 299.99,
-   "discount_pct": 56.7,
+   "median_eur": 312.72,
+   "discount_pct": 58.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "Rue du Commerce",
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9GulDnpHB4zTwQXENneAkJwJCZoxcBljCLN3YsSLgjxiVX9OQ%2FEdR%2BfYHtmTsP1RsRESbw7GKhDbwAeHKekmDVj7lp7cS0ClxFUmX4dp9D3S13XLKuSaOsq082UbY6M76BQfeLhw2nPY4ktOuRGRjUu3%2BJzYDcHhTJF76%2BkguQAQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FfhmFR4qpXKoVn0PgA9wcSb%2F0Uclpm5d%2B61ohafX1ahQdcHLUR7jqCGtxItmqpF7EUWuARpKQGdIa%2F9zhbyr6EIdWATv73%2BToSUynTNAcLgrvpE5kZV%2BOdCfPZwA3FswgKlvfO1mubinFvY7ARs58h6DJ5QEHD13aJEN8X%2BcPQWw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -399,6 +399,48 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC portable Gamer LENOVO Legion 5 15IRX10 - Sans Windows - 15,1'' OLED 165 Hz - Core i7-",
+   "price_raw": "1 700€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-lenovo-legion-5-15irx10-sans-windows-151-oled-165-hz-core-i7-3457626",
+   "posted_at": "2026-11-16T13:05:29+00:00"
+  },
+  {
+   "title": "PC Portable 16\" HP OMEN - 2,5K IPS 240 Hz, RTX 5070 Ti 12 Go, i7-14650HX, 24 Go RAM, 1 To SSD",
+   "price_raw": "2 089€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/hp-omen-pc-portable-gamer-16-rtx-5070-ti-12-go-intel-core-i7-14650hx-3457624",
+   "posted_at": "2026-11-16T13:04:45+00:00"
+  },
+  {
+   "title": "Carte graphique MSI RX300HM-TD128E",
+   "price_raw": "16.15 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147659256895?_skw=carte+graphique&hash=item22612d743f:g:puAAAOSwVfRn9luz",
+   "posted_at": "2026-10-31T09:09:53+00:00"
+  },
+  {
+   "title": "Mémoire SK Hynix Serveur 16GB DDR5 EC8 RDIMM 1Rx8 PC5-4800B-RD0-1010-XT",
+   "price_raw": "350.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227617035572?_skw=ddr5&hash=item34ff085534:g:O4wAAeSwbZ1q-vme",
+   "posted_at": "2026-11-16T12:44:45+00:00"
+  },
+  {
+   "title": "Corsair Vengeance® DDR5 - 64 Go (2 x 32 Go) - 6000 MT/s C30 - AMD EXPO - Blanc",
+   "price_raw": "1809.27 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336251731641?_skw=ddr5&hash=item4e4a2a3eb9:g:7PMAAeSw~adq-v31",
+   "posted_at": "2025-10-25T10:13:40+00:00"
+  },
+  {
+   "title": "Corsair Vengeance® DDR5 - 64 Go (4 x 16 Go) - 6000 MT/s C36 - AMD EXPO - Gris",
+   "price_raw": "1849.36 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336251732191?_skw=ddr5&hash=item4e4a2a40df:g:qFgAAeSwCCBq-vzq",
+   "posted_at": "2025-10-25T10:14:19+00:00"
+  },
   {
    "title": "RAM Micron 16GB (2x8GB) DDR4 So-Dimm PC4-3200 original",
    "price_raw": "50.52 EUR",
@@ -706,52 +748,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-tout-en-un-hp-smart-tank-5107-blanc-fnac-3457099",
    "posted_at": "2026-11-16T08:10:40+00:00"
-  },
-  {
-   "title": "Boitier PC Cooler Master MasterBox NR200P Max",
-   "price_raw": "159,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-cooler-master-mini-itx-nrp-200-p-max-3457096",
-   "posted_at": "2026-11-16T08:10:07+00:00"
-  },
-  {
-   "title": "Souris filaire Logitech G502 X - Capteur Hero 25K, 13 Boutons, avec Tapis G240, Noir",
-   "price_raw": "39,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-filaire-logitech-g502-x-capteur-hero-25k-13-boutons-avec-tapis-g240-noir-3457086",
-   "posted_at": "2026-11-16T08:06:50+00:00"
-  },
-  {
-   "title": "Sonnette vidéo filaire Blink 2K+ (nouvelle génération) - Alimentation raccordée, Audio amélioré, Résistant aux intempéries IP65 (Noir)",
-   "price_raw": "24,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/sonnette-video-filaire-blink-2k-nouvelle-generation-alimentation-raccordee-audio-ameliore-resistant-aux-intemperies-ip65-noir-3454614",
-   "posted_at": "2026-11-16T08:06:13+00:00"
-  },
-  {
-   "title": "[PREBUILT] MSI Aegis Gaming Desktop - AMD Ryzen 9 9900X - GeForce RTX 5080 - Windows 11 Home - 32GB RAM - 2TB SSD - $2799.99",
-   "price_raw": "$2799.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxjx93/prebuilt_msi_aegis_gaming_desktop_amd_ryzen_9/",
-   "posted_at": "2026-11-16T08:12:05+00:00"
-  },
-  {
-   "title": "Liseuse Amazon Kindle Colorsoft - 16 Go, Écran couleur 7\", Éclairage réglable, Autonomie jusqu'à 8 semaines",
-   "price_raw": "164,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/liseuse-amazon-kindle-colorsoft-16-go-ecran-couleur-7-eclairage-reglable-autonomie-jusqua-8-semaines-3454431",
-   "posted_at": "2026-11-16T08:04:00+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Acer Nitro V 15 - Ryzen 7, RTX 5050, 16 Go",
-   "price_raw": "999€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acer-nitro-v-15-gaming-laptop-156-ryzen-7-rtx-5050-16gb-3457075",
-   "posted_at": "2026-11-16T08:00:47+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1850,
-  "models_with_reference": 58
+  "models_with_reference": 57
  }
 }
