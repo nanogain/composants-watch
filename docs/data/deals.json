@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-16T01:08:00Z",
+ "generated_at": "2026-11-16T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 335,
-   "last_ok": "2026-11-16T01:08:00.618218+00:00"
+   "last_ok": "2026-11-16T01:38:00.679881+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-16T01:08:00.618218+00:00"
+   "last_ok": "2026-11-16T01:38:00.679881+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-16T01:08:00.618218+00:00"
+   "items": 373,
+   "last_ok": "2026-11-16T01:38:00.679881+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-16T01:08:00.618218+00:00"
+   "last_ok": "2026-11-16T01:38:00.679881+00:00"
   }
  },
  "watchlist": [
@@ -109,23 +109,6 @@
    "posted_at": "2026-11-14T21:49:57+00:00"
   },
   {
-   "title": "Processeur Intel Core i5-8500 3,00 GHz 6 cœurs LGA1151 SR3XE",
-   "model": "CPU:Core i5-8500",
-   "category": "CPU",
-   "condition": "used",
-   "price_eur": 24.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 24.9,
-   "median_eur": 40.99,
-   "discount_pct": 39.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · recyclageinformatiquesologne (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960182158425?_skw=processeur&hash=itemdf8f510459:g:WKMAAeSwoGZq9DVj",
-   "posted_at": "2026-11-11T09:31:40+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B94BcjJsMR0RWS2DzaEpI98nxAIdxwDAmFbEwZXtRL1ZbNVij%2BGj2hH8Pu0%2BnModobyEit83rma2D21tcoo3CpwbgrdNqBWhKP01XLM3iT7qvKtSK%2F%2BNK0L51mI8xlqK8%2B4PBOibx%2B7X%2BJH2KqPoGt1IoF2iIJUg9r6g1xXRmjdjw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Rivs5DeiIQf6T2Td56rELmw1nKsTg5U0UqhDl4RDuYKVsulAidHOKDGdbwj%2B5qElQxvoEg9k0KISawQbFWIuikmZGSofd%2BiSCw7sV%2FglU8uMIY2MC7NTo4iAiiWEI4CmaGWtTts82o4C0F5fj%2FzvMLBHYrRlWGuBp%2BK2marYnRA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 202 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt7idXe%2BwJW8tR%2BwZvqzF%2FHK57eKZFcWhZp%2FkNqDha7NJP96m8F7abtbjF8Xsc%2BGHGAfpvZGognYPB%2FNbVch%2FI1f4eRlsmgD1tmHKbSWzjz75ryzCnLqcIYWWfOLu6zBf5fDrHbyCz9t2u05zH6RvDG1",
+   "url": "https://www.ebay.fr/itm/206701511462?_skw=ssd&hash=item30205ec326:g:U4IAAeSwEvlq-NfQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nHwW4k%2F3LDR8oejg9c92UXCJsmIGjAdlaGbG94VIpDn9b7doxj6y%2F61usbBYLHKH%2FcbDmOPIFZHaGuXJpQxh57drPDHqosqwoIDQi9z7Md8pUcdyRzi6b7anp%2Fe0TW%2Bt4w8MidKMcIiUdbBnfnrlkCLuvflKcrveC%2BRsPz62qr3%2B7O4%2BMd5Xu8ZygF05kVG7EGKA1hTmJER9xiRqv5Hb8xs%2FXwZ6jQbSC4EzVggAmiRT6wzqpG86Z%2F2U8Hf%2F6btWcYIgraDvfOKTWq43uZmFIg",
    "posted_at": "2026-11-14T21:53:41+00:00"
   },
   {
@@ -451,6 +434,20 @@
  ],
  "unclassified": [
   {
+   "title": "[TV] TCL 98\" Q Series QLED 4K UHD HDR Smart Google TV (New, Limited Edition) - Dolby Vision, Dolby Atmos, Motion Rate 240, HDR 10+, Auto Game Mode - $898 (includes free installation)",
+   "price_raw": "$898",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxcoek/tv_tcl_98_q_series_qled_4k_uhd_hdr_smart_google/",
+   "posted_at": "2026-11-16T01:31:57+00:00"
+  },
+  {
+   "title": "[Headset] HyperX Cloud III Wired Headphones at Walmart - $39",
+   "price_raw": "$39",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxco0v/headset_hyperx_cloud_iii_wired_headphones_at/",
+   "posted_at": "2026-11-16T01:31:28+00:00"
+  },
+  {
    "title": "Carte Graphique GPU AMD SAPPHIRE Radeon HD 5870 Vapor-X 1 Go GDDR5",
    "price_raw": "31.90 EUR",
    "source": "ebay",
@@ -619,25 +616,11 @@
    "posted_at": "2026-11-15T22:59:33+00:00"
   },
   {
-   "title": "PC Portable 16\" Asus V3607VM-RP097W - FHD 144Hz, Intel 5 210H, RTX 5060, RAM 16 Go, SSD 512 Go, Windows 11 (via remise fidélité)",
-   "price_raw": "879,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-pc-portable-gamer-3456498",
-   "posted_at": "2026-11-15T21:54:19+00:00"
-  },
-  {
    "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7, Plusieurs coloris (1099€ pour les étudiants via Unidays)",
    "price_raw": "1 199€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-ram-16-go-ssd-512-go-wifi-7-3456472",
    "posted_at": "2026-11-15T21:03:25+00:00"
-  },
-  {
-   "title": "Écran Moniteur PC MSI Pro MP275 27 Full HD 100Hz IPS HDMI VGA Haut-Parleurs Neuf",
-   "price_raw": "162.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/127801284489?_skw=%C3%A9cran+pc&hash=item1dc18cd789:g:oXMAAeSw9-pp18yl",
-   "posted_at": "2026-04-09T19:27:15+00:00"
   },
   {
    "title": "PC Portable 14\" Asus Zenbook A14 UX3407 - Snapdragon X2 Elite, RAM 32 Go LPDDR5X, SSD 1 To. (1278€ avec la carte Fnac+)",
@@ -666,13 +649,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206703697847?_skw=carte+graphique&hash=item3020801fb7:g:HlkAAeSw3Uxq8HMT",
    "posted_at": "2026-11-15T19:41:48+00:00"
-  },
-  {
-   "title": "Carte mère ASRock Rack B565D4-V1L ATX - Socket AM4 - 4x emplacements RAM DDR4",
-   "price_raw": "59.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188354211052?_skw=carte+m%C3%A8re&hash=item2bdac92cec:g:GtoAAeSwAMNqS7kj",
-   "posted_at": "2026-05-06T10:18:46+00:00"
   },
   {
    "title": "Be Quiet! Dark Rock TF 2 - Ventirad Processeur",
@@ -799,10 +775,17 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128196666141?_skw=carte+graphique&hash=item1dd91de31d:g:3owAAOSw0LFmxiMN",
    "posted_at": "2026-11-15T16:18:11+00:00"
+  },
+  {
+   "title": "Kingston 8 Go DDR4 SDRAM DIMM 288 broches PC4-2666V HP26D4U9S8ME-8",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168864593164?_skw=ddr4&hash=item27511d350c:g:tBgAAeSwFbBq-duK",
+   "posted_at": "2026-11-15T16:23:58+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1775,
+  "listings_seen": 1771,
   "models_with_reference": 54
  }
 }
