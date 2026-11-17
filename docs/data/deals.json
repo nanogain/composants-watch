@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T02:08:00Z",
+ "generated_at": "2026-11-17T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-17T02:08:00.671756+00:00"
+   "last_ok": "2026-11-17T02:38:00.679829+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T02:08:00.671756+00:00"
+   "last_ok": "2026-11-17T02:38:00.679829+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-17T02:08:00.671756+00:00"
+   "items": 380,
+   "last_ok": "2026-11-17T02:38:00.679829+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 74,
-   "last_ok": "2026-11-17T02:08:00.671756+00:00"
+   "items": 80,
+   "last_ok": "2026-11-17T02:38:00.679829+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ace-nitro-vg272uw2bmiipx-qhd-dalle-ips-240hz-1ms-freesync-premium-3454351",
    "posted_at": "2026-11-13T13:14:00+00:00"
+  },
+  {
+   "title": "SSD Netac NVMe M.2 2280 PCIe 3.0 1To 500Go 250Go 3500Mbps",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 62.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 62.99,
+   "median_eur": 149.99,
+   "discount_pct": 58.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · electrodealglobal (100,0 %, 81 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287733631661?_skw=ssd&hash=item42fe42caad:g:op8AAeSwzc5q-veV",
+   "posted_at": "2026-11-16T12:31:09+00:00"
   },
   {
    "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 250 Go Garanti 5 ans",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8ckmv36WM%2F4%2BuoQHWqXQQh5%2Bd3oW5txw1c3Olplt0z1M6%2BlKqO%2FWgYkVBq--RWiBiKdIOIZLPARhpow1WBiVF1KgTKXAEuoseCCfzvwaouSSuwRoo9rHzFdi%2BUwN3sTGPF4e%2BfyyhvXdheBmdigksxF24bGlX7HOHG0b6EPxT7VA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B938hNPzFN5ajJ6Pku8erMFvw3Q%2Fczrcsgop%2BKCrKc9%2BrzQW6HfiGXmXrNAUDSsA0AhTgQyrbEfmxrAwxunggcadmb4lv7jcS2RG1j5ST2zILwhHnFPJ3LPaSYJ%2FZ05Ie%2F1OiBw7Xk%2FphO2WfIdPPxiI%2FJYKokcAm74H1IGGvEJzw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuydS%2BM%2B7pIaJT6G9TtU3kXOY6Gq7puYRsrh1p1xS9PkUZiWiTGUcqvYxE5nRJFkr8s9MPw1eOnOf2xTKeKXaXmY%2BP3xQ8vtLefwWtb34jIFmbxWbtCvtat3ajOFbDyQXrGF5%2FzsMm1W84Bcsyr4DTqX",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwTAFFc80svgMokmxkPNRbcIRRx3xtv%2BRNx93T3Rfq7FcxDAL4iihIWKfrWYgn0i780Xf3VVUOanGydz8d3g%2FaCuzBSR7GoplTFk0vma6Tn%2Bq6Fo6prm3hCFOhbpgilaJ9B1BcYwXYsVgaLndp8LksV",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -343,7 +360,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 203 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE706lRoFAUTZ4AGR2OxLS75yVfl3Z1uaDvVlRZBDhP6l7VEnuQ76NNKsAxbMvSEzBcxwTCXSANfjgglJJgqCR9lbDU%2B9BxZigu6JygjAkqoRtGHmrrLBJXfLqvizOSLfnums7PSqVDWXV1bJRLvv8hnU",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72LZr46VlGhnAZbDpTOYdZQaZqU38cAHLpduXqb2Fgrb91A1LllmttM78USM4RGLFt6b3KrAReZYZ6VxLmkGeHcPDs5lqenR3p6waom5Mri5zS2%2FLIqwJn3%2BrkuJFtuesZlFLNqCCXkKcvdM5Pmds93",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -420,7 +437,7 @@
    "title": "Processeur Intel Xeon E5-2699 v3 18 cœurs 2,3 GHz LGA 2011-3 45 Mo",
    "price_raw": "51.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287647702829?_skw=processeur&hash=item42f9239f2d:g:xecAAeSwl4Vqz3Lt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mPqtQVBgk1c6oE8qoiHsgLvTljKBjlCXMdpb%2FCGawT1PUawWfOU8wPlpelZIzZzID9RM25Evav1ga0hWEH5JutdPRCGzU%2BD1SCEJf83DEx%2BozhA0X9ShCvJif3Q0m2bIf2N%2BGYDWdgf8Fnr%2FmRHcmTJt%2FGysHnJlRs5ueXfdd8O65rve%2B1t4fVMzoXOkWt2nAu8g7xf38I8R%2BYTAoCF6gsBUuu%2B0ynE%2BeMAqyQsg%2F%2BM20tdHusfdp%2BvQuzmh5%2FIXtY04HZVFar9TbMNT0uZddU",
+   "url": "https://www.ebay.fr/itm/287647702829?_skw=processeur&hash=item42f9239f2d:g:xecAAeSwl4Vqz3Lt&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mPqtQVBgk1c6oE8qoiHsgLvTljKBjlCXMdpb%2FCGawT1PUawWfOU8wPlpelZIzZzID9RM25Evav1ga0hWEH5JutdPRCGzU%2BD1SCEJf83DEx%2BozhA0X9ShCvJif3Q0m2bIcgqrEf5r0Dkn2ljIaOiArSzyeNO3WS%2BeqSH5275TN9o8E%2BIkujy6FtBmY5DRsYuQqWNiZEy0gLrpI0iXpRjLVgrfUFXciMn%2F1xBq8VuwWC9CH%2BQfAZZBKGNUSuIqj7yGl3rKHB8poAXnCcNNXoy2Rf",
    "posted_at": "2026-10-14T12:18:11+00:00"
   },
   {
@@ -550,18 +567,18 @@
    "posted_at": "2026-11-16T20:39:53+00:00"
   },
   {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
-  },
-  {
    "title": "Écran PC LC34G55TWW Samsung Moniteur Gaming 34\" UWHD 165Hz VA Odyssey G5",
    "price_raw": "199€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/samsung-moniteur-gaming-34-uwhd-165hz-va-odyssey-g5-lc34g55tww-3458201",
    "posted_at": "2026-11-16T20:23:43+00:00"
+  },
+  {
+   "title": "32GO (2X16GO) RAM Micron MTA8ATF2G64HZ Sodimm 1Rx8 PC4 DDR4 25600 3200AA",
+   "price_raw": "150.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800639898346?_skw=ddr4&hash=itemba69db52ea:g:y5IAAeSw8h9qomGc",
+   "posted_at": "2026-09-10T07:52:04+00:00"
   },
   {
    "title": "Kit de superposition avec tablette pour sèche-linge WTZ27400",
@@ -697,6 +714,13 @@
    "posted_at": "2026-11-16T16:17:53+00:00"
   },
   {
+   "title": "Carte graphique ASUS Radeon R5 230 1 Go DDR3 – R5230-SL-1GD3-L",
+   "price_raw": "20.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940097222260?_skw=carte+graphique&hash=itemdae2293674:g:ZMsAAeSwLqNq-yry",
+   "posted_at": "2026-11-16T16:10:59+00:00"
+  },
+  {
    "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
    "price_raw": "55.72 EUR",
    "source": "ebay",
@@ -725,20 +749,6 @@
    "posted_at": "2026-11-16T15:12:17+00:00"
   },
   {
-   "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
-   "price_raw": "156.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwoiIwxYqy%2BOwGAPQeTTYf%2FTHLLMH%2BG6Z4BupDbZA02nhB0Zm3lxa%2BNsQOqWydCIYmZUdWmQh7YTL%2FxNtY4Apv0B1CE6Y67zbuxIMJEYmc4%2BWovZn7iBQ6k7VxtsreCPYPazpTm0IXKp5JCpyfUMxMFb",
-   "posted_at": "2026-11-16T15:29:39+00:00"
-  },
-  {
-   "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
-   "price_raw": "68.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840134878167?_skw=carte+m%C3%A8re&hash=itemc39bf0e3d7:g:sGQAAeSwtJ9q-xv9",
-   "posted_at": "2026-11-16T15:07:06+00:00"
-  },
-  {
    "title": "Boitier Disque Dur 2.5 Orico - 6Gbps USB C 3.1 Gen 2 (Vendeur Tiers)",
    "price_raw": "7,59€",
    "source": "dealabs",
@@ -765,10 +775,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-cooler-master-mp511-xl-3457767",
    "posted_at": "2026-11-16T14:26:10+00:00"
+  },
+  {
+   "title": "Manette sans fil Sony DualSense 007 First Light Limited Edition - pour PS5, PC, Mac et mobile",
+   "price_raw": "64,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/manette-sans-fil-dualsense-007-first-light-limited-edition-pour-ps5-pc-mac-et-mobile-3457748",
+   "posted_at": "2026-11-16T14:18:57+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1962,
-  "models_with_reference": 63
+  "listings_seen": 1961,
+  "models_with_reference": 65
  }
 }
