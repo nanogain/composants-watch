@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T09:08:00Z",
+ "generated_at": "2026-11-17T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-17T09:08:00.669272+00:00"
+   "items": 348,
+   "last_ok": "2026-11-17T09:38:00.635773+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T09:08:00.669272+00:00"
+   "last_ok": "2026-11-17T09:38:00.635773+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 374,
-   "last_ok": "2026-11-17T09:08:00.669272+00:00"
+   "items": 375,
+   "last_ok": "2026-11-17T09:38:00.635773+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-17T09:08:00.669272+00:00"
+   "items": 74,
+   "last_ok": "2026-11-17T09:38:00.635773+00:00"
   }
  },
  "watchlist": [
@@ -48,8 +48,8 @@
    "price_eur": 129.95,
    "shipping_eur": null,
    "effective_eur": 129.95,
-   "median_eur": 312.72,
-   "discount_pct": 58.4,
+   "median_eur": 325.45,
+   "discount_pct": 60.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "Rue du Commerce",
@@ -126,6 +126,23 @@
    "posted_at": "2026-11-13T13:40:26+00:00"
   },
   {
+   "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 199.99,
+   "shipping_eur": null,
+   "effective_eur": 199.99,
+   "median_eur": 325.45,
+   "discount_pct": 38.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hp-omen-27qs-qhd-ips-240hz-1ms-2560-x-1440-antireflet-amd-freesync-premium-noir-3457934",
+   "posted_at": "2026-11-16T16:24:55+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -139,25 +156,8 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz7oX5RWTP6j%2FgTLbya6%2BuLKO%2Bbz9FfK%2BEQ6Aakq3aeca1ijQjOFJpBFTuo7vkVWj5TjxYSowX0DPCGEcdQY4uCiRSmsr0t%2F7EipA%2FTgF%2B%2F3kqo9kZRS%2Fk2uEUYaJCSDA64YOBwL0KiqsJaDLoqmT%2BF",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzkRriWCwXdyiVGk2iwmfSkKfH3yaHV0slFl2BXBvi6677jjks2ZAgvy7unzbDuid%2F57Zq57FYlsCcaQ0itf4iHHkw1FfZQJ0X%2FWFXwvum81r6ABzM8QIGG%2FaMl%2B%2BYpLlukOgQigHgTzNv1eWVgNbcq",
    "posted_at": "2026-08-14T16:59:44+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
-   "model": "MON:27-QHD-240Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 199.99,
-   "shipping_eur": null,
-   "effective_eur": 199.99,
-   "median_eur": 312.72,
-   "discount_pct": 36.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hp-omen-27qs-qhd-ips-240hz-1ms-2560-x-1440-antireflet-amd-freesync-premium-noir-3457934",
-   "posted_at": "2026-11-16T16:24:55+00:00"
   },
   {
    "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 HMAA2GS6AJR8N-XN",
@@ -192,6 +192,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
    "posted_at": "2026-11-14T05:57:28+00:00"
+  },
+  {
+   "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
+   "model": "SSD:NVMe-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 3.0,
+   "effective_eur": 13.8,
+   "median_eur": 19.65,
+   "discount_pct": 29.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tortellifr (100,0 %, 153 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237184709590?_skw=ssd&hash=item37394f73d6:g:b0YAAeSw5X1q-fz3",
+   "posted_at": "2026-11-15T18:42:13+00:00"
   },
   {
    "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
@@ -366,6 +383,13 @@
  ],
  "unclassified": [
   {
+   "title": "Liseuse 7\" Amazon Kindle Paperwhite Signature Edition 32 Go - charge sans fil, noire ou rose",
+   "price_raw": "159,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/liseuse-amazon-kindle-paperwhite-signature-edition-32-go-charge-sans-fil-noire-ou-rose-3458711",
+   "posted_at": "2026-11-17T09:35:10+00:00"
+  },
+  {
    "title": "PC Portable 17,3\" Acer Nitro V17 ANV17-I31-71E9 - Intel Core 7 240H, RTX 5060, RAM 16 Go DDR5, SSD 1 To, FHD, IPS, 144Hz, Windows 11",
    "price_raw": "1 299€",
    "source": "dealabs",
@@ -401,8 +425,8 @@
    "posted_at": "2026-11-17T08:31:53+00:00"
   },
   {
-   "title": "Apple iPad Air M4 (2026) 128 Go ( vendeur tiers - Techstarkshop)",
-   "price_raw": "659€",
+   "title": "Tablette 11\" Apple iPad Air M4 (2026) 128 Go (Vendeurs Tiers)",
+   "price_raw": "659,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-m4-2026-128-go-3458623",
    "posted_at": "2026-11-17T08:31:12+00:00"
@@ -558,7 +582,7 @@
    "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-2933Y HMA81GU6DJR8N-WM",
    "price_raw": "25.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGlzSgpppnAkdItYptcaFDfAQgQG%2BzgEEpiOmZqnbIN%2BFI4FmDsrOZmNsTg6ZEMRjCY3KeB1Ki2Sfh%2FnBNbjpA4CeNlgKnpqqn%2FJWEpgeKSjxIDNo62jBoMAOK2%2FN3xnnC1e0%2Bbj4RfUyYupEU%2Fs%2FADv",
+   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGkxCZBQ7qO1nwqGa3xVHHIUGWCpZc2A7qMVUC67y6sFC7YJFWOu2WEr5i--lIOe24bhDpvi%2F7NmfPDS6V22nxvLeyExHoQ9bou2WRvsHL7QG9H%2Bw%2BAiBplr9MgXJkxQZzIsFXBT%2F6e65veCvSIYlrKt",
    "posted_at": "2026-10-31T18:31:25+00:00"
   },
   {
@@ -707,13 +731,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-yoga-tab-plus-tablette-tactile-127-ram-16go-512go-2-en-1-keyboard-pack-tab-pen-pro-3458130",
    "posted_at": "2026-11-16T19:13:49+00:00"
-  },
-  {
-   "title": "[MOUSE] Logitech G PRO X SUPERLIGHT 2 SE Gaming Mouse 910007651 - $69.00",
-   "price_raw": "$69.00",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxyo0l/mouse_logitech_g_pro_x_superlight_2_se_gaming/",
-   "posted_at": "2026-11-16T19:29:00+00:00"
   }
  ],
  "stats": {
