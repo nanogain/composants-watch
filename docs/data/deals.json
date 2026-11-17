@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T11:08:00Z",
+ "generated_at": "2026-11-17T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 348,
-   "last_ok": "2026-11-17T11:08:00.674699+00:00"
+   "items": 346,
+   "last_ok": "2026-11-17T11:38:00.619805+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T11:08:00.674699+00:00"
+   "last_ok": "2026-11-17T11:38:00.619805+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-17T11:08:00.674699+00:00"
+   "items": 378,
+   "last_ok": "2026-11-17T11:38:00.619805+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-17T11:08:00.674699+00:00"
+   "last_ok": "2026-11-17T11:38:00.619805+00:00"
   }
  },
  "watchlist": [
@@ -143,6 +143,23 @@
    "posted_at": "2026-11-16T16:24:55+00:00"
   },
   {
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tanzen_store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxx6FqMiwL16Xg27QooZUdg3Bj1xpHqly3ndbS%2FiFynrc%2FRCx%2Bt7k3cNIXTQIemH364DRJAMDJ6II5TPtp4CkBLCgSKwlrBY9Qd2YceIbG19K6qrVvhYL5ZDPC8y4GwQUC2vumRUSjgDq%2BlXhER%2Fjej",
+   "posted_at": "2026-08-14T16:59:44+00:00"
+  },
+  {
    "title": "SSD M2 NVMe 500 Go Western Digital WD Blue SN550 PCIe 3.0 (98% Santé)",
    "model": "SSD:NVMe-500Go",
    "category": "SSD",
@@ -171,7 +188,7 @@
    "discount_pct": 36.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
+   "merchant": "eBay · sofinformatique (100,0 %, 393 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860149304712?_skw=ddr4&hash=itemc844e4cd88:g:eGEAAeSw9SVq192D",
    "posted_at": "2026-11-16T15:16:43+00:00"
@@ -279,6 +296,23 @@
    "posted_at": "2026-11-11T10:23:59+00:00"
   },
   {
+   "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
+   "model": "SSD:NVMe-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 12.0,
+   "shipping_eur": 3.9,
+   "effective_eur": 15.9,
+   "median_eur": 19.65,
+   "discount_pct": 19.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bons_prix_bons_produits (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
+   "posted_at": "2026-01-14T17:31:44+00:00"
+  },
+  {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
    "model": "PSU:1000W-Gold",
    "category": "PSU",
@@ -328,26 +362,58 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-27-fhd-144hz-ips-1ms-freesync-3455552",
    "posted_at": "2026-11-14T17:28:48+00:00"
-  },
-  {
-   "title": "Processeur CPU Intel Core i5-8500 3.00GHz - LGA1151",
-   "model": "CPU:Core i5-8500",
-   "category": "CPU",
-   "condition": "used",
-   "price_eur": 31.9,
-   "shipping_eur": 2.78,
-   "effective_eur": 34.68,
-   "median_eur": 40.99,
-   "discount_pct": 15.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · neselaa (100,0 %, 331 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920070883155?_skw=processeur&hash=itemd6387f8753:g:REcAAeSwqpJq3M63",
-   "posted_at": "2026-10-24T15:30:51+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Ecran PC 21,5\" Iiyama LED G-Master G2245HSU-B1 Black Hawk - 1 ms (MPRT), Dalle IPS, 100 Hz",
+   "price_raw": "66,64€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-215-iiyama-led-g-master-g2245hsu-b1-black-hawk-1-ms-mprt-dalle-ips-100-hz-3458865",
+   "posted_at": "2026-11-17T11:29:08+00:00"
+  },
+  {
+   "title": "Webcam Logitech Brio 4K",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-brio-4k-webcam-3458849",
+   "posted_at": "2026-11-17T11:14:10+00:00"
+  },
+  {
+   "title": "Souris sans fil MSI Versa 300 Wireless - Capteur Optique 8000 DPI, Taux de Rapport 1000Hz",
+   "price_raw": "19,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-msi-versa-300-wireless-capteur-optique-8000-dpi-taux-de-rapport-1000hz-3458848",
+   "posted_at": "2026-11-17T11:14:00+00:00"
+  },
+  {
+   "title": "PC Portable 13\" Apple MacBook Air - 512 Go SSD, 16 Go RAM, Puce M5",
+   "price_raw": "1 199€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-512-go-ssd-16-go-ram-puce-m5-3458845",
+   "posted_at": "2026-11-17T11:08:46+00:00"
+  },
+  {
+   "title": "[Laptop] ASUS Zenbook S14 - 14-inch 2880x1800 120hz OLED - Core Ultra 9 386H, 32GB RAM, 1TB SSD, 2.76 lbs - $1299",
+   "price_raw": "$1299",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xyhq93/laptop_asus_zenbook_s14_14inch_2880x1800_120hz/",
+   "posted_at": "2026-11-17T11:08:27+00:00"
+  },
+  {
+   "title": "Carte Graphique Lenovo ThinkCentre M91p ATI Radeon HD 5450 512Mb Low Profile",
+   "price_raw": "15.61 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237187779337?_skw=carte+graphique&hash=item37397e4b09:g:i-wAAeSwanNq~DRj",
+   "posted_at": "2026-11-17T11:07:59+00:00"
+  },
+  {
+   "title": "Carte graphique AMD Radeon HD 8490, 1 Go DDR5 Idéal double écran",
+   "price_raw": "21.39 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237187784137?_skw=carte+graphique&hash=item37397e5dc9:g:X4sAAeSwbIFq~DbP",
+   "posted_at": "2026-11-17T11:15:08+00:00"
+  },
   {
    "title": "PC Portable HP OmniBook 3 - 14\", AMD Ryzen 5, 16 Go RAM, 512 Go SSD, Écran FHD+ IPS 16:10 antireflet",
    "price_raw": "569€",
@@ -552,13 +618,6 @@
    "posted_at": "2026-11-17T06:00:01+00:00"
   },
   {
-   "title": "Carte Mère Apple MacBook Air 13\" A1466 (2013-2017) – Origine Apple Testée",
-   "price_raw": "104.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366781914527?_skw=carte+m%C3%A8re&hash=item5565e7dd9f:g:yO4AAOSwdfdjar3G&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lmWDepjyQkciEtZLN3VIM3LTHrLxLwreR%2F3g7CWSKs9aPKk2%2FAky79E4AZmMuvpTNBKUHRGlz%2FaqNaY9QnzTOR%2ByEAZ1XI%2F6ZrqpDTfWpsgQUhYYTOYgK3eUAoh%2BnLei3JxujDa9m%2BBVYo7WuUYhraS6lvWp2vx%2BC%2FS19tuc2Gca4V8xrpslMURhtyRTlu1OCHxRy7BBUVMHW%2FnFNQhCe4ZfEC1Kn%2F3gkw1GSyESvvoFWupMP%2FlKRR5guGvoGKUFj1bHXMiaKY%2Fy1XevS0BWi4bQ1NBUsmYo4sarPhJhc2jQ%3D%3D",
-   "posted_at": "2026-11-03T15:45:35+00:00"
-  },
-  {
    "title": "SK hynix 8Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
    "price_raw": "37.00 EUR",
    "source": "ebay",
@@ -590,7 +649,7 @@
    "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-2933Y HMA81GU6DJR8N-WM",
    "price_raw": "25.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGkaxO2oJSV4aRzul0EJNNl6O9bK0CWHB9So5VPv5WAuBKAMgIS2zDll6eTE3n1%2BEsW%2B8qP1%2BjOwXlv1m8jbL%2F7fhZ6L60qN2mkEivbp80VxGpQz67ZeT7d6sBLmyC2wwDymto6t2LpEuHOtQlBWN4db",
+   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGmqo%2FFcQzur%2BoFJ8%2BRYePACZppTf5x11h9azX5OFlU7C6%2FFaN6%2B1vI5jmZ2xMU9ROdYvOf783hD6l1s5vH3c%2FF%2FR51HQ7U2jI%2FsBzsaDPe3T4yZzr9w6xzvCRX6OZlh%2BOFwsIqwW61pDPJqIFntzrTJ",
    "posted_at": "2026-10-31T18:31:25+00:00"
   },
   {
@@ -655,52 +714,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-gaming-lenovo-legion-m600s-qi-bluetooth-50-19-000-dpi-recharge-qi-ultra-legere-3458307",
    "posted_at": "2026-11-16T21:57:56+00:00"
-  },
-  {
-   "title": "Souris Sans Fil Logitech MX Vertical + Tapis de souris Logitech Série Studio",
-   "price_raw": "47,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-vertical-tapis-de-souris-logitech-serie-studio-3458304",
-   "posted_at": "2026-11-16T21:55:47+00:00"
-  },
-  {
-   "title": "Souris Ergonomique sans Fil Verticale Ugreen - Bluetooth ou USB via d'ongle, 4000 DPI, 4 Niveaux Réglables, 6 Boutons (Vendeur Tiers)",
-   "price_raw": "17,13€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-ergonomique-sans-fil-verticale-ugreen-bluetooth-ou-usb-via-dongle-4000-dpi-4-niveaux-reglables-6-boutons-3458298",
-   "posted_at": "2026-11-16T21:50:00+00:00"
-  },
-  {
-   "title": "PC Portable 17.3\" Acer Nitro V 17 AI - FHD IPS 144Hz, AMD Ryzen 7 260, Nvidia RTX 5070, 32Go RAM, 1To SSD, Windows 11",
-   "price_raw": "1 549€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acer-nitro-v-17-ai-173-fhd-ips-144hz-amd-ryzen-7-260-nvidia-rtx-5070-32go-ram-1to-ssd-windows-11-3458291",
-   "posted_at": "2026-11-16T21:43:22+00:00"
-  },
-  {
-   "title": "PC Portable 15\" Alienware 15 - Intel Core 7 240H, RTX 5050, 16Go de Ram, SSD 512Go",
-   "price_raw": "1 099€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-gaming-alienware-15-intel-core-7-240h-rtx-5050-3458272",
-   "posted_at": "2026-11-16T21:28:58+00:00"
-  },
-  {
-   "title": "PC portable 14\" - Celeron N4020, 8Go de Ram, 256Go, Win11",
-   "price_raw": "249,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ordinateur-pc-portable-14-pouces-8256go-win11-3458260",
-   "posted_at": "2026-11-16T21:21:12+00:00"
-  },
-  {
-   "title": "Tablette 11,5\" Huawei MatePad 11.5 (2025) - Écran PaperMatte 2.5K 120Hz, RAM 8 Go, 256 Go, 10 100 mAh + Stylet M-Pencil 3e Gén",
-   "price_raw": "265€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-115-huawei-matepad-115-2025-ecran-papermatte-25k-120hz-ram-8-go-256-go-10-100-mah-stylet-m-pencil-3e-gen-3458222",
-   "posted_at": "2026-11-16T20:43:49+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1982,
-  "models_with_reference": 61
+  "listings_seen": 1989,
+  "models_with_reference": 63
  }
 }
