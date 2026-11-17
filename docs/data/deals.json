@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T00:38:00Z",
+ "generated_at": "2026-11-17T01:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-17T00:38:00.659389+00:00"
+   "last_ok": "2026-11-17T01:08:00.623499+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T00:38:00.659389+00:00"
+   "last_ok": "2026-11-17T01:08:00.623499+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-17T00:38:00.659389+00:00"
+   "items": 378,
+   "last_ok": "2026-11-17T01:08:00.623499+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 3,
-   "last_ok": "2026-11-17T00:38:00.659389+00:00"
+   "items": 78,
+   "last_ok": "2026-11-17T01:08:00.623499+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BhNu65PhQr8RfU%2BQ%2BEUdkMB7N59ZcxK5prtvqdiA10nnUr%2BfROSvugR%2Be%2BKrrnJWSRqjm78FjZofTfxA%2B3TvvcQHcVh5tbHrLOjfROeRGwUziUFELfLqHP5ULrm3DtDRhktzT7z9May5j%2Fd2T%2Bb%2BEHtVixZCO3Ght3a4KT4obwcg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8qvxHNRwho68ow%2FO887qPkTMisWc%2BDhW9d%2FImLCSJ8vnMQQwOQkOEPMH9CNhdgVR2T61Ls5oEUHTsqhesC4BF1tXMxyQt3O%2B%2BUgAXKhLvyxnwB4Ui%2Fy%2FD2ad20O7efZxWMB%2F%2BReP9hqV6%2Fowe2vPmac%2F%2BjsGskwi68%2FT70tsD75g%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -184,8 +184,8 @@
    "price_eur": 55.72,
    "shipping_eur": 0.0,
    "effective_eur": 55.72,
-   "median_eur": 84.99,
-   "discount_pct": 34.4,
+   "median_eur": 87.0,
+   "discount_pct": 36.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
@@ -292,7 +292,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 203 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73bLPOOGSG8q1qftfKSiehtrb4GeUR89V%2BElCE90l20LpDQsTaGHMhNG6Tc%2FUAbYtguvv%2FWxecXBRUnNXM95mh9hBO3bHWc8rmtsZ6QFj6JMWiSSt%2FNtkmPMfv%2BLShGiGfytg9TSrduCYwrbqeHRXYU",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71Grc8I3nFQeLZCVaFNI5oUgpxC8rtbgQxh3%2FHn%2F2mkN%2BIvZVLGLQSHsE2G81vF5DwHEqdGZeybZzJRr3RspRzKyVax5s8QM2onzFlT01zItSWRhl8opKZ%2F3Ug7YtFPW5gDJMd6wcYeKv9Kh6P7xi5s",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -366,6 +366,20 @@
  ],
  "unclassified": [
   {
+   "title": "PNY NVIDIA GeForce GTX 1660 Super carte graphique PC 1 ventilateur dissipateur",
+   "price_raw": "99.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960205491824?_skw=carte+graphique&hash=itemdf90b50e70:g:Q14AAeSwcrJq-6Fs",
+   "posted_at": "2026-11-17T00:51:02+00:00"
+  },
+  {
+   "title": "Samsung T7  2To USB 3.2  SSD Externe Portatif - Gris Titane MU-PC2T0T/WW  - NEUF",
+   "price_raw": "230.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168867591909?_skw=ssd&hash=item27514af6e5:g:V6QAAeSwEQFq-ZVP",
+   "posted_at": "2026-11-17T00:36:47+00:00"
+  },
+  {
    "title": "[Keyboard] Keychron K4 HE TMR Wireless Keyboard $127.49 ($145 - $17.51)",
    "price_raw": "$127.49",
    "source": "reddit",
@@ -436,13 +450,6 @@
    "posted_at": "2026-11-16T21:43:22+00:00"
   },
   {
-   "title": "1 Barrette Ram PC4-3200 (DDR4)",
-   "price_raw": "37.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117525311511?_skw=ddr4&hash=item1b5d0df017:g:XuoAAeSwllxq-3tK",
-   "posted_at": "2026-11-16T22:00:05+00:00"
-  },
-  {
    "title": "PC Portable 15\" Alienware 15 - Intel Core 7 240H, RTX 5050, 16Go de Ram, SSD 512Go",
    "price_raw": "1 099€",
    "source": "dealabs",
@@ -483,13 +490,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/samsung-moniteur-gaming-34-uwhd-165hz-va-odyssey-g5-lc34g55tww-3458201",
    "posted_at": "2026-11-16T20:23:43+00:00"
-  },
-  {
-   "title": "32GO (2X16GO) RAM Micron MTA8ATF2G64HZ Sodimm 1Rx8 PC4 DDR4 25600 3200AA",
-   "price_raw": "150.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800639898346?_skw=ddr4&hash=itemba69db52ea:g:y5IAAeSw8h9qomGc",
-   "posted_at": "2026-09-10T07:52:04+00:00"
   },
   {
    "title": "Kit de superposition avec tablette pour sèche-linge WTZ27400",
@@ -632,13 +632,6 @@
    "posted_at": "2026-11-16T16:10:59+00:00"
   },
   {
-   "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
-   "price_raw": "55.72 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860149307038?_skw=ddr4&hash=itemc844e4d69e:g:WXkAAeSwzadqlBXd",
-   "posted_at": "2026-11-16T15:18:02+00:00"
-  },
-  {
    "title": "Pack clavier + souris sans fil Logitech MK470 Slim Combo",
    "price_raw": "36,99€",
    "source": "dealabs",
@@ -658,13 +651,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/logitech-g-pro-x-superlight-2-souris-gaming-sans-fil-est-europe-version-3457837",
    "posted_at": "2026-11-16T15:12:17+00:00"
-  },
-  {
-   "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
-   "price_raw": "68.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840134878167?_skw=carte+m%C3%A8re&hash=itemc39bf0e3d7:g:sGQAAeSwtJ9q-xv9",
-   "posted_at": "2026-11-16T15:07:06+00:00"
   },
   {
    "title": "Boitier Disque Dur 2.5 Orico - 6Gbps USB C 3.1 Gen 2 (Vendeur Tiers)",
@@ -714,10 +700,24 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117524670168?_skw=processeur&hash=item1b5d0426d8:g:CKAAAeSwOdBq-w5m",
    "posted_at": "2026-11-16T14:11:00+00:00"
+  },
+  {
+   "title": "Souris sans fil Razer Basilisk Mobile - Capteur Focus X 18K, Bluetooth/2.4 GHz/USB, jusqu’à 105 h d’autonomie",
+   "price_raw": "48,19€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-razer-basilisk-mobile-capteur-focus-x-18k-bluetooth24-ghzusb-jusqua-105-h-dautonomie-3457712",
+   "posted_at": "2026-11-16T13:59:33+00:00"
+  },
+  {
+   "title": "Souris filaire Razer DeathAdder Essential 2021 - Blanc",
+   "price_raw": "15,08€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-razer-deathadder-essential-2021-blanc-3457675",
+   "posted_at": "2026-11-16T13:39:45+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1929,
-  "models_with_reference": 60
+  "listings_seen": 1959,
+  "models_with_reference": 62
  }
 }
