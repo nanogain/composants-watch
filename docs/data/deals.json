@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T12:08:00Z",
+ "generated_at": "2026-11-17T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-17T12:08:00.658050+00:00"
+   "items": 345,
+   "last_ok": "2026-11-17T12:38:00.689610+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T12:08:00.658050+00:00"
+   "last_ok": "2026-11-17T12:38:00.689610+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 373,
-   "last_ok": "2026-11-17T12:08:00.658050+00:00"
+   "items": 371,
+   "last_ok": "2026-11-17T12:38:00.689610+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 31,
-   "last_ok": "2026-11-17T12:08:00.658050+00:00"
+   "items": 80,
+   "last_ok": "2026-11-17T12:38:00.689610+00:00"
   }
  },
  "watchlist": [
@@ -58,21 +58,21 @@
    "posted_at": "2026-11-13T13:14:00+00:00"
   },
   {
-   "title": "Carte Graphique Nvidia Gainward GeForce RTX 5060 Ghost 8Go",
-   "model": "GPU:RTX 5060",
-   "category": "GPU",
-   "condition": "new",
-   "price_eur": 462.86,
-   "shipping_eur": null,
-   "effective_eur": 462.86,
-   "median_eur": 869.99,
-   "discount_pct": 46.8,
+   "title": "SSD SATA 128Gb SanDisk X400 M.2 2280 ",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 13.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 13.99,
+   "median_eur": 26.58,
+   "discount_pct": 47.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "Caseking",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-graphique-nvidia-gainward-geforce-rtx-5060-ghost-8go-3451022",
-   "posted_at": "2026-11-10T12:29:25+00:00"
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860146257579?_skw=ssd&hash=itemc844b64eab:g:OhoAAeSwks9q-dxV",
+   "posted_at": "2026-11-15T16:26:43+00:00"
   },
   {
    "title": "SSD Interne 1 To NVME M2.2280",
@@ -107,6 +107,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227169935964?_skw=ssd&hash=item34e462225c:g:vT0AAeSwOYdpY-fu",
    "posted_at": "2026-01-11T18:22:04+00:00"
+  },
+  {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8wTJe%2Ft%2Fvx%2Byrpbcw%2FGfvWSDvVwhvhjpNH77%2FKDYB%2BwjJarC90nu%2B9TwH2sO8CafU7IeMCj9gvoDjTSMdMLO0%2FPAWbb%2Fv5GVfQM1Ea1FY8GnUG%2BGyrqkZpdKss36M%2Bn3vn5D4kVYdTa8CPUgsXRbUauuk6Yk13TXi5C4QBliZiXw%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": "SSD M.2 SATA 512 Go XUANCUN - Format 2242",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxR3pA4cOml%2F1IAcfa%2F0S5kcyUT1Ymdw3Ep6idYVvsdVdbUwvztPaWNTL3Hx2x%2Bc84fRwsHezQ689QfEOw0I0UOhu1mvKRWjM0ul96PgD3%2FoYF9G6fr3N%2FxBpNOraMBiYPcCTDg%2FTD%2FrYwx2fiCC9SO",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwyRAZqu4Pd6xknCMS5hLlEqBF3rM6BU2QsLOXGqHNB9JNHWbhOHer5CWiO3HdKj5Y8RfV2KzSqBZTvybk8lbH3erR9RPzWk4zU2FCfWGB8RH25GjOtKsDPRcgPg%2BVA2RkKs7dd0T%2Fr10P2RCW%2Bjm1Y",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -275,8 +292,25 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 203 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73KpIV4xOmbhhF5mEP4uIEPbxad0XFksY9uWoibtNW9t5F0S47fs3o8vlF4UNJDprAYLEFaq3joXaPTBIpudjordvBPTKjcyg79Hhx7Kq3sYGmheKQXCa%2FPjmglTeM11hAZMGW9QHlf8RWpdnmFVjdQ",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE702JUuC5%2F9o0CJ%2B3kH0lCAWdoxp%2B3zbO8qobAOEtgqlkmImO2l1kUfuJbOr90Lix91Wkw21898K1VTKvawyWGSc01rK3wpaSsXgAj0ISC22O0lYcKiLOj%2ByStr16Uz9%2B5%2BldgVE6ckBMF5PlMk2Q83r",
    "posted_at": "2026-11-14T22:04:31+00:00"
+  },
+  {
+   "title": "RAM DDR4 - CORSAIR VENGEANCE RGB 32GB - 3200 MHz",
+   "model": "RAM:DDR4-32Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 259.66,
+   "shipping_eur": 4.0,
+   "effective_eur": 263.66,
+   "median_eur": 328.95,
+   "discount_pct": 19.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bubulle6666 (100,0 %, 1 899 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880126143067?_skw=ddr4&hash=itemcceb9b2a5b:g:-GMAAeSwJM5qUKZe",
+   "posted_at": "2026-11-17T12:10:23+00:00"
   },
   {
    "title": "Ecran PC 24,5\" MSI Pro MP252L - 24.5'', FHD, 100Hz, Dalle IPS, 1ms, Adaptive Sync, HDR Ready",
@@ -348,6 +382,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Ecran PC 27\" AOC Q27G4ZDR - 240Hz QD-OLED Panel, 0.03ms GtG, HDR10 (Frontaliers Suisse)",
+   "price_raw": "259,15€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/aoc-q27g4zdr-ecran-265-qd-oled-qhd-240-hz-3458921",
+   "posted_at": "2026-11-17T12:26:59+00:00"
+  },
+  {
+   "title": "Manette sans fil DualSense - Édition spéciale Icon Blue, Pour PS5, PC, MAC et Mobile",
+   "price_raw": "64,45€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/manette-sans-fil-dualsense-edition-speciale-icon-blue-pour-ps5-pc-mac-et-mobile-3458920",
+   "posted_at": "2026-11-17T12:25:29+00:00"
+  },
   {
    "title": "Ecran PC 21,5\" Iiyama LED G-Master G2245HSU-B1 Black Hawk - 1 ms (MPRT), Dalle IPS, 100 Hz",
    "price_raw": "66,64€",
@@ -618,14 +666,14 @@
    "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-2933Y HMA81GU6DJR8N-WM",
    "price_raw": "25.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGlllmrCUQhV2voP6nXQXofGM1TFSy%2BbR0cRTq14ga%2B0FwQuQlWNHB%2BGoFDKLY%2Bp54R%2Fs8xQIfaO7eWXpnLTqSmOvmFt%2B9fWal%2BvO83%2F05UNTAxHAcE4rR6TGrbskN3HooU1XhXGvOnsEWFxINPpYm1b",
+   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGlhM9w%2FNBRwnZRUgWV%2FJnroaJSFOp2kltVMo9WpddjgaG0qPOBtVKj1y83HELU%2Fds0%2BeQppmRSNWLgx1hdVd1xMGa7l3KqdW45k4GqAzd7Y8hDpA3Bt%2BNyaxLDbJEVesGp7v78zo5YrDotpe5OAkCEf",
    "posted_at": "2026-10-31T18:31:25+00:00"
   },
   {
    "title": "Water cooling Kraken plus 360 RGB LCD white NZXT",
    "price_raw": "267.84 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398190895677?_skw=watercooling&hash=item5cb606e23d:g:-rAAAeSwKs5qWepc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mdvPawAZb4%2BfzDFvRrDPVhyenRO6YaKKL2BlJvdbVtW0BtuXyYRwyC%2FtqTWjTU6c%2Fz4gJHQnTNX46ksWs9et%2BE4tJul59CQbZdXuLgvIl%2B9Xu5ScU1IlZ4VBqvZEfyHzf3h9FHPlmyQlpCrtqTfV9Jakx7j%2FES7HgbeiebsX8--zoAas%2Fv6PP4bDeVHOFhuXMph9ZBTL%2BF6NhgZAhO3BpIn01HckTq6MDaXy1Z77icZBkyFNq3a51PSB7eddi3DFwglw6T8fLWpdxjoTlPplQXqxWsAyQe7br0cdjPkf4W8w%3D%3D",
+   "url": "https://www.ebay.fr/itm/398190895677?_skw=watercooling&hash=item5cb606e23d:g:-rAAAeSwKs5qWepc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mdvPawAZb4%2BfzDFvRrDPVhyenRO6YaKKL2BlJvdbVtW0BtuXyYRwyC%2FtqTWjTU6c%2Fz4gJHQnTNX46ksWs9et%2BE4tJul59CQbZdXuLgvIl%2B9Xu5ScU1IlZ4VBqvZEfyHzcS%2BwS47lpRReCWHqJnmUBh9jAIx8UWdJ22qpHAOiEkAcqgqGzOdJg4U7wYBFvJt%2BaolwbFO5AH53SV6Bdztjwn7P7Hy3KznF%2BmrrpN8j8IJMJM3LDaHS0w0mYoloEI1JZYwwrBpMV6lyt89i1P9VCxReXSXgf4aRPaztnih%2Bw2IA%3D%3D",
    "posted_at": "2026-07-19T07:41:24+00:00"
   },
   {
@@ -683,24 +731,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-gamer-filaire-logitech-g502-hero-noir-3458313",
    "posted_at": "2026-11-16T22:04:49+00:00"
-  },
-  {
-   "title": "Souris Gaming Lenovo Legion M600s Qi - Bluetooth 5.0, 19 000 DPI, Recharge Qi, Ultra légère",
-   "price_raw": "29,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-lenovo-legion-m600s-qi-bluetooth-50-19-000-dpi-recharge-qi-ultra-legere-3458307",
-   "posted_at": "2026-11-16T21:57:56+00:00"
-  },
-  {
-   "title": "Souris Sans Fil Logitech MX Vertical + Tapis de souris Logitech Série Studio",
-   "price_raw": "47,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-vertical-tapis-de-souris-logitech-serie-studio-3458304",
-   "posted_at": "2026-11-16T21:55:47+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1986,
+  "listings_seen": 1985,
   "models_with_reference": 62
  }
 }
