@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-17T22:08:00Z",
+ "generated_at": "2026-11-17T22:37:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-17T22:08:00.677260+00:00"
+   "items": 343,
+   "last_ok": "2026-11-17T22:37:00.670148+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-17T22:08:00.677260+00:00"
+   "items": 360,
+   "last_ok": "2026-11-17T22:37:00.670148+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-17T22:08:00.677260+00:00"
+   "last_ok": "2026-11-17T22:37:00.670148+00:00"
   }
  },
  "watchlist": [
@@ -143,6 +143,23 @@
    "posted_at": "2026-11-13T13:40:26+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B849vwtDLp6OEKFT7Rue4kkiiJ4adFztSyrxIszuv61tSQ4qXm93ds1jVGH4o4qDVcngXkdpGKgJgp3hYl%2F6SUwcoaD4CA5hp0mL22rHwvm1j%2FkmZz%2Bt4fnGNOy7sojYOi5XJiOhO1PVAzYhOdQ99BMArxeRahbdgUuGNArXaGckQ%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxiN06rZVAHwiNBRIjGXFJz7y3mlFtIbJcLNLSAk7434nKKH7KijOjIaPkLWslb5MGH5q5jSZyOtgiUQxvsK7weMnHXbxxwHgM3pZ7aiVmQNbGdsIduuTrlarAQc7SKbRhDwdnhvyyBwxnuIn5Xs2Ge",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwSEWfm0K8BK4FOPi5KKen3wCsaDrtVyONyawQLCwzy2iUh8Mxl04U6at5kb%2FvVM1pXsLXHwJbvbfvestHmm8u8izeZwsRMQ66DwUO4Q1ccjDG0XQGJIcrfTLK9j35eQdlH6xADaqc%2FLFcfocyaHjoL",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -329,13 +346,6 @@
    "posted_at": "2026-11-17T21:08:55+00:00"
   },
   {
-   "title": "RAM Corsair Vengeance 8 Go (2x 4 Go) DDR3 1600 MHz PC3-12800 CMZ8GX3M2A1600C9 Gb",
-   "price_raw": "29.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117527177593?_skw=ddr4&hash=item1b5d2a6979:g:LqAAAeSwvnRq~L5Q",
-   "posted_at": "2026-11-17T20:54:27+00:00"
-  },
-  {
    "title": "Barrette de RAM 4 Go DDR4 2400 MHz – SK Hynix (PC de bureau)",
    "price_raw": "12.50 EUR",
    "source": "ebay",
@@ -458,7 +468,7 @@
    "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
    "price_raw": "26.22 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRifOIPp%2BdfkPhst2jPIvYf143cgjjP9RYWPMm9UgaJWO7vZRmXrEzEf3o7Tn3KzX9UF6001Il4B4GiMThnzJIBuY6YuvlkC75FwxoIhrxHMHb%2FGVfohqT1jcrfTJRY5IuF2rlc0OvVrNX1cURv08bya",
+   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRgS0M7cf3LSLl%2BztftG5aH0yY6fXHggO10%2BVVUp1jMZQU00eZbGHm3tzFAHXXSOFXfUezZLeVKpyMkkFvxUXy8IEEfKkIyLw%2BjIHEyaxv1WwaqLK2kaXE2IJXPRL33wXVWQJvIiB5lxLOzpZ2e7myTF",
    "posted_at": "2026-11-17T16:35:36+00:00"
   },
   {
@@ -663,10 +673,17 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128200608762?_skw=carte+graphique&hash=item1dd95a0bfa:g:urYAAeSwuxNq~FXK",
    "posted_at": "2026-11-17T13:26:07+00:00"
+  },
+  {
+   "title": "Intel Core i3-2330M SR04J Processeur CPU mobile pour socket PGA 988 (PGA988)",
+   "price_raw": "11.78 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336901878712?_skw=processeur&hash=item4e70eab3b8:g:Yi0AAeSwbkxq~Er6",
+   "posted_at": "2026-11-17T12:42:59+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2015,
-  "models_with_reference": 63
+  "listings_seen": 2016,
+  "models_with_reference": 65
  }
 }
