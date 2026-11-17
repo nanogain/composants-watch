@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-17T23:08:00Z",
+ "generated_at": "2026-11-17T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-17T23:08:00.627534+00:00"
+   "last_ok": "2026-11-17T23:38:00.624786+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-17T23:08:00.627534+00:00"
+   "items": 367,
+   "last_ok": "2026-11-17T23:38:00.624786+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 56,
-   "last_ok": "2026-11-17T23:08:00.627534+00:00"
+   "items": 77,
+   "last_ok": "2026-11-17T23:38:00.624786+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BvYGytVLipjv4hlftGtWLBQ9IwGtKSojKryjVZROQUde15eJHT4I%2BgxccnJwKtxKya8bqOieTWjiXtosMb5Ph1zZ626btTQY2z7Z7p77lvYCvxBARTi298JKS4uNJ0IjQEa5XZtqUzO8qAM5Js8j%2BVKjkE0qoyMYmq2ZHP0lK6dQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BIoe7pXVYqtkpQiqVy8ic8C%2BMrRUfT%2FOY6xUgV4OREOkn2OjWETwVvb4z0DdRXdOdm3lOOedP%2Fbb1qx%2Br3pe2tvh0GI21C1ek4d3Ebv1g9EXzIaptuaB5Z1rlEdm6pCCedUFsXVtS%2BLnRRqwjpZsQ5sLLOGqnltJd2a%2FGJ1%2FqlHg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzO%2FXhQ7DBKgm6FzLdZlUJrfaxSvOybUxGSDn9%2FaGyYFSL176Vt3cMPQdxKplKua0vozrpSbVDoQyeTLVfUzRZ1afr567dp2tzvYEGd95DRzCS9XaZt32%2FvaiqhN8JFBitYvJhE%2FBZ4RJHPJNC6mdXM",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzqmn0cYRT7ltuDcFOUB1aZw7OWs0nzn%2BzQaxUQpXpRxGqwS4LRmExWQS8znA1kTeoQyebbjKHhF%2FlWsRWmGIY%2F1GSwyQamhEaTDSUVyaBYHLnfGmgk%2BFzeSar33ILlL7Iiy%2FneaLFwlSJ2DKAe%2B8lF",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -407,6 +407,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/920153477807?_skw=carte+graphique&hash=itemd63d6bd2af:g:1N4AAeSwWixq~Jay",
    "posted_at": "2026-11-17T18:21:35+00:00"
+  },
+  {
+   "title": "SK hynix 16GB 1Rx8 PC4-3200AA Laptop RAM DDR4 3200Mhz SO-DIMM",
+   "price_raw": "56.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307287426941?_skw=ddr4&hash=item478bc2077d:g:ly0AAeSw7ydqrlOa",
+   "posted_at": "2026-11-17T18:16:01+00:00"
   },
   {
    "title": "carte graphique NVIDIA GeFORCE GTX 680 2 GB DDR5 compatible Mac Pro",
@@ -673,17 +680,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336901878712?_skw=processeur&hash=item4e70eab3b8:g:Yi0AAeSwbkxq~Er6",
    "posted_at": "2026-11-17T12:42:59+00:00"
-  },
-  {
-   "title": "Pompe watercooling : Koolance PMP-600",
-   "price_raw": "146.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227575646491?_skw=watercooling&hash=item34fc90c91b:g:FaEAAeSwvBNq12-9",
-   "posted_at": "2026-10-20T14:16:58+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2013,
+  "listings_seen": 2014,
   "models_with_reference": 65
  }
 }
