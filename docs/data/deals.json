@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T08:38:00Z",
+ "generated_at": "2026-11-17T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 347,
-   "last_ok": "2026-11-17T08:38:00.653523+00:00"
+   "last_ok": "2026-11-17T09:08:00.669272+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T08:38:00.653523+00:00"
+   "last_ok": "2026-11-17T09:08:00.669272+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 373,
-   "last_ok": "2026-11-17T08:38:00.653523+00:00"
+   "items": 374,
+   "last_ok": "2026-11-17T09:08:00.669272+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 18,
-   "last_ok": "2026-11-17T08:38:00.653523+00:00"
+   "items": 80,
+   "last_ok": "2026-11-17T09:08:00.669272+00:00"
   }
  },
  "watchlist": [
@@ -109,23 +109,6 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9NLMHml5IbzolPu99p8cJSQyuMKt%2BAJW6BPD4o2omaIMu6zRYIEHH6H72grLmIbc1tAkznSQc3HtSdbXDiltTOjvBqs9dIU8pPuCte73utB9CHR7J9cAvtYt0lKN1BsCR2vuW9Ez9XB1I7v1M1BOVqIGYl4CpfDfhs2ZirbPh5OA%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
    "title": "SSD M.2 SATA 512 Go XUANCUN - Format 2242",
    "model": "SSD:SATA-512Go",
    "category": "SSD",
@@ -156,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyoF1f5rOiiQaTvfl9%2B1OoPsG2m08ugnOO8Xh9ZOs0CcqWpjH7DpZ45PZL1iI%2FWfySBMNApwXvvVqk8QfGw4L9ZyQ32qx4YyqLWwDDoyWxWwMyvUP8Ke2M0BCpJsYgmTfMyKbqQ3iKkxn%2B8sQfm84rK",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz7oX5RWTP6j%2FgTLbya6%2BuLKO%2Bbz9FfK%2BEQ6Aakq3aeca1ijQjOFJpBFTuo7vkVWj5TjxYSowX0DPCGEcdQY4uCiRSmsr0t%2F7EipA%2FTgF%2B%2F3kqo9kZRS%2Fk2uEUYaJCSDA64YOBwL0KiqsJaDLoqmT%2BF",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -383,6 +366,27 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 17,3\" Acer Nitro V17 ANV17-I31-71E9 - Intel Core 7 240H, RTX 5060, RAM 16 Go DDR5, SSD 1 To, FHD, IPS, 144Hz, Windows 11",
+   "price_raw": "1 299€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-gamer-portable-17-3458660",
+   "posted_at": "2026-11-17T09:00:25+00:00"
+  },
+  {
+   "title": "Kit clavier mécanique barebone Pulsar Gaming Gears 60% - 61 Touches, RGB, Hot-Swap, sans switchs ni keycap (Vendeur tiers)",
+   "price_raw": "29,86€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/clavier-gaming-mecanique-3458644",
+   "posted_at": "2026-11-17T08:49:31+00:00"
+  },
+  {
+   "title": "Trust Ody II Clavier sans fil AZERTY français silencieux RF 2.4 GHz noir",
+   "price_raw": "29.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198801867651?_skw=clavier&hash=item2e4983c383:g:kNcAAeSwPjFq~BYs",
+   "posted_at": "2026-11-17T08:54:55+00:00"
+  },
+  {
    "title": "[Clients Red by SFR] Smartphone 6.71\" Honor Magic8 Pro 512 Go + tablette Pad 10 (via 100€ d'ODR sur facture + 100€ de bonus reprise)",
    "price_raw": "699€",
    "source": "dealabs",
@@ -397,7 +401,7 @@
    "posted_at": "2026-11-17T08:31:53+00:00"
   },
   {
-   "title": "Apple iPad Air M4 (2026) 128 Go",
+   "title": "Apple iPad Air M4 (2026) 128 Go ( vendeur tiers - Techstarkshop)",
    "price_raw": "659€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-m4-2026-128-go-3458623",
@@ -554,7 +558,7 @@
    "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-2933Y HMA81GU6DJR8N-WM",
    "price_raw": "25.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGnNZJ5AZ9KNLX3yNcFwAYXx5%2FJu4ZfzW1NuqD0i775muKsi6RuQtUPIAm%2FDD6IoR6N8aXl7vt%2FMSP8dTH%2B1OGr5oRKvPj7GHSpgnDqjG%2FLaCTXGz9DynQ4bC5bBwLkNIThA8wzXrSN3sKkkQo6lBSCp",
+   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGlzSgpppnAkdItYptcaFDfAQgQG%2BzgEEpiOmZqnbIN%2BFI4FmDsrOZmNsTg6ZEMRjCY3KeB1Ki2Sfh%2FnBNbjpA4CeNlgKnpqqn%2FJWEpgeKSjxIDNo62jBoMAOK2%2FN3xnnC1e0%2Bbj4RfUyYupEU%2Fs%2FADv",
    "posted_at": "2026-10-31T18:31:25+00:00"
   },
   {
@@ -710,31 +714,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xxyo0l/mouse_logitech_g_pro_x_superlight_2_se_gaming/",
    "posted_at": "2026-11-16T19:29:00+00:00"
-  },
-  {
-   "title": "[PREBUILT] Skytech VIPER Gaming Desktop - AMD Ryzen 7 7700, 9070XT, 16GB 6000 MHz DDR5 RAM, 850W GOLD A3 PSU - Green $2,179 (Down $450 from $2,629.99) Free shipping but shipping only",
-   "price_raw": "$2,179",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxylcn/prebuilt_skytech_viper_gaming_desktop_amd_ryzen_7/",
-   "posted_at": "2026-11-16T19:26:12+00:00"
-  },
-  {
-   "title": "Alimentation Pc Corsair HX1500i (2025) ATX Entièrement Modulaire, Compatible ATX 3.1 & PCIe 5.1, Platinum",
-   "price_raw": "227,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/corsair-hx1500i-2025-alimentation-atx-entierement-modulaire-noir-3458095",
-   "posted_at": "2026-11-16T18:45:50+00:00"
-  },
-  {
-   "title": "Tablette Tactile 12,7\" Lenovo Yoga Tab Plus - 256 Go, Coquillage + Stylet Lenovo",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-lenovo-yoga-tab-plus-127-256-go-coquillage-stylet-lenovo-3458120",
-   "posted_at": "2026-11-16T19:06:06+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1975,
-  "models_with_reference": 65
+  "listings_seen": 1976,
+  "models_with_reference": 64
  }
 }
