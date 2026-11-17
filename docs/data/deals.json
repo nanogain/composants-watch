@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T00:08:00Z",
+ "generated_at": "2026-11-17T00:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-17T00:08:00.675106+00:00"
+   "last_ok": "2026-11-17T00:38:00.659389+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T00:08:00.675106+00:00"
+   "last_ok": "2026-11-17T00:38:00.659389+00:00"
   },
   "ebay": {
    "status": "ok",
    "items": 372,
-   "last_ok": "2026-11-17T00:08:00.675106+00:00"
+   "last_ok": "2026-11-17T00:38:00.659389+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-17T00:08:00.675106+00:00"
+   "items": 3,
+   "last_ok": "2026-11-17T00:38:00.659389+00:00"
   }
  },
  "watchlist": [
@@ -56,23 +56,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ace-nitro-vg272uw2bmiipx-qhd-dalle-ips-240hz-1ms-freesync-premium-3454351",
    "posted_at": "2026-11-13T13:14:00+00:00"
-  },
-  {
-   "title": "SSD Netac NVMe M.2 2280 PCIe 3.0 1To 500Go 250Go 3500Mbps",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 62.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 62.99,
-   "median_eur": 149.99,
-   "discount_pct": 58.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · electrodealglobal (100,0 %, 81 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287733631661?_skw=ssd&hash=item42fe42caad:g:op8AAeSwzc5q-veV",
-   "posted_at": "2026-11-16T12:31:09+00:00"
   },
   {
    "title": "SSD NVME M.2 Netac NV3000 Pcie Gen3X4 3500Mo/s 250 Go Garanti 5 ans",
@@ -156,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B7sSQY1Rq2XqzzSgUoDXbCbqvdCWy6qw2p1IMJcYorJma3d2aZ4Dvc%2F9XZz0sQ1tjsfwZCi%2Bm0maNOvtSKKrE6vlxblgr6cchXX5Xtsf94Z3I5yNEBbDGPFb93n5KSCUTRqkw9r%2FyaENyv8VMN9WINPBVnrm5FwTd4A29tByYClA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BhNu65PhQr8RfU%2BQ%2BEUdkMB7N59ZcxK5prtvqdiA10nnUr%2BfROSvugR%2Be%2BKrrnJWSRqjm78FjZofTfxA%2B3TvvcQHcVh5tbHrLOjfROeRGwUziUFELfLqHP5ULrm3DtDRhktzT7z9May5j%2Fd2T%2Bb%2BEHtVixZCO3Ght3a4KT4obwcg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -201,8 +184,8 @@
    "price_eur": 55.72,
    "shipping_eur": 0.0,
    "effective_eur": 55.72,
-   "median_eur": 84.44,
-   "discount_pct": 34.0,
+   "median_eur": 84.99,
+   "discount_pct": 34.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · sofinformatique (100,0 %, 392 avis)",
@@ -228,21 +211,21 @@
    "posted_at": "2026-11-14T05:57:28+00:00"
   },
   {
-   "title": "SSD NVMe M.2 2280 128 Go SK hynix BC501 HP L15193-002 PCIe - teste",
-   "model": "SSD:NVMe-128Go",
-   "category": "SSD",
+   "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
    "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 3.0,
-   "effective_eur": 13.8,
-   "median_eur": 19.65,
-   "discount_pct": 29.8,
+   "price_eur": 31.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 31.9,
+   "median_eur": 44.9,
+   "discount_pct": 29.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · tortellifr (100,0 %, 153 avis)",
+   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237184709590?_skw=ssd&hash=item37394f73d6:g:b0YAAeSw5X1q-fz3",
-   "posted_at": "2026-11-15T18:42:13+00:00"
+   "url": "https://www.ebay.fr/itm/237181676371?_skw=ddr4&hash=item3739212b53:g:e90AAeSwfvBq95a3",
+   "posted_at": "2026-11-13T23:01:35+00:00"
   },
   {
    "title": "Crucial MX500 SSD 500 Go 2,5\" SATA III CT500MX500SSD1",
@@ -260,23 +243,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206702536381?_skw=ssd&hash=item30206e66bd:g:-d8AAeSwiU1q-WfW",
    "posted_at": "2026-11-15T08:06:18+00:00"
-  },
-  {
-   "title": "Barrette RAM 8 Go DDR4 3200 MHz HEORIADY - SODIMM",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 31.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 31.9,
-   "median_eur": 43.95,
-   "discount_pct": 27.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · walterbeyrman (98,4 %, 61 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237181676371?_skw=ddr4&hash=item3739212b53:g:e90AAeSwfvBq95a3",
-   "posted_at": "2026-11-13T23:01:35+00:00"
   },
   {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
@@ -326,7 +292,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 203 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73dL6Ysqg5JkK80qPyy0EEiEFwu3cp2VBKM6SeFte1MGwz3zjNpLvavxByNC2fHSaWSI8dUhT3AojRNEAvjN8sn%2BCysBJxLc1QzDLLN2WxZD5iEU1RnkaEXgOBWEoYM4xz0mYvNvR%2F41c1Jq66CaRgM",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73bLPOOGSG8q1qftfKSiehtrb4GeUR89V%2BElCE90l20LpDQsTaGHMhNG6Tc%2FUAbYtguvv%2FWxecXBRUnNXM95mh9hBO3bHWc8rmtsZ6QFj6JMWiSSt%2FNtkmPMfv%2BLShGiGfytg9TSrduCYwrbqeHRXYU",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -399,6 +365,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Keyboard] Keychron K4 HE TMR Wireless Keyboard $127.49 ($145 - $17.51)",
+   "price_raw": "$127.49",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xy65wi/keyboard_keychron_k4_he_tmr_wireless_keyboard/",
+   "posted_at": "2026-11-17T00:29:46+00:00"
+  },
   {
    "title": "Alimentation PC Corsair RM1000e (2026) avec cable ThermalProtect 12V-2x6, ATX (CP-9020337-EU)",
    "price_raw": "124,90€",
@@ -652,6 +625,13 @@
    "posted_at": "2026-11-16T16:17:53+00:00"
   },
   {
+   "title": "Carte graphique ASUS Radeon R5 230 1 Go DDR3 – R5230-SL-1GD3-L",
+   "price_raw": "20.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940097222260?_skw=carte+graphique&hash=itemdae2293674:g:ZMsAAeSwLqNq-yry",
+   "posted_at": "2026-11-16T16:10:59+00:00"
+  },
+  {
    "title": "SK hynix 16Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx8 RAM PC Portable",
    "price_raw": "55.72 EUR",
    "source": "ebay",
@@ -680,25 +660,11 @@
    "posted_at": "2026-11-16T15:12:17+00:00"
   },
   {
-   "title": "SK hynix 64 Go (4x16 Go) DDR4 ECC RDIMM PC4-2400T HMA82GR7MFR4N-UH",
-   "price_raw": "156.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336900384052?_skw=ddr4&hash=item4e70d3e534:g:9~oAAeSwllxq-x-b&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mWo6Fr7E%2BMEC5ICUEQgxgDitYGNuA4crB0XNYXs1t0RQwP18ySUIFFLsKd9tn96cCOL8dOLXktLgjdPcYy9YaEKtS33QLdO7fJ1t%2FpEYQE4eTX6dsOmWa6r1qURhNHiwr3OTcRqUDXq4QpPa%2FyLu7%2B%2F38JYxbDqai9LwaVogJHd4Qf2gg9YAZKZNlc69aWNLTg7%2BnqpaaRH7o83pb5QIA%2B73oa83WhdVREIbj0rUvWATdHPgD3BHofOmqhyhWn0hdxDRTO%2Boz3KGIc2fj2g%2Bdh",
-   "posted_at": "2026-11-16T15:29:39+00:00"
-  },
-  {
    "title": "Carte Mère MacBook Pro 13\" A1708 2017 – Originale Apple – 100% Fonctionnelle",
    "price_raw": "68.30 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/840134878167?_skw=carte+m%C3%A8re&hash=itemc39bf0e3d7:g:sGQAAeSwtJ9q-xv9",
    "posted_at": "2026-11-16T15:07:06+00:00"
-  },
-  {
-   "title": "CARTE MÈRE HP NETSERVER E60 D7140-63000 + PENTIUM III 500 MHz + NAPPES",
-   "price_raw": "156.60 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123261277?_skw=carte+m%C3%A8re&hash=itemcceb6f315d:g:M8AAAeSwwidq-xvD",
-   "posted_at": "2026-11-16T15:16:32+00:00"
   },
   {
    "title": "Boitier Disque Dur 2.5 Orico - 6Gbps USB C 3.1 Gen 2 (Vendeur Tiers)",
@@ -751,7 +717,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1926,
-  "models_with_reference": 61
+  "listings_seen": 1929,
+  "models_with_reference": 60
  }
 }
