@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T15:08:00Z",
+ "generated_at": "2026-11-17T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-17T15:08:00.689276+00:00"
+   "last_ok": "2026-11-17T15:38:00.668728+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T15:08:00.689276+00:00"
+   "last_ok": "2026-11-17T15:38:00.668728+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-17T15:08:00.689276+00:00"
+   "items": 367,
+   "last_ok": "2026-11-17T15:38:00.668728+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-17T15:08:00.689276+00:00"
+   "items": 45,
+   "last_ok": "2026-11-17T15:38:00.668728+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ace-nitro-vg272uw2bmiipx-qhd-dalle-ips-240hz-1ms-freesync-premium-3454351",
    "posted_at": "2026-11-13T13:14:00+00:00"
+  },
+  {
+   "title": "SSD SATA 128Gb SanDisk X400 M.2 2280 ",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 13.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 13.99,
+   "median_eur": 26.58,
+   "discount_pct": 47.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ppiteso_0 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860146257579?_skw=ssd&hash=itemc844b64eab:g:OhoAAeSwks9q-dxV",
+   "posted_at": "2026-11-15T16:26:43+00:00"
   },
   {
    "title": "SSD Interne 1 To NVME M2.2280",
@@ -122,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FAW0qWAVKZWlKIYsPz%2B%2FCJeiu%2F5qqUyyYRN58cZZZhtwmKLhpsEqehEhGdSw1oeCHk0Dw%2F1Mnw5LCEyPzfaJtKoSkxjDEE44ld86S1ShV8yB16lx9W1zcqjpRKeoxep5q%2F328thYRwLRkxGc9hZ5UeU8sDnSbNDQkCeTKPHnJhgw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FziWB9UyfbpUyqdk5t62kc05yRChISGIMyDgo7pOUBpJrCIkiS8G6CWIo%2FE%2FGd%2F09eJb1BJy1DXonsS0YW%2FK8TCFT4bmp3OYQgChToEqFmWx2R8mAOgsCe0WYgAslfc2O3V30qfHTPkILgHSN8%2FZDzr9KAZFZLykfCq%2Bs6SzoNVg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzYmkilubcFG8Tivu4zUPSDiL90UjjWVsw5QVMGkiC5QdbXsVkaXNjgX9yCjSQTARuQbB4YSh3lnYeoqei3h81FdcpiWGZ8mMBsD8SxTQvRNpwv3A0Fb8xFVz89tRbnQZ4tG%2BbysNyfvr748dBvltFN",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuywGSpWp%2BnQv9NrEgqjTl%2BikhQxrj%2FU3XCDRptfCeSOl5AUmdBNJ2Ui05juX%2BMtjHwyr56ORRFr8XAcTGKgdABsFepUy2hWI4J7vUgMsB9JNNPTCzK1KimjYkhu%2BO5wZ7mKtY5bBMJ%2Fc0pbd73iQg4v",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -383,7 +400,35 @@
  ],
  "unclassified": [
   {
-   "title": "Lot de 2 Écran PC gaming 23.8\" AOC 24G50F - FHD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync",
+   "title": "Ecran PC ASUS ROG Strix OLED XG27AQDMES",
+   "price_raw": "379,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-asus-rog-strix-oled-xg27aqdmes-3459192",
+   "posted_at": "2026-11-17T15:37:14+00:00"
+  },
+  {
+   "title": "Lot de 2 Écran PC 24\" Philips 24E2N1100LB - FHD, Dalle VA, 100Hz, 1ms",
+   "price_raw": "109,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecran-pc-24-philips-24e2n1100lb-fhd-dalle-va-100hz-1ms-3459155",
+   "posted_at": "2026-11-17T15:16:09+00:00"
+  },
+  {
+   "title": "Imprimante Multifonctions Epson XP 2200 (Vendeur Tiers)",
+   "price_raw": "44,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/epson-xp-2200-3459154",
+   "posted_at": "2026-11-17T15:15:20+00:00"
+  },
+  {
+   "title": "[Bundle] Ryzen 9600X, 16gb (2x8gb) DDR5 6000, Gigabyte B850M Eagle Wifi6e, MSI Cooler, Rosewill 360 AIO $406.38 (see post for additional links)",
+   "price_raw": "$406.38",
+   "source": "reddit",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xyn56a/bundle_ryzen_9600x_16gb_2x8gb_ddr5_6000_gigabyte/",
+   "posted_at": "2026-11-17T15:20:41+00:00"
+  },
+  {
+   "title": "Lot de 2 Écrans PC gaming 23.8\" AOC 24G50F - FHD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync",
    "price_raw": "129,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecran-pc-gaming-238-aoc-24g50f-fhd-ips-180hz-05-ms-hdr-compatible-g-sync-3459142",
@@ -491,7 +536,7 @@
    "title": "Integral RAM DDR3 16 Go 1600 MHz DIMM PC bureau kit 2x8 Go",
    "price_raw": "91.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407368941040?_skw=ddr4&hash=item5ed914bdf0:g:SjkAAeSw~otq~AYC&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nVoih7Pze7A6NfzRZyrU7%2BHpbVY5A3eX1G4Nou5oF7R5eCmzRnnH4ET%2BEzpUMoJuex0E9op7pXvgWJt1uqh4OPdbda8vJNLvKkw7cKqFPw1fiks%2Felec%2FWclzGh8FHw%2Fw%2BnuD7xBCmWIVNurtMO4frGZCBE1en0KYe%2F67LeM4Hz8PxEG%2BNVkXqSEi4cMiCqxwFk0FeWAaBMExWoouqvlhJ6fse19vpfJK5pXm0BGrRfHGSlSx%2FenZJ%2FQ3tSrJMFRg6%2B5Xjxcos%2Fti9OecPJW6Q",
+   "url": "https://www.ebay.fr/itm/407368941040?_skw=ddr4&hash=item5ed914bdf0:g:SjkAAeSw~otq~AYC&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nVoih7Pze7A6NfzRZyrU7%2BHpbVY5A3eX1G4Nou5oF7R5eCmzRnnH4ET%2BEzpUMoJuex0E9op7pXvgWJt1uqh4OPdbda8vJNLvKkw7cKqFPw1fiks%2Felec%2FWclzGh8FHw%2FywPg1fvhk09q%2Bj6lMbMuXN1qsFHPvjc65xXjy5sUfGtDpVo2yl%2BeaUm65nK9Ur5ZDug8MKh1FGh%2FDDdPRRtW0RPjUwZSyFdKK4%2Fx%2FYiFIxu7xCX%2BQXU1a%2Fal9Gx7c5nZFpL2OszmXU5O0ZanbFEjEi",
    "posted_at": "2026-11-17T07:45:54+00:00"
   },
   {
@@ -572,13 +617,6 @@
    "posted_at": "2026-11-17T11:14:00+00:00"
   },
   {
-   "title": "PC Portable 13\" Apple MacBook Air - 512 Go SSD, 16 Go RAM, Puce M5",
-   "price_raw": "1 199€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-512-go-ssd-16-go-ram-puce-m5-3458845",
-   "posted_at": "2026-11-17T11:08:46+00:00"
-  },
-  {
    "title": "[Laptop] ASUS Zenbook S14 - 14-inch 2880x1800 120hz OLED - Core Ultra 9 386H, 32GB RAM, 1TB SSD, 2.76 lbs - $1299",
    "price_raw": "$1299",
    "source": "reddit",
@@ -656,13 +694,6 @@
    "posted_at": "2026-11-17T08:31:12+00:00"
   },
   {
-   "title": "Boitier PC NZXT H6 Flow - Noir",
-   "price_raw": "59,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boiter-pc-nzxt-h6-flow-noir-3458575",
-   "posted_at": "2026-11-17T08:31:02+00:00"
-  },
-  {
    "title": "Pack de 3 Routeur WiFi 6 Mesh Tenda Nova MX12 - AX3000, Couverture jusqu'à 330 m², WPA3",
    "price_raw": "126,33€",
    "source": "dealabs",
@@ -717,24 +748,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-logitech-m330-silent-plus-souris-sans-fil-couleur-rouge-ou-blanche-3458533",
    "posted_at": "2026-11-17T07:32:47+00:00"
-  },
-  {
-   "title": "Tapis de Souris Grupo Erik XXL - 80x35,1cm",
-   "price_raw": "6,22€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tapis-de-souris-grupo-erik-xxl-80-x-351-cm-3458519",
-   "posted_at": "2026-11-17T07:19:13+00:00"
-  },
-  {
-   "title": "Routeur sans fil Tenda Wi-Fi 6 AX1500 Mbps Gigabit Double Bande - 5GHz & 2.4GHz, 4 Ports WAN/LAN Gigabit, 5 Antennes Externes",
-   "price_raw": "28,48€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/routeur-tenda-wi-fi-6-ax1500-mbps-gigabit-double-bande-routeur-sans-fil-5ghz24ghz-4-ports-wanlan-gigabit-5-antennes-externes-3458507",
-   "posted_at": "2026-11-17T07:08:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2002,
+  "listings_seen": 2003,
   "models_with_reference": 64
  }
 }
