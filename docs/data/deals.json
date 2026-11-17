@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T11:38:00Z",
+ "generated_at": "2026-11-17T12:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-17T11:38:00.619805+00:00"
+   "last_ok": "2026-11-17T12:08:00.658050+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T11:38:00.619805+00:00"
+   "last_ok": "2026-11-17T12:08:00.658050+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-17T11:38:00.619805+00:00"
+   "items": 373,
+   "last_ok": "2026-11-17T12:08:00.658050+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-17T11:38:00.619805+00:00"
+   "items": 31,
+   "last_ok": "2026-11-17T12:08:00.658050+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxx6FqMiwL16Xg27QooZUdg3Bj1xpHqly3ndbS%2FiFynrc%2FRCx%2Bt7k3cNIXTQIemH364DRJAMDJ6II5TPtp4CkBLCgSKwlrBY9Qd2YceIbG19K6qrVvhYL5ZDPC8y4GwQUC2vumRUSjgDq%2BlXhER%2Fjej",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxR3pA4cOml%2F1IAcfa%2F0S5kcyUT1Ymdw3Ep6idYVvsdVdbUwvztPaWNTL3Hx2x%2Bc84fRwsHezQ689QfEOw0I0UOhu1mvKRWjM0ul96PgD3%2FoYF9G6fr3N%2FxBpNOraMBiYPcCTDg%2FTD%2FrYwx2fiCC9SO",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -275,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 203 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73KpIV4xOmbhhF5mEP4uIEPbxad0XFksY9uWoibtNW9t5F0S47fs3o8vlF4UNJDprAYLEFaq3joXaPTBIpudjordvBPTKjcyg79Hhx7Kq3sYGmheKQXCa%2FPjmglTeM11hAZMGW9QHlf8RWpdnmFVjdQ",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -294,23 +294,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-245-msi-pro-mp252l-245-fhd-100hz-dalle-ips-1ms-adaptive-sync-hdr-ready-3452009",
    "posted_at": "2026-11-11T10:23:59+00:00"
-  },
-  {
-   "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
-   "model": "SSD:NVMe-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.0,
-   "shipping_eur": 3.9,
-   "effective_eur": 15.9,
-   "median_eur": 19.65,
-   "discount_pct": 19.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
-   "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
@@ -408,13 +391,6 @@
    "posted_at": "2026-11-17T11:07:59+00:00"
   },
   {
-   "title": "Carte graphique AMD Radeon HD 8490, 1 Go DDR5 Idéal double écran",
-   "price_raw": "21.39 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237187784137?_skw=carte+graphique&hash=item37397e5dc9:g:X4sAAeSwbIFq~DbP",
-   "posted_at": "2026-11-17T11:15:08+00:00"
-  },
-  {
    "title": "PC Portable HP OmniBook 3 - 14\", AMD Ryzen 5, 16 Go RAM, 512 Go SSD, Écran FHD+ IPS 16:10 antireflet",
    "price_raw": "569€",
    "source": "dealabs",
@@ -469,13 +445,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/clavier-gaming-mecanique-3458644",
    "posted_at": "2026-11-17T08:49:31+00:00"
-  },
-  {
-   "title": "Trust Ody II Clavier sans fil AZERTY français silencieux RF 2.4 GHz noir",
-   "price_raw": "29.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198801867651?_skw=clavier&hash=item2e4983c383:g:kNcAAeSwPjFq~BYs",
-   "posted_at": "2026-11-17T08:54:55+00:00"
   },
   {
    "title": "[Clients Red by SFR] Smartphone 6.71\" Honor Magic8 Pro 512 Go + tablette Pad 10 (via 100€ d'ODR sur facture + 100€ de bonus reprise)",
@@ -649,8 +618,15 @@
    "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-2933Y HMA81GU6DJR8N-WM",
    "price_raw": "25.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGmqo%2FFcQzur%2BoFJ8%2BRYePACZppTf5x11h9azX5OFlU7C6%2FFaN6%2B1vI5jmZ2xMU9ROdYvOf783hD6l1s5vH3c%2FF%2FR51HQ7U2jI%2FsBzsaDPe3T4yZzr9w6xzvCRX6OZlh%2BOFwsIqwW61pDPJqIFntzrTJ",
+   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGlllmrCUQhV2voP6nXQXofGM1TFSy%2BbR0cRTq14ga%2B0FwQuQlWNHB%2BGoFDKLY%2Bp54R%2Fs8xQIfaO7eWXpnLTqSmOvmFt%2B9fWal%2BvO83%2F05UNTAxHAcE4rR6TGrbskN3HooU1XhXGvOnsEWFxINPpYm1b",
    "posted_at": "2026-10-31T18:31:25+00:00"
+  },
+  {
+   "title": "Water cooling Kraken plus 360 RGB LCD white NZXT",
+   "price_raw": "267.84 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/398190895677?_skw=watercooling&hash=item5cb606e23d:g:-rAAAeSwKs5qWepc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mdvPawAZb4%2BfzDFvRrDPVhyenRO6YaKKL2BlJvdbVtW0BtuXyYRwyC%2FtqTWjTU6c%2Fz4gJHQnTNX46ksWs9et%2BE4tJul59CQbZdXuLgvIl%2B9Xu5ScU1IlZ4VBqvZEfyHzf3h9FHPlmyQlpCrtqTfV9Jakx7j%2FES7HgbeiebsX8--zoAas%2Fv6PP4bDeVHOFhuXMph9ZBTL%2BF6NhgZAhO3BpIn01HckTq6MDaXy1Z77icZBkyFNq3a51PSB7eddi3DFwglw6T8fLWpdxjoTlPplQXqxWsAyQe7br0cdjPkf4W8w%3D%3D",
+   "posted_at": "2026-07-19T07:41:24+00:00"
   },
   {
    "title": "[Motherboard] ASRock B850M Steel Legend mATX (AM5), $150, Amazon (sold by ASRock USA). 12+2+1 VRM, 3 M.2 slots, PCIe 5.0x16 GPU slot, both ECC and non-ECC RAM compatible.",
@@ -714,10 +690,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-gaming-lenovo-legion-m600s-qi-bluetooth-50-19-000-dpi-recharge-qi-ultra-legere-3458307",
    "posted_at": "2026-11-16T21:57:56+00:00"
+  },
+  {
+   "title": "Souris Sans Fil Logitech MX Vertical + Tapis de souris Logitech Série Studio",
+   "price_raw": "47,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-vertical-tapis-de-souris-logitech-serie-studio-3458304",
+   "posted_at": "2026-11-16T21:55:47+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1989,
-  "models_with_reference": 63
+  "listings_seen": 1986,
+  "models_with_reference": 62
  }
 }
