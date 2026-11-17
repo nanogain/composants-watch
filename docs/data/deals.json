@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-17T08:08:00Z",
+ "generated_at": "2026-11-17T08:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 347,
-   "last_ok": "2026-11-17T08:08:00.675887+00:00"
+   "last_ok": "2026-11-17T08:38:00.653523+00:00"
   },
   "reddit": {
    "status": "ok",
    "items": 25,
-   "last_ok": "2026-11-17T08:08:00.675887+00:00"
+   "last_ok": "2026-11-17T08:38:00.653523+00:00"
   },
   "ebay": {
    "status": "ok",
-   "items": 0,
-   "last_ok": "2026-11-17T07:38:00.665089+00:00"
+   "items": 373,
+   "last_ok": "2026-11-17T08:38:00.653523+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-17T08:08:00.675887+00:00"
+   "items": 18,
+   "last_ok": "2026-11-17T08:38:00.653523+00:00"
   }
  },
  "watchlist": [
@@ -109,6 +109,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9NLMHml5IbzolPu99p8cJSQyuMKt%2BAJW6BPD4o2omaIMu6zRYIEHH6H72grLmIbc1tAkznSQc3HtSdbXDiltTOjvBqs9dIU8pPuCte73utB9CHR7J9cAvtYt0lKN1BsCR2vuW9Ez9XB1I7v1M1BOVqIGYl4CpfDfhs2ZirbPh5OA%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "SSD M.2 SATA 512 Go XUANCUN - Format 2242",
    "model": "SSD:SATA-512Go",
    "category": "SSD",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux5d4is%2FjnZxjBHp8tP2jR6No1ZxK3DQSmMuArZGQfT%2FmIaHXfAplWeKDB42rQpjIPSFz%2BL%2BDQpiBcFGsLxbA%2F%2BPES2aSgE8xsr6z7laYc4hQSZpEARyKADI6omAXUsV5Jkj3vZ76kBv4ZgY5Zsa2S8",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyoF1f5rOiiQaTvfl9%2B1OoPsG2m08ugnOO8Xh9ZOs0CcqWpjH7DpZ45PZL1iI%2FWfySBMNApwXvvVqk8QfGw4L9ZyQ32qx4YyqLWwDDoyWxWwMyvUP8Ke2M0BCpJsYgmTfMyKbqQ3iKkxn%2B8sQfm84rK",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -366,7 +383,56 @@
  ],
  "unclassified": [
   {
-   "title": "Tenda A33 Répéteur WiFi 6 AX3000, Repeteur WiFi Puissant sans Fil Dual Band, WiFi Extender EasyMesh avec Port Gigabit",
+   "title": "[Clients Red by SFR] Smartphone 6.71\" Honor Magic8 Pro 512 Go + tablette Pad 10 (via 100€ d'ODR sur facture + 100€ de bonus reprise)",
+   "price_raw": "699€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/clients-red-by-sfr-smartphone-671-honor-magic8-pro-512-go-tablette-pad-10-via-100eur-dodr-sur-facture-100eur-de-bonus-reprise-3458586",
+   "posted_at": "2026-11-17T08:34:47+00:00"
+  },
+  {
+   "title": "Routeur WiFi 6 Tenda AX3000 Mbps Dual-Band AX12 Pro 5GHz - 2402Mbps + 2.4GHz : 574Mbps, 4 Ports Gbe, MU-MIMO, OFDMA, VPN, Beamforming, NFC",
+   "price_raw": "29,76€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tenda-routeur-wifi-6-ax3000-mbps-dual-band-ax12-pro-5ghz-2402mbps-24ghz-574mbps-4-ports-gbe-mu-mimo-ofdma-vpn-beamforming-nfc-3458581",
+   "posted_at": "2026-11-17T08:31:53+00:00"
+  },
+  {
+   "title": "Apple iPad Air M4 (2026) 128 Go",
+   "price_raw": "659€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-m4-2026-128-go-3458623",
+   "posted_at": "2026-11-17T08:31:12+00:00"
+  },
+  {
+   "title": "Boitier PC NZXT H6 Flow - Noir",
+   "price_raw": "59,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boiter-pc-nzxt-h6-flow-noir-3458575",
+   "posted_at": "2026-11-17T08:31:02+00:00"
+  },
+  {
+   "title": "Pack de 3 Routeur WiFi 6 Mesh Tenda Nova MX12 - AX3000, Couverture jusqu'à 330 m², WPA3",
+   "price_raw": "126,33€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-de-3-tenda-mesh-wifi-6-ax3000-nova-mx12-systeme-wifi-mesh-3-ports-gbe-couverture-de-330-controle-parental-3458561",
+   "posted_at": "2026-11-17T08:21:51+00:00"
+  },
+  {
+   "title": "Routeur WiFi 6 Tenda RX12 Pro - AX3000 Dual Band Gigabit, 2404Mbps/5GHz+574 Mbps/2.4GHz, 4 Ports Gbe",
+   "price_raw": "32,89€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tenda-rx12-pro-routeur-wifi-6-ax3000-dual-band-gigabit-2404mbps5ghz-574-mbps24ghz-4-ports-gbe-160mhz-wifi-mesh-ofdmawpa3-3458563",
+   "posted_at": "2026-11-17T08:20:53+00:00"
+  },
+  {
+   "title": "Ordinateur Portable 14\" Lenovo ThinkBook 14 G8 2025 - WUXGA, 60 Hz, Ultra 5 135H, 16 Go DDR5, 512 SSD",
+   "price_raw": "899€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lenovo-thinkbook-14-gen-8-3458599",
+   "posted_at": "2026-11-17T08:15:43+00:00"
+  },
+  {
+   "title": "Répéteur WiFi 6 Tenda A33 AX3000 - sans Fil Dual Band, WiFi Extender EasyMesh avec Port Gigabit",
    "price_raw": "56,68€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tenda-a33-repeteur-wifi-6-ax3000-repeteur-wifi-puissant-sans-fil-dual-band-wifi-extender-easymesh-avec-port-gigabit-3458569",
@@ -394,7 +460,7 @@
    "posted_at": "2026-11-17T06:55:07+00:00"
   },
   {
-   "title": "Souris Sans Fil Logitech M330 Silent Plus, couleur Rouge ou Blanche",
+   "title": "Souris sans fil Logitech M330 Silent Plus",
    "price_raw": "12,58€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-logitech-m330-silent-plus-souris-sans-fil-couleur-rouge-ou-blanche-3458533",
@@ -464,13 +530,6 @@
    "posted_at": "2026-11-16T15:25:50+00:00"
   },
   {
-   "title": "SSD M.2 NVMe 2To PCIe 4.0 7400 Mo/s 980Pro PS5 Gaming Ordinateur Portable Disque",
-   "price_raw": "146.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287733230521?_skw=ssd&hash=item42fe3cabb9:g:B2cAAeSwWeVq-szv",
-   "posted_at": "2026-11-16T09:29:15+00:00"
-  },
-  {
    "title": "Integral 16 Go RAM SODIMM DDR4 3200 MHz PC4-25600 CL22 portable NEUF",
    "price_raw": "77.22 EUR",
    "source": "ebay",
@@ -495,7 +554,7 @@
    "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-2933Y HMA81GU6DJR8N-WM",
    "price_raw": "25.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGlYrFbdgEauBLu6ohoU5sks5mJ4hobokMdiw%2BHE4LHIfQ4dATvoa5lvls1wyl%2FMXDKYENiSCguSIgew%2FzzDhBFojdwu96oBEHDAPlGWLh9ATWcc%2Fsamk7Ep9M6cO1fS5358a7Y8VVq9B4Fa412vrU%2Bp",
+   "url": "https://www.ebay.fr/itm/206666070580?_skw=ddr4&hash=item301e41fa34:g:87MAAeSwKLdq5jMy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mM5pBvfRjiZmArdY0VHZQd9C7Lsx9UskjgKvlw7pAinsh4I%2BgbGKRoFbciPCTEtep0K6BSGc6%2BVeb%2FNvm7LddxW73E7QlslkoVaRPOUM4jQNV4EyzhBqmOa0zwWQTnFGnNZJ5AZ9KNLX3yNcFwAYXx5%2FJu4ZfzW1NuqD0i775muKsi6RuQtUPIAm%2FDD6IoR6N8aXl7vt%2FMSP8dTH%2B1OGr5oRKvPj7GHSpgnDqjG%2FLaCTXGz9DynQ4bC5bBwLkNIThA8wzXrSN3sKkkQo6lBSCp",
    "posted_at": "2026-10-31T18:31:25+00:00"
   },
   {
@@ -672,52 +731,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-tactile-lenovo-yoga-tab-plus-127-256-go-coquillage-stylet-lenovo-3458120",
    "posted_at": "2026-11-16T19:06:06+00:00"
-  },
-  {
-   "title": "[KEYBOARD] Glorious GMMK 3 HE 65% Gaming Keyboard $36.99 w/ code GLORIOUS",
-   "price_raw": "$36.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxxzgq/keyboard_glorious_gmmk_3_he_65_gaming_keyboard/",
-   "posted_at": "2026-11-16T19:03:11+00:00"
-  },
-  {
-   "title": "Tablette 11,1\" Lenovo Yoga Tab Gen 2 ZAJ00111SE - 256 Go, Bleu Cosmique + Stylet Lenovo Tab Pen Pro 2",
-   "price_raw": "539,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lenovo-yoga-tab-gen-2-zaj00111se-111-256-go-bleu-cosmique-stylet-lenovo-tab-pen-pro-2-3458069",
-   "posted_at": "2026-11-16T18:26:26+00:00"
-  },
-  {
-   "title": "Ecran PC 26,5\" Asus Gaming Rog XG27AQWMG-R - 280 Hz, OLED",
-   "price_raw": "469,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-gaming-rog-xg27aqwmg-r-265-280-hz-oled-3458031",
-   "posted_at": "2026-11-16T17:52:18+00:00"
-  },
-  {
-   "title": "Tablette tactile Lenovo Idea Tab Pro Vert 256 Go + Stylet Tab Pen Plus",
-   "price_raw": "379,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-lenovo-idea-tab-pro-vert-256-go-stylet-tab-pen-plus-3458022",
-   "posted_at": "2026-11-16T17:46:19+00:00"
-  },
-  {
-   "title": "Routeur Google Nest Wifi Pro",
-   "price_raw": "179,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/40-eur-de-reduction-pour-lachat-dun-routeur-google-nest-wifi-pro-3458000",
-   "posted_at": "2026-11-16T17:30:21+00:00"
-  },
-  {
-   "title": "[SSD] Verbatim Vi7000 1TB NVMe SSD | 4.0 x4 | DRAM cache | PC PS5 - ($129.00)",
-   "price_raw": "$129.00",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xxuzxy/ssd_verbatim_vi7000_1tb_nvme_ssd_40_x4_dram_cache/",
-   "posted_at": "2026-11-16T17:11:23+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1965,
-  "models_with_reference": 63
+  "listings_seen": 1975,
+  "models_with_reference": 65
  }
 }
