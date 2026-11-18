@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T08:38:00Z",
+ "generated_at": "2026-11-18T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 350,
-   "last_ok": "2026-11-18T08:38:00.681228+00:00"
+   "items": 352,
+   "last_ok": "2026-11-18T09:08:00.622996+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 370,
-   "last_ok": "2026-11-18T08:38:00.681228+00:00"
+   "items": 367,
+   "last_ok": "2026-11-18T09:08:00.622996+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-18T08:38:00.681228+00:00"
+   "items": 80,
+   "last_ok": "2026-11-18T09:08:00.622996+00:00"
   }
  },
  "watchlist": [
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70PMnsbm5IIiLOdowuXMsO5LEoWURHDgoFIi4SGKWXjkJaRyr9auWNKothl2uhf6tJ1o2HZkGbCTCta7mJeUIaRpAN%2BVtvWr48RGQMDRMawnd9xH4MlU3YGFJFFO0E9BdWp22mZbTcOtCwKrqz1naX1",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -332,6 +332,27 @@
  ],
  "unclassified": [
   {
+   "title": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh (Gris) + Étui de protection (Via ODR de 30€)",
+   "price_raw": "140,14€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-gris-etui-de-protection-via-odr-de-30eur-3459944",
+   "posted_at": "2026-11-18T08:51:05+00:00"
+  },
+  {
+   "title": "Tablette 12.1\" Lenovo Idea Tab Plus (2.5K 90Hz, Dimensity 6400, RAM 6 Go, 128 Go) + Stylet + Coque avec Clavier Folio magnétique détachable",
+   "price_raw": "255,14€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-121-lenovo-idea-tab-plus-25k-90hz-dimensity-6400-ram-6-go-128-go-stylet-coque-avec-clavier-folio-magnetique-detachable-3459939",
+   "posted_at": "2026-11-18T08:47:23+00:00"
+  },
+  {
+   "title": "15% de réduction immédiate dès 150€ d’achat sur une sélection de tablettes Android + accessoires tablettes",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/15-de-remise-des-150eur-dachat-sur-une-selection-de-tablettes-android-accessoires-tablettes-3459931",
+   "posted_at": "2026-11-18T08:41:27+00:00"
+  },
+  {
    "title": "PC Portable 16\" Acer Nitro V 16 AI ANV16-42-R3JW - AMD Ryzen 7 260, GeForce RTX 5060 8 Go, RAM 16 Go, SSD 512 Go, WUXGA, 180Hz, Windows 11",
    "price_raw": "1 149,99€",
    "source": "dealabs",
@@ -437,13 +458,6 @@
    "posted_at": "2026-11-18T06:38:21+00:00"
   },
   {
-   "title": "Processeur Intel Xeon E5-2690 V4 2,6 GHz 14 cœurs SR2N2 LGA2011-3 d'occasion",
-   "price_raw": "41.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198804379674?_skw=processeur&hash=item2e49aa181a:g:8WwAAeSwUwNq~VTd",
-   "posted_at": "2026-11-18T06:38:09+00:00"
-  },
-  {
    "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM SK hynix PC4-3200AA 260 broches HMAA2GS6CJR8N",
    "price_raw": "135.90 EUR",
    "source": "ebay",
@@ -458,6 +472,13 @@
    "posted_at": "2026-11-18T05:08:37+00:00"
   },
   {
+   "title": "RAM pour ordinateur portable SK Hynix 16 Go DDR4-3200 1Rx8 SODIMM ",
+   "price_raw": "62.06 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407249751871?_skw=ddr4&hash=item5ed1fa0f3f:g:~OoAAeSwSb1quSZB",
+   "posted_at": "2026-09-27T14:36:08+00:00"
+  },
+  {
    "title": "copy of Mémoire RAM HyperX Fury HX421C14FB/4 DDR4 2133MHz  Non-ECC CL144 Go DIMM",
    "price_raw": "22.00 EUR",
    "source": "ebay",
@@ -465,11 +486,11 @@
    "posted_at": "2026-05-06T14:45:53+00:00"
   },
   {
-   "title": "Barrette RAM DDR4 4 Go 2400 MHz — RAMAXEL (PC Fixe)",
-   "price_raw": "12.00 EUR",
+   "title": "KLEVV Cras V RGB DDR5 RAM 32GB (16GBx2) 6000 CL28 Noir DIMM",
+   "price_raw": "816.85 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206680784458?_skw=ddr4&hash=item301f227e4a:g:voAAAeSwsJpq7kaG",
-   "posted_at": "2026-11-06T21:07:16+00:00"
+   "url": "https://www.ebay.fr/itm/227619289417?_skw=ddr5&hash=item34ff2ab949:g:-sEAAeSwE59q~MS9",
+   "posted_at": "2026-11-17T23:38:20+00:00"
   },
   {
    "title": "Écran Dell 17\" LCD 1280x1024 SXGA 60Hz 5:4 VGA Moniteur PC Testé",
@@ -573,7 +594,7 @@
    "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
    "price_raw": "26.22 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRgBF6KqA3tRE1lR0vfmbwc09BylmLmxNSQC10Z5QLdHBTPCc9OoBg%2FmKkeAqa07JoRZ%2FCRClKPz9IUK%2BJRQfKUH8Z%2B1G0Xi2E2lJgE4ulWSzMjvkBnBAfjNTg5HwhJ9Sr%2F4IwPwuxXCjqJD%2Fq1Nuc7y",
+   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRjFo6GlsRP0uNoH5QoCjYaeQRgoW%2FfARrIKh0LyeWXgC7NI2%2BGFN4D9uWnilesWVXmPuz6K2lGWoMoRbgBx48zXE7FsmENRh0VAZKBn83EFCxA6vF79Jj6H79Uksd74s%2B%2Fso2lHGx9IiezF%2BfhSvLkN",
    "posted_at": "2026-11-17T16:35:36+00:00"
   },
   {
@@ -612,13 +633,6 @@
    "posted_at": "2026-11-17T16:03:51+00:00"
   },
   {
-   "title": "Lot de 2 Écran PC 24\" Philips 24E2N1100LB - FHD, Dalle VA, 100Hz, 1ms",
-   "price_raw": "109,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecran-pc-24-philips-24e2n1100lb-fhd-dalle-va-100hz-1ms-3459155",
-   "posted_at": "2026-11-17T15:16:09+00:00"
-  },
-  {
    "title": "Imprimante Multifonctions Epson XP 2200",
    "price_raw": "44,99€",
    "source": "dealabs",
@@ -631,13 +645,6 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xyn56a/bundle_ryzen_9600x_16gb_2x8gb_ddr5_6000_gigabyte/",
    "posted_at": "2026-11-17T15:20:41+00:00"
-  },
-  {
-   "title": "Lot de 2 Écrans PC gaming 23.8\" AOC 24G50F - FHD, IPS, 180Hz, 0.5 ms, HDR, Compatible G-Sync",
-   "price_raw": "129,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecran-pc-gaming-238-aoc-24g50f-fhd-ips-180hz-05-ms-hdr-compatible-g-sync-3459142",
-   "posted_at": "2026-11-17T15:07:46+00:00"
   },
   {
    "title": "PC Portable 16\" ASUS TUF A16-TUF608UP-TU131W - FHD, 144Hz, AMD Ryzen 7 260, RTX 5070, 16 Go DDR5, 1 to SSD, Windows 11 - AZERTY",
@@ -673,17 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/esun-pla-refill-filament-175mm-1kg-22-lbs-pour-imprimante-3dnoir-3458993",
    "posted_at": "2026-11-17T13:39:52+00:00"
-  },
-  {
-   "title": "[Monitor] Samsung Odyssey G6 OLED 1440p, 360hz, 27” monitor - $180",
-   "price_raw": "$180",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xykt4f/monitor_samsung_odyssey_g6_oled_1440p_360hz_27/",
-   "posted_at": "2026-11-17T13:44:48+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1970,
+  "listings_seen": 1968,
   "models_with_reference": 61
  }
 }
