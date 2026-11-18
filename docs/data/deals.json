@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T19:38:00Z",
+ "generated_at": "2026-11-18T20:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-18T19:38:00.669120+00:00"
+   "items": 348,
+   "last_ok": "2026-11-18T20:08:00.702356+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 363,
-   "last_ok": "2026-11-18T19:38:00.669120+00:00"
+   "items": 365,
+   "last_ok": "2026-11-18T20:08:00.702356+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 72,
-   "last_ok": "2026-11-18T19:38:00.669120+00:00"
+   "items": 80,
+   "last_ok": "2026-11-18T20:08:00.702356+00:00"
   }
  },
  "watchlist": [
@@ -160,6 +160,23 @@
    "posted_at": "2026-11-18T17:22:58+00:00"
   },
   {
+   "title": "Kit RAM 32 Go (2x16 Go) DDR4 3200 MHz Corsair Vengeance LPX CL16",
+   "model": "RAM:DDR4-32Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 208.7,
+   "shipping_eur": 0.0,
+   "effective_eur": 208.7,
+   "median_eur": 270.7,
+   "discount_pct": 22.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · matony4 (100,0 %, 329 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940103013509?_skw=ddr4&hash=itemdae2819485:g:z3gAAeSwIrBq~d5C",
+   "posted_at": "2026-11-18T17:20:39+00:00"
+  },
+  {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
    "model": "MB:B550",
    "category": "MB",
@@ -167,31 +184,14 @@
    "price_eur": 76.99,
    "shipping_eur": null,
    "effective_eur": 76.99,
-   "median_eur": 101.99,
-   "discount_pct": 24.5,
+   "median_eur": 99.86,
+   "discount_pct": 22.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b550m-acsm-am4-ddr4-pcie-40-2-x-m2-micro-atx-3455364",
    "posted_at": "2026-11-15T23:04:06+00:00"
-  },
-  {
-   "title": "SSD M2 NVMe 500 Go Kingston FURY Renegade PCIe 4.0 (Santé 98%)",
-   "model": "SSD:NVMe-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 63.1,
-   "shipping_eur": 0.0,
-   "effective_eur": 63.1,
-   "median_eur": 82.77,
-   "discount_pct": 23.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · theagp44 (100,0 %, 327 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128203160400?_skw=ssd&hash=item1dd980fb50:g:NpAAAeSwBQtq~dVo",
-   "posted_at": "2026-11-18T16:43:02+00:00"
   },
   {
    "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70rULb2S4u4Ze7QwRfM62Mgc7EHR7ecKTezh18YrvLE%2BTZ1B37KL2ePQLWjaQdjtALmAhgxZzwdGRpxxy8glm2Sp6tRoHcIJcX1PLkk1jreinCBsSWuu8gaepWYpPeaDffsWgjiE8yaLcyp6cW7ce6S",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72rMg2f6EXWVLlMWNACXy3WxQLRa5cAi2m76ekpkGRPGzI2C7lt%2FPSY4z8BDUNfhmjQXKLJOy9rduMYra1mVPwq2lPSDcpeqqvyCDq2TQC7fMsnRDShg8dRV5WDuIqTfQ00pQbC2%2Bhdf0jwOo2Ngyvt",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -280,6 +280,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "SSD NVMe Ugreen Boîtier M.2 USB 3.2 Gen 2 10 Gbps Adaptateur",
+   "price_raw": "21,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-boitier-m2-ssd-nvme-usb-32-gen-2-10-gbps-adaptateur-3460706",
+   "posted_at": "2026-11-18T19:38:54+00:00"
+  },
+  {
+   "title": "Pack Logitech Souris MX Vertical - Gris + Tapis de souris - Desk Mat Gris (44.99€ Nouveaux clients)",
+   "price_raw": "54,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-logitech-souris-mx-vertical-gris-tapis-de-souris-desk-mat-gris-4499-nouveaux-clients-cdiscount-3460733",
+   "posted_at": "2026-11-18T20:02:04+00:00"
+  },
+  {
+   "title": "Souris Sans Fil Blanche - USB, 1200 DPI, Ambidextre, HP Z3700",
+   "price_raw": "12,88€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-blanche-usb-1200-dpi-ambidextre-hp-z3700-3460713",
+   "posted_at": "2026-11-18T19:44:06+00:00"
+  },
   {
    "title": "Pack de 10 Filaments Creality Ender PLA 1,75 mm - pour Imprimante 3D, Anti-nœuds, Forte Adhérence (Vendeur Tiers)",
    "price_raw": "79,99€",
@@ -442,13 +463,6 @@
    "posted_at": "2026-11-18T14:39:19+00:00"
   },
   {
-   "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2400T 1Rx8 288 broches MTA8ATF1G64AZ-2G3H1",
-   "price_raw": "25.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU",
-   "posted_at": "2026-11-18T14:39:45+00:00"
-  },
-  {
    "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
    "price_raw": "14.50 EUR",
    "source": "ebay",
@@ -468,13 +482,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-photo-portable-xiaomi-1s-technologie-zink-2x3-sans-encre-bluetooth-papier-adhesif-gris-3460349",
    "posted_at": "2026-11-18T14:18:10+00:00"
-  },
-  {
-   "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-3200AA 1Rx8 HMAG68EXNUA076N",
-   "price_raw": "29.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710671728?_skw=ddr4&hash=item3020ea8970:g:IQMAAeSwzXpq~bcN",
-   "posted_at": "2026-11-18T14:34:26+00:00"
   },
   {
    "title": "Imprimante photo Fujifilm instax Square Link blanche, Bluetooth, tirages carrés",
@@ -568,6 +575,13 @@
    "posted_at": "2026-11-18T08:51:57+00:00"
   },
   {
+   "title": "SSD M2 Samsung 970 Evo Plus",
+   "price_raw": "259.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366818970725?_skw=ssd&hash=item55681d4c65:g:rBcAAeSw~otq-0U4",
+   "posted_at": "2026-11-18T09:33:47+00:00"
+  },
+  {
    "title": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh (Gris) + Étui de protection (Via ODR de 30€)",
    "price_raw": "140,14€",
    "source": "dealabs",
@@ -615,24 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amazon-kindle-scribe-32-go-nouvelle-generation-ecran-11-effet-papier-avec-eclairage-avant-plus-fin-leger-et-rapide-3459891",
    "posted_at": "2026-11-18T08:16:34+00:00"
-  },
-  {
-   "title": "Injecteur PoE Tenda POE30G-AT - Gigabit IEEE 802.3af/at, PoE Gigabit 30W, Alimentation PoE 10/100/1000 Mbps, Plug & Play",
-   "price_raw": "14,42€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tenda-ieee-8023afat-gigabit-poe-injector-30w-gigabit-poe-injector-101001000mbps-poe-power-plug-and-play-distance-up-to-100m-3459866",
-   "posted_at": "2026-11-18T07:59:47+00:00"
-  },
-  {
-   "title": "Sélection de Pédales pour guitare ou basse Electro-Harmonix en promotion - Ex : Triangle Big Muff Pi",
-   "price_raw": "69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/selection-de-pedalezs-electro-harmonix-en-promotion-exemple-triangle-big-muff-pi-3459864",
-   "posted_at": "2026-11-18T07:58:43+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1998,
+  "listings_seen": 1993,
   "models_with_reference": 58
  }
 }
