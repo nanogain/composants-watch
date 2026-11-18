@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T22:38:00Z",
+ "generated_at": "2026-11-18T23:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 350,
-   "last_ok": "2026-11-18T22:38:00.626944+00:00"
+   "last_ok": "2026-11-18T23:08:00.674013+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-18T22:38:00.626944+00:00"
+   "items": 366,
+   "last_ok": "2026-11-18T23:08:00.674013+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T22:38:00.626944+00:00"
+   "last_ok": "2026-11-18T23:08:00.674013+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71iEUgxuKS6QK4N6dLg3Ueijrr%2FLQ2JE%2Bi%2FOCAcaaGqfsUOg8MAf%2Brl9rk%2BiO9vgk86ApE54XljvYt17Ee0dYZ56LW%2Fnm%2FTjz4Ht%2B%2Br5V--CvoB%2B6RfwbFDVVdY3RBCshpBQ5h6dOkwsSNNkGk8wwWv",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71zLTSLp%2FsJIFHNZpZa9SqAVBdlCdsarTn6DrXqVK7o5bn%2Fvw7f%2FyF4GLLFb9mly3oMKs9jSBeKifw2rNKZzpLpPNnpXA3lxc5zRCyU2mKL0mArda6Tem9rz2HYO1Zse0Btzd5du3rjugNGXu7WBtjy",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -298,10 +298,17 @@
  ],
  "unclassified": [
   {
+   "title": "Processeur AMD A8-6600K FM2 APU 4C/4T 3.9-4.2GHz Radeon HD 8570D CPU NEUF",
+   "price_raw": "41.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/136993460568?_skw=processeur&hash=item1fe5725158:g:O~YAAeSw40JpepBQ",
+   "posted_at": "2026-01-28T22:40:24+00:00"
+  },
+  {
    "title": "Yodoit Écran Portable 15,6\" FHD IPS HDMI USB-C Haut-parleurs Intégrés PC Mac",
    "price_raw": "115.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920158135183?_skw=%C3%A9cran+pc&hash=itemd63db2e38f:g:MVIAAeSw4LNq~ieP",
+   "url": "https://www.ebay.fr/itm/920158135183?_skw=%C3%A9cran+pc&hash=itemd63db2e38f:g:MVIAAeSw4LNq~ieP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lQpKU2d92bPn1V0f8OdpiGOO8FrzZw1M6wGFcXkiLW4C%2FyMAeIep%2Bv%2FbHL4axccQDAOR5lOWsi%2BlkEmw87lC0AqHuuP6OYww8UlBtKsCLtGM5dNclm0lzWl38kRughnVCcBJaIvvl1QxT4zn%2F2LJY4FusYNbYxC0e41I7gIgkglzdeAi0yUmyz7AM%2FyPegI9Or9GiFGr4PNhs0igJ5oFUjHdk9y6QV7JfNQ7IBdCDpJGhWyl3k7egrn26S9f63Q97EuyZQLJRI3n2jZ75qPhBIVUxxb2HZepT5jkJ0a0LcUw%3D%3D",
    "posted_at": "2026-11-18T22:33:00+00:00"
   },
   {
@@ -347,13 +354,6 @@
    "posted_at": "2026-11-18T20:38:12+00:00"
   },
   {
-   "title": "Ecran PC 10,1 Pouces Moniteur Portable HDMI VGA AV BNC – Ecran CCTV Surveillance",
-   "price_raw": "139.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336869285657?_skw=%C3%A9cran+pc&hash=item4e6ef95f19:g:244AAeSwQxxq45Hh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfH54x79I9nHnZU0%2Fw7kuAyBYIzAEuVnMbF9oBGf9gIOLujzkezhqpkY0etmRpiGS4Lrafr8cGM79p1N5mjCrsJVpKYIOb9%2B%2Bzgiw0u6CVwkjwkaYmAHWImsBCYBsOVwkrFlseJ1NBTcMisRDs%2B8ktoaUkM%2BDWClCwzXPIT3Dlvzu%2FW776uB6%2FGw%2FMQCezqlKebiZKjHxrTh6%2FevNAQZmOQ6dHjw2E8fOBupgj%2FZvGVY6BHeqVjgLF0LrC5wK5LkZfmTIpwk%2BaAKEEx2jpL%2FW%2FdzZ1No2mgYgM1sLwVZRfxQ%3D%3D",
-   "posted_at": "2026-10-29T18:34:11+00:00"
-  },
-  {
    "title": "SSD portable NVMe 20Gbps Crucial X10 Pro (TLC) - 4To, IP55, Boitier alu, jusqu'à 2100 Mo/s, câble USBC inclus (CT4000X10PROSSD902)",
    "price_raw": "448,99€",
    "source": "dealabs",
@@ -373,13 +373,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/318028116849?_skw=carte+m%C3%A8re&hash=item4a0bf3f371:g:pG4AAeSwuw9qu7Ny",
    "posted_at": "2026-03-19T09:06:15+00:00"
-  },
-  {
-   "title": "Noctua NH-D15S chromax.black Ventirad CPU Silencieux 140mm Intel AMD",
-   "price_raw": "176.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920023041516?_skw=ventirad&hash=itemd635a585ec:g:HRYAAeSwMfRqyLO9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpva897SyW7UHGzgu36k%2BW8hgIobq1ucrD410fua3mpRpsl92xSfSfRaTdrozlt%2BH2aa1B59p2C4pmwaIPF4Q6c7Xb%2BAD1yy2G4Zb9tS%2Bl8uNAJRifTv1IxS1h6Jr8fzzQHkCLN%2BSMtZOjdWCMBGCwWz3tdlhB0yTwFmYRGuAzjtm51WKGNg8IJmPZCsq5O4h6LXyJqrb88qStXN0myuZnTIp69oKgoYgHzlkBlywg1vpOc7ZUJkHnEHJVfq2ewmtloy1ixyjGfE5Zmc7q3tlLooBPYxcCW9zkExQQ2UlfXQ%3D%3D",
-   "posted_at": "2026-10-09T09:28:41+00:00"
   },
   {
    "title": "PORT CONNECT • CLAVIER SANS FIL • KEYBOARD OFFICE PRO BLUETOOTH • AZERTY • NEUF",
@@ -457,13 +450,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227620513374?_skw=carte+graphique&hash=item34ff3d665e:g:KqQAAeSwfFBq~dzk",
    "posted_at": "2026-11-18T17:17:44+00:00"
-  },
-  {
-   "title": "PROCESSEUR SOCKET 7 INTEL PENTIUM MMX FV80503233 - 2.8V (1073)",
-   "price_raw": "23.58 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880130079432?_skw=processeur&hash=itemccebd73ac8:g:U~AAAeSwhK9q~dlF",
-   "posted_at": "2026-11-18T17:05:33+00:00"
   },
   {
    "title": "PC Portable 16\" Lenovo IdeaPad Slim 5 16IPH11 - OLED Intel, Core Ultra 5 322 16GoDDR5 512Go, wifi 7, Win11, Sans Chargeur",
@@ -574,7 +560,7 @@
    "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
    "price_raw": "14.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R6kPFaU8uTdcRPnUPlc1U%2BUemHktvTNnp3t%2BS1vX0lBTBKNy9O4zlVOL6khguxCj8N3SBQWCxoopigE6mpEZJ%2BPyoVg7c6sX0sPajtd2ox%2BtUDKWW8ob8dQrWlFFRh4Y1DS5SJw6vmxI7QdKgoPgebR",
+   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R6xpvqlrqul4ciTPLWEU46xANhLIBLw3KFS%2FZIhOOqwemHweUcQLPf3fmqYyROBOHfPKcEkYsLvYXpkS2ivJJjfNKbMKiu8%2BDNj%2F2CmP9zbNL3bdYiYFlUUO8RQtgEFCQifvXDOUDfr1V%2FS4a2hf6Ha",
    "posted_at": "2026-11-18T14:52:50+00:00"
   },
   {
@@ -646,10 +632,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-gamer-gigabyte-aero-x16-16-wqxga-165hz-amd-ryzen-ai-7-350-nvidia-geforce-rtx-5070-16-go-ram-ddr5-ssd-1-to-3460099",
    "posted_at": "2026-11-18T10:56:52+00:00"
+  },
+  {
+   "title": "Mini PC Acemagic AM18 - AMD Ryzen 5 7640HS, RAM 16 Go évolutif, SSD 512 Go évolutif, Wi-Fi 6, Bluetooth 5.2, Windows 11",
+   "price_raw": "389€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/acemagic-am18-amd-ryzen-5-7640hs-mini-pc-3460012",
+   "posted_at": "2026-11-18T10:13:00+00:00"
+  },
+  {
+   "title": "Ecran PC AOC 34\" - Incurvé, CU34G2XPD/BK, 34 Pouce, 180Hz, Fast VA",
+   "price_raw": "219€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/aoc-gaming-moniteur-incurve-cu34g2xpdbk-34-pouce-180hz-fast-va-3460048",
+   "posted_at": "2026-11-18T10:11:46+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2000,
+  "listings_seen": 1998,
   "models_with_reference": 59
  }
 }
