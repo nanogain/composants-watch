@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T19:08:00Z",
+ "generated_at": "2026-11-18T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-18T19:08:00.676325+00:00"
+   "items": 347,
+   "last_ok": "2026-11-18T19:38:00.669120+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 363,
-   "last_ok": "2026-11-18T19:08:00.676325+00:00"
+   "last_ok": "2026-11-18T19:38:00.669120+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-18T19:08:00.676325+00:00"
+   "items": 72,
+   "last_ok": "2026-11-18T19:38:00.669120+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70Hs0W92jhHETFcsFuKHobQhkeoG2sOpbptka%2FjuqYe9RZo%2BNSCQMr%2BN44%2BqCcV%2FAYmchVUIHHXcHcOUkksME5Fg6bwYZxxj6uFQ3GUgomjaCKjY1GjAsOmj5CbckGN5bj%2FS4q3Lj6tUgE0ju58CKow",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70rULb2S4u4Ze7QwRfM62Mgc7EHR7ecKTezh18YrvLE%2BTZ1B37KL2ePQLWjaQdjtALmAhgxZzwdGRpxxy8glm2Sp6tRoHcIJcX1PLkk1jreinCBsSWuu8gaepWYpPeaDffsWgjiE8yaLcyp6cW7ce6S",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -226,23 +226,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206710102743?_skw=ssd&hash=item3020e1dad7:g:uO0AAeSwrnxp1M0c",
    "posted_at": "2026-11-18T09:57:21+00:00"
-  },
-  {
-   "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
-   "model": "SSD:NVMe-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.0,
-   "shipping_eur": 3.9,
-   "effective_eur": 15.9,
-   "median_eur": 19.65,
-   "discount_pct": 19.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
-   "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
    "title": "Carte mère GIGABYTE B850 Eagle WIFI6E - AM5, DDR5, PCIe 5.0, 3x M.2, WiFi 6E, ATX",
@@ -297,6 +280,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Pack de 10 Filaments Creality Ender PLA 1,75 mm - pour Imprimante 3D, Anti-nœuds, Forte Adhérence (Vendeur Tiers)",
+   "price_raw": "79,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/creality-ender-pla-175-mm-pack-de-10-filaments-pour-imprimante-3d-anti-noeuds-forte-adherence-et-excellente-tenue-des-surplombs-3460675",
+   "posted_at": "2026-11-18T19:16:41+00:00"
+  },
   {
    "title": "Occasion : PC Portable 16\" V16 Gaming V3607VM-RP036W - Intel Core 7 240H, 16 Go DDR5, 1 To SSD, NVIDIA GeForce RTX 5060 (Etat Excellent)",
    "price_raw": "945,92€",
@@ -639,17 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/selection-de-pedalezs-electro-harmonix-en-promotion-exemple-triangle-big-muff-pi-3459864",
    "posted_at": "2026-11-18T07:58:43+00:00"
-  },
-  {
-   "title": "Souris sans fil Razer Naga V2 Pro - Capteur Optique Focus Pro 30K, Interrupteur de Souris Optique Gen-3",
-   "price_raw": "129,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-razer-naga-v2-pro-capteur-optique-focus-pro-30k-interrupteur-de-souris-optique-gen-3-3459857",
-   "posted_at": "2026-11-18T07:53:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2002,
-  "models_with_reference": 60
+  "listings_seen": 1998,
+  "models_with_reference": 58
  }
 }
