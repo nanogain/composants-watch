@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T20:08:00Z",
+ "generated_at": "2026-11-18T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 348,
-   "last_ok": "2026-11-18T20:08:00.702356+00:00"
+   "items": 349,
+   "last_ok": "2026-11-18T20:38:00.671916+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-18T20:08:00.702356+00:00"
+   "items": 360,
+   "last_ok": "2026-11-18T20:38:00.671916+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T20:08:00.702356+00:00"
+   "last_ok": "2026-11-18T20:38:00.671916+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72rMg2f6EXWVLlMWNACXy3WxQLRa5cAi2m76ekpkGRPGzI2C7lt%2FPSY4z8BDUNfhmjQXKLJOy9rduMYra1mVPwq2lPSDcpeqqvyCDq2TQC7fMsnRDShg8dRV5WDuIqTfQ00pQbC2%2Bhdf0jwOo2Ngyvt",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70mrz5mZbuza2sYNvnpND2MWLUgrYhKBaolDzrosi9qQl6dUvN%2Bz3LCd%2FkNtm4mdDKWv4lJKZ7GJrwHn5FjQ8tBolZvcRv5Z2Hajp5EftyMcSh8CcX71XShh1wzTfA06z5EHbbR7fTGDCB8ioNa8Xpp",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -280,6 +280,41 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "SSD portable NVMe 20Gbps Crucial X10 Pro (TLC) - 4To, IP55, Boitier alu, jusqu'à 2100 Mo/s, câble USBC inclus (CT4000X10PROSSD902)",
+   "price_raw": "448,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/crucial-x10-pro-4to-disque-ssd-externe-portable-jusqua-2100mos-en-lecture-et-2000mos-en-ecrituree-usb-c-32-pc-et-mac-3460743",
+   "posted_at": "2026-11-18T20:09:35+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Copilot+ HP OmniBook 3 - AMD Ryzen AI 5 - 340, 24 Go RAM, 512 Go SSD",
+   "price_raw": "899€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-copilot-hp-omnibook-3-amd-ryzen-ai-5-340-24-go-ram-3460751",
+   "posted_at": "2026-11-18T20:17:27+00:00"
+  },
+  {
+   "title": "Carte mère 1,8 GHz  i5 4 Go pour MacBook Air 13\" A1466 2017",
+   "price_raw": "64.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/318028116849?_skw=carte+m%C3%A8re&hash=item4a0bf3f371:g:pG4AAeSwuw9qu7Ny",
+   "posted_at": "2026-03-19T09:06:15+00:00"
+  },
+  {
+   "title": "Noctua NH-D15S chromax.black Ventirad CPU Silencieux 140mm Intel AMD",
+   "price_raw": "176.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920023041516?_skw=ventirad&hash=itemd635a585ec:g:HRYAAeSwMfRqyLO9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpva897SyW7UHGzgu36k%2BW8hgIobq1ucrD410fua3mpRpsl92xSfSfRaTdrozlt%2BH2aa1B59p2C4pmwaIPF4Q6c7Xb%2BAD1yy2G4Zb9tS%2Bl8uNAJRifTv1IxS1h6Jr8fzyXyNhRlCmbuXoj8Z1VdeRbVaLkzSrLhBtU%2FLZIWoEtxgAgr5nYam%2BLw6%2FfhawqOjEv4ynXk3QkO5dXXB69jguNkQsbQxa8Yb%2B1JbvnpQqx4uSVxEefzvHP3Xz2c%2B09j7C0oSL1ELbmALs48hKkPAXngVRd8hUAMaJLc2ooEWvdvg%3D%3D",
+   "posted_at": "2026-10-09T09:28:41+00:00"
+  },
+  {
+   "title": "PORT CONNECT • CLAVIER SANS FIL • KEYBOARD OFFICE PRO BLUETOOTH • AZERTY • NEUF",
+   "price_raw": "10.75 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/398094363626?_skw=clavier&hash=item5cb045ebea:g:EW4AAOSwfclliqga",
+   "posted_at": "2026-06-22T14:08:28+00:00"
+  },
   {
    "title": "SSD NVMe Ugreen Boîtier M.2 USB 3.2 Gen 2 10 Gbps Adaptateur",
    "price_raw": "21,99€",
@@ -379,13 +414,6 @@
    "posted_at": "2026-11-18T16:35:54+00:00"
   },
   {
-   "title": "Souris Gamer Filaire LOGITECH G502 Hero High Performance",
-   "price_raw": "28,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gamer-filaire-logitech-g502-hero-high-performance-3460518",
-   "posted_at": "2026-11-18T16:37:55+00:00"
-  },
-  {
    "title": "Imprimante multifonction Epson EcoTank ET-3956 - Blanc (via 60€ d'ODR)",
    "price_raw": "220,23€",
    "source": "dealabs",
@@ -463,6 +491,13 @@
    "posted_at": "2026-11-18T14:39:19+00:00"
   },
   {
+   "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2400T 1Rx8 288 broches MTA8ATF1G64AZ-2G3H1",
+   "price_raw": "25.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU",
+   "posted_at": "2026-11-18T14:39:45+00:00"
+  },
+  {
    "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
    "price_raw": "14.50 EUR",
    "source": "ebay",
@@ -482,6 +517,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-photo-portable-xiaomi-1s-technologie-zink-2x3-sans-encre-bluetooth-papier-adhesif-gris-3460349",
    "posted_at": "2026-11-18T14:18:10+00:00"
+  },
+  {
+   "title": "SK hynix RAM 8 Go DDR4 SDRAM DIMM PC4-3200AA 1Rx8 HMAG68EXNUA076N",
+   "price_raw": "29.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206710671728?_skw=ddr4&hash=item3020ea8970:g:IQMAAeSwzXpq~bcN",
+   "posted_at": "2026-11-18T14:34:26+00:00"
   },
   {
    "title": "Imprimante photo Fujifilm instax Square Link blanche, Bluetooth, tirages carrés",
@@ -547,13 +589,6 @@
    "posted_at": "2026-11-18T10:11:46+00:00"
   },
   {
-   "title": "SK hynix 16 Go DDR5 SDRAM SO-DIMM PC5-5600B 1x16 Go HMCG78AGBSA095N",
-   "price_raw": "104.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227619997072?_skw=ddr5&hash=item34ff358590:g:xL0AAeSw~Opq9tEw",
-   "posted_at": "2026-11-18T10:17:55+00:00"
-  },
-  {
    "title": "Imprimante multifonction HP DeskJet 2910 - Wi-Fi, compatible Instant Ink (via 35€ sur la carte)",
    "price_raw": "24,99€",
    "source": "dealabs",
@@ -594,45 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-121-lenovo-idea-tab-plus-25k-90hz-dimensity-6400-ram-6-go-128-go-stylet-coque-avec-clavier-folio-magnetique-detachable-3459939",
    "posted_at": "2026-11-18T08:47:23+00:00"
-  },
-  {
-   "title": "15% de réduction immédiate dès 150€ d’achat sur une sélection de tablettes Android + accessoires tablettes",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/15-de-remise-des-150eur-dachat-sur-une-selection-de-tablettes-android-accessoires-tablettes-3459931",
-   "posted_at": "2026-11-18T08:41:27+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Acer Nitro V 16 AI ANV16-42-R3JW - AMD Ryzen 7 260, GeForce RTX 5060 8 Go, RAM 16 Go, SSD 512 Go, WUXGA, 180Hz, Windows 11",
-   "price_raw": "1 149,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acer-pc-portable-gaming-acer-nitro-v-16-ai-anv16-42-r3jw-16-wuxga-180-hz-amd-ryzen-7-16-go-ram-512-go-ssd-3459913",
-   "posted_at": "2026-11-18T08:29:48+00:00"
-  },
-  {
-   "title": "[Adhérents] 15% de remise immédiate sur une sélection de tablettes",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-15-de-remise-immediate-sur-une-selection-de-tablettes-3459903",
-   "posted_at": "2026-11-18T08:24:18+00:00"
-  },
-  {
-   "title": "Console portable 7\" MSI Claw A1M-212FR - Core Ultra 5 135H, 1 To, écran FHD 120 Hz",
-   "price_raw": "499€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/console-portable-7-msi-claw-a1m-212fr-core-ultra-5-135h-1-to-ecran-fhd-120-hz-3459902",
-   "posted_at": "2026-11-18T08:24:10+00:00"
-  },
-  {
-   "title": "Liseuse 11\" Amazon Kindle Scribe - 32 Go",
-   "price_raw": "364,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amazon-kindle-scribe-32-go-nouvelle-generation-ecran-11-effet-papier-avec-eclairage-avant-plus-fin-leger-et-rapide-3459891",
-   "posted_at": "2026-11-18T08:16:34+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1993,
-  "models_with_reference": 58
+  "listings_seen": 2001,
+  "models_with_reference": 59
  }
 }
