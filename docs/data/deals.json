@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T21:38:00Z",
+ "generated_at": "2026-11-18T22:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 351,
-   "last_ok": "2026-11-18T21:38:00.675034+00:00"
+   "items": 350,
+   "last_ok": "2026-11-18T22:08:00.694571+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 364,
-   "last_ok": "2026-11-18T21:38:00.675034+00:00"
+   "items": 368,
+   "last_ok": "2026-11-18T22:08:00.694571+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T21:38:00.675034+00:00"
+   "last_ok": "2026-11-18T22:08:00.694571+00:00"
   }
  },
  "watchlist": [
@@ -109,21 +109,21 @@
    "posted_at": "2026-11-14T05:57:28+00:00"
   },
   {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
    "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9A4Tm60rEY9tkYGM1zuF5O%2BZq4CxA%2B%2FvpgDMQnA1cNrNaS2wqFN0mz0sX%2FUgClkg3DEqIJwQbP86Y5DQQSs43hptda0k8tSo6app0Fx%2FQjiYl3zucrVZVc7v9lGWcAymW7BNm8eV20bz67YSV8kjVHTiiuERWBRkB%2BZleuMRSlPA%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux%2FH76pLT4pEGxqdHWWZPKoXfUtpwmdrk1kYDxp8xx2GbuBLC9H3ZYJ2y4rwjjUdvn1PozC0qhP0sfLivdHCqu1JrP3gRXMOsB5dQBb2zP46%2BsDSzOIQTMBeBrSBK4Ytp2OkgjzItFYpFsGa4a3rkLS",
+   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "RAM 8 Go (2x4 Go) DDR4 2666 MHz Kingston KCP426NS6/4 PC4-21300 UDIMM PC bureau",
@@ -177,23 +177,6 @@
    "posted_at": "2026-11-16T16:24:55+00:00"
   },
   {
-   "title": "Kit RAM 32 Go (2x16 Go) DDR4 3200 MHz Corsair Vengeance LPX C16",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 198.3,
-   "shipping_eur": 0.0,
-   "effective_eur": 198.3,
-   "median_eur": 270.7,
-   "discount_pct": 26.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · matony4 (100,0 %, 329 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940103016393?_skw=ddr4&hash=itemdae2819fc9:g:e88AAeSwNldq~d6L",
-   "posted_at": "2026-11-18T17:22:58+00:00"
-  },
-  {
    "title": "Kit RAM 32 Go (2x16 Go) DDR4 3200 MHz Corsair Vengeance LPX CL16",
    "model": "RAM:DDR4-32Go-3200",
    "category": "RAM",
@@ -241,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE722EWCkbSFaWD2V3MHisGGedUvlzGKcTmRw4KwrD8xttG%2BD3bPq7s3T8vNKuDgz9nRAv%2Fakpyt4mQDyKtr0cJnb60PU9TwFlweqjpErRzftH%2FKQoPVLuKYN4gtjx3NZXTVFjLxQxiVFnn5FzHDxMBJ7",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72FGv1VjydbieC2L5BXxxW8GYQa5y0%2Bb0hstS6c6%2BeAOHnQWoq%2BoZSLXwsOTFX7hrtjSN13qWBbxILvusNsXxVwB1GlNInD7J0zHl%2FM5e38G6UlTPQFna519nMIfX9EHADo4OSGgKVcufxNCvDU6CAM",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -332,7 +315,7 @@
  ],
  "unclassified": [
   {
-   "title": "Caméra de surveillance TAPO - TP-LINK TC82 Kit solaire 2K IP65 avec batterie intégrée, Vision Nocturne Intérieure et Extérieure",
+   "title": "Caméra de surveillance Tapo TP-Link TC82 Kit solaire 2K IP65 avec batterie intégrée, Vision Nocturne Intérieure et Extérieure",
    "price_raw": "45,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/camera-de-surveillance-tapo-tp-link-tc82-kit-solaire-2k-ip65-vision-nocturne-interieure-et-exterieure-3460824",
@@ -346,7 +329,7 @@
    "posted_at": "2026-11-18T21:15:11+00:00"
   },
   {
-   "title": "PC Portable 13\" Apple MacBook Air - M5, 512 Go SSD, 32 Go RAM",
+   "title": "PC Portable Apple MacBook Air 13\" - M5, 512 Go SSD, 32 Go RAM",
    "price_raw": "1 639€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-512-go-ssd-32-go-ram-puce-m5-cpu-10-coeurs-gpu-10-coeurs-bleu-ciel-3460786",
@@ -374,13 +357,6 @@
    "posted_at": "2026-11-18T20:38:12+00:00"
   },
   {
-   "title": "Ecran PC 10,1 Pouces Moniteur Portable HDMI VGA AV BNC – Ecran CCTV Surveillance",
-   "price_raw": "139.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336869285657?_skw=%C3%A9cran+pc&hash=item4e6ef95f19:g:244AAeSwQxxq45Hh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfH54x79I9nHnZU0%2Fw7kuAyBYIzAEuVnMbF9oBGf9gIOLujzkezhqpkY0etmRpiGS4Lrafr8cGM79p1N5mjCrsJVpKYIOb9%2B%2Bzgiw0u6CVwkjwkaYmAHWImsBCYBsOVwnKDpIRwhcRPb8lCgHgspf4cNtpcqHWbO1fv7pYp%2FJoURySk0zQS3OD5ym%2B3uzF6weRgpMyC7KVLF77YZVq1r8JmkMe44PGwq683HawaXnklzminfSlcD3qP1EFvCv68JuXSyrnVbaUj2TlI0BX4RvDUCyrvVD0E6%2BkesJF9HI89Q%3D%3D",
-   "posted_at": "2026-10-29T18:34:11+00:00"
-  },
-  {
    "title": "SSD portable NVMe 20Gbps Crucial X10 Pro (TLC) - 4To, IP55, Boitier alu, jusqu'à 2100 Mo/s, câble USBC inclus (CT4000X10PROSSD902)",
    "price_raw": "448,99€",
    "source": "dealabs",
@@ -405,7 +381,7 @@
    "title": "Noctua NH-D15S chromax.black Ventirad CPU Silencieux 140mm Intel AMD",
    "price_raw": "176.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920023041516?_skw=ventirad&hash=itemd635a585ec:g:HRYAAeSwMfRqyLO9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpva897SyW7UHGzgu36k%2BW8hgIobq1ucrD410fua3mpRpsl92xSfSfRaTdrozlt%2BH2aa1B59p2C4pmwaIPF4Q6c7Xb%2BAD1yy2G4Zb9tS%2Bl8uNAJRifTv1IxS1h6Jr8fzznLsNp%2BoREJBNTpob--gxHzhDd2WY5SDwbcQCnCr2FmvqjautrcWSkg7I0QRfvtJhThQzsP%2BfGYzW2LJ1XWxGt5gTy%2FVQ7iP0FaDZV7gY%2BP4PUVi%2BHjoLqYefzrENKCb2j%2FqHHC6AmDsEwSMXcwy3UA2HLPsuB2n3KWDY6RA0dhg%3D%3D",
+   "url": "https://www.ebay.fr/itm/920023041516?_skw=ventirad&hash=itemd635a585ec:g:HRYAAeSwMfRqyLO9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpva897SyW7UHGzgu36k%2BW8hgIobq1ucrD410fua3mpRpsl92xSfSfRaTdrozlt%2BH2aa1B59p2C4pmwaIPF4Q6c7Xb%2BAD1yy2G4Zb9tS%2Bl8uNAJRifTv1IxS1h6Jr8fzwH5cR5lszknQL4roS%2BL1ssCXuav59RL5WiBpm%2BNl5kPtdfQrEnzS1iv0VHI9AaQSC1R6tzrKZDWSfwtSTnw9NG9gwiEGz7lpzTtUsiifouv3m8o5SRHzdYs%2BgVOEMWA812eVbHzKC%2BluaymGAvEfUzOEvafsavsP7ep9e283D61g%3D%3D",
    "posted_at": "2026-10-09T09:28:41+00:00"
   },
   {
@@ -680,10 +656,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/aoc-gaming-moniteur-incurve-cu34g2xpdbk-34-pouce-180hz-fast-va-3460048",
    "posted_at": "2026-11-18T10:11:46+00:00"
+  },
+  {
+   "title": "Imprimante multifonction HP DeskJet 2910 - Wi-Fi, compatible Instant Ink (via 35€ sur la carte)",
+   "price_raw": "24,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-carrefour-club-imprimante-multifonction-hp-deskjet-2910-wi-fi-compatible-instant-ink-via-35eur-sur-la-carte-3460000",
+   "posted_at": "2026-11-18T09:50:32+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2002,
+  "listings_seen": 1998,
   "models_with_reference": 60
  }
 }
