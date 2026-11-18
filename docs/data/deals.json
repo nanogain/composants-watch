@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T17:38:00Z",
+ "generated_at": "2026-11-18T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 352,
-   "last_ok": "2026-11-18T17:38:00.688977+00:00"
+   "items": 349,
+   "last_ok": "2026-11-18T18:08:00.680027+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-18T17:38:00.688977+00:00"
+   "items": 370,
+   "last_ok": "2026-11-18T18:08:00.680027+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T17:38:00.688977+00:00"
+   "last_ok": "2026-11-18T18:08:00.680027+00:00"
   }
  },
  "watchlist": [
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72fU5pOhSRqBRWZdoxuG9PK48HXWf%2FeaH4UgcufHX6bbiivgBygblBohSsBBTHi9zsdjgEpHRy7z8ujIErRM05iW%2BS5bjK%2FW9kS5JFbRUAiy96AyBBO3nLN2DK9oYh0pMVSmFNDiGXPiFJlcy4Z7IwJ",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72oA2rMDt5bV2GiE6ofRk5G7c9BVCHMwmcxrolIbbhBI5V4%2FeXS54mq4gTaDEoEr8ymViFB7jhxzZsmhU%2BEjzSQZHGZTcTMD3A5ENPb9VGMvqovcrSDEbmJbGPhkZdTvv4weVkj6Usd4tLqHJBS9kNG",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -311,43 +311,30 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-aoc-24g50f-fhd-180hz-ips-05ms-3455662",
    "posted_at": "2026-11-14T20:01:22+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" Asrock CL27FFB - FHD 144Hz IPS 1ms FreeSync",
-   "model": "MON:27-FHD-144Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 79.9,
-   "shipping_eur": null,
-   "effective_eur": 79.9,
-   "median_eur": 94.99,
-   "discount_pct": 15.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Grosbill",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-27-fhd-144hz-ips-1ms-freesync-3455552",
-   "posted_at": "2026-11-14T17:28:48+00:00"
-  },
-  {
-   "title": "Disc dur SSD SATA 2.5\" - 240GB PNY",
-   "model": "SSD:SATA-240Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 24.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 24.9,
-   "median_eur": 29.43,
-   "discount_pct": 15.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · recyclageinformatiquesologne (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960079902363?_skw=ssd&hash=itemdf8938b69b:g:CDUAAeSwQcNq063f",
-   "posted_at": "2026-10-17T17:19:43+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "Ecran PC 24\" TCL QD-Mini LED 24G645",
+   "price_raw": "199,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tcl-moniteur-gaming-qd-mini-led-24g645-3460608",
+   "posted_at": "2026-11-18T18:06:04+00:00"
+  },
+  {
+   "title": "[Étudiants] Tablette 13\" Oppo Pad 5 Pro - Snapdragon 8 Elite Gen 5, 8+256 Go, 13380 mAh (489€ pour les non-étudiants)",
+   "price_raw": "391,44€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/etudiants-tablette-13-oppo-pad-5-pro-snapdragon-8-elite-gen-5-8256-go-13380-mah-489eur-pour-les-autres-3460580",
+   "posted_at": "2026-11-18T17:39:46+00:00"
+  },
+  {
+   "title": "SK hynix 8 Go DDR4 SO-DIMM 260 broches PC4-2400T HMA81GS6AFR8N-UH",
+   "price_raw": "30.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206711071008?_skw=ddr4&hash=item3020f0a120:g:xjEAAeSweZpq4wnp",
+   "posted_at": "2026-11-18T17:57:40+00:00"
+  },
   {
    "title": "PNY NVIDIA Quadro FX 5800 4 Go GDDR3 – Carte Graphique Pro PCIe",
    "price_raw": "44.90 EUR",
@@ -601,13 +588,6 @@
    "posted_at": "2026-11-18T08:51:57+00:00"
   },
   {
-   "title": "SSD M2 Samsung 970 Evo Plus",
-   "price_raw": "259.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366818970725?_skw=ssd&hash=item55681d4c65:g:rBcAAeSw~otq-0U4",
-   "posted_at": "2026-11-18T09:33:47+00:00"
-  },
-  {
    "title": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh (Gris) + Étui de protection (Via ODR de 30€)",
    "price_raw": "140,14€",
    "source": "dealabs",
@@ -683,24 +663,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128202148165?_skw=ddr5&hash=item1dd9718945:g:9IYAAeSwYLtq~VVB",
    "posted_at": "2026-11-18T07:38:03+00:00"
-  },
-  {
-   "title": "Tapis de souris Glorious Element Ice",
-   "price_raw": "11,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/glorious-elements-ice-tapis-de-souris-gaming-3459823",
-   "posted_at": "2026-11-18T07:20:06+00:00"
-  },
-  {
-   "title": "Imprimante Epson EcoTank ET-1810 - Jet d'encre, rechargeable (via 20€ fidélité)",
-   "price_raw": "99,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-epson-ecotank-et-1810-jet-dencre-rechargeable-via-20eur-fidelite-3459810",
-   "posted_at": "2026-11-18T07:11:03+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1997,
-  "models_with_reference": 61
+  "listings_seen": 2002,
+  "models_with_reference": 62
  }
 }
