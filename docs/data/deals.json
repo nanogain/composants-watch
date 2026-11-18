@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T06:08:00Z",
+ "generated_at": "2026-11-18T06:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-18T06:08:00.678607+00:00"
+   "items": 342,
+   "last_ok": "2026-11-18T06:38:00.685821+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 368,
-   "last_ok": "2026-11-18T06:08:00.678607+00:00"
+   "last_ok": "2026-11-18T06:38:00.685821+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 76,
-   "last_ok": "2026-11-18T06:08:00.678607+00:00"
+   "items": 80,
+   "last_ok": "2026-11-18T06:38:00.685821+00:00"
   }
  },
  "watchlist": [
@@ -222,7 +222,7 @@
    "discount_pct": 20.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 208 avis)",
+   "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD",
    "posted_at": "2026-11-14T22:04:31+00:00"
@@ -339,7 +339,7 @@
    "posted_at": "2026-11-18T05:49:14+00:00"
   },
   {
-   "title": "Pc portable Acer 15.6\" FHD 60 Hz | AMD Ryzen 5 7430U | 16Go RAM | 512Go SSD | Windows 11 Home | Clavier FR AZERTY | Sans Adaptateur",
+   "title": "PC Portable 15,6\" Acer Aspire Go 15 AG15-42P-R273 - AMD Ryzen 5 7430U, RAM 16 Go DDR4 3200MHz, SSD 512 Go, FHD, 60Hz, Windows 11",
    "price_raw": "579€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-acer-156-fhd-60-hz-amd-ryzen-5-7430u-16go-ram-512go-ssd-windows-11-home-clavier-fr-azerty-sans-adaptateur-3459732",
@@ -365,13 +365,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206680784458?_skw=ddr4&hash=item301f227e4a:g:voAAAeSwsJpq7kaG",
    "posted_at": "2026-11-06T21:07:16+00:00"
-  },
-  {
-   "title": "KLEVV Cras V RGB DDR5 RAM 32GB (16GBx2) 6000 CL28 Noir DIMM",
-   "price_raw": "816.85 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227619289417?_skw=ddr5&hash=item34ff2ab949:g:-sEAAeSwE59q~MS9",
-   "posted_at": "2026-11-17T23:38:20+00:00"
   },
   {
    "title": "Écran Dell 17\" LCD 1280x1024 SXGA 60Hz 5:4 VGA Moniteur PC Testé",
@@ -475,7 +468,7 @@
    "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
    "price_raw": "26.22 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRgEM%2Bn%2FxrMEFL7VM%2FTTh7ndan1GaVq84ROoOZa%2FCBQVuQiX7MsIocP%2BI9sJYShxGiegS4vDk3Wfq%2FBDqSfaFLr3C8Fo5Sz0L7MQyG5n%2ByF2dJQdiDDfWHxMp6Aby2MqDfZuv7%2BfTJy5bw6MJvTdYdgm",
+   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRiBbZbPLQYDvJSRy2BQ%2FX%2BNno3BvvfYQxyZtDIoODZ0rrawhgzqRKa8jKWsu0hu%2FD%2Bu3ENTSplR%2F7KO5XjFiDQtaHZgsq56U4znGrF9o%2F3Zk7axzdVwkAv8wjGB7eitkswrSq2XCtpyStTzw0HHSM7q",
    "posted_at": "2026-11-17T16:35:36+00:00"
   },
   {
@@ -680,10 +673,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lot-de-2-cameras-exterieures-fcd800-poe-a-double-objectif-8mp-uhd-vue-panoramique-a-180-3458803",
    "posted_at": "2026-11-17T10:33:44+00:00"
+  },
+  {
+   "title": "Boitier PC Lian-Li Vector V100R MINI - 4 ventilateurs pré installé, RGB, Noir, Verre Trempé",
+   "price_raw": "63,18€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-lian-li-vector-v100r-mini-4-ventilateurs-pre-installe-rgb-noir-verre-trempe-3458791",
+   "posted_at": "2026-11-17T10:25:50+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1967,
+  "listings_seen": 1963,
   "models_with_reference": 61
  }
 }
