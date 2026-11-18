@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T18:08:00Z",
+ "generated_at": "2026-11-18T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-18T18:08:00.680027+00:00"
+   "items": 347,
+   "last_ok": "2026-11-18T18:38:00.668588+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 370,
-   "last_ok": "2026-11-18T18:08:00.680027+00:00"
+   "items": 369,
+   "last_ok": "2026-11-18T18:38:00.668588+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T18:08:00.680027+00:00"
+   "last_ok": "2026-11-18T18:38:00.668588+00:00"
   }
  },
  "watchlist": [
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72oA2rMDt5bV2GiE6ofRk5G7c9BVCHMwmcxrolIbbhBI5V4%2FeXS54mq4gTaDEoEr8ymViFB7jhxzZsmhU%2BEjzSQZHGZTcTMD3A5ENPb9VGMvqovcrSDEbmJbGPhkZdTvv4weVkj6Usd4tLqHJBS9kNG",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71dl4%2BRfMl%2F4i6EhPEZk7%2Fe7ERtVXXzwPG2aN7heHuGdcCOrzb%2BXN0sG4imIpKWp4t0DdYKLNGlUHBNd6ZmHywFdD6ozsSi5wyIIwEtNWSAARL%2BpeLStqlpfXjt4exBZAr%2FlV5pGmihg2veThl6ql%2FW",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -277,6 +277,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
    "posted_at": "2026-01-14T17:31:44+00:00"
+  },
+  {
+   "title": "Carte mère GIGABYTE B850 Eagle WIFI6E - AM5, DDR5, PCIe 5.0, 3x M.2, WiFi 6E, ATX",
+   "model": "MB:B850",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 124.9,
+   "shipping_eur": null,
+   "effective_eur": 124.9,
+   "median_eur": 154.1,
+   "discount_pct": 18.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-am5-ddr5-pcie-50-3x-m2-wifi-6e-atx-3460623",
+   "posted_at": "2026-11-18T18:17:21+00:00"
   },
   {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
@@ -315,6 +332,20 @@
  ],
  "unclassified": [
   {
+   "title": "Occasion : PC Portable 16\" V16 Gaming V3607VM-RP036W - Intel Core 7 240H, 16 Go DDR5, 1 To SSD, NVIDIA GeForce RTX 5060 (Etat Excellent)",
+   "price_raw": "945,92€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/asus-v16-gaming-v3607vm-rp036w-16-pouces-wuxga-144hz-pc-portable-intel-core-7-240h-up-to-52-ghz-16gb-ddr5-1tb-ssd-nvidia-rtx-5060-3460630",
+   "posted_at": "2026-11-18T18:36:15+00:00"
+  },
+  {
+   "title": "Samsung 8 Go DDR4 SO-DIMM 260 broches PC4-2666V M471A1K43CB1-CTD",
+   "price_raw": "29.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206711112682?_skw=ddr4&hash=item3020f143ea:g:FBAAAeSwb75q~eya",
+   "posted_at": "2026-11-18T18:24:05+00:00"
+  },
+  {
    "title": "Ecran PC 24\" TCL QD-Mini LED 24G645",
    "price_raw": "199,99€",
    "source": "dealabs",
@@ -322,7 +353,7 @@
    "posted_at": "2026-11-18T18:06:04+00:00"
   },
   {
-   "title": "[Étudiants] Tablette 13\" Oppo Pad 5 Pro - Snapdragon 8 Elite Gen 5, 8+256 Go, 13380 mAh (489€ pour les non-étudiants)",
+   "title": "[Étudiants] Tablette 13,2\" Oppo Pad 5 Pro - Snapdragon 8 Elite Gen 5, 8+256 Go, 13380 mAh (489€ pour les non-étudiants)",
    "price_raw": "391,44€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/etudiants-tablette-13-oppo-pad-5-pro-snapdragon-8-elite-gen-5-8256-go-13380-mah-489eur-pour-les-autres-3460580",
@@ -348,13 +379,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/880130079432?_skw=processeur&hash=itemccebd73ac8:g:U~AAAeSwhK9q~dlF",
    "posted_at": "2026-11-18T17:05:33+00:00"
-  },
-  {
-   "title": "SK hynix 8 Go DDR4 SO-DIMM PC4-2666V HMA81GS6DJR8N-VK L46698-002",
-   "price_raw": "26.23 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940103018834?_skw=ddr4&hash=itemdae281a952:g:jxIAAeSw~1Vq~d9b",
-   "posted_at": "2026-11-18T17:25:28+00:00"
   },
   {
    "title": "PC Portable 16\" Lenovo IdeaPad Slim 5 16IPH11 - OLED Intel, Core Ultra 5 322 16GoDDR5 512Go, wifi 7, Win11, Sans Chargeur",
@@ -588,6 +612,13 @@
    "posted_at": "2026-11-18T08:51:57+00:00"
   },
   {
+   "title": "SSD M2 Samsung 970 Evo Plus",
+   "price_raw": "259.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366818970725?_skw=ssd&hash=item55681d4c65:g:rBcAAeSw~otq-0U4",
+   "posted_at": "2026-11-18T09:33:47+00:00"
+  },
+  {
    "title": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh (Gris) + Étui de protection (Via ODR de 30€)",
    "price_raw": "140,14€",
    "source": "dealabs",
@@ -649,24 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/selection-de-pedalezs-electro-harmonix-en-promotion-exemple-triangle-big-muff-pi-3459864",
    "posted_at": "2026-11-18T07:58:43+00:00"
-  },
-  {
-   "title": "Souris sans fil Razer Naga V2 Pro - Capteur Optique Focus Pro 30K, Interrupteur de Souris Optique Gen-3",
-   "price_raw": "129,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-razer-naga-v2-pro-capteur-optique-focus-pro-30k-interrupteur-de-souris-optique-gen-3-3459857",
-   "posted_at": "2026-11-18T07:53:13+00:00"
-  },
-  {
-   "title": "Mémoire vive DDR5 16 Go Integral in5t16gnhrbx New",
-   "price_raw": "219.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128202148165?_skw=ddr5&hash=item1dd9718945:g:9IYAAeSwYLtq~VVB",
-   "posted_at": "2026-11-18T07:38:03+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2002,
+  "listings_seen": 2006,
   "models_with_reference": 62
  }
 }
