@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T04:38:00Z",
+ "generated_at": "2026-11-18T05:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-18T04:38:00.620205+00:00"
+   "last_ok": "2026-11-18T05:08:00.621426+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 364,
-   "last_ok": "2026-11-18T04:38:00.620205+00:00"
+   "items": 369,
+   "last_ok": "2026-11-18T05:08:00.621426+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 75,
-   "last_ok": "2026-11-18T04:38:00.620205+00:00"
+   "items": 76,
+   "last_ok": "2026-11-18T05:08:00.621426+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzC8etsDcafKe37Ckmy14yx%2BmOOwDUd9OwTc%2FjpxcLSwnFO5YxIxrLhQFa%2FtlgqN5WMBm3h8jl6V1Pyx8FldxRX3o1Co60j9nK75zx1ViN4oDrQQHJ6wdNprimNE2NbGMsxdpG2u7Au2e9xtKVhSztL",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzbQ%2F58YMEkgcUxYxDfeHegOXJg2PbOaNrv%2BZbhshA%2FzDWwD%2BjqEy7N%2B9Q4hc4bSFr%2BKCkDPXbsA4371Ivt2oToA5LpJa%2BMH%2F12ujVAEV%2Bwl3DhAA6qMMjI1ljwf8BtkXGnzHovbQy%2FbxSJgYA9kugg",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -209,6 +209,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b550m-acsm-am4-ddr4-pcie-40-2-x-m2-micro-atx-3455364",
    "posted_at": "2026-11-15T23:04:06+00:00"
+  },
+  {
+   "title": "RAM Micron 16 Go DDR4-3200 SO-DIMM PC4-25600 – MTA8ATF2G64HZ",
+   "model": "RAM:DDR4-16Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 62.06,
+   "shipping_eur": 4.0,
+   "effective_eur": 66.06,
+   "median_eur": 84.99,
+   "discount_pct": 22.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · pabx38 (100,0 %, 342 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407249823806?_skw=ddr4&hash=item5ed1fb283e:g:kFYAAeSw7xdquTVd",
+   "posted_at": "2026-09-27T15:27:20+00:00"
   },
   {
    "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
@@ -260,23 +277,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-245-msi-pro-mp252l-245-fhd-100hz-dalle-ips-1ms-adaptive-sync-hdr-ready-3452009",
    "posted_at": "2026-11-11T10:23:59+00:00"
-  },
-  {
-   "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
-   "model": "SSD:NVMe-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.0,
-   "shipping_eur": 3.9,
-   "effective_eur": 15.9,
-   "median_eur": 19.65,
-   "discount_pct": 19.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
-   "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
@@ -332,11 +332,32 @@
  ],
  "unclassified": [
   {
-   "title": "Moniteur LENOVO ThinkVision T2254PC 22 pouces DEL TN",
-   "price_raw": "68.00 EUR",
+   "title": "RAM pour ordinateur portable SK Hynix 16 Go DDR4-3200 1Rx8 SODIMM ",
+   "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137940890481?_skw=%C3%A9cran+pc&hash=item201deaf371:g:UiAAAeSwmz1q~Spf",
-   "posted_at": "2026-11-18T04:32:28+00:00"
+   "url": "https://www.ebay.fr/itm/407249751871?_skw=ddr4&hash=item5ed1fa0f3f:g:~OoAAeSwSb1quSZB",
+   "posted_at": "2026-09-27T14:36:08+00:00"
+  },
+  {
+   "title": "copy of Mémoire RAM HyperX Fury HX421C14FB/4 DDR4 2133MHz  Non-ECC CL144 Go DIMM",
+   "price_raw": "22.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287315629496?_skw=ddr4&hash=item42e55895b8:g:ZRAAAeSwEJpp-1Sb",
+   "posted_at": "2026-05-06T14:45:53+00:00"
+  },
+  {
+   "title": "Barrette RAM DDR4 4 Go 2400 MHz — RAMAXEL (PC Fixe)",
+   "price_raw": "12.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206680784458?_skw=ddr4&hash=item301f227e4a:g:voAAAeSwsJpq7kaG",
+   "posted_at": "2026-11-06T21:07:16+00:00"
+  },
+  {
+   "title": "KLEVV Cras V RGB DDR5 RAM 32GB (16GBx2) 6000 CL28 Noir DIMM",
+   "price_raw": "816.85 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227619289417?_skw=ddr5&hash=item34ff2ab949:g:-sEAAeSwE59q~MS9",
+   "posted_at": "2026-11-17T23:38:20+00:00"
   },
   {
    "title": "Écran Dell 17\" LCD 1280x1024 SXGA 60Hz 5:4 VGA Moniteur PC Testé",
@@ -402,13 +423,6 @@
    "posted_at": "2026-11-17T17:53:38+00:00"
   },
   {
-   "title": "Alimentation PC Modulaire Corsair RM1000x - ATX 3.1, PCIe 5.1, Certification Cybenetic Gold (105.9€ pour les nouveaux clients)",
-   "price_raw": "115,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-modulaire-corsair-rm1000x-atx-31-pcie-51-certification-cybenetic-gold-1059eur-pour-les-nouveaux-clients-3459386",
-   "posted_at": "2026-11-17T18:37:02+00:00"
-  },
-  {
    "title": "Carte Graphique EVGA GeForce GTX 480 -(C20)",
    "price_raw": "37.10 EUR",
    "source": "ebay",
@@ -461,7 +475,7 @@
    "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
    "price_raw": "26.22 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRjY24dK5fcsA7NPObs7y4mRIfvBQf%2BEHx3h5x%2BObUwCIKgy4gl0uMIWKTYPvgWxycUEE1rSnftqv7AjsMvYop29x7ZK2VZuySn6hfSvIkVb4H6l0uPHbkiwgsSXf%2FqheiDq0dbu50Oft0sKccl%2Fn76s",
+   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRiv0SHr2SzuDVoUhRnnkeC2ZsfV7gGAlJbcIz2DDHaunwnKX5TXARneZHq9DWAjDvfQ2uUpbI6tDasIgOtAwclO%2BnInHMqaW2fBO1ZyOO2cHX0CqDplGLnog%2BLgNrlpIOpwYFMhIL1KvzEN0wj2I6eU",
    "posted_at": "2026-11-17T16:35:36+00:00"
   },
   {
@@ -470,13 +484,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366817232593?_skw=ddr4&hash=item556802c6d1:g:6wAAAeSw6NZq1Oq6",
    "posted_at": "2026-11-17T16:40:13+00:00"
-  },
-  {
-   "title": "ASRock A320M-HDV R4.0 carte mère Socket AM4 DDR4 HDMI DVI VGA RJ-45",
-   "price_raw": "52.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900099316440?_skw=carte+m%C3%A8re&hash=itemd192199ad8:g:lr8AAeSweSdq~IIl",
-   "posted_at": "2026-11-17T16:35:38+00:00"
   },
   {
    "title": "Tablette Oledhonor Magicpad 2 - 12 Go / 256 Go, OLED 3K 144 Hz, Snapdragon 8s Gen 3",
@@ -547,13 +554,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/liseuse-vivlio-light-hd-color-bleu-acier-6-pouces-3459091",
    "posted_at": "2026-11-17T14:35:23+00:00"
-  },
-  {
-   "title": "AMD Processeur Ryzen 5 Pro 5655G 6 Cœurs 3,9 GHz / 4,4 GHz 65W Turbo Radeon",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327461408554?_skw=processeur&hash=item4c3e388f2a:g:Eq4AAeSwmJ5q~GKi",
-   "posted_at": "2026-11-17T14:25:23+00:00"
   },
   {
    "title": "Casque sans fil Sony WH-1000XM4C - 2026, Réduction du Bruit, Audio Haute Résolution, Processeur QN1 HD, Blanc",
@@ -683,7 +683,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1978,
-  "models_with_reference": 63
+  "listings_seen": 1975,
+  "models_with_reference": 61
  }
 }
