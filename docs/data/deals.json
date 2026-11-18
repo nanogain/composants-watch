@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T03:08:00Z",
+ "generated_at": "2026-11-18T03:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 343,
-   "last_ok": "2026-11-18T03:08:00.683704+00:00"
+   "last_ok": "2026-11-18T03:38:00.620098+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 361,
-   "last_ok": "2026-11-18T03:08:00.683704+00:00"
+   "items": 362,
+   "last_ok": "2026-11-18T03:38:00.620098+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-18T03:08:00.683704+00:00"
+   "items": 49,
+   "last_ok": "2026-11-18T03:38:00.620098+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzLN%2FVgB%2FEcGHHuYQPKVyzr9QXnjXfaUYzziAEY82gCQs3Na%2FnX8V2yCi2Mhm%2F0WUWrQ5j1qjC4MNhwHgG9AquRhzTRlYQOPGon7V6wy2IRaimj2kjyk84Dibs%2BkrNwpr1W8KT8ZEBpNsAm%2FNELHC4T",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxIXWsv1Ys5E6xTp5pybd2iEl%2FZ7aZM3hGNrTz6kGfT6vw4U6ABZy7JTXDswjaDz0a3s8rqp%2B1h9Xy%2BxxWnJo3wtv7xmHogpeNYgqceDBQ5%2F5pWYyGL7j9QhCp9%2FaDeVGmeZbDLSrAEdl1Kr8nYQm5L",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -315,13 +315,6 @@
  ],
  "unclassified": [
   {
-   "title": "KOORUI Écran PC Gamer 27 Pouces FHD 180Hz Incurvé 1500R Moniteur",
-   "price_raw": "198.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206599452343?_skw=%C3%A9cran+pc&hash=item301a4976b7:g:iPoAAeSwgZ1qwPam",
-   "posted_at": "2026-10-03T12:36:35+00:00"
-  },
-  {
    "title": "PC Portable 15\" Dell - i7-1355U, 16 Go DDR5 RAM, 1 To SSD",
    "price_raw": "849€",
    "source": "dealabs",
@@ -444,7 +437,7 @@
    "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
    "price_raw": "26.22 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRhCJM5I2PRwYT5%2FQcnxZhdfMk%2F0vtCqJfjRvMwcMaqOmSHjiLh7F%2F94asr1nb4Rb47%2BbSjgighScyLL%2FFW2mfdFM212TWtVTI0yHXxHm7EpXMGGwFk%2BX%2Fj7psmJ2mj1L9BfvSKv5U50yEKebXwpUc4i",
+   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRgeAIVEfMKCtWGeocTb8V6BJyNfRSKM7Uz8aIz5rOsCijgFuOL%2Ff5CgheCCJO1nr1k6Rcje1OVCN5mpI2yOfEWijO5e4bD0tUzmMedAaBAzY2irLB33DI1Yghcd4EVRuLwzHplf9PIFUn7lJqXjc6y8",
    "posted_at": "2026-11-17T16:35:36+00:00"
   },
   {
@@ -537,6 +530,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/liseuse-vivlio-light-hd-color-bleu-acier-6-pouces-3459091",
    "posted_at": "2026-11-17T14:35:23+00:00"
+  },
+  {
+   "title": "AMD Processeur Ryzen 5 Pro 5655G 6 Cœurs 3,9 GHz / 4,4 GHz 65W Turbo Radeon",
+   "price_raw": "125.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327461408554?_skw=processeur&hash=item4c3e388f2a:g:Eq4AAeSwmJ5q~GKi",
+   "posted_at": "2026-11-17T14:25:23+00:00"
   },
   {
    "title": "Casque sans fil Sony WH-1000XM4C - 2026, Réduction du Bruit, Audio Haute Résolution, Processeur QN1 HD, Blanc",
@@ -666,7 +666,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1978,
+  "listings_seen": 1975,
   "models_with_reference": 63
  }
 }
