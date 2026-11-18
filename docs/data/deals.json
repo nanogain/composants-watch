@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T07:08:00Z",
+ "generated_at": "2026-11-18T07:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-18T07:08:00.626117+00:00"
+   "items": 344,
+   "last_ok": "2026-11-18T07:38:00.678975+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-18T07:08:00.626117+00:00"
+   "items": 368,
+   "last_ok": "2026-11-18T07:38:00.678975+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 52,
-   "last_ok": "2026-11-18T07:08:00.626117+00:00"
+   "items": 80,
+   "last_ok": "2026-11-18T07:38:00.678975+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux%2F6uBYc1Ojk8lfIev%2FmkIKrPDttSyY%2Bkv7nltxgIeW7jmTzyz2Y8X6X%2FLZcARoNyyYfSmsgBZDOThCZWd69TS452QUdF%2FevRHvyGkDANNBbdeG7OJeEBkL4%2Bihk3XUvxAFsiRKLo4esBlaLGPj1Pe%2F",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyhiX40ZvchrNEqOqn%2FRHQZEZ%2FtNivtKbxzkm%2BS91w%2BTLyHvVPg62uuvIAf7NC1qJ4SdvYc7kBJT%2FnnDGzC5XOXL1sDVL%2Bzxdmx4HNCU9KIJMT%2BZCBMP4--XwdEJGGtR061YwYhjm5TPkCOmc4h64Md",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72036SpIgFdANGnXEEI028PTvbrjgIJlsJzt%2FUsaMTIi5hbokM88J70oB%2BX2AXPQpLxHjc1FhvJrZZ5zM0mVO3kcCYf%2FcqjHEhcwNL2%2FGQA9V4kpCD1%2FQPCNPCdygRNLDmAnf2b4gV5%2Bc%2FDqLU4xISi",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -277,23 +277,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-245-msi-pro-mp252l-245-fhd-100hz-dalle-ips-1ms-adaptive-sync-hdr-ready-3452009",
    "posted_at": "2026-11-11T10:23:59+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 486.95,
-   "discount_pct": 19.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
@@ -366,6 +349,27 @@
  ],
  "unclassified": [
   {
+   "title": "Tapis de souris Glorious Element Ice",
+   "price_raw": "11,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/glorious-elements-ice-tapis-de-souris-gaming-3459823",
+   "posted_at": "2026-11-18T07:20:06+00:00"
+  },
+  {
+   "title": "Imprimante Epson EcoTank ET-1810 - Jet d'encre, rechargeable (via 20€ fidélité)",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-epson-ecotank-et-1810-jet-dencre-rechargeable-via-20eur-fidelite-3459810",
+   "posted_at": "2026-11-18T07:11:03+00:00"
+  },
+  {
+   "title": "SK hynix RAM 4 Go DDR4 SDRAM PC4-2133P DIMM 288 broches Non ECC HMA451U6AFR8N-TF",
+   "price_raw": "12.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206709804977?_skw=ddr4&hash=item3020dd4fb1:g:nXYAAeSwxmxq~VGx",
+   "posted_at": "2026-11-18T07:21:44+00:00"
+  },
+  {
    "title": "PC Portable 16\" HP Omnibook 3 16-by0010nf - OLED, AMD Ryzen 7 7735U, 24 Go RAM DDR5, SSD 512 Go",
    "price_raw": "1 049,99€",
    "source": "dealabs",
@@ -390,7 +394,7 @@
    "title": "Processeur Intel Xeon E5-2690 V4 2,6 GHz 14 cœurs SR2N2 LGA2011-3 d'occasion",
    "price_raw": "41.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198804379674?_skw=processeur&hash=item2e49aa181a:g:iIAAAeSwBQtq~UfX",
+   "url": "https://www.ebay.fr/itm/198804379674?_skw=processeur&hash=item2e49aa181a:g:8WwAAeSwUwNq~VTd",
    "posted_at": "2026-11-18T06:38:09+00:00"
   },
   {
@@ -478,6 +482,13 @@
    "posted_at": "2026-11-17T17:53:38+00:00"
   },
   {
+   "title": "XIGMATEK Liquid Killer X 240 ARGB Arctic Blanc Watercooling CPU 2x 120mm",
+   "price_raw": "83.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/186540385599?_skw=watercooling&hash=item2b6eac653f:g:IbUAAeSwuQNq~Awn",
+   "posted_at": "2024-07-05T07:30:08+00:00"
+  },
+  {
    "title": "carte graphique NVIDIA GeFORCE GTX 680 2 GB DDR5 compatible Mac Pro",
    "price_raw": "37.10 EUR",
    "source": "ebay",
@@ -523,7 +534,7 @@
    "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
    "price_raw": "26.22 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRgnpmmDNkjGUSpMrgdfuZ1nYgSO1laXcxkRePacnMzfD8BpC5R4iQBeqck6KgwcqF84h6jtsiPeukJs7ZChZnyiHNROa3GW56kz6K3THcIslt7iZ7ZZFqUIaGJhJ2Pu1RWMurDbRzJbhi9GJZbOsQ0l",
+   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRju3vEnt0JWZCpZCaqX%2BltcBmq36qduVShN3483pQC2pLiOn3T%2BPSbgvVig0bRJ8o%2BnUQ5zvI1BIZCibkW%2BHFfQZgs4BF8Vb9T1N5E41pkZq3vMcpeKJBaKjs%2B2HVjdAsTcRXFU6kR5R4YqUyJfeLzz",
    "posted_at": "2026-11-17T16:35:36+00:00"
   },
   {
@@ -686,38 +697,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/manette-sans-fil-dualsense-edition-speciale-icon-blue-pour-ps5-pc-mac-et-mobile-3458920",
    "posted_at": "2026-11-17T12:25:29+00:00"
-  },
-  {
-   "title": "Ecran PC 21,5\" Iiyama LED G-Master G2245HSU-B1 Black Hawk - 1 ms (MPRT), Dalle IPS, 100 Hz",
-   "price_raw": "66,64€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-215-iiyama-led-g-master-g2245hsu-b1-black-hawk-1-ms-mprt-dalle-ips-100-hz-3458865",
-   "posted_at": "2026-11-17T11:29:08+00:00"
-  },
-  {
-   "title": "Webcam Logitech Brio 4K",
-   "price_raw": "99,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-brio-4k-webcam-3458849",
-   "posted_at": "2026-11-17T11:14:10+00:00"
-  },
-  {
-   "title": "Souris sans fil MSI Versa 300 Wireless - Capteur Optique 8000 DPI, Taux de Rapport 1000Hz",
-   "price_raw": "19,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-msi-versa-300-wireless-capteur-optique-8000-dpi-taux-de-rapport-1000hz-3458848",
-   "posted_at": "2026-11-17T11:14:00+00:00"
-  },
-  {
-   "title": "[Laptop] ASUS Zenbook S14 - 14-inch 2880x1800 120hz OLED - Core Ultra 9 386H, 32GB RAM, 1TB SSD, 2.76 lbs - $1299",
-   "price_raw": "$1299",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xyhq93/laptop_asus_zenbook_s14_14inch_2880x1800_120hz/",
-   "posted_at": "2026-11-17T11:08:27+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1965,
+  "listings_seen": 1970,
   "models_with_reference": 62
  }
 }
