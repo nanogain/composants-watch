@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T16:38:00Z",
+ "generated_at": "2026-11-18T17:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-18T16:38:00.682285+00:00"
+   "items": 352,
+   "last_ok": "2026-11-18T17:08:00.690359+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-18T16:38:00.682285+00:00"
+   "items": 375,
+   "last_ok": "2026-11-18T17:08:00.690359+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T16:38:00.682285+00:00"
+   "last_ok": "2026-11-18T17:08:00.690359+00:00"
   }
  },
  "watchlist": [
@@ -177,6 +177,23 @@
    "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
+   "title": "SSD M2 NVMe 500 Go Kingston FURY Renegade PCIe 4.0 (Santé 98%)",
+   "model": "SSD:NVMe-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 63.1,
+   "shipping_eur": 0.0,
+   "effective_eur": 63.1,
+   "median_eur": 82.77,
+   "discount_pct": 23.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · theagp44 (100,0 %, 327 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128203160400?_skw=ssd&hash=item1dd980fb50:g:NpAAAeSwBQtq~dVo",
+   "posted_at": "2026-11-18T16:43:02+00:00"
+  },
+  {
    "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -190,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71KJLRGQ4rD9crH%2FOwE9X4C5RAf6qxzI0Gj3yLHb%2B4O2mEx7IIhGx6g5SOX%2F9hbT1h4aJH8f5TTGs%2Bk9aoesbjiFMMjVA4YzxpMSgav8qk%2FICNZJU%2FtwIEUzsVsdzTCFrHVv1ixsJRpzyTpi7GRl3gu",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72vlUalc8dGwIafbA3nLb3UreNC8ASiZZ4ZO9TR5bWRoc7OkadiTfOu7hL8hMM90c1zaHdAE3XIB82MUOxu4OZmt%2FgsQacdi7ghbcz12Hv6hdJK8gZf8KixM2a64HeDRBUk837Yo1B%2BJ7y8P7t5WOja",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -209,6 +226,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206710102743?_skw=ssd&hash=item3020e1dad7:g:uO0AAeSwrnxp1M0c",
    "posted_at": "2026-11-18T09:57:21+00:00"
+  },
+  {
+   "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
+   "model": "SSD:NVMe-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 12.0,
+   "shipping_eur": 3.9,
+   "effective_eur": 15.9,
+   "median_eur": 19.65,
+   "discount_pct": 19.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bons_prix_bons_produits (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
+   "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
@@ -264,6 +298,27 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 16\" Lenovo IdeaPad Slim 5 16IPH11 - OLED Intel, Core Ultra 5 322 16GoDDR5 512Go, wifi 7, Win11, Sans Chargeur",
+   "price_raw": "839,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-portable-lenovo-ideapad-slim-5-16iph11-16-oled-intel-core-ultra-5-322-16goddr5-512go-wifi-7-win11-3460546",
+   "posted_at": "2026-11-18T17:04:20+00:00"
+  },
+  {
+   "title": "Carte Graphique NVIDIA Quadro P2000  PCI Express x16, 4x DisplayPort, ",
+   "price_raw": "63.09 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900101860243?_skw=carte+graphique&hash=itemd192406b93:g:OI4AAeSwYLtq~dYb",
+   "posted_at": "2026-11-18T16:48:07+00:00"
+  },
+  {
+   "title": "Carte Graphique Lenovo NVIDIA GeForce GT 730 (2 Go DDR3) OEM ",
+   "price_raw": "52.69 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900101839555?_skw=carte+graphique&hash=itemd192401ac3:g:fBsAAeSwAhhq~dEQ",
+   "posted_at": "2026-11-18T16:35:54+00:00"
+  },
+  {
    "title": "Souris Gamer Filaire LOGITECH G502 Hero High Performance",
    "price_raw": "28,99€",
    "source": "dealabs",
@@ -292,7 +347,7 @@
    "posted_at": "2026-11-18T16:26:28+00:00"
   },
   {
-   "title": "PC Portable 15.6\" TECNO K15SRA Alu FHD INTEL Core i9-13900HK - 16 Go RAM DDR4, SSD 1 To, Wifi6E+RJ45, Win11",
+   "title": "PC Portable 15.6\" TECNO K15SRA Alu FHD INTEL Core i9-13900HK - 16 Go DDR4, SSD 1 To, Wifi6E+RJ45, Win11",
    "price_raw": "699,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-156-tecno-k15sra-alu-fhd-intel-core-i9-13900hk-16-go-ram-ddr4-ssd-1-to-wifi6erj45-win11-offre-trade-in-100eur-3460501",
@@ -591,31 +646,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-hp-omnibook-3-16-16-oled-amd-ryzen-7-7735u-24-go-ram-ddr5-ssd-512-go-3459782",
    "posted_at": "2026-11-18T07:02:41+00:00"
-  },
-  {
-   "title": "Routeur Tenda 4G03 Pro V2.0 - 4G, WiFi, SIM Box N300 LTE",
-   "price_raw": "37,89€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tenda-4g-wifi-router-with-sim-box-n300-lte-cat4-mobile-4g03-pro-v20-4-foldable-antennas-usb-c-power-supply-lanwan-3459774",
-   "posted_at": "2026-11-18T06:39:39+00:00"
-  },
-  {
-   "title": "Souris verticale sans fil Razer Pro Click V2 Vertical - Droitier, Chroma RGB, 9 Boutons, pour Windows & Mac",
-   "price_raw": "78,01€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-verticale-gaming-sans-fil-razer-pro-click-v2-vertical-pour-droitier-windows-mac-6-mois-dautonomie-chroma-rgb-9-boutons-3459773",
-   "posted_at": "2026-11-18T06:38:21+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Acer Aspire Go 15 AG15-42P-R273 - AMD Ryzen 5 7430U, RAM 16 Go DDR4 3200MHz, SSD 512 Go, FHD, 60Hz, Windows 11",
-   "price_raw": "579€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-acer-156-fhd-60-hz-amd-ryzen-5-7430u-16go-ram-512go-ssd-windows-11-home-clavier-fr-azerty-sans-adaptateur-3459732",
-   "posted_at": "2026-11-18T05:08:37+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1994,
-  "models_with_reference": 60
+  "listings_seen": 1996,
+  "models_with_reference": 61
  }
 }
