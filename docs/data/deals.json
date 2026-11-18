@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T13:08:00Z",
+ "generated_at": "2026-11-18T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 357,
-   "last_ok": "2026-11-18T13:08:00.628024+00:00"
+   "items": 359,
+   "last_ok": "2026-11-18T13:38:00.670157+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-18T13:08:00.628024+00:00"
+   "items": 369,
+   "last_ok": "2026-11-18T13:38:00.670157+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T13:08:00.628024+00:00"
+   "last_ok": "2026-11-18T13:38:00.670157+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FhVU7CztNqFippWEh0F0OFcLn0WPqSzUsm6kXAp%2F4yNvP3lGq4xej0fiy6jxsTYTl5G8uKgeYukfeUfukiRMXNvXvCquUe8XhpoYmC%2BjW2tl1jv28S3l%2Bk9hcshzNeouT1dR%2BMVeJBpIm5fKO%2FnmvNvYqK0NDoR4z7%2BRGpWtYxJw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FnW7%2BI9viUY4jJpAeno5JMMovoPLR4aQJx2pUpQe97G0q6B4agFD0AXmPOteMs6VUbKMm%2BYVEgdahDObLvI7tvAuMfmkF381279qpC4O16SlglNIzoSAKU6dwXnMyWquyPY02waSkh9VberCzY%2B49Ok35IoB97jFdEHLzDGUNJJQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70MEP2QoJ4416S6rX2wouYM83maZOoXptrN%2B77vYf7NvG0hocJwqoChN8oJ6znR9BRbRp2sCOCxf%2Frasrysy%2FjLk6HpmDXSV9Ciyha9XubqTVjwEFawBPEKcZGMq7nHPpOEw8QlqQ%2BWmpyay9TJCet8",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE705UlGusdc8eLGMPUPEF3LOG1%2Bvc0CkuTz%2FDLHc92lAPb%2BIJOrj8I3YioUPwtA6fDzKU29QCWlsR6S8Jlg3uxfpbY9HS7hQFS7dq7YvkCDLkpMLb97pXsifCQH1FdhVoTgI7MC2dE8zPij1Z7JVv4cR",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -311,23 +311,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-27-fhd-144hz-ips-1ms-freesync-3455552",
    "posted_at": "2026-11-14T17:28:48+00:00"
-  },
-  {
-   "title": "Disc dur SSD SATA 2.5\" - 240GB PNY",
-   "model": "SSD:SATA-240Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 24.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 24.9,
-   "median_eur": 29.43,
-   "discount_pct": 15.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · recyclageinformatiquesologne (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960079902363?_skw=ssd&hash=itemdf8938b69b:g:CDUAAeSwQcNq063f",
-   "posted_at": "2026-10-17T17:19:43+00:00"
   }
  ],
  "unclassified": [
@@ -598,6 +581,13 @@
    "posted_at": "2026-11-17T22:51:53+00:00"
   },
   {
+   "title": "Lot de 3 processeurs APU AMD A10-9700E avec Radeon R7 Series - socket AM4",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287737351480?_skw=processeur&hash=item42fe7b8d38:g:35cAAeSw5X1q~MpD",
+   "posted_at": "2026-11-17T21:45:58+00:00"
+  },
+  {
    "title": "PC Portable 14\" Hp OmniBook 3 14-hy0032nfx - 16 Go RAM, 512 Go SSD",
    "price_raw": "629,99€",
    "source": "dealabs",
@@ -640,6 +630,13 @@
    "posted_at": "2026-11-17T17:53:38+00:00"
   },
   {
+   "title": "XIGMATEK Liquid Killer X 240 ARGB Arctic Blanc Watercooling CPU 2x 120mm",
+   "price_raw": "83.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/186540385599?_skw=watercooling&hash=item2b6eac653f:g:7VkAAeSw6DFq~VyE",
+   "posted_at": "2024-07-05T07:30:08+00:00"
+  },
+  {
    "title": "carte graphique NVIDIA GeFORCE GTX 680 2 GB DDR5 compatible Mac Pro",
    "price_raw": "37.10 EUR",
    "source": "ebay",
@@ -666,24 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ablette-123-honor-magic-pad-4-ram-8-go-256-go-avec-clavier-honor-smart-keyboard-stylet-honor-magic-pencil-4s-3459291",
    "posted_at": "2026-11-17T17:02:28+00:00"
-  },
-  {
-   "title": "Ventilateur de Boîtier Thermalright TL-UB36 - Cadre Unique, ARGB, (vendeur tiers)",
-   "price_raw": "32,23€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ventilateur-de-boitier-thermalright-tl-ub36-cadre-unique-argb-3459270",
-   "posted_at": "2026-11-17T16:38:11+00:00"
-  },
-  {
-   "title": "[GPU] XFX Swift AMD Radeon RX 9070GRE Triple Fan Gaming Graphics Card with 12GB GDDR6 PCI Express 5.0 HDMI 3xDP, AMD RDNA 4 White - $569.99",
-   "price_raw": "$569.99",
-   "source": "reddit",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xyq049/gpu_xfx_swift_amd_radeon_rx_9070gre_triple_fan/",
-   "posted_at": "2026-11-17T17:08:00+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1980,
-  "models_with_reference": 61
+  "listings_seen": 1978,
+  "models_with_reference": 62
  }
 }
