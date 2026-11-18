@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T20:38:00Z",
+ "generated_at": "2026-11-18T21:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-18T20:38:00.671916+00:00"
+   "items": 350,
+   "last_ok": "2026-11-18T21:08:00.661354+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 360,
-   "last_ok": "2026-11-18T20:38:00.671916+00:00"
+   "items": 364,
+   "last_ok": "2026-11-18T21:08:00.661354+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T20:38:00.671916+00:00"
+   "last_ok": "2026-11-18T21:08:00.661354+00:00"
   }
  },
  "watchlist": [
@@ -107,6 +107,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
    "posted_at": "2026-11-14T05:57:28+00:00"
+  },
+  {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8rY2uhByy8iXWsDw76CNBi32rfynvpxAw94wpWrO06z4N8rYRh%2BnvdMXbBlDCP4AcQ35Q%2BlQQU7gVgXbxTugfth0eFJDhx2AfINuN25qIREZ%2BzdSYTtreys8iV%2FCOXMsim825FeiqTUgCNWxvKh5Fo2m6rbIcFNxnUtP6CXNYboA%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
@@ -207,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70mrz5mZbuza2sYNvnpND2MWLUgrYhKBaolDzrosi9qQl6dUvN%2Bz3LCd%2FkNtm4mdDKWv4lJKZ7GJrwHn5FjQ8tBolZvcRv5Z2Hajp5EftyMcSh8CcX71XShh1wzTfA06z5EHbbR7fTGDCB8ioNa8Xpp",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE723AlCXRFb2dRgJ7Jc%2BabRbarb9om68UFpLpiVJ2c2jRTZY%2Fww%2F2kyz0dVLiubMDXmnI%2B9aVmpoyV9Js3GekZql5VzaeFK5%2FZON%2FmvUM49txNCd4SGJIRwBtPCqYXiJ0pEdxit0eoRv%2FcnD6W0TQw2%2F",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -277,9 +294,61 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-aoc-24g50f-fhd-180hz-ips-05ms-3455662",
    "posted_at": "2026-11-14T20:01:22+00:00"
+  },
+  {
+   "title": "Disc dur SSD SATA 2.5\" - 240GB PNY",
+   "model": "SSD:SATA-240Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 24.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.9,
+   "median_eur": 29.43,
+   "discount_pct": 15.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · recyclageinformatiquesologne (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960079902363?_skw=ssd&hash=itemdf8938b69b:g:CDUAAeSwQcNq063f",
+   "posted_at": "2026-10-17T17:19:43+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 13\" Apple MacBook Air - M5, 512 Go SSD, 32 Go RAM",
+   "price_raw": "1 639€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-512-go-ssd-32-go-ram-puce-m5-cpu-10-coeurs-gpu-10-coeurs-bleu-ciel-3460786",
+   "posted_at": "2026-11-18T20:55:14+00:00"
+  },
+  {
+   "title": "Ecran PC 32\" Asus ROG Swift OLED PG32UCDP - 240/480Hz",
+   "price_raw": "799€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-gaming-4k-32-240480hz-asus-rog-swift-oled-pg32ucdp-3460785",
+   "posted_at": "2026-11-18T20:54:27+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Asus TUF Gaming A16 TUF607 - AMD Ryzen 7 170, 16 Go RAM, 512 Go SSD, RTX 4050 6Go (Sans Windows)",
+   "price_raw": "889,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-asus-tuf-gaming-a16-tuf607-sans-windows-16-wuxga-rtx-4050-6go-amd-ryzen-7-170-ram-16go-512go-ssd-3460779",
+   "posted_at": "2026-11-18T20:48:55+00:00"
+  },
+  {
+   "title": "SSD externe portable USB-C 3.2 Crucial X10 Pro - 2 To",
+   "price_raw": "286,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/crucial-x10-pro-2to-disque-ssd-externe-portable-jusqua-2100mos-en-lecture-et-2000mos-en-ecrituree-usb-c-32-pc-et-mac-3460766",
+   "posted_at": "2026-11-18T20:38:12+00:00"
+  },
+  {
+   "title": "Ecran PC 10,1 Pouces Moniteur Portable HDMI VGA AV BNC – Ecran CCTV Surveillance",
+   "price_raw": "139.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336869285657?_skw=%C3%A9cran+pc&hash=item4e6ef95f19:g:244AAeSwQxxq45Hh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfH54x79I9nHnZU0%2Fw7kuAyBYIzAEuVnMbF9oBGf9gIOLujzkezhqpkY0etmRpiGS4Lrafr8cGM79p1N5mjCrsJVpKYIOb9%2B%2Bzgiw0u6CVwkjwkaYmAHWImsBCYBsOVwmnUIiRxTDKcrSfALn88s1hH%2Bi%2F0v2uIzr6wkkh4UYDp8wC0WMWnoq3mc%2Ffn2UzG7hM6Ytll0K7DiONBNWv1erLtZNWrulFrSbTO6qRKLUNjV2EioOWBw3eZDkwowC0KaLdzgotSetxklUJaRvTX6s8fR38Mc%2Fmyi9Aixq3iM1gqQ%3D%3D",
+   "posted_at": "2026-10-29T18:34:11+00:00"
+  },
   {
    "title": "SSD portable NVMe 20Gbps Crucial X10 Pro (TLC) - 4To, IP55, Boitier alu, jusqu'à 2100 Mo/s, câble USBC inclus (CT4000X10PROSSD902)",
    "price_raw": "448,99€",
@@ -305,7 +374,7 @@
    "title": "Noctua NH-D15S chromax.black Ventirad CPU Silencieux 140mm Intel AMD",
    "price_raw": "176.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920023041516?_skw=ventirad&hash=itemd635a585ec:g:HRYAAeSwMfRqyLO9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpva897SyW7UHGzgu36k%2BW8hgIobq1ucrD410fua3mpRpsl92xSfSfRaTdrozlt%2BH2aa1B59p2C4pmwaIPF4Q6c7Xb%2BAD1yy2G4Zb9tS%2Bl8uNAJRifTv1IxS1h6Jr8fzyXyNhRlCmbuXoj8Z1VdeRbVaLkzSrLhBtU%2FLZIWoEtxgAgr5nYam%2BLw6%2FfhawqOjEv4ynXk3QkO5dXXB69jguNkQsbQxa8Yb%2B1JbvnpQqx4uSVxEefzvHP3Xz2c%2B09j7C0oSL1ELbmALs48hKkPAXngVRd8hUAMaJLc2ooEWvdvg%3D%3D",
+   "url": "https://www.ebay.fr/itm/920023041516?_skw=ventirad&hash=itemd635a585ec:g:HRYAAeSwMfRqyLO9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpva897SyW7UHGzgu36k%2BW8hgIobq1ucrD410fua3mpRpsl92xSfSfRaTdrozlt%2BH2aa1B59p2C4pmwaIPF4Q6c7Xb%2BAD1yy2G4Zb9tS%2Bl8uNAJRifTv1IxS1h6Jr8fzyyriMAJ5YTfvkEQWAb%2FDJ5pSJ8UoZKl%2BZmPcRSBLnPb7t4F9f%2Brtkcyvdw%2B0kFftaskFhjYrZe7VUbqU8jlrJcmmveXnU%2FdpJlL9UZpnrcZveJN5xSyhQdf4sUYfweEkF%2FFM3jzMiFzkxs0ADW8QQaTHlcTF6lxj71OYPAD%2BkHIQ%3D%3D",
    "posted_at": "2026-10-09T09:28:41+00:00"
   },
   {
@@ -498,13 +567,6 @@
    "posted_at": "2026-11-18T14:39:45+00:00"
   },
   {
-   "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
-   "price_raw": "14.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst",
-   "posted_at": "2026-11-18T14:52:50+00:00"
-  },
-  {
    "title": "Mini PC NiPoGi AMD Ryzen 7 7730U 16 Go RAM 1 To SSD Windows 11 Pro E3B Noir (Vendeur Tiers)",
    "price_raw": "379,90€",
    "source": "dealabs",
@@ -601,38 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-logitech-g-g305-lightspeed-et-clavier-gaming-mecanique-logitech-g413-tkl-se-3459968",
    "posted_at": "2026-11-18T09:18:08+00:00"
-  },
-  {
-   "title": "20% de Remises dès 200€ d’achat sur une sélection d’imprimantes - Ex : Epson EcoTank ET-2956 Recto-Verso (via ODR 40€)",
-   "price_raw": "152,28€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/selection-dimprimantes-20-des-200-eur-cumulables-ex-multifonction-epson-ecotank-et-2956-recto-verso-a-15199-eur-via-odr-40-eur-3459945",
-   "posted_at": "2026-11-18T08:51:57+00:00"
-  },
-  {
-   "title": "SSD M2 Samsung 970 Evo Plus",
-   "price_raw": "259.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366818970725?_skw=ssd&hash=item55681d4c65:g:rBcAAeSw~otq-0U4",
-   "posted_at": "2026-11-18T09:33:47+00:00"
-  },
-  {
-   "title": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh (Gris) + Étui de protection (Via ODR de 30€)",
-   "price_raw": "140,14€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-gris-etui-de-protection-via-odr-de-30eur-3459944",
-   "posted_at": "2026-11-18T08:51:05+00:00"
-  },
-  {
-   "title": "Tablette 12.1\" Lenovo Idea Tab Plus (2.5K 90Hz, Dimensity 6400, RAM 6 Go, 128 Go) + Stylet + Coque avec Clavier Folio magnétique détachable",
-   "price_raw": "255,14€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-121-lenovo-idea-tab-plus-25k-90hz-dimensity-6400-ram-6-go-128-go-stylet-coque-avec-clavier-folio-magnetique-detachable-3459939",
-   "posted_at": "2026-11-18T08:47:23+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2001,
+  "listings_seen": 2003,
   "models_with_reference": 59
  }
 }
