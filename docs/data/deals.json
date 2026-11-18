@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T23:08:00Z",
+ "generated_at": "2026-11-18T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 350,
-   "last_ok": "2026-11-18T23:08:00.674013+00:00"
+   "items": 349,
+   "last_ok": "2026-11-18T23:38:00.678472+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-18T23:08:00.674013+00:00"
+   "items": 365,
+   "last_ok": "2026-11-18T23:38:00.678472+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T23:08:00.674013+00:00"
+   "last_ok": "2026-11-18T23:38:00.678472+00:00"
   }
  },
  "watchlist": [
@@ -107,6 +107,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
    "posted_at": "2026-11-14T05:57:28+00:00"
+  },
+  {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9KoJcvqL4fmOc64vxLUebD%2Fyz4qcjliCUinM%2Fiond0lvrZD58Flj%2B2WWyBwLEEb9hffD1Ny8Y571a%2BT%2BRqkm0npUix%2BVvhY%2F9WO%2FERPfV5809VI9Ju0xENdETKhtTP53NehXSXjsqiUS3wmvRvxsnegdwovqTMxv59jCh5Q5B7XA%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": "RAM 8 Go (2x4 Go) DDR4 2666 MHz Kingston KCP426NS6/4 PC4-21300 UDIMM PC bureau",
@@ -207,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71zLTSLp%2FsJIFHNZpZa9SqAVBdlCdsarTn6DrXqVK7o5bn%2Fvw7f%2FyF4GLLFb9mly3oMKs9jSBeKifw2rNKZzpLpPNnpXA3lxc5zRCyU2mKL0mArda6Tem9rz2HYO1Zse0Btzd5du3rjugNGXu7WBtjy",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE720DdYrMQe2b1AKlGExLJkIlcCynfcm5qFD9ex0krfFF6gs6%2FW5oaRkvT97hA%2BUbZyIoESwauLBbK7%2B0XVaw69EYArDM1GigsQkYkI%2BwWJHNJTKBfjibY29Mh%2F3eBRZwh4NZAxWKasOrVIdCnjmzBje",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -298,6 +315,34 @@
  ],
  "unclassified": [
   {
+   "title": "Dongle Bluetooth TP-Link 6.0 USB Nano, clé Bluetooth pour PC, UB600",
+   "price_raw": "7,59€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tp-link-dongle-bluetooth-60-usb-nano-cle-bluetooth-pour-pc-ub600-3460943",
+   "posted_at": "2026-11-18T23:29:07+00:00"
+  },
+  {
+   "title": "Tablette 11\" Amazon Alexa Tablet 11 - 2.5K 90Hz (2560x1600), MediaTek 8189, RAM 8 Go, 64 Go (8\" à 114.99€)",
+   "price_raw": "199,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-11-amazon-alexa-tablet-11-25k-90hz-2560x1600-mediatek-8189-ram-8-go-64-go-3454623",
+   "posted_at": "2026-11-18T23:27:43+00:00"
+  },
+  {
+   "title": "Ventilateur de processeur Thermalright TR Assassin X 120R SE Plus (Vendeur Tiers)",
+   "price_raw": "19,92€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/thermalright-tr-assassin-x-120r-se-plus-3460919",
+   "posted_at": "2026-11-18T23:17:07+00:00"
+  },
+  {
+   "title": "Imprimante Multifonction HP LaserJet M234sdne - 600 x 600 DPI, 29 ppm",
+   "price_raw": "61,21€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-hp-laserjet-m234sdne-600-x-600-dpi-29-ppm-3460916",
+   "posted_at": "2026-11-18T23:16:13+00:00"
+  },
+  {
    "title": "Processeur AMD A8-6600K FM2 APU 4C/4T 3.9-4.2GHz Radeon HD 8570D CPU NEUF",
    "price_raw": "41.00 EUR",
    "source": "ebay",
@@ -308,7 +353,7 @@
    "title": "Yodoit Écran Portable 15,6\" FHD IPS HDMI USB-C Haut-parleurs Intégrés PC Mac",
    "price_raw": "115.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920158135183?_skw=%C3%A9cran+pc&hash=itemd63db2e38f:g:MVIAAeSw4LNq~ieP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lQpKU2d92bPn1V0f8OdpiGOO8FrzZw1M6wGFcXkiLW4C%2FyMAeIep%2Bv%2FbHL4axccQDAOR5lOWsi%2BlkEmw87lC0AqHuuP6OYww8UlBtKsCLtGM5dNclm0lzWl38kRughnVCcBJaIvvl1QxT4zn%2F2LJY4FusYNbYxC0e41I7gIgkglzdeAi0yUmyz7AM%2FyPegI9Or9GiFGr4PNhs0igJ5oFUjHdk9y6QV7JfNQ7IBdCDpJGhWyl3k7egrn26S9f63Q97EuyZQLJRI3n2jZ75qPhBIVUxxb2HZepT5jkJ0a0LcUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/920158135183?_skw=%C3%A9cran+pc&hash=itemd63db2e38f:g:MVIAAeSw4LNq~ieP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lQpKU2d92bPn1V0f8OdpiGOO8FrzZw1M6wGFcXkiLW4C%2FyMAeIep%2Bv%2FbHL4axccQDAOR5lOWsi%2BlkEmw87lC0AqHuuP6OYww8UlBtKsCLtGM5dNclm0lzWl38kRughnVCC6Y2mRBpRn5HyHyCXq7WSvutAzk2BHunWYG1HksCtrUV%2FgK2Xv1GMjKTDzEFaaD%2B9xMvV6ZoNtXL%2BBttWji1JCEkJ3dxcXEShCp3rtx6Wl%2FRWqheSaqkm1mXkyCeezNJPaGvj3NiXG2x6jcC9VxcLrCHmF2M6EU9PahRamBhVBw%3D%3D",
    "posted_at": "2026-11-18T22:33:00+00:00"
   },
   {
@@ -459,13 +504,6 @@
    "posted_at": "2026-11-18T17:04:20+00:00"
   },
   {
-   "title": "Carte Graphique NVIDIA Quadro P2000  PCI Express x16, 4x DisplayPort, ",
-   "price_raw": "63.09 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900101860243?_skw=carte+graphique&hash=itemd192406b93:g:OI4AAeSwYLtq~dYb",
-   "posted_at": "2026-11-18T16:48:07+00:00"
-  },
-  {
    "title": "Carte Graphique Lenovo NVIDIA GeForce GT 730 (2 Go DDR3) OEM ",
    "price_raw": "52.69 EUR",
    "source": "ebay",
@@ -560,7 +598,7 @@
    "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
    "price_raw": "14.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R6xpvqlrqul4ciTPLWEU46xANhLIBLw3KFS%2FZIhOOqwemHweUcQLPf3fmqYyROBOHfPKcEkYsLvYXpkS2ivJJjfNKbMKiu8%2BDNj%2F2CmP9zbNL3bdYiYFlUUO8RQtgEFCQifvXDOUDfr1V%2FS4a2hf6Ha",
+   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R4T2fn5JMcjPW1avJ93rDnJM2oWS8A9o%2F6EcJ6dc2%2FR6n%2BsmHs%2FiruIZ0gGzhz2LI22%2F4AfrHefrkkknnLKesp7hsfwW2SRW6GllrOOO%2BJ9loAQR5hWL0H0Rcoa31HiH0agQxtb3JSd2w%2BBmjBNWqMb",
    "posted_at": "2026-11-18T14:52:50+00:00"
   },
   {
@@ -625,31 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-x1-gen9-reconditionne-certifie-lenovo-32gb-ram-soudee-ssd-256gb-i5-3460110",
    "posted_at": "2026-11-18T11:09:19+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Gigabyte Aero X16 - WQXGA, 165 Hz, Ryzen AI 7 350, RTX 5070, 16 Go RAM DDR5, SSD 1 To",
-   "price_raw": "1 399,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-gamer-gigabyte-aero-x16-16-wqxga-165hz-amd-ryzen-ai-7-350-nvidia-geforce-rtx-5070-16-go-ram-ddr5-ssd-1-to-3460099",
-   "posted_at": "2026-11-18T10:56:52+00:00"
-  },
-  {
-   "title": "Mini PC Acemagic AM18 - AMD Ryzen 5 7640HS, RAM 16 Go évolutif, SSD 512 Go évolutif, Wi-Fi 6, Bluetooth 5.2, Windows 11",
-   "price_raw": "389€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acemagic-am18-amd-ryzen-5-7640hs-mini-pc-3460012",
-   "posted_at": "2026-11-18T10:13:00+00:00"
-  },
-  {
-   "title": "Ecran PC AOC 34\" - Incurvé, CU34G2XPD/BK, 34 Pouce, 180Hz, Fast VA",
-   "price_raw": "219€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/aoc-gaming-moniteur-incurve-cu34g2xpdbk-34-pouce-180hz-fast-va-3460048",
-   "posted_at": "2026-11-18T10:11:46+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1998,
-  "models_with_reference": 59
+  "listings_seen": 2005,
+  "models_with_reference": 60
  }
 }
