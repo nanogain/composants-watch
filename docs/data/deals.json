@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T06:38:00Z",
+ "generated_at": "2026-11-18T07:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 342,
-   "last_ok": "2026-11-18T06:38:00.685821+00:00"
+   "last_ok": "2026-11-18T07:08:00.626117+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-18T06:38:00.685821+00:00"
+   "items": 366,
+   "last_ok": "2026-11-18T07:08:00.626117+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-18T06:38:00.685821+00:00"
+   "items": 52,
+   "last_ok": "2026-11-18T07:08:00.626117+00:00"
   }
  },
  "watchlist": [
@@ -160,6 +160,23 @@
    "posted_at": "2026-11-13T13:40:26+00:00"
   },
   {
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tanzen_store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux%2F6uBYc1Ojk8lfIev%2FmkIKrPDttSyY%2Bkv7nltxgIeW7jmTzyz2Y8X6X%2FLZcARoNyyYfSmsgBZDOThCZWd69TS452QUdF%2FevRHvyGkDANNBbdeG7OJeEBkL4%2Bihk3XUvxAFsiRKLo4esBlaLGPj1Pe%2F",
+   "posted_at": "2026-08-14T16:59:44+00:00"
+  },
+  {
    "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -262,6 +279,23 @@
    "posted_at": "2026-11-11T10:23:59+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 486.95,
+   "discount_pct": 19.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
    "model": "SSD:NVMe-128Go",
    "category": "SSD",
@@ -332,11 +366,32 @@
  ],
  "unclassified": [
   {
-   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM SK hynix PC4-3200AA 260 broches HMAA2GS6CJR8N",
-   "price_raw": "135.90 EUR",
+   "title": "PC Portable 16\" HP Omnibook 3 16-by0010nf - OLED, AMD Ryzen 7 7735U, 24 Go RAM DDR5, SSD 512 Go",
+   "price_raw": "1 049,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-hp-omnibook-3-16-16-oled-amd-ryzen-7-7735u-24-go-ram-ddr5-ssd-512-go-3459782",
+   "posted_at": "2026-11-18T07:02:41+00:00"
+  },
+  {
+   "title": "Routeur Tenda 4G03 Pro V2.0 - 4G, WiFi, SIM Box N300 LTE",
+   "price_raw": "37,89€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tenda-4g-wifi-router-with-sim-box-n300-lte-cat4-mobile-4g03-pro-v20-4-foldable-antennas-usb-c-power-supply-lanwan-3459774",
+   "posted_at": "2026-11-18T06:39:39+00:00"
+  },
+  {
+   "title": "Souris verticale sans fil Razer Pro Click V2 Vertical - Droitier, Chroma RGB, 9 Boutons, pour Windows & Mac",
+   "price_raw": "78,01€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-verticale-gaming-sans-fil-razer-pro-click-v2-vertical-pour-droitier-windows-mac-6-mois-dautonomie-chroma-rgb-9-boutons-3459773",
+   "posted_at": "2026-11-18T06:38:21+00:00"
+  },
+  {
+   "title": "Processeur Intel Xeon E5-2690 V4 2,6 GHz 14 cœurs SR2N2 LGA2011-3 d'occasion",
+   "price_raw": "41.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147685913193?_skw=ddr4&hash=item2262c43269:g:pScAAeSw~hNq-Cly",
-   "posted_at": "2026-11-18T05:49:14+00:00"
+   "url": "https://www.ebay.fr/itm/198804379674?_skw=processeur&hash=item2e49aa181a:g:iIAAAeSwBQtq~UfX",
+   "posted_at": "2026-11-18T06:38:09+00:00"
   },
   {
    "title": "PC Portable 15,6\" Acer Aspire Go 15 AG15-42P-R273 - AMD Ryzen 5 7430U, RAM 16 Go DDR4 3200MHz, SSD 512 Go, FHD, 60Hz, Windows 11",
@@ -468,7 +523,7 @@
    "title": "Barrette mémoire 8Go  PC4-3200AA DDR4 SDRAM",
    "price_raw": "26.22 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRiBbZbPLQYDvJSRy2BQ%2FX%2BNno3BvvfYQxyZtDIoODZ0rrawhgzqRKa8jKWsu0hu%2FD%2Bu3ENTSplR%2F7KO5XjFiDQtaHZgsq56U4znGrF9o%2F3Zk7axzdVwkAv8wjGB7eitkswrSq2XCtpyStTzw0HHSM7q",
+   "url": "https://www.ebay.fr/itm/147685032291?_skw=ddr4&hash=item2262b6c163:g:rocAAeSweLBq9NXL&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lRD5f9vtPTNP9IEBrny3V3u44rLeyY6vgkhMcQg768b82xbI2315408NEGgszIv5NtkgLHovF9XDiQuF8veLb5gWlRJLuLxOYIPEKOD5g3ofjWNEfWwFEXu2GuCv97YRgnpmmDNkjGUSpMrgdfuZ1nYgSO1laXcxkRePacnMzfD8BpC5R4iQBeqck6KgwcqF84h6jtsiPeukJs7ZChZnyiHNROa3GW56kz6K3THcIslt7iZ7ZZFqUIaGJhJ2Pu1RWMurDbRzJbhi9GJZbOsQ0l",
    "posted_at": "2026-11-17T16:35:36+00:00"
   },
   {
@@ -659,31 +714,10 @@
    "source": "reddit",
    "url": "https://www.reddit.com/r/buildapcsales/comments/1xyhq93/laptop_asus_zenbook_s14_14inch_2880x1800_120hz/",
    "posted_at": "2026-11-17T11:08:27+00:00"
-  },
-  {
-   "title": "PC Portable HP OmniBook 3 - 14\", AMD Ryzen 5, 16 Go RAM, 512 Go SSD, Écran FHD+ IPS 16:10 antireflet",
-   "price_raw": "569€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-hp-omnibook-3-14-amd-ryzen-5-16-go-ram-512-go-ssd-ecran-fhd-ips-1610-antireflet-3458836",
-   "posted_at": "2026-11-17T11:02:38+00:00"
-  },
-  {
-   "title": "Lot de 2 Caméras Extérieures Annke FCD800 - PoE, à Double Objectif 8MP, UHD, Vue Panoramique à 180°",
-   "price_raw": "169,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-2-cameras-exterieures-fcd800-poe-a-double-objectif-8mp-uhd-vue-panoramique-a-180-3458803",
-   "posted_at": "2026-11-17T10:33:44+00:00"
-  },
-  {
-   "title": "Boitier PC Lian-Li Vector V100R MINI - 4 ventilateurs pré installé, RGB, Noir, Verre Trempé",
-   "price_raw": "63,18€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-lian-li-vector-v100r-mini-4-ventilateurs-pre-installe-rgb-noir-verre-trempe-3458791",
-   "posted_at": "2026-11-17T10:25:50+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1963,
-  "models_with_reference": 61
+  "listings_seen": 1965,
+  "models_with_reference": 62
  }
 }
