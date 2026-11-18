@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T16:08:00Z",
+ "generated_at": "2026-11-18T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 351,
-   "last_ok": "2026-11-18T16:08:00.626476+00:00"
+   "items": 353,
+   "last_ok": "2026-11-18T16:38:00.682285+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-18T16:08:00.626476+00:00"
+   "items": 381,
+   "last_ok": "2026-11-18T16:38:00.682285+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-18T16:08:00.626476+00:00"
+   "items": 80,
+   "last_ok": "2026-11-18T16:38:00.682285+00:00"
   }
  },
  "watchlist": [
@@ -126,23 +126,6 @@
    "posted_at": "2026-11-14T05:57:28+00:00"
   },
   {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bcmkt6ZJ2jwenrfqcVfcTiyjyJM2UbcZK6Bdi%2BRVHIgWP5h%2BUEwcVvtrO5AH4ucVmDX1asVgsxJNENhZBThPMZysiFLQHUGf12KTOC5hP83aZHBi6E6NQsZDV8nPM%2FgE4KkpPEE3zsSQe8%2FAnsFmuSUZK0GrSdxVRhqTDci%2BqXzw%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
    "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
    "model": "MB:B760",
    "category": "MB",
@@ -207,25 +190,8 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70FjkOSkRQndIW49besu1k3Ht3rDkTQ9uZfe5f4HUTQqxXiljmMxP650R%2FiSrdjT%2FFnLcRROd%2FJpUtFctfLURjQ5CIOFm4UNfHtbfCLCRIIZ%2FKtR0O7RwekzBLfT7uU9u0TUtqWr8XG7sF9km43qTAh",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71KJLRGQ4rD9crH%2FOwE9X4C5RAf6qxzI0Gj3yLHb%2B4O2mEx7IIhGx6g5SOX%2F9hbT1h4aJH8f5TTGs%2Bk9aoesbjiFMMjVA4YzxpMSgav8qk%2FICNZJU%2FtwIEUzsVsdzTCFrHVv1ixsJRpzyTpi7GRl3gu",
    "posted_at": "2026-11-14T22:04:31+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 486.95,
-   "discount_pct": 19.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "PNY SSD 1 TO CS 900",
@@ -243,23 +209,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206710102743?_skw=ssd&hash=item3020e1dad7:g:uO0AAeSwrnxp1M0c",
    "posted_at": "2026-11-18T09:57:21+00:00"
-  },
-  {
-   "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
-   "model": "SSD:NVMe-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.0,
-   "shipping_eur": 3.9,
-   "effective_eur": 15.9,
-   "median_eur": 19.65,
-   "discount_pct": 19.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bons_prix_bons_produits (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
-   "posted_at": "2026-01-14T17:31:44+00:00"
   },
   {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
@@ -314,6 +263,55 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Souris Gamer Filaire LOGITECH G502 Hero High Performance",
+   "price_raw": "28,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gamer-filaire-logitech-g502-hero-high-performance-3460518",
+   "posted_at": "2026-11-18T16:37:55+00:00"
+  },
+  {
+   "title": "Imprimante multifonction Epson EcoTank ET-3956 - Blanc (via 60€ d'ODR)",
+   "price_raw": "220,23€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-3956-blanc-via-60eur-dodr-3460346",
+   "posted_at": "2026-11-18T16:36:03+00:00"
+  },
+  {
+   "title": "Liseuse PocketBook ERA Lite",
+   "price_raw": "179€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/liseuse-pocketbook-era-lite-3460506",
+   "posted_at": "2026-11-18T16:28:30+00:00"
+  },
+  {
+   "title": "Imprimante 3D Bambu Lab A2L",
+   "price_raw": "351,93€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/httpssharegoogletboswtlsjilnjisnn-3460502",
+   "posted_at": "2026-11-18T16:26:28+00:00"
+  },
+  {
+   "title": "PC Portable 15.6\" TECNO K15SRA Alu FHD INTEL Core i9-13900HK - 16 Go RAM DDR4, SSD 1 To, Wifi6E+RJ45, Win11",
+   "price_raw": "699,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-tecno-k15sra-alu-fhd-intel-core-i9-13900hk-16-go-ram-ddr4-ssd-1-to-wifi6erj45-win11-offre-trade-in-100eur-3460501",
+   "posted_at": "2026-11-18T16:25:41+00:00"
+  },
+  {
+   "title": "Imprimante Photo Portable Canon Selphy CP1500 WiFi + Ensemble de Papier",
+   "price_raw": "119€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/canon-selphy-cp1500-imprimante-photo-portable-wifi-ensemble-de-papier-3460492",
+   "posted_at": "2026-11-18T16:15:58+00:00"
+  },
+  {
+   "title": "Écran PC Dell P2217 22\" WSXGA+ 1680x1050 - DP HDMI VGA USB - Rayures (Sans Pied)",
+   "price_raw": "31.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840120220130?_skw=%C3%A9cran+pc&hash=itemc39b1139e2:g:ay4AAeSwUiNqfDMG",
+   "posted_at": "2026-11-12T06:59:12+00:00"
+  },
   {
    "title": "Pack Tablette Lenovo Idea Tab Plus ZAG7 + Clavier Magnétique Folio + Stylet Tab - 12,1 '', 128 Go, Gris Luna, Sans Chargeur",
    "price_raw": "299€",
@@ -614,59 +612,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-acer-156-fhd-60-hz-amd-ryzen-5-7430u-16go-ram-512go-ssd-windows-11-home-clavier-fr-azerty-sans-adaptateur-3459732",
    "posted_at": "2026-11-18T05:08:37+00:00"
-  },
-  {
-   "title": "copy of Mémoire RAM HyperX Fury HX421C14FB/4 DDR4 2133MHz  Non-ECC CL144 Go DIMM",
-   "price_raw": "22.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287315629496?_skw=ddr4&hash=item42e55895b8:g:ZRAAAeSwEJpp-1Sb",
-   "posted_at": "2026-05-06T14:45:53+00:00"
-  },
-  {
-   "title": "Écran Dell 17\" LCD 1280x1024 SXGA 60Hz 5:4 VGA Moniteur PC Testé",
-   "price_raw": "15.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840120190696?_skw=%C3%A9cran+pc&hash=itemc39b10c6e8:g:1XsAAeSwRydqcvtP",
-   "posted_at": "2026-11-12T06:47:38+00:00"
-  },
-  {
-   "title": "PC Portable 15\" Dell - i7-1355U, 16 Go DDR5 RAM, 1 To SSD",
-   "price_raw": "849€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-15-dell-i7-1355u-16gb-ddr5-ram-1tb-ssd-3459622",
-   "posted_at": "2026-11-17T22:51:53+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Hp OmniBook 3 14-hy0032nfx - 16 Go RAM, 512 Go SSD",
-   "price_raw": "629,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/hp-omnibook-3-14p-3459547",
-   "posted_at": "2026-11-17T21:08:55+00:00"
-  },
-  {
-   "title": "Barrette de RAM 4 Go DDR4 2400 MHz – SK Hynix (PC de bureau)",
-   "price_raw": "12.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206680770744?_skw=ddr4&hash=item301f2248b8:g:u8EAAeSw3mdq~bqo&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kVUB8RwEEpnFiSH8d8WHU7u4YBRudj7r5lQWjm3c%2ByF3hysZvbgni%2B42ZTeKLxsHeqYDfQWHJ%2FqhVYxfeGYg25tPZezqK3UATtz1g4ddXLmZcxioba5Hh1kJ9o7N3YdALgiTEcSwd2TTqaP3YZCYIgGTsbmb4LbBjPe%2B50d6ttOf7xXS6%2F5H5ULdIbxICsm%2F0E7xHuh5QfKvy5dK%2BOatvkWA1Kuv%2FMHlOgRCDY1Cab4aZd%2F6vkP7w4u7UtadG%2BcUbGFNGs%2FgOrt6esEvQ9eHIj",
-   "posted_at": "2026-11-06T20:58:04+00:00"
-  },
-  {
-   "title": "PC Portable MacBook Air M5 13'' CPU 10 GPU 10 24 Go - 1 To Noir minuit (MDHG4FN, A)",
-   "price_raw": "1 699€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/macbook-air-m5-13-cpu-10-gpu-10-24-go-1-to-noir-minuit-mdhg4fna-apple-3459472",
-   "posted_at": "2026-11-17T20:06:24+00:00"
-  },
-  {
-   "title": "Ecran PC 32\" Skillkorp M32 - VA, incurvé, 2K, 180 Hz, 1 ms, HDR, HDMI 2.1",
-   "price_raw": "199,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-skillkorp-m32-32-va-incurve-2k-180-hz-1-ms-hdr-hdmi-21-3459467",
-   "posted_at": "2026-11-17T19:58:28+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1991,
-  "models_with_reference": 62
+  "listings_seen": 1994,
+  "models_with_reference": 60
  }
 }
