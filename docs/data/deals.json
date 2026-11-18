@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T18:38:00Z",
+ "generated_at": "2026-11-18T19:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-18T18:38:00.668588+00:00"
+   "items": 346,
+   "last_ok": "2026-11-18T19:08:00.676325+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-18T18:38:00.668588+00:00"
+   "items": 363,
+   "last_ok": "2026-11-18T19:08:00.676325+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-18T18:38:00.668588+00:00"
+   "last_ok": "2026-11-18T19:08:00.676325+00:00"
   }
  },
  "watchlist": [
@@ -90,23 +90,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/disque-dur-1-to-3457454",
    "posted_at": "2026-11-16T10:42:13+00:00"
-  },
-  {
-   "title": "SSD SATA 128Gb SanDisk X400 M.2 2280 ",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 13.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 13.99,
-   "median_eur": 24.7,
-   "discount_pct": 43.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · ppiteso_0 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860146257579?_skw=ssd&hash=itemc844b64eab:g:OhoAAeSwks9q-dxV",
-   "posted_at": "2026-11-15T16:26:43+00:00"
   },
   {
    "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
@@ -211,23 +194,6 @@
    "posted_at": "2026-11-18T16:43:02+00:00"
   },
   {
-   "title": "Kit RAM 32 Go (2x16 Go) DDR4 3200 MHz Corsair Vengeance LPX CL16",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 208.7,
-   "shipping_eur": 0.0,
-   "effective_eur": 208.7,
-   "median_eur": 270.7,
-   "discount_pct": 22.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · matony4 (100,0 %, 329 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940103013509?_skw=ddr4&hash=itemdae2819485:g:z3gAAeSwIrBq~d5C",
-   "posted_at": "2026-11-18T17:20:39+00:00"
-  },
-  {
    "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -241,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71dl4%2BRfMl%2F4i6EhPEZk7%2Fe7ERtVXXzwPG2aN7heHuGdcCOrzb%2BXN0sG4imIpKWp4t0DdYKLNGlUHBNd6ZmHywFdD6ozsSi5wyIIwEtNWSAARL%2BpeLStqlpfXjt4exBZAr%2FlV5pGmihg2veThl6ql%2FW",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70Hs0W92jhHETFcsFuKHobQhkeoG2sOpbptka%2FjuqYe9RZo%2BNSCQMr%2BN44%2BqCcV%2FAYmchVUIHHXcHcOUkksME5Fg6bwYZxxj6uFQ3GUgomjaCKjY1GjAsOmj5CbckGN5bj%2FS4q3Lj6tUgE0ju58CKow",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -353,7 +319,7 @@
    "posted_at": "2026-11-18T18:06:04+00:00"
   },
   {
-   "title": "[Étudiants] Tablette 13,2\" Oppo Pad 5 Pro - Snapdragon 8 Elite Gen 5, 8+256 Go, 13380 mAh (489€ pour les non-étudiants)",
+   "title": "[Étudiants] Tablette 13,2\" Oppo Pad 5 Pro - Snapdragon 8 Elite Gen 5, 8/256 Go, 13380 mAh (489€ pour les non-étudiants)",
    "price_raw": "391,44€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/etudiants-tablette-13-oppo-pad-5-pro-snapdragon-8-elite-gen-5-8256-go-13380-mah-489eur-pour-les-autres-3460580",
@@ -612,13 +578,6 @@
    "posted_at": "2026-11-18T08:51:57+00:00"
   },
   {
-   "title": "SSD M2 Samsung 970 Evo Plus",
-   "price_raw": "259.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366818970725?_skw=ssd&hash=item55681d4c65:g:rBcAAeSw~otq-0U4",
-   "posted_at": "2026-11-18T09:33:47+00:00"
-  },
-  {
    "title": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh (Gris) + Étui de protection (Via ODR de 30€)",
    "price_raw": "140,14€",
    "source": "dealabs",
@@ -680,10 +639,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/selection-de-pedalezs-electro-harmonix-en-promotion-exemple-triangle-big-muff-pi-3459864",
    "posted_at": "2026-11-18T07:58:43+00:00"
+  },
+  {
+   "title": "Souris sans fil Razer Naga V2 Pro - Capteur Optique Focus Pro 30K, Interrupteur de Souris Optique Gen-3",
+   "price_raw": "129,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-razer-naga-v2-pro-capteur-optique-focus-pro-30k-interrupteur-de-souris-optique-gen-3-3459857",
+   "posted_at": "2026-11-18T07:53:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2006,
-  "models_with_reference": 62
+  "listings_seen": 2002,
+  "models_with_reference": 60
  }
 }
