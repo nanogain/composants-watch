@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T01:08:00Z",
+ "generated_at": "2026-11-19T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 353,
-   "last_ok": "2026-11-19T01:08:00.679825+00:00"
+   "last_ok": "2026-11-19T01:38:00.672238+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 370,
-   "last_ok": "2026-11-19T01:08:00.679825+00:00"
+   "items": 369,
+   "last_ok": "2026-11-19T01:38:00.672238+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T01:08:00.679825+00:00"
+   "last_ok": "2026-11-19T01:38:00.672238+00:00"
   }
  },
  "watchlist": [
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72xK%2FMH4zvq62GwjHw%2BOecdPd71ydO1lAAoCAbSUaHUcnha72L7ig%2FBmVSHFTattnP2F7G%2FwlQ3ienvcj%2BLxPxteKRMCC1eD12wt%2BVT6E07F52e2fYjXiPfVy5ZaRI2sSKl1NdlKtU%2FE8vXZ5fBJTfn",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70b%2FkuJVXCJj6Juj8WuVYR1cYQhAcC15%2BRLF2PWZR8JI5Ir5%2B67E0NcLvxpxGvn%2Bfqp40PlYU6LSiMRyREZG6F3XGF8LRfAI7jOXoLjryBAuCkZXMqPZse0dVfZZbMd57fEs62lZ0pcqJi9cLYbM1Ab",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -281,6 +281,13 @@
  ],
  "unclassified": [
   {
+   "title": "Nouvelle Amazon Alexa Tablet 8 : 4 Go de RAM, 128 Go, tablette compacte 8,7″ avec écran éclatant",
+   "price_raw": "139,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nouvelle-amazon-alexa-tablet-8-4-go-de-ram-128-go-tablette-compacte-87-avec-ecran-eclatant-3461042",
+   "posted_at": "2026-11-19T01:10:54+00:00"
+  },
+  {
    "title": "[Prime] Souris Pulsar Zywoo gen.1",
    "price_raw": "74,95€",
    "source": "dealabs",
@@ -333,7 +340,7 @@
    "title": "Samsung 32Go DDR5 SO-DIMM PC5-5600B Non-ECC 262 Broches M425R4GA3PB0",
    "price_raw": "286.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880130901495?_skw=ddr5&hash=itemccebe3c5f7:g:8AwAAeSwQRRq~jux",
+   "url": "https://www.ebay.fr/itm/880130901495?_skw=ddr5&hash=itemccebe3c5f7:g:8AwAAeSwQRRq~jux&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mGOWd903Fr3YgONqbhhsRp7BgDtoCZxdpFi%2BtR%2BG1ih1zLmJOBrWK9kTd07YHPsfN%2FXZXBRxAhk%2FKvwV8zqbaOBTZObgzp5hg5%2ByMjxSmukC2hDiUrBtiZP8WZHbr8VISkifFzxaAHuDBmoi4a35nCf7%2BdTsxZup2ytRt4%2FlRCdXBCzhBQJr%2F13L2u5OpQolhQFeDxOIwU5ToMEZg8vmNGc%2Fl438FBto3iQIcbNQgpRiiZw3Zu3wGhev1bC0s7CWZ1uLY9LZKqTl6xHY9g2pB3",
    "posted_at": "2026-11-19T00:03:43+00:00"
   },
   {
@@ -526,13 +533,6 @@
    "posted_at": "2026-11-18T17:04:20+00:00"
   },
   {
-   "title": "Carte Graphique Lenovo NVIDIA GeForce GT 730 (2 Go DDR3) OEM ",
-   "price_raw": "52.69 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900101839555?_skw=carte+graphique&hash=itemd192401ac3:g:fBsAAeSwAhhq~dEQ",
-   "posted_at": "2026-11-18T16:35:54+00:00"
-  },
-  {
    "title": "Imprimante multifonction Epson EcoTank ET-3956 - Blanc (via 60€ d'ODR)",
    "price_raw": "220,23€",
    "source": "dealabs",
@@ -620,7 +620,7 @@
    "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
    "price_raw": "14.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R6A57zEvyuG8%2FgSlNRwMALr8%2BqFPF9pOfNHKAj8VGMASWDifYsp3BQQr4Uom2QAcnVEA9%2FcnnskIj%2FH1%2Bc7ynP%2FY8CSz7aCyjZKxcovpi2v0JiZCFVkmgI7oLafkzGeexHdfbD%2BOJ22t8t0WckxAmXF",
+   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R4pzN4W4LRhiyNLSRRa37fEM%2FzcJSfo0N4BjYPvWRFfWLPddB3zrjNWzOehsiYYiPom59tU76J7J2b2VREITJ22rE3h%2FyaLZIcmx8z9mvfd6T67Q3duOqIwc6nPFoO3%2F2CvoPLd%2BG3h2PgU4ZAlkUfd",
    "posted_at": "2026-11-18T14:52:50+00:00"
   },
   {
@@ -632,7 +632,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2008,
-  "models_with_reference": 59
+  "listings_seen": 2005,
+  "models_with_reference": 58
  }
 }
