@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T04:08:00Z",
+ "generated_at": "2026-11-19T04:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 351,
-   "last_ok": "2026-11-19T04:08:00.672462+00:00"
+   "last_ok": "2026-11-19T04:38:00.669420+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-19T04:08:00.672462+00:00"
+   "items": 370,
+   "last_ok": "2026-11-19T04:38:00.669420+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T04:08:00.672462+00:00"
+   "last_ok": "2026-11-19T04:38:00.669420+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,40 @@
    "posted_at": "2026-11-17T19:16:59+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BtqPIrRGsgsCwAuDfnvfNUlcsKpDimb9MrrD5HwiTyKt79D2lixrctB6sJL0u3Ld%2B6X2E%2BxiB8rmjBQZo8s5UvLXX02kFwfEm6QTfQkTxPb0%2B6vzi99myN2gj1iK4F5ZUM3uc0s%2FqB0u76euhkwqnd3OTotuW3EngG8gGBdIMnwg%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tanzen_store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwPDYCZoilhGkrBpkIjdR1gsqgrnk2OTTeF21lhy8m571VlWcxPx3%2Fmg7DnL9cy92hNw36i9M32d7R%2BMwvWyY5v5dMNMFYblfJPtGnI1lf8w0%2BDLsz1jWZJXwmY%2BcInHVGnrKCGcXsoDgNppT%2B3A8f%2F",
+   "posted_at": "2026-08-14T16:59:44+00:00"
+  },
+  {
    "title": "RAM 8 Go (2x4 Go) DDR4 2666 MHz Kingston KCP426NS6/4 PC4-21300 UDIMM PC bureau",
    "model": "RAM:DDR4-8Go-2666",
    "category": "RAM",
@@ -126,23 +160,6 @@
    "posted_at": "2026-11-16T16:24:55+00:00"
   },
   {
-   "title": "Kit RAM 32 Go (2x16 Go) DDR4 3200 MHz Corsair Vengeance LPX CL16",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 208.7,
-   "shipping_eur": 0.0,
-   "effective_eur": 208.7,
-   "median_eur": 270.7,
-   "discount_pct": 22.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · matony4 (100,0 %, 329 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940103013509?_skw=ddr4&hash=itemdae2819485:g:z3gAAeSwIrBq~d5C",
-   "posted_at": "2026-11-18T17:20:39+00:00"
-  },
-  {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
    "model": "MB:B550",
    "category": "MB",
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE735GKOfz417Vm%2BQUxkICHI%2F5Mn1jvoNy09IphEOvesKjEnQw%2FFBwaPVvUUPXmmkgrwCZ53a66Z9jeBJMqlfMsOGmQjSEHeoUSnf9%2Beq062TPp5PqspYb13sLD1xxVsV518JnkudpGIF2HPmQ%2B%2Fap8sR",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71z3OCxkpyTuH2rJE9dK5EeObdge%2BjzBwyo1ideB%2FdLIjC7d3RImwwQYNkFVs%2FikIAVqwx8WAg7PdqF6Ycet4JcscIgaic1LyMPnYqbBW5MvQ1lw1aDFedeMrtMhIX9hLyPob3q7F1ddn4lcspPtvL1",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -264,6 +281,34 @@
  ],
  "unclassified": [
   {
+   "title": "Lot de 5 ventilateurs ARCTIC P14 Pro PST - 140mm, PWM, 400-2500 rpm, 110 cfm, 5.2 mmH2O, arrêt 0 rpm (vendeur tiers)",
+   "price_raw": "29,86€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lot-de-5-ventilateurs-arctic-p14-pro-pst-140mm-pwm-400-2500-rpm-110-cfm-52-mmh2o-arret-0-rpm-vendeur-tiers-3461119",
+   "posted_at": "2026-11-19T04:19:44+00:00"
+  },
+  {
+   "title": "Xgimi Elfin Flip 4K",
+   "price_raw": "749€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/xgimi-elfin-flip-4k-3461115",
+   "posted_at": "2026-11-19T04:16:40+00:00"
+  },
+  {
+   "title": "MSI 27\" LED - Optix G27CQ4 E2 | Écran PC 2.5K 2560 x 1440 pixels 1 ms",
+   "price_raw": "259.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/315812417468?_skw=%C3%A9cran+pc&hash=item4987e30fbc:g:MDoAAOSw4W1m~6Mc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lV2gWshTueXX5769VftWfvF1IOLQUyM5X3lK10GI0PEdIUQEgBL4W%2BOk6wowVlljoFG8QXRfM0ZoO26vGLEMOR%2FCRwm2Yf%2FO%2FPVyasSIqz7H0qpxdNTRC99USDzaDpfhy649qbrN%2BRqKMuGBdQIPGs5PAPLM13%2FoWejWKXceaLBV8wNlCR%2BottRMAuN9suMiywS4J%2B7rwAwUYZNAVlPj3IS66gjXd%2F41roLE5%2F6%2Ff7eTOStntFXKujReOchyrU5YoDdUha9mEf4uhMq2LmSO4CUxbsoFdWuqcCoJ7%2FNtuT9g%3D%3D",
+   "posted_at": "2024-10-04T12:38:08+00:00"
+  },
+  {
+   "title": "Mobility Lab Clavier Lumineux Filaire AZERTY",
+   "price_raw": "17.08 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307209954654?_skw=clavier&hash=item478723e55e:g:CTMAAeSw~XZqv22I",
+   "posted_at": "2026-10-02T08:39:12+00:00"
+  },
+  {
    "title": "Apple iMac, Puce M4, CPU 8 cœurs et GPU 8 cœurs, écran Retina 24'', 16Go, 256Go SSD",
    "price_raw": "1 559€",
    "source": "dealabs",
@@ -351,7 +396,7 @@
    "title": "Samsung 32Go DDR5 SO-DIMM PC5-5600B Non-ECC 262 Broches M425R4GA3PB0",
    "price_raw": "286.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880130901495?_skw=ddr5&hash=itemccebe3c5f7:g:8AwAAeSwQRRq~jux&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mGOWd903Fr3YgONqbhhsRp7BgDtoCZxdpFi%2BtR%2BG1ih1zLmJOBrWK9kTd07YHPsfN%2FXZXBRxAhk%2FKvwV8zqbaOBTZObgzp5hg5%2ByMjxSmukC2hDiUrBtiZP8WZHbr8VITpzFZuiGL1bPZ5f1mxgzy9R6CvjmjAFzDEI6ndRuURycd5sZEgFuqkSXP1tA3hkDwWp17CXFIWulFL%2Bfp6rAlYPaIb3MgL17B%2F4FWoPC6vv%2Bc4MWpMLyC4oaiAyphEjxdEWbhpaWCkfUATWkZ%2FJ59G",
+   "url": "https://www.ebay.fr/itm/880130901495?_skw=ddr5&hash=itemccebe3c5f7:g:8AwAAeSwQRRq~jux&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mGOWd903Fr3YgONqbhhsRp7BgDtoCZxdpFi%2BtR%2BG1ih1zLmJOBrWK9kTd07YHPsfN%2FXZXBRxAhk%2FKvwV8zqbaOBTZObgzp5hg5%2ByMjxSmukC2hDiUrBtiZP8WZHbr8VITw4GgN4UoO1jme4OvoXr%2BtfgoqrBFf01G12H4ykRSTCamQoGHcV5pZlN0kbfiYMZo4VTRTVkDK2Q4ojdhG66C%2BpIZmYC6ylQyaCG67s2Cs22arcu%2BseLTaHz2zNGI%2F2mX%2Bs%2BRatCSSlAjZNO%2Fe91JG",
    "posted_at": "2026-11-19T00:03:43+00:00"
   },
   {
@@ -453,20 +498,6 @@
    "posted_at": "2026-11-18T20:17:27+00:00"
   },
   {
-   "title": "Carte mère 1,8 GHz  i5 4 Go pour MacBook Air 13\" A1466 2017",
-   "price_raw": "64.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318028116849?_skw=carte+m%C3%A8re&hash=item4a0bf3f371:g:pG4AAeSwuw9qu7Ny",
-   "posted_at": "2026-03-19T09:06:15+00:00"
-  },
-  {
-   "title": "PORT CONNECT • CLAVIER SANS FIL • KEYBOARD OFFICE PRO BLUETOOTH • AZERTY • NEUF",
-   "price_raw": "10.75 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398094363626?_skw=clavier&hash=item5cb045ebea:g:EW4AAOSwfclliqga",
-   "posted_at": "2026-06-22T14:08:28+00:00"
-  },
-  {
    "title": "SSD NVMe Ugreen Boîtier M.2 USB 3.2 Gen 2 10 Gbps Adaptateur",
    "price_raw": "21,99€",
    "source": "dealabs",
@@ -514,13 +545,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/etudiants-tablette-13-oppo-pad-5-pro-snapdragon-8-elite-gen-5-8256-go-13380-mah-489eur-pour-les-autres-3460580",
    "posted_at": "2026-11-18T17:39:46+00:00"
-  },
-  {
-   "title": "SK hynix 8 Go DDR4 SO-DIMM 260 broches PC4-2400T HMA81GS6AFR8N-UH",
-   "price_raw": "30.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206711071008?_skw=ddr4&hash=item3020f0a120:g:xjEAAeSweZpq4wnp",
-   "posted_at": "2026-11-18T17:57:40+00:00"
   },
   {
    "title": "PNY NVIDIA Quadro FX 5800 4 Go GDDR3 – Carte Graphique Pro PCIe",
@@ -605,17 +629,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-samsung-odyssey-g8-s27hg806ef-g80hf-27-180-hz-5k-ultra-hd-3460416",
    "posted_at": "2026-11-18T15:08:46+00:00"
-  },
-  {
-   "title": "RAMAXEL 8Go DDR4 3200 MHz (PC4-3200AA) SODIMM pour PC portable",
-   "price_raw": "31.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710803257?_skw=ddr4&hash=item3020ec8b39:g:FnAAAeSw6zhq~b7S",
-   "posted_at": "2026-11-18T15:11:04+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1994,
-  "models_with_reference": 58
+  "listings_seen": 1996,
+  "models_with_reference": 61
  }
 }
