@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T00:38:00Z",
+ "generated_at": "2026-11-19T01:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 353,
-   "last_ok": "2026-11-19T00:38:00.656868+00:00"
+   "last_ok": "2026-11-19T01:08:00.679825+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 370,
-   "last_ok": "2026-11-19T00:38:00.656868+00:00"
+   "last_ok": "2026-11-19T01:08:00.679825+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T00:38:00.656868+00:00"
+   "last_ok": "2026-11-19T01:08:00.679825+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-17T19:16:59+00:00"
   },
   {
-   "title": "SSD Interne 1 To NVME M2.2280",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 84.12,
-   "shipping_eur": null,
-   "effective_eur": 84.12,
-   "median_eur": 149.99,
-   "discount_pct": 43.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/disque-dur-1-to-3457454",
-   "posted_at": "2026-11-16T10:42:13+00:00"
-  },
-  {
    "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -107,23 +90,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
    "posted_at": "2026-11-14T05:57:28+00:00"
-  },
-  {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9aDHM8L1FieHtuGkzb20d0EEiyj0RLfKXDxZI4oBRZ68fw8xhMPqwpW9fIh9B6YSqNN2j%2BUXYljp5uErBY7CP0BQKeBJ3LPI1vOOZbGLFcgQkb4MANQfei%2FcWaJMS87kYrAwECqOO6Zu2xYsM7M8yy4%2FteoMfB3i0zp%2BFhgtZxpA%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": "RAM 8 Go (2x4 Go) DDR4 2666 MHz Kingston KCP426NS6/4 PC4-21300 UDIMM PC bureau",
@@ -224,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70EM5%2Bd4xlKS1FrCgK2go2ueVhYmx%2Flmoqg%2FZRK1KXwVNWhF3j8%2BLSYXGYyBWZJG4Id%2BOFWkN5ZUgY7zQsYA7myv7BA9lvYUhy%2F%2BFXxxqCRbhKEseswoym4WVqhiZpedFDzTJj4caQXUJ0k6eIElBxI",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72xK%2FMH4zvq62GwjHw%2BOecdPd71ydO1lAAoCAbSUaHUcnha72L7ig%2FBmVSHFTattnP2F7G%2FwlQ3ienvcj%2BLxPxteKRMCC1eD12wt%2BVT6E07F52e2fYjXiPfVy5ZaRI2sSKl1NdlKtU%2FE8vXZ5fBJTfn",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -378,13 +344,6 @@
    "posted_at": "2026-11-18T23:48:34+00:00"
   },
   {
-   "title": "Carte Mère MSI G41M-P33 Combo  socket 775 avec 4 Go ram + HDD 320 Go Windows 11",
-   "price_raw": "75.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336174960269?_skw=carte+m%C3%A8re&hash=item4e4596ce8d:g:imcAAeSwJHVoxCB9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mKoY%2BnmXxtWNZlUPHARo5aAbSvSHI1UQLTJIfP9f985jiG%2BCncSapvBiP3YGysLeuDTXg4NtUJzrPnkvN5TjNSd7DgkHi9%2Fks0DESJXhf9DmJoqvcZkHcR%2F5JZbXOtp4iuqZzkw%2BX4IYfZ%2FD21XpBoiIaXedRH%2Bzcq9NnhvzR5XMj%2FV66ZyBN2x--%2BSvZIIvUg%2FMP60pBZkl7Sg4UkX3QwShw0VJs0p4wcoLrVmHnjifXZrCgyEsA%2Bges2vfjlFczXL%2Fl7E4BRbacY7Dj9GRDjP8El25%2BSnC2ESfGx%2FUvpmQ%3D%3D",
-   "posted_at": "2025-09-12T13:35:02+00:00"
-  },
-  {
    "title": "Dongle Bluetooth TP-Link 6.0 USB Nano, clé Bluetooth pour PC, UB600",
    "price_raw": "7,59€",
    "source": "dealabs",
@@ -460,13 +419,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/crucial-x10-pro-2to-disque-ssd-externe-portable-jusqua-2100mos-en-lecture-et-2000mos-en-ecrituree-usb-c-32-pc-et-mac-3460766",
    "posted_at": "2026-11-18T20:38:12+00:00"
-  },
-  {
-   "title": "Ecran PC 10,1 Pouces Moniteur Portable HDMI VGA AV BNC – Ecran CCTV Surveillance",
-   "price_raw": "139.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336869285657?_skw=%C3%A9cran+pc&hash=item4e6ef95f19:g:244AAeSwQxxq45Hh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfH54x79I9nHnZU0%2Fw7kuAyBYIzAEuVnMbF9oBGf9gIOLujzkezhqpkY0etmRpiGS4Lrafr8cGM79p1N5mjCrsJVpKYIOb9%2B%2Bzgiw0u6CVwkjwkaYmAHWImsBCYBsOVwlSK3h%2BbzT%2BBg0xJzAesAn2%2Fhjw%2FaUfz4JcSOAjjOMZtNZ5HKmRlDzbZbDChIgPzjIZfvMUpcSAgFR%2B4ChMkxy40Ne%2BMPHuCJTLdRa2ggqWjE4%2B91yxtimt7qfP4SJZkJlVQQEXpbycgLzoWAC1rHOymcM96BIVs9BktJa0f3NIhg%3D%3D",
-   "posted_at": "2026-10-29T18:34:11+00:00"
   },
   {
    "title": "SSD portable NVMe 20Gbps Crucial X10 Pro (TLC) - 4To, IP55, Boitier alu, jusqu'à 2100 Mo/s, câble USBC inclus (CT4000X10PROSSD902)",
@@ -661,12 +613,26 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2400T 1Rx8 288 broches MTA8ATF1G64AZ-2G3H1",
    "price_raw": "25.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kRJSKdzH5elKb0HVpV0GoE9LgAaPiws4jm%2F2SrubvUiuGbEv5LWhyFsLCxJMRXxiQspfSudUy4razJ9b1DDOtu9loxvQkIIhSEfH0w9VEhURhaSmvPS9R%2BuVabkESKyu3ZjOzDwCz1aqphu3%2FGGGj5O0ktJQlt2sPXItQ8GyzQF%2Bjkv3rvi7%2Fz1qGAw7di986MLE1ySi7riMid9NgF0lzAH6Tipn0UL1aPB88cvRaxB84unbs%2BKUvi%2Bhmi5wtN%2BgDpDsa6cO4etJuMKZ0vw5YB",
+   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU",
    "posted_at": "2026-11-18T14:39:45+00:00"
+  },
+  {
+   "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
+   "price_raw": "14.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R6A57zEvyuG8%2FgSlNRwMALr8%2BqFPF9pOfNHKAj8VGMASWDifYsp3BQQr4Uom2QAcnVEA9%2FcnnskIj%2FH1%2Bc7ynP%2FY8CSz7aCyjZKxcovpi2v0JiZCFVkmgI7oLafkzGeexHdfbD%2BOJ22t8t0WckxAmXF",
+   "posted_at": "2026-11-18T14:52:50+00:00"
+  },
+  {
+   "title": "Mini PC NiPoGi AMD Ryzen 7 7730U 16 Go RAM 1 To SSD Windows 11 Pro E3B Noir (Vendeur Tiers)",
+   "price_raw": "379,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-nipogi-amd-ryzen-7-7730u-16-go-ram-1-to-ssd-windows-11-pro-e3b-noir-3460363",
+   "posted_at": "2026-11-18T14:27:15+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2010,
-  "models_with_reference": 60
+  "listings_seen": 2008,
+  "models_with_reference": 59
  }
 }
