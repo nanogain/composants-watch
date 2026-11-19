@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T09:08:00Z",
+ "generated_at": "2026-11-19T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-19T09:08:00.635906+00:00"
+   "items": 351,
+   "last_ok": "2026-11-19T09:38:00.629045+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 373,
-   "last_ok": "2026-11-19T09:08:00.635906+00:00"
+   "items": 374,
+   "last_ok": "2026-11-19T09:38:00.629045+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T09:08:00.635906+00:00"
+   "last_ok": "2026-11-19T09:38:00.629045+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,23 @@
    "posted_at": "2026-11-17T19:16:59+00:00"
   },
   {
+   "title": "RAM Netac XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V 288 broches UDIMM XMP 2.0, Blanc (vendeur tiers)",
+   "model": "RAM:DDR4-32Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 184.44,
+   "shipping_eur": null,
+   "effective_eur": 184.44,
+   "median_eur": 316.16,
+   "discount_pct": 41.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ram-netac-xmp-20-ddr4-32-go-2-x-16-go-3200-mhz-cl16-20-20-40-135-v-288-broches-udimm-xmp-20-blanc-vendeur-tiers-3461587",
+   "posted_at": "2026-11-19T09:16:42+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -88,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B1zVnata4pNrY5PiEt8pzZwqhWyZgQpz45gZbiKJtxuHkIA%2FkCkrlS095b933hhQgo8h8p0nOZ2CS6v1pIC35cah7FRetFMo7fY9qgZvJnOtW%2FpMq6Q%2BmQCg%2FtA0bFZ6CFt3jHiCbaytEVSqXf5f%2BnjNGiSYw3t3er%2BgXMmXv%2B6w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B93VBmmoaBg4Y2UPxtxJ8gOlJ3dRVFEXq85Hz5FysCi4uysHRQ1bOeOZX4i%2F7u1zyRqGRdmdzAAZ%2BxYLlBOGkG86UIfrbk%2FckdHonPTACeioRSQ4mZ2SPlNtU%2FOK%2B2aEcYLlmAQ9ysBULK0PVazGEPvUk5EzT3QiU2z4SoUiwqW6Q%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -105,8 +122,25 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzaYA1aoI6w%2F1DqVHVRDiW5ZokCS19jYFTEpSlahbIsGV9IKKtn6wD8MlGM%2F3x40kWz8%2FgKZX1kL6ejVB6o1p6YxvzmJCnFV8RVs1oMZpv3OVIH1iJAgZJUV15Emc4cI8awEhihD2yAPI48t3NGfrSq",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzM2rdF870grbR7RUPmnvvzIraO%2Bx5ccCOGeG3LQ5jxRqEjmXFa0OTCz8bTbOH1wjFaupjdH%2F1%2BchX1ScJDYhvpP0wOrIKHzKAfFXxk%2Bw3Ut09T5DfGNbid1y2eRGhcMFpq5CfuHBq91NYrNwUEjXZ2",
    "posted_at": "2026-08-14T16:59:44+00:00"
+  },
+  {
+   "title": "RAM 8 Go (2x4 Go) DDR4 2666 MHz Kingston KCP426NS6/4 PC4-21300 UDIMM PC bureau",
+   "model": "RAM:DDR4-8Go-2666",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 17.22,
+   "shipping_eur": 3.0,
+   "effective_eur": 20.22,
+   "median_eur": 32.37,
+   "discount_pct": 37.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tortellifr (100,0 %, 153 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237190999674?_skw=ddr4&hash=item3739af6e7a:g:I4gAAeSwrghq~hRf",
+   "posted_at": "2026-11-18T21:11:29+00:00"
   },
   {
    "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
@@ -173,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 211 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73x%2BahlkcHyB9y0QMNAvPZtygCymH3ub2E3%2FwXNLVErANPATUanEwS15Vlaqfe4RY0xHauruIfb84rRqMgVsLuNuBEeU%2BceEwoaaJkdT33GyCo7OYeGKcOeILWnviywZPMd4geEOenc6DaGFisGwI%2Bj",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71JUyJS6u6Smu0%2BmexXYWuKxZxqMQME8AUM8qIcJEvVS8eVhPLPCNuezvfZT4VInfmXUaRzuapUPSFIbzdzp34NRfc7c33mcAuPYVECzrLV%2FK1NUFgwnZ3x2V5LsNarlDGVM3Xyowbvp2r%2BwWO1cXql",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -281,6 +315,34 @@
  ],
  "unclassified": [
   {
+   "title": "Elfin flip 4k",
+   "price_raw": "734,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/elfin-flip-4k-3461596",
+   "posted_at": "2026-11-19T09:19:49+00:00"
+  },
+  {
+   "title": " Écran PC HP EliteDisplay E231 – Occasion – Bon état",
+   "price_raw": "19.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840144504478?_skw=%C3%A9cran+pc&hash=itemc39c83c69e:g:ECUAAeSwHl5q~X4p",
+   "posted_at": "2026-11-19T09:22:45+00:00"
+  },
+  {
+   "title": "Écran PC DELL P2417H occasion – Fonctionnel – Ligne fine et pixel mort",
+   "price_raw": "29.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840144508320?_skw=%C3%A9cran+pc&hash=itemc39c83d5a0:g:rssAAeSwJZZq~XPM",
+   "posted_at": "2026-11-19T09:24:55+00:00"
+  },
+  {
+   "title": "Écran PC HP P24 G4  – Occasion – 2 lignes fines pixel mort",
+   "price_raw": "39.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840144506629?_skw=%C3%A9cran+pc&hash=itemc39c83cf05:g:z~QAAeSwABNq~XfF",
+   "posted_at": "2026-11-19T09:23:40+00:00"
+  },
+  {
    "title": "PC Portable 16\" MSI Prestige 16 Flip B390 C3MTG-074FR - Intel Core Ultra X9 388h, 32 Go RAM, 1 To SSD",
    "price_raw": "1 499,99€",
    "source": "dealabs",
@@ -302,7 +364,7 @@
    "posted_at": "2026-11-19T08:40:24+00:00"
   },
   {
-   "title": "JUHOR RAM DDR5 16 Go 6000 MHz 32 Go (16 Go x 2) PC5 Mémoire RAM pour ordinateur de bureau",
+   "title": "Mémoire RAM pour ordinateur de bureau JUHOR RAM DDR5 16 Go 6000 MHz 32 Go (16 Go x 2) PC5",
    "price_raw": "457,80€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/juhor-ram-ddr5-16-go-6000-mhz-32-go-16-go-x-2-pc5-memoire-ram-pour-ordinateur-de-bureau-3461475",
@@ -372,7 +434,7 @@
    "posted_at": "2026-11-19T08:13:51+00:00"
   },
   {
-   "title": "GL.iNet Slate 7 Pro (GL-BE10000) Routeur de voyage Wi-Fi 7, 6GHz, 2.5G",
+   "title": "Routeur de voyage GL.iNet Slate 7 Pro GL-BE10000 - Wi-Fi 7, 6GHz, 2.5G (vendeur tiers)",
    "price_raw": "185,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/glinet-slate-7-pro-gl-be10000-routeur-de-voyage-wi-fi-7-6ghz-25g-3461448",
@@ -550,7 +612,7 @@
    "title": "MSI 27\" LED - Optix G27CQ4 E2 | Écran PC 2.5K 2560 x 1440 pixels 1 ms",
    "price_raw": "259.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/315812417468?_skw=%C3%A9cran+pc&hash=item4987e30fbc:g:MDoAAOSw4W1m~6Mc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lV2gWshTueXX5769VftWfvF1IOLQUyM5X3lK10GI0PEdIUQEgBL4W%2BOk6wowVlljoFG8QXRfM0ZoO26vGLEMOR%2FCRwm2Yf%2FO%2FPVyasSIqz7H0qpxdNTRC99USDzaDpfhy1zRTzHuHq%2FyMr88z5P4pUGgB7kjtw8Da8pLtducBGVj6alkQicT1jAwAwwNnZuyO1TeGxVcgKP5JjXp8SKtcmd%2F7kgTIrOYQW3v553LKyPP23USvszuAA7gopiQCnjAJRyICqNj8aTSZ%2FTEjakH7AUUChY0n9rJM9t8z3KozB2A%3D%3D",
+   "url": "https://www.ebay.fr/itm/315812417468?_skw=%C3%A9cran+pc&hash=item4987e30fbc:g:MDoAAOSw4W1m~6Mc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lV2gWshTueXX5769VftWfvF1IOLQUyM5X3lK10GI0PEdIUQEgBL4W%2BOk6wowVlljoFG8QXRfM0ZoO26vGLEMOR%2FCRwm2Yf%2FO%2FPVyasSIqz7H0qpxdNTRC99USDzaDpfhweT9PFxmeY6Aqdm%2FaC3T8apW67bcj2xXWx7OC4JyaRJ6cA2sRGF20Ytu9aUvsY2lzkopfscUk8NiQbF%2BtJcN%2BQrB0SPY%2F8SE2ZKuZRAhoqfUuIBVv5xgSNELXQ3ueNGunPWdkXksiugMzKbAp7DfEsjQ6r2ZKYINts37SUqfpMiw%3D%3D",
    "posted_at": "2024-10-04T12:38:08+00:00"
   },
   {
@@ -601,38 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nouvelle-amazon-alexa-tablet-8-4-go-de-ram-128-go-tablette-compacte-87-avec-ecran-eclatant-3461042",
    "posted_at": "2026-11-19T01:10:54+00:00"
-  },
-  {
-   "title": "[Prime] Souris Pulsar Zywoo gen.1",
-   "price_raw": "74,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pulsar-zywoo-gen1-3461023",
-   "posted_at": "2026-11-19T00:36:26+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech MX Anywhere 3S",
-   "price_raw": "53,71€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-mx-anywhere-3s-souris-pale-grey-3461018",
-   "posted_at": "2026-11-19T00:28:15+00:00"
-  },
-  {
-   "title": "Souris Akko Them Chat (vendeur tiers)",
-   "price_raw": "25,59€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/sans-fil-chat-rose-bluetooth-vendeur-tiers-3461003",
-   "posted_at": "2026-11-19T00:09:28+00:00"
-  },
-  {
-   "title": "Dashcam Voiture Wolfang 4K - Avant Arrière, Wi-FI",
-   "price_raw": "39,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/wolfang-4k-dashcam-voiture-avant-arriere-wi-fi-camera-voiture-3460981",
-   "posted_at": "2026-11-18T23:50:11+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2029,
-  "models_with_reference": 64
+  "listings_seen": 2031,
+  "models_with_reference": 65
  }
 }
