@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T18:38:00Z",
+ "generated_at": "2026-11-19T19:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 354,
-   "last_ok": "2026-11-19T18:38:00.658691+00:00"
+   "last_ok": "2026-11-19T19:08:00.671711+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 379,
-   "last_ok": "2026-11-19T18:38:00.658691+00:00"
+   "last_ok": "2026-11-19T19:08:00.671711+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T18:38:00.658691+00:00"
+   "last_ok": "2026-11-19T19:08:00.671711+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ace-nitro-vg272uw2bmiipx-qhd-dalle-ips-240hz-1ms-freesync-premium-3454351",
    "posted_at": "2026-11-13T13:14:00+00:00"
+  },
+  {
+   "title": "SSD NVMe M.2 2280 PCIe 3.0 x4 128Go 256Go 512Go 1To 2To Disque Dur Interne Neuf",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 66.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 66.99,
+   "median_eur": 149.99,
+   "discount_pct": 55.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · mazkar55 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh",
+   "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
    "title": "BARRETTE RAM 32Gb (2 x 16Gb) DDR4 3200MHZ SODIMM — RAMAXEL (1Rx8 / PC4-3200AA)",
@@ -122,25 +139,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8iZSgCKfu10UT4wtzUQNSFzhvv0W3oR%2BU7OGCq1RbBHG5v%2BBTWSqtasnL54sJQY9KFraI3wmBALpmQhn7IeXQAvGDrZA8uuN%2BMbgkWrhIdiSk485%2Fm1V6ru1AQnCqiUAb0T8j19iRdflhSpSXqW96vGYoaPnBwv2E4410olL%2F0kQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BDQKoUuvcgWNQUDmHdwYvc8sdjhDmTq0a%2BL0l%2B7miEfkggObVv43RRFyVsbzhbgdW9yyMm%2BYLuRzqTiwT4RxaWnmKlw6MvUjdFIgnuSFc4BoV4GIMyKcSbVX9OFOUIkCWi7m8EsmElVVK8prkh5NX3RnKzzJlVLIgDkfreZZYkiA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
-   "model": "RAM:DDR4-16Go-2933",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 79.95,
-   "shipping_eur": 3.9,
-   "effective_eur": 83.85,
-   "median_eur": 135.75,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tanzen_store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyD7OLujgGXLmI2LwhKwFYu4cMOgxMs3eoFPop43tf4mxpIN86HRs%2BlsI7OByv%2F9Gsg7hbUtAJGg%2Bs44VAVYxlu69U0Zldt9FoiOOViKzq8ZTi8n8pB1ARqTFPIaUQajuh%2FbiyXq39lTVNBSiy8FPsB",
-   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
@@ -275,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 213 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70hHdHihHqL9EPYz5ZFoO0PXG82d9lyfaicL7VczNO2jvPRTQct31iAq4X6aMVkdO%2Fjzm39mahYC6%2FZszIVvEYs0WCq49d0JlYGRSaHMgD%2FLbVqzGx5zgTHqdJEpI1ZFuKaoW2MVO8tuwuuOQohcB%2Bl",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70DxUNZokzTf2wsiqT2G1%2FXTmwyGAXhmt0qF%2FdIPN2xBywyJQHixbmS7T2%2FeN9ngbq3RrMTlQpGPM4tmdzIds3d31QhvCd4%2FWi%2BCuUZYpy3Oau1DWw5RY5Aw69zeUVW0jxlA7S8jPqFersqUT6JqHey",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -417,6 +417,13 @@
  ],
  "unclassified": [
   {
+   "title": "Casque sans fil Sony WH-1000XM4C - 2026, Réduction du Bruit, Audio Haute Résolution, Processeur QN1 HD, Lavande",
+   "price_raw": "179,50€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/casque-sans-fil-sony-wh-1000xm4c-2026-reduction-du-bruit-audio-haute-resolution-processeur-qn1-hd-lavande-3462364",
+   "posted_at": "2026-11-19T19:03:56+00:00"
+  },
+  {
    "title": "Apple Magic Keyboard avec Touch ID pour Les Mac avec Puce Apple - Français",
    "price_raw": "152€",
    "source": "dealabs",
@@ -452,7 +459,7 @@
    "posted_at": "2026-11-19T17:53:30+00:00"
   },
   {
-   "title": "Liseurse Amazon Kindle - 16 Go, sans pub",
+   "title": "Liseuse Amazon Kindle - 16 Go, sans pub",
    "price_raw": "139,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amazon-kindle-16-go-sans-pub-3462265",
@@ -483,7 +490,7 @@
    "title": "Lot 5 Ventirads AMD Wraith Stealth AM4 Ryzen Neufs + Pâte Thermique",
    "price_raw": "37.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsqEat%2B1fXPyJleBDpoeudeHld8h0j7ScX177suEXvnG9GpGJSKTd98Q6CDj4YU%2FdG7hVRbdWeY5hyxw56XRzx7cl5jWQguIp2BE2CBKnpgZMSP%2FG2rI%2FanaMszKeRK%2Bpad21uAHT8Jm%2FbJDyRH%2Bp%2FTTpAfN8PNfYa9tYCcAafeViA%3D%3D",
+   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsqyUqnCSnT%2BS97bMG%2B4cqfL6sKpeWPd0jElrn0GZfImTAUqiuInif%2Fm2Gp9KxmZTLQ9U2ymqgdrNSAy3c3Hc8oOmjq7WkpUVOFH25gXZMnKlx0%2Fz1vZZiUHyqsCC8q4Z7JsFJ9zB5vfDIVNyxMJi%2FS7%2Bsqs1ei60iBRVtIgOM95Ig%3D%3D",
    "posted_at": "2026-11-19T16:54:20+00:00"
   },
   {
@@ -574,14 +581,14 @@
    "title": "SK hynix RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches HMA851S6AFR6N-UH",
    "price_raw": "12.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206713061929?_skw=ddr4&hash=item30210f0229:g:2CcAAeSwygtq~wgR&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mZJuodRr8ocykxEjJOuG2xmZxNwiBqfvBJvEY0lqmZmziXROIDMjCkWAcT%2Ba%2Fj6XerbE26EgeLSRRCfy2wF5f6%2F7Cfsg7sFa8Vhp19DJukdlWhlUVyWkUFuiz3iLHbqijGy6rDtpmKbOS%2FXZM4UBTzVFDAmO2MQW0pgx2FCTPgMMOIyw5HAtVv%2BIyM9p0zUtehUk%2FY0yQStDambHLI7c0hIQAV0zc54Dq7zytY1PgI7F8XpMud1LfSndhVbt949G61tsIM5JOxbVt7s37lHViw",
+   "url": "https://www.ebay.fr/itm/206713061929?_skw=ddr4&hash=item30210f0229:g:2CcAAeSwygtq~wgR&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mZJuodRr8ocykxEjJOuG2xmZxNwiBqfvBJvEY0lqmZmziXROIDMjCkWAcT%2Ba%2Fj6XerbE26EgeLSRRCfy2wF5f6%2F7Cfsg7sFa8Vhp19DJukdlWhlUVyWkUFuiz3iLHbqignqp%2B1jg75COkR8pDTpuyPp%2BmaY0gGt%2FbROBnprF8QP18ONta0mqgh68zoFZNddQGFbEIpVevje%2BvyL9ubsaY4L1SzOVizah2Mk%2FXqpEAGJAwJCSyZh8twQs%2BGqCHRFQd7vCxSqeo63%2B5o%2FJsO4hhg",
    "posted_at": "2026-11-19T14:32:42+00:00"
   },
   {
    "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches M471A5143SB1-CRC",
    "price_raw": "13.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206713058479?_skw=ddr4&hash=item30210ef4af:g:BfoAAeSw2t5q~wdQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kxh3csqFTw5XFj%2BwEhXwuOAQJXWYGVp5XTAQRE%2BWe2TfGYQJWlV1eHfZx73I3Zjg%2F8djxi9He3IxVo7vNnwrosYI121cal4Ah8NAkUYVVlfWTgMEzsKnfXzwIr5%2BSZCyPEzDa300rdomF7N4D7MdgBwhc0GIwk4dBSPMy0O0PJAi7%2FOJ5DtemANoBacM1VmoB%2FUhgquuiMN0i3wxelqEoI7Ob3mlvsFKzxqq8usOZHf9VjroHGnZNuZijQMRDAn0Qpr%2Fm%2B5luFiIC1HdFZ8Mtm",
+   "url": "https://www.ebay.fr/itm/206713058479?_skw=ddr4&hash=item30210ef4af:g:BfoAAeSw2t5q~wdQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kxh3csqFTw5XFj%2BwEhXwuOAQJXWYGVp5XTAQRE%2BWe2TfGYQJWlV1eHfZx73I3Zjg%2F8djxi9He3IxVo7vNnwrosYI121cal4Ah8NAkUYVVlfWTgMEzsKnfXzwIr5%2BSZCyPQ72c8b0WBBE%2Fk84AP%2Foges2gbkiJZM2pchpWpJTp2iZHGen3Xef%2Bi5HCMrCXQOMEyALlii3CC0dz%2Fi2a8zWs1LrGopxPPpPUqaNpOn%2Fn2FdGsFVNqEd--%2FZ9Sy8WtfnqqgUu3W3InxB%2BOtLkNmVj5",
    "posted_at": "2026-11-19T14:29:00+00:00"
   },
   {
@@ -758,17 +765,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-16-msi-prestige-16-flip-b390-c3mtg-074fr-intel-core-ultra-x9-388h-32-go-ram-1-to-ssd-3461429",
    "posted_at": "2026-11-19T08:48:01+00:00"
-  },
-  {
-   "title": "Lot de 5 Ventilateurs Arctic P12 Pro PST LN - 120mm, Noir (Vendeur Tiers)",
-   "price_raw": "19€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-5-ventilateurs-arctic-p12-pro-pst-ln-120mm-vendeur-tiers-3461408",
-   "posted_at": "2026-11-19T08:40:50+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2078,
-  "models_with_reference": 66
+  "listings_seen": 2074,
+  "models_with_reference": 65
  }
 }
