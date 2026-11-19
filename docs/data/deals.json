@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T01:38:00Z",
+ "generated_at": "2026-11-19T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 353,
-   "last_ok": "2026-11-19T01:38:00.672238+00:00"
+   "last_ok": "2026-11-19T02:08:00.675683+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-19T01:38:00.672238+00:00"
+   "items": 368,
+   "last_ok": "2026-11-19T02:08:00.675683+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T01:38:00.672238+00:00"
+   "last_ok": "2026-11-19T02:08:00.675683+00:00"
   }
  },
  "watchlist": [
@@ -75,21 +75,21 @@
    "posted_at": "2026-11-17T19:16:59+00:00"
   },
   {
-   "title": "Tablette Ninkear S13 Neo PC 13 Pouces Écran IPS 3K 3:2 Intel Processor N150 12Go RAM LPDDR5 512Go SSD Windows 11",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 378.17,
-   "shipping_eur": null,
-   "effective_eur": 378.17,
-   "median_eur": 649.99,
-   "discount_pct": 41.8,
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ninkear-s13-neo-pc-13-pouces-ecran-ips-3k-32-intel-processor-n150-12go-ram-lpddr5-512go-ssd-windows-11-3455002",
-   "posted_at": "2026-11-14T05:57:28+00:00"
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FTXmO2yU%2FCYzo%2FS%2BxFaak%2Bu0JU0uB5nEwGIZ0cU0XEpXiGe5JudRR7TRdH4bVM8fMWkVTJ3g3%2FUnRD3IMdqzqqOq5vnqCzq6XZvilffO3jUg%2BDVLmZs4UIDbAvFeopGO3Gwkg%2BD%2BADxbObv33tLJSq0phcFxRtI%2Fdym5Dk806hdg%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": "RAM 8 Go (2x4 Go) DDR4 2666 MHz Kingston KCP426NS6/4 PC4-21300 UDIMM PC bureau",
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70b%2FkuJVXCJj6Juj8WuVYR1cYQhAcC15%2BRLF2PWZR8JI5Ir5%2B67E0NcLvxpxGvn%2Bfqp40PlYU6LSiMRyREZG6F3XGF8LRfAI7jOXoLjryBAuCkZXMqPZse0dVfZZbMd57fEs62lZ0pcqJi9cLYbM1Ab",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71D4OFlFKrQF%2FqYGBrK5PmYfVTgA1rMVqgbMsLkDVTT57SAzTKhOvsjluW0Q5pzRAwoj2ibnA%2Fnw8U%2BXqu1c8I7DIMnZYOMC31DK0abJRuOMFBpNLmRhRzaM7OswycJPjVnK%2FDrNkCcgxCZHDaX%2FLNA",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -340,7 +340,7 @@
    "title": "Samsung 32Go DDR5 SO-DIMM PC5-5600B Non-ECC 262 Broches M425R4GA3PB0",
    "price_raw": "286.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880130901495?_skw=ddr5&hash=itemccebe3c5f7:g:8AwAAeSwQRRq~jux&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mGOWd903Fr3YgONqbhhsRp7BgDtoCZxdpFi%2BtR%2BG1ih1zLmJOBrWK9kTd07YHPsfN%2FXZXBRxAhk%2FKvwV8zqbaOBTZObgzp5hg5%2ByMjxSmukC2hDiUrBtiZP8WZHbr8VISkifFzxaAHuDBmoi4a35nCf7%2BdTsxZup2ytRt4%2FlRCdXBCzhBQJr%2F13L2u5OpQolhQFeDxOIwU5ToMEZg8vmNGc%2Fl438FBto3iQIcbNQgpRiiZw3Zu3wGhev1bC0s7CWZ1uLY9LZKqTl6xHY9g2pB3",
+   "url": "https://www.ebay.fr/itm/880130901495?_skw=ddr5&hash=itemccebe3c5f7:g:8AwAAeSwQRRq~jux",
    "posted_at": "2026-11-19T00:03:43+00:00"
   },
   {
@@ -428,6 +428,13 @@
    "posted_at": "2026-11-18T20:38:12+00:00"
   },
   {
+   "title": "Ecran PC 10,1 Pouces Moniteur Portable HDMI VGA AV BNC – Ecran CCTV Surveillance",
+   "price_raw": "139.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336869285657?_skw=%C3%A9cran+pc&hash=item4e6ef95f19:g:244AAeSwQxxq45Hh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfH54x79I9nHnZU0%2Fw7kuAyBYIzAEuVnMbF9oBGf9gIOLujzkezhqpkY0etmRpiGS4Lrafr8cGM79p1N5mjCrsJVpKYIOb9%2B%2Bzgiw0u6CVwkjwkaYmAHWImsBCYBsOVwlMKL%2BBG%2FxscnzGBStoaiIvmeKVHtQQpi6gF%2BSj%2F%2BDH1jtDY%2BTQcEGXHWX59TqHtdoe%2B5w%2Bq4j9YXghu4lRnlGPBuyp5hS0UDKnNBg01AFbagFNWDbYAyTQityJdNGMHZ0WBtM7C03y8QjJ9kIkksSmzBoPB%2BA35W01q1%2BOUM6yCA%3D%3D",
+   "posted_at": "2026-10-29T18:34:11+00:00"
+  },
+  {
    "title": "SSD portable NVMe 20Gbps Crucial X10 Pro (TLC) - 4To, IP55, Boitier alu, jusqu'à 2100 Mo/s, câble USBC inclus (CT4000X10PROSSD902)",
    "price_raw": "448,99€",
    "source": "dealabs",
@@ -489,13 +496,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/asus-v16-gaming-v3607vm-rp036w-16-pouces-wuxga-144hz-pc-portable-intel-core-7-240h-up-to-52-ghz-16gb-ddr5-1tb-ssd-nvidia-rtx-5060-3460630",
    "posted_at": "2026-11-18T18:36:15+00:00"
-  },
-  {
-   "title": "Samsung 8 Go DDR4 SO-DIMM 260 broches PC4-2666V M471A1K43CB1-CTD",
-   "price_raw": "29.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206711112682?_skw=ddr4&hash=item3020f143ea:g:FBAAAeSwb75q~eya",
-   "posted_at": "2026-11-18T18:24:05+00:00"
   },
   {
    "title": "Ecran PC 24\" TCL QD-Mini LED 24G645",
@@ -613,14 +613,14 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2400T 1Rx8 288 broches MTA8ATF1G64AZ-2G3H1",
    "price_raw": "25.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU",
+   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kRJSKdzH5elKb0HVpV0GoE9LgAaPiws4jm%2F2SrubvUiuGbEv5LWhyFsLCxJMRXxiQspfSudUy4razJ9b1DDOtu9loxvQkIIhSEfH0w9VEhURhaSmvPS9R%2BuVabkESKyu1qNxAfKNcLST%2BuBjo81cXB73Tj%2FrhOwZyQL4ivxnM6k4geHwK8LSsOmW%2BKCs5Al1%2FGMq6iGbHeSA2qQpjg%2BhHcjeADdEXTpRZ6un7sEUsilrAnmDi8gPd4rXw9yPmijVjFY8eSh7n6FL0NGhloTP3E",
    "posted_at": "2026-11-18T14:39:45+00:00"
   },
   {
    "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
    "price_raw": "14.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R4pzN4W4LRhiyNLSRRa37fEM%2FzcJSfo0N4BjYPvWRFfWLPddB3zrjNWzOehsiYYiPom59tU76J7J2b2VREITJ22rE3h%2FyaLZIcmx8z9mvfd6T67Q3duOqIwc6nPFoO3%2F2CvoPLd%2BG3h2PgU4ZAlkUfd",
+   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R4Mk0Qe7H9VfSKUPoKmQcYqaAZ6YwaiEET5K17FapoxwkXmrz%2FrBS9jxpluxD6hH%2BxjBBXk2f35eQbWDIW8Tn41TI%2FmNO9wnIjuJuW7megYuQUEduSCkj3L%2BsGIjPc4hoLK8N7s2hV8qfTKi3iJY8hC",
    "posted_at": "2026-11-18T14:52:50+00:00"
   },
   {
@@ -632,7 +632,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2005,
-  "models_with_reference": 58
+  "listings_seen": 2003,
+  "models_with_reference": 60
  }
 }
