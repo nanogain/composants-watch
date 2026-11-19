@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T02:08:00Z",
+ "generated_at": "2026-11-19T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-19T02:08:00.675683+00:00"
+   "items": 219,
+   "last_ok": "2026-11-19T02:38:00.680984+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 368,
-   "last_ok": "2026-11-19T02:08:00.675683+00:00"
+   "items": 369,
+   "last_ok": "2026-11-19T02:38:00.680984+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T02:08:00.675683+00:00"
+   "last_ok": "2026-11-19T02:38:00.680984+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FTXmO2yU%2FCYzo%2FS%2BxFaak%2Bu0JU0uB5nEwGIZ0cU0XEpXiGe5JudRR7TRdH4bVM8fMWkVTJ3g3%2FUnRD3IMdqzqqOq5vnqCzq6XZvilffO3jUg%2BDVLmZs4UIDbAvFeopGO3Gwkg%2BD%2BADxbObv33tLJSq0phcFxRtI%2Fdym5Dk806hdg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FZhMyVm4h6BUW3foto2J6vmcMNyX%2F%2B0eh%2FHZNNYdJUQASUcOZwmMQIybCgJaP4kZ5RveeQKQ7uSZSf1DidRYj36ZlzkMDhkyWNXtm82v%2BNA%2Fr0gxd%2FLmmiziMir4YBolFnhVeV%2B3Fewd5W30pFnf%2FlAjx%2BgwWzbqDsCRAoPxaVCw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -143,23 +143,6 @@
    "posted_at": "2026-11-16T16:24:55+00:00"
   },
   {
-   "title": "Kit RAM 32 Go (2x16 Go) DDR4 3200 MHz Corsair Vengeance LPX CL16",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 208.7,
-   "shipping_eur": 0.0,
-   "effective_eur": 208.7,
-   "median_eur": 270.7,
-   "discount_pct": 22.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · matony4 (100,0 %, 329 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/940103013509?_skw=ddr4&hash=itemdae2819485:g:z3gAAeSwIrBq~d5C",
-   "posted_at": "2026-11-18T17:20:39+00:00"
-  },
-  {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
    "model": "MB:B550",
    "category": "MB",
@@ -190,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71D4OFlFKrQF%2FqYGBrK5PmYfVTgA1rMVqgbMsLkDVTT57SAzTKhOvsjluW0Q5pzRAwoj2ibnA%2Fnw8U%2BXqu1c8I7DIMnZYOMC31DK0abJRuOMFBpNLmRhRzaM7OswycJPjVnK%2FDrNkCcgxCZHDaX%2FLNA",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71nx8qafkWkFriAbOJeeGX0bWmN%2BW6SJ91yc1MrLY07u1SFO32LAHXzleRXVJ8uJKI3USeVRlLQpq1ag%2Fyoue1v9s0yiKf6sXh7HnFlv0uvzsPj4%2FbB%2FijvnQCkw6RSEAYp%2F4vUpk%2BTDWhfBFnxte8B",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -431,7 +414,7 @@
    "title": "Ecran PC 10,1 Pouces Moniteur Portable HDMI VGA AV BNC – Ecran CCTV Surveillance",
    "price_raw": "139.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336869285657?_skw=%C3%A9cran+pc&hash=item4e6ef95f19:g:244AAeSwQxxq45Hh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfH54x79I9nHnZU0%2Fw7kuAyBYIzAEuVnMbF9oBGf9gIOLujzkezhqpkY0etmRpiGS4Lrafr8cGM79p1N5mjCrsJVpKYIOb9%2B%2Bzgiw0u6CVwkjwkaYmAHWImsBCYBsOVwlMKL%2BBG%2FxscnzGBStoaiIvmeKVHtQQpi6gF%2BSj%2F%2BDH1jtDY%2BTQcEGXHWX59TqHtdoe%2B5w%2Bq4j9YXghu4lRnlGPBuyp5hS0UDKnNBg01AFbagFNWDbYAyTQityJdNGMHZ0WBtM7C03y8QjJ9kIkksSmzBoPB%2BA35W01q1%2BOUM6yCA%3D%3D",
+   "url": "https://www.ebay.fr/itm/336869285657?_skw=%C3%A9cran+pc&hash=item4e6ef95f19:g:244AAeSwQxxq45Hh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfH54x79I9nHnZU0%2Fw7kuAyBYIzAEuVnMbF9oBGf9gIOLujzkezhqpkY0etmRpiGS4Lrafr8cGM79p1N5mjCrsJVpKYIOb9%2B%2Bzgiw0u6CVwkjwkaYmAHWImsBCYBsOVwlv6uSGBKiZjulcXoaXqM2YQ%2BU9u4lKIExDV6rkSD%2BFCC4YUO%2FiACrKfxgSJlSnW%2B4a5kL2YTo3PvQpMZkS6vRw0YBXsOzKEcP8K%2FmOj1B%2FSPE0hpHfsljd%2BIhs61jdEpGPbEZoxFDG0TPTcLEh21IkzfM0GGU90WCQFElfUdpuEw%3D%3D",
    "posted_at": "2026-10-29T18:34:11+00:00"
   },
   {
@@ -613,14 +596,14 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2400T 1Rx8 288 broches MTA8ATF1G64AZ-2G3H1",
    "price_raw": "25.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kRJSKdzH5elKb0HVpV0GoE9LgAaPiws4jm%2F2SrubvUiuGbEv5LWhyFsLCxJMRXxiQspfSudUy4razJ9b1DDOtu9loxvQkIIhSEfH0w9VEhURhaSmvPS9R%2BuVabkESKyu1qNxAfKNcLST%2BuBjo81cXB73Tj%2FrhOwZyQL4ivxnM6k4geHwK8LSsOmW%2BKCs5Al1%2FGMq6iGbHeSA2qQpjg%2BhHcjeADdEXTpRZ6un7sEUsilrAnmDi8gPd4rXw9yPmijVjFY8eSh7n6FL0NGhloTP3E",
+   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kRJSKdzH5elKb0HVpV0GoE9LgAaPiws4jm%2F2SrubvUiuGbEv5LWhyFsLCxJMRXxiQspfSudUy4razJ9b1DDOtu9loxvQkIIhSEfH0w9VEhURhaSmvPS9R%2BuVabkESKyu3yI%2Fuqedm4oWwJFGCpPUsTswGAHjRxFD8L%2B7V2dw2TCJ1GEckbGZBGNByQZ28vtDcM3ZVPnfvLIRjPogbx4uVWms1Cwn0LcWfNcvS4oYvFyWQod7GRXdsZi70crADeDzf8Lr%2BM53%2BxyM9N6HpoNZN7",
    "posted_at": "2026-11-18T14:39:45+00:00"
   },
   {
    "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
    "price_raw": "14.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R4Mk0Qe7H9VfSKUPoKmQcYqaAZ6YwaiEET5K17FapoxwkXmrz%2FrBS9jxpluxD6hH%2BxjBBXk2f35eQbWDIW8Tn41TI%2FmNO9wnIjuJuW7megYuQUEduSCkj3L%2BsGIjPc4hoLK8N7s2hV8qfTKi3iJY8hC",
+   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R5JJR8yMxItSckM%2FKwiAAno9%2Bx6s5MbzdciWoUeeV3ILafgeCkhRPw4i6NHfRI9BfeJRHR%2BkXb7dqEDR3wpeVgXuj0JcldG0ASrCipPvAxUkVs%2FGs5HbOwkL%2BV6EjUPybDZ9KKY8ob%2BiWu7TrZ0m7qt",
    "posted_at": "2026-11-18T14:52:50+00:00"
   },
   {
@@ -632,7 +615,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2003,
-  "models_with_reference": 60
+  "listings_seen": 2002,
+  "models_with_reference": 58
  }
 }
