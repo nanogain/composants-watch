@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T16:08:00Z",
+ "generated_at": "2026-11-19T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-19T16:08:00.627755+00:00"
+   "items": 350,
+   "last_ok": "2026-11-19T16:38:00.680144+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-19T16:08:00.627755+00:00"
+   "items": 381,
+   "last_ok": "2026-11-19T16:38:00.680144+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T16:08:00.627755+00:00"
+   "last_ok": "2026-11-19T16:38:00.680144+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8LM--Soj3aw03munTvpQl5KL4fa0f%2FJZDvTramSorWQweeaBi9E%2Fdvj8%2F3nYm0fALxtMopzyX3Thda47Ktee2jPbdLKEqemX%2FuoEHOhTDa65J7miy61EJUZ7wgFEroilacKut8gfLeSABzf7yw8hQPLwLCz4dikUkxGFiiO6l3nw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BYGpSBRmMupBR3cvUMJ2C%2BIgMlOFyFKLADedPeB6o%2BaAw%2B8XIyFntZXdLQseMDuoEYRzH%2Bunk4dag4HjpoBr9SYpMxs21llIt5mTfkqeQutj8nsRawWarAYjsI4QYxYoPL5CZ6lHPSDdEUGrN%2FefUbhb7ttAGoiFW%2BDy7WG6O9Ng%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzJrZMMu2hNBDDW89e2af%2F%2Br5pzK1mSVh1lTed44N9CvhvVImB5MtxtYtFb1SRo1eqJKi5UDEGNiZGgaz2fjUL1WJ2fGxqbkFijAi3Fz%2Bs54v2f64bTCmy502L2AI%2Bdp%2BlNI0jdjoszGVnPlrx%2FavGs",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuw872ouAERMyOKhy5QvsVVefBmzCbmMOV4iEx7VvsEoa0ONofkBSHIE22tIuspNccPKU8sinfwzySwj1zTNqKZtun3uHZbPo6X49FFcyczeuatFDhTqgJ450h3BbbN9f3xGXd0p2v3AxgEd8%2B2ceFDp",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -211,6 +211,23 @@
    "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 496.9,
+   "discount_pct": 21.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -224,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 211 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71DYYWCRiJAuvg2jw4u7KQ83dVUXMwJO4dG0x%2FwLj%2BJf98TbD19vK8aKs6IziHhq6NPxQ%2Frxg8fowdmWSjK5i87nfMrUeDqrx0JMnXANxRA1dL9dfVXac8eoiyVPduoH8JtoF7DVv7SrTRsHq0KJvqD",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70bZarPhsqoO0b28hQ3pwvlp5e5wnjK9llQB8sfg59ZN2rTxxYzfKC9eNIc2hxAtmNlONUzq28hRq7VZYs7CMj3N57uyvGl6xGATST7KJGVVO2VjroGmb3lqhi93mxIBMrRq72mDZvc0CuFbfrGFTyn",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -262,23 +279,6 @@
    "posted_at": "2026-11-18T09:57:21+00:00"
   },
   {
-   "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
-   "model": "PSU:1000W-Gold",
-   "category": "PSU",
-   "condition": "new",
-   "price_eur": 89.99,
-   "shipping_eur": null,
-   "effective_eur": 89.99,
-   "median_eur": 108.87,
-   "discount_pct": 17.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Darty",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-cooler-master-elite-1000w-3456676",
-   "posted_at": "2026-11-15T23:55:39+00:00"
-  },
-  {
    "title": "ASUS ROG Strix Radeon RX 570 OC 4 Go GDDR5 Gaming - Carte graphique PCIe testée",
    "model": "GPU:RX 570",
    "category": "GPU",
@@ -294,6 +294,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237192488944?_skw=carte+graphique&hash=item3739c627f0:g:B4UAAeSw9rpq~v9n",
    "posted_at": "2026-11-19T14:02:22+00:00"
+  },
+  {
+   "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
+   "model": "PSU:1000W-Gold",
+   "category": "PSU",
+   "condition": "new",
+   "price_eur": 89.99,
+   "shipping_eur": null,
+   "effective_eur": 89.99,
+   "median_eur": 107.83,
+   "discount_pct": 16.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Darty",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-cooler-master-elite-1000w-3456676",
+   "posted_at": "2026-11-15T23:55:39+00:00"
   },
   {
    "title": "Disc dur SSD SATA 2.5\" - 240GB PNY",
@@ -317,11 +334,11 @@
    "model": "SSD:NVMe-2To",
    "category": "SSD",
    "condition": "used",
-   "price_eur": 91.18,
+   "price_eur": 93.26,
    "shipping_eur": 0.0,
-   "effective_eur": 91.18,
+   "effective_eur": 93.26,
    "median_eur": 385.84,
-   "discount_pct": 76.4,
+   "discount_pct": 75.8,
    "target_hit": false,
    "suspect": true,
    "merchant": "eBay · 5djamel (100,0 %, 489 avis)",
@@ -331,6 +348,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Mini PC Minisforum M1 Pro-125H (barebone) - Core Ultra 5 125H, Intel Arc Graphics, Oculink, 2 x USB4, 2,5 GbE, Wifi 7 & BT 5.4",
+   "price_raw": "349€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-minisforum-m1-pro-125h-barebone-core-ultra-5-125h-intel-arc-graphics-oculink-2-x-usb4-25-gbe-wifi-7-bt-54-3462186",
+   "posted_at": "2026-11-19T16:30:34+00:00"
+  },
+  {
+   "title": "Ventilateurs CORSAIR RS140 ARGB - 140mm, PWM, Connexion Daisy-Chain, 2x140mm, blanc ou noir",
+   "price_raw": "23,98€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/corsair-rs140-argb-140mm-ventilateurs-pwm-connexion-daisy-chain-2x140mm-3462181",
+   "posted_at": "2026-11-19T16:12:49+00:00"
+  },
+  {
+   "title": "ASUS GeForce GT 730 2 Go GDDR5 Carte Graphique",
+   "price_raw": "45.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800851771750?_skw=carte+graphique&hash=itemba767c4166:g:13wAAOSweaBiYAug",
+   "posted_at": "2026-10-29T12:39:42+00:00"
+  },
   {
    "title": "PC Portable 16\" Omen Max 16 - OLED 2,5k 240Hz, Rtx 5070 Ti 12 Go, Ultra 7 255HX, 32 Go DDR5, SSD 1 To, Win 11",
    "price_raw": "2 096,28€",
@@ -412,7 +450,7 @@
    "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches M471A5143SB1-CRC",
    "price_raw": "13.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206713058479?_skw=ddr4&hash=item30210ef4af:g:BfoAAeSw2t5q~wdQ",
+   "url": "https://www.ebay.fr/itm/206713058479?_skw=ddr4&hash=item30210ef4af:g:BfoAAeSw2t5q~wdQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kxh3csqFTw5XFj%2BwEhXwuOAQJXWYGVp5XTAQRE%2BWe2TfGYQJWlV1eHfZx73I3Zjg%2F8djxi9He3IxVo7vNnwrosYI121cal4Ah8NAkUYVVlfWTgMEzsKnfXzwIr5%2BSZCyOP57BVGcEZypZA5iTVzAGUbmY35uHTLY3vMljhYGxmZMrJjLAYH8OsAf7hg3mHPIbrLRhylhC6AX2UIW06qVu5A%2FnshTvuJGFLze1ZlYZpOX3O9h--LgaqLWICnC1k8IncSmKL0zsuP0rt7UUDQVut",
    "posted_at": "2026-11-19T14:29:00+00:00"
   },
   {
@@ -421,13 +459,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/377659025523?_skw=alimentation+pc&hash=item57ee3b6873:g:RTMAAeSwEkVq~wR9",
    "posted_at": "2026-11-19T14:18:45+00:00"
-  },
-  {
-   "title": "Clavier QWERTY/AZERTY Universel sans fil bluetooth PC Tablette Smartphone ordi",
-   "price_raw": "22.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/254577320321?_skw=clavier&hash=item3b45fda181:g:AwcAAOSwtyxeoV7S&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k7kZrG6YjHxU1JH2ytEoKZQZ1Ej4kRwWvtfWC%2FMMsrRZhVcSnITTMsRfuLdTy3AgkAg4nEvbQa%2BAHrmA2e1ZCkm3SwiG6%2FUSRYwqznnustwtzBYCL9tyG8OurEcjzHI9QA3H2wwTuBGz9Ve3h3mPk5taGyoZxbaPNrLNMkEsg%2FEXemyGRdv8SNQbLBD27%2BL8DEikDhxYLRPKrMCfKFyWi6bYuLbZfUTg4cqohZ%2FM7Qdb8mZBdpdJtit03q9yiEMFUPEd2DOqfXgzD3QOm5k6Hk",
-   "posted_at": "2020-04-23T09:26:34+00:00"
   },
   {
    "title": "PC de bureau Lenovo Loq Tower - i5-14400, RTX 5060 8Go, RAM 16 Go DDR5, SSD 512 Go, Sans OS",
@@ -666,24 +697,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-g305-lightspeed-12-000-dpi-6-boutons-programmables-capteur-hero-tapis-de-souris-gamer-logitech-g-g240-3459045",
    "posted_at": "2026-11-19T08:23:15+00:00"
-  },
-  {
-   "title": "PC Portable 15,6'' Lenovo IdeaPad Slim 3 15AMN8 - Full HD IPS, Ryzen 5 40, RAM 16 Go, SSD 512 Go, 47 Wh, Sans OS",
-   "price_raw": "489,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-15amn8-full-hd-ips-ryzen-5-40-ram-16-go-ssd-512-go-47-wh-sans-os-3460391",
-   "posted_at": "2026-11-19T08:21:34+00:00"
-  },
-  {
-   "title": "Tablette Tactile 8.7\" Amazon Kids Tablet 8 - (nouvelle génération) : écran HD, 1 an de Kids+ avec vidéos, applis, jeux et livres audio bleu",
-   "price_raw": "114,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amazon-kids-tablet-8-nouvelle-generation-ecran-hd-87-1-an-de-kids-avec-videos-applis-jeux-et-livres-audio-bleu-3461277",
-   "posted_at": "2026-11-19T08:13:51+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2060,
-  "models_with_reference": 66
+  "listings_seen": 2056,
+  "models_with_reference": 65
  }
 }
