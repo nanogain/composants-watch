@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T17:08:00Z",
+ "generated_at": "2026-11-19T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 351,
-   "last_ok": "2026-11-19T17:08:00.658692+00:00"
+   "items": 352,
+   "last_ok": "2026-11-19T17:38:00.656460+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-19T17:08:00.658692+00:00"
+   "items": 382,
+   "last_ok": "2026-11-19T17:38:00.656460+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T17:08:00.658692+00:00"
+   "last_ok": "2026-11-19T17:38:00.656460+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FlUJx3PtfEX7oyyWKMEOepI%2BuF1wEOtvKBemYV5gYu44Fuw%2Bo3Mq%2BdLDQMSCEh5JQIAZ4b4XRgsR9Kt5zCReDIRal%2Fxl6DPVJW99OjkRVHeMLSkLTNL13mZNvNJe%2BaXXKDWqG5gT9uo0KM8Yfxvm6%2FuKuvqiuHHipEIvq67HR%2BxA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9%2B%2B3zWqKJK7mMMVdzWWIuqwxDoIv3gUkIOSPmcZoFLMtvV%2BKVDpEmNKFBsSkMfLXBGcsN4o98cU9xAv27PvGCxp77d1%2BLshpvfTegxZY%2FVhtKEglW26NhM355HF0A63oDTcnG%2BW8W3kAwMKI2ymkAlUuuXlzvYFGBtNkvsW65JLQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwaUxZn2HM33EKrfEba4rS2d9R1Sq3lmAbHqFAMpTTlIRDP6tKtVgIksTWghxtyTO3%2F0l7wd49XNyAhODitlgb9LvizHG73PJ%2Fu9NAJUSRscdQyrUGMPlCXEkpmwuS8MCNDvCb94u%2FX32cM%2BX86UYXl",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwXuH9HJKBqC52mZJKkojdrvHnHAvReCpqXnXfblE1tDAeZ%2FmS%2FO8hI7fjcg0lnqzQid0CQvYkAuIF%2FxotJNmWcj2lveR8l8eMki9QKTgrQBlViIBrte%2FyPhSyo5GaVJfnUuCLzN%2FyNpZNpHYxpFw5n",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -194,23 +194,6 @@
    "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 496.9,
-   "discount_pct": 21.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -222,9 +205,9 @@
    "discount_pct": 20.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 211 avis)",
+   "merchant": "eBay · fastseller59 (99,5 %, 212 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72%2FtBir%2Busx4n0AZg4bjlVloug5rDpQ1DMsAHZdiZM2tR0pnm9OitgGM8lXB3q58ODxirgxdw2Jm7SRlAci4Im%2FDeVC7o%2Br1kiooXLohlOtH3II9Lh41Mi98002QXPK6%2F938SLO%2BOrkamChTWFRVnR3",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71JNbiC3sGyPLa6Sh%2Bumb44YYjku4tvGPby7QvlMg%2BfPDh12q0dYaQ%2BcnbU35JCBrzHbmf6wfi9hvYQnbogjt%2FUrXtmQjETsddbJq7YTojANK%2F0TPipMoi7UaMhtXwwBJUaFVZ%2BXex%2F5ttzn%2BnVWBlY",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -332,6 +315,27 @@
  ],
  "unclassified": [
   {
+   "title": "Liseurse Amazon Kindle - 16 Go, sans pub",
+   "price_raw": "139,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/amazon-kindle-16-go-sans-pub-3462265",
+   "posted_at": "2026-11-19T17:34:28+00:00"
+  },
+  {
+   "title": "SK Hynix 16Gb RAM PC5-4800B 1Rx8 DDR5  SODIMM ( 1 * 16Gb ) pour pc portable.",
+   "price_raw": "166.60 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940105991572?_skw=ddr5&hash=itemdae2af0594:g:IQIAAeSww-Zq~zA0",
+   "posted_at": "2026-11-19T17:22:27+00:00"
+  },
+  {
+   "title": "CARTE MERE MAINBOARD + CPU A10-9700E LENOVO THINKCENTRE  M715Q AM4IH 01LM570",
+   "price_raw": "33.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820373300181?_skw=carte+m%C3%A8re&hash=itembf020f23d5:g:CO0AAeSwXVho38lv",
+   "posted_at": "2026-11-19T17:06:15+00:00"
+  },
+  {
    "title": "Abonnement 6 mois NVIDIA Geforce Now à - 30% - Ex. : Performance 6 mois",
    "price_raw": "38,49€",
    "source": "dealabs",
@@ -349,11 +353,11 @@
    "title": "Lot 5 Ventirads AMD Wraith Stealth AM4 Ryzen Neufs + Pâte Thermique",
    "price_raw": "37.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLspab9NLJYLmR5pvXP4aj3VdKl%2FIhgKyI6SnkTrfGRe%2BGTFgHfhuLLS8932vvqtEGwlhddIhGNHa--u0e5q7QzibvA7ARF8zkbRJ5maIl3CGhlaRIb%2FaH6ZURIk3xoO%2FiQyh2WxIKAfrrfp6rZRfhK%2FqId1EujqQ7QfuZusOU6oJTg%3D%3D",
+   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsr0cq88HATUzkudsFRgVY0gLx6EPEdvVGgZddiTKnVYGziorks4ERLFNtOWcagrsgivwJEAc4WRZy%2F2ABGlokrdJyqgklp9gSIvu8B0ByZjoJP2HF2N%2FDzHG%2FSb2vAJ8a341JFjalg7QxrmuMho%2F6fZPfLxA7Kotb%2FlOTyki46WeQ%3D%3D",
    "posted_at": "2026-11-19T16:54:20+00:00"
   },
   {
-   "title": "Mini PC Minisforum M1 Pro-125H (barebone) - Core Ultra 5 125H, Intel Arc Graphics, Oculink, 2 x USB4, 2,5 GbE, Wifi 7 & BT 5.4",
+   "title": "Mini PC Minisforum M1 Pro-125H (barebone : ni ram ni SSD) - Core Ultra 5 125H, Intel Arc Graphics, Oculink, 2 xUSB4, 2,5 GbE, Wifi 7 & BT5.4",
    "price_raw": "349€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-minisforum-m1-pro-125h-barebone-core-ultra-5-125h-intel-arc-graphics-oculink-2-x-usb4-25-gbe-wifi-7-bt-54-3462186",
@@ -393,13 +397,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206713191311?_skw=ddr4&hash=item302110fb8f:g:9RgAAeSwBuFq~xjS",
    "posted_at": "2026-11-19T15:44:54+00:00"
-  },
-  {
-   "title": "LOGITECH MK545 CLAVIER + SOURIS ENENSEMBLE DE",
-   "price_raw": "17.24 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840145396371?_skw=clavier&hash=itemc39c916293:g:4pIAAeSwDhVq~wyC",
-   "posted_at": "2026-11-19T15:45:19+00:00"
   },
   {
    "title": "Tablette 11,2\" Xiaomi Pad 8 Gris - 8 Go 128 Go Processeur Snapdragon 8s Gen 4 (Vendeur tiers)",
@@ -454,7 +451,7 @@
    "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches M471A5143SB1-CRC",
    "price_raw": "13.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206713058479?_skw=ddr4&hash=item30210ef4af:g:BfoAAeSw2t5q~wdQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kxh3csqFTw5XFj%2BwEhXwuOAQJXWYGVp5XTAQRE%2BWe2TfGYQJWlV1eHfZx73I3Zjg%2F8djxi9He3IxVo7vNnwrosYI121cal4Ah8NAkUYVVlfWTgMEzsKnfXzwIr5%2BSZCyNFKxPVY6Xz%2B7Qb7Ig5hxRLrdqlgpmYwEJBhSLt9spJaxZf65CzdQ8Xb1i8bHPMBUnlnz%2BiSeSJn40BYXhrKWIDxwiJyV0NUpNZ10kOLp7B1LtOPreCp6qBdUPauGomKArDpipS5D04VwNoGALdKaxU",
+   "url": "https://www.ebay.fr/itm/206713058479?_skw=ddr4&hash=item30210ef4af:g:BfoAAeSw2t5q~wdQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kxh3csqFTw5XFj%2BwEhXwuOAQJXWYGVp5XTAQRE%2BWe2TfGYQJWlV1eHfZx73I3Zjg%2F8djxi9He3IxVo7vNnwrosYI121cal4Ah8NAkUYVVlfWTgMEzsKnfXzwIr5%2BSZCyMjf1I%2BgMHsZxnLtfag%2B02XKi1hCUmpUOdWJpehxq9JPrUaaiCZpmy99vDfPqmr%2Beec48u6LwFDZgyDSl8w9psjMMT%2F7kNHxdelojkDccPVY3IaqAPkKmR2p02odWnNHOhhH7WvMy%2FEMs6IPj3ymihD",
    "posted_at": "2026-11-19T14:29:00+00:00"
   },
   {
@@ -512,13 +509,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/redmi-pad-2-pro-3461929",
    "posted_at": "2026-11-19T12:50:54+00:00"
-  },
-  {
-   "title": "Carte mère Supermicro X11DPL-I LGA3647 MB ATX Max 512 Go PCI Express testé",
-   "price_raw": "699.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944396695?_skw=carte+m%C3%A8re&hash=item201e207397:g:WvMAAeSwHHtq~viU",
-   "posted_at": "2026-11-19T13:31:19+00:00"
   },
   {
    "title": "Console de jeu portable MSI Claw 7 AI+ A2VM-021FR - Intel Core Ultra 7 258V, 32 Go LPDDR5x, SSD 512 Go",
@@ -673,17 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-signature-plus-m750-l-large-3461503",
    "posted_at": "2026-11-19T08:37:57+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Chromebook Lenovo 14M8911 - WUXGA (1920 x 1200) IPS, MTK 540, RAM 4 Go, 64 Go eMMC, 50 Wh + 3 mois d'abo Google AI Pro",
-   "price_raw": "159,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-chromebook-lenovo-14m8911-wuxga-1920-x-1200-ips-mtk-540-ram-4-go-64-go-emmc-50-wh-3460403",
-   "posted_at": "2026-11-19T08:31:12+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2061,
+  "listings_seen": 2064,
   "models_with_reference": 65
  }
 }
