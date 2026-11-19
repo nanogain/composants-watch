@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T03:08:00Z",
+ "generated_at": "2026-11-19T03:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 352,
-   "last_ok": "2026-11-19T03:08:00.619939+00:00"
+   "last_ok": "2026-11-19T03:38:00.659365+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-19T03:08:00.619939+00:00"
+   "items": 371,
+   "last_ok": "2026-11-19T03:38:00.659365+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T03:08:00.619939+00:00"
+   "last_ok": "2026-11-19T03:38:00.659365+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 209 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72RqTNRR9kuyvd9WCdaA9mt7br%2B%2FMQgYodiquDdWO2G2KtYSgp4fBAv%2B0nlNp%2B3pQ9NoO880bA%2BQs3sUJs02WHGxOg46JzwLy4EsNEg9OnP5r8tguAndVjAByLUWtbhG9DdAw61C219ZCEVtocrjGwy",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70rwqtESeHqDY0IEHsgOFfvAk2IPg6LUdhk5KtIrI0B7RB2IaiCeZGoFfAVKhcRqlIEdgnw0jWudWa7SLkvuRD5ePkr%2BJUGK1Y%2FCVOQg74AHiu11ZHl0RalXrFJsvi4tnNH36%2BQwH5sGx5HlAauqqC6",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -247,6 +247,13 @@
  ],
  "unclassified": [
   {
+   "title": "DJI Osmo Action 4 Essential Bundle - 4K/120 IPS",
+   "price_raw": "179€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/dji-osmo-action-4-essential-bundle-4k120-ips-3461087",
+   "posted_at": "2026-11-19T03:15:54+00:00"
+  },
+  {
    "title": "adaptateur 12 broches males pour carte graphique certifié nvidia RTX",
    "price_raw": "7.59 EUR",
    "source": "ebay",
@@ -313,7 +320,7 @@
    "title": "Samsung 32Go DDR5 SO-DIMM PC5-5600B Non-ECC 262 Broches M425R4GA3PB0",
    "price_raw": "286.70 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880130901495?_skw=ddr5&hash=itemccebe3c5f7:g:8AwAAeSwQRRq~jux&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mGOWd903Fr3YgONqbhhsRp7BgDtoCZxdpFi%2BtR%2BG1ih1zLmJOBrWK9kTd07YHPsfN%2FXZXBRxAhk%2FKvwV8zqbaOBTZObgzp5hg5%2ByMjxSmukC2hDiUrBtiZP8WZHbr8VIQkvuujLG4ToLBYfqgyM6t2%2Fn7dZZ9epOmqjINAH9PwexB5ePSEGsHdVenVC4%2B8vSOfe5KcrPrwlY0mNZp9%2BEJVzgJhcx2RPKgzPd5W0VARxv%2BWE4P9O295vf8QxKLgnEBZnLEs2K1Mu0cbIhmlhPYI",
+   "url": "https://www.ebay.fr/itm/880130901495?_skw=ddr5&hash=itemccebe3c5f7:g:8AwAAeSwQRRq~jux&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mGOWd903Fr3YgONqbhhsRp7BgDtoCZxdpFi%2BtR%2BG1ih1zLmJOBrWK9kTd07YHPsfN%2FXZXBRxAhk%2FKvwV8zqbaOBTZObgzp5hg5%2ByMjxSmukC2hDiUrBtiZP8WZHbr8VISbpnMA40BRsNyDb8tB%2FZe9fvwaO2eB0jjG1XNmOXpsd9R03d42kmtT3jg044YCdnFU30TOfwVfm4uXDm8WGV7s2lLs6RFce3%2FDKyz%2Ff3EgCOCSm4elr0vttf34FhyQgKOUGqEXH0o3v4m1YgF01TYG",
    "posted_at": "2026-11-19T00:03:43+00:00"
   },
   {
@@ -579,26 +586,19 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2400T 1Rx8 288 broches MTA8ATF1G64AZ-2G3H1",
    "price_raw": "25.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kRJSKdzH5elKb0HVpV0GoE9LgAaPiws4jm%2F2SrubvUiuGbEv5LWhyFsLCxJMRXxiQspfSudUy4razJ9b1DDOtu9loxvQkIIhSEfH0w9VEhURhaSmvPS9R%2BuVabkESKyu2MCRC64x8O96tJYEb%2BAnGe6eqX9te8kYBDkzvPi6cEI7BNkh4iiC3tRAviird0SmYgjQ3QtBwrjbFPyv6Lhj0GMPX3lWhNEHOGE35Hf5PWQ%2FTSNbwRb7BXi7YGi1A8BeCTbFdO7GGf53hABM4Q5KxD",
+   "url": "https://www.ebay.fr/itm/206710689111?_skw=ddr4&hash=item3020eacd57:g:t60AAeSwyuNq~beU&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kRJSKdzH5elKb0HVpV0GoE9LgAaPiws4jm%2F2SrubvUiuGbEv5LWhyFsLCxJMRXxiQspfSudUy4razJ9b1DDOtu9loxvQkIIhSEfH0w9VEhURhaSmvPS9R%2BuVabkESKyu3NeNxLBbrBcPQTeLWx7daoWI%2FBRjvcTcaKgaYkiHpZbgoODOWaaTQcF7x3XAxoG1sfTbkscFdd%2FX5UPbYeMNlLMhDEwuAukpzQmWVbfdbmLXQ9Si82m4XHyv54gYU6oNsP9mWfgC7q%2FEGIT8%2FKGQtQ",
    "posted_at": "2026-11-18T14:39:45+00:00"
   },
   {
    "title": "Micron RAM 4 Go DDR4 SDRAM DIMM PC4-2666V-UC0-11 MTA4ATF51264AZ",
    "price_raw": "14.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R7%2BEoMcMmhd4mapoAUgYxPDlqgU5G0aRUTil16%2FX0yTVVQN6hiWpPviEcd7xhiAAIqRZ77ng76OISCMUP3WWjpoQ7D%2F6ydPEcxfh8haPqSfdA72624l8NDEMmH5qhGnhiAnmFS%2B0de1jb7P3Tl9yme0",
+   "url": "https://www.ebay.fr/itm/206710740587?_skw=ddr4&hash=item3020eb966b:g:NQsAAeSwK1xq~bst&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kT7RW8Dc9b%2BgC4f1j8p4LcteQ45qNeOJTROKWiwexaJQProAFimtPoBoS%2F6Mw8i3eiBJTSs8Y6BfInGuGsFxB3J%2Bv%2BKYaJiqUOnA4ye1G%2BIssZ7yJoEJ%2F85tPTagVK3R4QD1J1y1ubjROhN5mmWF1yxmJB4asssl7GcEHPa8N5Cccoj%2BTzwm1Zkbv9cQxyfB4Te2QoEvlJ64CA0MeEpM0G9ue9spKoKqATmiERqiDgzFDEo2oqpMEB0P0sA2HpF9BESV9CsXO1qli33UDV2gr4",
    "posted_at": "2026-11-18T14:52:50+00:00"
-  },
-  {
-   "title": "Mini PC NiPoGi AMD Ryzen 7 7730U 16 Go RAM 1 To SSD Windows 11 Pro E3B Noir (Vendeur Tiers)",
-   "price_raw": "379,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-nipogi-amd-ryzen-7-7730u-16-go-ram-1-to-ssd-windows-11-pro-e3b-noir-3460363",
-   "posted_at": "2026-11-18T14:27:15+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2006,
-  "models_with_reference": 58
+  "listings_seen": 2002,
+  "models_with_reference": 57
  }
 }
