@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T16:38:00Z",
+ "generated_at": "2026-11-19T17:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 350,
-   "last_ok": "2026-11-19T16:38:00.680144+00:00"
+   "items": 351,
+   "last_ok": "2026-11-19T17:08:00.658692+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-19T16:38:00.680144+00:00"
+   "items": 385,
+   "last_ok": "2026-11-19T17:08:00.658692+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T16:38:00.680144+00:00"
+   "last_ok": "2026-11-19T17:08:00.658692+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-17T19:16:59+00:00"
   },
   {
-   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 10.5,
-   "shipping_eur": 3.78,
-   "effective_eur": 14.28,
-   "median_eur": 24.7,
-   "discount_pct": 42.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 211 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
-   "posted_at": "2026-11-11T18:03:48+00:00"
-  },
-  {
    "title": "Disque SSD INTERNE M.2  128Go TOSHIBA  THNSNK128GVN8  SATA M.2  2280  - 128GB",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BYGpSBRmMupBR3cvUMJ2C%2BIgMlOFyFKLADedPeB6o%2BaAw%2B8XIyFntZXdLQseMDuoEYRzH%2Bunk4dag4HjpoBr9SYpMxs21llIt5mTfkqeQutj8nsRawWarAYjsI4QYxYoPL5CZ6lHPSDdEUGrN%2FefUbhb7ttAGoiFW%2BDy7WG6O9Ng%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FlUJx3PtfEX7oyyWKMEOepI%2BuF1wEOtvKBemYV5gYu44Fuw%2Bo3Mq%2BdLDQMSCEh5JQIAZ4b4XRgsR9Kt5zCReDIRal%2Fxl6DPVJW99OjkRVHeMLSkLTNL13mZNvNJe%2BaXXKDWqG5gT9uo0KM8Yfxvm6%2FuKuvqiuHHipEIvq67HR%2BxA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -139,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuw872ouAERMyOKhy5QvsVVefBmzCbmMOV4iEx7VvsEoa0ONofkBSHIE22tIuspNccPKU8sinfwzySwj1zTNqKZtun3uHZbPo6X49FFcyczeuatFDhTqgJ450h3BbbN9f3xGXd0p2v3AxgEd8%2B2ceFDp",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwaUxZn2HM33EKrfEba4rS2d9R1Sq3lmAbHqFAMpTTlIRDP6tKtVgIksTWghxtyTO3%2F0l7wd49XNyAhODitlgb9LvizHG73PJ%2Fu9NAJUSRscdQyrUGMPlCXEkpmwuS8MCNDvCb94u%2FX32cM%2BX86UYXl",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -241,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 211 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70bZarPhsqoO0b28hQ3pwvlp5e5wnjK9llQB8sfg59ZN2rTxxYzfKC9eNIc2hxAtmNlONUzq28hRq7VZYs7CMj3N57uyvGl6xGATST7KJGVVO2VjroGmb3lqhi93mxIBMrRq72mDZvc0CuFbfrGFTyn",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72%2FtBir%2Busx4n0AZg4bjlVloug5rDpQ1DMsAHZdiZM2tR0pnm9OitgGM8lXB3q58ODxirgxdw2Jm7SRlAci4Im%2FDeVC7o%2Br1kiooXLohlOtH3II9Lh41Mi98002QXPK6%2F938SLO%2BOrkamChTWFRVnR3",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -349,6 +332,27 @@
  ],
  "unclassified": [
   {
+   "title": "Abonnement 6 mois NVIDIA Geforce Now à - 30% - Ex. : Performance 6 mois",
+   "price_raw": "38,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nvidia-geforce-now-abonnement-6-mois-a-30-ex-performance-6-mois-3462219",
+   "posted_at": "2026-11-19T16:57:34+00:00"
+  },
+  {
+   "title": "Webcam Logitech Brio 100 - Full HD 1080p , coloris Graphite, Micro intégré & Volet de confidentialité",
+   "price_raw": "19,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/webcam-full-hd-1080p-logitech-brio-100-graphite-micro-integre-volet-de-confidentialite-3462195",
+   "posted_at": "2026-11-19T16:27:36+00:00"
+  },
+  {
+   "title": "Lot 5 Ventirads AMD Wraith Stealth AM4 Ryzen Neufs + Pâte Thermique",
+   "price_raw": "37.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLspab9NLJYLmR5pvXP4aj3VdKl%2FIhgKyI6SnkTrfGRe%2BGTFgHfhuLLS8932vvqtEGwlhddIhGNHa--u0e5q7QzibvA7ARF8zkbRJ5maIl3CGhlaRIb%2FaH6ZURIk3xoO%2FiQyh2WxIKAfrrfp6rZRfhK%2FqId1EujqQ7QfuZusOU6oJTg%3D%3D",
+   "posted_at": "2026-11-19T16:54:20+00:00"
+  },
+  {
    "title": "Mini PC Minisforum M1 Pro-125H (barebone) - Core Ultra 5 125H, Intel Arc Graphics, Oculink, 2 x USB4, 2,5 GbE, Wifi 7 & BT 5.4",
    "price_raw": "349€",
    "source": "dealabs",
@@ -370,7 +374,7 @@
    "posted_at": "2026-10-29T12:39:42+00:00"
   },
   {
-   "title": "PC Portable 16\" Omen Max 16 - OLED 2,5k 240Hz, Rtx 5070 Ti 12 Go, Ultra 7 255HX, 32 Go DDR5, SSD 1 To, Win 11",
+   "title": "PC Portable 16\" Omen Max 16 - OLED 2,5k 240Hz, Rtx 5070 Ti 12 Go, Ultra 7 255HX, 32 Go DDR5, SSD 1 To, Win 11 (hellorse.fr)",
    "price_raw": "2 096,28€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-16-omen-max-16-oled-25k-240hz-rtx-5070-ti-12-go-ultra-7-255hx-32-go-ddr5-ssd-1-to-win-11-3462162",
@@ -450,7 +454,7 @@
    "title": "Samsung RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches M471A5143SB1-CRC",
    "price_raw": "13.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206713058479?_skw=ddr4&hash=item30210ef4af:g:BfoAAeSw2t5q~wdQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kxh3csqFTw5XFj%2BwEhXwuOAQJXWYGVp5XTAQRE%2BWe2TfGYQJWlV1eHfZx73I3Zjg%2F8djxi9He3IxVo7vNnwrosYI121cal4Ah8NAkUYVVlfWTgMEzsKnfXzwIr5%2BSZCyOP57BVGcEZypZA5iTVzAGUbmY35uHTLY3vMljhYGxmZMrJjLAYH8OsAf7hg3mHPIbrLRhylhC6AX2UIW06qVu5A%2FnshTvuJGFLze1ZlYZpOX3O9h--LgaqLWICnC1k8IncSmKL0zsuP0rt7UUDQVut",
+   "url": "https://www.ebay.fr/itm/206713058479?_skw=ddr4&hash=item30210ef4af:g:BfoAAeSw2t5q~wdQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kxh3csqFTw5XFj%2BwEhXwuOAQJXWYGVp5XTAQRE%2BWe2TfGYQJWlV1eHfZx73I3Zjg%2F8djxi9He3IxVo7vNnwrosYI121cal4Ah8NAkUYVVlfWTgMEzsKnfXzwIr5%2BSZCyNFKxPVY6Xz%2B7Qb7Ig5hxRLrdqlgpmYwEJBhSLt9spJaxZf65CzdQ8Xb1i8bHPMBUnlnz%2BiSeSJn40BYXhrKWIDxwiJyV0NUpNZ10kOLp7B1LtOPreCp6qBdUPauGomKArDpipS5D04VwNoGALdKaxU",
    "posted_at": "2026-11-19T14:29:00+00:00"
   },
   {
@@ -508,6 +512,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/redmi-pad-2-pro-3461929",
    "posted_at": "2026-11-19T12:50:54+00:00"
+  },
+  {
+   "title": "Carte mère Supermicro X11DPL-I LGA3647 MB ATX Max 512 Go PCI Express testé",
+   "price_raw": "699.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137944396695?_skw=carte+m%C3%A8re&hash=item201e207397:g:WvMAAeSwHHtq~viU",
+   "posted_at": "2026-11-19T13:31:19+00:00"
   },
   {
    "title": "Console de jeu portable MSI Claw 7 AI+ A2VM-021FR - Intel Core Ultra 7 258V, 32 Go LPDDR5x, SSD 512 Go",
@@ -669,38 +680,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-14-chromebook-lenovo-14m8911-wuxga-1920-x-1200-ips-mtk-540-ram-4-go-64-go-emmc-50-wh-3460403",
    "posted_at": "2026-11-19T08:31:12+00:00"
-  },
-  {
-   "title": "Pack Logitech : Souris sans fil Lift Ergo + Clavier sans fil Pebble Keys 2 K380s + Tapis de souris Studio Série (70 x 30 cm) Rose",
-   "price_raw": "59,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-logitech-souris-sans-fil-lift-ergo-clavier-sans-fil-pebble-keys-2-k380s-tapis-de-souris-studio-serie-70-x-30-cm-rose-3459935",
-   "posted_at": "2026-11-19T08:27:17+00:00"
-  },
-  {
-   "title": "Pack Logitech : Souris sans fil Lift Ergo + Clavier sans fil Signature K650 Ergo + Tapis de souris Studio Série Graphite (70 x 30 cm)",
-   "price_raw": "54,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-logitech-souris-sans-fil-lift-ergo-clavier-sans-fil-signature-k650-ergo-tapis-de-souris-studio-serie-graphite-70-x-30-cm-3459841",
-   "posted_at": "2026-11-19T08:26:35+00:00"
-  },
-  {
-   "title": "Pack gamer Logitech G - Souris filaire G502 Hero + Clavier filaire - G213 Prodigy + Tapis de souris G240 -",
-   "price_raw": "39,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-gamer-logitech-g-souris-filaire-g502-hero-clavier-filaire-g213-prodigy-tapis-de-souris-g240-3459832",
-   "posted_at": "2026-11-19T08:24:28+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech G305 Lightspeed - 12 000 dpi, 6 Boutons Programmables, Capteur HERO + Tapis de souris gamer Logitech G G240",
-   "price_raw": "29,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-g305-lightspeed-12-000-dpi-6-boutons-programmables-capteur-hero-tapis-de-souris-gamer-logitech-g-g240-3459045",
-   "posted_at": "2026-11-19T08:23:15+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2056,
+  "listings_seen": 2061,
   "models_with_reference": 65
  }
 }
