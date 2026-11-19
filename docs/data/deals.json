@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-19T13:08:00Z",
+ "generated_at": "2026-11-19T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 345,
-   "last_ok": "2026-11-19T13:08:00.688912+00:00"
+   "items": 347,
+   "last_ok": "2026-11-19T13:38:00.662183+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-19T13:08:00.688912+00:00"
+   "items": 382,
+   "last_ok": "2026-11-19T13:38:00.662183+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-19T13:08:00.688912+00:00"
+   "last_ok": "2026-11-19T13:38:00.662183+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-17T19:16:59+00:00"
   },
   {
-   "title": "[Prime] Kit Mémoire RAM Netac XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (vendeur tiers)",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 184.44,
-   "shipping_eur": null,
-   "effective_eur": 184.44,
-   "median_eur": 316.16,
-   "discount_pct": 41.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ram-netac-xmp-20-ddr4-32-go-2-x-16-go-3200-mhz-cl16-20-20-40-135-v-288-broches-udimm-xmp-20-blanc-vendeur-tiers-3461587",
-   "posted_at": "2026-11-19T09:16:42+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -105,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9PhqxoD%2FgBf9cXy8k60QNI%2FoansF2XUJJNA0nnuB7PJlUJqgViQ9USIWIpIoCQiyUIjFMwsyN13BSoqtcgg4PDERGJZ1aF6jNu%2FjIUbYC50pdQLruQ4NIstCcUj8FU3eDbMVVFiWvRcPtv9mZaOsBvDqaSZTa3TOixzW1SoftBOA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Byk50kJpyOW21P4UPs%2F%2B1rkYKxDWaoijoPune5O%2F4yE4Oho95QJWPdWe6K891rI%2BZKhio%2FjjsH1IIGzHvxXCtdszfzkVKt605Ac0uoy6tJ6OVS2wcRwqpGKPLedSo0lE2XD2IPpmnQfbZOsKhx4vpQdBiEOcRfpcgIb9l8JqNqw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -122,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz%2F3sGklxsZJOKK1I08jeqU%2FDYPx89TprPsUUnzqt1KwfD4FeRUaF8ryZwqJZMofnIES0RQ9jgNGDVUgXY%2BHD904NMr6N5jPrUANCW5noBbSeaRetbDL%2B%2FjSFi62mq4ZJdXzZ9a1awmVnetBBlcQISo",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux5BmeIZZfWMJr%2FLboFB4VA1%2Fwywk9vfyevHcce5nGesfLUrMZgTN91js7ntKt%2BRvqDUGyD1oboYnJWuDNOpeeEDuRx%2FRRH1dDlwwDriyw028gOO%2FhPtCjDXcptTTWJlE9N53rVgoIbnQOn8LLv63i3",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -211,6 +194,23 @@
    "posted_at": "2026-10-03T18:54:25+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 496.9,
+   "discount_pct": 21.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 211 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70K8fhGtNBs3Pkbvi4pSc6eycqhM7TAcycBCuIEqKmVBeZASbDcjiYKGigsACEF%2F6Xb885GHyV4W2x9XB%2FIaeWmy%2Fc4wAWzU8DWOgpcYF6EZWbmATYLjpoEo0db9A1a8BKXCYqpQISwc6TGIaExtTPG",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72V0zxbyw9OKN3znaXOKsRHbarOy%2BUdvywkvL1wbxkLeTfznBIF2tCF%2FRGK5dKDt7Ibt4BNOUgqyI%2FKZPltQ0WEekulWdHXquzjcD7Bz1BTjLZ7u8NExztOtCVppLvifTVG5B%2BGSc1tdupLKP8ZVKHo",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -315,8 +315,36 @@
  ],
  "unclassified": [
   {
+   "title": "[Prime] Disque HDD Externe 8 To Seagate FireCuda X Vault STNL8000400 - USB-C, Éclairage RGB, +30€ Coupon",
+   "price_raw": "249,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/prime-seagate-firecuda-x-vault-8to-hdd-externe-usb-c-eclairage-rgb-stnl8000400-via-30eur-coupon-3461946",
+   "posted_at": "2026-11-19T13:08:30+00:00"
+  },
+  {
+   "title": "Tablette Xiaomi REDMI Pad 2 Pro - 6 Go RAM, 128 Go stockage, Écran 12,1\" 2,5K (Vendeur Tiers)",
+   "price_raw": "217,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/redmi-pad-2-pro-3461929",
+   "posted_at": "2026-11-19T12:50:54+00:00"
+  },
+  {
+   "title": "Carte mère Supermicro X11DPL-I LGA3647 MB ATX Max 512 Go PCI Express testé",
+   "price_raw": "699.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137944396695?_skw=carte+m%C3%A8re&hash=item201e207397:g:WvMAAeSwHHtq~viU",
+   "posted_at": "2026-11-19T13:31:19+00:00"
+  },
+  {
+   "title": "Console de jeu portable MSI Claw 7 AI+ A2VM-021FR - Intel Core Ultra 7 258V, 32 Go LPDDR5x, SSD 512 Go",
+   "price_raw": "768,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-claw-7-ai-a2vm-021fr-intel-core-ultra-7-258v-32gb-lpddr5x-ssd-512gb-3461953",
+   "posted_at": "2026-11-19T13:05:57+00:00"
+  },
+  {
    "title": "PC portable 15,1\" Lenovo Legion 5 15IRX10 - Intel Core i7 13650HX, RTX 5060 115W, RAM 16 Go, SSD 512 Go, OLED, 165Hz, Windows",
-   "price_raw": "1 399,99€",
+   "price_raw": "1 374,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/windows-151-oled-165hz-core-i7-13650hx-rtx-5060-115w-16-go-512-go-3461936",
    "posted_at": "2026-11-19T12:55:24+00:00"
@@ -339,7 +367,7 @@
    "title": "10x Boîte RAM DDR1 DDR2 DDR3 DDR4 ESD Tray Avec Couvercle",
    "price_raw": "66.13 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/158333250324?_skw=ddr4&hash=item24dd65ab14:g:Wp4AAeSwrclqFXGv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l%2Bp5q6qgEm%2BoUwzQVaN%2Blt%2FeYdQZt2gUVyGMs11w8%2FFJAoLnHn9musVZmsMd2asWcOtVy%2BWPtkmYfm6oXlWX4dwHXNwOrx5DmRdr2EnS7dHyvb8pwaB8sLa355Mj3zTPoFwpZfMbe4PfV4nn3FGFLd%2FNmMBCmgI%2FSJOre6n%2FOymqpaKkOuc7EUvlmubVJ9Lek%2Bg1dNTpNDGF0eMmHmpjJibxMswG%2B0%2FcNjMHWvE0BF%2FQ3X9wCm4qFCYkAF6Cm9b7UZ5Zqz2YXynHp2a%2BeIOz1J",
+   "url": "https://www.ebay.fr/itm/158333250324?_skw=ddr4&hash=item24dd65ab14:g:Wp4AAeSwrclqFXGv&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l%2Bp5q6qgEm%2BoUwzQVaN%2Blt%2FeYdQZt2gUVyGMs11w8%2FFJAoLnHn9musVZmsMd2asWcOtVy%2BWPtkmYfm6oXlWX4dwHXNwOrx5DmRdr2EnS7dHyvb8pwaB8sLa355Mj3zTPrrUsoS65XGrqPVgbpk6kouUg3jbE%2BeTWgodIq5XnrCRVQnNVFzSppeB8v%2FJHlLnqPvU9nkypgtedp59Igqho0Rf97NlE5KiJgyhuU%2FI%2BFRUC000EdqsjWG4G64Qgr%2FHlMc84WrXFLbh8rO7h1q7UhF",
    "posted_at": "2026-09-24T12:22:45+00:00"
   },
   {
@@ -635,38 +663,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/adobe-creative-cloud-1tbphotoshoplightroom-1-an-pcmac-telechargement-3461210",
    "posted_at": "2026-11-19T06:23:30+00:00"
-  },
-  {
-   "title": "Abonnement d'1 An à Adobe Lightroom & Lightroom Classic 1 To - Fonctionnalités IA, pour PC & Mac (Dématérialisé)",
-   "price_raw": "54,03€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adobe-lightroom-incl-lightroom-classic-1-to-fonctionnalites-ia-1-an-pcmac-telechargement-3461207",
-   "posted_at": "2026-11-19T06:21:58+00:00"
-  },
-  {
-   "title": "15 % sur les Cartes Cadeaux Kobo - Ex : Carte cadeau d'une valeur de 50 € (Dématérialisé)",
-   "price_raw": "42,50€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/15-sur-les-cartes-cadeaux-kobo-dematerialise-3461192",
-   "posted_at": "2026-11-19T06:14:22+00:00"
-  },
-  {
-   "title": "Lampe LED pour écran PC BenQ ScreenBar Halo 2 - avec télécommande sans fil (Vendeurs Tiers)",
-   "price_raw": "152,15€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/benq-screenbar-halo-2-light-bar-3461062",
-   "posted_at": "2026-11-19T02:09:08+00:00"
-  },
-  {
-   "title": "Refroidissement PC Watercooling Thermalright TR Aqua Elite 360 V3 - Ventilateur de Processeur Liquide, Double PWM, ARGB (Vendeur Tiers)",
-   "price_raw": "44,72€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/watercooling-thermalright-tr-aqua-elite-360-v3-ventilateur-de-processeur-liquide-double-pwm-argb-3461183",
-   "posted_at": "2026-11-19T06:04:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2038,
-  "models_with_reference": 65
+  "listings_seen": 2035,
+  "models_with_reference": 64
  }
 }
