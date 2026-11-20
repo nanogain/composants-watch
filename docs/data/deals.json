@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T02:08:00Z",
+ "generated_at": "2026-11-20T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 348,
-   "last_ok": "2026-11-20T02:08:00.672399+00:00"
+   "last_ok": "2026-11-20T02:38:00.656450+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-20T02:08:00.672399+00:00"
+   "items": 379,
+   "last_ok": "2026-11-20T02:38:00.656450+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T02:08:00.672399+00:00"
+   "last_ok": "2026-11-20T02:38:00.656450+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BTyokiW%2FZ8P5PPUgQpivN6DcopwsvUVaOy5PnuEQkq%2F63yBlWLUu985PEBQMm7cUQs2gp1FqzjlltjC8Bvoc65qlopFDGSxFSucgJt%2BoEHLAVWX9NrSAK8ZCACp6auRfVIPqpYtXYWU%2BILhyWCsiZ4hWiFOLkW%2Bua7Rvl2rYp2gQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9outoj%2BJUgFjdsOl%2BiWWjHmlSX1QrCfrRBvmSsKJ4SpqrPFyWCdc0waRqgwxRL8uan3%2B5%2BkB5DCrd9qOLasXdRsp43i8tC3%2FmH00ZlmPuyLHFu6cm2I0bjFm2Rq6FcLwFeexoo42u2RtS5AcSYbSGK9c%2BKdP2i8qhHg1UEkC4GsQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwc8OhdTXyOtw28qnwYCs8siqu%2F9j3jh8BNAkjD1t0eVBkbZDrR7WPwfYW%2B1sGytC4fv2eixqpBFac9ptGEeF4Po4A3Eqj8LB9jY2G%2B%2FHztjs8RshLsmUsQUjhgR4jgcDJfoPqHVOrGaxHdJm9dBevt",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzQKwzOnR2jpeDbjEtoqqPwS2lZfBYxA352TF9IDQeqYXfl%2F8vXC6WuyX2HEIGdUUxqDk5b9U3%2BxMTVsoZDX%2Bxys%2FSYIN94y%2FFNZKrYGQ8yc3WIl1t348qw27gITSQUq%2Fto3YP0hdcCJw5YFVJOu0BK",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -442,13 +442,6 @@
    "posted_at": "2026-11-19T22:13:35+00:00"
   },
   {
-   "title": "Souris sans fil Logitech MX Master (via ODR 15€)",
-   "price_raw": "48,96€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-mx-master-odr-15eur-3462496",
-   "posted_at": "2026-11-19T22:07:10+00:00"
-  },
-  {
    "title": "Souris sans fil Asus ROG Harpe II Ace - Capteur Optique ROG AimPoint, 42000 DPI, 49g, Bluetooth, SpeedNova 8K, Noir (Vendeur Tiers)",
    "price_raw": "89,99€",
    "source": "dealabs",
@@ -466,7 +459,7 @@
    "title": " Carte Graphique AMD W5170M (2 Go) – iMac 21,5\", 24\" et 27\" (2009 & 2010)",
    "price_raw": "199.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405972061335?_skw=carte+graphique&hash=item5e85d20c97:g:DA8AAOSwxURoT1rM&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nyvBMdndT0jbMv2IxmCvPXl9HX1da57Vvy5zZYfG%2BVHsO%2BgjrO0u6csWdC9NByO0Mg4uIR%2BJ8dlDgk%2FpLAqFvZRDP5Ft25A4pHhJqpQ46Z1DqKdJ%2Bx6SqFpZDpBf0aaEcUF5gBMXd6eivO%2BzGC3hBd7C3x1IjDSjEp3JRHQHnI4vQBPrdCX%2Bptw06XZwox26ClVMRc97Dkn6nvAMTbjdG%2F7ZtNMbACI%2Fqbvsx8M0YoKmPe%2BNnMYv3ap0otqjJZkKJ7a6BkhU5XCR4ZPt4xrAxXSwd5zuZSdAZ3k0me4iUZaQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/405972061335?_skw=carte+graphique&hash=item5e85d20c97:g:DA8AAOSwxURoT1rM&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nyvBMdndT0jbMv2IxmCvPXl9HX1da57Vvy5zZYfG%2BVHsO%2BgjrO0u6csWdC9NByO0Mg4uIR%2BJ8dlDgk%2FpLAqFvZRDP5Ft25A4pHhJqpQ46Z1DqKdJ%2Bx6SqFpZDpBf0aaEd%2FT4FhgncwuHfiNJ4UHYjXDiXUsdNDylv4tVClDgstnpPM5rPP2FLRYnrpxfMyaAH9bAS%2BliPqbfHstVlJBqs5nD5KV%2F9N3EsvUje23jv79w9c8qZg0YcKnir7QkRAcacS7FG2Nef%2BIhpssAyx%2FW7ZeauU6lSmIP89fKb67ZLZTQ%3D%3D",
    "posted_at": "2025-06-17T08:13:07+00:00"
   },
   {
@@ -522,7 +515,7 @@
    "title": "Autocollants Clavier AZERTY Français Noir Touches Ordinateur Portable Conversion",
    "price_raw": "17.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137886807558?_skw=clavier&hash=item201ab1b606:g:5gIAAeSwCYhq5IqO&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lmVvlwuukPaRTZgV3%2F03a3WH6oFey%2Fd1tFf%2B8m%2F4jeW4aKn6WDfFzbfA7iO%2BgAi2u2NrQMTO9SZ1SBghvLx%2FcLOgQec1wArlpwdIjgLQCxpzOhhEHcFpIK4cTz%2FSag00yX85Lq%2FmttnIUUJYFeLk6KFMumFm5jBU3FqbDpbpzNQumdh5DVWj5ecfiPsnvUFAx5mzkkOkHVIrxso6bumj7gj95FcCVDsUl0snLaPtUeiyVSMPAEyyT93s%2Fqd0IZBJBn2%2F1v4DZRIyCSLiQWNaHh",
+   "url": "https://www.ebay.fr/itm/137886807558?_skw=clavier&hash=item201ab1b606:g:5gIAAeSwCYhq5IqO&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lmVvlwuukPaRTZgV3%2F03a3WH6oFey%2Fd1tFf%2B8m%2F4jeW4aKn6WDfFzbfA7iO%2BgAi2u2NrQMTO9SZ1SBghvLx%2FcLOgQec1wArlpwdIjgLQCxpzOhhEHcFpIK4cTz%2FSag00wGLGOVndnQb4WqKa%2FgqA%2Bw%2ByTMSIATYYEvIl9mEittdotbPS0%2B03YUgz9YIvt9T5raf%2BdHubAX4MPtPXBY0llOmbvcm981MO4b6T5oFfIWdanuaLN%2BScCvBGf9juqgSrUD3UvkyNp3TpBoqRgyY5G0",
    "posted_at": "2026-10-30T12:15:11+00:00"
   },
   {
@@ -655,7 +648,7 @@
    "title": "Lot 5 Ventirads AMD Wraith Stealth AM4 Ryzen Neufs + Pâte Thermique",
    "price_raw": "37.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsrDQJXb0dRuSi4H35AEHokqPpgSBHqJ70y4x7C2IHOc%2BR8asAASF9lP13RkWR55c57CmwP95GqzNvmiNdMb%2Bkwkv6AJVvOrRRI3O6YrQP225UXsCQMXHakGkwNlRvnAYizA5pGmSPO6DRPT4qXa2YCi7WkCFHOPg7GRFPhBxUQf%2Bg%3D%3D",
+   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsrBJMxik7G6McxFrZPT4jUr3FydiT%2Br3KWGPDrjZkLNcHfra6AY5UJOywqzcqbBJ%2FYlFDSBbBGd8wJkQNEs%2B3hXOUffcniYIUM62tAEnCi91j2aR--8GWbFAIW%2FuOmKMKTGqhRprQR7DkAlHLEqPvxr1q1iYKY6OueNAm9kHkqEGg%3D%3D",
    "posted_at": "2026-11-19T16:54:20+00:00"
   },
   {
@@ -748,10 +741,17 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117530402380?_skw=ddr5&hash=item1b5d5b9e4c:g:mZAAAeSwR1Rq~v6Y",
    "posted_at": "2026-11-19T13:51:34+00:00"
+  },
+  {
+   "title": "Bitspower Radiateur de water-cooling BP-NLXF360-4FPB",
+   "price_raw": "104.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257158223585?_skw=watercooling&hash=item3bdfd316e1:g:5qEAAeSweS9o77hd",
+   "posted_at": "2025-10-15T15:40:22+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2067,
+  "listings_seen": 2063,
   "models_with_reference": 66
  }
 }
