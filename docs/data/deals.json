@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T18:08:00Z",
+ "generated_at": "2026-11-20T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-20T18:08:00.622402+00:00"
+   "items": 354,
+   "last_ok": "2026-11-20T18:38:00.674511+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 376,
-   "last_ok": "2026-11-20T18:08:00.622402+00:00"
+   "last_ok": "2026-11-20T18:38:00.674511+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T18:08:00.622402+00:00"
+   "last_ok": "2026-11-20T18:38:00.674511+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BzQ8TYjLQaVAQQFXTxW4Bd2dXaW5s03Rmp4tmvs8npzRbQ8OuydWVvFw7J%2FROSKAUmGpFgo4OBuS5LnN6S%2BhPoygxGW9DIxs8iszfRE%2FAU1SugrjFMvmxw7L5LqAsPYPGz3ZpWG3GZm0LL1epoyhRt5qkKKv67GQqrThNwW4IaQg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B84mch9FuL%2BCA0Pplx%2F3NCVAop3v5r%2BrSmGs1LHpjQe8l7BbAdb7K9Fm5piAAtobDiSF82eqDqCVdKPsmj8Ffqvc77k1UVTSr0PFR9N2lKuC2ECg3hjC48Wfnv%2Fr9u8JXURctcvxtzCN3f%2FgmD%2BImVNm075B8LmdTtn0rDumtZudQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuweLRL5V7tXjHSIazR1J%2FyOcR3KJiep7DHMTN30j8D2APAf5AhqpVtis86LU19QZhrPg%2FlVQsRrWUsiCW9BUwq6RiiGnur0VHsneKIzinlZCeowJ8wmUZ0G4fwCYq00efLTzaWAC5%2F793htdsCiDVKF",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuymGg8ZryVimFVIhZKPG4H7Qyn7jxScaDGhg8lki6uoMcP003CbbBt8QnuVYT%2FI25D1TocBzcPSgS9e%2BC7SY8GLHlCFD85jWP6LL9fT73xOOcy8QEOybjMfNvYBgCg8RoGq5ntfqJwvn8ocyDUY9ngC",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -313,6 +313,23 @@
    "posted_at": "2026-11-20T08:13:39+00:00"
   },
   {
+   "title": "RAM Samsung 4Go DDR4 2400 SO-DIMM PC4-19200 M471A5244CB0-CRC Testée",
+   "model": "RAM:DDR4-4Go-2400",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 9.0,
+   "shipping_eur": 3.0,
+   "effective_eur": 12.0,
+   "median_eur": 15.94,
+   "discount_pct": 24.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · christel2327 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800942805970?_skw=ddr4&hash=itemba7be953d2:g:PAYAAeSwVkhrAEsL",
+   "posted_at": "2026-11-20T13:33:15+00:00"
+  },
+  {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
    "model": "MB:B550",
    "category": "MB",
@@ -411,7 +428,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 217 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71PYoRWhMy1yrWriIcDn5YC9kmd3tZJH9XyI8tt34jZTMhQcVBT60Sxp9LUKz9FE5JnozSD8hHUD8GUcT1695FKgCMLDSqpPv0trBx1%2FApI5zZ87ShyCZTcGyfysQcU3E5krqNOYUJjgVH1H599Doh0",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70Js3q83SvzbDO3jmdY%2BW9FMamThqb7tbpyX5XgAU%2BlisSAbiIgUu73ur2yapL53Smvk7Q2n8wd5ba1a2ZqVZiREpslmqZ9rQKlulp3nWeO9%2B3neTUqU17hqH3xd66sNyqpUHz5WZgs%2B2XrlOmb4O7p",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -535,6 +552,41 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Console portable 7\" MSI Claw A1M-212FR - Core Ultra 5 135H, 1 To, écran FHD 120 Hz (+60€ en Bon d'achat)",
+   "price_raw": "499€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/console-portable-7-msi-claw-a1m-212fr-core-ultra-5-135h-1-to-ecran-fhd-120-hz-60eur-en-bon-dachat-3463696",
+   "posted_at": "2026-11-20T18:36:49+00:00"
+  },
+  {
+   "title": "Pack de 3 Ventilateurs Be Quiet! Light Wings LX - 140 mm, PWM Black High-Speed (Vendeur Tiers)",
+   "price_raw": "41,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-de-3-ventilateurs-be-quiet-light-wings-lx-140-mm-pwm-black-high-speed-ventilateur-3463706",
+   "posted_at": "2026-11-20T18:28:31+00:00"
+  },
+  {
+   "title": "Ventilateur PC be quiet! Light Wings LX 140 mm PWM Black High-Speed",
+   "price_raw": "17,09€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ventilateur-pc-be-quiet-light-wings-lx-140-mm-pwm-black-high-speed-3463701",
+   "posted_at": "2026-11-20T18:24:55+00:00"
+  },
+  {
+   "title": "Extenseur d'écran 14\" Blackview DCM5 pour ordinateur portable 13 à 17\"",
+   "price_raw": "159,47€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/triple-ecran-pc-portable-14-pouces-3463628",
+   "posted_at": "2026-11-20T18:09:06+00:00"
+  },
+  {
+   "title": "SK hynix DDR4 SO-DIMM 8Go (2x4Go) PC4-2133P HMA451S6AFR8N-TF",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900107695543?_skw=ddr4&hash=itemd1929975b7:g:oosAAeSw6V5rAI6Z",
+   "posted_at": "2026-11-20T18:19:38+00:00"
+  },
   {
    "title": "Tablette 11\" Amazon Alexa Tablet 11 - Améthyste, Graphite ou Vert Matcha",
    "price_raw": "229,99€",
@@ -662,13 +714,6 @@
    "posted_at": "2026-11-20T15:55:42+00:00"
   },
   {
-   "title": "Mini clavier sans fil Logitech K400 AZERTY avec touchpad pour Smart TV",
-   "price_raw": "16.15 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267849175272?_skw=clavier&hash=item3e5d0e10e8:g:1R8AAeSwNDdrACr0",
-   "posted_at": "2026-11-20T15:52:23+00:00"
-  },
-  {
    "title": "Écran PC 52\" LG UltraGear evo - Gaming VA, 5K2K, 240Hz, 1ms",
    "price_raw": "1 195,99€",
    "source": "dealabs",
@@ -746,13 +791,6 @@
    "posted_at": "2026-11-20T14:06:13+00:00"
   },
   {
-   "title": "Sélection de Cartes Graphiques Nvidia RTX 5060 TI 16Go (Exemple 5060 TI Eagle 16Go 529,99€)",
-   "price_raw": "529,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/selection-de-cartes-graphiques-rtx-5060-ti-16go-3463356",
-   "posted_at": "2026-11-20T13:49:03+00:00"
-  },
-  {
    "title": "Chargeur USB-C UGREEN Zapix 65 W - GaN II, AVS/PPS, câble 1 m inclus, compatible MacBook, iPhone, Galaxy, Pixel (vendeur tiers)",
    "price_raw": "19,99€",
    "source": "dealabs",
@@ -823,25 +861,11 @@
    "posted_at": "2026-11-20T10:38:01+00:00"
   },
   {
-   "title": "Samsung 16Go DDR4 SO-DIMM PC4-3200AA M471A2K43DB1 RAM Mémoire PC Portable",
-   "price_raw": "65.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147689362014?_skw=ddr4&hash=item2262f8d25e:g:VdwAAeSwBqVrACXr",
-   "posted_at": "2026-11-20T10:52:05+00:00"
-  },
-  {
    "title": "Micron 16 Go DDR4 SO-DIMM PC4-3200AA MTA16ATF2G64HZ RAM Mémoire PC Portable",
    "price_raw": "65.85 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147689359391?_skw=ddr4&hash=item2262f8c81f:g:RZkAAeSwmGBrACTU",
    "posted_at": "2026-11-20T10:49:23+00:00"
-  },
-  {
-   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM Micron PC4-3200AA",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147689354811?_skw=ddr4&hash=item2262f8b63b:g:PYIAAeSwQIdrACPL",
-   "posted_at": "2026-11-20T10:42:43+00:00"
   },
   {
    "title": "Carte Mère Asus FX571GT-BQ691T i5-8300h GTX 1650 4 go",
@@ -877,17 +901,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-156-msi-gaming-cyborg-15-b2rwfkg-1089fr-fhd-144hz-intel-core-9-270h-ram-16-go-ssd-1-to-rtx-5060-windows-11-3463006",
    "posted_at": "2026-11-20T09:15:30+00:00"
-  },
-  {
-   "title": "PC portable 17,3\" ASUS Vivobook 17 X1704 16 Go RAM, SSD 512 Go, Win 11 Pro (Vendeurs Tiers)",
-   "price_raw": "549€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-asus-vivobook-17-x1704-3462937",
-   "posted_at": "2026-11-20T08:39:48+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2090,
-  "models_with_reference": 66
+  "listings_seen": 2088,
+  "models_with_reference": 68
  }
 }
