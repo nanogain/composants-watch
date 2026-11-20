@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T12:08:00Z",
+ "generated_at": "2026-11-20T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-20T12:08:00.685758+00:00"
+   "items": 350,
+   "last_ok": "2026-11-20T12:38:00.623432+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 382,
-   "last_ok": "2026-11-20T12:08:00.685758+00:00"
+   "items": 380,
+   "last_ok": "2026-11-20T12:38:00.623432+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T12:08:00.685758+00:00"
+   "last_ok": "2026-11-20T12:38:00.623432+00:00"
   }
  },
  "watchlist": [
@@ -143,6 +143,23 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BufIZHeirSrOILVL%2BHjV%2BFySN5qhKfiPN3XgM96MXGIpo%2BYcSDUjN3Y%2B7v%2FM80lVXnoCk%2BTgbwAbiMotnNPo3myxef5DtVAyqtvwTd%2BnIcZN7BbgI54BixjQ%2FhmmEG1D%2BXyqgUfo4JT27mqm8CHw6WfPjayNkJ6thVoa0T%2FdP24w%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyMSzyjLZpZlOJm2pEpPJ8i1e9Hx8f8ToHjRdB4qlvhnJJh0ROpRYpu2oKTFlHzJeewfBHQfyQeQYvjZZqWJlU%2FjjNouQHA1S6Ox%2FFWDOrIH3jn5mABctq3L9vwCkcMyvB0lU6VHuoot6fq86k7SMNt",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwACdGwKyqNwtQ1LjZrlwxuLlyu%2FbVtpaM4jczs%2FS7peQl013awevQgb07oCJZ6QS%2BVW0Q1F64IYOTp3ei%2Bs0079tOl4cdHtrh4bGZ2t4MKkxXTK4f8AIT2JBJnrAck1k8Xa01Pa%2F9Dcj%2FHGDNbwEq1",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -309,7 +326,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 217 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73mOwGMuVQKIumvJh8DMzNTk0q27udivNMMNwoyc3wYd8%2Ft4LY6sHBHmpYQk6gY0aQqDDdcuudWOyUrr8QZ0dcefEELrgL8804TQsbMZda6P3MIuQAlV%2Bpr%2FkBcWkVf3sBLE6lLRS1MC%2FSFwUohXDd3",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72l00s9WCzFMs6V0OsCMYcRPRHRce98QPkKF8kOUiuMgRiqfAMlBA3vArWILsIv24aaETpVVHLohhy5tXdTjG1SHC1hmG5gjRL6JXZPfadiNEOOUimv%2ByAPwolkXdJu8y%2BBtCZC1zr%2B8e2an8ICjEMM",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -451,6 +468,13 @@
  ],
  "unclassified": [
   {
+   "title": "Tablette graphique 10\" Paperslate Pro - 64 Go",
+   "price_raw": "379,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/paperslate-pro-3463255",
+   "posted_at": "2026-11-20T12:20:10+00:00"
+  },
+  {
    "title": "Imprimante créative pour enfant Kidyprinter AI - Kidywolf (lapouleapois.fr)",
    "price_raw": "44,91€",
    "source": "dealabs",
@@ -463,13 +487,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/logitech-g305-lightspeed-souris-gaming-sans-fil-capteur-hero-12k-noir-3463168",
    "posted_at": "2026-11-20T11:08:48+00:00"
-  },
-  {
-   "title": "Processeur Quad-Core Intel Core I7 870 4X 2.93GHz Socket 1156 Max. 3.60GHz",
-   "price_raw": "39.28 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237159746821?_skw=processeur&hash=item3737d28d05:g:HwsAAeSwWS1qPSIa&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m6PzDI%2BgHmxAa2QfjWE95%2BWJDuIZUqxur0OJ7OOlmdrjZgyL1JbbiDnaz%2Fpvj%2B6aoksmdFhHjXl64LC6EEC4CaliM9Xbgh2w%2BSP3Z%2Bj5WSkp6LjW%2FajcyhADjdXNl2Ie1ZQTQkWvaV90cM%2BmPhs2zrsZa2kYWAGtSMRwhXENpusXzMjJPusawAhaqQk7Oxe5wwxQMVYICA3387Jva2byEyca7eDF%2BdMXRAmiUiSJSMXm7k5WSom5774X%2FP9qxe9WCbqL0GfFnNcdrwiFb4Po9u",
-   "posted_at": "2026-11-03T06:07:28+00:00"
   },
   {
    "title": "PC Portable 16\" Asus Vivobook S1607KA-MB063W - IPS FHD+, Ryzen AI 5 340, 16Go RAM, 512Go SSD, Windows 11 (Via 200€ fidélité + 105€ en BA)",
@@ -498,13 +515,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/257862242000?_skw=carte+graphique&hash=item3c09c98ed0:g:oiQAAeSwmb9rACcp",
    "posted_at": "2026-11-20T10:55:27+00:00"
-  },
-  {
-   "title": "Carte graphique AMD FirePro V4900 1 Go GDDR5 PCIe x16 DVI 2x DisplayPort...",
-   "price_raw": "109.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862238612?_skw=carte+graphique&hash=item3c09c98194:g:a30AAeSwau9rACZB",
-   "posted_at": "2026-11-20T10:51:42+00:00"
   },
   {
    "title": "Mémoire Micron SO-DIMM DDR4 16 Go RAM PC4-25600 22-22-22 MTA16ATF2G64HZ-3G2J1",
@@ -556,13 +566,6 @@
    "posted_at": "2026-11-20T10:42:43+00:00"
   },
   {
-   "title": "Intenso Portable SSD 128Go Premium Edition USB 3.0 Disque Dur Externe SSD",
-   "price_raw": "1000.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862237788?_skw=ssd&hash=item3c09c97e5c:g:k24AAeSw~hxrACX7",
-   "posted_at": "2026-11-20T10:50:31+00:00"
-  },
-  {
    "title": "Carte mère GIGABYTE GA-Z170X-Gaming 7-OC ATX LGA 1151 DDR4 Motherboard",
    "price_raw": "1000.00 EUR",
    "source": "ebay",
@@ -575,13 +578,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-hybride-hp-omnibook-x-flip-14-oled-3463093",
    "posted_at": "2026-11-20T10:12:25+00:00"
-  },
-  {
-   "title": "ATI Radeon HD 5870 1 Go GDDR5 AMD – Carte Graphique Vintage Rétro PC ",
-   "price_raw": "30.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900106674654?_skw=carte+graphique&hash=itemd19289e1de:g:R1wAAeSwmhxrABza",
-   "posted_at": "2026-11-20T10:12:11+00:00"
   },
   {
    "title": "Tablette 11\" Lenovo Tab M11 (FHD+ IPS, Helio G88, RAM 4 Go, 128 Go) + Stylet (Sélection de magasin)",
@@ -799,10 +795,31 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amazon-alexa-tablet-11-8-go-de-ram-128-go-superbe-ecran-11-25k-batterie-qui-tient-toute-la-journee-avec-google-play-graphite-3462435",
    "posted_at": "2026-11-19T19:50:22+00:00"
+  },
+  {
+   "title": "Serveur NAS Ugreen DX4800 Plus - 4 baies",
+   "price_raw": "519€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/serveur-nas-ugreen-4-baies-3462411",
+   "posted_at": "2026-11-19T19:38:12+00:00"
+  },
+  {
+   "title": "Volant et pédales Logitech G G29 Driving Force - pour PS5, PS4, PC et Mac",
+   "price_raw": "169,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/volant-et-pedales-logitech-g-g29-driving-force-pour-ps5-ps4-pc-et-mac-3462383",
+   "posted_at": "2026-11-19T19:23:38+00:00"
+  },
+  {
+   "title": "Imprimante Photo Portable Instantanée Canon Selphy CP1000 10x15cm",
+   "price_raw": "85€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/canon-selphy-cp1000-imprimante-photo-portable-instantanee-10x15cm-3462381",
+   "posted_at": "2026-11-19T19:21:22+00:00"
   }
  ],
  "stats": {
   "listings_seen": 2094,
-  "models_with_reference": 66
+  "models_with_reference": 67
  }
 }
