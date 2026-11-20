@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T17:08:00Z",
+ "generated_at": "2026-11-20T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 351,
-   "last_ok": "2026-11-20T17:08:00.671970+00:00"
+   "items": 352,
+   "last_ok": "2026-11-20T17:38:00.672542+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-20T17:08:00.671970+00:00"
+   "items": 379,
+   "last_ok": "2026-11-20T17:38:00.672542+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T17:08:00.671970+00:00"
+   "last_ok": "2026-11-20T17:38:00.672542+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BkJnPKTmsK2yosJn7%2Fq1YZ48fEvw6BufDJARwirYyy3M2OJLYbaT4StR%2F5lOVp79UUBrV3TLcxIhK%2BPDy2zds%2FQCbtPEpQHmAXB%2FWP%2FpNEss%2BDw4sP5RvBjEo4LcaWod9NSg935KHEdc4DyH8g98NpY7o4gGrL4htpkhb6bQ6%2Fqg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B89djjUvNbSWfeZqZ%2FM7oSZ0Vo6plOvV7ExTOYBbdsWakQTRKXh1QFwrysr5Z%2Fe150zcdq8UIcSbGXz36hE3jw8LhBIqnIo1GHgwfph3tiFwRqV8B3%2BWdo0Ti2juP5OEfwOmsRIgXhj7kKQEQXDrfz1%2BpTwdwyX1BO5YcCwVsOLIg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyQJ0bJrFDHVO24esqxXXqed04CbokEt2ZzDiKdCt2CnQ967%2BuI6DWvDMu1GQaDQayJofDlnBsYrqsH2pqrYjoHRUzI3O4Cbu%2FJIkxDCDoOvOIRPLHHw6nesM%2FXgwCZzZkAughn3qJXF9DfLwkNbe2T",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxMa22itX%2BYEh8BOc1UOHkDQmE%2F1gHGbkNVX7ePXvT7ToT49VjJW6MNsAgUyZxGvw6uTjFUKTYSS%2FPIjgrJ%2FM%2B4u7EeMrclB1tqa4%2FK0vMTFutU8h9llgMaTm93wVWVrdx0xltIJyoYjbPiHy3d5eZI",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -428,7 +428,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 217 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73bObvNwjDFLwBWhngaTwAZL6ReO8ikLHDryktErGps8hjrskj4pflEGXq2L4GzstaaY9mLZl0rad6SHLRuhXX5qyyCE6be%2Ft2eor8C85NMahHH%2Fxx1FYAtkUn3LPzlIBxHC7djYd0vB%2BPxCOktJgKS",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE719y8FmgsgCSxw%2BRxCJgp7%2FYLtC0UFX%2BtqOXej1X0UrhrqWFTHCHYUmbnGurApKWxRmmU9t6mKcsIksfptTvZWXTNgKUccGP6KdN8QoGgyesAX46PwMnYJDjDEn9EXi5Z9yrkQD9TVVcYC19ba1MI7B",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -552,6 +552,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Souris Razer Naga V2 HyperSpeed",
+   "price_raw": "78,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/razer-naga-v2-3463630",
+   "posted_at": "2026-11-20T17:31:06+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Gigabyte Aero X16 3WHL3FRC94AH - WQXGA, 165 HZ, Copilot+, 16 Go Ral, 1 To SSD, Geforce RTX 5070",
+   "price_raw": "1 599€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gi-igabyte-gaming-aero-x16-3whl3frc94ah-16-wqxga-165-hz-copilot-pc-amd-ryzen-ai-9-16-go-ram-1-to-ssd-nvidia-geforce-rtx-5070-3463626",
+   "posted_at": "2026-11-20T17:29:34+00:00"
+  },
+  {
+   "title": "SanDisk Extreme Portable SSD 4 To",
+   "price_raw": "413.68 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227623355443?_skw=ssd&hash=item34ff68c433:g:PGkAAeSw9GBrAEeX",
+   "posted_at": "2026-11-20T16:29:14+00:00"
+  },
   {
    "title": "Tablette 10,1\" Lenovo Tactile Tab - Android, WUXGA + étui transparent",
    "price_raw": "159,99€",
@@ -791,25 +812,11 @@
    "posted_at": "2026-11-20T10:38:01+00:00"
   },
   {
-   "title": "Samsung 16Go DDR4 SO-DIMM PC4-3200AA M471A2K43DB1 RAM Mémoire PC Portable",
-   "price_raw": "65.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147689362014?_skw=ddr4&hash=item2262f8d25e:g:VdwAAeSwBqVrACXr",
-   "posted_at": "2026-11-20T10:52:05+00:00"
-  },
-  {
    "title": "Micron 16 Go DDR4 SO-DIMM PC4-3200AA MTA16ATF2G64HZ RAM Mémoire PC Portable",
    "price_raw": "65.85 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147689359391?_skw=ddr4&hash=item2262f8c81f:g:RZkAAeSwmGBrACTU",
    "posted_at": "2026-11-20T10:49:23+00:00"
-  },
-  {
-   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM Micron PC4-3200AA",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147689354811?_skw=ddr4&hash=item2262f8b63b:g:PYIAAeSwQIdrACPL",
-   "posted_at": "2026-11-20T10:42:43+00:00"
   },
   {
    "title": "Carte Mère Asus FX571GT-BQ691T i5-8300h GTX 1650 4 go",
@@ -894,17 +901,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-14-asus-zenbook-14-oled-ux3407-oled-wuxga-x1p-26-100-16-go-ram-512-go-ssd-70-wh-win-11-via-200eur-fidelite-120eur-en-ba-3462848",
    "posted_at": "2026-11-20T07:32:13+00:00"
-  },
-  {
-   "title": "10% de remise sur une Sélection d'Écrans PC",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/codes-promo/10-de-reduction-sur-une-selection-decrans-pc-en-stock-chez-materielnet-3462824",
-   "posted_at": "2026-11-20T07:11:20+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2088,
-  "models_with_reference": 67
+  "listings_seen": 2084,
+  "models_with_reference": 68
  }
 }
