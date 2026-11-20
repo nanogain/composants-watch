@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T22:38:00Z",
+ "generated_at": "2026-11-20T23:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 357,
-   "last_ok": "2026-11-20T22:38:00.622112+00:00"
+   "items": 355,
+   "last_ok": "2026-11-20T23:08:00.671141+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-20T22:38:00.622112+00:00"
+   "items": 375,
+   "last_ok": "2026-11-20T23:08:00.671141+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T22:38:00.622112+00:00"
+   "last_ok": "2026-11-20T23:08:00.671141+00:00"
   }
  },
  "watchlist": [
@@ -126,6 +126,23 @@
    "posted_at": "2026-11-20T14:15:26+00:00"
   },
   {
+   "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
+   "model": "MB:B760",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 71.99,
+   "shipping_eur": null,
+   "effective_eur": 71.99,
+   "median_eur": 119.98,
+   "discount_pct": 40.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b760m-k-d4-ddr4-pcie-40-2-x-pcie-40-m2-realtek-25gb-ethernet-vga-hdmi-sata-6-gbs-aura-sync-rgb-3456698",
+   "posted_at": "2026-11-16T00:03:08+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,8 +156,25 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8gnmq3eaHEie8hHeGdQzWZLO5P3SBToFv9aHMB%2BDKqThKb6c2sRZptOl58kYx7JeOfegRD7nzoyr4o9xCgXyPm7x5P87yGVKKbezwcjlHoCCxDNiIG8zs9FFKZEU6qR2Yr3u3PXd6vaF7tbvsM4K9evgGw8Usi58s2UkUQem%2Bkbg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9RoMALziGrtWsWq81NZMCYsvru7IJ3GD%2Fi4phqYsBkyrNnpuEfle8DlBLozdXq2S2DfAn4Qx13zTK7awmzlAEqwBNFOxNqitMpO7AHldfIlw3n85LcMq99uZFqnEjPHXcnxi6ioOQDhWPUNIpuzYlTuZ1wtjZz5B5jlmK%2FsNMhSQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
+   "title": "Disque SSD INTERNE M.2  128Go TOSHIBA  THNSNK128GVN8  SATA M.2  2280  - 128GB",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 15.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 15.0,
+   "median_eur": 24.36,
+   "discount_pct": 38.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bons_prix_bons_produits (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227169935964?_skw=ssd&hash=item34e462225c:g:vT0AAeSwOYdpY-fu",
+   "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
@@ -156,25 +190,8 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwvxKZA2CbPg4TPtQiWx41tUDGHKeS4QOrVyraKe6m%2FPf3SX5qsJf70RtKHxZPcjP50qdSuFQIUOL%2F3Ol18w%2FckvburmNM%2FCPi%2F9MhSbZNktBwsk6V7TJdmsiXaiFOXLy%2FZRI%2FUMJi4z%2BDz4Pv5NGgd",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux7%2BMd4SquP8NAlUpKQofS6gUYtfU9osHre2q%2Bsac%2BlE4dSKUnopml5F8cB%2Fo8arIAI8IjBPYiYa6zQVo%2FGgIUSDqDFXLg6KO5SLthpQ1YbWxTfmzgEsrp2zYRjqYppIIUW247qH2oj%2BZOQZhyH7d7t",
    "posted_at": "2026-08-14T16:59:44+00:00"
-  },
-  {
-   "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
-   "model": "MB:B760",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 71.99,
-   "shipping_eur": null,
-   "effective_eur": 71.99,
-   "median_eur": 109.99,
-   "discount_pct": 34.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b760m-k-d4-ddr4-pcie-40-2-x-pcie-40-m2-realtek-25gb-ethernet-vga-hdmi-sata-6-gbs-aura-sync-rgb-3456698",
-   "posted_at": "2026-11-16T00:03:08+00:00"
   },
   {
    "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
@@ -360,7 +377,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 219 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70nnlWKvJpMj0idc%2B7kPajoFitZjfuHNWdXgba%2Fm8spJJri8fmXXqbceevKMS6naNeeBTiv%2FW8sQqoHK%2FgWbiD7yXfIwsCQg8%2FPAeDH39J3SRInkSlFlNBzOeTr1ZTAcgan7XOfEa%2Fbovv2zCKcUrEZ",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71zzpxsLU7DKNnDFnd%2BOtOH70XIzZvG6HS%2FUQ7ClyL6WnOsN9GvWFM4vqsvOSRFlPQEQYUG1Rp4FhDc5FiMe93jZK%2BTUF9ueof3hjZAlIkx6wUFybyntsHG3k3VsKV7AoeLN79nIoIShVYbGq4DlbeF",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -449,6 +466,23 @@
    "posted_at": "2026-11-19T14:02:22+00:00"
   },
   {
+   "title": "Écran PC gaming 31.5\" Lenovo LOQ 27Q-10 - QHD, Dalle IPS, 180Hz, 0.5ms, HDR10, FreeSync",
+   "model": "MON:32-QHD-180Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 139.3,
+   "shipping_eur": null,
+   "effective_eur": 139.3,
+   "median_eur": 165.49,
+   "discount_pct": 15.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "E.Leclerc",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-315-lenovo-loq-27q-10-qhd-dalle-ips-180hz-05ms-hdr10-freesync-3463505",
+   "posted_at": "2026-11-20T23:02:06+00:00"
+  },
+  {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
    "model": "RAM:DDR4-8Go-2400",
    "category": "RAM",
@@ -484,6 +518,104 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Station d'accueil pour Mac mini Ugreen 10 en 2, avec Boîtier M.2 NVME SSD, DisplayPort 4K 240Hz 144Hz (vendeur tiers)",
+   "price_raw": "64,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-docking-station-usb-c-et-support-pour-mac-mini-m4m4-prom5-prom6-10-en-2-avec-boitier-m2-nvme-ssd-displayport-4k-240hz-144hz-3463948",
+   "posted_at": "2026-11-20T23:06:55+00:00"
+  },
+  {
+   "title": "Hub USB-C 6-en-1 Benfei avec Boîtier SSD M.2 NVMe, USB 3.2 10 GB/s (2×USB-A + 1×USB-C), Charge PD 100W, HDMI 4K@60Hz (Vendeur Tiers)",
+   "price_raw": "26,86€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/benfei-hub-usb-c-6-en-1-avec-boitier-ssd-m2-nvme-usb-32-10-gbs-2usb-a-1usb-c-charge-pd-100w-hdmi-4k-at-60hz-compatible-macbook-3463949",
+   "posted_at": "2026-11-20T23:06:21+00:00"
+  },
+  {
+   "title": "Console portable Lenovo Legion GO S - AMD Ryzen Z2 Go, 16 Go RAM, 512 Go SSD (32 Go/1 To à 559,30€)",
+   "price_raw": "440,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/console-portable-lenovo-legion-go-s-amd-ryzen-z2-go-16-go-ram-512-go-ssd-1-to-a-55930eur-3463374",
+   "posted_at": "2026-11-20T23:02:05+00:00"
+  },
+  {
+   "title": "Station d'accueil magnétique Orico - USB C avec Boîtier SSD M.2 2230 NVMe, Docking Station 6 en 1 avec HDMI 4K@60 Hz (vendeur tiers)",
+   "price_raw": "22,10€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/orico-station-daccueil-magnetique-usb-c-avec-boitier-ssd-m2-2230-nvme-docking-station-6-en-1-avec-hdmi-4k-at-60-hzpd-100-w-usb-a-10-gbps-3463944",
+   "posted_at": "2026-11-20T22:59:07+00:00"
+  },
+  {
+   "title": "PC Portable 15,3\" Lenovo IPS3 83K100Q3FR - WUXGA IPS, Intel Core i5-13420H, 16 Go DDR5-SDRAM, 512 Go SSD, 50 Wh, Windows 11",
+   "price_raw": "475,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-153-lenovo-ips3-83k100q3fr-wuxga-ips-intel-core-i5-13420h-16-go-ddr5-sdram-512-go-ssd-50-wh-windows-11-3463396",
+   "posted_at": "2026-11-20T23:06:00+00:00"
+  },
+  {
+   "title": "PC Portable 15.6\" Lenovo IdeaPad Slim 3 - FHD, Ryzen 3 7320U, RAM 8 Go, SSD 512 Go, Radeon 610M, Windows 11",
+   "price_raw": "328,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-fhd-ryzen-3-7320u-ram-8-go-ssd-512-go-radeon-610m-windows-11-3463492",
+   "posted_at": "2026-11-20T23:03:40+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Lenovo Yoga Slim 7 83JX009WFR - WUXGA OLED, Ultra 5 226V, 16 Go RAM, 512 Go SSD, 70 Wh, Windows 11",
+   "price_raw": "769,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-lenovo-yoga-slim-7-83jx009wfr-wuxga-oled-ultra-5-226v-16-go-ram-512-go-ssd-70-wh-windows-11-3463358",
+   "posted_at": "2026-11-20T23:02:08+00:00"
+  },
+  {
+   "title": "PC Portable 15.1\" Lenovo IdeaPad Slim 5 - OLED 165Hz (2560x1600), Ryzen 7 7735HS, RAM 32Go, SSD 1To, Radeon 680M, W11 (Sélection de magasin)",
+   "price_raw": "629,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-151-lenovo-ideapad-slim-5-oled-165hz-2560x1600-ryzen-7-7735hs-ram-32go-ssd-1to-radeon-680m-w11-selection-de-magasin-3463588",
+   "posted_at": "2026-11-20T23:01:56+00:00"
+  },
+  {
+   "title": "PC Portable 15.6\" Lenovo - Ryzen 7 7435HS, RTX 4070, 24 Go RAM, 512 Go SSD, Windows 11",
+   "price_raw": "979,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ryzen-7-7435hs-rtx-4070-24-go-ram-512-go-ssd-windows-11-3463946",
+   "posted_at": "2026-11-20T23:01:01+00:00"
+  },
+  {
+   "title": "PC Portable 15,1\" Lenovo IPS5 83J30061FR - QXGA (2560 x 1600) OLED, Ryzen 7 7735HS, 32 Go RAM, 1 To SSD, 54.7 Wh, Windows 11",
+   "price_raw": "699,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-151-lenovo-ips5-83j30061fr-qxga-2560-x-1600-oled-ryzen-7-7735hs-32-go-ram-1-to-ssd-547-wh-windows-11-3463382",
+   "posted_at": "2026-11-20T23:00:03+00:00"
+  },
+  {
+   "title": "Pc Portable gamer 15,6\" Lenovo 83JE0000FR - Full HD IPS 144 Hz, i7-14700HX, 16Go DDR5, 512Go SS, RTX 5060 100W, Windows 11",
+   "price_raw": "1 091,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-156-lenovo-83je0000fr-full-hd-ips-144-hz-i7-14700hx-16go-ddr5-512go-ss-rtx-5060-100w-windows-11-3463338",
+   "posted_at": "2026-11-20T23:00:02+00:00"
+  },
+  {
+   "title": "PC Portable gamer 15.6\" Lenovo 83SC0011FR - Full HD IPS 144 Hz, i5-13450HX, 16Go RAM, 512 Go SSD, RTX 5050 65W, 60 Wh, Windows 11",
+   "price_raw": "811,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-156-lenovo-83sc0011fr-full-hd-ips-144-hz-i5-13450hx-16go-ram-512-go-ssd-rtx-5050-65w-60-wh-windows-11-3463092",
+   "posted_at": "2026-11-20T23:00:01+00:00"
+  },
+  {
+   "title": "[Carte E.Leclerc] PC Portable 15.6\" Lenovo Loq 83JE003JFR - FHD IPS 144Hz, Intel Core i7-13650HX, RTX 5070 (115W), 16 Go RAM, SSD 512Go",
+   "price_raw": "1 224,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-eleclerc-pc-portable-156-lenovo-loq-83je003jfr-fhd-ips-144hz-intel-core-i7-13650hx-rtx-5070-115w-16-go-ram-ssd-512go-3462971",
+   "posted_at": "2026-11-20T23:00:00+00:00"
+  },
+  {
+   "title": "Samsung RAM 8 Go (2x4 Go) DDR4 SDRAM SO-DIMM PC4-2400T M471A5244CB0",
+   "price_raw": "25.19 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206716231673?_skw=ddr4&hash=item30213f5ff9:g:JuQAAeSwritrAMrn",
+   "posted_at": "2026-11-20T22:34:44+00:00"
+  },
   {
    "title": "Souris Keychron M6 (Vendeur Tiers)",
    "price_raw": "43,99€",
@@ -523,7 +655,7 @@
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeR2VNYOIkpcwayvm2L3b5pThjUdbLpn2GhT8v68Kj%2BFxUIGXxmEeqlTIRpxUlAKKvWjuh%2FWWUgSpsfbfdBet0hvNkqq5U2sbxTS590QpURZPBrGI%2FEczWhyLfOOGfdTYi1Gp5ebulGjvO%2F7KLuF1p6hg8HZyc4R1%2BXYqgsKgG%2FuUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeS%2BLxuctvTPzu6qY5BfXhu%2FQ0Y5YadCKIno%2F3shO8l4B1b2UF2rUFXPYX5jiacIpY%2FLXRQqf6hN%2FX86%2B6pfJSt2K8m2aNEgEhMnZ3wuKiI8jRnhXLJNe9cPy3j69f2nDo61lUx0afFPQZ9tHw%2BivtnGf0jWiKYB7PbdAoZlJQSxdg%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -574,13 +706,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/prime-ventilateur-thermalright-tl-k12-vendeur-tiers-3463737",
    "posted_at": "2026-11-20T19:01:04+00:00"
-  },
-  {
-   "title": "Console portable 7\" MSI Claw A1M-212FR - Core Ultra 5 135H, 1 To, écran FHD 120 Hz (+60€ en Bon d'achat)",
-   "price_raw": "499€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/console-portable-7-msi-claw-a1m-212fr-core-ultra-5-135h-1-to-ecran-fhd-120-hz-60eur-en-bon-dachat-3463696",
-   "posted_at": "2026-11-20T18:36:49+00:00"
   },
   {
    "title": "Pack de 3 Ventilateurs Be Quiet! Light Wings LX - 140 mm, PWM Black High-Speed (Vendeur Tiers)",
@@ -723,13 +848,6 @@
    "posted_at": "2026-11-20T16:18:56+00:00"
   },
   {
-   "title": "Pegatron M2N7B-LA 504879-001 socket LGA AM2 Carte Mère fonnctionnelle 504879-00",
-   "price_raw": "25.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128206945166?_skw=carte+m%C3%A8re&hash=item1dd9babb8e:g:6c4AAeSwMotpsYvH",
-   "posted_at": "2026-11-20T16:05:31+00:00"
-  },
-  {
    "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - Full HD TN, Ryzen 3 30, RAM 16 Go, SSD 512 Go, 47 Wh, Sans OS",
    "price_raw": "389,99€",
    "source": "dealabs",
@@ -749,94 +867,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/routeur-openwrt-cudy-wr3000h-ax3000-5-port-wifi-6-25-gbe-vendeur-tiers-cudy-3463469",
    "posted_at": "2026-11-20T15:24:33+00:00"
-  },
-  {
-   "title": "Support Pc Benfei - Ordinateur Portable Bureau avec Station d'accueil 7-in-1 (Vendeur Tiers)",
-   "price_raw": "35,56€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/benfei-support-pc-ordinateur-portable-bureau-avec-station-daccueil-7-in-1-3463451",
-   "posted_at": "2026-11-20T15:07:18+00:00"
-  },
-  {
-   "title": "Carte Mère B75 1155 DDR3 HDMI Bureau Ordinateur I3 I5 I7 2-3° Gen",
-   "price_raw": "49.17 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840148789859?_skw=carte+m%C3%A8re&hash=itemc39cc52a63:g:21wAAOSwVHdn8sLB&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mY5UkhL6IGZiCWkqDTDwr6xwaRJzgmzScCKLXA0FVt3bvxXs8TW0jxDdJaKMSe9kgJ8E2jAVzBZCAPxiMH3Q%2B3C7ImBwFDnVSHbyJV9lLv%2Fqixq6vJZmNj6SiGLBAHDU3izFBrq1zHHHrNqQsJyY4AQzKeQl8Bh36nIg6WHaEq0ebzteBB8sRgrZ%2BCw7iHXqusUt6sDaw8hGceAjHA04Lv8FYv0%2FvhJLmArJwKk2IyjFBNHrVVCakCNwvuXXxxgzGpPU3c1RoCRvquJwk2lP7DQt8gLNpYeyavHhxeK4cGSw%3D%3D",
-   "posted_at": "2026-11-20T15:05:32+00:00"
-  },
-  {
-   "title": "Ecran PC 39\" LG UltraGear 39GX950B-B - OLED, 5K2K, 165 Hz, 0.03ms",
-   "price_raw": "1 395€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lg-ultragear-39gx950b-b-oled-39-5k2k-165hz-3463443",
-   "posted_at": "2026-11-20T14:57:12+00:00"
-  },
-  {
-   "title": "Moniteur de qualité de l'air intérieur Sonoff Smart avec PM2.5, PM10 (vendeur tiers)",
-   "price_raw": "28,97€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/sonoff-smart-moniteur-de-qualite-de-lair-interieur-avec-pm25-pm10-3463441",
-   "posted_at": "2026-11-20T14:55:36+00:00"
-  },
-  {
-   "title": "PC Portable 16\"HyperX Omen Max 16-ah1012nf - Ultra 7 270HX, RTX 5070Ti, 32Go de Ram, SSD 1To",
-   "price_raw": "2 149€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-hyperx-omen-max-16-16-ah1012nf-3463433",
-   "posted_at": "2026-11-20T14:49:11+00:00"
-  },
-  {
-   "title": "Mini PC Apple Mac mini M6 - 16 Go RAM, 256 Go SSD, GPU 12 coeurs, macOS 27 Golden Gate",
-   "price_raw": "929€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-m6-16-go-256-go-ssd-3463429",
-   "posted_at": "2026-11-20T14:46:47+00:00"
-  },
-  {
-   "title": "[Adhérents] PC Portable 16\" Lenovo IdeaPad Slim 3 16IRH10 - i7-13620H, 16 Go DDR5, SSD 512 Go, Windows 11 + 70€ fidélité",
-   "price_raw": "729,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-lenovo-ideapad-slim-3-16irh10-i7-13620h-16-go-ddr5-ssd-512-go-windows-11-70eur-via-carte-fidelite-adherent-3463346",
-   "posted_at": "2026-11-20T13:35:04+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Apple Macbook Pro Liquid Retina XDR M5 Pro - CPU 15 coeurs / GPU 16 coeurs, 24 Go RAM, SSD 1 To",
-   "price_raw": "2 599€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-14-liquid-retina-xdr-m5-pro-cpu-15-coeurs-gpu-16-coeurs-24-go-ram-ssd-1-to-argent-3463391",
-   "posted_at": "2026-11-20T14:15:43+00:00"
-  },
-  {
-   "title": "Lot de 11 Processeurs CPU Intel Core i5 6e Gen i5-6500 i5-6400 LGA1151",
-   "price_raw": "187.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920164345850?_skw=processeur&hash=itemd63e11a7fa:g:2KwAAeSwaMxrAFPB",
-   "posted_at": "2026-11-20T14:06:13+00:00"
-  },
-  {
-   "title": "Chargeur USB-C UGREEN Zapix 65 W - GaN II, AVS/PPS, câble 1 m inclus, compatible MacBook, iPhone, Galaxy, Pixel (vendeur tiers)",
-   "price_raw": "19,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/chargeur-usb-c-ugreen-zapix-65-w-gan-ii-avspps-cable-1-m-inclus-compatible-macbook-iphone-galaxy-pixel-vendeur-tiers-3463318",
-   "posted_at": "2026-11-20T13:20:25+00:00"
-  },
-  {
-   "title": "Tablette graphique 10\" Paperslate Pro - 64 Go",
-   "price_raw": "379,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/paperslate-pro-3463255",
-   "posted_at": "2026-11-20T12:20:10+00:00"
-  },
-  {
-   "title": "Imprimante créative pour enfant Kidyprinter AI - Kidywolf (lapouleapois.fr)",
-   "price_raw": "44,91€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-creative-pour-enfant-kidyprinter-ai-kidywolf-3463201",
-   "posted_at": "2026-11-20T11:37:51+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2077,
-  "models_with_reference": 67
+  "listings_seen": 2085,
+  "models_with_reference": 68
  }
 }
