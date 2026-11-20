@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T21:08:00Z",
+ "generated_at": "2026-11-20T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 357,
-   "last_ok": "2026-11-20T21:08:00.685306+00:00"
+   "last_ok": "2026-11-20T21:38:00.681013+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-20T21:08:00.685306+00:00"
+   "items": 374,
+   "last_ok": "2026-11-20T21:38:00.681013+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T21:08:00.685306+00:00"
+   "last_ok": "2026-11-20T21:38:00.681013+00:00"
   }
  },
  "watchlist": [
@@ -126,6 +126,23 @@
    "posted_at": "2026-11-20T14:15:26+00:00"
   },
   {
+   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 10.5,
+   "shipping_eur": 3.78,
+   "effective_eur": 14.28,
+   "median_eur": 24.36,
+   "discount_pct": 41.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,5 %, 219 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
+   "posted_at": "2026-11-11T18:03:48+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B0zOqhnKp5ODaI0EjBg8cS4Hu5nq4BBKimbpvuPIZCukXdcjobiRGwdDHgRiF2Aoc74a%2Bdswlb9a11pcMyMUyZLvsVqVFTSFc7o7Ru9N03%2FNAV4hdOoaz2MA068munJQGyyBWWChAcwUBFScVfhmk8I22lhIuJKzfiovTJScEmMw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B0NWxK%2B5CxjEDldmPRQp5vVSU8Twmr3EBBNVIJjSIt1fgtK6IH37GmcPHIZLY4VUZyE96S0Pfp2Oobx5sYefOKsPkw%2FnaTYz77uXq6QuHiCYuH1jRt8SGB%2Bzopg64M%2FN8s6SDNluA8bR%2BShNTUguA9oyRYGF3YjcXlX%2BBYKUCegA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzur4dAc2IPybPjXsYykvUUc3H70Pmdz88do0WCTmbHoajYOZBcdxiDqdV2TTsZ47T5tEq39QIofL4%2BFfI%2FnASXXsWmdGPiUBDuheJltY77AS%2BrBraYOc7Ccc%2BOMdc1RK3HykF90%2BImuy8YNLV09BZb",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwNfiNQHRRoQG6%2FJI1KbXXI%2FuG74NxqHJ0qYouc1xFsXcuYWH7Y0kidxyZJFRjeCJi1A%2FYBcIADpB0navGzq3%2BTe91lx6t9K3Zx6b0%2B96IlF7mg3578ZYWQMUKuOIFJf0i%2F45Yi2X%2FGGi7fGvyCM%2F8Z",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -398,23 +415,6 @@
    "posted_at": "2026-11-20T10:28:23+00:00"
   },
   {
-   "title": "Samsung 860 EVO 500Go 2,5\" SATA III SSD Interne (MZ-76E500) Testé et formaté",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 47.4,
-   "shipping_eur": 3.0,
-   "effective_eur": 50.4,
-   "median_eur": 62.27,
-   "discount_pct": 19.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
-   "posted_at": "2026-11-20T10:13:01+00:00"
-  },
-  {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
    "model": "PSU:1000W-Gold",
    "category": "PSU",
@@ -485,6 +485,34 @@
  ],
  "unclassified": [
   {
+   "title": "Souris Keychron M6 (Vendeur Tiers)",
+   "price_raw": "43,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-keychron-m6-3463878",
+   "posted_at": "2026-11-20T21:31:11+00:00"
+  },
+  {
+   "title": "[Macif] Pc portable 15.3\" HP HyperX Omen 15-gb0044nf - Ryzen 7 8745HX, RTX 5070, 16 Go Ram, 512 Go SSD",
+   "price_raw": "1 334,05€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/macif-pc-portable-153-hp-hyperx-omen-15-gb0044nf-ryzen-7-8745hx-rtx-5070-16-go-ram-512-go-ssd-3463868",
+   "posted_at": "2026-11-20T21:13:51+00:00"
+  },
+  {
+   "title": "PC Portable 15.3\" Dell Alienware 15 - Intel Core 7 240H, RTX 5050, 16 Go RAM, 512 Go SSD, Win 11",
+   "price_raw": "969€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/dell-alienware-15-intel-core-7-240h-rtx-5050-153-wuxga-165-hz-16gb-ram-512gb-ssd-win-11-3463866",
+   "posted_at": "2026-11-20T21:13:12+00:00"
+  },
+  {
+   "title": "PC portable 15.3\" Dell Alienware 15 - Intel Core 7 240H, RTX 5060, WUXGA 165 Hz, 16GB DDR5, 512GB SSD, Windows 11",
+   "price_raw": "1 199€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/dell-alienware-15-intel-core-7-240h-rtx-5060-153-wuxga-165-hz-16gb-ddr5-512gb-ssd-windows-11-3463862",
+   "posted_at": "2026-11-20T21:07:26+00:00"
+  },
+  {
    "title": "Corsair Dominator Titanium RGB DDR5 - 32 Go (2 x 16 Go) - 6400 MT/s C32 - Intel",
    "price_raw": "878.76 EUR",
    "source": "ebay",
@@ -495,7 +523,7 @@
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeRINZjCmZE%2FpHyb%2F9Fy7THMhONSFaAe6KcSFYlwjVufnA9nH0fohPO85%2By0n%2BjM%2BGnrKz%2F1LkQIZMzUe8eIm3nqf9Nu2kGKUnba4kZhW7oZiLYQv2vwohdikdIyJputlSCYe2dsOQ5oK%2F9IGin%2FINwEi1B1OvQXeqd63UqycSJ5yA%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeSjdc6ABPZ10httJJSZqISQXXTJtG6UXueI64ajrdc9WbOuwob1rVfPVcnOo7y9Fu2uYlFFHhWl0gj5n0hn91s9hwkimvex3MpBWt49xjBu9lyju5zeuCsBAxCCaor%2Fq%2BrZX0hTV1mXZlgRI1Q1AcP2sFWIvmR51Q4pmntDwxzksw%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -733,7 +761,7 @@
    "title": "Carte Mère B75 1155 DDR3 HDMI Bureau Ordinateur I3 I5 I7 2-3° Gen",
    "price_raw": "49.17 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840148789859?_skw=carte+m%C3%A8re&hash=itemc39cc52a63:g:21wAAOSwVHdn8sLB&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mY5UkhL6IGZiCWkqDTDwr6xwaRJzgmzScCKLXA0FVt3bvxXs8TW0jxDdJaKMSe9kgJ8E2jAVzBZCAPxiMH3Q%2B3C7ImBwFDnVSHbyJV9lLv%2Fqixq6vJZmNj6SiGLBAHDU0Ro6HhoJ4x2BuZ%2Ff79XOuKINSxcjb22NHQjm%2BywspwrukWTiQE2J2rikzO5%2BRKcS80a0H3Vu9vClQcp3%2B7kykdPHtE%2F8VOJ%2BEhHceupApZWXQiT2vJfzAhMdxtbmBimARReIOJ9Cna4V0Hvki0B7K0W%2BC5PBtutqmDDQVv3Vcaog%3D%3D",
+   "url": "https://www.ebay.fr/itm/840148789859?_skw=carte+m%C3%A8re&hash=itemc39cc52a63:g:21wAAOSwVHdn8sLB&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mY5UkhL6IGZiCWkqDTDwr6xwaRJzgmzScCKLXA0FVt3bvxXs8TW0jxDdJaKMSe9kgJ8E2jAVzBZCAPxiMH3Q%2B3C7ImBwFDnVSHbyJV9lLv%2Fqixq6vJZmNj6SiGLBAHDU0IXf0iN2kL5M9eSpBPszG00mVYWyL3JPKNHiRvO0LqTx0r8QdEl9VW4%2FpJF6K8BMCs9f5ao1aRusk3VYnwyJdYPxWTPD627C3oPmO6MJe11LC82Wrm0kEfuA2JV%2B4%2BcdPirYNtpTnDnzByIZrYl3lCtjsLRIrROkhn5ueGTUrdaw%3D%3D",
    "posted_at": "2026-11-20T15:05:32+00:00"
   },
   {
@@ -805,38 +833,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-creative-pour-enfant-kidyprinter-ai-kidywolf-3463201",
    "posted_at": "2026-11-20T11:37:51+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech G305 Lightspeed - capteur Hero 12K, Noir",
-   "price_raw": "28,89€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g305-lightspeed-souris-gaming-sans-fil-capteur-hero-12k-noir-3463168",
-   "posted_at": "2026-11-20T11:08:48+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Dell 15 DC15250 - Intel Core 3 100U, RAM 8 Go, SSD 512 Go, FHD, IPS, 120 Hz, Windows 11, vendu sans chargeur",
-   "price_raw": "399€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-dell-15-dc15250-fhd-ips-120-hz-intel-core-3-100u-8gb-ram-ssd-512gb-windows-11-sans-chargeur-3463114",
-   "posted_at": "2026-11-20T10:28:33+00:00"
-  },
-  {
-   "title": "Carte graphique gaming Asus ROG Strix GeForce GTX1060-6G GPU",
-   "price_raw": "154.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862238149?_skw=carte+graphique&hash=item3c09c97fc5:g:lKMAAeSw~hxrACYa",
-   "posted_at": "2026-11-20T10:51:04+00:00"
-  },
-  {
-   "title": "Carte mère GIGABYTE GA-Z170X-Gaming 7-OC ATX LGA 1151 DDR4 Motherboard",
-   "price_raw": "1000.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862238191?_skw=carte+m%C3%A8re&hash=item3c09c97fef:g:ahwAAeSwvMFrACYe",
-   "posted_at": "2026-11-20T10:51:07+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2080,
-  "models_with_reference": 69
+  "listings_seen": 2082,
+  "models_with_reference": 68
  }
 }
