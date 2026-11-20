@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T02:38:00Z",
+ "generated_at": "2026-11-20T03:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 348,
-   "last_ok": "2026-11-20T02:38:00.656450+00:00"
+   "last_ok": "2026-11-20T03:08:00.630281+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-20T02:38:00.656450+00:00"
+   "items": 381,
+   "last_ok": "2026-11-20T03:08:00.630281+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T02:38:00.656450+00:00"
+   "last_ok": "2026-11-20T03:08:00.630281+00:00"
   }
  },
  "watchlist": [
@@ -86,7 +86,7 @@
    "discount_pct": 42.2,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 214 avis)",
+   "merchant": "eBay · fastseller59 (99,5 %, 215 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -126,23 +126,6 @@
    "posted_at": "2026-01-11T18:22:04+00:00"
   },
   {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9outoj%2BJUgFjdsOl%2BiWWjHmlSX1QrCfrRBvmSsKJ4SpqrPFyWCdc0waRqgwxRL8uan3%2B5%2BkB5DCrd9qOLasXdRsp43i8tC3%2FmH00ZlmPuyLHFu6cm2I0bjFm2Rq6FcLwFeexoo42u2RtS5AcSYbSGK9c%2BKdP2i8qhHg1UEkC4GsQ%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -156,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzQKwzOnR2jpeDbjEtoqqPwS2lZfBYxA352TF9IDQeqYXfl%2F8vXC6WuyX2HEIGdUUxqDk5b9U3%2BxMTVsoZDX%2Bxys%2FSYIN94y%2FFNZKrYGQ8yc3WIl1t348qw27gITSQUq%2Fto3YP0hdcCJw5YFVJOu0BK",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxYcGgo3els9rXLclKv1NGvX7RewIMKmxK3bPrYoI53eQItoxN4sYcT7v%2BT0hFxnRoPWGznRLOWag5LW2rPfORTH3gcEL9RiufAuobEfrtYBOzl3oDOxyO%2BSL8%2FRbf30fL0CqW3YOEGdHb9Jo9OXpOz",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -273,9 +256,9 @@
    "discount_pct": 20.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 214 avis)",
+   "merchant": "eBay · fastseller59 (99,5 %, 215 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70yZDFJne9JyIo42ZN%2FIvS%2F0quD1YRPN3Ug13e%2B53ipRq4eaaqcd7ccoxMasiOSdBfoKY2yY4Awo23z3QGeX2Hj19Ypde6jmwiOdDtY8%2BHLZ06Ms8vISuXGUXFuT6oM1YitYGflw9ieyKShnUfasef5",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -459,7 +442,7 @@
    "title": " Carte Graphique AMD W5170M (2 Go) – iMac 21,5\", 24\" et 27\" (2009 & 2010)",
    "price_raw": "199.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405972061335?_skw=carte+graphique&hash=item5e85d20c97:g:DA8AAOSwxURoT1rM&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nyvBMdndT0jbMv2IxmCvPXl9HX1da57Vvy5zZYfG%2BVHsO%2BgjrO0u6csWdC9NByO0Mg4uIR%2BJ8dlDgk%2FpLAqFvZRDP5Ft25A4pHhJqpQ46Z1DqKdJ%2Bx6SqFpZDpBf0aaEd%2FT4FhgncwuHfiNJ4UHYjXDiXUsdNDylv4tVClDgstnpPM5rPP2FLRYnrpxfMyaAH9bAS%2BliPqbfHstVlJBqs5nD5KV%2F9N3EsvUje23jv79w9c8qZg0YcKnir7QkRAcacS7FG2Nef%2BIhpssAyx%2FW7ZeauU6lSmIP89fKb67ZLZTQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/405972061335?_skw=carte+graphique&hash=item5e85d20c97:g:DA8AAOSwxURoT1rM&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nyvBMdndT0jbMv2IxmCvPXl9HX1da57Vvy5zZYfG%2BVHsO%2BgjrO0u6csWdC9NByO0Mg4uIR%2BJ8dlDgk%2FpLAqFvZRDP5Ft25A4pHhJqpQ46Z1DqKdJ%2Bx6SqFpZDpBf0aaEfYnWPswT3k8uCOMVpnWR4t%2B3XqVHd4swdsnEOKaH8S%2FcyR6k6EtUXxX%2BOczp7JPZ1xeGcM11hQHRcUf22dTJc7PQ4iG3DCDkRNJnDeaSxe3P%2B5eUf%2BC9%2B%2BrD%2Fzv4U%2F2IgQzZ5DV9hDCnwzQfJse26ucR8mV3lwt36PV%2BYPXHVIHA%3D%3D",
    "posted_at": "2025-06-17T08:13:07+00:00"
   },
   {
@@ -510,13 +493,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/137945158928?_skw=%C3%A9cran+pc&hash=item201e2c1510:g:3-8AAeSw~rlq~2GL",
    "posted_at": "2026-11-19T21:01:36+00:00"
-  },
-  {
-   "title": "Autocollants Clavier AZERTY Français Noir Touches Ordinateur Portable Conversion",
-   "price_raw": "17.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137886807558?_skw=clavier&hash=item201ab1b606:g:5gIAAeSwCYhq5IqO&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lmVvlwuukPaRTZgV3%2F03a3WH6oFey%2Fd1tFf%2B8m%2F4jeW4aKn6WDfFzbfA7iO%2BgAi2u2NrQMTO9SZ1SBghvLx%2FcLOgQec1wArlpwdIjgLQCxpzOhhEHcFpIK4cTz%2FSag00wGLGOVndnQb4WqKa%2FgqA%2Bw%2ByTMSIATYYEvIl9mEittdotbPS0%2B03YUgz9YIvt9T5raf%2BdHubAX4MPtPXBY0llOmbvcm981MO4b6T5oFfIWdanuaLN%2BScCvBGf9juqgSrUD3UvkyNp3TpBoqRgyY5G0",
-   "posted_at": "2026-10-30T12:15:11+00:00"
   },
   {
    "title": "Boitier PC MSI MAG Forge 120A Airflow - 6 ventilateurs inclus",
@@ -648,7 +624,7 @@
    "title": "Lot 5 Ventirads AMD Wraith Stealth AM4 Ryzen Neufs + Pâte Thermique",
    "price_raw": "37.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsrBJMxik7G6McxFrZPT4jUr3FydiT%2Br3KWGPDrjZkLNcHfra6AY5UJOywqzcqbBJ%2FYlFDSBbBGd8wJkQNEs%2B3hXOUffcniYIUM62tAEnCi91j2aR--8GWbFAIW%2FuOmKMKTGqhRprQR7DkAlHLEqPvxr1q1iYKY6OueNAm9kHkqEGg%3D%3D",
+   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLspdniJCZfS2MvVFH7kzL%2BLwu5tSvFjVBIR90dRi9E%2BH%2Bt3cJsPy0vcnnxl1QMduiNMT58SJgnoCq7O2gOh3YpqDx8H%2BgZFT4cYtdfhhGPcEo7BFiWbKpb3mJ5PUg7MVlKyn5Yl435C3kQIBgzBB%2B88pK4iNydIm4RKhLF4f7Kcs5g%3D%3D",
    "posted_at": "2026-11-19T16:54:20+00:00"
   },
   {
@@ -715,6 +691,20 @@
    "posted_at": "2026-11-19T14:18:03+00:00"
   },
   {
+   "title": "Kingston RAM 8 Go (2x4 Go) DDR4 SDRAM SO-DIMM PC4-2666V-SC0-11 260p",
+   "price_raw": "25.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206713043217?_skw=ddr4&hash=item30210eb911:g:FjYAAeSwBQtq~wZe",
+   "posted_at": "2026-11-19T14:25:26+00:00"
+  },
+  {
+   "title": "SK hynix RAM 4 Go DDR4 SDRAM SO-DIMM PC4-2400T 260 broches HMA851S6AFR6N-UH",
+   "price_raw": "12.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206713061929?_skw=ddr4&hash=item30210f0229:g:2CcAAeSwygtq~wgR&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mZJuodRr8ocykxEjJOuG2xmZxNwiBqfvBJvEY0lqmZmziXROIDMjCkWAcT%2Ba%2Fj6XerbE26EgeLSRRCfy2wF5f6%2F7Cfsg7sFa8Vhp19DJukdlWhlUVyWkUFuiz3iLHbqiiwmA8Fh%2BLCeFuCLq4LVrNdDipVlAwfHXcT38GXxIyt8ez7we%2Bf864%2FCYVFiodXJCk3cigbIRSEmiN8RFLACeoUZHgSIHR%2FFI%2Bc8btlE4wU3l5%2FQkQY1kxlC%2F252zC%2BbPxspTXS%2Bhn02q513U3aXvjZ",
+   "posted_at": "2026-11-19T14:32:42+00:00"
+  },
+  {
    "title": "Alimentation PC ATX Acomax JX-H350A 480W Max Chrome Noir Gainee + Cable",
    "price_raw": "14.00 EUR",
    "source": "ebay",
@@ -741,17 +731,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117530402380?_skw=ddr5&hash=item1b5d5b9e4c:g:mZAAAeSwR1Rq~v6Y",
    "posted_at": "2026-11-19T13:51:34+00:00"
-  },
-  {
-   "title": "Bitspower Radiateur de water-cooling BP-NLXF360-4FPB",
-   "price_raw": "104.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257158223585?_skw=watercooling&hash=item3bdfd316e1:g:5qEAAeSweS9o77hd",
-   "posted_at": "2025-10-15T15:40:22+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2063,
-  "models_with_reference": 66
+  "listings_seen": 2061,
+  "models_with_reference": 64
  }
 }
