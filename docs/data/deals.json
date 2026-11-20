@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T10:08:00Z",
+ "generated_at": "2026-11-20T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 350,
-   "last_ok": "2026-11-20T10:08:00.662837+00:00"
+   "last_ok": "2026-11-20T10:38:00.673439+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 374,
-   "last_ok": "2026-11-20T10:08:00.662837+00:00"
+   "last_ok": "2026-11-20T10:38:00.673439+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T10:08:00.662837+00:00"
+   "last_ok": "2026-11-20T10:38:00.673439+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9t6v6MvBZXPPH9U7Aj4mhlmvBRxShyew9uN35uzUiwuB%2FvR13DfvNksh%2Fsl57xUzAEdG6mCjfCkDPr5dZ7fBp6y7qwtjary9tMr05HT3lwTak73RSPZPbH1LDVEGeS2NrgzwaKafJXmognu5lt%2BfQt%2FPHaVIwurNMyVqMYJ0LCpw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9%2Bfkh08VRHENvk5fxofF3WnekBzhsjavcUyxymNHgi9nKQFu3xfMAz%2Fg4cGt4rMVk7NtUunRfjxAvQC%2BvYtj0YrOgx6Qs1jXqehDN2JV%2BAyxUVGbBfe3hiT3RlVp2HIb23PRTQ2qxZXEEn%2BXZu5ccMmCk5Q8k%2BPpul%2FUbYM8OGBQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuztSxVqqjaGIChvvNalGSb16OEeqJiqDA%2BbvOROEISzR3IvNBH%2BidPA6hcN047oDmFaVEL3ecda8Jma7qBgHbJvGpw5tCkoYuRz6FgG5kFxUIli%2Fkn%2Fz4B8gA%2BISvwgDyPN2WxU%2BuhA4nzEavwIhIWQ",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyV1JsX%2Fgn%2FA18mPoD5CdA0r5%2Bcwg3abCzU2sMz4fEQxFCrE4uSakppuc03Tmt1HVaGxOYrqfD34ZQc8AXtp2wx6FsBenY0MqosYQWv4zR0tUgatpSUy3AmJmqXYFwe1SzuSQ9wWlYi1Zy0FPPQV9n%2F",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -262,23 +262,6 @@
    "posted_at": "2026-11-15T23:04:06+00:00"
   },
   {
-   "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 46.2,
-   "shipping_eur": 3.78,
-   "effective_eur": 49.98,
-   "median_eur": 62.77,
-   "discount_pct": 20.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 216 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70s%2Bqljw8io2g06a%2BX2TNSwRaV%2FiuVfFhgnYlIbOmrK40txoQX5IJG7oB7z9aSzi3NN5GoCp%2Bx5aSDpJEufvrkVr%2FJfGyUesAlOz31frxexHxcDJTxh%2FUg3Cp2Sxij9mXMiw6Hg0pkySVv58pbyT9D%2B",
-   "posted_at": "2026-11-14T22:04:31+00:00"
-  },
-  {
    "title": "Carte mère GIGABYTE B850 Eagle WIFI6E - AM5, DDR5, PCIe 5.0, 3x M.2, WiFi 6E, ATX",
    "model": "MB:B850",
    "category": "MB",
@@ -313,6 +296,23 @@
    "posted_at": "2026-11-18T09:57:21+00:00"
   },
   {
+   "title": "Western Digital WD Red SA500 SSD interne 500 Go 2,5\" SATA III WDS500G1R0A-68A4W0",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 46.2,
+   "shipping_eur": 3.78,
+   "effective_eur": 49.98,
+   "median_eur": 61.77,
+   "discount_pct": 19.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,5 %, 216 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71zonQkVDXDHRIzpShg1cUDMDSWpNCmwdInItUYIiH5ksgl%2Fk%2BYQpexlrk7Q7oYVYHoR2TeLQ5KZsbvMVTOuDS4kibD970zb5qjfeXF4JmePGh5Kg8Dvz%2BZHv12x5ENi7lgajcAsRLz5dU9VgtSfa64",
+   "posted_at": "2026-11-14T22:04:31+00:00"
+  },
+  {
    "title": "Disque SSD M.2 2280 128Go SAMSUNG / TOSHIBA 128 GB Testé Parfait état",
    "model": "SSD:NVMe-128Go",
    "category": "SSD",
@@ -328,6 +328,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227174209795?_skw=ssd&hash=item34e4a35903:g:ZawAAeSw7ixpZ8-M",
    "posted_at": "2026-01-14T17:31:44+00:00"
+  },
+  {
+   "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.4,
+   "shipping_eur": 3.0,
+   "effective_eur": 50.4,
+   "median_eur": 61.77,
+   "discount_pct": 18.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237194313277?_skw=ssd&hash=item3739e1fe3d:g:bZAAAeSw1kBrAB-J",
+   "posted_at": "2026-11-20T10:28:23+00:00"
   },
   {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
@@ -383,6 +400,20 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 14\" Hybride HP - OmniBook X Flip 14 Tactile, OLED, Intel Core Ultra 5, 325 16 Go RAM, SSD 512 Go, Sans Chargeur",
+   "price_raw": "899,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-hybride-hp-omnibook-x-flip-14-oled-3463093",
+   "posted_at": "2026-11-20T10:12:25+00:00"
+  },
+  {
+   "title": "ATI Radeon HD 5870 1 Go GDDR5 AMD – Carte Graphique Vintage Rétro PC ",
+   "price_raw": "30.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900106674654?_skw=carte+graphique&hash=itemd19289e1de:g:R1wAAeSwmhxrABza",
+   "posted_at": "2026-11-20T10:12:11+00:00"
+  },
+  {
    "title": "Tablette 11\" Lenovo Tab M11 (FHD+ IPS, Helio G88, RAM 4 Go, 128 Go) + Stylet (Sélection de magasin)",
    "price_raw": "119€",
    "source": "dealabs",
@@ -395,13 +426,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-firebat-f1p-amd-ryzen-7-h255-16-go-lpddr5-512-go-ssd-win11-pro-black-friday-3463040",
    "posted_at": "2026-11-20T09:39:37+00:00"
-  },
-  {
-   "title": "Carte mere Dell Optiplex 3060 / 04Y8V0   MotherBoard: 4Y8V0 Intel 8em gen",
-   "price_raw": "47.40 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307291798713?_skw=carte+m%C3%A8re&hash=item478c04bcb9:g:YjcAAeSwAJ5rABl-",
-   "posted_at": "2026-11-20T09:58:41+00:00"
   },
   {
    "title": "PC Portable 15.6\" MSI Gaming Cyborg 15 B2RWFKG-1089FR - FHD 144Hz, Intel Core 9 270H, RAM 16 Go, SSD 1 To, RTX 5060, Windows 11",
@@ -708,7 +732,7 @@
    "title": "Lot 5 Ventirads AMD Wraith Stealth AM4 Ryzen Neufs + Pâte Thermique",
    "price_raw": "37.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLspI%2B%2FRSamI%2B2%2BNhDLiRZATyoMlqyXZbFeI69JzDiGfN2VZ3Fv3UtdWGFOvsmlK13dnbfSh%2FD3gWsgGFOe9Iw8nb%2F5vGKTY2Auy6kxaDEetq7vE2YiFdoIf%2BW2HOUznmr9XoIekSp44Pntd%2FPI8gzi%2FNWZ6GU5mSk6l%2FuaSq0beFWQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsq1%2BjDVLshB7VvmiETdn4tkczQ5Bqs6lZchj2mGoYFZrqUYKpHUSLyxxbiiHSSBWo02gjeUgq--l5QiYUjova68L8--QzvHmq9gGmLplsvw0zWD5MSLLlq4Zhgnu9B99xJZBnDfIgD72AOG6pOw76Qs1txDhk0PqKM%2FSKS3S4AmFw%3D%3D",
    "posted_at": "2026-11-19T16:54:20+00:00"
   },
   {
@@ -724,17 +748,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/corsair-rs140-argb-140mm-ventilateurs-pwm-connexion-daisy-chain-2x140mm-3462181",
    "posted_at": "2026-11-19T16:12:49+00:00"
-  },
-  {
-   "title": "ASUS GeForce GT 730 2 Go GDDR5 Carte Graphique",
-   "price_raw": "45.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800851771750?_skw=carte+graphique&hash=itemba767c4166:g:13wAAOSweaBiYAug&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lXekbDP6cb%2F183N3UCvIMShe7mo3l%2Bq2WTjrrRpUjQarK%2FvtT5kwq%2FIwTVt1qYKDixeFwdUqt0d2SeA0hBgfsVnkcJYB0bUy2Xte%2FKqXzh9XhV4PtaqObLcG2d8Q40E9VFmi6JJK7%2FHVZm%2BFtXv0%2Bkw82nhkL0M33XKr7cXV%2FwwN%2B1plDsYLeVQ%2FiKoy5hpzdBMsbLCI5vjFZpVz04vGIv6MrnBK8Z3UwJScN38%2FKn4xHE9NTAuyuGahHSf1UAyUvrHqfWHXhZ5uUPPLs9rfT3ALu86fQ9QfHyzn%2FPEZ822Q%3D%3D",
-   "posted_at": "2026-10-29T12:39:42+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2035,
-  "models_with_reference": 64
+  "listings_seen": 2042,
+  "models_with_reference": 65
  }
 }
