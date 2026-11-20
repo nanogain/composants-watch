@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T23:08:00Z",
+ "generated_at": "2026-11-20T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 355,
-   "last_ok": "2026-11-20T23:08:00.671141+00:00"
+   "items": 354,
+   "last_ok": "2026-11-20T23:38:00.676300+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-20T23:08:00.671141+00:00"
+   "items": 380,
+   "last_ok": "2026-11-20T23:38:00.676300+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T23:08:00.671141+00:00"
+   "last_ok": "2026-11-20T23:38:00.676300+00:00"
   }
  },
  "watchlist": [
@@ -126,6 +126,23 @@
    "posted_at": "2026-11-20T14:15:26+00:00"
   },
   {
+   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 10.5,
+   "shipping_eur": 3.78,
+   "effective_eur": 14.28,
+   "median_eur": 24.36,
+   "discount_pct": 41.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,5 %, 219 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
+   "posted_at": "2026-11-11T18:03:48+00:00"
+  },
+  {
    "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
    "model": "MB:B760",
    "category": "MB",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9RoMALziGrtWsWq81NZMCYsvru7IJ3GD%2Fi4phqYsBkyrNnpuEfle8DlBLozdXq2S2DfAn4Qx13zTK7awmzlAEqwBNFOxNqitMpO7AHldfIlw3n85LcMq99uZFqnEjPHXcnxi6ioOQDhWPUNIpuzYlTuZ1wtjZz5B5jlmK%2FsNMhSQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B97Bh%2FDS6G%2BvdHkb5j6UfsSKoA6S6RR0y%2FwOg%2BpqJz6rcEMeMXPlHtVVCEcGpoGhCsI%2FIV0Cx5V%2BTbNQPXw1XX3MFS8pUaKb9wTJbASwn9QxlRQNeMHedPH55CMMEP1puwBygbEVVFkeVtDZF7LvgQaVUujmxhQMFJLsRbQYL85oA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux7%2BMd4SquP8NAlUpKQofS6gUYtfU9osHre2q%2Bsac%2BlE4dSKUnopml5F8cB%2Fo8arIAI8IjBPYiYa6zQVo%2FGgIUSDqDFXLg6KO5SLthpQ1YbWxTfmzgEsrp2zYRjqYppIIUW247qH2oj%2BZOQZhyH7d7t",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzzbqAQo4ihdYzswIDGtLczdWykZJ%2Bzxw%2F5u1is4i9tohMqssrsS3bIOIgZe2ByzgA%2FKE9aI%2BTL90SZF8jP7J5v05H9Jn8jNLC%2B07x5C4DwzXJN6tCxwcJV3h8E3HzUWcoWNGP9Iqi8MdZf62TdjsMa",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -377,7 +394,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 219 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE71zzpxsLU7DKNnDFnd%2BOtOH70XIzZvG6HS%2FUQ7ClyL6WnOsN9GvWFM4vqsvOSRFlPQEQYUG1Rp4FhDc5FiMe93jZK%2BTUF9ueof3hjZAlIkx6wUFybyntsHG3k3VsKV7AoeLN79nIoIShVYbGq4DlbeF",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73yNro0aQtQn7sYd6p2zuOWo2azA%2Fkimm9ivEutb9IulnrA75F%2F6qFDZ0shRadoopNsHnuTJqaLEDJ7cet2ZpiuAGbxphSxJgrbj7P5e97Ohqqu6uz7KIXpRuGgG45xCKgCpbFXL3ZuHM8qXdxRFNPT",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -519,6 +536,34 @@
  ],
  "unclassified": [
   {
+   "title": "PC de bureau Blackpltinium - Ryzen 7 9800X3D, 32 Go Ram, 2 To, RX 9070 XT 16 Go",
+   "price_raw": "2 599,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/besoin-davis-3463971",
+   "posted_at": "2026-11-20T23:19:14+00:00"
+  },
+  {
+   "title": "PC Portable 15.6\" Lenovo IdeaPad Gaming 3 - FHD 120Hz, Ryzen 5 5600H, RAM 8 Go, SSD 512 Go, RTX 3060, Windows 11 (Sélection de magasins)",
+   "price_raw": "489,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-156-lenovo-fhd-ryzen-5-5600h-ram-8-go-ssd-512-go-rtx-3060-selection-de-magasin-3463956",
+   "posted_at": "2026-11-20T23:10:04+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Lenovo IPS3 83K2009XFR - WUXGA IPS, Intel Core i7-13620H, 16 Go DDR5-SDRAM, 512 Go SSD, 50Wh, Windows 11",
+   "price_raw": "559,30€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-lenovo-ips3-83k2009xfr-wuxga-ips-intel-core-i7-13620h-16-go-ddr5-sdram-512-go-ssd-50wh-windows-11-3463367",
+   "posted_at": "2026-11-20T23:10:00+00:00"
+  },
+  {
+   "title": "Carte Mère Gigabyte GA-Q270M-D3H MicroATX LGA1151 DDR4 Incl. Plaque Arrière",
+   "price_raw": "65.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237195531467?_skw=carte+m%C3%A8re&hash=item3739f494cb:g:GcIAAOSwDwZjKf~G",
+   "posted_at": "2026-11-20T23:19:48+00:00"
+  },
+  {
    "title": "Station d'accueil pour Mac mini Ugreen 10 en 2, avec Boîtier M.2 NVME SSD, DisplayPort 4K 240Hz 144Hz (vendeur tiers)",
    "price_raw": "64,99€",
    "source": "dealabs",
@@ -569,13 +614,13 @@
   },
   {
    "title": "PC Portable 15.1\" Lenovo IdeaPad Slim 5 - OLED 165Hz (2560x1600), Ryzen 7 7735HS, RAM 32Go, SSD 1To, Radeon 680M, W11 (Sélection de magasin)",
-   "price_raw": "629,30€",
+   "price_raw": "699,30€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-151-lenovo-ideapad-slim-5-oled-165hz-2560x1600-ryzen-7-7735hs-ram-32go-ssd-1to-radeon-680m-w11-selection-de-magasin-3463588",
    "posted_at": "2026-11-20T23:01:56+00:00"
   },
   {
-   "title": "PC Portable 15.6\" Lenovo - Ryzen 7 7435HS, RTX 4070, 24 Go RAM, 512 Go SSD, Windows 11",
+   "title": "PC Portable gaming 15.6\" Lenovo LOQ 15ARP9 - FHD 144Hz, Ryzen 7 7435HS, RAM 24 Go, SSD 512 Go, RTX 4070 115W, Windows 11",
    "price_raw": "979,30€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ryzen-7-7435hs-rtx-4070-24-go-ram-512-go-ssd-windows-11-3463946",
@@ -655,7 +700,7 @@
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeS%2BLxuctvTPzu6qY5BfXhu%2FQ0Y5YadCKIno%2F3shO8l4B1b2UF2rUFXPYX5jiacIpY%2FLXRQqf6hN%2FX86%2B6pfJSt2K8m2aNEgEhMnZ3wuKiI8jRnhXLJNe9cPy3j69f2nDo61lUx0afFPQZ9tHw%2BivtnGf0jWiKYB7PbdAoZlJQSxdg%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeSJTsuYRFpN6vGQObLKgCFAT7zbqUl9Wg%2FKK6RXTM0jWHpZcSy11P1z9UU4zGnr31PlZ4fVx99Vl6HXbHUEt0J9ignts4kK55JyT3ycpsmtumu2Eva2dd7wTBeVNjHtop7gDZSZC9D8%2FC70%2FR95NjssMALzqt0dMbxgH51l2Dwg6A%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -839,38 +884,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/routeur-brovi-5g-cpe-c7-3463548",
    "posted_at": "2026-11-20T16:22:50+00:00"
-  },
-  {
-   "title": "Tablette Tactile 12,1\" Lenovo IdeaTab Plus - 2,5K (2560 x 1600) IPS, MediaTek 6400, 8 Go RAM, 256 Go UFS (slot SD) - Stylet + Folio",
-   "price_raw": "249,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-121-lenovo-ideatab-plus-25k-2560-x-1600-ips-mediatek-6400-8-go-ram-256-go-ufs-slot-sd-stylet-folio-3463540",
-   "posted_at": "2026-11-20T16:18:56+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - Full HD TN, Ryzen 3 30, RAM 16 Go, SSD 512 Go, 47 Wh, Sans OS",
-   "price_raw": "389,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-15amn8-full-hd-tn-ryzen-3-30-ram-16-go-ssd-512-go-47-wh-sans-os-3463504",
-   "posted_at": "2026-11-20T15:55:42+00:00"
-  },
-  {
-   "title": "Écran PC 52\" LG UltraGear evo - Gaming VA, 5K2K, 240Hz, 1ms",
-   "price_raw": "1 195,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lg-ultragear-52g930b-b-3463476",
-   "posted_at": "2026-11-20T15:30:57+00:00"
-  },
-  {
-   "title": "Routeur OpenWRT Cudy WR3000H, AX3000, 5-Port, WiFi 6, 2.5 GbE (Vendeur Tiers)",
-   "price_raw": "56,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/routeur-openwrt-cudy-wr3000h-ax3000-5-port-wifi-6-25-gbe-vendeur-tiers-cudy-3463469",
-   "posted_at": "2026-11-20T15:24:33+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2085,
-  "models_with_reference": 68
+  "listings_seen": 2086,
+  "models_with_reference": 69
  }
 }
