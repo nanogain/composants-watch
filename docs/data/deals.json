@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T15:08:00Z",
+ "generated_at": "2026-11-20T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-20T15:08:00.676454+00:00"
+   "items": 347,
+   "last_ok": "2026-11-20T15:38:00.650598+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-20T15:08:00.676454+00:00"
+   "items": 380,
+   "last_ok": "2026-11-20T15:38:00.650598+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T15:08:00.676454+00:00"
+   "last_ok": "2026-11-20T15:38:00.650598+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8B9cGzcDlrXpwoHPmS%2B%2Bo18M8YsyGYqsSN9VuOGsB%2BXUd09TDjttTVUN4C5G9QGJT7k1QEGdibhkgMp5k9U1tA9gdFngkb%2F2%2F8Pw8vxanRV76DuPE9BiO4GtGGDxVGptQPBSvMmIjWQAEZJLgR054x7nRAHLB9GpC6cN0sFgo3lQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BwYidyuy3k3tDCl7tqFIU%2BzeMeqFQ9eb4177mdcVwAza3Z6H42eSjH2ioAiDBUEEAi9ycuT08oQdrt08Jz2j5ZC5VKxANe0Ct09XAm%2BW5IDvp6BGx28jQuWokrwpbqN%2F7jBfhmMVXilnVm9xVlOzm4Db25AXnaWgZxgHPcijBsew%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz89d5uVs4UGsFSb1o5Yq%2FjKkXKSo0M95LzsFQoZFakGkoCePrXQH2EOhPp3nzdSlFfkysVCP2nTniB%2Bu9rxYSGxtIZSvgJ1DizDcwEttKlYla9sx2Qg6ukK9yDOxDVEQheGNFEwzRT0vx4c5PJs%2BFV",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuy2YxzLWshOuEawGUl7WMw5%2FHIFVFIemYwGUnogbWLoomNT1pb6TAAaL1wdQm2XeJ0P1By7RuXBpBi0J%2F5GHsM6msRUOs2zEoCGLYXfYk1M2lLP9yRhFp87fa61jkjJYrubrhKRoTPpMsdS0OW%2BsruQ",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -313,23 +313,6 @@
    "posted_at": "2026-11-20T08:13:39+00:00"
   },
   {
-   "title": "RAM Samsung 4Go DDR4 2400 SO-DIMM PC4-19200 M471A5244CB0-CRC Testée",
-   "model": "RAM:DDR4-4Go-2400",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 9.0,
-   "shipping_eur": 3.0,
-   "effective_eur": 12.0,
-   "median_eur": 15.94,
-   "discount_pct": 24.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · christel2327 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800942805970?_skw=ddr4&hash=itemba7be953d2:g:PAYAAeSwVkhrAEsL",
-   "posted_at": "2026-11-20T13:33:15+00:00"
-  },
-  {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
    "model": "MB:B550",
    "category": "MB",
@@ -394,7 +377,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 217 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE726Fg6D4dTb1NFdVxycngMsffDFuByEiByJnTuJX2mfy3jc73oCdY1hQBwQy5z%2BJjMDeJeUBEaw92BSbHb6qMaPoFrqhKZvniRYFASDix744lCOQVXQBaqFpUd5DXakH9ej65H6eLBjAlM3jJsUWth0",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73kG%2F7E5e%2FfIiwXajxBjKTsGFyX5OVCzYPe0lpDe8cNek7A42A%2F1cEMgS6u8--81WHq0Fpz%2BeiNt%2B8gAN2jjh08iM8JNkk%2Bg%2Bz0l9ti2M4GeX%2BKKm%2BvXbYz2fO8p5vVCP7v34wHujUlZz7CJGs20CWp",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -519,7 +502,35 @@
  ],
  "unclassified": [
   {
-   "title": "Ecran PC 39\" LG UltraGear 39GX950B-B - OLED, 5K2K, 165 Hz, 0.03ms (vendu par Amazon)",
+   "title": "Écran PC 52\" LG UltraGear evo - Gaming VA, 5K2K, 240Hz, 1ms",
+   "price_raw": "1 195,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lg-ultragear-52g930b-b-3463476",
+   "posted_at": "2026-11-20T15:30:57+00:00"
+  },
+  {
+   "title": "Routeur OpenWRT Cudy WR3000H, AX3000, 5-Port, WiFi 6, 2.5 GbE (Vendeur Tiers)",
+   "price_raw": "56,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/routeur-openwrt-cudy-wr3000h-ax3000-5-port-wifi-6-25-gbe-vendeur-tiers-cudy-3463469",
+   "posted_at": "2026-11-20T15:24:33+00:00"
+  },
+  {
+   "title": "Support Pc Benfei - Ordinateur Portable Bureau avec Station d'accueil 7-in-1 (Vendeur Tiers)",
+   "price_raw": "35,56€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/benfei-support-pc-ordinateur-portable-bureau-avec-station-daccueil-7-in-1-3463451",
+   "posted_at": "2026-11-20T15:07:18+00:00"
+  },
+  {
+   "title": "Carte Mère B75 1155 DDR3 HDMI Bureau Ordinateur I3 I5 I7 2-3° Gen",
+   "price_raw": "49.17 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840148789859?_skw=carte+m%C3%A8re&hash=itemc39cc52a63:g:21wAAOSwVHdn8sLB",
+   "posted_at": "2026-11-20T15:05:32+00:00"
+  },
+  {
+   "title": "Ecran PC 39\" LG UltraGear 39GX950B-B - OLED, 5K2K, 165 Hz, 0.03ms",
    "price_raw": "1 395€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lg-ultragear-39gx950b-b-oled-39-5k2k-165hz-3463443",
@@ -645,6 +656,13 @@
    "posted_at": "2026-11-20T10:38:01+00:00"
   },
   {
+   "title": "Samsung 16Go DDR4 SO-DIMM PC4-3200AA M471A2K43DB1 RAM Mémoire PC Portable",
+   "price_raw": "65.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147689362014?_skw=ddr4&hash=item2262f8d25e:g:VdwAAeSwBqVrACXr",
+   "posted_at": "2026-11-20T10:52:05+00:00"
+  },
+  {
    "title": "Kingston ValueRAM 32GB DDR4-3200 SO-DIMM Laptop RAM CL22 KVR32S22D8/32",
    "price_raw": "289.95 EUR",
    "source": "ebay",
@@ -659,6 +677,13 @@
    "posted_at": "2026-11-20T10:49:23+00:00"
   },
   {
+   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM Micron PC4-3200AA",
+   "price_raw": "125.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147689354811?_skw=ddr4&hash=item2262f8b63b:g:PYIAAeSwQIdrACPL",
+   "posted_at": "2026-11-20T10:42:43+00:00"
+  },
+  {
    "title": "Carte Mère Asus FX571GT-BQ691T i5-8300h GTX 1650 4 go",
    "price_raw": "89.99 EUR",
    "source": "ebay",
@@ -671,6 +696,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-hybride-hp-omnibook-x-flip-14-oled-3463093",
    "posted_at": "2026-11-20T10:12:25+00:00"
+  },
+  {
+   "title": "ATI Radeon HD 5870 1 Go GDDR5 AMD – Carte Graphique Vintage Rétro PC ",
+   "price_raw": "30.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900106674654?_skw=carte+graphique&hash=itemd19289e1de:g:R1wAAeSwmhxrABza",
+   "posted_at": "2026-11-20T10:12:11+00:00"
   },
   {
    "title": "Tablette 11\" Lenovo Tab M11 (FHD+ IPS, Helio G88, RAM 4 Go, 128 Go) + Stylet (Sélection de magasin)",
@@ -818,59 +850,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-pro-nas-4-baies-144-to-3462511",
    "posted_at": "2026-11-19T20:48:06+00:00"
-  },
-  {
-   "title": "Ecran PC 24\" AOC 24G4ZRE - Full HD Fast IPS, G-Sync Compatible, Noir",
-   "price_raw": "84,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-24-aoc-24g4zre-full-hd-fast-ips-g-sync-compatible-noir-3462521",
-   "posted_at": "2026-11-19T20:54:06+00:00"
-  },
-  {
-   "title": "PC Portable 15.6\" Lenovo IdeaPad Slim 3 - Ryzen 5 40, 16 Go de RAM, 512 Go de SSD, Win.11, Azerty, Chargeur Non Inclus",
-   "price_raw": "569€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lenovo-ideapad-slim-3-laptop-r5-16go-512go-chargeur-non-inclus-3462509",
-   "posted_at": "2026-11-19T20:46:39+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Dell 15 - FHD 120Hz, antireflet, Intel Core i5-1334U, 16 Go de RAM, 512 Go de SSD, sans chargeur (Étudiants 476,10€)",
-   "price_raw": "529€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/dell-15-ordinateur-portable-intel-core-i5-1334u-16gb-ram-512gb-ssd-fhd-120hz-antireflet-3462508",
-   "posted_at": "2026-11-19T20:46:33+00:00"
-  },
-  {
-   "title": "Sac à dos pour Ordinateur portable de 15,6 pouces, léger, hydrofuge, multi-compartiments",
-   "price_raw": "12,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/sac-a-dos-pour-ordinateur-portable-de-156-pouces-leger-hydrofuge-multi-compartiments-3462500",
-   "posted_at": "2026-11-19T20:41:52+00:00"
-  },
-  {
-   "title": "Boitier PC MSI MAG Forge 120A Airflow - 6 ventilateurs inclus",
-   "price_raw": "49,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-msi-mag-forge-120a-airflow-6-ventilateurs-inclus-3462469",
-   "posted_at": "2026-11-19T20:20:11+00:00"
-  },
-  {
-   "title": "Boitier PC NAS Jonsbo N4",
-   "price_raw": "89,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-jonsbo-n4-nas-3462443",
-   "posted_at": "2026-11-19T19:58:53+00:00"
-  },
-  {
-   "title": "Tablette 11\" Amazon Alexa - 8 Go de RAM, 128 Go, 2,5K",
-   "price_raw": "229,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amazon-alexa-tablet-11-8-go-de-ram-128-go-superbe-ecran-11-25k-batterie-qui-tient-toute-la-journee-avec-google-play-graphite-3462435",
-   "posted_at": "2026-11-19T19:50:22+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2070,
+  "listings_seen": 2079,
   "models_with_reference": 67
  }
 }
