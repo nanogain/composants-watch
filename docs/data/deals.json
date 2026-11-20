@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T11:08:00Z",
+ "generated_at": "2026-11-20T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-20T11:08:00.656904+00:00"
+   "items": 351,
+   "last_ok": "2026-11-20T11:38:00.626606+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 394,
-   "last_ok": "2026-11-20T11:08:00.656904+00:00"
+   "items": 388,
+   "last_ok": "2026-11-20T11:38:00.626606+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T11:08:00.656904+00:00"
+   "last_ok": "2026-11-20T11:38:00.626606+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FiYcFpC5QTipWxYI1%2FRW7HHntrZNE0byYvslSPbxT3rEUnOOobshc8kdn7pN3ZUhD%2BW4sU8hchp8Gx%2FYvewhgh8Keo5dgD0RZQyzJj5MY9upY371Qbbd0E6Zpoy5Pa5x26g82a7FzTQcFfdRtsLpAyOtwbmp%2F3ILX6Ab9GunXVPw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Buw%2FkcuhCxmN4KunyCLcIK%2Bar9Yhm6Rs%2BMLnNP7YHPHm7mdE8RB13avvFYw4Mt0HXE33MqqK2ps9Td5x%2BfpgBRPeWHEYGl%2BJwo66O6QU9k8v9JuhGaZHygm2nfLahDekNxue0yhlLBbtZQTrgSq4sI%2BlkLc%2FEJp57d%2FhM3hM8t%2BA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -292,7 +292,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 217 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73bGYmB4EyhmEJ0XMNlsDAyHAgSREJdO%2FCHtkwez0lUX0PTJ3fCmo%2B8CYwbiPlcvtCL6I4l6rguLssv7lB2nUfqFZtXEP6U9rqxWmtaxsFSDgVZHRqrwyxolKjwrmzxZ4TwXRqyn3IdZtXewRhVlXsN",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73iQDDN%2Bv7ShiWRzD%2FfOAEFAI2%2BcFqB%2FXK4qkcdMp9cHqbRXl9QLirG7sjbYDxKAuwbT9nMky2qqax2F7Ys154abjHp7jxZR%2BAwTQ07%2BRFL6zy9dA1QVM0lamXHlcqW5GjjyKWvdAyW2X%2BKrZIlV0%2BZ",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -417,6 +417,34 @@
  ],
  "unclassified": [
   {
+   "title": "Imprimante créative pour enfant Kidyprinter AI - Kidywolf",
+   "price_raw": "44,91€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-creative-pour-enfant-kidyprinter-ai-kidywolf-3463201",
+   "posted_at": "2026-11-20T11:37:51+00:00"
+  },
+  {
+   "title": "Souris sans fil Logitech G305 Lightspeed - capteur Hero 12K, Noir",
+   "price_raw": "28,89€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-g305-lightspeed-souris-gaming-sans-fil-capteur-hero-12k-noir-3463168",
+   "posted_at": "2026-11-20T11:08:48+00:00"
+  },
+  {
+   "title": "Processeur Quad-Core Intel Core I7 870 4X 2.93GHz Socket 1156 Max. 3.60GHz",
+   "price_raw": "39.28 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237159746821?_skw=processeur&hash=item3737d28d05:g:HwsAAeSwWS1qPSIa&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m6PzDI%2BgHmxAa2QfjWE95%2BWJDuIZUqxur0OJ7OOlmdrjZgyL1JbbiDnaz%2Fpvj%2B6aoksmdFhHjXl64LC6EEC4CaliM9Xbgh2w%2BSP3Z%2Bj5WSkp6LjW%2FajcyhADjdXNl2Ie2biWraSDwtGzHWdior9P1K02cV5t%2FEh%2BWwl7hRsWEc4YaN118xU%2FtcnQFfY%2B7SWqW%2FYu82kT%2BzUmDoiSpWscMRua0Bjwd6gKOQGmEUdIZ%2FmF5ZHxh9cvi9p2sOKwAqgDnBp7w6Mloycng6S3lZyrwq",
+   "posted_at": "2026-11-03T06:07:28+00:00"
+  },
+  {
+   "title": "Carte mere Ryzen 5 3500u GS440 GS540 NMC511 REV 1.0 LENOVO IdeaPad  S145-14API",
+   "price_raw": "94.20 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307291912537?_skw=carte+m%C3%A8re&hash=item478c067959:g:s2QAAeSwqpNrAC2t",
+   "posted_at": "2026-11-20T11:25:45+00:00"
+  },
+  {
    "title": "PC Portable 16\" Asus Vivibook S1607KA-MB063W - IPS FHD+, Ryzen AI 5 340, 16Go RAM, 512Go SSD, Windows 11 (Via 200€ fidélité + 105€ en BA)",
    "price_raw": "494,99€",
    "source": "dealabs",
@@ -457,20 +485,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/257862238081?_skw=carte+graphique&hash=item3c09c97f81:g:l0gAAeSwkrtrACYZ",
    "posted_at": "2026-11-20T10:50:57+00:00"
-  },
-  {
-   "title": "Carte graphique PNY Quadro P4000 8 Go GDDR5 4x DisplayPort GPU - en vrac",
-   "price_raw": "149.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862238606?_skw=carte+graphique&hash=item3c09c9818e:g:jzMAAeSwnxxrACZA",
-   "posted_at": "2026-11-20T10:51:41+00:00"
-  },
-  {
-   "title": "Carte graphique NVIDIA RTX A4000 16 Go GDDR6 ECC Workstation 4x DisplayPort PCIe",
-   "price_raw": "2000.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862241893?_skw=carte+graphique&hash=item3c09c98e65:g:fD4AAeSw6PNrACcZ",
-   "posted_at": "2026-11-20T10:55:19+00:00"
   },
   {
    "title": "Processeur Intel Xeon E5-1620 v3 CPU 4C/8T 3.50-3.60GHz Socket LGA 2011-3 -...",
@@ -536,13 +550,6 @@
    "posted_at": "2026-11-20T10:55:37+00:00"
   },
   {
-   "title": "Kingston FURY Impact PnP 32 Go RAM 5600MT/s DDR5 CL40 SODIMM mémoire gaming",
-   "price_raw": "1000.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862237574?_skw=ddr5&hash=item3c09c97d86:g:bH8AAeSwQyJrACXw",
-   "posted_at": "2026-11-20T10:50:18+00:00"
-  },
-  {
    "title": "Intenso Portable SSD 128Go Premium Edition USB 3.0 Disque Dur Externe SSD",
    "price_raw": "1000.00 EUR",
    "source": "ebay",
@@ -562,13 +569,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/366824652736?_skw=carte+m%C3%A8re&hash=item556873ffc0:g:pYMAAeSwfTlrACca",
    "posted_at": "2026-11-20T10:56:56+00:00"
-  },
-  {
-   "title": "Carte mère MSI A320M-A PRO MAX Intel Socket 1151 DDR4 HDMI ATX Mainboard",
-   "price_raw": "129.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862249442?_skw=carte+m%C3%A8re&hash=item3c09c9abe2:g:fXoAAeSwBqVrAClV",
-   "posted_at": "2026-11-20T11:04:49+00:00"
   },
   {
    "title": "Carte mère MSI 970A Gaming Pro Carbon DDR3 RAM ATX AM3+ AMD970 SB950",
@@ -768,7 +768,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2102,
-  "models_with_reference": 68
+  "listings_seen": 2101,
+  "models_with_reference": 66
  }
 }
