@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T14:08:00Z",
+ "generated_at": "2026-11-20T14:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 350,
-   "last_ok": "2026-11-20T14:08:00.624595+00:00"
+   "last_ok": "2026-11-20T14:38:00.664250+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-20T14:08:00.624595+00:00"
+   "items": 376,
+   "last_ok": "2026-11-20T14:38:00.664250+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T14:08:00.624595+00:00"
+   "last_ok": "2026-11-20T14:38:00.664250+00:00"
   }
  },
  "watchlist": [
@@ -109,6 +109,23 @@
    "posted_at": "2026-11-20T12:59:50+00:00"
   },
   {
+   "title": "RAM Samsung 8Go DDR4 3200MHz SO-DIMM PC4-25600 M471A1G44BB0-CWE",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 24.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 24.99,
+   "median_eur": 44.9,
+   "discount_pct": 44.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · teaminfo (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/940108418198?_skw=ddr4&hash=itemdae2d40c96:g:krkAAeSwmGBrAFXs",
+   "posted_at": "2026-11-20T14:15:26+00:00"
+  },
+  {
    "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FvM0BGt6xAfbu7sQUj%2BgqscKE%2Bq%2F8PI7i9h60TgRgf3zb2MIzk95bWObEP8BTUX6WDy3xczMJ8xH4RtVpYs7kjZworD539GpRk%2B4uzEGoIJIYpKrHjBtTg%2FU%2FM52TN41QBBxo0jNmHwRqqeYxGTLpAmT7nZzU5gO2Qm3pNmXKPWA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BAsKEtf5LWTlm13IS7jsLMO3%2F3PmzH1u8%2ByCfnN2tuqCfKCFxWfcnk42XrXjqcVeODLAbSgMPPxF0L9V8QI0362v4Fu%2F3PuqbiZ4tKZXAylYBZV%2B2pUpLi34L%2F0CTohAzmSPyQQzHxQ2nRaIKhU%2FEh9kZ%2Bk5GjfMC5SQ20Z%2BpeFQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxln%2FMYmOn0KEaG%2FhlpQViEtiaYt8sueuZ80f6GI%2BXLHYB2qAJDTNOm1a48%2BwaJOqmXkgOZaeB8SAe0dBvwT%2BttyZ9O3DbOXHlg4FJKzhaMoDWcr8aTyEG2J5NO74Wns%2BJiA5zKXYlNUHfn9oScQU7y",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux%2BqvK7s8hrlpOLjufeotF8kaoAGx5gReJu6h%2FyNJbGaKUwllC6mftLxMVLv7YmGaxH2t%2FsxhTkshy1vQ2Heog%2F5WT6mai3DD%2Flgc%2FsvQZZN9jrZ5d2yxLW6UJsgYJrjTAmqu%2FzkWaHJ615sU6iVPw%2B",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -320,8 +337,8 @@
    "price_eur": 76.99,
    "shipping_eur": null,
    "effective_eur": 76.99,
-   "median_eur": 99.86,
-   "discount_pct": 22.9,
+   "median_eur": 101.99,
+   "discount_pct": 24.5,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon",
@@ -377,7 +394,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 217 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73DUBgvEAmGdl259xdBhyh1xbwROKc6BDUKYZZYMeX8QNURc%2FPhzncl6UBGMrRrooBG2lXuGliUadO%2BBbvZ0aexUeblLETw%2FpfX3rKWv1VMGk%2Bh4AAbjZp4JO%2BT12xp6UWIBaFFCFx1q2zQ89VpzgFN",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE70keYmIdzbh8E0i3Z7JYLNVIYWDcA4QHKw9BbIzbjcxc6k7Zu1uML2oHe5%2FVe6N2Q4WcM%2FVrhVmDflU5NBi6m6gsM3rz%2BcDfoJk6C2s0tHY%2Bf7NiL1%2FKVGFDly67J81RiPfpdeEhdVU0kvREOE6XNDs",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -502,18 +519,25 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 14\" Apple Macbook Pro Liquid Retina XDR M5 Pro - CPU 15 coeurs / GPU 16 coeurs, 24 Go RAM, SSD 1 To",
+   "price_raw": "2 599€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-14-liquid-retina-xdr-m5-pro-cpu-15-coeurs-gpu-16-coeurs-24-go-ram-ssd-1-to-argent-3463391",
+   "posted_at": "2026-11-20T14:15:43+00:00"
+  },
+  {
+   "title": "Lot de 11 Processeurs CPU Intel Core i5 6e Gen i5-6500 i5-6400 LGA1151",
+   "price_raw": "187.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920164345850?_skw=processeur&hash=itemd63e11a7fa:g:2KwAAeSwaMxrAFPB",
+   "posted_at": "2026-11-20T14:06:13+00:00"
+  },
+  {
    "title": "Sélection de Cartes Graphiques Nvidia RTX 5060 TI 16Go (Exemple 5060 TI Eagle 16Go 529,99€)",
    "price_raw": "529,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/selection-de-cartes-graphiques-rtx-5060-ti-16go-3463356",
    "posted_at": "2026-11-20T13:49:03+00:00"
-  },
-  {
-   "title": "CHERRY Stream Keyboard TKL, Clavier Filaire sans pavé numérique, Disposition Belge (AZERTY)",
-   "price_raw": "14,24€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/cherry-stream-keyboard-tkl-clavier-filaire-sans-pave-numerique-disposition-belge-azerty-3463375",
-   "posted_at": "2026-11-20T14:06:26+00:00"
   },
   {
    "title": "Chargeur USB-C UGREEN Zapix 65 W - GaN II, AVS/PPS, câble 1 m inclus, compatible MacBook, iPhone, Galaxy, Pixel (vendeur tiers)",
@@ -586,13 +610,6 @@
    "posted_at": "2026-11-20T10:38:01+00:00"
   },
   {
-   "title": "Samsung 16Go DDR4 SO-DIMM PC4-3200AA M471A2K43DB1 RAM Mémoire PC Portable",
-   "price_raw": "65.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147689362014?_skw=ddr4&hash=item2262f8d25e:g:VdwAAeSwBqVrACXr",
-   "posted_at": "2026-11-20T10:52:05+00:00"
-  },
-  {
    "title": "Kingston ValueRAM 32GB DDR4-3200 SO-DIMM Laptop RAM CL22 KVR32S22D8/32",
    "price_raw": "289.95 EUR",
    "source": "ebay",
@@ -600,18 +617,18 @@
    "posted_at": "2026-11-20T10:56:00+00:00"
   },
   {
-   "title": "Kingston ValueRAM 32GB DDR4-3200 SO-DIMM Laptop RAM CL22 KVR32S22D8/32",
-   "price_raw": "309.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257862240919?_skw=ddr4&hash=item3c09c98a97:g:eI8AAeSwj8drACbi",
-   "posted_at": "2026-11-20T10:54:22+00:00"
-  },
-  {
    "title": "Micron 16 Go DDR4 SO-DIMM PC4-3200AA MTA16ATF2G64HZ RAM Mémoire PC Portable",
    "price_raw": "65.85 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147689359391?_skw=ddr4&hash=item2262f8c81f:g:RZkAAeSwmGBrACTU",
    "posted_at": "2026-11-20T10:49:23+00:00"
+  },
+  {
+   "title": "Carte Mère Asus FX571GT-BQ691T i5-8300h GTX 1650 4 go",
+   "price_raw": "89.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366824652736?_skw=carte+m%C3%A8re&hash=item556873ffc0:g:pYMAAeSwfTlrACca",
+   "posted_at": "2026-11-20T10:56:56+00:00"
   },
   {
    "title": "PC Portable 14\" Hybride HP - OmniBook X Flip 14 Tactile, OLED, Intel Core Ultra 5, 325 16 Go RAM, SSD 512 Go, Sans Chargeur",
@@ -853,7 +870,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2084,
-  "models_with_reference": 68
+  "listings_seen": 2079,
+  "models_with_reference": 67
  }
 }
