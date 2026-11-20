@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T07:08:00Z",
+ "generated_at": "2026-11-20T07:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 347,
-   "last_ok": "2026-11-20T07:08:00.659244+00:00"
+   "last_ok": "2026-11-20T07:38:00.627191+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-20T07:08:00.659244+00:00"
+   "items": 377,
+   "last_ok": "2026-11-20T07:38:00.627191+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-20T07:08:00.659244+00:00"
+   "last_ok": "2026-11-20T07:38:00.627191+00:00"
   }
  },
  "watchlist": [
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-legion-27qd-10-qhd-27-240-hz-05-ms-gaming-2560-x-1440-resolution-2k-hdmi-21-displayport-amd-freesync-premium-3459423",
    "posted_at": "2026-11-17T19:16:59+00:00"
+  },
+  {
+   "title": "Écran PC incurvé 27\" Amzfast 280Hz QHD, AMZG27C1Q Pro (Vendeurs Tiers)",
+   "model": "MON:27-QHD-280Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 199.49,
+   "shipping_eur": null,
+   "effective_eur": 199.49,
+   "median_eur": 377.27,
+   "discount_pct": 47.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-280hz-3462779",
+   "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
    "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
@@ -139,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 717 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8rP5d8D9wjzwck5OibL23RcUNPfqXqQVLLAVDKQaRXuU%2FtLgOymmLiiStttLMrN92N1tI%2Bviob%2BnKMT5WTvookcEHXxPvgG0Bzi9YqPj7RAyd9LzKAZq1qPsAOvuqxo%2BdJ8%2FFrs1vu13l1JmY6UZfUghotPJ4mL46rPcbbCkYdzg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8lyw6xIeG1RFkw3JlhskjUPNZXqAbabsrgd1sPSbUFkhmPK9Pm8XY3eir45JTY1fCseBd%2B9PV4VDRPRcZ2DAXGd9wMCy4KmHUJPeWx3tgu%2BIoJZJXuqbgBmZJtD80pFEgERfCCmPTPqRaoeMlGTBbP7TEPFSUjjkBkKrivtFYkvw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyAmzdmILx9Gq3Ylj6Ol5NNXXuNa%2B0WgWgDwm78KkC6wQjw8Gpanh1POfFIhALcQhFlvVI7zMHlQQfUjvDNvHtEqwJvWSjRYxkfnhIrgEKZOEPb%2F%2BsN%2FHQaJUGvlqKIEtQd7PrwZiAZgm%2FzxbbeJL96",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz4e0lRSGD%2Bfkb%2B5GCbU4EbmuqZfFZRpc2%2Fy7g1IYgt0D0HLEPT%2FALDVstJGDU3KcZXSRiCguvW0AAyi9slqw7CeIJ%2FOCwavlZ6rCNLmDkjz6R3ksOq01Pif96m9%2B8JZHVC1N7iHPa13tK6gH--NSZC",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -326,7 +343,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 216 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206680218561?_skw=ssd&hash=item301f19dbc1:g:BXsAAeSwkSxq7fFQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7moAhbXz1Woyu5FB1XTeF47QQGaBxxqcewPpIBmhwAT1ZZpfOBngaFQRIT7lUSSIrp3kdklYvGxWwCw2u%2FEANzZL%2FtMfY3w3EBt3g7x9GEWztLYjPHbb%2BgtG9yp4iiFYHPqLkEkP5XmWxZtT20%2BBHz9fm%2FdYn0zqeAhPh3E1qx1NJrv99Yn5buqllZuxTo3aStR1RDTdxp7Z65Tj%2F3517YedQiIRh%2B48n9bw0XAEaV15D7t5ecAum7RcuNALm%2F%2BlB%2FdtfloqSUy0pfxtkjPuD%2F4",
+   "url": "https://www.ebay.fr/itm/206680218561?_skw=ssd&hash=item301f19dbc1:g:BXsAAeSwkSxq7fFQ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7moAhbXz1Woyu5FB1XTeF47QQGaBxxqcewPpIBmhwAT1ZZpfOBngaFQRIT7lUSSIrp3kdklYvGxWwCw2u%2FEANzZL%2FtMfY3w3EBt3g7x9GEWztLYjPHbb%2BgtG9yp4iiFYHM7XFUa09xQQntzEDFVwzYgNJWAmJjNRruHkhNbLohJA2D%2BjZZmtemtPCJ59seuBsGAPLx5mmdWgslOmHxuODQMUxpHbos6i1%2F0uNOZhISrOb9MgThHOyVxcr%2FtTeJi2pMy0LYqbnjRB7C%2F65bEebID",
    "posted_at": "2026-11-06T15:25:16+00:00"
   },
   {
@@ -400,6 +417,41 @@
  ],
  "unclassified": [
   {
+   "title": "Lenovo Thinkpad P16s gen4",
+   "price_raw": "1 299€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lenovo-thinkpad-p16s-gen4-3462852",
+   "posted_at": "2026-11-20T07:35:15+00:00"
+  },
+  {
+   "title": "PC portable 14\" ASUS ZenBook 14 OLED UX3407 - OLED WUXGA, X1P-26 100, 16 Go RAM, 512 Go SSD, 70 Wh, Win 11 (via 200€ fidélité + 120€ en BA)",
+   "price_raw": "579,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-asus-zenbook-14-oled-ux3407-oled-wuxga-x1p-26-100-16-go-ram-512-go-ssd-70-wh-win-11-via-200eur-fidelite-120eur-en-ba-3462848",
+   "posted_at": "2026-11-20T07:32:13+00:00"
+  },
+  {
+   "title": "10% de réduction sur une sélection d'écrans PC en stock chez Materiel.net",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/codes-promo/10-de-reduction-sur-une-selection-decrans-pc-en-stock-chez-materielnet-3462824",
+   "posted_at": "2026-11-20T07:11:20+00:00"
+  },
+  {
+   "title": "MacBook Air M5 13'' CPU 10 GPU 8 16 Go / 512 Go 1089,99€ (via 210€ cagnotté)",
+   "price_raw": "1 089,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/macbook-air-m5-13-cpu-10-gpu-8-16-go-512-go-108999eur-via-210eur-cagnotte-3462823",
+   "posted_at": "2026-11-20T07:11:00+00:00"
+  },
+  {
+   "title": "Tour midi BeQuiet Pure Base 600 Boîtier PC noir, orange isolé, fenêtre",
+   "price_raw": "136.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237194002733?_skw=boitier+pc&hash=item3739dd412d:g:lzQAAeSw83Bq~~Xn",
+   "posted_at": "2026-11-20T07:25:24+00:00"
+  },
+  {
    "title": "Cylindre de serrure électronique Welock Smart Lock ToucA51 avec clavier",
    "price_raw": "109€",
    "source": "dealabs",
@@ -412,13 +464,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/manette-sans-fil-sony-dualsense-chroma-indigo-ps5-pc-mac-et-mobile-coloris-irise-bleu-violet-3462797",
    "posted_at": "2026-11-20T06:45:01+00:00"
-  },
-  {
-   "title": "Amzfast Écran PC Gamer 27 Pouces 280Hz",
-   "price_raw": "199,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-280hz-3462779",
-   "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
    "title": "PROCESSEUR INTEL CORE i3 / i3-9100 SRCZV 3,6GHZ LGA1151",
@@ -641,7 +686,7 @@
    "title": "Lot 5 Ventirads AMD Wraith Stealth AM4 Ryzen Neufs + Pâte Thermique",
    "price_raw": "37.10 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsonv91eXEphBU%2FmQss3grTikuPTaPWXAyiJgVoBqPwCLBZ8k4qGJDEZA7YqHT0e%2BSjTLcCtAtTeS6330orHm6mG8zzWdmKndtTQaBBe%2Ba1SZFVouhLED%2BM2N%2BRyab5h66vJS11BRUMrx4C747ITa7CdaKdR--S8u2ZiZOcYDYSkzA%3D%3D",
+   "url": "https://www.ebay.fr/itm/267848241695?_skw=ventirad&hash=item3e5cffd21f:g:CnkAAeSwIFpqw7cu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m2P3yVxkyKy4FqHip3Et6O9Fyx2gMei4M2ZX1D8J75END4lK0McY78f6Nkl%2BfA5wvd95KnW3fTGP%2FbHAf2%2F3HuEk3iRZ0NDHVDOETuhQebw3BdRm8k9beoRebwAa9jLsp7afQLGdIY2KBIVP3RS79F0UUMH9y2YHmQlJnhSTNzG86FyPnF%2F4mw8ndomksC45xp3%2BUADQrnQ68ihNyETnwgbZQg55j8%2BExZwiZK8%2B%2Bna9ibcS%2FVzl2cWONCjU0Uzfa1wPc3LoMLws4gnQ5I3dOgdhe6p1Mb9mV5qiuatKH2vg%3D%3D",
    "posted_at": "2026-11-19T16:54:20+00:00"
   },
   {
@@ -662,7 +707,7 @@
    "title": "ASUS GeForce GT 730 2 Go GDDR5 Carte Graphique",
    "price_raw": "45.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800851771750?_skw=carte+graphique&hash=itemba767c4166:g:13wAAOSweaBiYAug&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lXekbDP6cb%2F183N3UCvIMShe7mo3l%2Bq2WTjrrRpUjQarK%2FvtT5kwq%2FIwTVt1qYKDixeFwdUqt0d2SeA0hBgfsVnkcJYB0bUy2Xte%2FKqXzh9XhV4PtaqObLcG2d8Q40E9XyCFFv2uV8pKzCvkiXzBrPBDERvo7oQ6SY3e%2BiZqeIw2SpxgGQiaT4KsTwv0nvjsPK5h70O1Bx7qfvrKOOM0nrZuaL%2BDO5JTdldTTXHxtXpfTN7qWTc1SZB9FkEErO5AcXma0mEvfUA0zdNfNzXH%2Fp1AharMoKM6CqtIOLWR530Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/800851771750?_skw=carte+graphique&hash=itemba767c4166:g:13wAAOSweaBiYAug&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lXekbDP6cb%2F183N3UCvIMShe7mo3l%2Bq2WTjrrRpUjQarK%2FvtT5kwq%2FIwTVt1qYKDixeFwdUqt0d2SeA0hBgfsVnkcJYB0bUy2Xte%2FKqXzh9XhV4PtaqObLcG2d8Q40E9WgAJ1mjYIiL81AZndTNo7o0KioAJltklKTSd3RnLDOCK3mN0xNKc3jxn0dQncci6fGRIrLP3r%2FEnsqrfBNJYquq9ai7pUopakXC2zPBBLOz8QFpRws9zwF4LjWFGVeSO1dvJeisOwKuUu5PwcBvYD%2BdLRm9pW3qbFeWGt6ka7ZeA%3D%3D",
    "posted_at": "2026-10-29T12:39:42+00:00"
   },
   {
@@ -720,38 +765,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-gamer-lenovo-loq-tower-sans-windows-156-fhd-intel-i5-14400-rtx-5060-8go-ram-16-go-ssd-512-go-3462014",
    "posted_at": "2026-11-19T13:45:20+00:00"
-  },
-  {
-   "title": "[MegaThread] Récap des meilleures offres Black Friday Week Amazon : Jouets, Mode, Aspirateurs, Audio, Manettes & Jeux vidéo...",
-   "price_raw": "High",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/megathread-recap-des-meilleures-offres-black-friday-week-amazon-jouets-mode-aspirateurs-liseuse-kindle-manette-jeux-video-3462000",
-   "posted_at": "2026-11-19T13:38:56+00:00"
-  },
-  {
-   "title": "Bitspower Radiateur de water-cooling BP-NLXF360-4FPB",
-   "price_raw": "104.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257158223585?_skw=watercooling&hash=item3bdfd316e1:g:5qEAAeSweS9o77hd",
-   "posted_at": "2025-10-15T15:40:22+00:00"
-  },
-  {
-   "title": "[Prime] Disque HDD Externe 8 To Seagate FireCuda X Vault STNL8000400 - USB-C, Éclairage RGB, +30€ Coupon",
-   "price_raw": "249,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/prime-seagate-firecuda-x-vault-8to-hdd-externe-usb-c-eclairage-rgb-stnl8000400-via-30eur-coupon-3461946",
-   "posted_at": "2026-11-19T13:08:30+00:00"
-  },
-  {
-   "title": "Tablette Xiaomi REDMI Pad 2 Pro - 6 Go RAM, 128 Go stockage, Écran 12,1\" 2,5K (Vendeur Tiers)",
-   "price_raw": "217,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/redmi-pad-2-pro-3461929",
-   "posted_at": "2026-11-19T12:50:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2042,
+  "listings_seen": 2045,
   "models_with_reference": 64
  }
 }
