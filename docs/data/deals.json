@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T18:38:00Z",
+ "generated_at": "2026-11-21T19:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-21T18:38:00.680709+00:00"
+   "items": 352,
+   "last_ok": "2026-11-21T19:08:00.656603+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 370,
-   "last_ok": "2026-11-21T18:38:00.680709+00:00"
+   "items": 365,
+   "last_ok": "2026-11-21T19:08:00.656603+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T18:38:00.680709+00:00"
+   "last_ok": "2026-11-21T19:08:00.656603+00:00"
   }
  },
  "watchlist": [
@@ -133,8 +133,8 @@
    "price_eur": 169.99,
    "shipping_eur": null,
    "effective_eur": 169.99,
-   "median_eur": 289.99,
-   "discount_pct": 41.4,
+   "median_eur": 292.67,
+   "discount_pct": 41.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon",
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FG3ttqqmDgI%2FXJrix4sYE%2B3%2FgyotWAShidzZcgc6PzarBRqUVLMl0tdUl--JngrOmD7Kicduc7OPh28zNxKskIvOx4TpRKQeQlQJIzcMfAaJZeMrQNGERnFO%2FD8HL5lxTugt3CfNSK9WlBTITyRaOi4awFoMM2j9yZ%2Bt1kgG7%2BmQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FihcYa%2FaCxXpG3Q4GfixMg8Ii6bSZkEwN%2FElGO%2B5tLCftrIERI04AxUZnK5H1pK9U7x1DVXfPkUxc7pv3WkrJWMhAnMFNWqamfyFZlnG9LdHIBA28j1seyiLvgwATrjPZEyogA05OAhItxQ61Fj247OPwv5RoU5PEqFB0be%2F3xLw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -192,6 +192,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117412302291?_skw=ddr5&hash=item1b56518dd3:g:akUAAeSwridpwzMR",
    "posted_at": "2026-09-14T15:20:30+00:00"
+  },
+  {
+   "title": "[Prime] Kit Mémoire RAM Netac Shadow S XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (Vendeur Tiers)",
+   "model": "RAM:DDR4-32Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 206.98,
+   "shipping_eur": null,
+   "effective_eur": 206.98,
+   "median_eur": 316.16,
+   "discount_pct": 34.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kit-memoire-ram-netac-shadow-s-xmp-20-ddr4-32-go-2-x-16-go-3200-mhz-cl16-20-20-40-135-v-3463083",
+   "posted_at": "2026-11-20T10:09:37+00:00"
   },
   {
    "title": "Carte Mere Gigabyte B550 Gaming X V2",
@@ -313,21 +330,21 @@
    "posted_at": "2026-11-20T08:13:39+00:00"
   },
   {
-   "title": "Asus Prime B860M-K",
-   "model": "MB:B860",
-   "category": "MB",
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
    "condition": "new",
-   "price_eur": 180.35,
-   "shipping_eur": 0.0,
-   "effective_eur": 180.35,
-   "median_eur": 229.41,
-   "discount_pct": 21.4,
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 499.99,
+   "discount_pct": 21.6,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · esp-tech (pro)",
+   "merchant": "eBay · dr.click_34 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336909347823?_skw=carte+m%C3%A8re&hash=item4e715cabef:g:sVQAAeSwq-BrAeIJ",
-   "posted_at": "2026-11-21T18:25:10+00:00"
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -345,23 +362,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-25-pny-1-to-ssd7cs900-1tb-rb-3463577",
    "posted_at": "2026-11-20T16:45:49+00:00"
-  },
-  {
-   "title": "Disque dur 240 Go Transcend 2.5 sata3 ssd  ts240gssd220s",
-   "model": "SSD:NVMe-240Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 21.5,
-   "shipping_eur": 5.0,
-   "effective_eur": 26.5,
-   "median_eur": 33.38,
-   "discount_pct": 20.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · cliqinfo (98,0 %, 152 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327445827037?_skw=ssd&hash=item4c3d4acddd:g:NT0AAeSwgRZq8FAM",
-   "posted_at": "2026-11-08T10:34:38+00:00"
   },
   {
    "title": "1 x Crucial 16GB | DDR4-3200 SO DIMM | CT16G4SFRA32A - 3200Mhz - 2 dispo",
@@ -587,6 +587,20 @@
  ],
  "unclassified": [
   {
+   "title": "[Adhérents] 10% de remise immédiate sur les PC portables, PC de bureau et tablettes (hors PC Gaming & marque Apple)",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/codes-promo/adherents-10-de-remise-immediate-sur-les-pc-portables-pc-de-bureau-et-tablettes-hors-pc-gaming-marque-apple-3463283",
+   "posted_at": "2026-11-21T19:00:00+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast DDR5 - 8 Go (1 x 8 Go) - 5600 MT/s C36 - AMD EXPO - Noir",
+   "price_raw": "261.59 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336909362386?_skw=ddr5&hash=item4e715ce4d2:g:0t4AAeSw109rAeVg",
+   "posted_at": "2026-11-21T18:39:24+00:00"
+  },
+  {
    "title": "Lot 4x8 Go RAM DDR4 2666 MHz (32 Go), PC fixe, HP / Kingston / SK hynix",
    "price_raw": "115.10 EUR",
    "source": "ebay",
@@ -599,13 +613,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336909359247?_skw=ddr5&hash=item4e715cd88f:g:hYMAAeSwFMFrAeQ8",
    "posted_at": "2026-11-21T18:34:30+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s C30 - AMD EXPO - Blanc",
-   "price_raw": "949.45 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336909359281?_skw=ddr5&hash=item4e715cd8b1:g:00sAAeSwykprAeQ7",
-   "posted_at": "2026-11-21T18:34:32+00:00"
   },
   {
    "title": "Souris ergonomique sans fil Logitech MX - Vertical, Noir",
@@ -655,20 +662,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/15eur-en-bons-dachat-tout-les-100eur-sur-les-ordinateurs-smartphones-tv-et-tablettes-3464603",
    "posted_at": "2026-11-21T16:45:11+00:00"
-  },
-  {
-   "title": "Barrette RAM 16 Go DDR4 3200 MHz Kingston, PC fixe",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237197187019?_skw=ddr4&hash=item373a0dd7cb:g:exAAAeSwP~RrAcwM",
-   "posted_at": "2026-11-21T16:51:27+00:00"
-  },
-  {
-   "title": "RAM Kit 16 Gb DDR4 R3866MHz Gskill Trident Z RGB 2 x 8, CL18-19  Memory Memoire",
-   "price_raw": "115.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198813377128?_skw=ddr4&hash=item2e4a336268:g:-QcAAeSwHV9rAcOE",
-   "posted_at": "2026-11-21T16:22:15+00:00"
   },
   {
    "title": "PC Portable 17,3\" Asus Vivobook S17 X1704VA-AU1321W - 60 Hz, Intel Core 5, 16 Go RAM, 512 Go SSD Argent",
@@ -786,15 +779,22 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZu5UqickDs0RS0XT3MHlbbEAPNlVWMRAO2yasbIcB62zTTXtVWgNR3k9O4FTyh4HeUEhaaF7nEVumeEal0tZ504tlPOIrRXKCpSu4CsLQRBPwRQyH8EU9cOV1Icx2Zo1dNipZKllhmHmRG8OvrSeFwq7C28nhIJp%2BmNuUaIT%2F8QEw%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZufvNL%2BlIdLNGi38WZhs8moXvdqS948ELkFzKDbB5gUMMvasFmcepRmrNjOIl8g9Ni3POHG24XND0gQEPRV%2Bu%2FAO1nWtI9Qr7esG4NflmcI2elKvK%2BWVEOqPO66StLFpr5TdGXql2LFhZZ7VGVn8kFqnsjKYxpdk5Rp6wVEohsyQQ%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDcv3dI5sbBuMSyMFpqIQO8J3XuyS%2BMeIlrGIlhKq8O1%2FqKj0EoUg68yKoh%2F9K2oj4q7i3toJBTp3E3hQw5i1ljd2973xk6B95hl4rchKmuFroaqkRWuO5G4bgqypmFp2sDTPXnB6usPXvbsmY0HvumBjjzGJJcf%2B%2BScUusR2fjqQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLD8A6mPzUgwChAmBNDwwglNjFejdt30YUu9IZJ0CnycbP1x8ahDKXF6dhslPfpK63k%2B9zGMm4yJmpifxLp%2B2N3%2BEDR6klojC3a7PnoHyQ%2FXvKxP7fQFNtc5b2UlFbfZi99O6rRgme72hfeeUk91wtZ9DKzakVuF8VIgepHlDjHNpQ%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
+  },
+  {
+   "title": "Carte mère HP ProDesk 600 G4 SFF L05338-001 L02433-001 LGA1151 DDR4",
+   "price_raw": "37.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7zuFSd4hg3uLvOd%2BgfX2YdOtpuPKSoqRoG%2BLy1bbnQ1jtPzIsqQcf8RTEKAiaE9s54OoySjAhXe3tzCiyIL1PxLuZg6hTB8llT%2Fp%2FMHnpONRpCb7n0sVjPdinIOHuEBGsBlfRHloQIn%2BsE3y8TQTDKwCkpi8DsivtmoV9rfmU8Pu4g%3D%3D",
+   "posted_at": "2026-11-20T10:48:23+00:00"
   },
   {
    "title": "Liquide de Refroidissement Corsair Hydro X Series XL5 Watercooling 1L Rouge",
@@ -938,7 +938,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2105,
-  "models_with_reference": 70
+  "listings_seen": 2114,
+  "models_with_reference": 69
  }
 }
