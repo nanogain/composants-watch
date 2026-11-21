@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T11:38:00Z",
+ "generated_at": "2026-11-21T12:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 352,
-   "last_ok": "2026-11-21T11:38:00.635266+00:00"
+   "last_ok": "2026-11-21T12:08:00.663668+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 367,
-   "last_ok": "2026-11-21T11:38:00.635266+00:00"
+   "items": 366,
+   "last_ok": "2026-11-21T12:08:00.663668+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T11:38:00.635266+00:00"
+   "last_ok": "2026-11-21T12:08:00.663668+00:00"
   }
  },
  "watchlist": [
@@ -109,6 +109,23 @@
    "posted_at": "2026-11-20T12:59:50+00:00"
   },
   {
+   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 10.5,
+   "shipping_eur": 3.78,
+   "effective_eur": 14.28,
+   "median_eur": 24.36,
+   "discount_pct": 41.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,5 %, 222 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
+   "posted_at": "2026-11-11T18:03:48+00:00"
+  },
+  {
    "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
    "model": "MB:B760",
    "category": "MB",
@@ -124,6 +141,40 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b760m-k-d4-ddr4-pcie-40-2-x-pcie-40-m2-realtek-25gb-ethernet-vga-hdmi-sata-6-gbs-aura-sync-rgb-3456698",
    "posted_at": "2026-11-16T00:03:08+00:00"
+  },
+  {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B96rPwbDrpEJ7ZNLFxMemsKm84Xz6wPjjNdJNIh38Vvc293iRc6wfNS%2B7sn%2B0jBOux041koS38rdZ%2Fz3Zegk%2BDhOxoWPMzYKjL02N0zXPDRb7PD%2BbP0cdneUziCMh0Hnfvn89nl%2FKiJTx5hTDES%2B6Vju5F1QshrM%2B%2Bfb5Fd63jeiw%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
+   "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
+   "model": "RAM:DDR5-32Go-5600",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 399.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 399.99,
+   "median_eur": 634.0,
+   "discount_pct": 36.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · retro-flo (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117412302291?_skw=ddr5&hash=item1b56518dd3:g:akUAAeSwridpwzMR",
+   "posted_at": "2026-09-14T15:20:30+00:00"
   },
   {
    "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
@@ -211,6 +262,23 @@
    "posted_at": "2026-11-19T13:42:11+00:00"
   },
   {
+   "title": "Samsung PM871b 256 Go SSD interne M.2 SATA OEM MZNLN256HAJQ-000D1",
+   "model": "SSD:SATA-256Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 21.91,
+   "shipping_eur": 3.47,
+   "effective_eur": 25.38,
+   "median_eur": 33.9,
+   "discount_pct": 25.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ngrcrypto (100,0 %, 64 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147681732995?_skw=ssd&hash=item2262846983:g:aYEAAeSwkWZq-boW",
+   "posted_at": "2026-11-15T14:01:11+00:00"
+  },
+  {
    "title": "Carte mère ASUS Prime B550M-A/CSM - AM4, DDR4, PCIe 4.0, 2 x M.2, micro-ATX",
    "model": "MB:B550",
    "category": "MB",
@@ -243,23 +311,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194075152?_skw=ssd&hash=item3739de5c10:g:8gcAAeSwW29rAAAp",
    "posted_at": "2026-11-20T08:13:39+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 498.44,
-   "discount_pct": 21.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -485,6 +536,34 @@
  ],
  "unclassified": [
   {
+   "title": "Apple MacBook Air 15 pouces Puce M5 CPU 10 cœurs GPU 10 cœurs 16 Go RAM 1 To SSD Lumière stellaire, AZERTY",
+   "price_raw": "1 549€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-puce-m5-cpu-10-coeurs-gpu-10-coeurs-16-go-ram-1-to-ssd-lumiere-stellaire-azerty-3464388",
+   "posted_at": "2026-11-21T12:03:23+00:00"
+  },
+  {
+   "title": "Ordinateur portable ASUS Vivobook S1506MA-BQ830W 15\" Intel Core 5 320 8 Go DDR5 SSD 256 Go sac à dos et souris inclus",
+   "price_raw": "499,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-asus-vivobook-s1506ma-bq830w-15-intel-core-5-320-8-go-ddr5-ssd-256-go-sac-a-dos-et-souris-inclus-3464383",
+   "posted_at": "2026-11-21T11:56:45+00:00"
+  },
+  {
+   "title": "Tablette 11,1\" Lenovo Yoga Tab - RAM 12 Go, 256 Go, 3.2K, 144Hz, Snapdragon 8 Gen 3, avec Stylet Tab Pen Pro & Étui folio",
+   "price_raw": "429€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-111-lenovo-yoga-tab-32k-144-hz-snapdragon-8-gen-3-12-go-256-go-stylet-tab-pen-pro-etui-folio-3464366",
+   "posted_at": "2026-11-21T11:53:35+00:00"
+  },
+  {
+   "title": "Tablette 11,1\" Lenovo Yoga Tab Gen 2 - RAM 8 Go, 256 Go, avec Stylet Tab Pen Pro 2",
+   "price_raw": "529,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-111-lenovo-yoga-tab-gen-2-8-go-256-go-stylet-tab-pen-pro-2-3464361",
+   "posted_at": "2026-11-21T11:45:58+00:00"
+  },
+  {
    "title": "[Fnac] XGIMI Mira Pro 4K Laser à 1 699 € (-300 €) + 160 € en cagnotte + 5 % Fortuneo / BoursoBank – Prix optimisé : 1 454,05 €",
    "price_raw": "1 454,05€",
    "source": "dealabs",
@@ -548,20 +627,6 @@
    "posted_at": "2026-11-21T08:27:49+00:00"
   },
   {
-   "title": "Box Android Homatics R 4K Plus",
-   "price_raw": "126,30€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/box-android-homatics-r-4k-plus-3464117",
-   "posted_at": "2026-11-21T07:29:34+00:00"
-  },
-  {
-   "title": "Apple iPad Air M3 11 pouces (2025) 512 Go 5G - Bleu",
-   "price_raw": "784€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-m3-11-pouces-2025-512-go-5g-bleu-3464105",
-   "posted_at": "2026-11-21T07:16:00+00:00"
-  },
-  {
    "title": "Tablette 11\" Apple iPad Pro wifi (2024) Puce Apple M4 1 To Argent Nano Texturé",
    "price_raw": "1 189,99€",
    "source": "dealabs",
@@ -569,25 +634,11 @@
    "posted_at": "2026-11-21T06:54:30+00:00"
   },
   {
-   "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
-   "price_raw": "57.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZsPll%2FUOtTwe1eCBfmyj2MTWHh%2BEWIfNzSaPm6eu7iPXAtYHbkrOZDhuiyzq1VOw%2BdjaI02cH1YeOxSfYBu8cst%2BmbGAePlZ2zBBB07NMZ%2FQbMuEubG%2FXdgJg1An0Lmy0fjuW2JroBVChOL8IuBkTqqBWA%2FNzN12gfIfc1w8Gb%2F6A%3D%3D",
-   "posted_at": "2026-05-07T06:58:35+00:00"
-  },
-  {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLCoWg6IVAzQixfuQPXeTE3OBrA50xSjZ8SZwNHsaDW82sdWHRCSTuh8DcvCmwtvrj7rXjTO7UObVC5Ow%2BQ%2FTkPFPoz6r8aI801xzGpovv%2BtBKF5YMPH3T%2F8y1G7srbovjbTPMjaKR3KVPO%2FThryS6Jq8RMhGW0GtNkBxpkhpZ4DRw%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDulMlIG4g7wKipFNblLf8HHR8Unpf9goLj%2BHXM10dBo95EM5siMQ1iUZ8s6TLTpC0zKxqGrVChHosEmQiyZXYtHFoA%2BrVpqcJjanRzkPFQVXVn%2FSXGK4UcF0F33pEaSUYP872JrXaHt5YBrVjFOePk4rr0bvDIm%2BspsYKpaOZcOg%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
-  },
-  {
-   "title": "Carte mère HP ProDesk 600 G4 SFF L05338-001 L02433-001 LGA1151 DDR4",
-   "price_raw": "37.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7ztnYT8tU%2BNL9YmsGsxLztJaiHIp71RpIUccr31WgTHpMyOjlnBmuLefT5t0hZFGQJETJZD7eE2y0YEFSvNckoJmloBF1EoMumjndRULZPClxCtxkMVlZHXlsI3etJ%2BCXTdW1xM8BkTE5Il0sDTzLFFilYXs8syQ5Iecgeiu0RMS5g%3D%3D",
-   "posted_at": "2026-11-20T10:48:23+00:00"
   },
   {
    "title": "Liquide de Refroidissement Corsair Hydro X Series XL5 Watercooling 1L Rouge",
@@ -730,13 +781,6 @@
    "posted_at": "2026-11-20T23:00:00+00:00"
   },
   {
-   "title": "Samsung RAM 8 Go (2x4 Go) DDR4 SDRAM SO-DIMM PC4-2400T M471A5244CB0",
-   "price_raw": "25.19 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206716231673?_skw=ddr4&hash=item30213f5ff9:g:JuQAAeSwritrAMrn&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lhuWRHmzT17o%2Bh8ZsN20eBpMUiHq9xtfEQddU7p8YILlOEkXusMgpZ%2Bi2lEJF0JCuJVhLj%2FZkv2bg4ZWCOIkBBoqOwRr%2FLkeHk9z0HK%2BBxhQEIyhPkbuQ9nwqUpruA%2BKWEgicHCvvQa0MsqQKAUKAmDq%2BifVqHsFO5QbvOcwg%2F4GYLMZzvzsnp0FjdvD%2F50qcp4b7uL5jlkitNIrOrgxKHPhdsd65rXBtwyIpeYNFcvhYbhXYrjQN3LctQBFZv3cU%2FPAfE8iSAn6%2Fa7tgybAOH",
-   "posted_at": "2026-11-20T22:34:44+00:00"
-  },
-  {
    "title": "Souris Keychron M6 (Vendeur Tiers)",
    "price_raw": "43,99€",
    "source": "dealabs",
@@ -775,7 +819,7 @@
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeQ3AF1%2FoGSWKFbuj8tjpSqmDLiaj9f96iPdmrU9sjp6wMjnisyqmNHGbVF3cHuHfSlP94rJFHFxPnSDA4MnRoV1R5z4Sz4GVUDLlFlMlfkxkZSlsP%2BsIszy5qdHfJSD16Zn2lLC%2Bhio5sL1Beul%2BkLMuW9WUFbm3Auh4aX1lIEipA%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeQetXbaiZJr5Q%2FWZyv7eatTqQdZx31k6LyhDuO38bLwhlx1SIC0btLVwqtg9gHZEzTeJYyVJUcfMmGe7zp1QAxfOCGbj72IzBvmgVqKHro18DRnpCP74nWgeqVZ0I4mf2y3t%2B%2FSd3ooUGxVSbA5uEq94UZKjWwIt%2BiXsqsj0FXReA%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -791,13 +835,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-asus-tuf-608umi-tu215w-3463777",
    "posted_at": "2026-11-20T19:38:21+00:00"
-  },
-  {
-   "title": "SuperMicro X9SRI-F Serveur Kit Paquet Carte Mère À 256 GB RAM X79 LGA2011 Ipmi",
-   "price_raw": "55.49 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840063299133?_skw=carte+m%C3%A8re&hash=itemc397acae3d:g:rBUAAeSwPTdqdmAU",
-   "posted_at": "2026-10-26T22:45:07+00:00"
   },
   {
    "title": "Souris gaming sans fil Logitech G PRO X2 Superstrike Blanc et Noir (+ 10€ sur le compte adhérent)",
@@ -833,10 +870,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pack-de-3-ventilateurs-be-quiet-light-wings-lx-140-mm-pwm-black-high-speed-ventilateur-3463706",
    "posted_at": "2026-11-20T18:28:31+00:00"
+  },
+  {
+   "title": "Ventilateur PC be quiet! Light Wings LX 140 mm PWM Black High-Speed",
+   "price_raw": "17,09€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ventilateur-pc-be-quiet-light-wings-lx-140-mm-pwm-black-high-speed-3463701",
+   "posted_at": "2026-11-20T18:24:55+00:00"
+  },
+  {
+   "title": "Extenseur d'écran 14\" Blackview DCM5 pour ordinateur portable 13 à 17\"",
+   "price_raw": "159,47€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/triple-ecran-pc-portable-14-pouces-3463628",
+   "posted_at": "2026-11-20T18:09:06+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2075,
-  "models_with_reference": 67
+  "listings_seen": 2079,
+  "models_with_reference": 72
  }
 }
