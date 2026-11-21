@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T20:08:00Z",
+ "generated_at": "2026-11-21T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 351,
-   "last_ok": "2026-11-21T20:08:00.671068+00:00"
+   "last_ok": "2026-11-21T20:38:00.667509+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-21T20:08:00.671068+00:00"
+   "items": 370,
+   "last_ok": "2026-11-21T20:38:00.667509+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T20:08:00.671068+00:00"
+   "last_ok": "2026-11-21T20:38:00.667509+00:00"
   }
  },
  "watchlist": [
@@ -158,40 +158,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b760m-k-d4-ddr4-pcie-40-2-x-pcie-40-m2-realtek-25gb-ethernet-vga-hdmi-sata-6-gbs-aura-sync-rgb-3456698",
    "posted_at": "2026-11-16T00:03:08+00:00"
-  },
-  {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2ByOrLGfIWItKqJQw1csZFYplNQbFEK7WMpcgMw36X2tHo4n9P8uAdv6zTs2WOlxIHVlXKkU0smNfUxkJSslyCOL7l3aOIaPJU7DqS0S0tYxOCl8G5yEwm3i2ZfcNS%2F8ypsgtLYmVwU2C9mORq%2BM%2FS--hMWVdZ4BXtKoVFPpgm0GQ%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
-   "model": "RAM:DDR4-16Go-2933",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 79.95,
-   "shipping_eur": 3.9,
-   "effective_eur": 83.85,
-   "median_eur": 135.75,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tanzen_store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwd%2F9XOiaFZeMsB2BqJJ2h7LC14GoVOo0U1cHjKI9ft%2BmYXusbmm36dBlMCE1YzpqFvUAwd7Msj6AeKnk5d4E%2FHLnE1TC30FydZZ7ZUFJGMc%2BfoOPQ21C9uy5YasLJtahM3wFYfJ1BNFIHQgAuiLcdX",
-   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
@@ -364,21 +330,21 @@
    "posted_at": "2026-11-20T16:45:49+00:00"
   },
   {
-   "title": "Disque dur 240 Go Transcend 2.5 sata3 ssd  ts240gssd220s",
-   "model": "SSD:NVMe-240Go",
-   "category": "SSD",
+   "title": "1 x KINGSTON 16 Go DDR4 3200 MHz SODIMM KCP432SD8/16 - 2 dispo",
+   "model": "RAM:DDR4-16Go-3200",
+   "category": "RAM",
    "condition": "used",
-   "price_eur": 21.5,
-   "shipping_eur": 5.0,
-   "effective_eur": 26.5,
-   "median_eur": 33.38,
-   "discount_pct": 20.6,
+   "price_eur": 65.0,
+   "shipping_eur": 5.2,
+   "effective_eur": 70.2,
+   "median_eur": 86.86,
+   "discount_pct": 19.2,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · cliqinfo (98,0 %, 152 avis)",
+   "merchant": "eBay · dekjr_fr (100,0 %, 83 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327445827037?_skw=ssd&hash=item4c3d4acddd:g:NT0AAeSwgRZq8FAM",
-   "posted_at": "2026-11-08T10:34:38+00:00"
+   "url": "https://www.ebay.fr/itm/206717554516?_skw=ddr4&hash=item3021538f54:g:R48AAeSwv~hrAY82",
+   "posted_at": "2026-11-21T12:32:46+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -464,6 +430,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/alimentation-pc-cooler-master-elite-1000w-3456676",
    "posted_at": "2026-11-15T23:55:39+00:00"
+  },
+  {
+   "title": "Carte mère Gigabyte B850 EAGLE WIFI6E",
+   "model": "MB:B850",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 131.76,
+   "shipping_eur": null,
+   "effective_eur": 131.76,
+   "median_eur": 158.99,
+   "discount_pct": 17.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
+   "posted_at": "2026-11-21T20:27:57+00:00"
   },
   {
    "title": "ASUS ROG Strix Radeon RX 570 OC 4 Go GDDR5 Gaming - Carte graphique PCIe testée",
@@ -552,6 +535,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Boitier PC be quiet! Pure Base 501 Airflow - Noir",
+   "price_raw": "49,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-be-quiet-pure-base-501-airflow-noir-3464763",
+   "posted_at": "2026-11-21T20:24:12+00:00"
+  },
+  {
+   "title": "GIGABYTE  GeForce GT 1030 OC 2Go GDDR5 Carte Graphique (GV-N1030OC-2GI)",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227625102579?_skw=carte+graphique&hash=item34ff836cf3:g:rTkAAeSwCP1rAfsj",
+   "posted_at": "2026-11-21T20:19:45+00:00"
+  },
   {
    "title": "PC portable 14'' OLED Lenovo Ideapad Slim 3 - Intel Core 3 304, 8Go RAM, 256Go SSD, Windows 11 Home, Clavier rétroéclairé (Sans chargeur)",
    "price_raw": "479,99€",
@@ -770,6 +767,13 @@
    "posted_at": "2026-11-21T10:25:16+00:00"
   },
   {
+   "title": "Micron 2x4 Go DDR4 SO-DIMM PC4-3200AA MTA4ATF51264HZ-3G2J1",
+   "price_raw": "27.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168877719055?_skw=ddr4&hash=item2751e57e0f:g:hFQAAeSwCchrAWJ6",
+   "posted_at": "2026-11-21T09:22:46+00:00"
+  },
+  {
    "title": "Boîtier pour SSD TERRAMASTER D1 - SSD M.2 NVMe 80 Gbit/s, sans Disque (vendeur tiers)",
    "price_raw": "215,99€",
    "source": "dealabs",
@@ -787,21 +791,21 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZtXMf9woz4%2BpyrwDFbPALHGLPFTgBDcNkAjhliWvaA1qd0SOf4sMb5mHBuwQCjqCg7xLLOOfEyc%2BGZKMt82R4XHVjIG9nSs1DKcsuEcqfWh%2FdNksnNm5XTZsrnZJvUXaIyK3qvZ8MJzc0%2FDowdMK9TMNOuPeXEMicdRCWws0yXzyg%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZs25hWzBU0HMRF%2Fj2U9iIm4qGLU7lvytoVwudGfCjOrbdLYeLmTGPXFdTeUerSkx%2FpM4b9nDuzQI6Go6MmTSEGD0lhVPw93Q%2B5517qSiBl2WL2Usf02Q07GXP63QXvDKm8efi%2FePcOrMUUDyKQtE%2ByA6FjIWkRThAqSRlbUyrFLZQ%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDoJLB3DFh0kEAcHoqIaITG9djh%2FPGQOfagj8%2B0XWCROH1w2Tub0xSVCzql7tjoDjjoZczVsjKLburqd%2Ft9s4ZDne3%2Fp3MjAyJ39vgMGh1ou4EMJGneqAdLh7dKwaUBKG8XLni%2Fj2PUoE38FjQw5MPM7iQ9Ai1I4bCfw%2Bj30B%2Btlg%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLADHvLk%2FQHOHvnNrAEXOXncMJFnwwblgPy2pwhn2qnKW0STqJb%2B4bG2WQwUzJRlQfChhpIe09q%2FPYdPoPLi99T%2BCBXwRw1k8%2BGxd1pk%2FmA2ZWtoSqcK5FW4xa2a%2BINlVRHID4G5v0yf9A6hAPTBu3zxqV2%2FzRDKyBJTJsoK4a8EkQ%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
   },
   {
    "title": "Carte mère HP ProDesk 600 G4 SFF L05338-001 L02433-001 LGA1151 DDR4",
    "price_raw": "37.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7zsFrI4%2FnvtFiv2MQqWDXkOxlsOpciOfDn6j3HzUDERJS6bwEWYSc9zcWt7Xt6Wmu9vYkJCLenBJSB83pa95IVvwTIluBQAeytvDffH9uMpx%2Fc1YaJ5TOj8jncyWl6Araa9krskweDJzWFIw%2B%2FPtaxZQ5eVz%2FZbeJdCUPwg2lHaOMA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7zs032OlJEgDYOOUGWDDv6DAVLxZj5NUYmuk8rxz5bnmWTsR%2BuPK6Uqe26T0cC7EDKlBQOU7t4lBrIML12YS%2BlY%2BftaUfAth1MU3yfjWAWBIsfwc3DMWc%2B5Lg0QGFltHbjuIP%2BmwlIq0AYAkFusMQEZWeXrsHgqJsm1LoaV6R4zHjw%3D%3D",
    "posted_at": "2026-11-20T10:48:23+00:00"
   },
   {
@@ -880,31 +884,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/orico-station-daccueil-magnetique-usb-c-avec-boitier-ssd-m2-2230-nvme-docking-station-6-en-1-avec-hdmi-4k-at-60-hzpd-100-w-usb-a-10-gbps-3463944",
    "posted_at": "2026-11-20T22:59:07+00:00"
-  },
-  {
-   "title": "PC Portable 15,3\" Lenovo IPS3 83K100Q3FR - WUXGA IPS, Intel Core i5-13420H, 16 Go DDR5-SDRAM, 512 Go SSD, 50 Wh, Windows 11",
-   "price_raw": "475,30€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-153-lenovo-ips3-83k100q3fr-wuxga-ips-intel-core-i5-13420h-16-go-ddr5-sdram-512-go-ssd-50-wh-windows-11-3463396",
-   "posted_at": "2026-11-20T23:06:00+00:00"
-  },
-  {
-   "title": "PC Portable 15.6\" Lenovo IdeaPad Slim 3 - FHD, Ryzen 3 7320U, RAM 8 Go, SSD 512 Go, Radeon 610M, Windows 11",
-   "price_raw": "328,30€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-fhd-ryzen-3-7320u-ram-8-go-ssd-512-go-radeon-610m-windows-11-3463492",
-   "posted_at": "2026-11-20T23:03:40+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Lenovo Yoga Slim 7 83JX009WFR - WUXGA OLED, Ultra 5 226V, 16 Go RAM, 512 Go SSD, 70 Wh, Windows 11",
-   "price_raw": "769,30€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-lenovo-yoga-slim-7-83jx009wfr-wuxga-oled-ultra-5-226v-16-go-ram-512-go-ssd-70-wh-windows-11-3463358",
-   "posted_at": "2026-11-20T23:02:08+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2118,
-  "models_with_reference": 69
+  "listings_seen": 2108,
+  "models_with_reference": 68
  }
 }
