@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T22:08:00Z",
+ "generated_at": "2026-11-21T22:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 350,
-   "last_ok": "2026-11-21T22:08:00.619211+00:00"
+   "last_ok": "2026-11-21T22:38:00.626976+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 366,
-   "last_ok": "2026-11-21T22:08:00.619211+00:00"
+   "last_ok": "2026-11-21T22:38:00.626976+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T22:08:00.619211+00:00"
+   "last_ok": "2026-11-21T22:38:00.626976+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Brco7fOR4E%2Bt1im26T4yi0FD51tzIf8%2Fab%2FhxV9foZDWu3G2bCD%2F0ZLxi7KnVw1o2XCXBj4JLSFK%2Fg6jMqt04a2PSiPCpRCl%2BpxeIDdcsTQeosfgjeQG%2BKkBLges6GhLTl%2BnqPpHRR3sekGCE6O8kwYs4fejkNAGRsRUNq2jnLKg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8t896yEQ7Q2QuJ3pPPZy12N%2BAaT6eQuHQi8ip8hDNR2viFFHsonqL2uL%2BtqDMEHBLlAdeAmTrZIlYLyEHKKdY8QycTLDlnkokARVC%2Bbd%2FhHEyNqxA%2BVod2ACW9Expe0byct%2F4YSwlCUSp2qHbYTxRqY%2FINWnW%2FUDStdBNQdEpykA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxacXEVksQexF4lpODbRjFINXnfSyeDJJBg6BV%2BqVSqTjiqA%2FeMX%2F88QJj7u%2FSCTy4yadn4tGrhqAqv07cr3XTaVl%2BwzV9wZmFHGlyxGBqVua2g6Oy3QjUXdnz4EsvsPo8Er%2BS8gmp7%2BlyL6mcre%2BkR",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuya8D9NGRNYlsoyLcms7cUS8umQtQ8wNKbjlVNt9a%2BEZtP6BtLtFv%2FKH3pLV1HlGvQputEujHWnRhEiqy9%2FJKBmfMjvvf%2BUUwHrtnauXv4o99dI%2BTomd4oEo%2BhQt8dYNUIx69FMUP0h8i%2BMfXi8iSdq",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -570,6 +570,20 @@
  ],
  "unclassified": [
   {
+   "title": "HyperX FURY RGB 16GB (2x8GB) 288-Pin Ram DDR4-3733 MHz PC4-29800 Desktop Memory",
+   "price_raw": "129.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/377665919510?_skw=ddr4&hash=item57eea49a16:g:CDkAAeSwFXVrAhbW",
+   "posted_at": "2026-11-21T22:09:41+00:00"
+  },
+  {
+   "title": "MSI H61m-e33 (B3) Intel H61 2x DDR3 RAM Socle 1155 Micro ATX Bureau Carte Mère",
+   "price_raw": "53.19 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960227133351?_skw=carte+m%C3%A8re&hash=itemdf91ff47a7:g:-h0AAOSw9B1nXOrQ",
+   "posted_at": "2026-11-21T22:11:56+00:00"
+  },
+  {
    "title": "Carte graphique PNY GeForce GT 710 2GB GDDR5 GPU with Low Profile Brackets",
    "price_raw": "23.90 EUR",
    "source": "ebay",
@@ -738,13 +752,6 @@
    "posted_at": "2026-11-21T16:01:41+00:00"
   },
   {
-   "title": "Lot 2x16 Go RAM DDR4 2133 MHz Samsung (32 Go), PC fixe",
-   "price_raw": "146.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237196996720?_skw=ddr4&hash=item373a0af070:g:~Z8AAeSwsjBrAa8i",
-   "posted_at": "2026-11-21T14:48:05+00:00"
-  },
-  {
    "title": "Imprimante photo instantanée Canon SELPHY CP1500",
    "price_raw": "99,83€",
    "source": "dealabs",
@@ -846,21 +853,21 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZs1flW7nQn21UoFDbJn2vrs1pdNvxvmuDQ922q%2F4TXHhC7ZwP9GkVi4QNmk3gLCytwmdWJf1efeQWunDgD6Z2P8qcZNWolunC34dgBgq5L%2Fn3yKmr7nedI%2FirsapzAoL0ulby2%2Fl2cCSyAE5pn65oO%2FxDO1gvFVXliaFF47xTNqrg%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZvcnOlceRUx3cWljydJLwxs4SaPkghvbsap0sHfRpDluycp30z92Im2sHmLEBFvsXMAG7XfP5VOyEiJAIu273QaEcLGqpfPVFQ%2BwimEuxaGa0m2a0pVblSy1sL1NlPtUwiQOiAGlkL4m5VBOwaeKSyftJuaQaqZdZHKrTpDNoGVtg%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLCLx5j77dZow5TuXWu1A4mwB%2BoPA54eKilqntP%2BeVoj3ygga2Q4n%2Bt3h0DBy8Y410zx0zvnH%2Bg9TqsYYWqd%2FM6diLzoD75H%2FiQAwlEbBruNTK6Oy122dRNFi5Bgid%2F%2Bww2kJMpFuOOAYsVdv5XWgvL9wRWinlyUseAk0tQfKrHaoA%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLBnOrK5tHidpCQAJ3NChFPle8RdosEEk3UtMdfIcCqw9eTcLpAgMU%2FsQxYFYuH8zMT3Lf8hvt2E0y80UsZf6P0qu4LCtxubc%2FytQxdo%2BW%2F84D%2F5VNqUuIDe2B7n5H3sIyWkifyTjvNkjgjNYoFQ4j1pLAAEIB7lZjbYZV93wSrKGQ%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
   },
   {
    "title": "Carte mère HP ProDesk 600 G4 SFF L05338-001 L02433-001 LGA1151 DDR4",
    "price_raw": "37.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7ztcV3i3fjVyreiBDKq%2B2GyCO7EC8Igzexu3juffBCC6erPQrqq90p1sdh78wc%2BpKgGQBMDji1GSEs39G8WxdMR0R0w07lRK53EM0nQNdPLAgRvIHTEk55pKtJTrV6a1HVxji0ZjBDjH7QB4WuwJI0m6vfP97K2TFGR8xt12FeBeJg%3D%3D",
+   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7ztOPTe%2B%2BTR0AkOlvh6bx8p5%2BLBQ1j5qQjJYYJP1fh4T7PazPWSKCRKxG6Yz45j39aRV6hh%2FpL7poC3EPGhGGLrD8tIyBQVxJuAvX2HK%2FZFf3jfsfO8rvkhxqFQyMCzMvlzfhDaeLk8MVQ9ITzRjeOrpMMKxRt4Tiy3rxhN6tH%2F2TQ%3D%3D",
    "posted_at": "2026-11-20T10:48:23+00:00"
   },
   {
@@ -911,17 +918,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ugreen-docking-station-usb-c-et-support-pour-mac-mini-m4m4-prom5-prom6-10-en-2-avec-boitier-m2-nvme-ssd-displayport-4k-240hz-144hz-3463948",
    "posted_at": "2026-11-20T23:06:55+00:00"
-  },
-  {
-   "title": "Hub USB-C 6-en-1 Benfei avec Boîtier SSD M.2 NVMe, USB 3.2 10 GB/s (2×USB-A + 1×USB-C), Charge PD 100W, HDMI 4K@60Hz (Vendeur Tiers)",
-   "price_raw": "26,86€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/benfei-hub-usb-c-6-en-1-avec-boitier-ssd-m2-nvme-usb-32-10-gbs-2usb-a-1usb-c-charge-pd-100w-hdmi-4k-at-60hz-compatible-macbook-3463949",
-   "posted_at": "2026-11-20T23:06:21+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2111,
+  "listings_seen": 2115,
   "models_with_reference": 69
  }
 }
