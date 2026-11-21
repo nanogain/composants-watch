@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T13:38:00Z",
+ "generated_at": "2026-11-21T14:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 351,
-   "last_ok": "2026-11-21T13:38:00.632959+00:00"
+   "items": 352,
+   "last_ok": "2026-11-21T14:08:00.651567+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-21T13:38:00.632959+00:00"
+   "items": 370,
+   "last_ok": "2026-11-21T14:08:00.651567+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T13:38:00.632959+00:00"
+   "last_ok": "2026-11-21T14:08:00.651567+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-17T19:16:59+00:00"
   },
   {
-   "title": "Écran PC incurvé 27\" Amzfast 280Hz QHD, AMZG27C1Q Pro (Vendeurs Tiers)",
-   "model": "MON:27-QHD-280Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 199.49,
-   "shipping_eur": null,
-   "effective_eur": 199.49,
-   "median_eur": 364.65,
-   "discount_pct": 45.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-280hz-3462779",
-   "posted_at": "2026-11-20T06:31:50+00:00"
-  },
-  {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -109,6 +92,23 @@
    "posted_at": "2026-11-20T12:59:50+00:00"
   },
   {
+   "title": "Écran PC incurvé 27\" Amzfast 280Hz QHD, AMZG27C1Q Pro (Vendeurs Tiers)",
+   "model": "MON:27-QHD-280Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 199.49,
+   "shipping_eur": null,
+   "effective_eur": 199.49,
+   "median_eur": 362.3,
+   "discount_pct": 44.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-280hz-3462779",
+   "posted_at": "2026-11-20T06:31:50+00:00"
+  },
+  {
    "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -120,7 +120,7 @@
    "discount_pct": 41.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,5 %, 222 avis)",
+   "merchant": "eBay · fastseller59 (99,5 %, 223 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B83qyVJGXQvO8Egghw2cGRy9ymEhfbCbrGuEk6%2BDVRxnU2iJ9jyO8%2FJ8AfPgxtIJPLKUyNFjVKjAas8jNty%2BGM0SoGCqK4vcS0uoagaSEt0FwHnSWhhIIvDTHN6IAgbCbbSkhJAROB0scLQUCu9KS5NBF8o6WfO2lZTq%2FZQ8ZgjGg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9%2F0LrGzFPo9t1Z5i%2Ba8iAaRT48GDpwsyYXLn8c8s16svjh3hykzbdzScGYAiZvgaMgsexmjSgitmMiDBsYswIpMesDL%2B1EdRQO%2F9CTJBWchsRLYLsY5JBRSuS3dTjCms%2F7NC8udtWzSmUVOf1reHslflkocyLt3t7oVttAyYckHw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyhQLE5slLKblQhy8qYQ7155CYS9spg6kz7lxPX5j8ynMPvcfpyZqwFh3PjnI9yTjy84JZE5nPUtpIKVKKWYo2LUCCB8rAKytI1LKiAGkSE5rEPuQqyEpsLotv6NSUwmOtT4QgjcTVhTkreoxh2CBhT",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzvYgl8oif%2B%2BBll0kmGNnuyTdN7CX5U5IeUQD8BfNElF07U%2FoTxthmM4Ixf5qtLFFi%2FIurBkEuaR%2BC0RRTJ--E71RaJux2w6irzpcvu0rt4G4u4CnrOnBnHZObiurmgzag9RVysa%2BJlUI%2BiZzU8jlOr",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -415,23 +415,6 @@
    "posted_at": "2026-11-21T12:32:46+00:00"
   },
   {
-   "title": "PNY SSD 1 TO CS 900",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 99.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 99.0,
-   "median_eur": 122.5,
-   "discount_pct": 19.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · pnytechnologies (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206710102743?_skw=ssd&hash=item3020e1dad7:g:uO0AAeSwrnxp1M0c",
-   "posted_at": "2026-11-18T09:57:21+00:00"
-  },
-  {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -464,6 +447,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
    "posted_at": "2026-11-20T10:13:01+00:00"
+  },
+  {
+   "title": "PNY SSD 1 TO CS 900",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 99.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 99.0,
+   "median_eur": 120.0,
+   "discount_pct": 17.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · pnytechnologies (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206710102743?_skw=ssd&hash=item3020e1dad7:g:uO0AAeSwrnxp1M0c",
+   "posted_at": "2026-11-18T09:57:21+00:00"
   },
   {
    "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
@@ -569,6 +569,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "[Adhérent] PC portable 16\" MSI Raider 16 HX B2WH-019FR - QHD+, 240 Hz, Ultra 7, 32 Go RAM, 1 To SSD, RTX 5070 Ti (+220€ de bon d'achat)",
+   "price_raw": "2 299,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-rider-rtx-5070ti-3464431",
+   "posted_at": "2026-11-21T13:53:31+00:00"
+  },
+  {
+   "title": "Lot 4x8 Go RAM DDR4 3200 MHz (32 Go), PC fixe, SK hynix / Crucial / Micron",
+   "price_raw": "177.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237196877517?_skw=ddr4&hash=item373a091ecd:g:WuIAAeSw66VrAaBQ",
+   "posted_at": "2026-11-21T13:44:51+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s C30 - AMD EXPO - Noir",
+   "price_raw": "885.09 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336251731680?_skw=ddr5&hash=item4e4a2a3ee0:g:EfcAAeSwkTprAaKU",
+   "posted_at": "2025-10-25T10:13:46+00:00"
+  },
   {
    "title": "Moniteur de Qualité de l'air intérieur Aranet4 Home (aranet.com)",
    "price_raw": "156,04€",
@@ -678,14 +699,14 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZus4%2Fg3q5EyFxvI10yHGDm4%2BUi8q%2Bz37tre1tIZzXgdmTDOoWN9VkXWoR0KPgJWIVuWJWuSj11YbrUQmhjkjqZx2pbiKrzr4phX%2B7wLNdX9m%2FrNpCP5i5VZq69ElMilQWLhx06t9da5IFHkL30MJNk0GlsOzp%2BI1O8jSHQ8lz6dsg%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZtPbFyv3JqSqELBhY5iPo3QheWMl2JY9C3zS8QDWj3jEjxXl8%2FjZPg1ANMjlbHX%2BrhCSdEJvBxiFq5RREdh%2BQIPoLBA%2BHNcfhMYCVhkzR%2FpWuCppG2tjGHZooOkl54zPSakLb%2Bq9GqoIb7zVBjxaxvQ9RWvIHtiAdgOGiwzQ%2F2Pdg%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDdB1t877xeVY5ssmajwrjaknBe%2F4oWxDF8a4HZID3bBjmsjaZzaV9eH5%2BxozxcwLJ42e4gInuoCi6%2F%2BJuPRQeOv3lu5v%2BMafDcR%2BwAzFZei50rT7zbAtz1Axc9bgATaC%2B%2BHr7B1sDnWtDgMwhsyl8MrhxdhEv5h8Ge02nYeKq8gA%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLCcxf2cq9%2B3BpuQMRIYomNa%2B8SvfmOgSDxB2aTVCDibkoulMr4UBoJrIOD7v%2BoK%2Fx0yKunzvMkmCsSshSenRmAj9lL6mFqBKdglSgN1eNeEFbQ9rbFNY7hbWXSzC7lhroBVSWlDH9Y9YgXfU%2BETBJCLl9BMn6XfV%2FX%2FFMHLADDkWA%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
   },
   {
@@ -857,17 +878,10 @@
    "posted_at": "2026-11-20T21:07:26+00:00"
   },
   {
-   "title": "Corsair Dominator Titanium RGB DDR5 - 32 Go (2 x 16 Go) - 6400 MT/s C32 - Intel",
-   "price_raw": "878.76 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335608495474?_skw=ddr5&hash=item4e23d33d72:g:ARUAAeSwRndrAC6R",
-   "posted_at": "2024-10-07T20:11:58+00:00"
-  },
-  {
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeTtSa9kPXH%2Fps5WHFKKSQ7tHmRVxZjkQYbnx3AHm%2F5KH%2Fnu%2FZm6WitV%2BwNs6asFddYpx5TKuaWgqPftYiBa1KLwbhZEgpwrXOZiY4%2BWvOzviMcLaNqzKW%2BlrX%2BybsJaVHDrggQSllkE4SMfF599i8ywk5NgR4uT1%2BdK5eJSlpe67A%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeT2N%2B2T6MAeOO2LZAC%2Bf%2F6EbFGgX2DZLW1jC3f8zSm9svVr%2BUJa2haUXcEM6rmsjNYXjovYbRoDBtiOUH0L5hO4MAg1hOmiv9NmswR%2B2GYZKZ%2BVk1nppgC%2FFmuFa9cub4u4lsA5p%2FX4G56KrYbOEUSGnDXScJvANCgUD%2BVMEwx%2Frg%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -904,24 +918,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nas-ugreen-dxp2800-3463774",
    "posted_at": "2026-11-20T19:35:40+00:00"
-  },
-  {
-   "title": "Souris gaming sans fil compacte Logitech G Pro X Superlight 2c SE",
-   "price_raw": "89,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-compacte-logitech-g-pro-x-superlight-2c-se-noir-3463750",
-   "posted_at": "2026-11-20T19:10:48+00:00"
-  },
-  {
-   "title": "[Prime] Ventilateur PC Thermalright TL-K12 (vendeur tiers)",
-   "price_raw": "10,12€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/prime-ventilateur-thermalright-tl-k12-vendeur-tiers-3463737",
-   "posted_at": "2026-11-20T19:01:04+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2076,
-  "models_with_reference": 71
+  "listings_seen": 2080,
+  "models_with_reference": 70
  }
 }
