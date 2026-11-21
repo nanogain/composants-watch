@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T13:08:00Z",
+ "generated_at": "2026-11-21T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 352,
-   "last_ok": "2026-11-21T13:08:00.658453+00:00"
+   "items": 351,
+   "last_ok": "2026-11-21T13:38:00.632959+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-21T13:08:00.658453+00:00"
+   "items": 372,
+   "last_ok": "2026-11-21T13:38:00.632959+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T13:08:00.658453+00:00"
+   "last_ok": "2026-11-21T13:38:00.632959+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8urz6NfgIgOtr8dN6lduM25AEsSL7v0g59l7LKmIEg0JXjPNMXVrpUfivOiX4b60seZnVFaSjeCK2TFAERb3sjsW%2FS613U3LAcNyoPwwsWQLT4FOSwCPruVZxxuXk3HjQY0W1BEchAn0D3xrp1huv2i7CUlg8kvor%2Bes90Ak4%2FJQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B83qyVJGXQvO8Egghw2cGRy9ymEhfbCbrGuEk6%2BDVRxnU2iJ9jyO8%2FJ8AfPgxtIJPLKUyNFjVKjAas8jNty%2BGM0SoGCqK4vcS0uoagaSEt0FwHnSWhhIIvDTHN6IAgbCbbSkhJAROB0scLQUCu9KS5NBF8o6WfO2lZTq%2FZQ8ZgjGg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzziqIbdRFORe9i64K%2B5j7Yx8Qo6uEZAsaMaA9BwAOC7y3vOiQSF%2BQcmelGSmW4W%2BTnairzQBisQZSQDU4eDVtrcVDzPGveN2n0rn2h813XkuF9FinDoowLscRlHuRI6gtQR4pR08miSsLANubMyyU9",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyhQLE5slLKblQhy8qYQ7155CYS9spg6kz7lxPX5j8ynMPvcfpyZqwFh3PjnI9yTjy84JZE5nPUtpIKVKKWYo2LUCCB8rAKytI1LKiAGkSE5rEPuQqyEpsLotv6NSUwmOtT4QgjcTVhTkreoxh2CBhT",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -328,23 +328,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194075152?_skw=ssd&hash=item3739de5c10:g:8gcAAeSwW29rAAAp",
    "posted_at": "2026-11-20T08:13:39+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.99,
-   "discount_pct": 21.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -587,6 +570,20 @@
  ],
  "unclassified": [
   {
+   "title": "Moniteur de Qualité de l'air intérieur Aranet4 Home (aranet.com)",
+   "price_raw": "156,04€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/aranet4-home-moniteur-de-qualite-de-lair-interieur-3464452",
+   "posted_at": "2026-11-21T13:29:39+00:00"
+  },
+  {
+   "title": "Prise intelligente TP-Link Tapo P100 Wi-Fi Mini - Bluetooth, 2300W, intérieur blanc",
+   "price_raw": "7,92€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/prise-intelligente-tp-link-tapo-p100-wi-fi-mini-bluetooth-2300w-interieur-blanc-3464457",
+   "posted_at": "2026-11-21T13:27:43+00:00"
+  },
+  {
    "title": "Apple MacBook Air 15 pouces Puce M5 CPU 10 cœurs GPU 10 cœurs 16 Go RAM 1 To SSD Lumière stellaire, AZERTY",
    "price_raw": "1 549€",
    "source": "dealabs",
@@ -681,14 +678,14 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZu%2B2ft3%2BrhMbGhYXSfq011UXCQjfPDaw91yKOiJhDj5Kv7oJQj43N6vvqrUrhuNh%2BMRuLRJut4kUpW7TkRg960LWeqjwj5YyMDnqGT5OH2E5azsN%2FDCXKAbpwu%2FXs2NRh5GgUQfnOhdRYrv%2FDAc6V8g6Il8sYv%2B1Lw%2FZ%2Ft2clDr1w%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZus4%2Fg3q5EyFxvI10yHGDm4%2BUi8q%2Bz37tre1tIZzXgdmTDOoWN9VkXWoR0KPgJWIVuWJWuSj11YbrUQmhjkjqZx2pbiKrzr4phX%2B7wLNdX9m%2FrNpCP5i5VZq69ElMilQWLhx06t9da5IFHkL30MJNk0GlsOzp%2BI1O8jSHQ8lz6dsg%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDEPqd9iTFvInDwFjmhwsnmN3PIyWKUSvnwdCgq3L3X%2FFmOT8shRPMome6%2BfZ%2Fv%2BPBOIO0uHd%2Fd413mXE%2B86D8kgAMesKNSOAxrni30IEdeHcdTaep0Rk%2FreK1LbytTXbanMIMFBLS4voHck1F1Z1BSpLvpnbt1LQkts1YFuXMtqg%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDdB1t877xeVY5ssmajwrjaknBe%2F4oWxDF8a4HZID3bBjmsjaZzaV9eH5%2BxozxcwLJ42e4gInuoCi6%2F%2BJuPRQeOv3lu5v%2BMafDcR%2BwAzFZei50rT7zbAtz1Axc9bgATaC%2B%2BHr7B1sDnWtDgMwhsyl8MrhxdhEv5h8Ge02nYeKq8gA%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
   },
   {
@@ -870,7 +867,7 @@
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeT3ag8phcVgi%2B6D2j7LUtUpiVR6m8GOY7BW4UOGPyDgHEc%2BWnJGnTgJPrvn8cadnhHarb3WVCMtDa5wdLCsxysfSnrsffPFTlbRp5o1ripP6JrSj%2BTVQwhC8nzVbvqHikyQfRdeLL1tDxyvAKtTF25S1nLiMV9%2FV1mOF8QyfpdCyg%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeTtSa9kPXH%2Fps5WHFKKSQ7tHmRVxZjkQYbnx3AHm%2F5KH%2Fnu%2FZm6WitV%2BwNs6asFddYpx5TKuaWgqPftYiBa1KLwbhZEgpwrXOZiY4%2BWvOzviMcLaNqzKW%2BlrX%2BybsJaVHDrggQSllkE4SMfF599i8ywk5NgR4uT1%2BdK5eJSlpe67A%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -921,24 +918,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/prime-ventilateur-thermalright-tl-k12-vendeur-tiers-3463737",
    "posted_at": "2026-11-20T19:01:04+00:00"
-  },
-  {
-   "title": "Pack de 3 Ventilateurs Be Quiet! Light Wings LX - 140 mm, PWM Black High-Speed (Vendeur Tiers)",
-   "price_raw": "41,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-de-3-ventilateurs-be-quiet-light-wings-lx-140-mm-pwm-black-high-speed-ventilateur-3463706",
-   "posted_at": "2026-11-20T18:28:31+00:00"
-  },
-  {
-   "title": "Ventilateur PC be quiet! Light Wings LX 140 mm PWM Black High-Speed",
-   "price_raw": "17,09€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ventilateur-pc-be-quiet-light-wings-lx-140-mm-pwm-black-high-speed-3463701",
-   "posted_at": "2026-11-20T18:24:55+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2082,
+  "listings_seen": 2076,
   "models_with_reference": 71
  }
 }
