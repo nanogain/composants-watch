@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T09:08:00Z",
+ "generated_at": "2026-11-21T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-21T09:08:00.662530+00:00"
+   "items": 350,
+   "last_ok": "2026-11-21T09:38:00.689623+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-21T09:08:00.662530+00:00"
+   "items": 374,
+   "last_ok": "2026-11-21T09:38:00.689623+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T09:08:00.662530+00:00"
+   "last_ok": "2026-11-21T09:38:00.689623+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8I6ylrJA5YC5nHUpyRUB6uOb6uFz5TCy38ZUXwrv9YWsHVnNABnTDZHUokU4nn0r09DF4djIm0dVhCsCVNZSWPylQIIrmyMKDf2EO5OFetUbN2mqoPAYYzPRWkARJZQIhU5ihDt2RxnBfW%2F5iw005KQOZFYykSJDgIGRJHVcpWng%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8%2FXqDYe9uADbPqJQTjIZwjPwh9Eo2knBFlujTx2riNv4hw%2BElqRDqzqSndjS%2Fy6iNdxE7iOq7EaEgFMfBvoZfYGtxASyWzPsQOVN6GjfI1cSkUUwpFqPGJVi4NOW%2Bn6QhlK8GSV5G1RoO6MsR2LmC6Kl%2BcczG%2B11ZFayY7SzxBdQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -343,7 +343,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,5 %, 220 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE73wmycqKuaSZZZd5H%2BcKEkij5Vu4ra6oIh1w01hQJOZmyMfF376GYWB2ngyQ36NdTxUFTHbVtqYIsEw2z2Z7fgCG%2B17S2rIHUcHuxgZSNkbhIsBjuPoVNOgJMblgUFwcdhusC0hSG64%2B1lltA%2BBsPpp",
+   "url": "https://www.ebay.fr/itm/206701525449?_skw=ssd&hash=item30205ef9c9:g:2ocAAeSwgI9q-NqD&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kQz5WvnM3P1lo7otx9Y%2Br4k8PXW018r2NNtjEUT--kSPJfsY%2BuHd3roC5cDNytktMjGoS4LGN9mFbki1kIRf4x9ez8E7SbKyA9ypgSWJk%2FElQiHdk08KV5M0w6HjPWE72jKgVUzpCq8KHA5%2F7A7nxoG1JjHq64CaUICfeuhi%2BOMzKl730Le0%2FY8l0ywVQwVqqBh2qFrSi4qq5KKbsHtPzckmR6rZAMNs6XioB5%2FW9SIr%2BQvLsSEO0du88qVlj54RZn5YvCdNK%2Fv11OMFs98ZFA",
    "posted_at": "2026-11-14T22:04:31+00:00"
   },
   {
@@ -519,6 +519,20 @@
  ],
  "unclassified": [
   {
+   "title": "Micron 2x4 Go DDR4 SO-DIMM PC4-3200AA MTA4ATF51264HZ-3G2J1",
+   "price_raw": "27.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168877719055?_skw=ddr4&hash=item2751e57e0f:g:hFQAAeSwCchrAWJ6",
+   "posted_at": "2026-11-21T09:22:46+00:00"
+  },
+  {
+   "title": "Samsung barrette mémoire 8 Go DDR4 SO-DIMM PC4-2666V M471A1K43CB1-CTD",
+   "price_raw": "27.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168877713120?_skw=ddr4&hash=item2751e566e0:g:W00AAeSw~hxrAWDi",
+   "posted_at": "2026-11-21T09:16:37+00:00"
+  },
+  {
    "title": "TERRAMASTER D1 SSD Pro Boîtier pour SSD M.2 NVMe 80 Gbit/s (sans Disque)",
    "price_raw": "215,99€",
    "source": "dealabs",
@@ -554,13 +568,6 @@
    "posted_at": "2026-11-21T07:16:00+00:00"
   },
   {
-   "title": "Carte mère pour HP ProBook 650 G1 / INTEL CORE i5-4210M",
-   "price_raw": "49.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/376177185513?_skw=carte+m%C3%A8re&hash=item5795e852e9:g:AdAAAOSw2tFoARna&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lNPLltScTo1fjsJoJR%2F3QlxqiH6K1TzbLGK6JJ9U6P%2FeB%2BdfnIVQ5PIqZl%2FdFOSlAYHPBO9iLAOdnbWOtCBDzJT9BmeK7aM0ZpEVRLXbHJuquYdkjIyeJLjv0o4X0n3gA505wKuThRuJFoQp2fU%2BvlOX%2BY%2FubiD%2Fbw%2Fz%2FS1KEIaBkKbE2RxI6SML7zzuwsU%2FHSFN2aq54atd0LDiaxiLonFcxT%2Fj%2FmfKlwTU3Fl1eVYipVQVMOXeRBqeLcWFlgGwQdlPx2rgw3Z%2BvMGGDtX9YUnMd8qy6%2BofbyFXy%2BWIQmZg%3D%3D",
-   "posted_at": "2025-04-17T15:11:44+00:00"
-  },
-  {
    "title": "Tablette 11\" Apple iPad Pro wifi (2024) Puce Apple M4 1 To Argent Nano Texturé",
    "price_raw": "1 189,99€",
    "source": "dealabs",
@@ -571,21 +578,21 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZvBrXELM5lY%2FAk0zbZO1i57nlassSZf9nyIOA%2Fn8fHRF2q1a2l%2BlXTj3kj5I7dlctllxfo%2FXwntBbGacJQVVwJhUb%2FR4JjEXqMpbF%2BuloCdvxZ3YfjHwBgfpJKDQ7lb4RxXdxxg8yJZpMVPquTPME9oBB3ImcWc2y9DrD9PwObL%2FA%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZu1PG8SUQbDJkd9neTyjmnBhnjXqBhETHe3gY4PyzToW6dXWvXnt4QtjbY7cc17Xxqe1TiiICdKtg7858vrLlR2uwJdnstITyrsbhrejUOGgOFVRolmKwPRHF8zBbNJv0in502NXtOX8YFMrPyqpCKu%2BhiUZ0PMCyzZ8BdgVsLVhg%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLD%2Fxblctcs1aAiX8kFz0roW4OmlzMPQXEXPCmcbqNsWPVqxpK4ZOrXpzGgr4X7Zg%2BUR087oYFj%2F4YvUdYJ95jXyKOaRzawr0W6uvYgtqOfdInbzVtJg25qpqp2i4bO8R9RFf034IwN0nTScarYnNTLn5puFpEfw6jdddaedGNvRKA%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDhX2%2F2mS1xU37BbzTzZUfE8b%2BEFgwIRpb3xdVNAGMsfH7jqJjkKejXbkPlnO9E0GYixGvARrYqBqFt4t8Db913TuPbgbjcpVIjY1RrYmufI7E%2B%2BF52w%2F0Q2CXlDrYVBrJIHkZlOYczAI%2FDF3MHm0nX8Gf1%2Fw4Ysqb8yOwel5esNA%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
   },
   {
    "title": "Carte mère HP ProDesk 600 G4 SFF L05338-001 L02433-001 LGA1151 DDR4",
    "price_raw": "37.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7zvG1zlHFQ9X1bdlNJ3FgOVIdOOMg3jP8VynT55jqzuv85BuTUWNq0Pd5gWU4HxYCk7z08MF4cml4XQCIuccK5j4KXRbAoSXjU9MGgueQ0UsEyU4aBkAu3YE8crS3DJMwRsN%2Fn5K4GHoHxc%2BU0H%2BljRYFe0VxQX6ciYw2f6mB3ZyjA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7zvIbsHqQ7rgkm1uK%2BrhSbDgrIphXTzXg0IQc5%2FfNEzCbXqwcHSxf3F8oN8jyLvhBn9hrxDL6r2L1qkaxIr51rhDspWdsR5m%2F7hQBEcT7lfIcEgH1yw%2BfupzSg0%2Fj0HYnQQtSoaDO7PHUCCuF1B%2FYzFQqfxCXPgmV2hpCEp9teBwUg%3D%3D",
    "posted_at": "2026-11-20T10:48:23+00:00"
   },
   {
@@ -732,7 +739,7 @@
    "title": "Samsung RAM 8 Go (2x4 Go) DDR4 SDRAM SO-DIMM PC4-2400T M471A5244CB0",
    "price_raw": "25.19 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206716231673?_skw=ddr4&hash=item30213f5ff9:g:JuQAAeSwritrAMrn&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lhuWRHmzT17o%2Bh8ZsN20eBpMUiHq9xtfEQddU7p8YILlOEkXusMgpZ%2Bi2lEJF0JCuJVhLj%2FZkv2bg4ZWCOIkBBoqOwRr%2FLkeHk9z0HK%2BBxhQEIyhPkbuQ9nwqUpruA%2BKXGiG1HcL9yTkOIM1FrVpiADAznxu%2B8Wb78qdcimxNAdIIJiy0T7mRUysXN3IDxpeZIpWWJ0QWQKr3QJolxcMWTDwyfimJKQ%2FYDdKoJO%2B%2FJZJ4nMC4TES1GDK5%2FMI%2BHB1J06mq6u5GCoQMJz6in%2BIiy",
+   "url": "https://www.ebay.fr/itm/206716231673?_skw=ddr4&hash=item30213f5ff9:g:JuQAAeSwritrAMrn&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lhuWRHmzT17o%2Bh8ZsN20eBpMUiHq9xtfEQddU7p8YILlOEkXusMgpZ%2Bi2lEJF0JCuJVhLj%2FZkv2bg4ZWCOIkBBoqOwRr%2FLkeHk9z0HK%2BBxhQEIyhPkbuQ9nwqUpruA%2BKVNIJuhTeRUSv4TUEklM7%2FqbpEA9RevFjfe0MlH9UiFM4L9h%2F3UUlQwNaAMmduQaUfPbYD%2BTT3LZefGnlAAGOVRw81EyzQmxtrn4o4JPukDWTpgPoQxK0GyDSMnUTAzyHTPwpVUs%2BwFevRDrF4mpLbs",
    "posted_at": "2026-11-20T22:34:44+00:00"
   },
   {
@@ -774,7 +781,7 @@
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeQPYtPQYJ8ygIqItUPCmcTp23ZBznSnXeQgg1G2nPmcO%2B4%2B%2Byicf7%2F7BGef7F0wNT0ulw3Qfnx9XfobIyagLoFLXtO0mQEPQEpMjSNVH6UPZbbfPUKTrt7FTvk1M%2BpRXU4vANoOm6Lus214SilSyyYvO6OCUCD0RwxwgaOCpcGdXw%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeRrlLEc%2Fe1M6Wq5Y68gZQVZVRAnN0BNTdh568v3suuvMqnY3nTf%2FisfzuK1VnIKASqNixStbjZQDTGpjf2FnhfkM8Jvlz1huQnv2t6nKHgr8zCaLYxrjUhR3AjEvVmfVieSD8QLV4sYd9C5lX7OOjm4BDK2qJFw6qi0yFJuS28YWA%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -860,13 +867,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-hp-7007-smart-tank-3463657",
    "posted_at": "2026-11-20T17:56:11+00:00"
-  },
-  {
-   "title": "PC Portable 14\" MacBook Apple Pro - 2 To SSD, 24 Go RAM, Puce M5 Pro, argent",
-   "price_raw": "2 999€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/macbook-apple-pro-14-2-to-ssd-24-go-ram-puce-m5-pro-cpu-15-coeurs-gpu-16-coeurs-argent-3463654",
-   "posted_at": "2026-11-20T17:53:42+00:00"
   }
  ],
  "stats": {
