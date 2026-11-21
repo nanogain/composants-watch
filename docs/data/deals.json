@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T18:08:00Z",
+ "generated_at": "2026-11-21T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 353,
-   "last_ok": "2026-11-21T18:08:00.619255+00:00"
+   "last_ok": "2026-11-21T18:38:00.680709+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 360,
-   "last_ok": "2026-11-21T18:08:00.619255+00:00"
+   "items": 370,
+   "last_ok": "2026-11-21T18:38:00.680709+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T18:08:00.619255+00:00"
+   "last_ok": "2026-11-21T18:38:00.680709+00:00"
   }
  },
  "watchlist": [
@@ -40,6 +40,23 @@
   }
  ],
  "opportunities": [
+  {
+   "title": "Carte mère Gigabyte B860M E - Micro-ATX, Socket LGA 1851, Intel Core Ultra Série 2, DDR5 8800 MHz (OC), 2× M.2 PCIe 4.0",
+   "model": "MB:B860",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 95.99,
+   "shipping_eur": null,
+   "effective_eur": 95.99,
+   "median_eur": 229.41,
+   "discount_pct": 58.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b860m-e-micro-atx-socket-lga-1851-intel-core-ultra-serie-2-ddr5-8800-mhz-oc-2-m2-pcie-40-3454462",
+   "posted_at": "2026-11-15T23:02:00+00:00"
+  },
   {
    "title": "ASRock Rack B450D4U-V1LQ5 - AMD B450 - DDR4 Ram - BTO Carte Mère Socket AM4",
    "model": "MB:B450",
@@ -75,6 +92,23 @@
    "posted_at": "2026-11-17T19:16:59+00:00"
   },
   {
+   "title": "Écran PC incurvé 27\" Amzfast 280Hz QHD, AMZG27C1Q Pro (Vendeurs Tiers)",
+   "model": "MON:27-QHD-280Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 199.49,
+   "shipping_eur": null,
+   "effective_eur": 199.49,
+   "median_eur": 364.65,
+   "discount_pct": 45.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-280hz-3462779",
+   "posted_at": "2026-11-20T06:31:50+00:00"
+  },
+  {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -92,23 +126,6 @@
    "posted_at": "2026-11-20T12:59:50+00:00"
   },
   {
-   "title": "Écran PC incurvé 27\" Amzfast 280Hz QHD, AMZG27C1Q Pro (Vendeurs Tiers)",
-   "model": "MON:27-QHD-280Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 199.49,
-   "shipping_eur": null,
-   "effective_eur": 199.49,
-   "median_eur": 362.3,
-   "discount_pct": 44.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-280hz-3462779",
-   "posted_at": "2026-11-20T06:31:50+00:00"
-  },
-  {
    "title": "[Prime] SSD interne 2.5\" Netac N530S - 2 To (vendeur tiers)",
    "model": "SSD:NVMe-2To",
    "category": "SSD",
@@ -116,8 +133,8 @@
    "price_eur": 169.99,
    "shipping_eur": null,
    "effective_eur": 169.99,
-   "median_eur": 289.62,
-   "discount_pct": 41.3,
+   "median_eur": 289.99,
+   "discount_pct": 41.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FrjgH6BW8LAJnqyx0gnvlixGuThqcg%2F9TqAWaPG201BtaE56kCuDv4KgKGdg0xPCTNGyRvJ6Qpkslu0hxM%2BylAwPIh9y1fIf73aJAculxrvc7Mey9HGlJ3wEbwTsVVPsU4X7ZKt02e7rfxEF2WBvmp2bRgdDOy4p9O95xgvVw%2B8A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FG3ttqqmDgI%2FXJrix4sYE%2B3%2FgyotWAShidzZcgc6PzarBRqUVLMl0tdUl--JngrOmD7Kicduc7OPh28zNxKskIvOx4TpRKQeQlQJIzcMfAaJZeMrQNGERnFO%2FD8HL5lxTugt3CfNSK9WlBTITyRaOi4awFoMM2j9yZ%2Bt1kgG7%2BmQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -228,23 +245,6 @@
    "posted_at": "2026-11-19T10:05:39+00:00"
   },
   {
-   "title": "Kingston NV2 SSD interne 500 Go M.2 NVMe PCI Express SNV2S/500G",
-   "model": "SSD:NVMe-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 60.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 60.0,
-   "median_eur": 82.77,
-   "discount_pct": 27.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · lamaletale (100,0 %, 532 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117534347291?_skw=ssd&hash=item1b5d97d01b:g:GJIAAeSwKehrAbx4",
-   "posted_at": "2026-11-21T15:45:59+00:00"
-  },
-  {
    "title": "Samsung 8 Go DDR4 2400 MHz Mémoire RAM (M378A1K43CB2-CRC)",
    "model": "RAM:DDR4-8Go-2400",
    "category": "RAM",
@@ -311,6 +311,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194075152?_skw=ssd&hash=item3739de5c10:g:8gcAAeSwW29rAAAp",
    "posted_at": "2026-11-20T08:13:39+00:00"
+  },
+  {
+   "title": "Asus Prime B860M-K",
+   "model": "MB:B860",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 180.35,
+   "shipping_eur": 0.0,
+   "effective_eur": 180.35,
+   "median_eur": 229.41,
+   "discount_pct": 21.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · esp-tech (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336909347823?_skw=carte+m%C3%A8re&hash=item4e715cabef:g:sVQAAeSwq-BrAeIJ",
+   "posted_at": "2026-11-21T18:25:10+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -570,6 +587,27 @@
  ],
  "unclassified": [
   {
+   "title": "Lot 4x8 Go RAM DDR4 2666 MHz (32 Go), PC fixe, HP / Kingston / SK hynix",
+   "price_raw": "115.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237197308759?_skw=ddr4&hash=item373a0fb357:g:1F4AAeSwkDBrAeBE",
+   "posted_at": "2026-11-21T18:17:43+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast DDR5 - 8 Go (1 x 8 Go) - 6000 MT/s C36 - AMD EXPO - Noir",
+   "price_raw": "276.36 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336909359247?_skw=ddr5&hash=item4e715cd88f:g:hYMAAeSwFMFrAeQ8",
+   "posted_at": "2026-11-21T18:34:30+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s C30 - AMD EXPO - Blanc",
+   "price_raw": "949.45 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336909359281?_skw=ddr5&hash=item4e715cd8b1:g:00sAAeSwykprAeQ7",
+   "posted_at": "2026-11-21T18:34:32+00:00"
+  },
+  {
    "title": "Souris ergonomique sans fil Logitech MX - Vertical, Noir",
    "price_raw": "44,99€",
    "source": "dealabs",
@@ -668,13 +706,6 @@
    "posted_at": "2026-11-21T13:53:31+00:00"
   },
   {
-   "title": "Kingston Fury™ Beast DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s C30 - AMD EXPO - Noir",
-   "price_raw": "885.09 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336251731680?_skw=ddr5&hash=item4e4a2a3ee0:g:EfcAAeSwkTprAaKU",
-   "posted_at": "2025-10-25T10:13:46+00:00"
-  },
-  {
    "title": "Moniteur de Qualité de l'air intérieur Aranet4 Home (aranet.com)",
    "price_raw": "156,04€",
    "source": "dealabs",
@@ -755,14 +786,14 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZuXYIGYBABYJi2H6fI2pvDs6oFPMwYZjiCx%2Btrup8OsoUJxtVwA05UCkq%2FMVFBs58UmK5Az%2F4jiOZQKRKd7TK4wRQCPU7byo%2FWWHu0rm7K2j1cwn3%2F1s4ZdFb4t%2FBWCOBpGthrDrAlJmxz3KfMTB%2BhSh2%2BBRW9Vt3AX9Ny3ZAnJOA%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZu5UqickDs0RS0XT3MHlbbEAPNlVWMRAO2yasbIcB62zTTXtVWgNR3k9O4FTyh4HeUEhaaF7nEVumeEal0tZ504tlPOIrRXKCpSu4CsLQRBPwRQyH8EU9cOV1Icx2Zo1dNipZKllhmHmRG8OvrSeFwq7C28nhIJp%2BmNuUaIT%2F8QEw%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLAeLp5c7CgzOoqlfPCfTITwiZMBkWmOTTDi34ob0eDYIGULFKjeWSQw9tq3Fno8wG9U0B%2FjH3w5usZz56sszTwF5vSppjCvePU8rLMqEjxCsUxB8pwh6sKvXqJ63cGYxZ8GZXJ9dk3urqsmMLOBfNemI6WPrGleuANZ5P8vCdxpyA%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDcv3dI5sbBuMSyMFpqIQO8J3XuyS%2BMeIlrGIlhKq8O1%2FqKj0EoUg68yKoh%2F9K2oj4q7i3toJBTp3E3hQw5i1ljd2973xk6B95hl4rchKmuFroaqkRWuO5G4bgqypmFp2sDTPXnB6usPXvbsmY0HvumBjjzGJJcf%2B%2BScUusR2fjqQ%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
   },
   {
@@ -904,24 +935,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/macif-pc-portable-153-hp-hyperx-omen-15-gb0044nf-ryzen-7-8745hx-rtx-5070-16-go-ram-512-go-ssd-3463868",
    "posted_at": "2026-11-20T21:13:51+00:00"
-  },
-  {
-   "title": "PC Portable 15.3\" Dell Alienware 15 - Intel Core 7 240H, RTX 5050, 16 Go RAM, 512 Go SSD, Win 11",
-   "price_raw": "969€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/dell-alienware-15-intel-core-7-240h-rtx-5050-153-wuxga-165-hz-16gb-ram-512gb-ssd-win-11-3463866",
-   "posted_at": "2026-11-20T21:13:12+00:00"
-  },
-  {
-   "title": "PC portable 15.3\" Dell Alienware 15 - Intel Core 7 240H, RTX 5060, WUXGA 165 Hz, 16GB DDR5, 512GB SSD, Windows 11",
-   "price_raw": "1 199€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/dell-alienware-15-intel-core-7-240h-rtx-5060-153-wuxga-165-hz-16gb-ddr5-512gb-ssd-windows-11-3463862",
-   "posted_at": "2026-11-20T21:07:26+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2088,
-  "models_with_reference": 69
+  "listings_seen": 2105,
+  "models_with_reference": 70
  }
 }
