@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T02:08:00Z",
+ "generated_at": "2026-11-21T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 352,
-   "last_ok": "2026-11-21T02:08:00.680371+00:00"
+   "last_ok": "2026-11-21T02:38:00.618235+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-21T02:08:00.680371+00:00"
+   "items": 376,
+   "last_ok": "2026-11-21T02:38:00.618235+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T02:08:00.680371+00:00"
+   "last_ok": "2026-11-21T02:38:00.618235+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B945Uz0LilWyZTRzGkqk5Ii3VMbwmOHJb4um8ka1XJHTFSWAKONk1nrywx5Oe%2FD77m1%2FnRJbSqiHX12awCMn6xAZmCOdRg3SXP290zqP0kTEmjMN%2B3o1XJ0HmExeMUGp0TK8wzG5BR11ED4blswWZUTrarUY7YD%2FQzP1E85%2B9z2w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B1fHkDVTWHuzjatO9QfinMhfXlEBpPm4wb3A65tMBkUl11QlUJRmS0CmPjtBTKYKqUGpAvPatJ%2BdkM1vvAg0yrCNlsYbpcjRpJhgClFMbbEuqT6d6bkywB27bMvZs%2ByfGAj5niOHhRg97EoVwefywLgi0EvubrzFZhp%2FgX9St3VA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzevyTGvlq045NYuEEDnqP6afEqwIUhxUFM963tJL10TXPrW1OzNTUJzJV9MqZLEBDEs1wbzannPwVuVX%2BT3nhHcN2PP2zl7Rih2fngoXbuS0Yv7s2RjNs%2F3%2FzjF58OxdoYfvcdqPUwte%2FupG12poDV",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzQp%2B%2B1sWSs3mZ%2B%2FnURS9H2QHy9iKfINs1cgw3waL4G8X%2FeIrJzkdsXmTPRIOxBHMIzcFJAavI3egLQx9uyU8FFbPrgqOG7uwn5A7QL2IhxHLoHNIbfx5XiuXpx%2Bi3p3ufftlFZQHxG9zM%2BAKFfai4u",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -570,6 +570,20 @@
  ],
  "unclassified": [
   {
+   "title": "Liquide de Refroidissement Corsair Hydro X Series XL5 Watercooling 1L Rouge",
+   "price_raw": "29.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960223508873?_skw=watercooling&hash=itemdf91c7f989:g:NlwAAeSwTd5rAP5N",
+   "posted_at": "2026-11-21T02:13:43+00:00"
+  },
+  {
+   "title": "Liquide de Refroidissement Corsair Hydro X Series XL5 1L Bleu Watercooling",
+   "price_raw": "29.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960223506700?_skw=watercooling&hash=itemdf91c7f10c:g:VHEAAeSwBBxrAP3I",
+   "posted_at": "2026-11-21T02:11:31+00:00"
+  },
+  {
    "title": "Kit mémoire Ram DDR5 Patriot 32 Go (2x16 Go) - 6000 CL30",
    "price_raw": "519€",
    "source": "dealabs",
@@ -741,7 +755,7 @@
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeTA5ZoMg5Lpbo0OoHbPKgtqQbjRFWxpYwd8g1L49AICfHlWlqC9SyVdcVOAqeAUqfmxNOMx0Vl3bI3OmZiMHh%2B1TKaLQBgck6NmTuAwz%2F2WjBMeWzf7bvtgX%2FxiNeXAan9JHr4S46oyP39YKZypWj%2B8OWPoBHxRNrUgHbKq2rvl2Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeSLLJI%2BSWbbB0NGjVAfmgiJLnPmoo6utoq5ItW%2BQsKgwjbwNQrZLef15oXeik%2Ba1xHpSfJYRxxdRUiCGkPrSfrL1%2F4R%2FzNEAiaoTlCzt%2BTIqaKPAb0m0Jo%2BL89p1b0YC%2BfjNZl0Olx092xC108XtlADJ7IIaYJGQhXw--%2BgzIQzqg%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -904,24 +918,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/combo-clavier-souris-sans-fil-logitech-mk270-24-ghz-azerty-8-raccourcis-autonomie-jusqua-24-mois-3463560",
    "posted_at": "2026-11-20T16:34:06+00:00"
-  },
-  {
-   "title": "Souris fialire Arcane - Cultura Cergy (95)",
-   "price_raw": "4,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gamer-arcane-3463556",
-   "posted_at": "2026-11-20T16:31:37+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Asus VivoBook 15 X1504 - Full HD IPS, Intel Core 5 315, RAM 8Go, 256Go SSD, 42 Wh, Windows 11",
-   "price_raw": "389,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-asus-vivobook-15-x1504-full-hd-ips-intel-core-5-315ram-8go-256go-ssd-42-wh-windows-11-3463555",
-   "posted_at": "2026-11-20T16:28:55+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2083,
-  "models_with_reference": 68
+  "listings_seen": 2088,
+  "models_with_reference": 69
  }
 }
