@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T11:08:00Z",
+ "generated_at": "2026-11-21T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-21T11:08:00.677776+00:00"
+   "items": 352,
+   "last_ok": "2026-11-21T11:38:00.635266+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-21T11:08:00.677776+00:00"
+   "items": 367,
+   "last_ok": "2026-11-21T11:38:00.635266+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-21T11:08:00.677776+00:00"
+   "last_ok": "2026-11-21T11:38:00.635266+00:00"
   }
  },
  "watchlist": [
@@ -124,23 +124,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b760m-k-d4-ddr4-pcie-40-2-x-pcie-40-m2-realtek-25gb-ethernet-vga-hdmi-sata-6-gbs-aura-sync-rgb-3456698",
    "posted_at": "2026-11-16T00:03:08+00:00"
-  },
-  {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Beh4VkyoWK8RNywiZ%2FhDmKMGVIxz%2B1JknNTCpeiv7SczY6wil%2FWbR%2BCdUGPvXnq3ExerJk5EgNh%2BynhjNpUz9UoRsTDr2BzsxsDxywy3SnS3EDOO%2BgzeX5BZb1HroEfRTlGsZS9HFG%2ByO%2FcUykhOY8OaHxz8fr%2FIseL%2BWt4Ig8fQ%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
@@ -260,6 +243,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194075152?_skw=ssd&hash=item3739de5c10:g:8gcAAeSwW29rAAAp",
    "posted_at": "2026-11-20T08:13:39+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 498.44,
+   "discount_pct": 21.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -485,6 +485,13 @@
  ],
  "unclassified": [
   {
+   "title": "[Fnac] XGIMI Mira Pro 4K Laser à 1 699 € (-300 €) + 160 € en cagnotte + 5 % Fortuneo / BoursoBank – Prix optimisé : 1 454,05 €",
+   "price_raw": "1 454,05€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/fnac-xgimi-mira-pro-4k-laser-a-1-699-eur-300-eur-160-eur-en-cagnotte-5-fortuneo-boursobank-prix-optimise-1-45405-eur-3464359",
+   "posted_at": "2026-11-21T11:29:47+00:00"
+  },
+  {
    "title": "PC Portable 15.3\" Lenovo IPS3 83RR003GFR - WUXGA, Intel Core 5 320, 16 Go RAM, 512 Go SSD",
    "price_raw": "679€",
    "source": "dealabs",
@@ -565,21 +572,21 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZvJLYMMJjngHLpx%2BgWdSobUopKEXRR92eWSxoYT08hqLtB6bW8Wletk7E6SP5nLaJu92I4N5jB2vtum2ywhBw8pp2ma%2BXyMjJOAqpgOM%2FPJGr%2Bu2Q%2BYU6X5rQXuOkDeeRCHzZrn6UtYmzxOmImDgRPG1MusH3I4Tnc5%2FFhrxN%2BehA%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZsPll%2FUOtTwe1eCBfmyj2MTWHh%2BEWIfNzSaPm6eu7iPXAtYHbkrOZDhuiyzq1VOw%2BdjaI02cH1YeOxSfYBu8cst%2BmbGAePlZ2zBBB07NMZ%2FQbMuEubG%2FXdgJg1An0Lmy0fjuW2JroBVChOL8IuBkTqqBWA%2FNzN12gfIfc1w8Gb%2F6A%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLD%2FIUM9UYSnb6eikTYqzq11UvtxrpXMCqok%2BXLRPXYjzxutsN6ym30TgGhF7VlbCer7aerSeKeh6G9NZG82ILCrH1%2F9qSHxKHjR26t%2BRSoDgSXhB56TOuY1GHK1z4q7ZZercQZMPY4EA%2BXurXSSo8JFi1dva3iMwC9qk8QIULZjVg%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLCoWg6IVAzQixfuQPXeTE3OBrA50xSjZ8SZwNHsaDW82sdWHRCSTuh8DcvCmwtvrj7rXjTO7UObVC5Ow%2BQ%2FTkPFPoz6r8aI801xzGpovv%2BtBKF5YMPH3T%2F8y1G7srbovjbTPMjaKR3KVPO%2FThryS6Jq8RMhGW0GtNkBxpkhpZ4DRw%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
   },
   {
    "title": "Carte mère HP ProDesk 600 G4 SFF L05338-001 L02433-001 LGA1151 DDR4",
    "price_raw": "37.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7zu7pFbw5g6ACfcd6svupOaL1qph1HmwLAGotP14CATHD9mkPLfkLYRyNiynbLI698ncIicuMsk%2BE%2F0i3o1%2BRwqaJbCkT3O6mSuMmtL6bqiADeT6CWy5XXuCkbpiVx7KjsD1GDY%2Bn5r0YgbFenMNa7XCrIlmM3VQmXJYtIB5GOuZJA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7ztnYT8tU%2BNL9YmsGsxLztJaiHIp71RpIUccr31WgTHpMyOjlnBmuLefT5t0hZFGQJETJZD7eE2y0YEFSvNckoJmloBF1EoMumjndRULZPClxCtxkMVlZHXlsI3etJ%2BCXTdW1xM8BkTE5Il0sDTzLFFilYXs8syQ5Iecgeiu0RMS5g%3D%3D",
    "posted_at": "2026-11-20T10:48:23+00:00"
   },
   {
@@ -726,7 +733,7 @@
    "title": "Samsung RAM 8 Go (2x4 Go) DDR4 SDRAM SO-DIMM PC4-2400T M471A5244CB0",
    "price_raw": "25.19 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206716231673?_skw=ddr4&hash=item30213f5ff9:g:JuQAAeSwritrAMrn&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lhuWRHmzT17o%2Bh8ZsN20eBpMUiHq9xtfEQddU7p8YILlOEkXusMgpZ%2Bi2lEJF0JCuJVhLj%2FZkv2bg4ZWCOIkBBoqOwRr%2FLkeHk9z0HK%2BBxhQEIyhPkbuQ9nwqUpruA%2BKVk5ke8txHBkpRlwPedYvfmg6eW4MC5FdlYjVW87NS5qegMJB51I3X8dSgVFzZV9ms4R1qCLx8BZ%2FneXbvvnx89LmQvsCTJGES%2BmVR41155USsVTWNOTCFI00ILVyHx%2Fa%2FFqlUvioiioh5EEdD5cF2k",
+   "url": "https://www.ebay.fr/itm/206716231673?_skw=ddr4&hash=item30213f5ff9:g:JuQAAeSwritrAMrn&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lhuWRHmzT17o%2Bh8ZsN20eBpMUiHq9xtfEQddU7p8YILlOEkXusMgpZ%2Bi2lEJF0JCuJVhLj%2FZkv2bg4ZWCOIkBBoqOwRr%2FLkeHk9z0HK%2BBxhQEIyhPkbuQ9nwqUpruA%2BKWEgicHCvvQa0MsqQKAUKAmDq%2BifVqHsFO5QbvOcwg%2F4GYLMZzvzsnp0FjdvD%2F50qcp4b7uL5jlkitNIrOrgxKHPhdsd65rXBtwyIpeYNFcvhYbhXYrjQN3LctQBFZv3cU%2FPAfE8iSAn6%2Fa7tgybAOH",
    "posted_at": "2026-11-20T22:34:44+00:00"
   },
   {
@@ -768,7 +775,7 @@
    "title": "Dell Latitude 7300 Original Carte Mère Intel i7-8665U  LA-G861P+wifi+ventilateur",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeQkrIoACEXH8pbkKls7tXXw8Cydv5cn7mM6lIxFXyamYYR0JC5WiqYy5HFDVacEcuGULwBOX9rx%2FP10V%2Bp5WdBh8P%2Fvkmvbxj404oRQCQVO7tPKBCcfaPQ%2FUY9zJfySEYbvGyToICEUP8o2o8K%2FIPwQgfaSGD3MXji4M%2BHQ31ZHIA%3D%3D",
+   "url": "https://www.ebay.fr/itm/168552769531?_skw=carte+m%C3%A8re&hash=item273e8727fb:g:gj8AAeSw3QtqX6Qc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kp8%2FLinVXP1KW%2F4vX1AeuwSk01Udox8WnVLWFukwGM0jWRMyTu7raAFKv5thNM%2B%2BCLUxgTpLBVExNpM2k5bKlyVlTnVCahCAC3%2Fh4BOOUqT1OkmwmfuXvmcHSTu%2F4VTeQ3AF1%2FoGSWKFbuj8tjpSqmDLiaj9f96iPdmrU9sjp6wMjnisyqmNHGbVF3cHuHfSlP94rJFHFxPnSDA4MnRoV1R5z4Sz4GVUDLlFlMlfkxkZSlsP%2BsIszy5qdHfJSD16Zn2lLC%2Bhio5sL1Beul%2BkLMuW9WUFbm3Auh4aX1lIEipA%3D%3D",
    "posted_at": "2026-07-21T16:57:20+00:00"
   },
   {
@@ -826,13 +833,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pack-de-3-ventilateurs-be-quiet-light-wings-lx-140-mm-pwm-black-high-speed-ventilateur-3463706",
    "posted_at": "2026-11-20T18:28:31+00:00"
-  },
-  {
-   "title": "Ventilateur PC be quiet! Light Wings LX 140 mm PWM Black High-Speed",
-   "price_raw": "17,09€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ventilateur-pc-be-quiet-light-wings-lx-140-mm-pwm-black-high-speed-3463701",
-   "posted_at": "2026-11-20T18:24:55+00:00"
   }
  ],
  "stats": {
