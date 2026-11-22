@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T11:08:00Z",
+ "generated_at": "2026-11-22T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 356,
-   "last_ok": "2026-11-22T11:08:00.630029+00:00"
+   "items": 354,
+   "last_ok": "2026-11-22T11:38:00.620550+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 360,
-   "last_ok": "2026-11-22T11:08:00.630029+00:00"
+   "items": 355,
+   "last_ok": "2026-11-22T11:38:00.620550+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T11:08:00.630029+00:00"
+   "last_ok": "2026-11-22T11:38:00.620550+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9m9liQxInadFEIt1EXdRpDc8zDqzENIBEvrFghZ7w8zhFvZvLLys8YMs5v9pluf1wYEch0nrfxaX28kCv871XjPEJ9pJz1%2BZSkuEeY%2BCdSRDvDXiRCwEbyYH%2FSwdUojmhVrPvWj46oZlHXXPyFhIrpNiLDANyZBu94lBxBFCdNzg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BuwrGRK0qQTeHtBvbG421BI7jFafmoQgf6HbAURUDUGAWbXtbX9udXd1hrCnqKk1U3AfCr%2BaP3sVtUStSa5Azj%2BkTSA%2FvkZOBTdU7oaUX71sncjm0kTpHl66AgM4ty6WON5kP%2F3iT%2B5UJhTmsyKZl3HxgHkie4G6mK5dQLcWnTyA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyB%2FHAJON8%2BS59wE9QhHcmWFozbzMFXHmD9BborVaWE3wGF8Xvrxw3JtdrEPsWhglGWBAxiMd4Awm414xvN65yxNFCv98kkazUSnMd2puJSgzZ48zvXzLqu%2FMaaGpawEazTGPaV2UX02r67uMUWhBE8",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzYgLNNJ569JSgQwNq1oCGGzIYgYQhVMSmeUcPxqH%2FLSnTy1VFhcn9p7BzwOi149bkvbjknY4TekVtn8ki8P8E%2FBvEiqD7zLpFj8%2BX%2FIGoLNRaIsi%2B6RuXeheY56yq67LFcq8vCEjeLjNL6WaNcnG3v",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -483,23 +483,6 @@
    "posted_at": "2026-11-19T14:02:22+00:00"
   },
   {
-   "title": "8Go RAM Samsung DDR4-3200 M471A1G44CB0-CWE PC4-25600 1.2v 260Pin CL22 SODIMM PC",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 52.69,
-   "shipping_eur": 0.0,
-   "effective_eur": 52.69,
-   "median_eur": 62.89,
-   "discount_pct": 16.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docamania_fr (99,0 %, 621 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198312875383?_skw=ddr4&hash=item2e2c5e5577:g:KSsAAeSwVnNp7i7G",
-   "posted_at": "2026-04-26T15:28:12+00:00"
-  },
-  {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
    "model": "RAM:DDR4-8Go-2400",
    "category": "RAM",
@@ -535,6 +518,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Micron 8 Go DDR4 3200 MHz SO-DIMM PC4-25600 RAM PC Portable MTA8ATF1G64HZ",
+   "price_raw": "28.78 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206719754823?_skw=ddr4&hash=item3021752247:g:8SwAAeSwU4trAtJa",
+   "posted_at": "2026-11-22T11:32:02+00:00"
+  },
+  {
+   "title": "Micron 16 Go DDR4 3200 MHz SO-DIMM PC4-25600 RAM PC Portable MTA8ATF2G64HZ",
+   "price_raw": "56.86 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206719738022?_skw=ddr4&hash=item302174e0a6:g:--8AAeSwPrRrAtEk",
+   "posted_at": "2026-11-22T11:27:04+00:00"
+  },
   {
    "title": "Tablette 13\" Apple iPad Pro - M4, 2 To, Argent Wi-Fi, Nano-texturé, 7ème génération 2024",
    "price_raw": "1 769,99€",
@@ -648,13 +645,6 @@
    "posted_at": "2026-11-22T07:19:21+00:00"
   },
   {
-   "title": "Carte graphique Gigabyte GV-N460OC-1GI",
-   "price_raw": "24.62 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/317863231212?_skw=carte+graphique&hash=item4a021ffeec:g:XXkAAeSwziJpiwg6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mZj9JYPu8UojTYH0QafA1oJ7vTx76Ba%2FwJurpZTKL2YzpXFHvBa7j4HStLi%2Bsqw2ZUzgwnddo5%2BgCR5EV6qnyvoVLdBVy7eLcCorb3gpdvj2anOE4cFx38X2Yf%2BOAxRhMkuNuJ%2BOxW8rdVuPoLUtY2w52H8oCdaCIS9zB4dNfnIvquH1D80W%2B9EOPU8XVhrDUGIC%2F3KBOhuI7wRySdXhHYHufQPlqk1w7jEVUvxGkn%2F%2BEMcIARDZGti6%2BYnTyI35vTgnhix2AAbnveNpf9iqNZaTgnNH%2BJ%2B%2BQBCJbIp0B7Vg%3D%3D",
-   "posted_at": "2026-02-10T10:30:55+00:00"
-  },
-  {
    "title": "RAM SK Hynix 8GB DDR4 So-Dimm PC4-3200",
    "price_raw": "42.30 EUR",
    "source": "ebay",
@@ -700,7 +690,7 @@
    "title": "Alimentation Pc ASTEC SA147-3520",
    "price_raw": "12.94 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/275040591484?_skw=alimentation+pc&hash=item4009b25e7c:g:mREAAOSw8Mphnxfg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kL0Rj8OxuluDU%2Fc5zbS%2BjwzTFgdHG0P8r3zkoLsvN36KQQKG2TSCgn6xXIyqBnigAqhdMYL5ucwPHjmdIPV2ElE2bp8xXMBAegUHEsg6omF7L6Azmi3oC5j%2B%2BNEIVsVZ2m%2BCVqtZzCPQcyieaibtVNtt2AMnPqH3pYc9tjDkIXQjSsXjkvJVc1fKlTZIinB0tMXtsaralGAMCu5Yw8AaKKv%2FXFn%2Bc4SBMvLhJ45p8NgALKI4DNjADI6PQlWQ%2Fj57NXkTV%2BJ8W4wfHY90nzn0shTpiZh%2BRLI66gpiJyw%2FuMIQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/275040591484?_skw=alimentation+pc&hash=item4009b25e7c:g:mREAAOSw8Mphnxfg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kL0Rj8OxuluDU%2Fc5zbS%2BjwzTFgdHG0P8r3zkoLsvN36KQQKG2TSCgn6xXIyqBnigAqhdMYL5ucwPHjmdIPV2ElE2bp8xXMBAegUHEsg6omF7L6Azmi3oC5j%2B%2BNEIVsVZ19CEMW%2BKmXHG%2BbVs1G5AgV5XXsyHmQfz4rtvGf5vwzO%2BiQI5LTtZf3nrxrpMEQrv9vpkGUi%2BqIRvYz6b5%2FF%2Fg%2BLBUh4J0jn5BTPN92Rc72YSCgaszrzUMD09yxzBuHbF2jSBjbzlo2gkyglM9fVyCMlU8Ain2ZM49EDmQuE%2BK5Lg%3D%3D",
    "posted_at": "2021-11-26T04:58:36+00:00"
   },
   {
@@ -784,7 +774,7 @@
    "title": "Carte Mère DELL 05XGC8 SOCKET LGA1151 2x DDR3 PCIe Pour Optiplex 3040 SFF",
    "price_raw": "34.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227625175319?_skw=carte+m%C3%A8re&hash=item34ff848917:g:Wh8AAeSwhuBrAgtw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m%2FRl1KmftAyTmokUkmgIDOn0jvwmyI9wDuePtTogDeA%2FvzyRbcG2oaSqwRnXmVEZipiPRqE0%2B1YWT33W%2BJJFE024vy0JbLJpEQ%2Fubpn6Q5cxfK4miXswuEuaRKchXe1V4iVtFeJgEkRrB8h3KsqKfwO6aqdLt30%2FvFbv%2Bq9fX0pVqFMKd%2BtDsF5trM4dVfhO2sFO%2FzoLAzV5EqzYmb80yeCdvBoGp9uNaCOX6XOiESqgmzl6I1WT1LNhHGNzzKlPReHoXqs6hljdfc96nXed99SQJVF7lrj96reLsbuzpo3g%3D%3D",
+   "url": "https://www.ebay.fr/itm/227625175319?_skw=carte+m%C3%A8re&hash=item34ff848917:g:Wh8AAeSwhuBrAgtw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m%2FRl1KmftAyTmokUkmgIDOn0jvwmyI9wDuePtTogDeA%2FvzyRbcG2oaSqwRnXmVEZipiPRqE0%2B1YWT33W%2BJJFE024vy0JbLJpEQ%2Fubpn6Q5cxfK4miXswuEuaRKchXe1V5DAaMeldpbPHGoVnbMicCaG2DFnMFXsE6dwiEoYsPeUbpDQyAo7rl97wB9BZY2sAwGPGdKKDCq7GPxiH4wHrAcV9Jetfk4WXUP3GyfsDyMaR5a6PIBTmJ0Gktj1cUOK%2FbZ4aj4lGrMK%2BpqBtLFb93Xl2%2B%2FzxqM%2F0Xy0wwoVS5eIA%3D%3D",
    "posted_at": "2026-11-21T21:25:18+00:00"
   },
   {
@@ -793,13 +783,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-be-quiet-pure-base-501-airflow-noir-3464763",
    "posted_at": "2026-11-21T20:24:12+00:00"
-  },
-  {
-   "title": "GIGABYTE  GeForce GT 1030 OC 2Go GDDR5 Carte Graphique (GV-N1030OC-2GI)",
-   "price_raw": "52.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227625102579?_skw=carte+graphique&hash=item34ff836cf3:g:rTkAAeSwCP1rAfsj",
-   "posted_at": "2026-11-21T20:19:45+00:00"
   },
   {
    "title": "PC portable 14'' OLED Lenovo Ideapad Slim 3 - Intel Core 3 304, 8Go RAM, 256Go SSD, Windows 11 Home, Clavier rétroéclairé (Sans chargeur)",
