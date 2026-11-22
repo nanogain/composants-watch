@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T15:08:00Z",
+ "generated_at": "2026-11-22T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-22T15:08:00.620946+00:00"
+   "items": 352,
+   "last_ok": "2026-11-22T15:38:00.681563+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 358,
-   "last_ok": "2026-11-22T15:08:00.620946+00:00"
+   "last_ok": "2026-11-22T15:38:00.681563+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T15:08:00.620946+00:00"
+   "last_ok": "2026-11-22T15:38:00.681563+00:00"
   }
  },
  "watchlist": [
@@ -40,6 +40,23 @@
   }
  ],
  "opportunities": [
+  {
+   "title": "Carte mère Gigabyte Z390 UD - Socket LGA 1151 - Complète avec boîte d'origine",
+   "model": "MB:Z390",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 63.1,
+   "shipping_eur": 4.58,
+   "effective_eur": 67.68,
+   "median_eur": 169.0,
+   "discount_pct": 60.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · rhadamanthe44 (100,0 %, 97 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198815786817?_skw=carte+m%C3%A8re&hash=item2e4a582741:g:5OAAAeSwBQprAwk6",
+   "posted_at": "2026-11-22T15:34:45+00:00"
+  },
   {
    "title": "Carte mère Gigabyte B860M E - Micro-ATX, Socket LGA 1851, Intel Core Ultra Série 2, DDR5 8800 MHz (OC), 2× M.2 PCIe 4.0",
    "model": "MB:B860",
@@ -126,23 +143,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "[Prime] SSD interne 2.5\" Netac N530S - 2 To (vendeur tiers)",
    "model": "SSD:NVMe-2To",
    "category": "SSD",
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BZ0Ne5Tv7Vg1U30RsvckF2fOUYOp7ZM7DPrxy2mmGPdYV6wvi8qiNYfaAxKbXjVlXr2kUbUSMOIEYgJkUOsJ8bx2pxPlC5TsoXGXgphw617bpa0bw1ghtvoHCQe0R7mORlhAxz1jeyzAarqxBDfxwoS9BFLF1N3dKSAXLUPfrPqg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Qcpvft%2BU45Wh2bQ9K%2B4UEXu0YILOEUJOdZ19y%2BFl97DsuEzK7bApl7lwrp53VCr14Ss9TIN4JviXE5dlAOz6FFhJ7DLx8Qfl5N4CEDO%2BDMMUaTi27LB9o56hzGOPRFN4xWegRho4szkODjEVon%2BKywWOojXew%2BNeUXKhNK5kM2A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyPQifOulrT1a81Fx7QA%2Bgeb0JvHT%2FrOaSfUNItcDLVWiRNTpz0LHGHnTN6lOO%2BFk960vh3EpZZ69loS8Ajidm5M0ajlgvQ%2BlZcZkhaSUQmXxNZHmEECFKndKKXkIIyQzQM3r1VhHmFdfk1JGN0OsMX",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwFldQiCSZnO6vsA%2B2kOG3yArYjITwSzxcgmzzTc8KlkmjFxPH5KSzhJYywc1FsVffsb5M7dVBkP2JJ%2FbFeHC%2FwQF2Z%2BJjqEBI5ns8VsyuJuuh3LiMVBlJRfrQyDqqCrWkIvsCmmbAarsOSoAzO9TEF",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -587,6 +587,48 @@
  ],
  "unclassified": [
   {
+   "title": "Imprimante Brother DCP-J1360DW à Jet d'encre compacte sans Fil 3-en-1",
+   "price_raw": "54,94€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-brother-dcp-j1360dw-a-jet-dencre-compacte-sans-fil-3-en-1-3465400",
+   "posted_at": "2026-11-22T15:21:59+00:00"
+  },
+  {
+   "title": "Souris Ergonomique Sans Fil Logitech Mx - Vertical, Noir",
+   "price_raw": "44,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-ergonomique-sans-fil-logitech-mx-vertical-bluetooth-ou-recepteur-usb-4000-ppp-4-boutons-charge-rapide-pcmacipad-os-graphite-3465396",
+   "posted_at": "2026-11-22T15:21:09+00:00"
+  },
+  {
+   "title": "Souris sans fil Logitech Lift Ergonomique Verticale - Bluetooth ou USB, Silencieuse, 4 boutons, Gris",
+   "price_raw": "39,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-ergonomique-verticale-sans-fil-logitech-lift-bluetooth-ou-logi-bolt-silencieuse-4-boutons-windowsmacos-gris-3465391",
+   "posted_at": "2026-11-22T15:18:10+00:00"
+  },
+  {
+   "title": "Serveur NAS Ugreen NASync DXP480T Plus - 4 Baies M.2 NVMe, Intel Core i5 (12e Gén), Port 10 GbE, Wi-Fi 6, Gris",
+   "price_raw": "659,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/serveur-nas-ugreen-nasync-dxp480t-plus-4-baies-m2-nvme-intel-core-i5-12e-gen-port-10-gbe-wi-fi-6-gris-3465380",
+   "posted_at": "2026-11-22T15:08:37+00:00"
+  },
+  {
+   "title": "Disque SSD de 500G 2.5\" - Samsung 860 EVO SATA",
+   "price_raw": "41.26 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227626293707?_skw=ssd&hash=item34ff9599cb:g:CiQAAeSwRHlq8KuW",
+   "posted_at": "2026-11-22T15:29:02+00:00"
+  },
+  {
+   "title": "Intel DX79TO Carte Mère ATX X79 Express 8 Slots DDR3 LGA2011",
+   "price_raw": "59.75 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960227133644?_skw=carte+m%C3%A8re&hash=itemdf91ff48cc:g:m2gAAeSwt8hoiIsd",
+   "posted_at": "2026-11-21T22:12:08+00:00"
+  },
+  {
    "title": "Souris sans fil Apple Magic Mouse - Surface Multi‑Touch",
    "price_raw": "35,20€",
    "source": "dealabs",
@@ -650,13 +692,6 @@
    "posted_at": "2026-11-22T12:07:38+00:00"
   },
   {
-   "title": "Moniteur Écran PC MSI PRO MP251W E2 24,5 IPS FHD 120Hz HDMI DP VGA",
-   "price_raw": "311.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960227776903?_skw=%C3%A9cran+pc&hash=itemdf92091987:g:HucAAeSwCZFrAk6p",
-   "posted_at": "2026-11-22T02:09:48+00:00"
-  },
-  {
    "title": "Micron 8 Go DDR4 3200 MHz SO-DIMM PC4-25600 RAM PC Portable MTA8ATF1G64HZ",
    "price_raw": "28.78 EUR",
    "source": "ebay",
@@ -716,7 +751,7 @@
    "title": "Carte Graphique Nvidia MSI GeForce GTX 1660 Ti Ventus XS 6G OC",
    "price_raw": "109.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2FgthzepqYlteeEqabJs1Bgy5WRFICo77WENAtBM3Up0DHfPzR5d0ML7G3bQJPh1NH5FbIct0VEMCI3hKn%2F1jQW11XH%2FDfd5zUYr07xV8ptJz61D1bqiroRtxgA%2FnTIU5Ks%2BhGS8FEXvKOO1MYOiN8YdEC9NlV3y9sY0XIAYhGNgVYvmqw%3D%3D",
+   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2Fgthzfa9lcvmzhFT%2FpXKTHdGbfzGOGoowwcokKHgU0QkSZY%2FDdYU79k5Ao2dEVe%2FOhQ%2FsZrkh%2Fd1o3TPS1LAs3QpeONsF0hEzhuX3Pc5mzBtjr5YdT%2FgpoTwOYuZVuMqty8t6aE%2BG4So19r7%2BwZ5jVQP8a3F7mJi9zcz%2B%2B%2BWA9x6SkXMQ%3D%3D",
    "posted_at": "2026-11-22T09:15:53+00:00"
   },
   {
@@ -891,7 +926,7 @@
    "title": "Carte Mère DELL 05XGC8 SOCKET LGA1151 2x DDR3 PCIe Pour Optiplex 3040 SFF",
    "price_raw": "34.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227625175319?_skw=carte+m%C3%A8re&hash=item34ff848917:g:Wh8AAeSwhuBrAgtw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m%2FRl1KmftAyTmokUkmgIDOn0jvwmyI9wDuePtTogDeA%2FvzyRbcG2oaSqwRnXmVEZipiPRqE0%2B1YWT33W%2BJJFE024vy0JbLJpEQ%2Fubpn6Q5cxfK4miXswuEuaRKchXe1V4iOJgULZZf6z9No7XlwC8raT9ht4kzeLsdAblE16tEJUimaokECFuxEnqSfVuj3QDp6Dzqfgl0mZjt5of%2F4KbrrSVJYbO3gdBGzpL8P1Yq0y5IWwsQYIB2NlpXc7%2FsUbjwCtTFdjFZI4X4tkjXEXeI7xQR95%2Bc%2B71%2ByKsOJb8jgQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/227625175319?_skw=carte+m%C3%A8re&hash=item34ff848917:g:Wh8AAeSwhuBrAgtw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m%2FRl1KmftAyTmokUkmgIDOn0jvwmyI9wDuePtTogDeA%2FvzyRbcG2oaSqwRnXmVEZipiPRqE0%2B1YWT33W%2BJJFE024vy0JbLJpEQ%2Fubpn6Q5cxfK4miXswuEuaRKchXe1V7omBxdcRH7DRUEH40Rwqa%2B9ZnbBp6CfvDTPfR4eoG5q0ZLqnP8ozqfCpvS7KKL%2F5CXN7iIFpaYFFla8Q7%2FL6BPZ6juRCHISphkitJdkFE8oc884vu17ThvL2QC5lYCOOHF%2BfRsHA2HFRqTzk19RF7DHYg4o5wFvn7gRsk89yFiDA%3D%3D",
    "posted_at": "2026-11-21T21:25:18+00:00"
   },
   {
@@ -900,45 +935,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/boitier-pc-be-quiet-pure-base-501-airflow-noir-3464763",
    "posted_at": "2026-11-21T20:24:12+00:00"
-  },
-  {
-   "title": "PC portable 14'' OLED Lenovo Ideapad Slim 3 - Intel Core 3 304, 8Go RAM, 256Go SSD, Windows 11 Home, Clavier rétroéclairé (Sans chargeur)",
-   "price_raw": "479,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-oled-lenovo-ideapad-slim-3-intel-core-3-304-8go-ram-256go-ssd-windows-11-home-clavier-retroeclaire-sans-chargeur-3464742",
-   "posted_at": "2026-11-21T19:56:21+00:00"
-  },
-  {
-   "title": "GIGABYTE GA-B85M-D3H REV 1.1 LGA 1150 M-ATX 4è gén Core i DDR3 + plaque arrière",
-   "price_raw": "69.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/178521540942?_skw=carte+m%C3%A8re&hash=item2990b6894e:g:A7kAAeSwUtBqs~qS",
-   "posted_at": "2026-09-23T11:41:01+00:00"
-  },
-  {
-   "title": "PC Portable Microsoft Surface Laptop 13\" Copilot+PC Snapdragon X Plus, 8 Go RAM, 256 Go Écran Tactile - Platine",
-   "price_raw": "599,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/microsoft-surface-laptop-13-ecran-tactile-copilotpc-snapdragon-x-plus-8-go-ram-256-go-ssd-platine-3464719",
-   "posted_at": "2026-11-21T19:11:10+00:00"
-  },
-  {
-   "title": "[Adhérents] 10% de remise immédiate sur les PC portables, PC de bureau et tablettes (hors PC Gaming & marque Apple)",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/codes-promo/adherents-10-de-remise-immediate-sur-les-pc-portables-pc-de-bureau-et-tablettes-hors-pc-gaming-marque-apple-3463283",
-   "posted_at": "2026-11-21T19:00:00+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast DDR5 - 8 Go (1 x 8 Go) - 5600 MT/s C36 - AMD EXPO - Noir",
-   "price_raw": "261.59 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336909362386?_skw=ddr5&hash=item4e715ce4d2:g:0t4AAeSw109rAeVg",
-   "posted_at": "2026-11-21T18:39:24+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2109,
-  "models_with_reference": 72
+  "listings_seen": 2106,
+  "models_with_reference": 73
  }
 }
