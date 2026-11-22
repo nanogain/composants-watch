@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T12:38:00Z",
+ "generated_at": "2026-11-22T13:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 353,
-   "last_ok": "2026-11-22T12:38:00.677160+00:00"
+   "last_ok": "2026-11-22T13:08:00.676906+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 357,
-   "last_ok": "2026-11-22T12:38:00.677160+00:00"
+   "items": 354,
+   "last_ok": "2026-11-22T13:08:00.676906+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T12:38:00.677160+00:00"
+   "last_ok": "2026-11-22T13:08:00.676906+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B88Jf%2BT%2FWcwLy1wcMLmm6AKZo4VP%2B3PAT7CcmzmDxp9ue0CmtddXUu89BMgqSBycUuWxEtwAJzcI6euiVXn4hRWmFTG4zn4uoeqgN7tN%2FzisVzbDQYB8SwOIBajnTPT8mLrtCl8sD2%2BSmaa12hvmJsgRot6SjhcrQ8OuaM9uDI60Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FJ7gWLv5qja6AmRQ1NRt%2BUiZICAsNTSs58MZnSDsQlut1Fhg%2FlhbXxK5TTis3B49ukhouSYRfmZnQIh1ksMtknONPUYqUtn4J1ro0yvDe%2FBlpabQ9NZDOUrzRCAQ%2BWwzMgyXoG734h%2FcNnB5um78u9w5UT%2F5nCYKuCGH6rFPqvTg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwGr%2BxQ1XYKkiHewCYe7JYoSdCmYrdgfjut4d%2FZRCZk0hsTbJhFCyXPiZLwI%2FBNe2yu2VYMMFq7cBZIi3T6Ht41OyZPvw6EFItpZkrvsZ3TGhhURnXq1aF5gYzuiIGLd7UnD8Vt3sLVcNzRZVQYJK3Z",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwKWHV26ml5g6KNF%2FahmxxaEfWyXBBYV10MpPfeBkCXP7MtCcTPAij%2F9vPbWCh8UVYBlGf7RHyJJT6JJ60mxNb%2F1yDeSWzt0IhThCs3LdfktIhUE3t%2F4%2BBnhnpFS7rj9CFglGamnpDB5QjjV5%2FH%2B5rs",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -553,7 +553,28 @@
  ],
  "unclassified": [
   {
-   "title": "MacBook Air M5 13,6” – 24 Go RAM / 1 To SSD à 1 749 € + 262,35 € en cagnotte",
+   "title": "[Macif] PC Portable 16\" HyperX Omen Max 16-ah1013nf - Ultra 7 270HX, RTX 5070 TI, 16 Go RAM, 1 To SSD, Sans OS",
+   "price_raw": "1 779,05€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/macif-pc-portable-16-hyperx-omen-max-16-ah1013nf-ultra-7-270hx-rtx-5070-ti-16-go-ram-1-to-ssd-sans-os-3465282",
+   "posted_at": "2026-11-22T12:39:00+00:00"
+  },
+  {
+   "title": "Mini PC TERRAMASTER F4-425 Pro - Intel N305/N300 8 cœurs, 8 Go de RAM, sans disque (Vendeur tiers)",
+   "price_raw": "591,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/terramaster-f4-425-pro-intel-n305n300-8-coeurs-8-go-de-ram-sans-disque-3465279",
+   "posted_at": "2026-11-22T12:35:49+00:00"
+  },
+  {
+   "title": "carte graphique amd radeon pro wx 3100",
+   "price_raw": "69.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800767201873?_skw=carte+graphique&hash=itemba7171d251:g:SO0AAeSwzZpqxdfG",
+   "posted_at": "2026-10-07T05:28:51+00:00"
+  },
+  {
+   "title": "MacBook Air M5 13,6” – 24 Go RAM, 1 To SSD (via cagnotte)",
    "price_raw": "1 486,65€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/macbook-air-puce-m5-24go-ram-1to-3465277",
@@ -565,6 +586,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pack-fnac-pc-portable-acer-aspire-go-14-ag14-72p-58az-intel-core-5-3465267",
    "posted_at": "2026-11-22T12:07:38+00:00"
+  },
+  {
+   "title": "Moniteur Écran PC MSI PRO MP251W E2 24,5 IPS FHD 120Hz HDMI DP VGA",
+   "price_raw": "311.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960227776903?_skw=%C3%A9cran+pc&hash=itemdf92091987:g:HucAAeSwCZFrAk6p",
+   "posted_at": "2026-11-22T02:09:48+00:00"
   },
   {
    "title": "Micron 8 Go DDR4 3200 MHz SO-DIMM PC4-25600 RAM PC Portable MTA8ATF1G64HZ",
@@ -616,13 +644,6 @@
    "posted_at": "2026-11-22T09:45:20+00:00"
   },
   {
-   "title": "Noctua NH-D15 Ventirad CPU Double Tour Silencieux 2x NF-A15 140mm",
-   "price_raw": "175.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287659117661?_skw=ventirad&hash=item42f9d1cc5d:g:uR4AAeSw2VBq1m8W&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lk4XOYDQxT1fu8gy1tsEoYxwCgFcYmEzFIw4gemS%2FwyM351qky4Z6hQeWO2IU0%2BJ1uBydjBsjGfada2yAaead960y8C4OD%2BnfIyquP3lj71BUKAXhcrRuQXRh8F8FRpvVFvny0ZYnWeluGcjEQPOgCdre2Kuyw9%2BNxe0gxWSM9AKDzaFQvefrEI7Q4BR5d1b%2Fex59F6y5NGvTzopcMVOqILEtxUXNOee5zpkKI2%2B7cL4AskI7UYrCiKHWDkklk%2FBBCJ1qQ8adRDdpL78PfioSqNIr4Bgmvy01HkwKp75rElg%3D%3D",
-   "posted_at": "2026-10-19T19:27:30+00:00"
-  },
-  {
    "title": "Carte graphique ASUS Intel Arc Pro B70 – 32 Go, GDDR6 ECC, inférence IA locale",
    "price_raw": "1 749,99€",
    "source": "dealabs",
@@ -640,7 +661,7 @@
    "title": "Carte Graphique Nvidia MSI GeForce GTX 1660 Ti Ventus XS 6G OC",
    "price_raw": "109.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR",
+   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2FgthzeqB5UDxoTdhnhXBZzdAU8nEEhlongdqJQlq2R%2Bmu6gn6IAE%2B7EVZ9s%2BTmatdszcMmYB2wOZnMXn%2BD1A%2F04OA9nEYjm82NAkY4SBDMkM9ElFQWzmpw%2FCrWznaU62vnnkFOKNF5kr6CNvatknpu6wkVx34JIQ4PI4JcD4bOG90%2Fn3w%3D%3D",
    "posted_at": "2026-11-22T09:15:53+00:00"
   },
   {
@@ -656,13 +677,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-14-apple-macbook-pro-puce-m5-16-go-ram-1-to-ssd-via-32985-eur-cagnottes-3465051",
    "posted_at": "2026-11-22T08:37:54+00:00"
-  },
-  {
-   "title": "Apple MacBook Air 13 pouces PC Portable M5 : Conçu pour l’IA, Écran Liquid Retina Mémoire unifiée 16 Go, SSD 512 Go,Lumière stellaire",
-   "price_raw": "1 099€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-pouces-pc-portable-m5-concu-pour-lia-ecran-liquid-retina-memoire-unifiee-16-go-ssd-512-golumiere-stellaire-3465033",
-   "posted_at": "2026-11-22T08:24:48+00:00"
   },
   {
    "title": "Mini PC Soyo M5, Ryzen 3 4300U, 16 Go LPDDR4-4266, SSD 512 Go, triple screen, Wifi 5 & BT 5.0, Windows 11 Pro",
@@ -700,13 +714,6 @@
    "posted_at": "2026-11-22T07:19:21+00:00"
   },
   {
-   "title": "RAM SK Hynix 8GB DDR4 So-Dimm PC4-3200",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117535417725?_skw=ddr4&hash=item1b5da8257d:g:~mYAAeSwIIRrApRa",
-   "posted_at": "2026-11-22T07:07:15+00:00"
-  },
-  {
    "title": "PC portable 15\" Macbook Air - M5, 512Go (via 224,85 € cagnottés)",
    "price_raw": "1 274,15€",
    "source": "dealabs",
@@ -740,13 +747,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonctions-epson-wf-2935dwf-3464933",
    "posted_at": "2026-11-22T04:40:36+00:00"
-  },
-  {
-   "title": "Alimentation Pc ASTEC SA147-3520",
-   "price_raw": "12.94 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/275040591484?_skw=alimentation+pc&hash=item4009b25e7c:g:mREAAOSw8Mphnxfg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kL0Rj8OxuluDU%2Fc5zbS%2BjwzTFgdHG0P8r3zkoLsvN36KQQKG2TSCgn6xXIyqBnigAqhdMYL5ucwPHjmdIPV2ElE2bp8xXMBAegUHEsg6omF7L6Azmi3oC5j%2B%2BNEIVsVZ0J8xNAMhaFgiGCRvQvQwgLR7wQdzxj5%2FcaQpC2W5sossTNIDMa4RTQRM%2FlyNWS1JtkplSp9lNYP3OynzsAxmRDZRndC0ktvbqlH3QXkgoYSVYEY3jTiX%2FQFgYAem7i8jdU6WGy%2BVY%2BmzPGsbqQacE850bgqhA%2BkU%2FI9GjbT4XKNQ%3D%3D",
-   "posted_at": "2021-11-26T04:58:36+00:00"
   },
   {
    "title": "PC Portable 18\" ASUS ROG Strix G18 STRIX-G18-G815LR-TT281W - Intel Core Ultra 9 290HX, 16 Go RAM, 1 To SSD, RTX 5070 Ti, W11, AZERTY",
@@ -836,7 +836,7 @@
    "title": "Carte Mère DELL 05XGC8 SOCKET LGA1151 2x DDR3 PCIe Pour Optiplex 3040 SFF",
    "price_raw": "34.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227625175319?_skw=carte+m%C3%A8re&hash=item34ff848917:g:Wh8AAeSwhuBrAgtw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m%2FRl1KmftAyTmokUkmgIDOn0jvwmyI9wDuePtTogDeA%2FvzyRbcG2oaSqwRnXmVEZipiPRqE0%2B1YWT33W%2BJJFE024vy0JbLJpEQ%2Fubpn6Q5cxfK4miXswuEuaRKchXe1V5oaSMbigV22cPI2szyKO8lsYzE%2FFhZZygSS6tsYvyHN%2FrLv7w0LbyLybBwwuR2pug88lvmjsFQPdOB2%2Fg%2BYvFfHvcr%2FReSQ24c61mMTxmGNN51UBinsZ3enV55SWDkHWemDCuNe%2FU2QJdqSzMs5eXbYo%2BTYnbkqsUTTrCA47pkPw%3D%3D",
+   "url": "https://www.ebay.fr/itm/227625175319?_skw=carte+m%C3%A8re&hash=item34ff848917:g:Wh8AAeSwhuBrAgtw&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m%2FRl1KmftAyTmokUkmgIDOn0jvwmyI9wDuePtTogDeA%2FvzyRbcG2oaSqwRnXmVEZipiPRqE0%2B1YWT33W%2BJJFE024vy0JbLJpEQ%2Fubpn6Q5cxfK4miXswuEuaRKchXe1V6TRHh%2F9KXIgpUhn6uvNo3doogvNyakmn8z%2BFp1qEO7lGZwCP5R4KjJqhp7f%2FHxWGliE89I3Kna3pyYTkf%2B4J0lqh%2BvxFMRuVgc6Rr5I1KxxFf9UhCPsLTUjl11QylwpaOQNJz5rG9%2BeGTVU8ooewE%2BOQuBuswcynqZN8fRY5rkYg%3D%3D",
    "posted_at": "2026-11-21T21:25:18+00:00"
   },
   {
@@ -904,7 +904,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2117,
-  "models_with_reference": 72
+  "listings_seen": 2116,
+  "models_with_reference": 71
  }
 }
