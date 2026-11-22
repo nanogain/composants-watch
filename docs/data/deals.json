@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T18:08:00Z",
+ "generated_at": "2026-11-22T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 352,
-   "last_ok": "2026-11-22T18:08:00.676771+00:00"
+   "last_ok": "2026-11-22T18:38:00.768477+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 359,
-   "last_ok": "2026-11-22T18:08:00.676771+00:00"
+   "items": 356,
+   "last_ok": "2026-11-22T18:38:00.768477+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T18:08:00.676771+00:00"
+   "last_ok": "2026-11-22T18:38:00.768477+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8JnWpgfI3%2FxokGSpmfxuvoJ40ZsAmOzl8MwZaJCRjwe3HDvDgo%2ByOIaHOz3DjJ9yp2JBnCtFm8kySAik41DMSQUIcccQh6XKaKA137QZfC%2Fz7z46KIDvExTgB%2FMMJ0NJl0HkHTAgFH2EtfXzmCjHyNgCVcCkxldIhr%2Br1gVUFv8w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FMaz7yzWGc3vMpsyRpeM6iTUPY5av6Nmy%2Fm1TqYbDrA9uIhXEpSgkGiZaRXy7DoDO2KoepROh13ygino2hqC7f1KcLoGoycCBHLkTLzzmkGrRwhvbCJj4jHtE6XpSdifOjtrvR3QpRgh8UeEm4hy1Wb3IQzDVaOeqKc4TDl6qt3w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxguakXKaz2fobq78rp2tdJ9iLiKveMWLxi9lXoBzX4K12QZQqk89vndT3c%2FqVXEyb2TYqXIph%2BKz8gztLdJ61kSTI8iE69AFjxH0mXr%2FKx3%2Ff2RdbDZ9fNvRRcz2gRuZO955gO%2BIBMu%2B0uzmFm4IJl",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwkxmSYSev29PF8dPok6qJocpDsDIyORc94O0IEFqNKUGgxY24r%2BnMW%2BCTZxHV2ZQ5U8FPuIRrrH2kn0Ek5iRUlfWeka%2BHJzR60eDxsTmGZ6n2lCSVRcnQVxn4sA1lGGXLzYw%2FQoZQjinyT75hbLTkD",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -307,7 +307,7 @@
    "discount_pct": 25.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 229 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 230 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -477,7 +477,7 @@
    "discount_pct": 17.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 229 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 230 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206717942544?_skw=ssd&hash=item3021597b10:g:Y1QAAeSw~VprAcZJ",
    "posted_at": "2026-11-21T16:28:14+00:00"
@@ -562,7 +562,7 @@
    "discount_pct": 15.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 229 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 230 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206717905546?_skw=ssd&hash=item302158ea8a:g:TmAAAeSwv0lrAcCG",
    "posted_at": "2026-11-21T16:03:41+00:00"
@@ -587,6 +587,13 @@
  ],
  "unclassified": [
   {
+   "title": "PC portable 14\" Samsung Galaxy Book6 - Intel Core Ultra 5, Mémoire 16 Go RAM, 512 Go SSD, Écran IPS, Anthracite",
+   "price_raw": "899€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-samsung-galaxy-book-6-3465536",
+   "posted_at": "2026-11-22T18:32:17+00:00"
+  },
+  {
    "title": "PC portable Alienware Area 51RTX 5080",
    "price_raw": "1 512,83€",
    "source": "dealabs",
@@ -594,25 +601,18 @@
    "posted_at": "2026-11-22T18:07:50+00:00"
   },
   {
-   "title": "Apple MacBook Pro avec écran PROLED XDR de 14,2 pouces, puce M5 Pro",
+   "title": "PC Portable Apple MacBook Pro avec écran PROLED XDR de 14,2 pouces, puce M5 Pro (via remise au panier)",
    "price_raw": "3 199€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-avec-ecran-proled-xdr-de-142-pouces-puce-m5-pro-3465506",
    "posted_at": "2026-11-22T18:02:35+00:00"
   },
   {
-   "title": "Écran d'accueil LENOVO USB-C DQHD incurvé de 49\" ThinkVision P49w-30",
+   "title": "Écran d'accueil 49\" Lenovo USB-C DQHD incurvé de ThinkVision P49W-30",
    "price_raw": "1 079,10€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-daccueil-lenovo-usb-c-dqhd-incurve-de-49-thinkvision-p49w-30-3465514",
    "posted_at": "2026-11-22T18:08:08+00:00"
-  },
-  {
-   "title": "Pamięć RAM Kingston Fury Beast RGB EXPO DDR5 32 Go 6400 MT/s CL32 DIMM",
-   "price_raw": "920.25 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407381651397?_skw=ddr5&hash=item5ed9d6afc5:g:7bkAAeSwta1rAy6V",
-   "posted_at": "2026-11-22T18:04:03+00:00"
   },
   {
    "title": "Imprimante Anycubic Kobra S1 ACE 2 Pro Combo",
@@ -741,11 +741,11 @@
    "posted_at": "2026-11-22T12:07:38+00:00"
   },
   {
-   "title": "Micron 8 Go DDR4 3200 MHz SO-DIMM PC4-25600 RAM PC Portable MTA8ATF1G64HZ",
-   "price_raw": "28.78 EUR",
+   "title": "Micron 16 Go DDR4 3200 MHz SO-DIMM PC4-25600 RAM PC Portable MTA8ATF2G64HZ",
+   "price_raw": "56.86 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206719754823?_skw=ddr4&hash=item3021752247:g:8SwAAeSwU4trAtJa",
-   "posted_at": "2026-11-22T11:32:02+00:00"
+   "url": "https://www.ebay.fr/itm/206719738022?_skw=ddr4&hash=item302174e0a6:g:--8AAeSwPrRrAtEk",
+   "posted_at": "2026-11-22T11:27:04+00:00"
   },
   {
    "title": "Tablette 13\" Apple iPad Pro - M4, 2 To, Argent Wi-Fi, Nano-texturé, 7ème génération 2024",
@@ -776,6 +776,13 @@
    "posted_at": "2026-11-22T09:45:20+00:00"
   },
   {
+   "title": "Noctua NH-D15 Ventirad CPU Double Tour Silencieux 2x NF-A15 140mm",
+   "price_raw": "175.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287659117661?_skw=ventirad&hash=item42f9d1cc5d:g:uR4AAeSw2VBq1m8W&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lk4XOYDQxT1fu8gy1tsEoYxwCgFcYmEzFIw4gemS%2FwyM351qky4Z6hQeWO2IU0%2BJ1uBydjBsjGfada2yAaead960y8C4OD%2BnfIyquP3lj71BUKAXhcrRuQXRh8F8FRpvWYa9N%2F2PvUnxCXCQz4tfn34ER5b2lDLusejtf4hAFO8EytVJZRiRMaA9DFxTorrP2FfCjSPutIuWbdNRe8aBcfDGsSPegNxowFsrp7LU%2FTVZ%2FDAS4myTVLUNMPqYwu9A8Ng%2FK5O5uQJZsIB%2BNVHr6IELHqvyLK7u3HV7jqWuSZNg%3D%3D",
+   "posted_at": "2026-10-19T19:27:30+00:00"
+  },
+  {
    "title": "Carte graphique ASUS Intel Arc Pro B70 – 32 Go, GDDR6 ECC, inférence IA locale",
    "price_raw": "1 749,99€",
    "source": "dealabs",
@@ -793,7 +800,7 @@
    "title": "Carte Graphique Nvidia MSI GeForce GTX 1660 Ti Ventus XS 6G OC",
    "price_raw": "109.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2Fgthzfioei4RlMopzJtQLKHq3UoYfyJxKwGFZvOULRYeSuvYaOy1j5JLggeMBh4gbducvJOwVzbz0DC7ZVomxwXesdGa6zFAtL6MgJ0CJy%2BbmfmVki7LAkMDa0ZG3GJwRGqShwkEukYWwMpwEuEoionP272J1wF6PhsIcU7kqIhzFEwEQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2FgthzcMGCLJfFd1qxb6oHmsqH1cP56P9mz2%2FUzCdWwldTYvuFIozD%2FsYrKWrxEinqKl1Djc0QbSVkrmKTWZbhL1%2FX0taXlyNLfEnfdmwHaFtN7usHE4cOLbQl%2FPQv2xaZl8MCGFWWQ%2B4gWE8j9EgmTEogGuKsC5ujU9mLeykjN98G7ZvQ%3D%3D",
    "posted_at": "2026-11-22T09:15:53+00:00"
   },
   {
@@ -928,17 +935,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-puce-m5-cpu-10-coeurs-gpu-10-coeurs-16-go-ram-1-to-ssd-lumiere-stellaire-azerty-3464863",
    "posted_at": "2026-11-21T23:18:28+00:00"
-  },
-  {
-   "title": "PC portable 13\" Apple MacBook Neo (2026) - Puce A18 Pro, 8 Go RAM, 256 Go SSD, ( Coloris au choix - via 119,85€ fidélité) - 512 Go à 719,2€",
-   "price_raw": "679,15€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-13-apple-macbook-neo-2026-puce-a18-pro-8-go-ram-256-go-ssd-azerty-coloris-au-choix-via-11985eur-fidelite-3463200",
-   "posted_at": "2026-11-21T23:00:02+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2112,
+  "listings_seen": 2108,
   "models_with_reference": 73
  }
 }
