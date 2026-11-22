@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T22:38:00Z",
+ "generated_at": "2026-11-22T23:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 352,
-   "last_ok": "2026-11-22T22:38:00.628182+00:00"
+   "last_ok": "2026-11-22T23:08:00.674994+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 356,
-   "last_ok": "2026-11-22T22:38:00.628182+00:00"
+   "items": 354,
+   "last_ok": "2026-11-22T23:08:00.674994+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T22:38:00.628182+00:00"
+   "last_ok": "2026-11-22T23:08:00.674994+00:00"
   }
  },
  "watchlist": [
@@ -58,23 +58,6 @@
    "posted_at": "2026-11-22T15:34:45+00:00"
   },
   {
-   "title": "Carte mère Gigabyte B860M E - Micro-ATX, Socket LGA 1851, Intel Core Ultra Série 2, DDR5 8800 MHz (OC), 2× M.2 PCIe 4.0",
-   "model": "MB:B860",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 95.99,
-   "shipping_eur": null,
-   "effective_eur": 95.99,
-   "median_eur": 229.41,
-   "discount_pct": 58.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b860m-e-micro-atx-socket-lga-1851-intel-core-ultra-serie-2-ddr5-8800-mhz-oc-2-m2-pcie-40-3454462",
-   "posted_at": "2026-11-15T23:02:00+00:00"
-  },
-  {
    "title": "Écran PC 27\" Lenovo Legion 27QD-10 - 27 Inch QHD WLED Gaming Monitor, 2560 x 1440, 16:9, 240Hz",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -90,23 +73,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-legion-27qd-10-qhd-27-240-hz-05-ms-gaming-2560-x-1440-resolution-2k-hdmi-21-displayport-amd-freesync-premium-3459423",
    "posted_at": "2026-11-17T19:16:59+00:00"
-  },
-  {
-   "title": "ASRock Rack B450D4U-V1LQ5 - AMD B450 - DDR4 Ram - BTO Carte Mère Socket AM4",
-   "model": "MB:B450",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 42.6,
-   "shipping_eur": 0.0,
-   "effective_eur": 42.6,
-   "median_eur": 87.04,
-   "discount_pct": 51.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · alpha38 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:UQMAAeSwdj1rAEJI",
-   "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
@@ -211,23 +177,6 @@
    "posted_at": "2026-11-16T00:03:08+00:00"
   },
   {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FnIEVjJrg1cwUB%2F8nLAW%2Bzi9bte4TDUEJ1bhV2ldf%2B19x%2BwXfgDzJP%2F9u34QoPSeDomquPdft9L7xXk%2F4NRfYt5Ep6ogwRrTrfYEsVv0LmnigaBKMgJCDP%2Fg2cYExkPUDxpNqptXF6zDJg9Q76C%2BUxHhIdJ0CmWRIKS5STfsx17g%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -241,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwT1oAAoFypNIuj3jqIQ%2BUcthvEqdhukaOIZUvKkWhKGDu9LhMrMOLXfUymAHXQLQPfIT69BzxwYoG37dmwvFdhFIZV3QBAIY4uUo81rszKsAILGLf7dHJLw1JfSRvj9Ek7bVrJkXMCw2OFnUarkGmt",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuygkuySbmX7OwoUR%2BdMAfjfBzAOwajlARdYnuM31Qv%2BN5Ynhd32pb3kfMnRCmotksx1ukw7m6dDEIwjhYYeec4r5QhTIu31jSVuSDqGOvpluQAPSumj73B5I9%2FXIVIN%2F583D5typ%2F8FhNROdRb6Gk61",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -309,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 231 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsE2l%2FJm%2Fx7G1hZ14n4f35ZO6vkvSmyq67PVeou5ZrcENocSUjTfTBxXelaFnHxF5XzAyhx33IKtkdd0pZFwluSqO6b%2BRRzU%2B1AOqcBQXJkXr8zwUDPQA2dqcSk8yzIEvRoHfBrzV7HqnLLVSWGrSSuB",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsH%2BdAJyDE%2FI2JXfHVugC1Lklp50mAHkLI1KXIGvDaiSHXo0KUkNGlXWbTOJcI5fQUuJfWC6hwJB%2BkMci4ZYt0LLrQKI%2B8nzrKFCSZjDR7IyJDZbSyvbrBPWDl86TvEd9pLN7JETxViSTRh6xEA9FRzN",
    "posted_at": "2026-11-21T16:23:44+00:00"
   },
   {
@@ -511,7 +460,7 @@
    "discount_pct": 17.2,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · boiteachiner (100,0 %, 228 avis)",
+   "merchant": "eBay · boiteachiner (100,0 %, 229 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/327470833649?_skw=ssd&hash=item4c3ec85ff1:g:5WgAAeSwj4prA1ZP",
    "posted_at": "2026-11-22T20:54:35+00:00"
@@ -584,7 +533,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62NDz7KIJ092CiQO26nEfsdlxNjFFNruXjwElVh8aaMGoF9eptx2WqIOiD37s6GQ3Qo4X6OAcFFLA0LJ9z27XcDDzAD2pUbRsg12aF0Ovto%2Fp3uPec1f%2FeZyFny75Q7VIVu1zv%2FV32E8NdAZmSfOvbqA7n%2Blce4%2ByvgJE9h2oEoJJQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62PxOQJFFRaSpmY5lepPqJVMQ7PNPq8uvpsgxnX8bW6QaRuV3o3pIwPKyMI58aQJ3FDBQADNn0fjyxfoDLgyogOi%2Fae%2FT9eblBBOSZdeeQcjlrV4NKDkLgFEZHA0TGPVLy8h%2F7UcNuMmRPQod6dJyVVEzHFRetzpN9y%2F20a6AVK2XQ%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -904,7 +853,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2090,
-  "models_with_reference": 75
+  "listings_seen": 2077,
+  "models_with_reference": 71
  }
 }
