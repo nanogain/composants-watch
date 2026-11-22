@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T22:08:00Z",
+ "generated_at": "2026-11-22T22:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-22T22:08:00.672316+00:00"
+   "items": 352,
+   "last_ok": "2026-11-22T22:38:00.628182+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-22T22:08:00.672316+00:00"
+   "items": 356,
+   "last_ok": "2026-11-22T22:38:00.628182+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T22:08:00.672316+00:00"
+   "last_ok": "2026-11-22T22:38:00.628182+00:00"
   }
  },
  "watchlist": [
@@ -90,6 +90,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-legion-27qd-10-qhd-27-240-hz-05-ms-gaming-2560-x-1440-resolution-2k-hdmi-21-displayport-amd-freesync-premium-3459423",
    "posted_at": "2026-11-17T19:16:59+00:00"
+  },
+  {
+   "title": "ASRock Rack B450D4U-V1LQ5 - AMD B450 - DDR4 Ram - BTO Carte Mère Socket AM4",
+   "model": "MB:B450",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 42.6,
+   "shipping_eur": 0.0,
+   "effective_eur": 42.6,
+   "median_eur": 87.04,
+   "discount_pct": 51.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · alpha38 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:UQMAAeSwdj1rAEJI",
+   "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
@@ -207,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9MC6Qjl32b4PYzX59BOfQGiWqe0NGIiQlyYEZpi%2FCpsSuP%2FnOLnyd3v4OMLoEFokbOdpuMD%2FsGSYyjHhumwq%2Bp3XZNe%2FkBsecOtAIdqd71qHrJWCAH48jgbnYkfSuguVEtdIkeuUc3CYqX72XImFk3H5X%2FFof0MwUUxF8wSJyNOg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FnIEVjJrg1cwUB%2F8nLAW%2Bzi9bte4TDUEJ1bhV2ldf%2B19x%2BwXfgDzJP%2F9u34QoPSeDomquPdft9L7xXk%2F4NRfYt5Ep6ogwRrTrfYEsVv0LmnigaBKMgJCDP%2Fg2cYExkPUDxpNqptXF6zDJg9Q76C%2BUxHhIdJ0CmWRIKS5STfsx17g%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -224,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxRSsX26RmnTwhycdkHEI8cLrbHAo%2FbJh8iNwZTu9lSZnfMVuKNH3G7t65tuxKVnwOvqPQnKwCgTux93ExaNQ7k3ytSrv--gWHBUBjgiSccJ24EZUZLGrAp1P8CaQq9yW1hlfjih2efRMrCEHi0Xj%2Bg",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwT1oAAoFypNIuj3jqIQ%2BUcthvEqdhukaOIZUvKkWhKGDu9LhMrMOLXfUymAHXQLQPfIT69BzxwYoG37dmwvFdhFIZV3QBAIY4uUo81rszKsAILGLf7dHJLw1JfSRvj9Ek7bVrJkXMCw2OFnUarkGmt",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -292,7 +309,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 231 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsFCKFuYAaOwb5HV5bpuWsfCfiXM6WKPPZIpPmWiD9Z6OCyvl%2FHfxiY9mvt%2BFmQIpywE%2FH8joaACD5%2BYV3NHlRkjlK4SSYx6lOL9NoR%2FYB86TnpC11TeJGYQTQoaxAkw9uUsdcDg3dL59g1C7mnGIfs7",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsE2l%2FJm%2Fx7G1hZ14n4f35ZO6vkvSmyq67PVeou5ZrcENocSUjTfTBxXelaFnHxF5XzAyhx33IKtkdd0pZFwluSqO6b%2BRRzU%2B1AOqcBQXJkXr8zwUDPQA2dqcSk8yzIEvRoHfBrzV7HqnLLVSWGrSSuB",
    "posted_at": "2026-11-21T16:23:44+00:00"
   },
   {
@@ -328,23 +345,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
-  },
-  {
-   "title": "Solidigm P41 Plus SSD interne 512 Go M.2 NVMe PCIe Gen4 x4 06NRX4",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 42.3,
-   "shipping_eur": 0.0,
-   "effective_eur": 42.3,
-   "median_eur": 54.99,
-   "discount_pct": 23.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · mtek66 (100,0 %, 156 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194075152?_skw=ssd&hash=item3739de5c10:g:8gcAAeSwW29rAAAp",
-   "posted_at": "2026-11-20T08:13:39+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -553,18 +553,25 @@
  ],
  "unclassified": [
   {
+   "title": "Bras écran PC Suptek 17-35\" à ressort à gaz - 11 kg max, VESA 75/100, rotation 360°, Noir (Vendeur tiers)",
+   "price_raw": "22,94€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/bras-ecran-pc-suptek-17-35-a-ressort-a-gaz-11-kg-max-vesa-75100-rotation-360-noir-vendeur-tiers-3465707",
+   "posted_at": "2026-11-22T22:31:53+00:00"
+  },
+  {
+   "title": "Moniteur 5\" Baby Phone Double Momcozy - avec 2 caméras, BM04",
+   "price_raw": "187,50€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/baby-phone-double-momcozy-5-pouces-double-mode-avec-2-cameras-bm04-3465705",
+   "posted_at": "2026-11-22T22:23:34+00:00"
+  },
+  {
    "title": "Tablette Redmi Pad 2 9.7 Gris 4 GO + 128 GO + REDMI Buds 6 Active + REDMI Pad 2 9.7 Cover",
    "price_raw": "191€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/redmi-pad-2-97-gris-4-go-128-go-redmi-buds-6-active-redmi-pad-2-97-cover-3465687",
    "posted_at": "2026-11-22T21:45:09+00:00"
-  },
-  {
-   "title": "TEKO TEK-CAM3.9 Boîtier pour ordinateur monocarte avec boîtier de caméra",
-   "price_raw": "24.47 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267851253131?_skw=boitier+pc&hash=item3e5d2dc58b:g:QagAAeSwWqprA2Sn",
-   "posted_at": "2026-11-22T21:54:42+00:00"
   },
   {
    "title": "Tablette Apple iPad A16 - 128 Go (via 74,85€ de remise fidélité)",
@@ -577,7 +584,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62NDz7KIJ092CiQO26nEfsdlxNjFFNruXjwElVh8aaMGoF9eptx2WqIOiD37s6GQ3Qo4X6OAcFFLA0LJ9z27XcDDzAD2pUbRsg12aF0Ovto%2Fp3uPec1f%2FeZyFny75Q7VIVu1zv%2FV32E8NdAZmSfOvbqA7n%2Blce4%2ByvgJE9h2oEoJJQ%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -609,13 +616,6 @@
    "posted_at": "2026-11-22T18:32:17+00:00"
   },
   {
-   "title": "PC portable Alienware Area 51RTX 5080",
-   "price_raw": "1 512,83€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-alienware-area-51rtx-5080-3465513",
-   "posted_at": "2026-11-22T18:07:50+00:00"
-  },
-  {
    "title": "PC Portable Apple MacBook Pro avec écran PROLED XDR de 14,2 pouces, puce M5 Pro (via remise au panier)",
    "price_raw": "3 199€",
    "source": "dealabs",
@@ -635,13 +635,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/186264661616?_skw=boitier+pc&hash=item2b5e3d2e70:g:e-4AAeSww4BrAx8z",
    "posted_at": "2024-01-22T17:15:21+00:00"
-  },
-  {
-   "title": "Barrette Kingston 8GB Go DDR4-2666 SO-DIMM PC4-21300 Notebook RAM KVR26S19S8/8",
-   "price_raw": "34.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377667964000?_skw=ddr4&hash=item57eec3cc60:g:fYYAAeSwV8hrAxeY",
-   "posted_at": "2026-11-22T16:29:44+00:00"
   },
   {
    "title": "Imprimante Brother DCP-J1360DW à Jet d'encre compacte sans Fil 3-en-1",
@@ -901,10 +894,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-puce-m5-cpu-10-coeurs-gpu-10-coeurs-16-go-ram-1-to-ssd-lumiere-stellaire-azerty-3464863",
    "posted_at": "2026-11-21T23:18:28+00:00"
+  },
+  {
+   "title": "PC portable 13\" Apple MacBook Neo (2026) - Puce A18 Pro, 8 Go RAM, 256 Go SSD, ( Coloris au choix - via 119,85€ fidélité) - 512 Go à 719,2€",
+   "price_raw": "679,15€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-13-apple-macbook-neo-2026-puce-a18-pro-8-go-ram-256-go-ssd-azerty-coloris-au-choix-via-11985eur-fidelite-3463200",
+   "posted_at": "2026-11-21T23:00:02+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2085,
-  "models_with_reference": 70
+  "listings_seen": 2090,
+  "models_with_reference": 75
  }
 }
