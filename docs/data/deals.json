@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T08:08:00Z",
+ "generated_at": "2026-11-22T08:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 356,
-   "last_ok": "2026-11-22T08:08:00.630061+00:00"
+   "items": 358,
+   "last_ok": "2026-11-22T08:38:00.654337+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 361,
-   "last_ok": "2026-11-22T08:08:00.630061+00:00"
+   "items": 359,
+   "last_ok": "2026-11-22T08:38:00.654337+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T08:08:00.630061+00:00"
+   "last_ok": "2026-11-22T08:38:00.654337+00:00"
   }
  },
  "watchlist": [
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8N3e9hOoiR9BdARStlwmaUV6Mfqs1nHhAic7TmWco2KoVFFL8Clb38UAu8dCVWVC7yDbTjeJeMv8OLekuJCHnH8wP6pkCgp99lTSC9cX6Hh7Czcjz58F4vEfQydFYyzj1otHWDMPyuXBe6TN23n7z7dP%2FcsnXHwo4IhO4nw4Y%2FzA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BvTlFPXn1ZXh%2FDU08rTpCOluQ%2F3zDr7pDy1pWPuf1b%2FzIiCwpskJTLCM6EHscc%2FQMg5RnibP5CvRMYOD57%2BNnyZe3b8CZs8KZOeWA6o8QGVixxWd4VIlFSLq4s6ClyKpZiFxNnlH9cUMOg%2B9x9r%2B1EQeBG9WeoLWfQeSqGguZQ7w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwg2Mpr%2BBCinTmWwOufzofIaKemcEMRU3GbrcSLMCFL1GIqHz0ZJGuiXQ5VsjKhV%2BI%2FDT5sIYypi3RnE52iW1qyAVs8932VqRL5vyWKF87TBP1tsVvjQtsMzrx42hAYYp9p5m0cv4E3SN9HrkuMuYzZ",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwzR%2FAbqCrDmPxgvL36NPoPW3ElJpvOYmjRzskREi9G59iQMlwgIuzngnwYbOAI6t6%2FUlvHE3rhnUCJd3TuufkoVqWe5RP16XlFfWiyALFZg3XBoECx0JOFI5ME6eIzbWyoLXROf6ANS1YV9Ji0kAjZ",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -583,9 +583,47 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/198685861034?_skw=ddr4&hash=item2e4299a4aa:g:ndQAAeSw5RdqiLPG",
    "posted_at": "2026-10-03T18:54:25+00:00"
+  },
+  {
+   "title": "SSD interne Lexar 512Go - M.2 2280 PCIe Gen3x4 NVMe 1.4, Jusqu'à 3500 Mo/s en lecture, 2400 Mo/s en écriture",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 89.99,
+   "shipping_eur": null,
+   "effective_eur": 89.99,
+   "median_eur": 574.99,
+   "discount_pct": 84.3,
+   "target_hit": false,
+   "suspect": true,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-lexar-ssd-512go-m2-2280-pcie-gen3x4-nvme-14-ssd-512go-interne-jusqua-3500-mos-en-lecture-2400-mos-en-ecriture-3465023",
+   "posted_at": "2026-11-22T08:10:20+00:00"
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 14\" Apple MacBook Pro - Puce M5, 16 Go RAM, 1 To SSD (via 329.85 € cagnottés)",
+   "price_raw": "1 869,15€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-apple-macbook-pro-puce-m5-16-go-ram-1-to-ssd-via-32985-eur-cagnottes-3465051",
+   "posted_at": "2026-11-22T08:37:54+00:00"
+  },
+  {
+   "title": "Apple MacBook Air 13 pouces PC Portable M5 : Conçu pour l’IA, Écran Liquid Retina Mémoire unifiée 16 Go, SSD 512 Go,Lumière stellaire",
+   "price_raw": "1 099€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-pouces-pc-portable-m5-concu-pour-lia-ecran-liquid-retina-memoire-unifiee-16-go-ssd-512-golumiere-stellaire-3465033",
+   "posted_at": "2026-11-22T08:24:48+00:00"
+  },
+  {
+   "title": "Mini PC Soyo M5, Ryzen 3 4300U, 16 Go LPDDR4-4266, SSD 512 Go, triple screen, Wifi 5 & BT 5.0, Windows 11 Pro",
+   "price_raw": "196,52€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m5-ryzen-3-4300u-16-go-lpddr4-4266-ssd-512-go-triple-screen-wifi-5-bt-50-windows-11-pro-3464969",
+   "posted_at": "2026-11-22T07:56:30+00:00"
+  },
   {
    "title": "Mini PC CHUWI LarkBox X - Intel i3-1220P, 8 Go DDR4 SODIMM, SSD 256 Go, WiFi 6 & BT 5.2, Windows 11 Pro",
    "price_raw": "263,88€",
@@ -613,13 +651,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-ipad-pro-11-puce-apple-m4-1-to-argent-wi-fi-nano-texture-7eme-generation-2024-3464982",
    "posted_at": "2026-11-22T07:19:21+00:00"
-  },
-  {
-   "title": "Carte graphique Gigabyte GV-N460OC-1GI",
-   "price_raw": "24.62 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/317863231212?_skw=carte+graphique&hash=item4a021ffeec:g:XXkAAeSwziJpiwg6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mZj9JYPu8UojTYH0QafA1oJ7vTx76Ba%2FwJurpZTKL2YzpXFHvBa7j4HStLi%2Bsqw2ZUzgwnddo5%2BgCR5EV6qnyvoVLdBVy7eLcCorb3gpdvj2anOE4cFx38X2Yf%2BOAxRhMmQxEeHZihQNulDJdw4zbkQ5DeMdEnX%2BsClnbYyuY1ZKhfKlxe34IKgzw%2F17upuPb8JerNkilwXA712KOU3qYOJVkuyprtzweyYc0zL1GVls5sixkPQ0rb9Hssr8P6pR9QX6ACw8a%2FAe%2B%2BIQGaFaO0rEAXzPKm87zjoex1XCrZiA%3D%3D",
-   "posted_at": "2026-02-10T10:30:55+00:00"
   },
   {
    "title": "RAM SK Hynix 8GB DDR4 So-Dimm PC4-3200",
@@ -797,7 +828,7 @@
    "posted_at": "2026-11-21T19:11:10+00:00"
   },
   {
-   "title": "Carte graphique NVIDIA Quadro - occasion, testée fonctionnelle",
+   "title": "Carte graphique NVIDIA Quadro P1000 - occasion, testée fonctionnelle",
    "price_raw": "16.70 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/168878485865?_skw=carte+graphique&hash=item2751f13169:g:8noAAeSwvBFrAeuq",
@@ -921,24 +952,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-111-lenovo-yoga-tab-gen-2-8-go-256-go-stylet-tab-pen-pro-2-3464361",
    "posted_at": "2026-11-21T11:45:58+00:00"
-  },
-  {
-   "title": "PC Portable 15.3\" Lenovo IPS3 83RR003GFR - WUXGA, Intel Core 5 320, 16 Go RAM, 512 Go SSD",
-   "price_raw": "679€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-lenovo-ips3-83rr003gfr-153-wuxga-intel-core-5-320-16-go-ram-512-go-ssd-3464322",
-   "posted_at": "2026-11-21T10:40:56+00:00"
-  },
-  {
-   "title": "Mini PC Barebone Minisforum M1 Lite-125U - Intel Core Ultra 5 125U, Xe-LPG 4 cores Arc, USB 4, 2,5 GbE, Wi-Fi 6E & BT5.2, sans ram, ni SSD",
-   "price_raw": "264€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/minisforum-m1-lite-125u-barebone-sans-ram-ni-ssd-core-ultra-5-125u-intel-xe-lpg-4-cores-arc-usb4-25-gbe-wifi-6e-bt52-3464021",
-   "posted_at": "2026-11-21T10:35:37+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2111,
+  "listings_seen": 2115,
   "models_with_reference": 69
  }
 }
