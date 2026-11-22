@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T17:08:00Z",
+ "generated_at": "2026-11-22T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 351,
-   "last_ok": "2026-11-22T17:08:00.683503+00:00"
+   "last_ok": "2026-11-22T17:38:00.671420+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 357,
-   "last_ok": "2026-11-22T17:08:00.683503+00:00"
+   "items": 359,
+   "last_ok": "2026-11-22T17:38:00.671420+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T17:08:00.683503+00:00"
+   "last_ok": "2026-11-22T17:38:00.671420+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B97hsuGekVjDN2Qk8weR9214uLVWAwd%2Funw55EtE2yNdusYaJdYglaNVQ36TQERjRprUWOFgOxyOCgMzALS1QOz0nEYHYNKK8QBbyXrrkFGx4HHf53P83GWuv2YfsY8naqN2vhuy3EFFqAtsBnIaJjwVrdPK7VnsmfhlusGZJtJpA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bj9jBOo0%2FhnrKMyDmTqJPNhZ5zqUHR0W01%2F1gh4w%2FVHm2%2B2vcS01c8%2BWnNJFAPSKdKTrVJbGLfOfHGbAU2Akq1lrua4Miy1UZVdh2kcVq5sA7pTgZ%2FzYmdd9Uf8QJBM7GfVDkinceya%2B13qh2ggtDkBDsM6ElyEw0FwTXDIk8EKQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxoCZf1j%2Fnt0ANaXd3802aXjedQrAti%2Fh%2BUiVbseilndcO8x574t6QTR%2BDaY8486yB97Hum7dPNMeEm6kf6AQVuEChuR54%2BSl7kSQRMyBBPXnndHkTWRPEhzhJmZsewf7rWRm%2FANhQ8cuAhq8YWILT4",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxTsEd66O5LgadmbiywhkdXKero0kd39APj2FLl5q0NXrHmn9Zitw2199IRGTivF1d7xlAdnMck%2Frb2oFnM78mlWBrJEHgVv7HBQcZKZ1wzKrOK%2BG%2B4Yw6j1FptUjfXCY3GiCw%2F9%2BCvfcm0fLd6RNzp",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -362,6 +362,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194075152?_skw=ssd&hash=item3739de5c10:g:8gcAAeSwW29rAAAp",
    "posted_at": "2026-11-20T08:13:39+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 499.99,
+   "discount_pct": 21.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -517,6 +534,23 @@
    "posted_at": "2026-11-21T20:27:57+00:00"
   },
   {
+   "title": "MICRON 16 Go DDR5 SDRAM RAM 5600 MHz SO-DIMM ",
+   "model": "RAM:DDR5-16Go-5600",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 151.5,
+   "shipping_eur": 2.78,
+   "effective_eur": 154.28,
+   "median_eur": 185.94,
+   "discount_pct": 17.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · y-teck (100,0 %, 280 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/840155650455?_skw=ddr5&hash=itemc39d2dd997:g:GewAAeSwzQhq~dN2",
+   "posted_at": "2026-11-22T17:21:11+00:00"
+  },
+  {
    "title": "ASUS ROG Strix Radeon RX 570 OC 4 Go GDDR5 Gaming - Carte graphique PCIe testée",
    "model": "GPU:RX 570",
    "category": "GPU",
@@ -570,11 +604,18 @@
  ],
  "unclassified": [
   {
-   "title": "Carte mère Dell Latitude 7390 2-en-1 i5-8350U 16 Go LA-F292P Testée",
-   "price_raw": "88.00 EUR",
+   "title": "Imprimante Anycubic Kobra S1 ACE 2 Pro Combo",
+   "price_raw": "399€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/anycubic-kobra-s1-ace-2-pro-combo-3465483",
+   "posted_at": "2026-11-22T17:28:31+00:00"
+  },
+  {
+   "title": "NVIDIA Quadro 4000 HP 2Go GDDR5 PCIe Carte Graphique Pro",
+   "price_raw": "42.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800952241489?_skw=carte+m%C3%A8re&hash=itemba7c794d51:g:aR0AAeSw0w9rAxuJ",
-   "posted_at": "2026-11-22T16:46:46+00:00"
+   "url": "https://www.ebay.fr/itm/407381600272?_skw=carte+graphique&hash=item5ed9d5e810:g:JNkAAeSwMchrAyOO",
+   "posted_at": "2026-11-22T17:23:50+00:00"
   },
   {
    "title": "COOLER MASTER N200 Noir Boitier PC Mini tour - Format Micro ATX (NSE-200-KKN1)",
@@ -696,13 +737,6 @@
    "posted_at": "2026-11-22T11:32:02+00:00"
   },
   {
-   "title": "Micron 16 Go DDR4 3200 MHz SO-DIMM PC4-25600 RAM PC Portable MTA8ATF2G64HZ",
-   "price_raw": "56.86 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206719738022?_skw=ddr4&hash=item302174e0a6:g:--8AAeSwPrRrAtEk",
-   "posted_at": "2026-11-22T11:27:04+00:00"
-  },
-  {
    "title": "Tablette 13\" Apple iPad Pro - M4, 2 To, Argent Wi-Fi, Nano-texturé, 7ème génération 2024",
    "price_raw": "1 769,99€",
    "source": "dealabs",
@@ -748,7 +782,7 @@
    "title": "Carte Graphique Nvidia MSI GeForce GTX 1660 Ti Ventus XS 6G OC",
    "price_raw": "109.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2FgthzeF%2BqM4vz0XuK%2FPGw%2Fj9j4A6DICGV15IR7YxqIWp%2FKJAhs87PQGvv60Er2CyoZfrM4sYNiufPTBa28e5KRq8VvTgrtjL7XOcIGokhDuHRpKTwVWDuO8TAQmS6IBhnYp5ACubDNENxhdp6OOfj9PSxZNq0LYcsvqnbNAolEzKkirxw%3D%3D",
+   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2FgthzcR0CLrC7v3tEX87%2FM1ehvY48M8AGUmcnknroREA4RGofrDXMwOINYRNJI3dLElzHI6%2BIj2fIeZnhNyFMB4XsXmv5sst%2Frz31Kyi3TUOYgML5o7Ne5yMgjGVu5ndkR%2BYYWcjjXpUVWOR5hGqtKrISXzi2GL54fnMSfEJUF4LFPz8g%3D%3D",
    "posted_at": "2026-11-22T09:15:53+00:00"
   },
   {
@@ -836,6 +870,13 @@
    "posted_at": "2026-11-22T04:40:36+00:00"
   },
   {
+   "title": "Alimentation Pc ASTEC SA147-3520",
+   "price_raw": "12.94 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/275040591484?_skw=alimentation+pc&hash=item4009b25e7c:g:mREAAOSw8Mphnxfg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kL0Rj8OxuluDU%2Fc5zbS%2BjwzTFgdHG0P8r3zkoLsvN36KQQKG2TSCgn6xXIyqBnigAqhdMYL5ucwPHjmdIPV2ElE2bp8xXMBAegUHEsg6omF7L6Azmi3oC5j%2B%2BNEIVsVZ2gNn2BsGrlQELiCMNHAF2V4UKT%2FrBVFnExCa8jxBihd%2FsGDD3evbBKHfaXcX%2FiJWykElit8BelDOhUcUrGP4EPrMc3oUDyztlh%2BhGOrm%2Bl%2BAnfLfoGL26IpYCSKL%2FMwRnT6RyufFP5qPHtUxcC%2B4KAW94xIxa8I3pCbDiuvMm8zw%3D%3D",
+   "posted_at": "2021-11-26T04:58:36+00:00"
+  },
+  {
    "title": "PC Portable 18\" ASUS ROG Strix G18 STRIX-G18-G815LR-TT281W - Intel Core Ultra 9 290HX, 16 Go RAM, 1 To SSD, RTX 5070 Ti, W11, AZERTY",
    "price_raw": "2 599,99€",
    "source": "dealabs",
@@ -911,17 +952,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-153-puce-m5-16-go-1-to-lumiere-stellaire-3464843",
    "posted_at": "2026-11-21T22:53:13+00:00"
-  },
-  {
-   "title": "Carte graphique PNY GeForce GT 710 2GB GDDR5 GPU with Low Profile Brackets",
-   "price_raw": "23.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377665899640?_skw=carte+graphique&hash=item57eea44c78:g:3r4AAeSwNDdrAhSz",
-   "posted_at": "2026-11-21T22:03:20+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2108,
+  "listings_seen": 2106,
   "models_with_reference": 72
  }
 }
