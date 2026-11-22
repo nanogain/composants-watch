@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T02:38:00Z",
+ "generated_at": "2026-11-22T03:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 354,
-   "last_ok": "2026-11-22T02:38:00.660315+00:00"
+   "last_ok": "2026-11-22T03:08:00.674593+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 362,
-   "last_ok": "2026-11-22T02:38:00.660315+00:00"
+   "items": 361,
+   "last_ok": "2026-11-22T03:08:00.674593+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T02:38:00.660315+00:00"
+   "last_ok": "2026-11-22T03:08:00.674593+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FWY%2Fe3YDx1syhy0wxxrYudhilJzjYTGu3gqYlc9%2FqoPfUEvhBxvY6c58cT%2BH04JwzldAWyX2pwYdFnlnnmMM0I4K%2BAYAuejluZmo8XLpk7S27XgEhvjK7pq0Ve36wRXydTuSj7fwyWduR3Ewrgh3gATlDjXC7f3TCAL6CWw32W9g%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B21%2F%2BaPv2A%2B5S2GdU6LmBQ88vic6pu7Ol%2BftPH2g7sq1AZkiNyCeZ1nb2c9l4dWpL9fjdae1VrgOYft%2BKIEMJkSbMdl42qBiyKwjsyA3Ss%2BdBBNQ%2Bk5BFf1S1i%2Fj93DnPV6YTzrHsbA1DCebCKg6SIAJ4EaWwQpSRtdN8oA3Pp2Q%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwKf8rpFyX4QC8Gs9e%2Be0AmOGof4PGbTP2jlrF%2B3jf3Li1uOnDMUM3sOKSuY8Q49NkKkNu7PPfw%2BSwFKicARgbpubcE8UXFv3XXGcY1GyUmr1ub%2BQt03lDJvY5AB6vynlNW853mwkh0%2FehAlmtb%2FKZm",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzKgQl5wK3ZYBkPbL9%2BBDHhm%2B3ittyr6yugh6v61kLIQj9tL5Rp2Vy0y85cYTo9YH1OUT9Uxhcl0DxrYq8FW1qEJ%2B7YOw6ZzUPK2MVAIVtoEXiNfuLBDA9s%2BmbYW4n09Ad%2FF9uVrWcOa5wa51jzlwGO",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -651,13 +651,6 @@
    "posted_at": "2026-11-21T22:03:20+00:00"
   },
   {
-   "title": "Ecran PC LG 27U731SA-W 27 POUCES 3840 x 2160 4K Ultra HD LCD Blanc --ETAT NEUF--",
-   "price_raw": "516.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147691722618?_skw=%C3%A9cran+pc&hash=item22631cd77a:g:3MQAAeSw5~9rAhOJ",
-   "posted_at": "2026-11-21T22:04:20+00:00"
-  },
-  {
    "title": "Boitier PC be quiet! Pure Base 501 Airflow - Noir",
    "price_raw": "49,99€",
    "source": "dealabs",
@@ -871,21 +864,21 @@
    "title": "Corsair HX CMPSU HX520W 520W ATX Alimentation PC et multitude de câbles !",
    "price_raw": "57.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZujwWBzNeME65RQxdc%2BYOroEGLLFxq1BD72t5Ijo7vmJpQXX9bkAGr5713l6Aad3yr1F3NuhnaQvXNI4o4DLNkT0kQJib1qmu3n41vQs1cEazFYWxPqWzDFCsNi9nkIksNTbbtpKhjO%2B9QJFUwMDeZxKQqDGgJ7XpIIuNPHenjsFQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/389986841547?_skw=alimentation+pc&hash=item5acd06f3cb:g:LQYAAeSw0F5p-yT9&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k8TEgT6lwJbBJyJhObf%2FTQ9rev%2BZQwtiMcq3Bi2jujQ4Bhi1w9C8f504q2CBNRxvVDelbhggvuy4VcVmQg9NgUoNmY%2BdmdTPuETQF3KPyxgYFwgGVpnHCywLaTmwu%2BpZu%2B9Gsh%2FZJxOiuMsqdCHmPCMzUyKzvRAMhnAOT%2BQDRkZbkvOAAM%2F19ScViYeQFjw8LIDFpW6QsEZycyt5H%2FVlCNAEgA2kvt195Mcb50PjWdDA0kgYYiJHQimHMzk9nl609Ab%2FpxbmmE1VOyA3If7hZN9bcF6FgwALdnbh5jAHBJfg%3D%3D",
    "posted_at": "2026-05-07T06:58:35+00:00"
   },
   {
    "title": "Carte graphique ASUS ATI radeon HD5870 1GB",
    "price_raw": "39.18 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLA03gYlUs57732KssGk2IiFEHvsO9PvGO9VPegvLKuF4iOaV%2Fu45icdC2eEzdLGn%2BNhZqhOmhWLwzWyFX%2BmW2o2h%2Fswk5upbPuFd%2FnQ953lqBCDu1666kGQ42BMEhMTvWn6LrdW8DiMn5F8C6fC9hYLG4WCSWbjLgGA7usavquBHw%3D%3D",
+   "url": "https://www.ebay.fr/itm/318839895527?_skw=carte+graphique&hash=item4a3c56b5e7:g:3FkAAeSwi4NqnwXb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mt%2Bt9cfsTdPpPbUCd%2BUr0Ox7i8N2rB5KSxfC2AMvn4uXBXCPDeak9z9wj78dArmXpdnJ4Mpd2pP%2Bqoh80POqvBS5%2Fu1TYNJxUCxxk%2FucA7hqrf%2B3wMJ%2BffoGUiDN8AdLDYd%2BTh6%2FpVJpPVdb6Xgag76jnB0ob30%2FKIYA9SjR9kFMcZ5BrRZQ22GfdC2mAIDLuffJpbLt2e7STZMwWLjwriOR97TrRp4b5RYnGUT2XrugNxaiAo6qEZdo%2Fr1FRzGetQBXMbL9rK632XYcpo5nJKKWodTrOEs%2FzlrVeprblh6A%3D%3D",
    "posted_at": "2026-09-07T18:45:04+00:00"
   },
   {
    "title": "Carte mère HP ProDesk 600 G4 SFF L05338-001 L02433-001 LGA1151 DDR4",
    "price_raw": "37.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7zteuvcHfGehqct0FHvGNdMkRDmw3SRK7D4cWo%2B5n%2Fqdu3Fl41oc%2FkErWefmiWDAnh8TZ1BviJ%2Bs0FW6lbfQT6bvA5m38veHZ1SXaogBqPDQB2poECDd4%2F1AMhc9X3aGf1A8Ucb7oWDZHzoAmLJykxrz3YF66Mtx9aCcp9HVQ%2FGUtQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287743505791?_skw=carte+m%C3%A8re&hash=item42fed9757f:g:FIMAAeSwm~5rAB45&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kAq%2FFcDHlMpGWs8O4G9b70QUjHacNoAkP8p5q%2BZM0uWN0HbMDQhoUuHB3Keh%2BaoKrWoZGftKwt499vJN0RkSUlC8i24uZDwqbQQmsPZrJbMdNr2EdmCvWqJViMqxdv7ztc7wl8sthfPtRcMtDOFRrvBz7S1pK0qEodvFlj6kdY93jfUvKCtFW3xsypkyhm%2B8fUNaC6bolJz3LbkKD9iQxfQEs3Fa3SyPa5vQ9gYLA8S%2BDb%2FJMRFEU01s9npWIXwgQKkZF4ZkroQt5NYTAg8ywuuYWsAbz%2Faldqf2F%2FBBigRA%3D%3D",
    "posted_at": "2026-11-20T10:48:23+00:00"
   },
   {
@@ -901,10 +894,17 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960223506700?_skw=watercooling&hash=itemdf91c7f10c:g:VHEAAeSwBBxrAP3I",
    "posted_at": "2026-11-21T02:11:31+00:00"
+  },
+  {
+   "title": "Kit mémoire Ram DDR5 Patriot 32 Go (2x16 Go) - 6000 CL30",
+   "price_raw": "519€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/patriot-32-go-ddr5-6000-cl30-2x16-go-3464007",
+   "posted_at": "2026-11-21T00:29:42+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2109,
+  "listings_seen": 2108,
   "models_with_reference": 69
  }
 }
