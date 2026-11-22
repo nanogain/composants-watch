@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T19:08:00Z",
+ "generated_at": "2026-11-22T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 352,
-   "last_ok": "2026-11-22T19:08:00.673386+00:00"
+   "items": 354,
+   "last_ok": "2026-11-22T19:38:00.686333+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 358,
-   "last_ok": "2026-11-22T19:08:00.673386+00:00"
+   "items": 360,
+   "last_ok": "2026-11-22T19:38:00.686333+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T19:08:00.673386+00:00"
+   "last_ok": "2026-11-22T19:38:00.686333+00:00"
   }
  },
  "watchlist": [
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BV66LHReqQxFFtdzcEX1lvun%2FAhF%2F1EbLDW41%2BLTgERgaxo6zQk0QLxJc%2FPc6qcLHHsA0DUPVxkelthmM5vrVNl1RUTfkWnbuf9TgEnsVYp6jadQ8k3dSPfQOrq9GS5WtdRYLLZIAWDCjImslpNvej34p20qPXiDQiKGDEBppDBw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BogQFbTdE6p8c3zq8eAT4V%2FVv%2FyYeAXthjqW1lDxCVb%2BMItUQufRIDVctb1yqgS7eVWIsEtMPMcLUyInrJiNViiHc7Ott%2BMmUIcYnuaz3OvVklur0gJExocqTR4FxdZt3tcLZoqqAp4iS7VA2JtJEfF8kzQY1Co0N2mG9mGnvU6A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxsKY7D2WF10MawLgolbTyjhIk3VQbLx%2B1gS45JtM798uqtjosNt21W%2FL4AWOVj3o9IrQa%2FAM9NPMAH5aQYscuaD9VqOJ1AQQRVM8gz5k7ITRnAIMsPcMBXQ%2FUQYDq4h5t2ruli8bZuExecQHSy%2Fd%2B4",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzOP%2ByDvJtBBTpi21wGPdKOsYOk9VH53C1%2FXEfiBV2pSk4%2BG2TsPnKRqsdWshVy0AkYxMVPr3hKQt9cu%2BPX4RajmR6n2wuxb9oqWvUmsMyl1rDtpNl82P23aiJobli%2BuV1xRFnarJnZJHJ98tQ%2BDl94",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -362,23 +362,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194075152?_skw=ssd&hash=item3739de5c10:g:8gcAAeSwW29rAAAp",
    "posted_at": "2026-11-20T08:13:39+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.99,
-   "discount_pct": 21.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -604,6 +587,20 @@
  ],
  "unclassified": [
   {
+   "title": "Souris ergonomique verticale sans fil Logitech Lift - Blanc",
+   "price_raw": "34,70€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-ergonomique-verticale-sans-fil-logitech-lift-blanche-3465585",
+   "posted_at": "2026-11-22T19:32:48+00:00"
+  },
+  {
+   "title": "Console Portable Lenovo Legion Go S, Version Z1 Extreme, 16 Go RAM, 512 Go Stockage, SteamOS",
+   "price_raw": "663,47€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lenovo-legion-go-s-version-z1-extreme-16gb-ram-512gb-stockage-steamos-3465499",
+   "posted_at": "2026-11-22T17:50:49+00:00"
+  },
+  {
    "title": "PC portable 14\" Samsung Galaxy Book6 - Intel Core Ultra 5, Mémoire 16 Go RAM, 512 Go SSD, Écran IPS, Anthracite",
    "price_raw": "899€",
    "source": "dealabs",
@@ -817,7 +814,7 @@
    "title": "Carte Graphique Nvidia MSI GeForce GTX 1660 Ti Ventus XS 6G OC",
    "price_raw": "109.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2FgthzevEYkYtcu8Oos2piBOh1A8VA8M3FNWjnkAnnEKEwvvvCizRG3Hr3Uf0mHU9jBV8REQ4CRPT4PP4UC0yAEmsEte%2By7%2FWl8Bdnk%2BNFw0OP8I%2Fa484ImZN4z0IjSc%2FMAjWriEt4wjwqyBfzPSRTfYH3xFBJwISvmN02ra%2Bxsh9kFx%2BA%3D%3D",
+   "url": "https://www.ebay.fr/itm/327469974532?_skw=carte+graphique&hash=item4c3ebb4404:g:8J4AAeSwyMlrArKR&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7naiWm%2BHRA9vD7AladU0BWkmn4Gbp6I%2FZqcTJ6pZytvygmuaOuUjxNZLKva2SKEEstDeCozMpzA2NFPqltZaH%2BPH3NB85hC95SWzpOEPwi120Pb074PLeas4wMvf%2FgthzdFVQ75%2BeFCcinvJRbZriqb88z85BjPZSF6GfF2V9sTXZbqthsc7xCnEySWEfOiadueeHpk6WK9Kq2g5N709ZEmEzx864beM4YaPAxsrxif1sZfnqfokSrh0NaCUw2315mc7aVH%2BekzkQhhN4R9oF8BnQYokVS4LKjluGeXKQ0WrQ%3D%3D",
    "posted_at": "2026-11-22T09:15:53+00:00"
   },
   {
@@ -908,7 +905,7 @@
    "title": "Alimentation Pc ASTEC SA147-3520",
    "price_raw": "12.94 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/275040591484?_skw=alimentation+pc&hash=item4009b25e7c:g:mREAAOSw8Mphnxfg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kL0Rj8OxuluDU%2Fc5zbS%2BjwzTFgdHG0P8r3zkoLsvN36KQQKG2TSCgn6xXIyqBnigAqhdMYL5ucwPHjmdIPV2ElE2bp8xXMBAegUHEsg6omF7L6Azmi3oC5j%2B%2BNEIVsVZ3AGmmFLNeeiB32N9HpVkRPFmJjLnJVMl53Q8vAwU9DiZM%2BuBjmuGpQY4el0twp%2Bu%2BYwEjHbXpldKx1on2lzqTznstbfH7WQK0wLJtbNHHSHBC5kHhwpWXmou4ZOYEPmBOuaijkr2JeIBZIyoztlZiKhjh%2FBXNKuNlHBpThLh3xxA%3D%3D",
+   "url": "https://www.ebay.fr/itm/275040591484?_skw=alimentation+pc&hash=item4009b25e7c:g:mREAAOSw8Mphnxfg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kL0Rj8OxuluDU%2Fc5zbS%2BjwzTFgdHG0P8r3zkoLsvN36KQQKG2TSCgn6xXIyqBnigAqhdMYL5ucwPHjmdIPV2ElE2bp8xXMBAegUHEsg6omF7L6Azmi3oC5j%2B%2BNEIVsVZ3mI%2FRZOG1JwR%2F5LXbPFxGq4R3qutrjsnJ%2B2aCzobslDRo8WFG1Y%2BJ2sdXmdqNabJB3jc4ziki8zkHbFgqGxZw6Krx01Vh0WDJcvPvUzaEwkFPvkHaa2Dim0kNEDbUiXTw17XLx15L4MPcAudxkNFp2oJjbMslTR3E6nrc650Tblw%3D%3D",
    "posted_at": "2021-11-26T04:58:36+00:00"
   },
   {
@@ -938,24 +935,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-apple-mac-mini-avec-puce-apple-m6-16-go-256-go-argent-3464888",
    "posted_at": "2026-11-21T23:57:57+00:00"
-  },
-  {
-   "title": "Tablette 11\" Apple iPad Air M4 (2026) - 128 Go (via 122.85€ fidélité)",
-   "price_raw": "696€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-m4-2026-128-go-via-12285eur-fidelite-3464881",
-   "posted_at": "2026-11-21T23:49:42+00:00"
-  },
-  {
-   "title": "PC de bureau Apple Mac Mini avec Puce Apple M6 - 16 Go, 256 Go Argent",
-   "price_raw": "892€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-avec-puce-apple-m6-16-go-256-go-argent-3464877",
-   "posted_at": "2026-11-21T23:45:31+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2105,
-  "models_with_reference": 73
+  "listings_seen": 2099,
+  "models_with_reference": 74
  }
 }
