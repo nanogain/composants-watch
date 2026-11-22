@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T20:08:00Z",
+ "generated_at": "2026-11-22T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 354,
-   "last_ok": "2026-11-22T20:08:00.618721+00:00"
+   "last_ok": "2026-11-22T20:38:00.623361+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 358,
-   "last_ok": "2026-11-22T20:08:00.618721+00:00"
+   "items": 349,
+   "last_ok": "2026-11-22T20:38:00.623361+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T20:08:00.618721+00:00"
+   "last_ok": "2026-11-22T20:38:00.623361+00:00"
   }
  },
  "watchlist": [
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9PvZpR7MKTOMnzIxUH0n8WfyVXiWy%2FHPTGppasWBo0evehOtNHjb00G0D4lAqFZaki03nloDO%2BKSRiUZw3NCCAkunNsVDW%2B14x0iflV%2F6ByWyRLyTZr2HKi1dD9AnRivHtvB0R0pH36%2BVsjtnL8tbbC9EMdppitfBQjiS4A2gGpQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BMBdRpFCyypZ%2FNPxdAbHxWQCNk4QDoyrKfbi08pU57lO2bdjwGLej%2Bh%2Biq%2B6ov%2FR4tmMqaJQ0tB9SJtOCaGmX6ge77tVm9pSlbMluMdgMc9OXMvemScJ%2FrynaXcfr%2FBsVDLrUYMAMoeQ2dXvNM%2B474l%2FiGEu8ltODKR1IkL6TZqw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwrI883XDRWnTVCENMaOvzHcdbQhl3zn9RIxv0gV12ZwZ--o5IjerEw0BMtCL%2BaSI2Tvt3fVPMXsK4X2ZRJWVhG31iZR6QqIhJWjz9LGIPF8WuTTWACuf%2F7c%2BxNoQkG6Qp3TtLipdx6ZoxC4CzFzWBh",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuygAnkis%2FuxitUx6T9cYcWC%2BpJTpnRun4HUYxdy450udlx3zyVSjXlU4nJIoOtlc%2FNzRArHy7Pa0ugyGj7C0PyADklYFGhxciXUK903Z80jzSyf1QnKo22E7oLAmXOXELgAIwR%2FAo1996PdC2YB%2BkSb",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -296,6 +296,23 @@
    "posted_at": "2026-11-16T16:24:55+00:00"
   },
   {
+   "title": "PNY CS900 SSD interne 250 Go 2,5\" SATA III noir RoHS SSD7CS900-250-PB",
+   "model": "SSD:SATA-250Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 25.9,
+   "shipping_eur": 3.9,
+   "effective_eur": 29.8,
+   "median_eur": 42.67,
+   "discount_pct": 30.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,6 %, 231 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsHU3mm%2Bp2L%2FjB4sriOLMxd1ViDMUt6Loy6tLniv5Vl7HaTpZatlllN9zHhVVfT4CiKEgnJ4iXKlYd35UnGl0mvPhwWnV%2FP%2Bj7op9ZIQCSLG2S1Vd9cqycGFi7S0Wz5UqLm%2FGytjBVrkLgXlmvSxIoYf",
+   "posted_at": "2026-11-21T16:23:44+00:00"
+  },
+  {
    "title": "SSD interne NVMe M.2 Netac NV3000 1 To - PCIe 3.0 x4, jusqu'à 3500 Mo/s",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -345,23 +362,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b550m-acsm-am4-ddr4-pcie-40-2-x-m2-micro-atx-3455364",
    "posted_at": "2026-11-15T23:04:06+00:00"
-  },
-  {
-   "title": "Solidigm P41 Plus SSD interne 512 Go M.2 NVMe PCIe Gen4 x4 06NRX4",
-   "model": "SSD:NVMe-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 42.3,
-   "shipping_eur": 0.0,
-   "effective_eur": 42.3,
-   "median_eur": 54.99,
-   "discount_pct": 23.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · mtek66 (100,0 %, 156 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194075152?_skw=ssd&hash=item3739de5c10:g:8gcAAeSwW29rAAAp",
-   "posted_at": "2026-11-20T08:13:39+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -534,6 +534,23 @@
    "posted_at": "2026-11-19T14:02:22+00:00"
   },
   {
+   "title": "8Go RAM Samsung DDR4-3200 M471A1G44CB0-CWE PC4-25600 1.2v 260Pin CL22 SODIMM PC",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 52.69,
+   "shipping_eur": 0.0,
+   "effective_eur": 52.69,
+   "median_eur": 62.89,
+   "discount_pct": 16.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · docamania_fr (99,0 %, 621 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198312875383?_skw=ddr4&hash=item2e2c5e5577:g:KSsAAeSwVnNp7i7G",
+   "posted_at": "2026-04-26T15:28:12+00:00"
+  },
+  {
    "title": "SSD interne Lexar 512Go - M.2 2280 PCIe Gen3x4 NVMe 1.4, Jusqu'à 3500 Mo/s en lecture, 2400 Mo/s en écriture",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -665,13 +682,6 @@
    "posted_at": "2026-11-22T13:19:30+00:00"
   },
   {
-   "title": "Samsung 8 Go DDR4 SO-DIMM 260 broches PC4-2666V M471A1K43CB1-CTD",
-   "price_raw": "32.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206719945953?_skw=ddr4&hash=item3021780ce1:g:FBAAAeSwb75q~eya",
-   "posted_at": "2026-11-22T13:08:06+00:00"
-  },
-  {
    "title": "Fractal Design Meshify C - boîtier PC ATX",
    "price_raw": "50.00 EUR",
    "source": "ebay",
@@ -712,13 +722,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pack-fnac-pc-portable-acer-aspire-go-14-ag14-72p-58az-intel-core-5-3465267",
    "posted_at": "2026-11-22T12:07:38+00:00"
-  },
-  {
-   "title": "Micron 16 Go DDR4 3200 MHz SO-DIMM PC4-25600 RAM PC Portable MTA8ATF2G64HZ",
-   "price_raw": "56.86 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206719738022?_skw=ddr4&hash=item302174e0a6:g:--8AAeSwPrRrAtEk",
-   "posted_at": "2026-11-22T11:27:04+00:00"
   },
   {
    "title": "Tablette 13\" Apple iPad Pro - M4, 2 To, Argent Wi-Fi, Nano-texturé, 7ème génération 2024",
@@ -901,10 +904,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-puce-m5-cpu-10-coeurs-gpu-10-coeurs-16-go-ram-1-to-ssd-lumiere-stellaire-azerty-3464863",
    "posted_at": "2026-11-21T23:18:28+00:00"
+  },
+  {
+   "title": "PC portable 13\" Apple MacBook Neo (2026) - Puce A18 Pro, 8 Go RAM, 256 Go SSD, ( Coloris au choix - via 119,85€ fidélité) - 512 Go à 719,2€",
+   "price_raw": "679,15€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-13-apple-macbook-neo-2026-puce-a18-pro-8-go-ram-256-go-ssd-azerty-coloris-au-choix-via-11985eur-fidelite-3463200",
+   "posted_at": "2026-11-21T23:00:02+00:00"
+  },
+  {
+   "title": "15% à 25% de remise fidélité sur une sélection de produits Apple (Macbook, iPad, Airpods Max, ...)",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/15-a-25-de-remise-fidelite-sur-une-selection-de-produits-apple-macbook-ipad-airpods-max-ex-3463167",
+   "posted_at": "2026-11-21T23:00:01+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2098,
-  "models_with_reference": 73
+  "listings_seen": 2097,
+  "models_with_reference": 72
  }
 }
