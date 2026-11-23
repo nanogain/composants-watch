@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T19:08:00Z",
+ "generated_at": "2026-11-23T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 352,
-   "last_ok": "2026-11-23T19:08:00.675214+00:00"
+   "items": 353,
+   "last_ok": "2026-11-23T19:38:00.675155+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-23T19:08:00.675214+00:00"
+   "items": 365,
+   "last_ok": "2026-11-23T19:38:00.675155+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 77,
-   "last_ok": "2026-11-23T19:08:00.675214+00:00"
+   "items": 80,
+   "last_ok": "2026-11-23T19:38:00.675155+00:00"
   }
  },
  "watchlist": [
@@ -126,23 +126,6 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
-   "title": "[Prime] SSD interne 2.5\" Netac N530S - 2 To (vendeur tiers)",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 169.99,
-   "shipping_eur": null,
-   "effective_eur": 169.99,
-   "median_eur": 289.99,
-   "discount_pct": 41.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-2to-25-3464606",
-   "posted_at": "2026-11-21T16:47:22+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -156,25 +139,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BIX1RPPWKOU735CXZcK8vNmnTDfifyK4CvZORnL1WWkKeoeIkCavYO2LQntx45LG9e4yTmO5QGkZH60JBUuM1Zi%2B3x1ncv9Ru6MxPuUtSc5iRon4Vum%2BDmTp%2BuNaRBOWG34p7TsF0KlAWfpeRh2h4uIvaFmfBgR5%2FUrmB5%2Br9GnQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bq6XvaVKA9aevhTRvj7G5LjU6wDAJRC%2BS4PGo%2BQ3WVl8UgJO9nNt4N3PsRFXj%2BiSPjpsy%2Fd33B%2BlQMkvMd%2Bah0ajnDNAvCbxEqnxbZBrwtzsjfyTYmbZBLzSXWP6p1vdyxbDkwCe1dM6laca%2FxQ3PSy79StPQ54UxRv2MWx4BdzQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
-   "model": "RAM:DDR4-16Go-2933",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 79.95,
-   "shipping_eur": 3.9,
-   "effective_eur": 83.85,
-   "median_eur": 135.75,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tanzen_store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyuHP8ZRv7dWc%2BoVOFHd7bmTeHFDkg6xYkUA6T1RO%2Fb6mFuhKfnhPhrsLiOG4XSxxiFmlMgA9RLds71KqaT1Xcz7w9cRt6GMJcydK2ZJl194j45btxrKbJhtD7PcnThe%2B1U5aVQe1c7Si8ifNrpDEbq",
-   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "[Prime] Kit Mémoire RAM Netac Shadow S XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (Vendeur Tiers)",
@@ -192,23 +158,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/kit-memoire-ram-netac-shadow-s-xmp-20-ddr4-32-go-2-x-16-go-3200-mhz-cl16-20-20-40-135-v-3463083",
    "posted_at": "2026-11-20T10:09:37+00:00"
-  },
-  {
-   "title": "1 x Crucial 16GB | DDR4-3200 SO DIMM | CT16G4SFRA32A - 3200Mhz - 1 dispo",
-   "model": "RAM:DDR4-16Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 52.7,
-   "shipping_eur": 5.2,
-   "effective_eur": 57.9,
-   "median_eur": 87.93,
-   "discount_pct": 34.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dekjr_fr (100,0 %, 83 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717534383?_skw=ddr4&hash=item30215340af:g:5p8AAeSwPddrA3Gz",
-   "posted_at": "2026-11-21T12:25:18+00:00"
   },
   {
    "title": "1 x KINGSTON 16 Go DDR4 3200 MHz SODIMM KCP432SD8/16 - 2 dispo",
@@ -468,6 +417,27 @@
  ],
  "unclassified": [
   {
+   "title": "PC portable 16\" OLED Asus Vivobook S16 S5608QA-U3443W - Snapdragon X, 8 Go RAM, 256 Go SSD (Copilot+ PC)",
+   "price_raw": "549,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-oled-asus-vivobook-s16-s5608qa-u3443w-snapdragon-x-8-go-ram-256-go-ssd-copilot-pc-3466940",
+   "posted_at": "2026-11-23T19:33:11+00:00"
+  },
+  {
+   "title": "Imprimante Anycubic Kobra S1 ACE 2 Pro",
+   "price_raw": "399€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/anycubicxjoybuy-kobra-s1-ace-2-pro-3466926",
+   "posted_at": "2026-11-23T19:23:30+00:00"
+  },
+  {
+   "title": "Boîtier PC MSI Mag Pano M100L PZ",
+   "price_raw": "46,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-msi-mag-pano-m100l-pz-3466914",
+   "posted_at": "2026-11-23T19:17:21+00:00"
+  },
+  {
    "title": "Tablette 11\" Samsung Galaxy TAB A9+ - 128Go + 8 go ram Wifi Gris Anthracite (vendeur tiers)",
    "price_raw": "167,97€",
    "source": "dealabs",
@@ -531,8 +501,8 @@
    "posted_at": "2026-11-23T18:03:35+00:00"
   },
   {
-   "title": "PC Portable 14\" ASUS Vivobook 14 Flip - Intel Core Ultra 7 258V, 8 Go RAM, 256 Go SSD (X1404)",
-   "price_raw": "499€",
+   "title": "PC Portable 14\" ASUS Vivobook 14 - Core 5 320, 8 Go RAM, 256 Go SSD, Windows 11",
+   "price_raw": "499,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/asus-vivobook-14-x1404-3466828",
    "posted_at": "2026-11-23T17:59:36+00:00"
@@ -695,7 +665,7 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2666V 288 broches MTA8ATF1G64AZ-2G6E1",
    "price_raw": "26.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2MQQBShDwjbLu8S3n3Vv1931AMwcUTUAz9Lt55YVnDQUQA4UMqhptVzX5LHhw7KeONa8PtOvJnFak9wQnvE4vnOe06W5XSBsLiEgV7vPUYABGBu8rtK8UN%2F1CFcCVGw1x%2BdHwLMqvUNEh500CHru1%2Fr",
+   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2On8nH%2BO6bU2fh5TW6FaJty0eFjQqtO38%2BmfbBIA1n%2B1w0FIV5yCw%2BAuWDaexXr0LOn%2B%2FcAB86fgfX0iZlajz6wNp0qC7qxi0G6qskm9m9YhmJY2FBuRzU9Kwkm%2Fyb1HAcNIad1XMocz5ph0Tg2xnpm",
    "posted_at": "2026-11-23T11:37:38+00:00"
   },
   {
@@ -795,31 +765,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-11-pouces-m4-3466010",
    "posted_at": "2026-11-23T08:16:20+00:00"
-  },
-  {
-   "title": "[Prime] Support de Tablette iPad Lisen (Via Remise au Panier - Vendeur Tiers)",
-   "price_raw": "11,65€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lisen-support-tablette-ipad-bureau-3466003",
-   "posted_at": "2026-11-23T08:09:19+00:00"
-  },
-  {
-   "title": "Serveur NAS Asustor Flashstor 6 FS6706T - 6 Baies NVME M.2 (Vendeurs Tiers)",
-   "price_raw": "435€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asustor-flashstor-6-fs6706t-nas-6-baies-nvme-m2-3465961",
-   "posted_at": "2026-11-23T08:08:51+00:00"
-  },
-  {
-   "title": "Tablette 11,2\" Xiaomi Pad 8 - RAM 8 Go, 128 Go, avec Clavier 8 Pro (Via 70€ d'ODR)",
-   "price_raw": "361€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-xiaomi-pad-8-clavier-fr-112-8focus-pen-pro-via-odr-70eur-3465993",
-   "posted_at": "2026-11-23T08:02:50+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1956,
-  "models_with_reference": 73
+  "listings_seen": 1952,
+  "models_with_reference": 72
  }
 }
