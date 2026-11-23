@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T19:38:00Z",
+ "generated_at": "2026-11-23T20:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 353,
-   "last_ok": "2026-11-23T19:38:00.675155+00:00"
+   "last_ok": "2026-11-23T20:08:00.647482+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 365,
-   "last_ok": "2026-11-23T19:38:00.675155+00:00"
+   "items": 359,
+   "last_ok": "2026-11-23T20:08:00.647482+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T19:38:00.675155+00:00"
+   "last_ok": "2026-11-23T20:08:00.647482+00:00"
   }
  },
  "watchlist": [
@@ -139,8 +139,25 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bq6XvaVKA9aevhTRvj7G5LjU6wDAJRC%2BS4PGo%2BQ3WVl8UgJO9nNt4N3PsRFXj%2BiSPjpsy%2Fd33B%2BlQMkvMd%2Bah0ajnDNAvCbxEqnxbZBrwtzsjfyTYmbZBLzSXWP6p1vdyxbDkwCe1dM6laca%2FxQ3PSy79StPQ54UxRv2MWx4BdzQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8mjr%2Fu%2FHZhloKKtQ2ob8DpietHRrO9Cc9gAJw1AdvT11T9XNJPj1LiCZ%2B4B9z0863RkNyIWyoztSjrDavTbbhRcKC4IKHVinuopP3IEk6jAaWUil6AXzMrbTRUwKGVGibiK2frnA1QO7rmO4wfm0YkUBtUy9v4WjzeIa2sp%2FMKFw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tanzen_store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzTpqRWaWk9siR3ETNGa%2BhqVqOBmpkqFEU5gyBSvgAdsbvRGpCGTRnCckFfpMey8zJS1YkcwK8cZuY0yv3VuFlRhYxlG6stbQx4nrctF100albIW2dGAVMt7Dz%2Bl%2F8AM2tWHpRACzReoWTxDQh7Wfjq",
+   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "[Prime] Kit Mémoire RAM Netac Shadow S XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (Vendeur Tiers)",
@@ -167,8 +184,8 @@
    "price_eur": 52.7,
    "shipping_eur": 5.2,
    "effective_eur": 57.9,
-   "median_eur": 87.93,
-   "discount_pct": 34.2,
+   "median_eur": 86.86,
+   "discount_pct": 33.3,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · dekjr_fr (100,0 %, 83 avis)",
@@ -226,23 +243,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117412302291?_skw=ddr5&hash=item1b56518dd3:g:akUAAeSwridpwzMR",
    "posted_at": "2026-09-14T15:20:30+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.99,
-   "discount_pct": 21.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -364,23 +364,6 @@
    "posted_at": "2026-11-23T13:10:07+00:00"
   },
   {
-   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 79.74,
-   "shipping_eur": 2.99,
-   "effective_eur": 82.73,
-   "median_eur": 98.94,
-   "discount_pct": 16.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docazmicro_8 (100,0 %, 533 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
-   "posted_at": "2026-11-14T10:28:06+00:00"
-  },
-  {
    "title": "Western Digital PC SN520 SSD interne 512 Go M.2 2280 NVMe SDAPNUW-512G-1006",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -416,6 +399,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 14\" MSI Prestige 14 AI+ D3MG-420FRN - OLED, Ultra 7 355, 32 Go RAM, 512 Go SSD, Windows 11",
+   "price_raw": "1 699€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-3466950",
+   "posted_at": "2026-11-23T19:43:19+00:00"
+  },
   {
    "title": "PC portable 16\" OLED Asus Vivobook S16 S5608QA-U3443W - Snapdragon X, 8 Go RAM, 256 Go SSD (Copilot+ PC)",
    "price_raw": "549,99€",
@@ -606,6 +596,13 @@
    "posted_at": "2026-11-23T14:29:08+00:00"
   },
   {
+   "title": "PC Portable 16\" Acer Aspire Go 16 AG16-71P - i9-13900H, 32 Go DDR5, 1 To SSD, Windows 11",
+   "price_raw": "1 066,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
+   "posted_at": "2026-11-23T14:14:14+00:00"
+  },
+  {
    "title": "Ecran PC 27\" Gigabyte GO27Q24G",
    "price_raw": "327,26€",
    "source": "dealabs",
@@ -665,7 +662,7 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2666V 288 broches MTA8ATF1G64AZ-2G6E1",
    "price_raw": "26.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2On8nH%2BO6bU2fh5TW6FaJty0eFjQqtO38%2BmfbBIA1n%2B1w0FIV5yCw%2BAuWDaexXr0LOn%2B%2FcAB86fgfX0iZlajz6wNp0qC7qxi0G6qskm9m9YhmJY2FBuRzU9Kwkm%2Fyb1HAcNIad1XMocz5ph0Tg2xnpm",
+   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2Ntyzfoj%2FNe5YYtan1kSpbKQbBWUiH6hGuvD4K2JLKX8U1VfxuH46AnMIy3Vvx82VRm4QVTXQT%2BrFjSI%2Bue5jtiiEctfK80%2FjSQZk8rVsM7LxJij0m6y0opP8%2BhKpdd16RTGCWwM1sC%2BKqgzM9Kf2aU",
    "posted_at": "2026-11-23T11:37:38+00:00"
   },
   {
@@ -751,24 +748,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tenda-routeur-wi-fi-6-ax1500-mbps-gigabit-double-bande-routeur-sans-fil-5ghz24ghz-4-ports-wanlan-gigabit-5-antennes-externes-mode-3466081",
    "posted_at": "2026-11-23T09:04:57+00:00"
-  },
-  {
-   "title": "Flacon d'1 Kg de Résine Elegoo ABS-Like 3.0 Pro - Gris, pour Imprimante 3D (Vendeur Tiers)",
-   "price_raw": "13,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/elegoo-abs-like-30-pro-resine-pour-imprimante-3d-1000g-gris-3466074",
-   "posted_at": "2026-11-23T09:01:02+00:00"
-  },
-  {
-   "title": "Tablette 11\" Apple iPad Air - M4 256 Go",
-   "price_raw": "869€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-11-pouces-m4-3466010",
-   "posted_at": "2026-11-23T08:16:20+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1952,
-  "models_with_reference": 72
+  "models_with_reference": 73
  }
 }
