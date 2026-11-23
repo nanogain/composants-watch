@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T00:38:00Z",
+ "generated_at": "2026-11-23T01:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 349,
-   "last_ok": "2026-11-23T00:38:00.681335+00:00"
+   "last_ok": "2026-11-23T01:08:00.645778+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 351,
-   "last_ok": "2026-11-23T00:38:00.681335+00:00"
+   "items": 356,
+   "last_ok": "2026-11-23T01:08:00.645778+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T00:38:00.681335+00:00"
+   "last_ok": "2026-11-23T01:08:00.645778+00:00"
   }
  },
  "watchlist": [
@@ -40,6 +40,23 @@
   }
  ],
  "opportunities": [
+  {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 140.0,
+   "discount_pct": 64.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-03T08:24:17+00:00"
+  },
   {
    "title": "Carte mère Gigabyte Z390 UD - Socket LGA 1151 - Complète avec boîte d'origine",
    "model": "MB:Z390",
@@ -160,23 +177,6 @@
    "posted_at": "2026-11-21T16:47:22+00:00"
   },
   {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FcP9N4W4utXK%2BoFQkmY5zToRvxKtQQUDYcK7OWet8q3K%2Bu9cFhzXzO6yBcvrHi5shXpkD8d5JfmBet5v45tTnhsRqGUjxmR5vuMendYOf9KqXWe0TH9U%2ByaHnBtnDRbCq6J0OXLWudJs%2BCNGzz%2FPztCD%2BLKrJOYVlpAy%2BZo1zvBA%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyu8XM9lBZWgKKgXAc0hAGG8QR0Kw154Bu%2FxKfQCBdocp%2FTiTIYjB39zQ410Z7RVFO0S%2BPpY7%2BsuTHci4%2FTgOZZUby1CcacTwe5tWEYd3VY69gppBmZn%2FpDxzVAaWa9saG220V67VJiNaQHXw3tQvlL",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxDwtPdAsmmvOxeExbubyFIg8uxOwfY1DDjzxZW62IJEmN7znqi3EqG%2FPIfwUv5cXefWZCqY8xNixd%2BwnJRj62EU3%2FE%2FsymOweup%2BqIN%2BDQMEGQTJgcOAXOIbV0%2BOZirMcol5QKmye6iOaGv6jFKF2L",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -275,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 231 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsF5Kcp7oVy9lNCCjfglHpw8t4hsIm05j6UOS7Wak9EFx5pHo5XTmTomkcwsLiVPHGWN9GyzknPl3BqvlKcHsA1HhZz5CAgnLuHPncNAPpcVgsunO%2BUc%2BPVGnj%2F3zXdFuqOS8cQ0wFmQlZLXtpqBulZu",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsF3uI34cFek6fe5huem%2FDcFzEQO6Z2Dvdg7izcMoPjr1Hl8pqdiGvXt6if%2BWpltWqKICxpwqVaLvXQWIrCTvONovZe%2FvLN0dk%2Fdh7BfkD%2BQ1W67fkhgZhjs7BYrbMy789ZPfZQwFXEcmc6znJ%2BzziOm",
    "posted_at": "2026-11-21T16:23:44+00:00"
   },
   {
@@ -530,7 +530,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62Oxv0tmOVKRzn97cA56vKg7jP%2BMDWK%2FjNqNTKRA%2F1THdBfklEPGiSRsZyqtledEmyfpMmcFp0r83tjpWVhc3zJ3xbJKTS0p9UhrCbnvbJwtPddcPifqAeorFe%2FO2DfpeBWGll5nLg297kJY4yk1sxn0CFFa3mTrE8g6odemdB5big%3D%3D",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62MgGWGbphiQd6uWHJi8MK5P8yhoIc3WRE7I5pecrJbWAABFjAyG%2FRkdbsMWSWdsRR%2FmNmIpzpHExg6LPE8WIyklJR9nAbbCocuSnFX5YGR1PCSuMIizM1HD4QsiJyTMfmaWnwrDy%2Fu95qOy5arfwZGIklIqUBfktlW7DYllOheiYQ%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -836,7 +836,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2035,
-  "models_with_reference": 72
+  "listings_seen": 2031,
+  "models_with_reference": 70
  }
 }
