@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T20:08:00Z",
+ "generated_at": "2026-11-23T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-23T20:08:00.647482+00:00"
+   "items": 354,
+   "last_ok": "2026-11-23T20:38:00.653765+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 359,
-   "last_ok": "2026-11-23T20:08:00.647482+00:00"
+   "items": 366,
+   "last_ok": "2026-11-23T20:38:00.653765+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T20:08:00.647482+00:00"
+   "last_ok": "2026-11-23T20:38:00.653765+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8mjr%2Fu%2FHZhloKKtQ2ob8DpietHRrO9Cc9gAJw1AdvT11T9XNJPj1LiCZ%2B4B9z0863RkNyIWyoztSjrDavTbbhRcKC4IKHVinuopP3IEk6jAaWUil6AXzMrbTRUwKGVGibiK2frnA1QO7rmO4wfm0YkUBtUy9v4WjzeIa2sp%2FMKFw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FDt9SEZElfsqxvaXElmEX%2FZS5hGcDHofEXU1QkzarD7Mlj%2BaT%2F1%2BVyfDismRhhi64WXzwjrC8lRcwphKLDOU4bHEhWa2z89VicxSU14MaFPcZSzek5UvPo4eXRZvca9%2Fv11DxxnSHVhgiFV0VPPYU2cZL6qptpv4g%2Fz0C1DplCbw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzTpqRWaWk9siR3ETNGa%2BhqVqOBmpkqFEU5gyBSvgAdsbvRGpCGTRnCckFfpMey8zJS1YkcwK8cZuY0yv3VuFlRhYxlG6stbQx4nrctF100albIW2dGAVMt7Dz%2Bl%2F8AM2tWHpRACzReoWTxDQh7Wfjq",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxMJItyKKJcnmF4v4wpQdAsk%2Bfl%2BRQP8vNwv%2FBsQYohkMUbHlpEL0Zkn1qRAmidmlWRE29IO51wuz7HD0JPkF0ztUUo3yqCZEJ8LAJis0kMsfHfEQfuhk0dGAX%2BLUb6OqWRS0nJB8WYPbKCWQJBlohz",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -313,23 +313,6 @@
    "posted_at": "2026-11-21T20:27:57+00:00"
   },
   {
-   "title": "Samsung PM871b SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ DevSleep",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 11.9,
-   "shipping_eur": 3.9,
-   "effective_eur": 15.8,
-   "median_eur": 19.29,
-   "discount_pct": 18.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 234 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717942544?_skw=ssd&hash=item3021597b10:g:Y1QAAeSw~VprAcZJ",
-   "posted_at": "2026-11-21T16:28:14+00:00"
-  },
-  {
    "title": "PNY SSD 1 TO CS 900",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -399,6 +382,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Remplace carte graphique Radeon 4850 Apple iMac 11,1 27\" 2009 A1312 - 661-5315",
+   "price_raw": "149.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/405766858564?_skw=carte+graphique&hash=item5e7996e744:g:eq0AAOSwr-Zn~ijk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n%2FZ9h5xzcDeltUdqJ%2F5T%2B4Tq%2BOhVMEvVp0FHlU%2B7993AeAgih%2BdSIWEO24g4FQ5RXj1%2FqPKAeMEDl8A26z0qPxlmQ5yiZfucx0TFvT6Z5iVpRYPiszobgcFhG2bvkAc7PAi1yz7HuWZQloieiYdezB2Dr%2BlJaVw1GwuJp2zugpZIkt%2BH5%2FYlQenVuqZUBPzbLLXf5IcgOKA8CXVsurt1inExgiE0iYLFmeUWOrgcl2j3i7hgkwjjKRZTcPtCotzNS9BZEJkFt2JU6MPE9xg9%2B2OJLSFTCxe5eLL7S8HJ7N5Q%3D%3D",
+   "posted_at": "2025-04-15T09:15:08+00:00"
+  },
+  {
+   "title": "SK hynix 16 Go (2x8 Go) DDR4 PC4-3200AA SO-DIMM 260p HMA81GS6DJR8N-XN",
+   "price_raw": "59.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900115850825?_skw=ddr4&hash=itemd19315e649:g:GEkAAeSw4o5rBJxV",
+   "posted_at": "2026-11-23T20:05:14+00:00"
+  },
+  {
+   "title": "FIDECO Boîtier SSD M.2 NVMe USB 3.2 Gen 2 10 Gbps sans outil",
+   "price_raw": "42.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860171178116?_skw=ssd&hash=itemc846329084:g:ym4AAeSwf2lrBJ5J",
+   "posted_at": "2026-11-23T20:13:52+00:00"
+  },
   {
    "title": "PC Portable 14\" MSI Prestige 14 AI+ D3MG-420FRN - OLED, Ultra 7 355, 32 Go RAM, 512 Go SSD, Windows 11",
    "price_raw": "1 699€",
@@ -662,7 +666,7 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2666V 288 broches MTA8ATF1G64AZ-2G6E1",
    "price_raw": "26.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2Ntyzfoj%2FNe5YYtan1kSpbKQbBWUiH6hGuvD4K2JLKX8U1VfxuH46AnMIy3Vvx82VRm4QVTXQT%2BrFjSI%2Bue5jtiiEctfK80%2FjSQZk8rVsM7LxJij0m6y0opP8%2BhKpdd16RTGCWwM1sC%2BKqgzM9Kf2aU",
+   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ",
    "posted_at": "2026-11-23T11:37:38+00:00"
   },
   {
@@ -727,31 +731,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-ergo-s-ergonomique-trackball-recharge-usb-c-bluetooth-dongle-chiffre-3466116",
    "posted_at": "2026-11-23T09:21:38+00:00"
-  },
-  {
-   "title": "[Prime] Commutateur Ethernet 2.5G Non administré - 6 Ports, 2.5G Base-T, 2 Ports Uplink 10G SFP, sans Ventilateur 2.5Gb (Vendeur Tiers)",
-   "price_raw": "31,53€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/commutateur-ethernet-25g-non-administre-6-ports-25g-base-t-2-ports-uplink-10g-sfp-sans-ventilateur-25gb-via-coupon-vendeur-tiers-3466108",
-   "posted_at": "2026-11-23T09:19:04+00:00"
-  },
-  {
-   "title": "Souris sans fil Rechargeable Ugreen (Vendeur tiers)",
-   "price_raw": "14,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-rechargeable-ugreen-bluetooth24-ghz-vendeur-tiers-3466101",
-   "posted_at": "2026-11-23T09:16:26+00:00"
-  },
-  {
-   "title": "Routeur Wi-Fi 6 Tenda - AX1500 Mbps Gigabit, Double Bande 5GHz & 2.4GHz, 4 Ports WAN/LAN Gigabit, 5 Antennes Externes",
-   "price_raw": "28,48€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tenda-routeur-wi-fi-6-ax1500-mbps-gigabit-double-bande-routeur-sans-fil-5ghz24ghz-4-ports-wanlan-gigabit-5-antennes-externes-mode-3466081",
-   "posted_at": "2026-11-23T09:04:57+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1952,
-  "models_with_reference": 73
+  "listings_seen": 1943,
+  "models_with_reference": 72
  }
 }
