@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T23:38:00Z",
+ "generated_at": "2026-11-23T00:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 350,
-   "last_ok": "2026-11-22T23:38:00.675508+00:00"
+   "items": 349,
+   "last_ok": "2026-11-23T00:08:00.650242+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 354,
-   "last_ok": "2026-11-22T23:38:00.675508+00:00"
+   "items": 351,
+   "last_ok": "2026-11-23T00:08:00.650242+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-22T23:38:00.675508+00:00"
+   "last_ok": "2026-11-23T00:08:00.650242+00:00"
   }
  },
  "watchlist": [
@@ -40,6 +40,23 @@
   }
  ],
  "opportunities": [
+  {
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 49.99,
+   "median_eur": 140.0,
+   "discount_pct": 64.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-03T08:24:17+00:00"
+  },
   {
    "title": "Carte mère Gigabyte Z390 UD - Socket LGA 1151 - Complète avec boîte d'origine",
    "model": "MB:Z390",
@@ -160,21 +177,21 @@
    "posted_at": "2026-11-21T16:47:22+00:00"
   },
   {
-   "title": "Carte mère Asus Prime B760M-K D4 - DDR4, PCIe 4.0, 2 x PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, VGA, HDMI, SATA 6 Gb/s, Aura Sync RGB",
-   "model": "MB:B760",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 71.99,
-   "shipping_eur": null,
-   "effective_eur": 71.99,
-   "median_eur": 119.98,
-   "discount_pct": 40.0,
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-prime-b760m-k-d4-ddr4-pcie-40-2-x-pcie-40-m2-realtek-25gb-ethernet-vga-hdmi-sata-6-gbs-aura-sync-rgb-3456698",
-   "posted_at": "2026-11-16T00:03:08+00:00"
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BLDFzenpTB3UiRWUskub0dwf%2BRerZqohO6%2FFyAE4ZLkPSL%2FneBZmKh52%2FmTI%2FDSuk%2B9%2F48xqCH2hwLusXAmNSae%2FGqVv07hQAxJ2wFdseUr5uHY2AqKsjR8pF3v7cvjrtFX6HMTgiNHUlCOwtZMu6e9qJoW8QT2H%2FomDoIl5dXYg%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
@@ -190,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux3DrA7pUTqtlEZynrWXUdGeZl66K0Nuvpf%2B3wcHEyyNBG8IaPz8H7UG1KvtIuJb6bjLUe2E%2FK7Sb25e9NIZo%2Fl5KCRJ1%2FjEEureSIa%2FT7ZbEd10ikUmnp%2FPZsaYBbof3%2FIqeQ1LI7dmCgrn3AV79Gc",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzYF%2FmS%2Fjq6L6g9mWtxOFta9UbrtWSG0ox3cBRi12he%2BYgcNl6kWSr%2FcXsH2NskGBqSLhFvh2VONP8WSiJCRIsIJMAnq3Wow2i2ldVzLwnXmF5Js2abEzTxEhqDMiuPCiHp0A0%2F0CRwf9urI9o4%2FpKw",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -258,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 231 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsF02hri%2Btn8lM%2BFWPc43aANVVwdYG2%2F3P4Gv0QjcMhIw30%2B4Z4afpZbEHxvefliMUH%2FPoh5RJ6uo57JDtBMVAAerhC15r%2B9wYwhj5Tu0QxulUxE49WQONbEGU16nsBlW%2BjMh2TDB73x6aEPKgbJE7WG",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsH%2Bl6--CTxvm9bl4ABE7N%2BVxONF56Yrpp1RnVsgZx3W5z3orob7%2BvjPT4kgbdd8jrgdgZLHX16kwmE1WO0Qam0WBfuVZ6lgei%2FN7sWrqjmGmP9vE5jSs%2Bc60N5LuebJW69gbR8yGcXwbHJj0RjpENO8",
    "posted_at": "2026-11-21T16:23:44+00:00"
   },
   {
@@ -381,23 +398,6 @@
    "posted_at": "2026-11-20T10:13:01+00:00"
   },
   {
-   "title": "Alimentation PC Cooler Master Elite - 1000W, Gold",
-   "model": "PSU:1000W-Gold",
-   "category": "PSU",
-   "condition": "new",
-   "price_eur": 89.99,
-   "shipping_eur": null,
-   "effective_eur": 89.99,
-   "median_eur": 109.9,
-   "discount_pct": 18.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Darty",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-cooler-master-elite-1000w-3456676",
-   "posted_at": "2026-11-15T23:55:39+00:00"
-  },
-  {
    "title": "Samsung PM871b SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ DevSleep",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -466,6 +466,23 @@
    "posted_at": "2026-11-19T14:02:22+00:00"
   },
   {
+   "title": "8Go RAM Samsung DDR4-3200 M471A1G44CB0-CWE PC4-25600 1.2v 260Pin CL22 SODIMM PC",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 52.69,
+   "shipping_eur": 0.0,
+   "effective_eur": 52.69,
+   "median_eur": 62.89,
+   "discount_pct": 16.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · docamania_fr (99,0 %, 621 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198312875383?_skw=ddr4&hash=item2e2c5e5577:g:KSsAAeSwVnNp7i7G",
+   "posted_at": "2026-04-26T15:28:12+00:00"
+  },
+  {
    "title": "SSD interne Lexar 512Go - M.2 2280 PCIe Gen3x4 NVMe 1.4, Jusqu'à 3500 Mo/s en lecture, 2400 Mo/s en écriture",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -485,25 +502,18 @@
  ],
  "unclassified": [
   {
+   "title": "Coffret 4K Intégrale Harry Potter - 8 films",
+   "price_raw": "89,61€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/harry-potter-coffret-integrale-8-films-4k-ultra-hd-blu-ray-3465775",
+   "posted_at": "2026-11-22T23:42:34+00:00"
+  },
+  {
    "title": "Écran PC 27\" HKC Oled trueblack",
    "price_raw": "299,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecr-hkc-oled-27-pouces-3465758",
    "posted_at": "2026-11-22T23:28:43+00:00"
-  },
-  {
-   "title": "Intel Xeon CPU E7-2890V2 15x 2.80GHz Socle 2011 15 Core Processeur Max. 3.40GHz",
-   "price_raw": "30.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237200012130?_skw=processeur&hash=item373a38f362:g:AE8AAOSwpLhh3uy0",
-   "posted_at": "2026-11-22T23:07:24+00:00"
-  },
-  {
-   "title": "Processeur Intel Xeon CPU E7-4830 8X 2.13GHZ Socket 1567 8 Cœurs Max. 2.40GHZ",
-   "price_raw": "7.31 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237200012212?_skw=processeur&hash=item373a38f3b4:g:JQEAAOSwPc9h3uyi",
-   "posted_at": "2026-11-22T23:07:27+00:00"
   },
   {
    "title": "Bras écran PC Suptek 17-35\" à ressort à gaz - 11 kg max, VESA 75/100, rotation 360°, Noir (Vendeur tiers)",
@@ -537,7 +547,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62OXvCnSPhVKMYAu3kmUi5bxLmQH0cxVAN3PLu778bBlVVJodm34oeDgDIIMgH127nVmiKome%2BNFYyIxsq8D31%2BnwBrwHtEr1acPqd65RetlDniAgZeG9U4EDnBf5UbtOdGHX0bwvPHD8xnmXuD9%2FvE6GcRTsu%2FS0hqcBKFFlzhvxg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62Nl6Oks23y6seuM1fbmdJtTUiMIQQ3LCZpJNz1zph%2FhwHmPqEqMGhqXqrGNZEknQaethUFTa3q6WBCZhhkuWlOiVaeG3xWpzMWFqjllGC%2Bj3NzhbxUwfQ8haWOEguzIj2nTdeHpMplUDubQYUGxdTNRd%2BrKv6CcWVjMXzZtgm6Bhg%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -833,10 +843,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-m4-2026-128-go-via-12285eur-fidelite-3464881",
    "posted_at": "2026-11-21T23:49:42+00:00"
+  },
+  {
+   "title": "PC de bureau Apple Mac Mini avec Puce Apple M6 - 16 Go, 256 Go Argent",
+   "price_raw": "892€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-avec-puce-apple-m6-16-go-256-go-argent-3464877",
+   "posted_at": "2026-11-21T23:45:31+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2054,
-  "models_with_reference": 70
+  "listings_seen": 2047,
+  "models_with_reference": 71
  }
 }
