@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T20:38:00Z",
+ "generated_at": "2026-11-23T21:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 354,
-   "last_ok": "2026-11-23T20:38:00.653765+00:00"
+   "items": 352,
+   "last_ok": "2026-11-23T21:08:00.661778+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-23T20:38:00.653765+00:00"
+   "items": 363,
+   "last_ok": "2026-11-23T21:08:00.661778+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T20:38:00.653765+00:00"
+   "last_ok": "2026-11-23T21:08:00.661778+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FDt9SEZElfsqxvaXElmEX%2FZS5hGcDHofEXU1QkzarD7Mlj%2BaT%2F1%2BVyfDismRhhi64WXzwjrC8lRcwphKLDOU4bHEhWa2z89VicxSU14MaFPcZSzek5UvPo4eXRZvca9%2Fv11DxxnSHVhgiFV0VPPYU2cZL6qptpv4g%2Fz0C1DplCbw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9o%2BjOR7FD8nhNWBy8VeIQoMATt74okF294iwAX0tsFLLsOIIj%2Fipy%2F8AIoCnkLgivquphKFYi8InlxMFUuQd6EbVIYIl4IXXS5DetsRAz1vjKTm3CTHCldGliATg0UxGYd%2FnlfWquQcctgiSiAUn0zBAUQljmKq0P7vrh6N99ElA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxMJItyKKJcnmF4v4wpQdAsk%2Bfl%2BRQP8vNwv%2FBsQYohkMUbHlpEL0Zkn1qRAmidmlWRE29IO51wuz7HD0JPkF0ztUUo3yqCZEJ8LAJis0kMsfHfEQfuhk0dGAX%2BLUb6OqWRS0nJB8WYPbKCWQJBlohz",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyDwit3NF19Q%2Fyv%2B8bUQoJH%2Bl6oirSq1WVQAikB6vKoWOKv0zxyFmYBqiLRKHkZPHzI5GefCAx4XNkn9v0I5Id%2BiDzohQ5S0d0QrksUU3pxjHDJWOt%2Bp%2BBEu3vwd2LorvYg6MI9k5ObL6T4bVYNU3qV",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -383,10 +383,17 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 14\" Asus ProArt P14 - H7407BA-SM250X, OLED 120Hz, Ecran tactile, Nvidia RTX Spark N1X, 128 Go RAM, 1 To SSD, Blanc",
+   "price_raw": "5 519,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-proart-p14-h7407ba-sm250x-14-oled-120hz-ecran-tactile-nvidia-rtx-spark-n1x-128-go-ram-1-to-ssd-blanc-3467009",
+   "posted_at": "2026-11-23T20:45:17+00:00"
+  },
+  {
    "title": "Remplace carte graphique Radeon 4850 Apple iMac 11,1 27\" 2009 A1312 - 661-5315",
    "price_raw": "149.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858564?_skw=carte+graphique&hash=item5e7996e744:g:eq0AAOSwr-Zn~ijk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n%2FZ9h5xzcDeltUdqJ%2F5T%2B4Tq%2BOhVMEvVp0FHlU%2B7993AeAgih%2BdSIWEO24g4FQ5RXj1%2FqPKAeMEDl8A26z0qPxlmQ5yiZfucx0TFvT6Z5iVpRYPiszobgcFhG2bvkAc7PAi1yz7HuWZQloieiYdezB2Dr%2BlJaVw1GwuJp2zugpZIkt%2BH5%2FYlQenVuqZUBPzbLLXf5IcgOKA8CXVsurt1inExgiE0iYLFmeUWOrgcl2j3i7hgkwjjKRZTcPtCotzNS9BZEJkFt2JU6MPE9xg9%2B2OJLSFTCxe5eLL7S8HJ7N5Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/405766858564?_skw=carte+graphique&hash=item5e7996e744:g:eq0AAOSwr-Zn~ijk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n%2FZ9h5xzcDeltUdqJ%2F5T%2B4Tq%2BOhVMEvVp0FHlU%2B7993AeAgih%2BdSIWEO24g4FQ5RXj1%2FqPKAeMEDl8A26z0qPxlmQ5yiZfucx0TFvT6Z5iVpRYPiszobgcFhG2bvkAc7PhLgWWr4s2edYKZ1T5zqRpKNXY8AGG14DqZdjHl9nP9M%2FHN6OCU%2FxuZmx9cTg2m6Af813Z%2BT6BOx2BUhVPZ5egfpuBzqMSDtiGNKsGypMDd%2B7G%2BLphm%2BY7WNU7nz7GavBVvBR8jaoSUfCqF7gSdE4ftqfnw9LuarJmKBJqZPjAtQ%3D%3D",
    "posted_at": "2025-04-15T09:15:08+00:00"
   },
   {
@@ -395,13 +402,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/900115850825?_skw=ddr4&hash=itemd19315e649:g:GEkAAeSw4o5rBJxV",
    "posted_at": "2026-11-23T20:05:14+00:00"
-  },
-  {
-   "title": "FIDECO Boîtier SSD M.2 NVMe USB 3.2 Gen 2 10 Gbps sans outil",
-   "price_raw": "42.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860171178116?_skw=ssd&hash=itemc846329084:g:ym4AAeSwf2lrBJ5J",
-   "posted_at": "2026-11-23T20:13:52+00:00"
   },
   {
    "title": "PC Portable 14\" MSI Prestige 14 AI+ D3MG-420FRN - OLED, Ultra 7 355, 32 Go RAM, 512 Go SSD, Windows 11",
@@ -734,7 +734,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1943,
+  "listings_seen": 1937,
   "models_with_reference": 72
  }
 }
