@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T01:08:00Z",
+ "generated_at": "2026-11-23T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 349,
-   "last_ok": "2026-11-23T01:08:00.645778+00:00"
+   "last_ok": "2026-11-23T01:38:00.626516+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 356,
-   "last_ok": "2026-11-23T01:08:00.645778+00:00"
+   "last_ok": "2026-11-23T01:38:00.626516+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T01:08:00.645778+00:00"
+   "last_ok": "2026-11-23T01:38:00.626516+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 49.99,
-   "median_eur": 140.0,
-   "discount_pct": 64.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
-   "posted_at": "2024-01-03T08:24:17+00:00"
-  },
   {
    "title": "Carte mère Gigabyte Z390 UD - Socket LGA 1151 - Complète avec boîte d'origine",
    "model": "MB:Z390",
@@ -190,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxDwtPdAsmmvOxeExbubyFIg8uxOwfY1DDjzxZW62IJEmN7znqi3EqG%2FPIfwUv5cXefWZCqY8xNixd%2BwnJRj62EU3%2FE%2FsymOweup%2BqIN%2BDQMEGQTJgcOAXOIbV0%2BOZirMcol5QKmye6iOaGv6jFKF2L",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwmKdIsNOmoSvlrKuILn4mZUDqPjjB7FBdvT7zGEps%2FyLtV6CV%2FCs9d92jAjqbdPe3TSkf3uxtgQ3BiU0YpBRRfC7%2B8sv1bEnhA3ZCkElwWYOps1nm9sTBck4BPMQYikZxxv2JcKqoccVM1yozOvr7E",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -245,6 +228,23 @@
    "posted_at": "2026-11-21T12:25:18+00:00"
   },
   {
+   "title": "1 x KINGSTON 16 Go DDR4 3200 MHz SODIMM KCP432SD8/16 - 2 dispo",
+   "model": "RAM:DDR4-16Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 52.7,
+   "shipping_eur": 5.2,
+   "effective_eur": 57.9,
+   "median_eur": 86.86,
+   "discount_pct": 33.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dekjr_fr (100,0 %, 83 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206717554516?_skw=ddr4&hash=item3021538f54:g:R48AAeSwv~hrAY82",
+   "posted_at": "2026-11-21T12:32:46+00:00"
+  },
+  {
    "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -275,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 231 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsF3uI34cFek6fe5huem%2FDcFzEQO6Z2Dvdg7izcMoPjr1Hl8pqdiGvXt6if%2BWpltWqKICxpwqVaLvXQWIrCTvONovZe%2FvLN0dk%2Fdh7BfkD%2BQ1W67fkhgZhjs7BYrbMy789ZPfZQwFXEcmc6znJ%2BzziOm",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsHolVIvTBYLhMh%2BbleJFZTFdi9QAF%2B60eeJogvpVLp0kvQgLdOyP3G61cgNbViXGAcAZ0G17s6UQ0tDkwMdoybQFb3sbARinGGD2C462LW4Ms5TxvEvSg70nsqj0qEP2x2HDOyXRhsTbipJYuFmEOgZ",
    "posted_at": "2026-11-21T16:23:44+00:00"
   },
   {
@@ -311,6 +311,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 499.99,
+   "discount_pct": 21.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -530,7 +547,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62MgGWGbphiQd6uWHJi8MK5P8yhoIc3WRE7I5pecrJbWAABFjAyG%2FRkdbsMWSWdsRR%2FmNmIpzpHExg6LPE8WIyklJR9nAbbCocuSnFX5YGR1PCSuMIizM1HD4QsiJyTMfmaWnwrDy%2Fu95qOy5arfwZGIklIqUBfktlW7DYllOheiYQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62OAe2i71%2B0A6UH3nZt7k45k%2FMJV4VUSC1B43SFC4%2BwPEMDw%2B4mbxs4xsmGWEMNgNEnCw41UgXSdbqGuFZgZJIjqUADCB1j4J0U9Z%2F291QmtKa76o8ufoSNvSCNxIeG%2FtxNCX4CE2%2BBVm4QtrxATykXtG1dqEyfWrgtekOAY%2Ftj08Q%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -828,15 +845,15 @@
    "posted_at": "2026-11-21T23:18:28+00:00"
   },
   {
-   "title": "PC portable 13\" Apple MacBook Neo (2026) - Puce A18 Pro, 8 Go RAM, 256 Go SSD, ( Coloris au choix - via 119,85€ fidélité) - 512 Go à 719,2€",
-   "price_raw": "679,15€",
+   "title": "PC Portable Apple MacBook Air 15,3\" - Puce M5, 16 Go, 1 To, Lumière stellaire",
+   "price_raw": "1 549€",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-13-apple-macbook-neo-2026-puce-a18-pro-8-go-ram-256-go-ssd-azerty-coloris-au-choix-via-11985eur-fidelite-3463200",
-   "posted_at": "2026-11-21T23:00:02+00:00"
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-153-puce-m5-16-go-1-to-lumiere-stellaire-3464843",
+   "posted_at": "2026-11-21T22:53:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2031,
-  "models_with_reference": 70
+  "listings_seen": 2028,
+  "models_with_reference": 68
  }
 }
