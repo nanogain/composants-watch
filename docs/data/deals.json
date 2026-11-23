@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T16:38:00Z",
+ "generated_at": "2026-11-23T17:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-23T16:38:00.628943+00:00"
+   "items": 349,
+   "last_ok": "2026-11-23T17:08:00.648688+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 373,
-   "last_ok": "2026-11-23T16:38:00.628943+00:00"
+   "items": 372,
+   "last_ok": "2026-11-23T17:08:00.648688+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T16:38:00.628943+00:00"
+   "last_ok": "2026-11-23T17:08:00.648688+00:00"
   }
  },
  "watchlist": [
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bw0Y2mOd41jJJzXeiQ9fK2eYHckR9iwvucwyR1tw%2Fx9XehcXwGxVp0kkSSdqwPQgp6jlHb9QjIdPfzrkfebnhVeW2huq0Czu%2FvkTFXecgSbDR3VYOLg2j8IOR0DwhVGIaBqLLcAfoEcmggpktg8KUa3Dit1Itx4qze%2FFOPdMpfeA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9wZWZcUHwQzw1Ct8HKbIsmGNwPTq90vszAlHqoSLYL35bAj0XrNs%2BqA4UFlepZZUTu%2FB74J1qRkwEIPZYWg3cH6HaqK0U88Vz0aOyHctAzQ5D6NlTiFCHstMRgTDCC%2B5o%2FggxHQkYuMBIR6dleu9FdC%2BFIfAqUyGmlZpGKrWVXKw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzuZCrYSkLOc4cYODHcQNtrJ3dZG7wxbGDnOCfMsbtG0%2FkEkXquyEQo2gnIeLrd7uUwLxbwGa3%2FY5ZT86efPnLLxeGF%2BdlmqyWtI0SNExFoQ3KErGo5m5BGB2XWd7Cstk9LXdlRnldnWyDt022w0%2FPu",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxXTmISOk749NMVm9es6jI7641UxceUx2xQFY17UgY6qBwxMN5IUIwDpUKWD4H2UoLw%2BX8Fc5G4u5CiCbhu5%2F0Ho9SPKB4FyBYSw7Z%2BUMBXFXdHEn2PzDhT7lrFns4CWHPJaV9tgKwmduO%2FgmjPbz%2BP",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -279,21 +279,38 @@
    "posted_at": "2026-09-14T15:20:30+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.99,
-   "discount_pct": 21.6,
+   "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.4,
+   "shipping_eur": 3.0,
+   "effective_eur": 50.4,
+   "median_eur": 63.89,
+   "discount_pct": 21.1,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
+   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
+   "url": "https://www.ebay.fr/itm/237194313277?_skw=ssd&hash=item3739e1fe3d:g:bZAAAeSw1kBrAB-J",
+   "posted_at": "2026-11-20T10:28:23+00:00"
+  },
+  {
+   "title": "Samsung 860 EVO 500Go 2,5\" SATA III SSD Interne (MZ-76E500) Testé et formaté",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.4,
+   "shipping_eur": 3.0,
+   "effective_eur": 50.4,
+   "median_eur": 63.89,
+   "discount_pct": 21.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
+   "posted_at": "2026-11-20T10:13:01+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -328,40 +345,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
    "posted_at": "2026-11-21T20:27:57+00:00"
-  },
-  {
-   "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 47.4,
-   "shipping_eur": 3.0,
-   "effective_eur": 50.4,
-   "median_eur": 62.77,
-   "discount_pct": 19.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194313277?_skw=ssd&hash=item3739e1fe3d:g:bZAAAeSw1kBrAB-J",
-   "posted_at": "2026-11-20T10:28:23+00:00"
-  },
-  {
-   "title": "Samsung 860 EVO 500Go 2,5\" SATA III SSD Interne (MZ-76E500) Testé et formaté",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 47.4,
-   "shipping_eur": 3.0,
-   "effective_eur": 50.4,
-   "median_eur": 62.77,
-   "discount_pct": 19.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
-   "posted_at": "2026-11-20T10:13:01+00:00"
   },
   {
    "title": "Samsung PM871b SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ DevSleep",
@@ -468,7 +451,42 @@
  ],
  "unclassified": [
   {
-   "title": "Kit de Ram Kingston Technology Fury Beast - 16x2 Go",
+   "title": "Lot de 2 Prises Connectées Zigbee Sonoff S60ZBTPF avec Suivi Énergétique & Répéteur",
+   "price_raw": "21,28€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lot-de-2-prises-connectees-zigbee-sonoff-s60zbtpf-avec-suivi-energetique-repeteur-3466763",
+   "posted_at": "2026-11-23T16:59:30+00:00"
+  },
+  {
+   "title": "Imprimante 3D Elegoo Centauri Carbon (CoreXY, 256×256×256 mm, 500 mm/s, 320 °C, Caisson Fermé) (Vendeur Tiers)",
+   "price_raw": "322€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-elegoo-centauri-carbon-corexy-256256256-mm-500-mms-320-c-caisson-ferme-vendeur-tier-3466751",
+   "posted_at": "2026-11-23T16:50:27+00:00"
+  },
+  {
+   "title": "Kingston 8 Go DDR4 SO-DIMM 260 broches PC4-2400T 9995624-033 A00G",
+   "price_raw": "31.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206722970690?_skw=ddr4&hash=item3021a63442:g:DdQAAeSwbpVrBGyI",
+   "posted_at": "2026-11-23T16:42:25+00:00"
+  },
+  {
+   "title": "Micron 8 Go DDR4 SO-DIMM 260 broches PC4-3200AA MTA4ATF1G64HZ-3G2E2",
+   "price_raw": "33.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206722974924?_skw=ddr4&hash=item3021a644cc:g:miMAAeSw2KprBG12",
+   "posted_at": "2026-11-23T16:47:05+00:00"
+  },
+  {
+   "title": "Kingston 8 Go DDR4 SDRAM SO-DIMM PC4-2666V 1 module 9995624-060.A00G",
+   "price_raw": "33.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206722972070?_skw=ddr4&hash=item3021a639a6:g:YNoAAeSw3b5rBG0F",
+   "posted_at": "2026-11-23T16:44:15+00:00"
+  },
+  {
+   "title": "Kit de Ram Kingston Technology Fury Beast - 8x2 Go",
    "price_raw": "375€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/kingston-technology-fury-beast-16x2-go-3466708",
@@ -590,7 +608,7 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2666V 288 broches MTA8ATF1G64AZ-2G6E1",
    "price_raw": "26.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2N1rDDY4un7h9uwV3ZKP8Dd6fsveeRHutBiMD8an6xHVp3pBvizNC8jMgDMHzKnsg19NyigqCBeVkA9SlehCn64ilefQQQV7HeOE43CUMSzaIHmrgp8gJXJOMeShH5cDpprlLmpJMRrKYwPAwNEEHEV",
+   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ",
    "posted_at": "2026-11-23T11:37:38+00:00"
   },
   {
@@ -604,7 +622,7 @@
    "title": "Ramaxel RAM 4 Go DDR4 SDRAM DIMM PC4-2400T 1Rx8 288 broches 01AG804",
    "price_raw": "12.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722341517?_skw=ddr4&hash=item30219c9a8d:g:ICUAAeSwsOprBBwy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m2QoEcpAstnCSdER%2FSe9GTa0%2B7YXM7a5sQqU5cBh7KYo61mnt%2BlKEi2b7K%2FXKnM6p1fCJINOv8DapiDM6ibFUy44vQ15BIDnKszJ3loOxspKj9gPtnMyl5i5hTNDARyHZva%2Fqw659flGCGJnax9gx085jd%2BdwlffbzJOihj2SGWX0Eub0QuUTzuJoBLkNuiSozYLtIv7EOd6W4S7v50EStgl4qbGhM1lvrqtrXq%2BGisDEesD2bN71O3VeuTF%2F5V62b%2FenfxQOTxEoq3g%2FYqeRW",
+   "url": "https://www.ebay.fr/itm/206722341517?_skw=ddr4&hash=item30219c9a8d:g:ICUAAeSwsOprBBwy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m2QoEcpAstnCSdER%2FSe9GTa0%2B7YXM7a5sQqU5cBh7KYo61mnt%2BlKEi2b7K%2FXKnM6p1fCJINOv8DapiDM6ibFUy44vQ15BIDnKszJ3loOxspKj9gPtnMyl5i5hTNDARyHZIDPblDzGiqFNzUR940WLZJl153q4RSPz5HUeq8xn2R86OA6l2w3U1LJEvy0Gby%2Bg2Ivl9YMUVwgmQHtfGgAzEwYrVYeKEhoxLqclD%2FksgNXjwgVn5FZyuSHa6rtcF2T31U0xqWiWNsD2HO5jc5iIq",
    "posted_at": "2026-11-23T11:01:15+00:00"
   },
   {
@@ -781,45 +799,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/137824402585?_skw=ventirad&hash=item2016f97c99:g:a2IAAeSw-vZqx0Cz",
    "posted_at": "2026-10-08T07:07:53+00:00"
-  },
-  {
-   "title": "Dynatron B5 – Ventirad CPU actif 2U – Intel LGA3647 Narrow ILM",
-   "price_raw": "58.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137824426296?_skw=ventirad&hash=item2016f9d938:g:JrwAAeSwTMVqx0Ol",
-   "posted_at": "2026-10-08T07:20:33+00:00"
-  },
-  {
-   "title": "be quiet! PURE ROCK 3 Black | Ventirad mono tour, socket Intel et AMD",
-   "price_raw": "36.51 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307219970568?_skw=ventirad&hash=item4787bcba08:g:YUcAAeSwSYRq5nGM",
-   "posted_at": "2026-10-07T21:51:02+00:00"
-  },
-  {
-   "title": "Dalle Ecran BOE NT156WHM-N44 Matte 15.6 \" LED pour ordinateur portable",
-   "price_raw": "44.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493561?_skw=%C3%A9cran+pc&hash=item2b8b0d39f9:g:LysAAeSwEQlnxvp6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nECKaEwAweJXpwchvHNm2fIzZllk2URGsRQTJW12hdiv5qawltAPbfkyglXZtgouV8vU4KQUSqujewwdRvY2az%2B8%2B2KhEoB0PW28aMOQalEGW2RZeQXURtkSqEbpJD7LYAu3ZQgCRcmjVaVXjtdRpC7EgXbnRwL3dAsGXKMyq3SX%2FWY%2B81CJaMxiK%2FcAausjC7rGwVBGKgMiOKiZEz135obE0pXo%2FPOPnt4xjFNhtRAPq%2Bp2mtJGDMfDUkWPeiLwqf3tHHLdGuCadZMtJux1YwUchZ%2F8ivBYg6veYzb0cerg%3D%3D",
-   "posted_at": "2025-03-04T13:03:51+00:00"
-  },
-  {
-   "title": "CHERRY TouchBoard G80-11900LUMFR-2 Clavier mécanique AZERTY Touchpad USB",
-   "price_raw": "94.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128091434163?_skw=clavier&hash=item1dd2d82cb3:g:7zoAAeSwjTNqsVBg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m8B75Kv%2FUw%2BAFn9V2%2FC%2B%2BIwRhrGZsrnStkwSO15pFZ%2FeblTXiOCmSxMT2hRlfgz11sjMf4UIdJggDOe9SindkwKVF7Zc8EvX%2B4g%2F9XXP1eVfzbhYXd1ZvOtnzVGowBQaQLSmL0kXfWX8xjKmxPkN0VeGf%2BOLdA48rA%2FvBNdZiaYmw1FE9lgNiUJqX9aRdq1awGzl9LcLs7imUS2zfvPChgAjL6dY%2F8jg0AIBm179l98JDCLYsZLd8x9ZweW3oAENnUvBGuqq62nT4l8YepSSwE3uKdhtHfC2G0%2BsT2vNBprw%3D%3D",
-   "posted_at": "2026-09-21T15:50:09+00:00"
-  },
-  {
-   "title": "Coffret 4K Intégrale Harry Potter - 8 films",
-   "price_raw": "89,61€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/harry-potter-coffret-integrale-8-films-4k-ultra-hd-blu-ray-3465775",
-   "posted_at": "2026-11-22T23:42:34+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1954,
+  "listings_seen": 1953,
   "models_with_reference": 72
  }
 }
