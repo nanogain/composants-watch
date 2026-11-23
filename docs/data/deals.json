@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T17:08:00Z",
+ "generated_at": "2026-11-23T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-23T17:08:00.648688+00:00"
+   "items": 348,
+   "last_ok": "2026-11-23T17:38:00.634090+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 372,
-   "last_ok": "2026-11-23T17:08:00.648688+00:00"
+   "items": 367,
+   "last_ok": "2026-11-23T17:38:00.634090+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-23T17:08:00.648688+00:00"
+   "items": 67,
+   "last_ok": "2026-11-23T17:38:00.634090+00:00"
   }
  },
  "watchlist": [
@@ -109,6 +109,23 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9wZWZcUHwQzw1Ct8HKbIsmGNwPTq90vszAlHqoSLYL35bAj0XrNs%2BqA4UFlepZZUTu%2FB74J1qRkwEIPZYWg3cH6HaqK0U88Vz0aOyHctAzQ5D6NlTiFCHstMRgTDCC%2B5o%2FggxHQkYuMBIR6dleu9FdC%2BFIfAqUyGmlZpGKrWVXKw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Ub%2Bry0pcOMkpH%2BsBDuzfXywjLA%2FcLg9CK46GUwICJCazPQ3sWQxEfXUmzQAaE2zqFlI9hmb8mfhFm5fTnEDZpSd0pXC9WhUZgCTwBnXiotrBKJhcxClcn%2FoqjlaL%2FNBdE3EW7eWsXndYby2zVD%2FBZH0kC8GwuQN5lwr2cFuaEig%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxXTmISOk749NMVm9es6jI7641UxceUx2xQFY17UgY6qBwxMN5IUIwDpUKWD4H2UoLw%2BX8Fc5G4u5CiCbhu5%2F0Ho9SPKB4FyBYSw7Z%2BUMBXFXdHEn2PzDhT7lrFns4CWHPJaV9tgKwmduO%2FgmjPbz%2BP",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuynV5DT7o5uEZCdCGlJO3tdHI%2BPvf%2FFDVpAXfOEQOPWVKbhyjhk49LxAwQh%2BitXEm8jqOr6sBG8gmCmahk%2Ff1PXmmja8JCdWWN6nSlXEobcE0Y3t%2BuaED6TfsfJODshN6Ca5ASR2KsAIKPyuNSx0T%2Bw",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -415,23 +432,6 @@
    "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
-   "title": "SSD NVMe M.2 PCIe 3.0×4 256Go, Lecture Jusqu'à 3 500 Mo/s, Format M.2 2280, Disq",
-   "model": "SSD:NVMe-256Go",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 40.0,
-   "shipping_eur": 8.0,
-   "effective_eur": 48.0,
-   "median_eur": 437.74,
-   "discount_pct": 89.0,
-   "target_hit": false,
-   "suspect": true,
-   "merchant": "eBay · agostino76 (99,3 %, 653 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168879787574?_skw=ssd&hash=item2752050e36:g:NbkAAeSwDWxrAu3T",
-   "posted_at": "2026-11-22T13:29:00+00:00"
-  },
-  {
    "title": "SSD interne Lexar 512Go - M.2 2280 PCIe Gen3x4 NVMe 1.4, Jusqu'à 3500 Mo/s en lecture, 2400 Mo/s en écriture",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -450,6 +450,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Sync Box Philips Hue Play HDMI 4K",
+   "price_raw": "134,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/philips-hue-play-hdmi-sync-box-4k-3466765",
+   "posted_at": "2026-11-23T17:19:25+00:00"
+  },
   {
    "title": "Lot de 2 Prises Connectées Zigbee Sonoff S60ZBTPF avec Suivi Énergétique & Répéteur",
    "price_raw": "21,28€",
@@ -528,13 +535,6 @@
    "posted_at": "2026-11-23T15:26:17+00:00"
   },
   {
-   "title": "Kit clavier et souris sans fil 2,4 GHz récepteur USB disposition US Mac et PC",
-   "price_raw": "24.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960234746628?_skw=clavier&hash=itemdf92737304:g:JCUAAeSwv0drBFsL",
-   "posted_at": "2026-11-23T15:25:58+00:00"
-  },
-  {
    "title": "SODIMM DDR5 SK hynix PC5-4800B HMCG8ME6SA4092N AA",
    "price_raw": "213.90 EUR",
    "source": "ebay",
@@ -608,7 +608,7 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2666V 288 broches MTA8ATF1G64AZ-2G6E1",
    "price_raw": "26.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ",
+   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2Ppx6idvKNb5%2F8Xv%2FElXRbNC6aKpJ%2FrqI9rUQ7tTf0i3%2FjYlJ7Dj0XFH82YiEaGt0qdv7xf2M5s8Uu1rK83Cuzs3s9KYYNXV2luRc0oZLzwsCq8cRsG9aw6i31T7quHBqU2quts1HijBsfjB80VMgmK",
    "posted_at": "2026-11-23T11:37:38+00:00"
   },
   {
@@ -622,7 +622,7 @@
    "title": "Ramaxel RAM 4 Go DDR4 SDRAM DIMM PC4-2400T 1Rx8 288 broches 01AG804",
    "price_raw": "12.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722341517?_skw=ddr4&hash=item30219c9a8d:g:ICUAAeSwsOprBBwy&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m2QoEcpAstnCSdER%2FSe9GTa0%2B7YXM7a5sQqU5cBh7KYo61mnt%2BlKEi2b7K%2FXKnM6p1fCJINOv8DapiDM6ibFUy44vQ15BIDnKszJ3loOxspKj9gPtnMyl5i5hTNDARyHZIDPblDzGiqFNzUR940WLZJl153q4RSPz5HUeq8xn2R86OA6l2w3U1LJEvy0Gby%2Bg2Ivl9YMUVwgmQHtfGgAzEwYrVYeKEhoxLqclD%2FksgNXjwgVn5FZyuSHa6rtcF2T31U0xqWiWNsD2HO5jc5iIq",
+   "url": "https://www.ebay.fr/itm/206722341517?_skw=ddr4&hash=item30219c9a8d:g:ICUAAeSwsOprBBwy",
    "posted_at": "2026-11-23T11:01:15+00:00"
   },
   {
@@ -794,15 +794,15 @@
    "posted_at": "2026-04-24T20:28:46+00:00"
   },
   {
-   "title": "Dynatron B11 – Ventirad CPU actif 3U – Intel LGA3647 Narrow",
-   "price_raw": "61.20 EUR",
+   "title": "Microprocesseur SLBU3 Intel i5-2540M Socket G1 2,40GHz Cache 3MB Processeur CPU",
+   "price_raw": "10.69 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137824402585?_skw=ventirad&hash=item2016f97c99:g:a2IAAeSw-vZqx0Cz",
-   "posted_at": "2026-10-08T07:07:53+00:00"
+   "url": "https://www.ebay.fr/itm/267829331236?_skw=processeur&hash=item3e5bdf4524:g:jUgAAeSwUXxqYH3Y",
+   "posted_at": "2026-10-31T23:23:29+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1953,
+  "listings_seen": 1950,
   "models_with_reference": 72
  }
 }
