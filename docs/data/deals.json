@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T01:38:00Z",
+ "generated_at": "2026-11-23T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 349,
-   "last_ok": "2026-11-23T01:38:00.626516+00:00"
+   "last_ok": "2026-11-23T02:08:00.656780+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 356,
-   "last_ok": "2026-11-23T01:38:00.626516+00:00"
+   "items": 359,
+   "last_ok": "2026-11-23T02:08:00.656780+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T01:38:00.626516+00:00"
+   "last_ok": "2026-11-23T02:08:00.656780+00:00"
   }
  },
  "watchlist": [
@@ -160,6 +160,23 @@
    "posted_at": "2026-11-21T16:47:22+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BwSG28mdIbSuzf4QbNPAVgbUaDC8s3ViAGD4QMkuvg%2B0nWFV0C5jgEdmbWQnIqZl2XCz5%2BFpoeTH5y6qMXEddKVhkNbYLuZlbZfKNw6IQcn5PCKaCOV9SUiAFYNtBOltPqwQ6ysu3aWJKfpeqq2p7ZOdz%2FhtWRCqfqLbBAc%2FZTuw%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwmKdIsNOmoSvlrKuILn4mZUDqPjjB7FBdvT7zGEps%2FyLtV6CV%2FCs9d92jAjqbdPe3TSkf3uxtgQ3BiU0YpBRRfC7%2B8sv1bEnhA3ZCkElwWYOps1nm9sTBck4BPMQYikZxxv2JcKqoccVM1yozOvr7E",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyprmoIQUE6owSDqOnScVRUlB0jkf98M1Fn9FrSeGlrmtLbcoGakDVGI6o%2B4r2CK%2FuUqi--dsOorrxKVRNWS3hKSea7JfOrwlEsqrxcc%2FRdkMi7g3HWz5Uu4yjX9VY6hMnyTxQYPm00C%2BLZ84KGZcHw",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -275,7 +292,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 231 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsHolVIvTBYLhMh%2BbleJFZTFdi9QAF%2B60eeJogvpVLp0kvQgLdOyP3G61cgNbViXGAcAZ0G17s6UQ0tDkwMdoybQFb3sbARinGGD2C462LW4Ms5TxvEvSg70nsqj0qEP2x2HDOyXRhsTbipJYuFmEOgZ",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsHCLYitc2k5MZJarvvxmmxeZPPs1ED3yKfVcv5klqvTMJoBC3jGfl0N4NTO6o7e09j%2BbGqNNpfFEbcrcb0qsPeuWhldaw%2FuKOA94B7zoguhczt8qTNl71wBjPvLpKojuZavNctndeoHJ2jg1Zg8hRh%2B",
    "posted_at": "2026-11-21T16:23:44+00:00"
   },
   {
@@ -502,6 +519,13 @@
  ],
  "unclassified": [
   {
+   "title": "Samsung 8Go DDR4 3200MHz SO-DIMM PC4-3200AA 1Rx16 RAM PC Portable",
+   "price_raw": "35.96 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860167856188?_skw=ddr4&hash=itemc845ffe03c:g:jGoAAeSwuXlrAxS8",
+   "posted_at": "2026-11-22T16:14:08+00:00"
+  },
+  {
    "title": "Coffret 4K Intégrale Harry Potter - 8 films",
    "price_raw": "89,61€",
    "source": "dealabs",
@@ -547,7 +571,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62OAe2i71%2B0A6UH3nZt7k45k%2FMJV4VUSC1B43SFC4%2BwPEMDw%2B4mbxs4xsmGWEMNgNEnCw41UgXSdbqGuFZgZJIjqUADCB1j4J0U9Z%2F291QmtKa76o8ufoSNvSCNxIeG%2FtxNCX4CE2%2BBVm4QtrxATykXtG1dqEyfWrgtekOAY%2Ftj08Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62Peu28CJn4cNLFh4K%2BSp41D37dy8Mx51KLFkQ0pxjC%2BSMuvpnGdt4QMmNA67jvCAsERs%2F8eBgsbggvL6YoYF9jDx2yO%2B6%2Fo8n3A1kwTlobOL0bBGuM%2FEJNujDlM03zabyZWPZJVNZx9CSNqGApclS12wLnabqgJHvrOJYCG05CYqA%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -843,17 +867,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-15-pouces-puce-m5-cpu-10-coeurs-gpu-10-coeurs-16-go-ram-1-to-ssd-lumiere-stellaire-azerty-3464863",
    "posted_at": "2026-11-21T23:18:28+00:00"
-  },
-  {
-   "title": "PC Portable Apple MacBook Air 15,3\" - Puce M5, 16 Go, 1 To, Lumière stellaire",
-   "price_raw": "1 549€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-153-puce-m5-16-go-1-to-lumiere-stellaire-3464843",
-   "posted_at": "2026-11-21T22:53:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2028,
-  "models_with_reference": 68
+  "listings_seen": 2023,
+  "models_with_reference": 70
  }
 }
