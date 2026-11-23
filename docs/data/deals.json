@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T10:08:00Z",
+ "generated_at": "2026-11-23T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 349,
-   "last_ok": "2026-11-23T10:08:00.621118+00:00"
+   "last_ok": "2026-11-23T10:38:00.685307+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 353,
-   "last_ok": "2026-11-23T10:08:00.621118+00:00"
+   "items": 356,
+   "last_ok": "2026-11-23T10:38:00.685307+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T10:08:00.621118+00:00"
+   "last_ok": "2026-11-23T10:38:00.685307+00:00"
   }
  },
  "watchlist": [
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-legion-27qd-10-qhd-27-240-hz-05-ms-gaming-2560-x-1440-resolution-2k-hdmi-21-displayport-amd-freesync-premium-3459423",
    "posted_at": "2026-11-17T19:16:59+00:00"
+  },
+  {
+   "title": "ASRock Rack B450D4U-V1LQ5 - AMD B450 - DDR4 Ram - BTO Carte Mère Socket AM4",
+   "model": "MB:B450",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 42.6,
+   "shipping_eur": 0.0,
+   "effective_eur": 42.6,
+   "median_eur": 87.04,
+   "discount_pct": 51.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · alpha38 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:UQMAAeSwdj1rAEJI",
+   "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2F3qEVh9nQrkqJnn3SDLyvkldQO2hO2T9mtodK1onAwz98UN5Vhw13JwoLAHA5P2dqwvVYnxHGCvXj9mct8znJ6pG6PFmopMrvZVhnWkXIg%2Bsu4cYp%2B5iVeUCEVod2IWkTTzdUMnz3ky1cRPtDClLNf%2FrW0diWDwsUHqzO6rQLbNw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8OihK1qUdr2QqX%2BDUQduCTkL7OeQSehjtUY3etnH4vPq9PNT6Ki%2BV312B0Uo%2FsUcLCDwIklRSKcOB9YDKI2gal3nu2c61zkFwm1rJP2GT9ogqqZFmRLkTjwYG0WhEesQn8ZnfERFyY%2FUtElpYRISqkeLIAickMnCUu1s50n5WUBQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxUF1d2C4QsM2ezaZ5DeNXRDodyQbUnTeI0CtWOi8Vtq5wdvIB09EyaDw7lbJJ6WNNzxZWzf9bbXyvdescdM1dHvS8yEHUV696s9RyaYVzrDgqyL7HtKVjivk8Pw%2BqbvhuDnMmMMd%2BKcpMcljrZiQH5",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxFo1MH3Z37Rmnvrb%2BSJzO5WC9okmkm34Y2VNyByy6xWDyXIfD%2FOoULBycCD2abuAIBhtBxwDUB0OlcxsE8wHwseDx8Yab18DbaYsM9tg8bOgnipFHRspJcGedXT4cYmR3EK4HtKxn3cr7IStyvl3RY",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -275,7 +292,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 233 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsHk%2FgdGgBc1JHqLXAu5Nz6zDVsOrE3sps7wvStGU65%2FBfJE9yyMFFMFZhM2ySxxqel5Ioc4zCWpi--HlBkt00rBNZ1%2BlwxqFX4rRE%2B0Rjl0JfZK4KxsnUDMRGe%2FuT2uhJ98%2FCSJr79qMH%2FRE1cipS2c",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsHG7KLwSbXwS0ch2NQPEbx9YRvAdk8I2nM7yvysO4DZrqSNA7CSYmNzNcNoWEjWCdPg3UCU00a3DCnPbhY8Q5C6gML6yq6xhSYFAStXSga0AMsfqnq%2F0Q3vPE%2FOir4CHMHimSGLrls57sB%2BSqBz4Ig8",
    "posted_at": "2026-11-21T16:23:44+00:00"
   },
   {
@@ -432,23 +449,6 @@
    "posted_at": "2026-11-21T16:28:14+00:00"
   },
   {
-   "title": "Carte Mère MSI B550-A Pro  Socket AM4 - Lire la description",
-   "model": "MB:B550",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 65.0,
-   "shipping_eur": 6.5,
-   "effective_eur": 71.5,
-   "median_eur": 86.94,
-   "discount_pct": 17.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · m.a.r.z (100,0 %, 1 623 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840148577305?_skw=carte+m%C3%A8re&hash=itemc39cc1ec19:g:ojgAAeSwjIBrAE-3",
-   "posted_at": "2026-11-20T13:57:09+00:00"
-  },
-  {
    "title": "ASUS ROG Strix Radeon RX 570 OC 4 Go GDDR5 Gaming - Carte graphique PCIe testée",
    "model": "GPU:RX 570",
    "category": "GPU",
@@ -464,23 +464,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237192488944?_skw=carte+graphique&hash=item3739c627f0:g:B4UAAeSw9rpq~v9n",
    "posted_at": "2026-11-19T14:02:22+00:00"
-  },
-  {
-   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 79.74,
-   "shipping_eur": 2.99,
-   "effective_eur": 82.73,
-   "median_eur": 98.94,
-   "discount_pct": 16.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docazmicro_8 (100,0 %, 533 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
-   "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
    "title": "SSD interne Lexar 512Go - M.2 2280 PCIe Gen3x4 NVMe 1.4, Jusqu'à 3500 Mo/s en lecture, 2400 Mo/s en écriture",
@@ -502,6 +485,20 @@
  ],
  "unclassified": [
   {
+   "title": "Imprimante HP Smart Tank 210, Photo - Monofonction",
+   "price_raw": "133,94€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-hp-smart-tank-210-photo-monofonction-3466256",
+   "posted_at": "2026-11-23T10:26:19+00:00"
+  },
+  {
+   "title": "Lot 8 RAM 8 go DDR4 Pour Pc Portables",
+   "price_raw": "241.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860169879859?_skw=ddr4&hash=itemc8461ec133:g:BwgAAeSwXP5rBBMz",
+   "posted_at": "2026-11-23T10:19:58+00:00"
+  },
+  {
    "title": "PC de bureau PcCom Ready - AMD Ryzen 7 5800X, 32 Go DDR4, 1 To SSD, RTX 5060, Windows 11, Home Blanc",
    "price_raw": "1 390,96€",
    "source": "dealabs",
@@ -516,7 +513,7 @@
    "posted_at": "2026-11-23T09:47:20+00:00"
   },
   {
-   "title": "Souris gamer sans fil - Logitech G Pro X Superlight 2 SE - Noire",
+   "title": "Souris sans fil Logitech G Pro X Superlight 2 SE",
    "price_raw": "71,96€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-gamer-sans-fil-logitech-g-pro-x-superlight-2-se-noire-3466214",
@@ -649,13 +646,6 @@
    "posted_at": "2026-11-23T06:56:37+00:00"
   },
   {
-   "title": "GoPro Mission 1 PRO (Membres PRIME) bon d'achat 15€",
-   "price_raw": "514€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/gopro-mission-1-pro-menbres-prime-bon-dachat-15eur-3465886",
-   "posted_at": "2026-11-23T06:26:17+00:00"
-  },
-  {
    "title": "Fast and Furious - L'intégrale 10 films 4K Ultra HD",
    "price_raw": "62,99€",
    "source": "dealabs",
@@ -675,13 +665,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/137254486766?_skw=clavier&hash=item1ff50142ee:g:Zb4AAeSw5-9p68xu",
    "posted_at": "2026-04-24T20:28:46+00:00"
-  },
-  {
-   "title": "Microprocesseur SLBU3 Intel i5-2540M Socket G1 2,40GHz Cache 3MB Processeur CPU",
-   "price_raw": "10.69 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267829331236?_skw=processeur&hash=item3e5bdf4524:g:jUgAAeSwUXxqYH3Y",
-   "posted_at": "2026-10-31T23:23:29+00:00"
   },
   {
    "title": "Dynatron B11 – Ventirad CPU actif 3U – Intel LGA3647 Narrow",
@@ -708,14 +691,14 @@
    "title": "Dalle Ecran BOE NT156WHM-N44 Matte 15.6 \" LED pour ordinateur portable",
    "price_raw": "44.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493561?_skw=%C3%A9cran+pc&hash=item2b8b0d39f9:g:LysAAeSwEQlnxvp6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nECKaEwAweJXpwchvHNm2fIzZllk2URGsRQTJW12hdiv5qawltAPbfkyglXZtgouV8vU4KQUSqujewwdRvY2az%2B8%2B2KhEoB0PW28aMOQalEGW2RZeQXURtkSqEbpJD7Lajy14iVeH4HhQngHqBV2zj12coWeRfKZ3xG7k18iw%2FhtahBTSNITzmdkq4KeBxXUoB12%2FEf5tpdYyC1hl5ykE2RYHB6QYj%2B2hOMcOTlgeCcDKsrWd2A%2BzYu3aVsMkXmBTxPUH6l15CQmOz%2FtzFvgHiNRlDzvjuQ%2BSTQ2kRHvA3xw%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493561?_skw=%C3%A9cran+pc&hash=item2b8b0d39f9:g:LysAAeSwEQlnxvp6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nECKaEwAweJXpwchvHNm2fIzZllk2URGsRQTJW12hdiv5qawltAPbfkyglXZtgouV8vU4KQUSqujewwdRvY2az%2B8%2B2KhEoB0PW28aMOQalEGW2RZeQXURtkSqEbpJD7LbZsiqhMSRblB301tMO%2FVtjZJ146AHBQ2Mdp33Uvy0%2Fxo%2B1qlSZvNkUvvveNzDEokVjT2ket%2FbpcoU7QO0pCvxTf5XY7nga%2Fb20282sVXvfRMMXhSu0yDmafwUw2SyP%2BrWUCXYinemzfCoQOagwvNCTtUK83NJHtgyCpbN2Uf%2BiyQ%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
    "title": "CHERRY TouchBoard G80-11900LUMFR-2 Clavier mécanique AZERTY Touchpad USB",
    "price_raw": "94.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128091434163?_skw=clavier&hash=item1dd2d82cb3:g:7zoAAeSwjTNqsVBg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m8B75Kv%2FUw%2BAFn9V2%2FC%2B%2BIwRhrGZsrnStkwSO15pFZ%2FeblTXiOCmSxMT2hRlfgz11sjMf4UIdJggDOe9SindkwKVF7Zc8EvX%2B4g%2F9XXP1eVfzbhYXd1ZvOtnzVGowBQaT5Zfct6EocmSoXEj%2FfzBVNMrkKqKNWmMCFLmqgCMbLB4Y1gQI4lkyYpdpH2MlM7MwdPWBXnREgQSnV1PI35q38n5%2FhJZs9HUmyJgiV3522xXjj%2BCy1a%2BZu31XLSZFGwe9EW3YrAcaqx6SQGJDHuo6lUdpr4Mo6vw3X%2FoXbdDfh5A%3D%3D",
+   "url": "https://www.ebay.fr/itm/128091434163?_skw=clavier&hash=item1dd2d82cb3:g:7zoAAeSwjTNqsVBg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m8B75Kv%2FUw%2BAFn9V2%2FC%2B%2BIwRhrGZsrnStkwSO15pFZ%2FeblTXiOCmSxMT2hRlfgz11sjMf4UIdJggDOe9SindkwKVF7Zc8EvX%2B4g%2F9XXP1eVfzbhYXd1ZvOtnzVGowBQaShZtH2Fvjlp%2BMGta9dYOACJ7IWZh4xel0LexhYWOFRRF38e3eJLfJpgeBZfj9Jvm28g31YImzEI3Wrjt7z4v4WbO%2Fd%2FGrud5H52TrYchI2GDpN3VDAQfacRIRVlCrbP%2FS%2FciPqGqcnNs%2Bc%2F1Z1SZPrkwkV%2BWdOwEufA5aV9rlyHw%3D%3D",
    "posted_at": "2026-09-21T15:50:09+00:00"
   },
   {
@@ -757,7 +740,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62P3U8z%2BK7X%2BZKe2dqZJI3l%2Fa094ceA8uYrpiB9tO8N5o7tfZ4%2FD48XSA7%2B8QpBprdC5XCIHJX3FkBY3%2BYWQrWS8pH8qDk7lU6xBqVvf4UWoCrfiVh9GPCmtdQT8XvuUL7gMDwbRKYJ5gwzuHSSgyg2nTwLIcGHg1TzQrTDjpSD3MQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62PyCwlOzb3mtwbJYcm4Fqo%2Fh5IAqep0wZBCdjRF1fff1tgNbMMrGOjrSqEJ%2FU2GDBkXnJTANP01%2BG0f8VzrA1emSfeQWNWqbrIddQOfCYgOrpQr%2FISqTU4zM9Ja%2B02H4IkpdHKH2QWG6Vw5YSzM1%2B1ABbdiBt%2FuTG3G4FoQ8ilAQQ%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -853,7 +836,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1985,
-  "models_with_reference": 69
+  "listings_seen": 1981,
+  "models_with_reference": 71
  }
 }
