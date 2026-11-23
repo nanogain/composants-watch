@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T07:38:00Z",
+ "generated_at": "2026-11-23T08:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-23T07:38:00.661594+00:00"
+   "items": 345,
+   "last_ok": "2026-11-23T08:08:00.680830+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 366,
-   "last_ok": "2026-11-23T07:38:00.661594+00:00"
+   "items": 362,
+   "last_ok": "2026-11-23T08:08:00.680830+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T07:38:00.661594+00:00"
+   "last_ok": "2026-11-23T08:08:00.680830+00:00"
   }
  },
  "watchlist": [
@@ -65,8 +65,8 @@
    "price_eur": 140.17,
    "shipping_eur": null,
    "effective_eur": 140.17,
-   "median_eur": 299.99,
-   "discount_pct": 53.3,
+   "median_eur": 304.99,
+   "discount_pct": 54.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon.de",
@@ -82,8 +82,8 @@
    "price_eur": 164.99,
    "shipping_eur": null,
    "effective_eur": 164.99,
-   "median_eur": 299.99,
-   "discount_pct": 45.0,
+   "median_eur": 304.99,
+   "discount_pct": 45.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -133,8 +133,8 @@
    "price_eur": 169.99,
    "shipping_eur": null,
    "effective_eur": 169.99,
-   "median_eur": 292.67,
-   "discount_pct": 41.9,
+   "median_eur": 289.99,
+   "discount_pct": 41.4,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon",
@@ -156,25 +156,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B93Znu4VPoXW84D%2Bk1UvKgnCtus9YkXsMQoxdQgHo8SiBdMT8XDuKqV%2FqmjlMmlg28TgO%2BF3V3rQfosswiEFmr4dSqZzHXcyJf%2FdA94y1UUsAzEDKGtWU%2F%2BPdIfJHHFZUKHoPAq7%2BHkC0nRHwroCNI1zXvt5IA%2FQ0ODAegNH5dU3g%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2F34wa17brVXKSnrjsEe52b%2FHx2DCcYOiKV0qUHlxrOnKrxsF974KzoTZZ821d61Jyb7uTDY%2BjYU7rQ%2F81Mld1gjRKnrIMJY6AeeO5h7TZKFllEKbklS20ncIcouAfBEaKOOlUzp6xraSWurAEwpu%2FvxXCR0rgaxIZD32I9kj9IYw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
-   "model": "RAM:DDR4-16Go-2933",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 79.95,
-   "shipping_eur": 3.9,
-   "effective_eur": 83.85,
-   "median_eur": 135.75,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tanzen_store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxT8aWzn3ri%2B8UVjpj4f3HGX3IIvfHHLeeA8TJLUQXcaxOHoQs%2FCFaPginR%2FhB3cvX2%2BuLnehuDmJz%2F6r%2FFVp--fyHCBETbo3wwyg2qOdsvbu6duwq24PF%2FFvSHVTC%2FyDJnpDjNbsgXGBO%2FI6UTs%2FIw",
-   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
@@ -211,6 +194,23 @@
    "posted_at": "2026-11-20T10:09:37+00:00"
   },
   {
+   "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 199.99,
+   "shipping_eur": null,
+   "effective_eur": 199.99,
+   "median_eur": 304.99,
+   "discount_pct": 34.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hp-omen-27qs-qhd-ips-240hz-1ms-2560-x-1440-antireflet-amd-freesync-premium-noir-3457934",
+   "posted_at": "2026-11-16T16:24:55+00:00"
+  },
+  {
    "title": "1 x Crucial 16GB | DDR4-3200 SO DIMM | CT16G4SFRA32A - 3200Mhz - 1 dispo",
    "model": "RAM:DDR4-16Go-3200",
    "category": "RAM",
@@ -245,23 +245,6 @@
    "posted_at": "2026-11-21T12:32:46+00:00"
   },
   {
-   "title": "Ecran PC 27\" HP Omen 27QS - QHD IPS, 240Hz, 1ms (2560 x 1440, Antireflet, AMD FreeSync Premium, Noir",
-   "model": "MON:27-QHD-240Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 199.99,
-   "shipping_eur": null,
-   "effective_eur": 199.99,
-   "median_eur": 299.99,
-   "discount_pct": 33.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hp-omen-27qs-qhd-ips-240hz-1ms-2560-x-1440-antireflet-amd-freesync-premium-noir-3457934",
-   "posted_at": "2026-11-16T16:24:55+00:00"
-  },
-  {
    "title": "PNY CS900 SSD interne 250 Go 2,5\" SATA III noir RoHS SSD7CS900-250-PB",
    "model": "SSD:SATA-250Go",
    "category": "SSD",
@@ -275,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 231 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsHHYqOPPFkVaFh%2B6hNI53ocCyNT7HfvBTOjTSzhcWkC6IJWZ5Gf4d7dHfgeZGGTOeVJ%2Bj3J5TM9guY1185HbxaT91Z4XNOkdJH2E4BTqR%2BJxgnIUKaXJLX4SUyBI2WGAU429E4l5aM4AZnz7LzTcA7V",
+   "url": "https://www.ebay.fr/itm/206717936316?_skw=ssd&hash=item30215962bc:g:iOUAAeSwW8xrAcT5&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lFbbo8uSNk%2FZ5YpVSyobisC1%2F2g0Q1PzysKbvZCDy%2FtQDEIr6JMncBt8BJ3RUy1sbzqz1xTII0C5ObW6qwQsCC2Xe57vmlrc7F4gVojhtAAALwjSqHc8TjNVt5nccQ%2FsEfRPLtxSh0I65cpblk6LWPBwoE4uNzHQRfvPov2vfPPLx0GzWLCxuTMg%2BuOrxz4TUCHBRj3dh49WCGtWvOUzG%2FORcKRzSAPOlaBiFJKqNHAmm7rEDea3LazGAV3J%2Bf4Uo5oHlCUKJzjGDBe%2F637rL5",
    "posted_at": "2026-11-21T16:23:44+00:00"
   },
   {
@@ -311,6 +294,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
+  },
+  {
+   "title": "SSD 2To Netac NV3000 NVMe SSD M.2 2280",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 219.0,
+   "shipping_eur": null,
+   "effective_eur": 219.0,
+   "median_eur": 289.99,
+   "discount_pct": 24.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-2to-netac-nv3000-nvme-ssd-m2-2280-3465986",
+   "posted_at": "2026-11-23T07:57:12+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -432,23 +432,6 @@
    "posted_at": "2026-11-20T13:57:09+00:00"
   },
   {
-   "title": "SOYO B550M ARGB carte mère microATX Socket AM4 DDR4 2 slots M.2 USB 3.0",
-   "model": "MB:B550",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 68.3,
-   "shipping_eur": 3.58,
-   "effective_eur": 71.88,
-   "median_eur": 86.94,
-   "discount_pct": 17.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · pokefan21000 (100,0 %, 73 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900096572590?_skw=carte+m%C3%A8re&hash=itemd191efbcae:g:I6cAAeSw7SRq-zfM",
-   "posted_at": "2026-11-16T17:05:51+00:00"
-  },
-  {
    "title": "ASUS ROG Strix Radeon RX 570 OC 4 Go GDDR5 Gaming - Carte graphique PCIe testée",
    "model": "GPU:RX 570",
    "category": "GPU",
@@ -507,8 +490,8 @@
    "price_eur": 89.99,
    "shipping_eur": null,
    "effective_eur": 89.99,
-   "median_eur": 574.99,
-   "discount_pct": 84.3,
+   "median_eur": 599.99,
+   "discount_pct": 85.0,
    "target_hit": false,
    "suspect": true,
    "merchant": "Amazon",
@@ -519,14 +502,21 @@
  ],
  "unclassified": [
   {
-   "title": "HKC 27 Pouces 240hz Écran Gaming QD-OLED (2560×1440),0,03ms GTG",
-   "price_raw": "309,99€",
+   "title": "Pc de bureau KingForge GrandMaster - AMD Ryzen 7 9850X3D, 32Go DDR5, RTX 5090, X870, 2To SSD 1200W Platinum",
+   "price_raw": "8 067,13€",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/hkc-27-pouces-240hz-ecran-gaming-qd-oled-25601440003ms-gtg-3465965",
-   "posted_at": "2026-11-23T07:32:46+00:00"
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-kingforge-grandmaster-amd-ryzen-7-9850x3d-32go-ddr5-x870-2to-ssd-rtx-5090-1200w-platinum-3465979",
+   "posted_at": "2026-11-23T07:50:48+00:00"
   },
   {
-   "title": "Apple Mac Mini avec Puce Apple M6 - Argent CPU 12 cœurs et GPU 12 cœurs, 16 Go Mémoire unifiée, 256 Go",
+   "title": "PC Portable 14\" Asus Zenbook 14 UM3406KA-QDO74W - AMD Ryzen AI 7 350, RAM 16 Go, SSD 512 Go, Windows 11",
+   "price_raw": "758€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-asus-zenbook-14-um3406ka-qdo74w-amd-ryzen-ai-7-350-ram-16-go-ssd-512-go-windows-11-3465935",
+   "posted_at": "2026-11-23T07:44:31+00:00"
+  },
+  {
+   "title": "PC fixe Apple Mac Mini avec Puce Apple M6 - Argent CPU 12 cœurs et GPU 12 cœurs, 16 Go Mémoire unifiée, 256 Go",
    "price_raw": "889€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-avec-puce-apple-m6-argent-cpu-12-coeurs-et-gpu-12-coeurs-16-go-memoire-unifiee-256-go-3465938",
@@ -613,14 +603,14 @@
    "title": "Dalle Ecran BOE NT156WHM-N44 Matte 15.6 \" LED pour ordinateur portable",
    "price_raw": "44.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493561?_skw=%C3%A9cran+pc&hash=item2b8b0d39f9:g:LysAAeSwEQlnxvp6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nECKaEwAweJXpwchvHNm2fIzZllk2URGsRQTJW12hdiv5qawltAPbfkyglXZtgouV8vU4KQUSqujewwdRvY2az%2B8%2B2KhEoB0PW28aMOQalEGW2RZeQXURtkSqEbpJD7LaJUlCWZQGP3YpS%2Fc8DIzWYw%2BqoggsZsJ5oylbA2VkhgLhXbdS1Xh%2FbYFaGQlggO8K0t1pHah%2F66B95r05hyqp3RclnxPKXZ5fB6%2Bqj3dschkVu5FRgtxHlNjPD4ImK6idUu61HisnSUuozM2f48JzeeOW6uvViRr51LA0y88pWSQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493561?_skw=%C3%A9cran+pc&hash=item2b8b0d39f9:g:LysAAeSwEQlnxvp6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nECKaEwAweJXpwchvHNm2fIzZllk2URGsRQTJW12hdiv5qawltAPbfkyglXZtgouV8vU4KQUSqujewwdRvY2az%2B8%2B2KhEoB0PW28aMOQalEGW2RZeQXURtkSqEbpJD7LYBt95rwOp%2Bh4qhAz6PF%2FdZlkbETR%2BPX8OsPrLow0hj7L5T8WP%2B8Nh1rtKIaCq1TQ11zAL%2FTbHPKMzmQLHRsWAzIXi1BOJCnMMg4SO5L9jj92EHlanKDjrM9ltgYcbreBsAFQv%2BlObRl258AOD39fNJSOV8Ypo8co8rmYo0PLosyg%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
    "title": "CHERRY TouchBoard G80-11900LUMFR-2 Clavier mécanique AZERTY Touchpad USB",
    "price_raw": "94.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128091434163?_skw=clavier&hash=item1dd2d82cb3:g:7zoAAeSwjTNqsVBg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m8B75Kv%2FUw%2BAFn9V2%2FC%2B%2BIwRhrGZsrnStkwSO15pFZ%2FeblTXiOCmSxMT2hRlfgz11sjMf4UIdJggDOe9SindkwKVF7Zc8EvX%2B4g%2F9XXP1eVfzbhYXd1ZvOtnzVGowBQaSXi1PyYl7%2FV1HiN7uotFGqcQ4K4CmHFQsPVNLVv98ayeTiLS0BX6f%2FoZ%2Bb%2FHh9k4ZutjAUBhZ7EprTu3hhs29dbUjWiCDNrp9SHXW2U7ZMBfBHzdgKXY%2FloiGYUi2R2MMlarf069TgZyKks0ctsHly9QDGXcLydL%2BTu9MpQbiQUw%3D%3D",
+   "url": "https://www.ebay.fr/itm/128091434163?_skw=clavier&hash=item1dd2d82cb3:g:7zoAAeSwjTNqsVBg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m8B75Kv%2FUw%2BAFn9V2%2FC%2B%2BIwRhrGZsrnStkwSO15pFZ%2FeblTXiOCmSxMT2hRlfgz11sjMf4UIdJggDOe9SindkwKVF7Zc8EvX%2B4g%2F9XXP1eVfzbhYXd1ZvOtnzVGowBQaR3hEfj9b86xD6tEF0V8PVY%2Fb8U9R2Vey8PNtg3jUSgzJGir%2Blhj9Suhg7icZiwYfCLZy2u64Gyw6O3s6t9ciQcF%2BHE4daT5fGw4k524gs%2FemJT5LdLrByC8JHwmV7nvXg%2Bav8Gtv7I0mmpNd8EbRbUXrnJO6kHpt%2FWPWoEi%2FXhwA%3D%3D",
    "posted_at": "2026-09-21T15:50:09+00:00"
   },
   {
@@ -676,7 +666,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62N2nMCfWDQMjNGFR%2BK9sbnA5Qwh0fqx614ZM0006EEnxL%2FtaIO7RKwZWuI5i7skOjv6WFzvFJEmUF0SjXMT1yJftjAcVWWQzNmOczsc8m9DX3dPm3y4SLtapNc8DNeHbyDC0tpX%2F6B8L3vqebulpsSqBqida2yr9GEoY%2FXWSNX9OA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62PoqUa1LqurIvuGTDTjIbZYWA6zZd4PN3%2FHiXgI4JmPWmDKxD7%2B%2BvveATIj%2FM1EM8q4Pfi%2FgiPgKgNTGyaID9y7sw%2FuMQUOKDeL%2BF1JpbTwc7mW9LJOiHhFrHU5RGdKdSlL%2FROzp9bO3A0FGK0T1tGvmYTleD0MzAr0cE4gPw3RxQ%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -837,7 +827,7 @@
    "title": "Carte Graphique Zotac Gaming GeForce GTX 1660 Super 6Go GDDR6 - Format Compact",
    "price_raw": "104.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327469981035?_skw=carte+graphique&hash=item4c3ebb5d6b:g:CmYAAeSwZmJrArMA&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lWGbxYn6oB%2B4NJ39yyTt4GLli04SYkDULiu2BD9nMowtpFfXUsf5rlyxyLx%2FXMGj9JKsBaVv1j7H%2F5EyFyEvVXRnu7XmPfpTa%2B%2BYU5byXLRupWQwYxnKh4dv4z0Zq%2Fp58EeV3EKM0zYioaDXVmUwxMt8LG4pIiBnr7hueSlPN2Jyktp7K9tMcW187o9t%2BvqQ%2FUkB8vGJN%2BjnIdjCU5ALA3uOf1VelO9TP8MB5AWhprv2JtnjliGxN8FIHwmxF5Fows--6QVxuFdxIpVvnHb8eQT7wD%2BxX1T%2BsZ1YD%2BKaijNw%3D%3D",
+   "url": "https://www.ebay.fr/itm/327469981035?_skw=carte+graphique&hash=item4c3ebb5d6b:g:CmYAAeSwZmJrArMA&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lWGbxYn6oB%2B4NJ39yyTt4GLli04SYkDULiu2BD9nMowtpFfXUsf5rlyxyLx%2FXMGj9JKsBaVv1j7H%2F5EyFyEvVXRnu7XmPfpTa%2B%2BYU5byXLRupWQwYxnKh4dv4z0Zq%2Fp58AzfFPa88nRil58Ky%2F4S0UfMiRbLFtNgsNnZaaOoLpZ%2FAz6IYjq6Jcrz4vb%2BAOg%2Fn8PoZVDRBmNDdUkTdc7MJw%2FjcPrLeFpnE%2BAVDdLrx3hEtxAnqEH1yQhfQyVXX%2FHNyJTAnAwtHZCTLZuP38EevNPI%2FMMUqXQybprE18IbcGXA%3D%3D",
    "posted_at": "2026-11-22T09:19:19+00:00"
   },
   {
@@ -860,17 +850,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-14-apple-macbook-pro-puce-m5-16-go-ram-1-to-ssd-via-32985-eur-cagnottes-3465051",
    "posted_at": "2026-11-22T08:37:54+00:00"
-  },
-  {
-   "title": "Mini PC Soyo M5, Ryzen 3 4300U, 16 Go LPDDR4-4266, SSD 512 Go, triple screen, Wifi 5 & BT 5.0, Windows 11 Pro",
-   "price_raw": "196,52€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m5-ryzen-3-4300u-16-go-lpddr4-4266-ssd-512-go-triple-screen-wifi-5-bt-50-windows-11-pro-3464969",
-   "posted_at": "2026-11-22T07:56:30+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2005,
-  "models_with_reference": 71
+  "listings_seen": 2004,
+  "models_with_reference": 69
  }
 }
