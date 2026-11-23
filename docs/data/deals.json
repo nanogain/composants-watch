@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T12:08:00Z",
+ "generated_at": "2026-11-23T12:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 350,
-   "last_ok": "2026-11-23T12:08:00.682247+00:00"
+   "last_ok": "2026-11-23T12:38:00.675250+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 364,
-   "last_ok": "2026-11-23T12:08:00.682247+00:00"
+   "items": 369,
+   "last_ok": "2026-11-23T12:38:00.675250+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T12:08:00.682247+00:00"
+   "last_ok": "2026-11-23T12:38:00.675250+00:00"
   }
  },
  "watchlist": [
@@ -173,8 +173,25 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FER1deWq302FcZu9UxjQRnXHCurnrIQ7BuSwvUhpq6Ut3jpdxbAxjnCq9Tvh8RS6im6N1beW%2FviBdoYoesBe9%2B%2BTECuQz3p34oKsfab0rixVux6mXa5nSXnMVtJrg85L4rqv5YMb2qszfZyGeNlVQTAbohjOUmGQpf1SOFWCLuGg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BYbgR2IOaTMgv2ikl8I8X8Bd7JzgwECozsfuAYORrjXftSd1z5QllpSB3ohjOF0HtGGIb%2FuEmY%2BkrvrnK1ypWoklho0FySJOZ4U7rUqYeb%2FKucOA7NaFlPv6Ko%2FCZIy%2BQ233XlPIBxjGpNmijc5FYnaNz07NMIOWclBQgSSDpFJw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tanzen_store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuy5KI0vaA%2F2DHPTV5FFDr1OASCRL35FdrwiTzEfLenw0QbW8kHX6edjYEV8wID0YsCQO14T8aji0HqNJ5cUZYjKNuSi51nztcgje8ShIqz007bIFrumOEm%2BLdoaS0ApNwm5XV5SMdfWi4oNZdy00RdM",
+   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
@@ -296,6 +313,23 @@
    "posted_at": "2026-11-11T18:03:48+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 499.99,
+   "discount_pct": 21.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -415,6 +449,23 @@
    "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
+   "title": "SSD NVMe M.2 PCIe 3.0×4 256Go, Lecture Jusqu'à 3 500 Mo/s, Format M.2 2280, Disq",
+   "model": "SSD:NVMe-256Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 40.0,
+   "shipping_eur": 8.0,
+   "effective_eur": 48.0,
+   "median_eur": 437.74,
+   "discount_pct": 89.0,
+   "target_hit": false,
+   "suspect": true,
+   "merchant": "eBay · agostino76 (99,3 %, 653 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/168879787574?_skw=ssd&hash=item2752050e36:g:NbkAAeSwDWxrAu3T",
+   "posted_at": "2026-11-22T13:29:00+00:00"
+  },
+  {
    "title": "SSD interne Lexar 512Go - M.2 2280 PCIe Gen3x4 NVMe 1.4, Jusqu'à 3500 Mo/s en lecture, 2400 Mo/s en écriture",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -444,7 +495,7 @@
    "title": "Micron RAM 8 Go DDR4 SDRAM DIMM PC4-2666V 288 broches MTA8ATF1G64AZ-2G6E1",
    "price_raw": "26.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2OokhmJng4B5ruei5BRkJfBsWhEB3MISqnxlyaRCDKUQoJg%2Bc5Se07TQsH7MRnCPKN2FGDVCfh0M788bLqQw7aAujllSWOU5tTCITnRIOTFGTjJ53pjthYBneiKYJ6OQtuC2GCML15vjsjyJe0iFnDM",
+   "url": "https://www.ebay.fr/itm/206722399966?_skw=ddr4&hash=item30219d7ede:g:4ckAAeSwMBdq9OPZ&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nskIVWW3xzxkBVO49dMdQz8PlrP5RB9dvPqZbrjN%2F5ElMBMPHEROoEU%2BBnqmYXwOfHdIz5bt3GqdJvLcagMezFBbm2wx23MOZchrFZb6zflUeZB09lxGhF2LBzjHmSI2Mifzh9%2BrMzL%2FpXIFt2EsBLmsWagLhBUH3mIvzr90LfaUtQCpKpWfgWpDAMGECUjTpvIMQsmgkU7fISv%2FduoM8v1%2FvH5y%2FqTsOGkeSPIEdS%2FzcxI4oNFsBCRtKyq5k1PFl%2FwonWeVURUHJiQD48RRJ6",
    "posted_at": "2026-11-23T11:37:38+00:00"
   },
   {
@@ -479,7 +530,7 @@
    "title": "Lot 8 RAM 8 go DDR4 Pour Pc Portables",
    "price_raw": "241.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860169879859?_skw=ddr4&hash=itemc8461ec133:g:BwgAAeSwXP5rBBMz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ksXTJF%2FbM2vZLUMIfufhJ8lB4TK5tSOaoR7Sa7629MqlrzMgP6qIGWmQWI5NgII2GtLX68FXym2PH0XqQDQpZqY2zBgZD3tsLVG4jcpIsV%2B50iv32HqgI9Te7qE19mf22oFHISPlrdgGCUCyArhfojwu1lGT2JHpY2rFqEIfIfjjukoPwTj132b%2BWkxFx8OLPJSijtpScEr29%2BfQvV09dg5FViwW94eBJyzqHs6gTtS8LfOjpLs8uWUwaMtB0Tu4HCGGA4Mlhfna4Fu8OrjRn0K%2F7TH4WRDVuPXNVMZOAFEA%3D%3D",
+   "url": "https://www.ebay.fr/itm/860169879859?_skw=ddr4&hash=itemc8461ec133:g:BwgAAeSwXP5rBBMz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ksXTJF%2FbM2vZLUMIfufhJ8lB4TK5tSOaoR7Sa7629MqlrzMgP6qIGWmQWI5NgII2GtLX68FXym2PH0XqQDQpZqY2zBgZD3tsLVG4jcpIsV%2B50iv32HqgI9Te7qE19mf20b%2FwdhVAmpVJfkWtpult7nRmwg0%2Fy66cVYuC6wQLaN6tryAMP%2BFho6Q2y9CqRWlVHnclbUmZkgdHy141J5YzupXe5kBSk2LE3SGGjWZWIvbjd7oQmbTL%2F487pYtaYQbdcwHz03kV7MLqwq0vtCz2zTT2IwRzdyr3ZiPKr4qyljNw%3D%3D",
    "posted_at": "2026-11-23T10:19:58+00:00"
   },
   {
@@ -668,14 +719,14 @@
    "title": "Dalle Ecran BOE NT156WHM-N44 Matte 15.6 \" LED pour ordinateur portable",
    "price_raw": "44.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/187016493561?_skw=%C3%A9cran+pc&hash=item2b8b0d39f9:g:LysAAeSwEQlnxvp6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nECKaEwAweJXpwchvHNm2fIzZllk2URGsRQTJW12hdiv5qawltAPbfkyglXZtgouV8vU4KQUSqujewwdRvY2az%2B8%2B2KhEoB0PW28aMOQalEGW2RZeQXURtkSqEbpJD7LYh56jPT%2BuOuMDqsesj%2BglXhdHLDBa8dIrhSe5FIyLTsAAKlvh7j5WWq9Gc0cWbOtnlosr1ns8z%2Fw23T5z4zsrQBWOL2pYwi1OcGju0s0hSc%2BFJ8CRDayAnUWDjusgtsvHivRgndna2kk5daLQHsX6zlkn25FY7FyDAKiCPIuK3Cw%3D%3D",
+   "url": "https://www.ebay.fr/itm/187016493561?_skw=%C3%A9cran+pc&hash=item2b8b0d39f9:g:LysAAeSwEQlnxvp6&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nECKaEwAweJXpwchvHNm2fIzZllk2URGsRQTJW12hdiv5qawltAPbfkyglXZtgouV8vU4KQUSqujewwdRvY2az%2B8%2B2KhEoB0PW28aMOQalEGW2RZeQXURtkSqEbpJD7LaI5sIGxRe3Uj9ZozSTd3%2FdJRSv2Hy18xLZGuUHqgm3CCJ1RN9DDSUmPe%2FcXzwperwUlJdoUAhQVHz%2B12QfT%2B0vtfvlJCd6ScWfWrjWtWh3DgMnseeTP02TuzUlSiCku6vBHmqnZ8MdQbfvUWJTuzCEjpzWlwn3Zk%2Fi%2BeOxX4490Q%3D%3D",
    "posted_at": "2025-03-04T13:03:51+00:00"
   },
   {
    "title": "CHERRY TouchBoard G80-11900LUMFR-2 Clavier mécanique AZERTY Touchpad USB",
    "price_raw": "94.30 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128091434163?_skw=clavier&hash=item1dd2d82cb3:g:7zoAAeSwjTNqsVBg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m8B75Kv%2FUw%2BAFn9V2%2FC%2B%2BIwRhrGZsrnStkwSO15pFZ%2FeblTXiOCmSxMT2hRlfgz11sjMf4UIdJggDOe9SindkwKVF7Zc8EvX%2B4g%2F9XXP1eVfzbhYXd1ZvOtnzVGowBQaQ6Jzp%2BmMN9MFWg1eW435R%2FJ4Ni2adcehDpDZzZ5mOVflPIi9rczWd4V7n1qq1iyWDHqpdSh9Zzcg1H%2FTCTCpWv663b28u77zFPzXLlk2%2BkUyGF2E7cqIgg1fyECr%2BJCoXfj1WhG1B0ILPOcF8q1%2FSQqWbcCMM4RktflF%2FmqhCVtA%3D%3D",
+   "url": "https://www.ebay.fr/itm/128091434163?_skw=clavier&hash=item1dd2d82cb3:g:7zoAAeSwjTNqsVBg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m8B75Kv%2FUw%2BAFn9V2%2FC%2B%2BIwRhrGZsrnStkwSO15pFZ%2FeblTXiOCmSxMT2hRlfgz11sjMf4UIdJggDOe9SindkwKVF7Zc8EvX%2B4g%2F9XXP1eVfzbhYXd1ZvOtnzVGowBQaTcD0x%2FAosolgx9Fv0EvsA9DeaCJs2XjzpDRD47kau9eNu05%2BzGarWApXzVvHXxTPT48MVDNSxKp5cE6Cyvyz5QeMKXMbnGxkrgiy3fJiJgLvDM15fHWvZpC%2FcJ2YYID%2BNi3JWoOz60vu3z0twQzHNPhgbLyZctr3g%2Fo9P711d%2FNw%3D%3D",
    "posted_at": "2026-09-21T15:50:09+00:00"
   },
   {
@@ -717,7 +768,7 @@
    "title": "PowerColor Radeon HD 2600 PRO 512 Mo AGP - Neuve scellée - Carte graphique ATI ",
    "price_raw": "62.06 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62PLkMYgo9BGJmbjrvg21gHunaVKr%2FliKD38aGbdeWbHDFtIsgOGuWfnsVEW%2Bd35pTIB7bMvuZ2aom3HYe%2F%2By5laKmhB8lWtaDgahOquM%2BsJn5mN3vpGhAxPvT2DfHVCuWZKVys4U7X6KoABFhPtpCd6PH%2BmCsHgXm0udMwjeVZ28w%3D%3D",
+   "url": "https://www.ebay.fr/itm/800953017865?_skw=carte+graphique&hash=itemba7c852609:g:Rf8AAeSwN-9rA1Hx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nIfADxvCYyvLLUt6xqgB8bSqyAWxpt3epxTq8IZvhIedqqy4EwNzP0q1uNB%2FKtKgX1%2FcEt9JzCB5w4SiPkgdRdg0sPaoq4Oi38rBq6IlTnZ2unUnOrIbT7QaKsaD4S62NeTsq7BXb3YXl1rVe5fasnH9X8rcMnL8vurEhkzo88IVuqt%2BYrEJPGmYeuOq6NgpD91Y96AjFrlVD1wkDcYy3DVtXPqUS33j%2BOsy2kgpvY3146xNQlizD89I5jJ0hn4n%2Fhb3OxQPmtXAjudHhBEypPz0dnQ5IdjjH%2BeE9kc2B7TA%3D%3D",
    "posted_at": "2026-11-22T20:54:05+00:00"
   },
   {
@@ -756,6 +807,13 @@
    "posted_at": "2026-11-22T17:28:31+00:00"
   },
   {
+   "title": "NVIDIA Quadro 4000 HP 2Go GDDR5 PCIe Carte Graphique Pro",
+   "price_raw": "42.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407381600272?_skw=carte+graphique&hash=item5ed9d5e810:g:JNkAAeSwMchrAyOO",
+   "posted_at": "2026-11-22T17:23:50+00:00"
+  },
+  {
    "title": "COOLER MASTER N200 Noir Boitier PC Mini tour - Format Micro ATX (NSE-200-KKN1)",
    "price_raw": "82.90 EUR",
    "source": "ebay",
@@ -775,17 +833,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/serveur-nas-ugreen-nasync-dxp480t-plus-4-baies-m2-nvme-intel-core-i5-12e-gen-port-10-gbe-wi-fi-6-gris-3465380",
    "posted_at": "2026-11-22T15:08:37+00:00"
-  },
-  {
-   "title": "Disque SSD de 500G 2.5\" - Samsung 860 EVO SATA",
-   "price_raw": "41.26 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227626293707?_skw=ssd&hash=item34ff9599cb:g:CiQAAeSwRHlq8KuW",
-   "posted_at": "2026-11-22T15:29:02+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1984,
-  "models_with_reference": 73
+  "listings_seen": 1982,
+  "models_with_reference": 74
  }
 }
