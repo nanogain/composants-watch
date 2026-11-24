@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T11:08:00Z",
+ "generated_at": "2026-11-24T11:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-24T11:08:00.682298+00:00"
+   "items": 345,
+   "last_ok": "2026-11-24T11:38:00.677272+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-24T11:08:00.682298+00:00"
+   "items": 387,
+   "last_ok": "2026-11-24T11:38:00.677272+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-24T11:08:00.682298+00:00"
+   "items": 50,
+   "last_ok": "2026-11-24T11:38:00.677272+00:00"
   }
  },
  "watchlist": [
@@ -126,23 +126,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -190,8 +173,25 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwGukm%2F5wObYVRXq7HMoeMCGMpLVtntC2vuYgXEzPx3B3IJS%2FDVxODH8reJRyJ7s6bkdic3xV1uP8Zn7SQ43cKAmGobUwpcMtb0uLGEePwWrBjZbNBvw9J0cFyA%2BLVtqhfvbULcp7WQDPvVhddcaLka",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyRtCYoxelRera6ef5%2FcTSS%2BPRSFhYQeua9%2BR7it6RqM4dxBfxrzceA%2FpNcIeDM1D4uPc5PGIIs29m%2F7NE%2FgtGMYiYiyWmgBeJgEK1v%2Bm6Cwj3%2B2khKJejKwPrOvOxh4VvGBX1o2rmyS1qAbuxY68Wn",
    "posted_at": "2026-08-14T16:59:44+00:00"
+  },
+  {
+   "title": "Western Digital WD Blue SN570 SSD interne 500 Go NVMe M.2",
+   "model": "SSD:NVMe-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 48.0,
+   "shipping_eur": 3.9,
+   "effective_eur": 51.9,
+   "median_eur": 79.78,
+   "discount_pct": 34.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,6 %, 239 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206724462342?_skw=ssd&hash=item3021bcf706:g:MoQAAeSwUfdrBXVW",
+   "posted_at": "2026-11-24T11:32:03+00:00"
   },
   {
    "title": "[Prime] Kit Mémoire RAM Netac Shadow S XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (Vendeur Tiers)",
@@ -432,23 +432,6 @@
    "posted_at": "2026-11-18T09:57:21+00:00"
   },
   {
-   "title": "Nanya NT32GA72D4NFX3K-JR 32Go DDR4 3200MHz 2Rx4 ECC RDIMM Mémoire Serveur",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 199.99,
-   "shipping_eur": 1.0,
-   "effective_eur": 200.99,
-   "median_eur": 248.56,
-   "discount_pct": 19.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · adimes-oem (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137958434635?_skw=ddr4&hash=item201ef6a74b:g:SfsAAeSw49lrBV5s",
-   "posted_at": "2026-11-24T09:53:42+00:00"
-  },
-  {
    "title": "Écran PC gaming incurvé 34\" HKC V3419US - UWQHD (3440 x 1440), VA 1500R, 120 Hz, 1 ms, HDR400, FreeSync",
    "model": "MON:34-UWQHD-120Hz",
    "category": "MON",
@@ -552,6 +535,27 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Boitier PC Asus Tuf Gaming Gt502 Plus Midi - blanc",
+   "price_raw": "126,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tour-blanche-asus-tuf-gaming-gt502-plus-midi-3467639",
+   "posted_at": "2026-11-24T11:35:29+00:00"
+  },
+  {
+   "title": "Disque dur de Bureau Seagate 8To One Touch",
+   "price_raw": "259,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/disque-dur-de-bureau-seagate-8to-one-touch-3467622",
+   "posted_at": "2026-11-24T11:11:13+00:00"
+  },
+  {
+   "title": "SK hynix RAM 8 Go DDR4 SDRAM SO-DIMM PC4-2133P HMA41GS6AFR8N-TF",
+   "price_raw": "23.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206724432972?_skw=ddr4&hash=item3021bc844c:g:pygAAeSwUGxrBW9y",
+   "posted_at": "2026-11-24T11:05:30+00:00"
+  },
   {
    "title": "SSD externe portable Lenovo PS6S - 1 To",
    "price_raw": "139,99€",
@@ -677,6 +681,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117227637601?_skw=boitier+pc&hash=item1b4b4fcb61:g:VToAAeSwB1xqRQ~Z",
    "posted_at": "2026-06-02T06:53:16+00:00"
+  },
+  {
+   "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
+   "price_raw": "48.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vxIfPvAYkXVY8yYys%2BDBNayn8LKRoZmmRsHlOoHLDaOAlzDwUjK49UKmgGVuurKnqpc%2Fea2xrbnLjVd7rUMDoNyFfDGjUpvqhdqxOOEP%2B%2B4clkGAR9HN01uyRRcSZtJgaG3Fi%2FsCfJip6YQb2JojP2a",
+   "posted_at": "2026-02-09T14:19:11+00:00"
   },
   {
    "title": "Mini PC NiPoGi E3B - Ryzen 7 7736U, RAM 24 Go 5500Mhz, SSD 512 Go, Windows 11 (Via Remise au Panier - Vendeur Tiers)",
@@ -873,38 +884,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lot-de-2-prises-connectees-zigbee-sonoff-s60zbtpf-avec-suivi-energetique-repeteur-3466763",
    "posted_at": "2026-11-23T16:59:30+00:00"
-  },
-  {
-   "title": "Imprimante 3D Elegoo Centauri Carbon (CoreXY, 256×256×256 mm, 500 mm/s, 320 °C, Caisson Fermé) (Vendeur Tiers)",
-   "price_raw": "322€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-elegoo-centauri-carbon-corexy-256256256-mm-500-mms-320-c-caisson-ferme-vendeur-tier-3466751",
-   "posted_at": "2026-11-23T16:50:27+00:00"
-  },
-  {
-   "title": "Kit de Ram Kingston Technology Fury Beast - 8x2 Go",
-   "price_raw": "375€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kingston-technology-fury-beast-16x2-go-3466708",
-   "posted_at": "2026-11-23T16:19:26+00:00"
-  },
-  {
-   "title": "Pc portable 14\" Apple MacBook Pro 14 - Puce M6, 16 Go RAM, 1 To SSD Noir Sidéral",
-   "price_raw": "2 099€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-apple-macbook-pro-14-puce-m6-16-go-ram-1-to-ssd-noir-sideral-3466666",
-   "posted_at": "2026-11-23T15:53:33+00:00"
-  },
-  {
-   "title": "[Paypal/Étudiant/The corner] Tablette 11\" Samsung Galaxy Tab S11 - 128 Go, 12 Go de Ram, Wi-Fi 6",
-   "price_raw": "649€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/samsung-galaxy-tab-s11-128go-paiement-paypaloffre-reserve-aux-etudiants-3466451",
-   "posted_at": "2026-11-23T13:02:32+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1911,
-  "models_with_reference": 76
+  "listings_seen": 1908,
+  "models_with_reference": 77
  }
 }
