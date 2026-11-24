@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T06:08:00Z",
+ "generated_at": "2026-11-24T06:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-24T06:08:00.677602+00:00"
+   "items": 346,
+   "last_ok": "2026-11-24T06:38:00.631247+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-24T06:08:00.677602+00:00"
+   "items": 379,
+   "last_ok": "2026-11-24T06:38:00.631247+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-24T06:08:00.677602+00:00"
+   "last_ok": "2026-11-24T06:38:00.631247+00:00"
   }
  },
  "watchlist": [
@@ -41,7 +41,7 @@
  ],
  "opportunities": [
   {
-   "title": "NVIDIA GeForce RTX 5060 8Go",
+   "title": "Accessoires circuit graphique pour Carte graphique GeForce RTX 5060 8Go 3 DP + 1 HDMI GDDR7",
    "model": "GPU:RTX 5060",
    "category": "GPU",
    "condition": "new",
@@ -160,23 +160,6 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fxbhp5%2FqaW%2Fi5TedYh5TrrPQmhu2%2BjalyM%2F6%2BoyBba17whVV0jpV2292KuhfjoDAhAwsgDn6WKOvYNAHqJAGgpaHpcU8FATFb%2FRyqY2BDZqn%2FxIdqmqWq7I6pEdGPv10JN0dU8kNydjTANi6uO1uuCPCJ4HBmYV5Z5ivuxJJYYQA%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -190,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzdKQgsrRq%2B5aGwyUZcJOWEimDbwtmwPvuqyZri1Uz9kLdOXak%2BMTVuw1ayTl7z711UUA81Z86rEQbcly3GXwqIArg9OufTGqkXstGzXY76qeGHC%2BZOHYI%2B6rZL8tOhbNZ4HyBjWmqPwB4m1eo56bsD",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxOBFIIzGAOrvvLyLsAI3lVZNsbPzX10aCyem%2B2%2FD6BuRp5oUOPMT3b859ASSIcxy8ZoTGlLbmO%2B%2BGOwSCxTA1idHFscFySQhw87TQipeoSZv3WKEzRb2R%2BsEZBmJa279NFFf4msZPLETIXh347ZbGu",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -553,6 +536,13 @@
  ],
  "unclassified": [
   {
+   "title": "Station d'accueil Ugreen Revodok Pro 10-en-1 - Boîtier SSD + HDMI 4K@60Hz + USB-C PD 100W + 4 USB + 1 RJ45 + lecteur SD/TF (Vendeur tiers)",
+   "price_raw": "64,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/station-daccueil-ugreen-revodok-pro-10-en-1-boitier-ssd-hdmi-4k-at-60hz-usb-c-pd-100w-4-usb-1-rj45-lecteur-sdtf-vendeur-tiers-3467221",
+   "posted_at": "2026-11-24T06:13:20+00:00"
+  },
+  {
    "title": "MacBook Air M5 13'' CPU 10 GPU 8 16 Go / 512 Go Argent (MDH74FN/A) APPLE",
    "price_raw": "1 089,99€",
    "source": "dealabs",
@@ -567,6 +557,13 @@
    "posted_at": "2026-06-02T06:53:16+00:00"
   },
   {
+   "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
+   "price_raw": "48.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vxohmShKbTaadejHwoNtmkedVeluIBIpIKlF0gpcf75bJIBurYGNPI4oUpDcgI9jlb5YZvLR9sXc%2F7tR2huWRhCl8AKAcrnZDqXBBVxV8QqWA%2Fqr0TZm3%2FHEfx%2B6XJ8oR7lVzph3Q1spwbi7y9quQg4",
+   "posted_at": "2026-02-09T14:19:11+00:00"
+  },
+  {
    "title": "Trust Gaming GXT 867 Acira Clavier mécanique 60 % pour joueurs",
    "price_raw": "17.98 EUR",
    "source": "ebay",
@@ -574,8 +571,8 @@
    "posted_at": "2026-11-23T15:22:40+00:00"
   },
   {
-   "title": "NiPoGi E3B Mini PC Ryzen 7 7736U, 24 Go RAM / 512 Go SSD à 531,99€ au lieu de 559,99€",
-   "price_raw": "531,99€",
+   "title": "Mini PC NiPoGi E3B - Ryzen 7 7736U, RAM 24 Go 5500Mhz, SSD 512 Go, Windows 11 (Via Remise au Panier - Vendeur Tiers)",
+   "price_raw": "505,39€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nipogi-e3b-mini-pc-ryzen-7-7736u-24-go-ram-512-go-ssd-a-53199eur-au-lieu-de-55999eur-3467172",
    "posted_at": "2026-11-24T02:13:10+00:00"
@@ -887,24 +884,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/logitech-casa-pop-up-desk-3466420",
    "posted_at": "2026-11-23T12:40:49+00:00"
-  },
-  {
-   "title": "Processeur Intel Core 2 Quad Q9650 3.00GHz / 12M / 1333 - Socket 775",
-   "price_raw": "47.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267851779798?_skw=processeur&hash=item3e5d35ced6:g:aE0AAeSwv85rBDNi",
-   "posted_at": "2026-11-23T12:37:42+00:00"
-  },
-  {
-   "title": "Imprimante multifonctions jet d'encre Epson XP-3200",
-   "price_raw": "49,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonctions-jet-dencre-xp-3200-epson-3466385",
-   "posted_at": "2026-11-23T11:56:09+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1925,
-  "models_with_reference": 76
+  "listings_seen": 1923,
+  "models_with_reference": 74
  }
 }
