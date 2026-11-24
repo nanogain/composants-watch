@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T17:38:00Z",
+ "generated_at": "2026-11-24T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-24T17:38:00.680666+00:00"
+   "items": 345,
+   "last_ok": "2026-11-24T18:08:00.653833+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-24T17:38:00.680666+00:00"
+   "items": 377,
+   "last_ok": "2026-11-24T18:08:00.653833+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-24T17:38:00.680666+00:00"
+   "last_ok": "2026-11-24T18:08:00.653833+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
+   "title": "SSD  PNY CS500 / 250Go",
+   "model": "SSD:NVMe-250Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 31.9,
+   "shipping_eur": 4.0,
+   "effective_eur": 35.9,
+   "median_eur": 67.99,
+   "discount_pct": 47.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · poussin0206 (100,0 %, 654 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128214546700?_skw=ssd&hash=item1dda2eb90c:g:4bQAAeSwHQZrBc4m",
+   "posted_at": "2026-11-24T17:52:33+00:00"
+  },
+  {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -160,23 +177,6 @@
    "posted_at": "2026-11-18T18:28:36+00:00"
   },
   {
-   "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
-   "model": "SSD:NVMe-250Go",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 49.99,
-   "shipping_eur": null,
-   "effective_eur": 49.99,
-   "median_eur": 85.99,
-   "discount_pct": 41.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-pny-cs1030-m2-nvme-pcie-250go-2-pour-89eur-3465433",
-   "posted_at": "2026-11-22T16:19:39+00:00"
-  },
-  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9p0MmurvCVSX6QdXhbFn49fBVLRreVLOg96CWtv2ONR8MZgdNG%2FwIvG4UBFV%2B3mE8II0I%2BQq7JV8YCP%2BeAN6rj73z8LWwAiPhip2UlsaQALl%2BL2J%2FpZZqxuL67n46J%2B7MyKQmalU81sXl2HP3l%2FMVeLMQEkmru23nSKKOyzT4ajA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B91E6Gdp1WWt%2Fdbxygr5TJoJfxvqDDmRJUMMy74Qj2Rgd54avyjaatKSJmgGxKlhjPMnfWHIG%2BSfWFAvYBDQ22I%2F0yEE5uIG8sYU3Kp8upe9jZpyNqI2mtcJdP9QSvb98vQWkGkBIZDg5iZ2KvGMjP2RtWQSKhUfU9cc1kmIU9YaA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,25 +207,8 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwptigW7tkD82xlx2R5ykaWHwSzcpbNsD4v7oUP8QnvJpiNaWo9EO%2BvCaBoXhudmAZxHMoQT0qCC9HnkUPp%2Bh%2BsVaxle1k7sUGxwy6W96n7xCndEQHkUDS3XK2dPrBUiVZbXvmbvJ7kgSuorWC9EMiL",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxATew%2F3I3s4m03u4W9HXswO0l6M789GyGydwuYgCR5DtDFxty%2BmZe1YocMptB4cABuG75c8NINyeZO70MDzOLWHgZh3Uwo8FVW7U0C%2F%2B%2FwbQxbioX8W%2FpPUfvPJJZVSJF08KqfEv27MoBdbqeWeGaz",
    "posted_at": "2026-08-14T16:59:44+00:00"
-  },
-  {
-   "title": "OCZ Trion 150 SSD interne 120 Go 2,5\" SATA III",
-   "model": "SSD:SATA-120Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.9,
-   "shipping_eur": 3.9,
-   "effective_eur": 16.8,
-   "median_eur": 26.0,
-   "discount_pct": 35.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 239 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKVDkvvWVc6nqAJxzgVEn9OYDHwXdaK63w1u9ExFOLxjVocyqmuIc5Lw1T9PBq8JpHGCGaLSQmn6TbWM14A1xJ9BHEK%2Bfej1Aidtx8lmHQ1Vx2D5H6a%2FUYcLpenIRtdY2GazD1p3d0EEBwAWI8gMdE8r",
-   "posted_at": "2026-11-24T11:41:43+00:00"
   },
   {
    "title": "Western Digital WD Blue SN570 SSD interne 500 Go NVMe M.2",
@@ -239,7 +222,7 @@
    "discount_pct": 34.9,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 239 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 240 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724462342?_skw=ssd&hash=item3021bcf706:g:MoQAAeSwUfdrBXVW",
    "posted_at": "2026-11-24T11:32:03+00:00"
@@ -313,6 +296,23 @@
    "posted_at": "2026-11-19T10:05:39+00:00"
   },
   {
+   "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
+   "model": "SSD:NVMe-250Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 49.99,
+   "shipping_eur": null,
+   "effective_eur": 49.99,
+   "median_eur": 67.99,
+   "discount_pct": 26.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-pny-cs1030-m2-nvme-pcie-250go-2-pour-89eur-3465433",
+   "posted_at": "2026-11-22T16:19:39+00:00"
+  },
+  {
    "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
    "model": "SSD:SATA-128Go",
    "category": "SSD",
@@ -324,7 +324,7 @@
    "discount_pct": 24.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 239 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 240 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -379,6 +379,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/128214299898?_skw=ddr4&hash=item1dda2af4fa:g:7BoAAeSwQa5rBaNU",
    "posted_at": "2026-11-24T14:51:28+00:00"
+  },
+  {
+   "title": "Carte Mère MSI B760M Gaming Plus Wifi Micro-ATX, LGA 1700",
+   "model": "MB:B760",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 85.99,
+   "shipping_eur": null,
+   "effective_eur": 85.99,
+   "median_eur": 109.99,
+   "discount_pct": 21.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-msi-b760m-gaming-plus-wifi-micro-atx-lga-1700-3468017",
+   "posted_at": "2026-11-24T17:43:18+00:00"
   },
   {
    "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
@@ -570,6 +587,13 @@
  ],
  "unclassified": [
   {
+   "title": "Serveur de stockage NAS Ugreen NASync DXP4800 GT (sans stockage)",
+   "price_raw": "439€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-gt-3468031",
+   "posted_at": "2026-11-24T17:57:08+00:00"
+  },
+  {
    "title": "Liseuse Kindle Paperwhite Signature - 32 Go, Sans Pub",
    "price_raw": "159,99€",
    "source": "dealabs",
@@ -631,13 +655,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/287755404502?_skw=boitier+pc&hash=item42ff8f04d6:g:FzcAAeSw~5lrBY78",
    "posted_at": "2026-11-24T13:21:32+00:00"
-  },
-  {
-   "title": "Lian Li Hydroshift II LCD-C 360CL ARGB Noir, watercooling AiO 360 mm",
-   "price_raw": "256.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377673058544?_skw=watercooling&hash=item57ef1188f0:g:1yEAAeSwAd5rBY~H",
-   "posted_at": "2026-11-24T13:23:15+00:00"
   },
   {
    "title": "Mini PC NiPoGi E2 Mini PC W-11 Pro - АMD Ryzen 5 3500U, 16 Go DDR4, 256 Go M.2 SSD (vendeur tiers - via remise au panier)",
@@ -836,6 +853,13 @@
    "posted_at": "2026-11-23T22:10:33+00:00"
   },
   {
+   "title": "ASUS STRIX Z270H GAMING",
+   "price_raw": "139.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236047462?_skw=carte+m%C3%A8re&hash=itemdf92874c66:g:dHUAAeSw9klrBK4Q",
+   "posted_at": "2026-11-23T22:10:33+00:00"
+  },
+  {
    "title": "Boitier PC Corsair Air 5400 LX-R RGB iCUE LINK",
    "price_raw": "202,48€",
    "source": "dealabs",
@@ -911,17 +935,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/logitech-g305-lightspeed-souris-gaming-sans-fil-avec-6-boutons-programmables-noir-3466878",
    "posted_at": "2026-11-23T18:38:01+00:00"
-  },
-  {
-   "title": "Boîtier PC MSI Mag Pano M100L PZ White",
-   "price_raw": "37,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boitier-pc-msi-mag-pano-m100l-pz-white-3466855",
-   "posted_at": "2026-11-23T18:22:15+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1886,
-  "models_with_reference": 77
+  "listings_seen": 1888,
+  "models_with_reference": 76
  }
 }
