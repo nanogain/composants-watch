@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T10:08:00Z",
+ "generated_at": "2026-11-24T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 343,
-   "last_ok": "2026-11-24T10:08:00.623947+00:00"
+   "items": 342,
+   "last_ok": "2026-11-24T10:38:00.675883+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-24T10:08:00.623947+00:00"
+   "items": 384,
+   "last_ok": "2026-11-24T10:38:00.675883+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 76,
-   "last_ok": "2026-11-24T10:08:00.623947+00:00"
+   "items": 80,
+   "last_ok": "2026-11-24T10:38:00.675883+00:00"
   }
  },
  "watchlist": [
@@ -65,8 +65,8 @@
    "price_eur": 140.17,
    "shipping_eur": null,
    "effective_eur": 140.17,
-   "median_eur": 309.99,
-   "discount_pct": 54.8,
+   "median_eur": 304.99,
+   "discount_pct": 54.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon.de",
@@ -99,8 +99,8 @@
    "price_eur": 164.99,
    "shipping_eur": null,
    "effective_eur": 164.99,
-   "median_eur": 309.99,
-   "discount_pct": 46.8,
+   "median_eur": 304.99,
+   "discount_pct": 45.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzPYS8W8pcw7fGMNNI9voc9NUhfku47wa4ANNdrC5lCY7LF0Y1iorlhXvD5Za1LsFcDVnFHOrr38JUBeXArk%2FH0QODGamFhi%2BTYw%2BAPUv%2F8VuqOQNwVFUuzofoKLj2aRqimxgWvaII9hV5xkvG%2FBw1M",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwktIQ0p54mdCBCKQPDNWCBKttyqH3csqjUDtZPOKIcZTk6Pk4dgeKW5CjhCS76V%2BYSwm2%2BXZ%2FTJ%2FEErsAOSQgZ2LJun1GIxzfsH7EURqP1r0WlYbsWF8RM6DXRdmEO8EEGMc%2B7eM0sIFyFJ9MiIKGc",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -256,7 +256,7 @@
    "discount_pct": 26.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 238 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 239 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -536,6 +536,13 @@
  ],
  "unclassified": [
   {
+   "title": "Souris sans fil Logitech G PRO X SUPERLIGHT 2 - Blanc",
+   "price_raw": "69,66€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-g-pro-x-superlight-2-souris-gaming-sans-fil-blanc-3467554",
+   "posted_at": "2026-11-24T10:20:32+00:00"
+  },
+  {
    "title": "PC de Bureau Apple Mac Studio - Puce M5 Max, RAM 36 Go, SSD 512 Go, Argent",
    "price_raw": "2 699€",
    "source": "dealabs",
@@ -548,13 +555,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147695448835?_skw=ddr4&hash=item226355b303:g:aRUAAeSwQXdrACJJ",
    "posted_at": "2026-11-24T09:50:29+00:00"
-  },
-  {
-   "title": "Carte mère Dell Latitude 5289 2-en-1 i5-7300U 8 Go LA-E111P",
-   "price_raw": "41.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800959990519?_skw=carte+m%C3%A8re&hash=itemba7cef8af7:g:XtoAAeSwUD9rBWAk",
-   "posted_at": "2026-11-24T10:01:26+00:00"
   },
   {
    "title": "Kit clavier et souris sans fil 2,4 GHz récepteur USB disposition allemande...",
@@ -887,7 +887,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1914,
+  "listings_seen": 1913,
   "models_with_reference": 77
  }
 }
