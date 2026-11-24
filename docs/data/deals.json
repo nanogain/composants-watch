@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T09:08:00Z",
+ "generated_at": "2026-11-24T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-24T09:08:00.684944+00:00"
+   "items": 342,
+   "last_ok": "2026-11-24T09:38:00.684733+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 375,
-   "last_ok": "2026-11-24T09:08:00.684944+00:00"
+   "items": 376,
+   "last_ok": "2026-11-24T09:38:00.684733+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-24T09:08:00.684944+00:00"
+   "last_ok": "2026-11-24T09:38:00.684733+00:00"
   }
  },
  "watchlist": [
@@ -126,23 +126,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -190,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuynyOJicYE7PCykIWLwcCq7M7euZJYCwiztCCV82TYd3GtWExnETvCdswZC8I%2F5lpenzD7WSDBUUcUMN%2FmueseiPPrlrJRVTxBr%2BH4VTt8jCGAgGYCLmz0sPu2riz1jlx1LFEK8WotN5UjEz4A9Lr51",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuydUnIvRNUNmST0R3lQ8WjY9U9z2%2FZQQZEJvZp2GVEC6p7%2BpI4ELqn%2FYBIjMlaB5hxc6NXuEFyR9KuNgyrFhiqRJbJ4hMBMUz%2FzzZoSI5vptxDvtLTz9vQMnnaNjmeQArPwffombK67wxQmU4HX%2B%2B%2Bz",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -422,8 +405,8 @@
    "price_eur": 99.0,
    "shipping_eur": 0.0,
    "effective_eur": 99.0,
-   "median_eur": 120.0,
-   "discount_pct": 17.5,
+   "median_eur": 122.5,
+   "discount_pct": 19.2,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · pnytechnologies (pro)",
@@ -447,6 +430,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-incurve-34-hkc-v3419us-uwqhd-3440-x-1440-va-1500r-120-hz-1-ms-hdr400-freesync-3466459",
    "posted_at": "2026-11-23T13:10:07+00:00"
+  },
+  {
+   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 79.74,
+   "shipping_eur": 2.99,
+   "effective_eur": 82.73,
+   "median_eur": 98.94,
+   "discount_pct": 16.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · docazmicro_8 (100,0 %, 533 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
+   "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
    "title": "8Go RAM Samsung DDR4-3200 M471A1G44CB0-CWE PC4-25600 1.2v 260Pin CL22 SODIMM PC",
@@ -519,6 +519,13 @@
  ],
  "unclassified": [
   {
+   "title": "Kit clavier et souris sans fil 2,4 GHz récepteur USB disposition française...",
+   "price_raw": "24.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960238039727?_skw=clavier&hash=itemdf92a5b2af:g:004AAeSwLfxrBVgW",
+   "posted_at": "2026-11-24T09:25:36+00:00"
+  },
+  {
    "title": "Tenda Routeur WiFi 6 AX3000 Mbps Dual-Band AX12 Pro",
    "price_raw": "",
    "source": "dealabs",
@@ -531,13 +538,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/rexsun-etui-clavier-pour-tablette-pour-ipad-pro-11-poair-109-3467435",
    "posted_at": "2026-11-24T09:01:05+00:00"
-  },
-  {
-   "title": "Samsung M378A5244CB0-CRC 4GB 1Rx16 PC4-2400T-UC0-11 Memory Module / Oty Of 2",
-   "price_raw": "28.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/307297339812?_skw=ddr4&hash=item478c5949a4:g:HR8AAeSw9klrBD8P&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7l8BBa0It%2BIf8UqzCPQCuG4XwD0pK85gyUSl9aUmdr2IGUWD4LFPt3jPBhNIk%2FjUIG6%2FRTiS3mCWqQQXx47bvJxrLTlicai1WfOA%2FTKEUheiibQ2%2FiY9LD2X0mGjD3jXypCl9b38rpW3zin2bsDFVCBbcnjpgEiByURMmzIG1DEqmisRWMVWcSE%2FppOu%2Brh4xAamq10lgX7svwT7bRVa2fjaZK28My8LHVJtszmCjl%2F1CJrQUuhlvpcox0RJiAiMgeO1IxxdeJdYXhSqsNxywCg",
-   "posted_at": "2026-11-23T13:26:36+00:00"
   },
   {
    "title": "PC Portable 13\" Apple MacBook Air - M5, RAM 32 Go, SSD 512 Go",
@@ -594,6 +594,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117227637601?_skw=boitier+pc&hash=item1b4b4fcb61:g:VToAAeSwB1xqRQ~Z",
    "posted_at": "2026-06-02T06:53:16+00:00"
+  },
+  {
+   "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
+   "price_raw": "48.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vziqPyuRZ4NN%2F271YbqdumyC%2Bz2A0rAWCnKQJs4yIS2BLL6JCJVVb7s3og0gb5%2B92EN%2FozONNlXuri2Rtb%2BYYTQPTeCm5npoAqLVFyKeDrpLc6m2Bh2jyg5pav%2BBt2PeDUYF2Fh%2B8e0pFyjNRkpnGsd",
+   "posted_at": "2026-02-09T14:19:11+00:00"
   },
   {
    "title": "Trust Gaming GXT 867 Acira Clavier mécanique 60 % pour joueurs",
@@ -860,17 +867,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
    "posted_at": "2026-11-23T14:14:14+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" Gigabyte GO27Q24G",
-   "price_raw": "327,26€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-gigabyte-go27q24g-27-3466514",
-   "posted_at": "2026-11-23T13:47:17+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1903,
-  "models_with_reference": 74
+  "listings_seen": 1907,
+  "models_with_reference": 75
  }
 }
