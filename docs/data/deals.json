@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T23:38:00Z",
+ "generated_at": "2026-11-24T00:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 349,
-   "last_ok": "2026-11-23T23:38:00.670315+00:00"
+   "last_ok": "2026-11-24T00:08:00.685730+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 382,
-   "last_ok": "2026-11-23T23:38:00.670315+00:00"
+   "last_ok": "2026-11-24T00:08:00.685730+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-23T23:38:00.670315+00:00"
+   "last_ok": "2026-11-24T00:08:00.685730+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 43.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 43.99,
-   "median_eur": 135.0,
-   "discount_pct": 67.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
-   "posted_at": "2024-01-03T08:24:17+00:00"
-  },
   {
    "title": "SSD disque dur WD Western Digital 1tb pour 2.5\"",
    "model": "SSD:NVMe-1To",
@@ -126,6 +109,23 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B9OLTHcqe99cSkZoCzZ3FBFZqTC%2FANwHvGAhwa453Z2%2B4W9MndA4tz3WzXa%2BiJUjbNU3tAB1qNg5r%2BLXcQgMeEjronupRXZiSxR4jE%2FpgWQ3ceLpfi%2FFcQdKAl7g4LE%2BPIDwCuUgH%2B5fBoq2Pza%2B5ZOg3p8e96eS3lMSrL1DCgWQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Hj2Mjgc4oqiNCK0XDCjuom2u10UcjTnH72I0AFL0TU4BxYwBkIxCSAoQhAffi5oX%2B48bIDXv7ODm5QeVDlIkTe7aBPq5C6QyIGoxCV9VOWDflGtbAIEDOhum5jUb2FdtnhUN6Oj%2BC3SwnojbSoI4N9KVCyATUpbTQrgx2kZSDbw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux2UHalyrTy%2FzBhSEnalKJAzET8DmDtQ413LJDRTpM4SOo9jMIlFsA0fVgKxx0d880qH521UlLov%2FtZ9QQMop63hWjVnM1r0wqbwEYSSCbhsNCCtzRr1M9Kkqsyas3FpA6iHx2HnjgdH403XCA1RISG",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuw43zU0n6R2K2ovil2aT8okUCPyL89UE1%2BR2X2sJ9TpqKejAP%2FeqVegyff78ov%2BCMbdGzxqZ1MlgisoDOVERtmg1jFnkdw6gb34ZLihWXn6C7OII%2BNScACx%2FFcbzqMfGtc3uYc6xxKXcCGsrTL3Dunc",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -279,21 +279,21 @@
    "posted_at": "2026-09-14T15:20:30+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.99,
-   "discount_pct": 21.6,
+   "title": "MSI B360M MORTAR",
+   "model": "MB:B360",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 89.0,
+   "shipping_eur": 8.99,
+   "effective_eur": 97.99,
+   "median_eur": 127.99,
+   "discount_pct": 23.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
+   "merchant": "eBay · celercards (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
+   "url": "https://www.ebay.fr/itm/960236293125?_skw=carte+m%C3%A8re&hash=itemdf928b0c05:g:GzUAAeSw~oZrBMUt",
+   "posted_at": "2026-11-23T23:43:58+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -415,6 +415,23 @@
    "posted_at": "2026-11-21T15:52:56+00:00"
   },
   {
+   "title": "MSI B360M GAMING PLUS",
+   "model": "MB:B360",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 99.0,
+   "shipping_eur": 8.99,
+   "effective_eur": 107.99,
+   "median_eur": 127.99,
+   "discount_pct": 15.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · celercards (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293106?_skw=carte+m%C3%A8re&hash=itemdf928b0bf2:g:uzIAAeSwyFxrBMTl",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
    "title": "Gigabyte B360M AORUS PRO",
    "model": "MB:B360",
    "category": "MB",
@@ -451,7 +468,77 @@
  ],
  "unclassified": [
   {
-   "title": "Imprimante Laser Brother HL-L1242W Monochrome A4 compacte (via coupon à cocher)",
+   "title": "PC portable 14\" Lenovo Chromebook Plus 2in1 14 (Core3-ChromeOS-8GB-256GB)",
+   "price_raw": "549€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lenovo-chromebook-plus-2in1-14-core3-chromeos-8gb-256gb-3467157",
+   "posted_at": "2026-11-23T23:55:33+00:00"
+  },
+  {
+   "title": "PC Portable 13\" XPS 13 - Intel Core 5 320, 16GB RAM, 512GB SSD",
+   "price_raw": "899€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/xps-13-ordinateur-portable-intel-core-5-320-16gb-ram-512gb-ssd-3467156",
+   "posted_at": "2026-11-23T23:46:10+00:00"
+  },
+  {
+   "title": "GIGABYTE GA-Z87-HD3",
+   "price_raw": "69.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293108?_skw=carte+m%C3%A8re&hash=itemdf928b0bf4:g:D-IAAeSwv~hrBMNX",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "GIGABYTE G1.Sniper B7",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293112?_skw=carte+m%C3%A8re&hash=itemdf928b0bf8:g:CPwAAeSwim5rBL70",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "GIGABYTE G1.Sniper B7",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293124?_skw=carte+m%C3%A8re&hash=itemdf928b0c04:g:~MkAAeSwowZrBMLS",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "GIGABYTE GA-Z170X-UD3",
+   "price_raw": "99.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293117?_skw=carte+m%C3%A8re&hash=itemdf928b0bfd:g:yMgAAeSwoy5rBMOZ",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "GIGABYTE G1.Sniper Z97",
+   "price_raw": "99.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293109?_skw=carte+m%C3%A8re&hash=itemdf928b0bf5:g:e0wAAeSwRVhrBMMN",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "MSI Z170A G45 GAMING",
+   "price_raw": "99.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293114?_skw=carte+m%C3%A8re&hash=itemdf928b0bfa:g:RM4AAeSwTC9rBMcU",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "MSI Z97 GAMING 3",
+   "price_raw": "99.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293118?_skw=carte+m%C3%A8re&hash=itemdf928b0bfe:g:LI4AAeSwBPhrBMaW",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "MSI ZH77A-G43 PLUS",
+   "price_raw": "89.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293113?_skw=carte+m%C3%A8re&hash=itemdf928b0bf9:g:4d4AAeSwBhZrBMen",
+   "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "Imprimante Laser Brother HL-L1242W Monochrome A4 compacte (via coupon)",
    "price_raw": "98,91€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-laser-brother-hl-l1242w-monochrome-a4-compacte-via-coupon-a-cocher-3467150",
@@ -483,34 +570,6 @@
    "price_raw": "89.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236047479?_skw=carte+m%C3%A8re&hash=itemdf92874c77:g:JiAAAeSw4U1rBKsW",
-   "posted_at": "2026-11-23T22:10:33+00:00"
-  },
-  {
-   "title": "ASUS STRIX Z270H GAMING",
-   "price_raw": "139.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236047462?_skw=carte+m%C3%A8re&hash=itemdf92874c66:g:dHUAAeSw9klrBK4Q",
-   "posted_at": "2026-11-23T22:10:33+00:00"
-  },
-  {
-   "title": "ASUS B85-PRO GAMER",
-   "price_raw": "99.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236047486?_skw=carte+m%C3%A8re&hash=itemdf92874c7e:g:bh8AAeSwBQprBJai",
-   "posted_at": "2026-11-23T22:10:33+00:00"
-  },
-  {
-   "title": "ASUS Z87-DELUXE",
-   "price_raw": "89.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236047472?_skw=carte+m%C3%A8re&hash=itemdf92874c70:g:kxcAAeSwIQFrBK70",
-   "posted_at": "2026-11-23T22:10:33+00:00"
-  },
-  {
-   "title": "ASUS MAXIMUS VIII HERO",
-   "price_raw": "129.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236047477?_skw=carte+m%C3%A8re&hash=itemdf92874c75:g:xlUAAeSwxJ1rBKtw",
    "posted_at": "2026-11-23T22:10:33+00:00"
   },
   {
@@ -552,7 +611,7 @@
    "title": "Remplace carte graphique Radeon 4850 Apple iMac 11,1 27\" 2009 A1312 - 661-5315",
    "price_raw": "149.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858564?_skw=carte+graphique&hash=item5e7996e744:g:eq0AAOSwr-Zn~ijk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n%2FZ9h5xzcDeltUdqJ%2F5T%2B4Tq%2BOhVMEvVp0FHlU%2B7993AeAgih%2BdSIWEO24g4FQ5RXj1%2FqPKAeMEDl8A26z0qPxlmQ5yiZfucx0TFvT6Z5iVpRYPiszobgcFhG2bvkAc7NoakCUCCcznSeFalnLXmClS6jHM7UQlyvDClTp%2FmEe%2BJPfnRd0PuPXo%2BnoSS%2BqtOTLck0WQwgrfXDSa%2FkvJEu30kAkdujFkVsb%2F0H0Oq5qSkCw51s2aA6HN1SVjZGucPxE2bIZPImq%2BFHtZyNijDoGoWL0ojJDhfl5r8ZTOyTfiw%3D%3D",
+   "url": "https://www.ebay.fr/itm/405766858564?_skw=carte+graphique&hash=item5e7996e744:g:eq0AAOSwr-Zn~ijk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n%2FZ9h5xzcDeltUdqJ%2F5T%2B4Tq%2BOhVMEvVp0FHlU%2B7993AeAgih%2BdSIWEO24g4FQ5RXj1%2FqPKAeMEDl8A26z0qPxlmQ5yiZfucx0TFvT6Z5iVpRYPiszobgcFhG2bvkAc7OsJaTe9Ave7Mb%2BCB07BP9teOnSLTI4hCI0rrRERn1b6RacJOKOOxQOQ7DAOHCEs6PtMGnAjbbkUUtdjNKTJ%2Fc%2F0ZIbCxcGykEL9MoQQLjI%2Fw43wxCOGPFQtzXVj46wEDNJDAkRukyw2vofAq21bJR3PnZvFZDgU7X%2B%2BQ4gE46ctw%3D%3D",
    "posted_at": "2025-04-15T09:15:08+00:00"
   },
   {
@@ -757,52 +816,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-ergo-verticale-ugreen-bluetooth-et-dongle-multi-device-switch-4000-dpi-3466580",
    "posted_at": "2026-11-23T14:29:08+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Acer Aspire Go 16 AG16-71P - i9-13900H, 32 Go DDR5, 1 To SSD, Windows 11",
-   "price_raw": "1 066,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
-   "posted_at": "2026-11-23T14:14:14+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" Gigabyte GO27Q24G",
-   "price_raw": "327,26€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-gigabyte-go27q24g-27-3466514",
-   "posted_at": "2026-11-23T13:47:17+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Acemagic ‎RX16 - Intel Core Ultra X7 358H, Intel Arc B390, RAM 24 Go LPDDR5 7467Mhz, SSD 1 To PCIe 4.0, Windows 11",
-   "price_raw": "999€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acemagic-rx16-intel-core-ultra-x7-358h-laptop-24gb-ram-1tb-ssd-3466501",
-   "posted_at": "2026-11-23T13:36:00+00:00"
-  },
-  {
-   "title": "Routeur WiFi 7 GL.iNet GL-BE6500 Flint 3e - gl-inet.com",
-   "price_raw": "99,09€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/routeur-wifi-7-glinet-gl-be9300-flint-3e-3466500",
-   "posted_at": "2026-11-23T13:36:33+00:00"
-  },
-  {
-   "title": "PC Portable 14,2\" Apple MacBook Pro - puce M6, SSD 1 To, 32 Go Ram",
-   "price_raw": "2 539€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-142-pouces-avec-puce-m6-ssd-de-1-to-3466461",
-   "posted_at": "2026-11-23T13:10:54+00:00"
-  },
-  {
-   "title": "Sélection de Mini PC Geekom En Promotion. Ex : Geekom A5 2027 - Ryzen 7 7730U, 500 Go SSD, 16 Go DDR4 (vendeur tiers)",
-   "price_raw": "521,55€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/selection-de-mini-pc-geekom-en-promotion-ex-geekom-a5-2027-ryzen-7-7730u-500-go-ssd-16-go-ddr4-evolutive-3466449",
-   "posted_at": "2026-11-23T12:58:44+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1954,
-  "models_with_reference": 76
+  "listings_seen": 1973,
+  "models_with_reference": 77
  }
 }
