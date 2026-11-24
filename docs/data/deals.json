@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T01:38:00Z",
+ "generated_at": "2026-11-24T02:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 349,
-   "last_ok": "2026-11-24T01:38:00.675035+00:00"
+   "last_ok": "2026-11-24T02:08:00.660272+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 380,
-   "last_ok": "2026-11-24T01:38:00.675035+00:00"
+   "items": 381,
+   "last_ok": "2026-11-24T02:08:00.660272+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-24T01:38:00.675035+00:00"
+   "last_ok": "2026-11-24T02:08:00.660272+00:00"
   }
  },
  "watchlist": [
@@ -41,21 +41,21 @@
  ],
  "opportunities": [
   {
-   "title": "SSD disque dur WD Western Digital 1tb pour 2.5\"",
-   "model": "SSD:NVMe-1To",
+   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
+   "model": "SSD:SATA-1To",
    "category": "SSD",
-   "condition": "used",
-   "price_eur": 47.5,
-   "shipping_eur": 6.0,
-   "effective_eur": 53.5,
-   "median_eur": 120.0,
-   "discount_pct": 55.4,
+   "condition": "new",
+   "price_eur": 43.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 43.99,
+   "median_eur": 135.0,
+   "discount_pct": 67.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · kreator60 (99,8 %, 2 772 avis)",
+   "merchant": "eBay · fanxiang-brand-store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117537946255?_skw=ssd&hash=item1b5dceba8f:g:J3gAAeSwBhZrBEnQ",
-   "posted_at": "2026-11-23T14:16:11+00:00"
+   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
+   "posted_at": "2024-01-03T08:24:17+00:00"
   },
   {
    "title": "Écran PC 27\" Lenovo Legion 27QD-10 - 27 Inch QHD WLED Gaming Monitor, 2560 x 1440, 16:9, 240Hz",
@@ -109,23 +109,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -173,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8tbW0KPB9061fzskr0cVWnj9e1IIIh8B2L9MzPXdjj9SZw8nISOoBOZpfp7amrd7LvmW3MTb7ewCt8FAak5wNSZJH15%2FRslsMGYaA4e4cztZuHuMgGztgCzXOac1qMJIoYVQ3eEfmi9k8UvF30YkfZcKAupykegYZdu8fBe4UpQQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BpUPka99aJmGayeJoTenVk4hKxJlYOjeLBhDCwd%2B2E61r55x3m%2FlbaOEaHmyjyAcqQQCM%2FdUdZYIjGyaRmZ9FXrJWxc3eirIuUcwg0I3EXcAtqHXiUAkeAr5tdEFVAdLfIahkJ2gLTD%2FqBIdV5d2EcyMJv3ahH6QzhDq%2B1nhiGPQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxhLD%2FjOy6YTiWSrNjkKsTnnvRLCyXB%2Bjy8eZHNtJBV0Y0j%2BD5e6%2B4ad%2B4gI7N3omU7GoqWY3pwJ3dx7ISKzhJJnsJBU3hBP2QFHAdyyY9WDtb%2BkHdhLXak2flRuNfyjeXG%2ByuHRsGdnxEI3fRBwDmY",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuw1bFoMlXt8tKI2KAcEW0V4mp7jy7tBzgChdcsD7TMNFC1MFnQoDig5B4mtoV9a18GDBF45eqxlmbE4tF5Csq6h9aienetHPyEhJhEw2KYy0HI9M8kcpai5sYQjJSWYXIcssOJ%2By1IQ1eoiv57eginF",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -415,6 +398,23 @@
    "posted_at": "2026-11-23T13:10:07+00:00"
   },
   {
+   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 79.74,
+   "shipping_eur": 2.99,
+   "effective_eur": 82.73,
+   "median_eur": 98.94,
+   "discount_pct": 16.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · docazmicro_8 (100,0 %, 533 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
+   "posted_at": "2026-11-14T10:28:06+00:00"
+  },
+  {
    "title": "Western Digital PC SN520 SSD interne 512 Go M.2 2280 NVMe SDAPNUW-512G-1006",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -492,13 +492,6 @@
    "posted_at": "2026-09-11T08:26:04+00:00"
   },
   {
-   "title": "ROCCAT  Vulcan II Mini Air - Noir ISO-FR - Clavier Gaming 65% Sans fil RGB - TBE",
-   "price_raw": "80.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257749235558?_skw=clavier&hash=item3c030d3766:g:uTEAAeSwFkVqtCBz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k3GspcLYUrP30o1pYDaul28HnslfHhReCNVY1JFxxqfKF8CUFp0dfWjicBwOFeBUv6iH%2F6jIM2svJkgayLBe%2FJs0dh3tFaNbJSXbhg6byNre6oJt0FZYMzu6PlADp7%2Bhn6C6BBrGDE%2FsiQ8ek3nUvfhaw5J87hNXGbnYt25TASVuiqu4fjynGkdOudR0UO7j%2Bm4Ey%2FPH8RxdmtMfHodJKAWI2VlNVI24j1vWa1PGY4XpKBnjG3yqqXu3gQin9wHIQ1UwD9e88GIqiuCy83ND8fL9e6PviWBMiZ4xLGEQRWBg%3D%3D",
-   "posted_at": "2026-09-17T22:00:15+00:00"
-  },
-  {
    "title": "PC portable 14\" Lenovo Chromebook Plus 2in1 14 (Core3-ChromeOS-8GB-256GB)",
    "price_raw": "549€",
    "source": "dealabs",
@@ -538,13 +531,6 @@
    "price_raw": "99.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236293117?_skw=carte+m%C3%A8re&hash=itemdf928b0bfd:g:yMgAAeSwoy5rBMOZ",
-   "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
-   "title": "GIGABYTE G1.Sniper Z97",
-   "price_raw": "99.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236293109?_skw=carte+m%C3%A8re&hash=itemdf928b0bf5:g:e0wAAeSwRVhrBMMN",
    "posted_at": "2026-11-23T23:43:58+00:00"
   },
   {
@@ -630,13 +616,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-proart-p14-h7407ba-sm250x-14-oled-120hz-ecran-tactile-nvidia-rtx-spark-n1x-128-go-ram-1-to-ssd-blanc-3467009",
    "posted_at": "2026-11-23T20:45:17+00:00"
-  },
-  {
-   "title": "SK hynix 16 Go (2x8 Go) DDR4 PC4-3200AA SO-DIMM 260p HMA81GS6DJR8N-XN",
-   "price_raw": "59.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900115850825?_skw=ddr4&hash=itemd19315e649:g:GEkAAeSw4o5rBJxV",
-   "posted_at": "2026-11-23T20:05:14+00:00"
   },
   {
    "title": "PC Portable 14\" MSI Prestige 14 AI+ D3MG-420FRN - OLED, Ultra 7 355, 32 Go RAM, 512 Go SSD, Windows 11",
@@ -833,10 +812,31 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
    "posted_at": "2026-11-23T14:14:14+00:00"
+  },
+  {
+   "title": "Ecran PC 27\" Gigabyte GO27Q24G",
+   "price_raw": "327,26€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-gigabyte-go27q24g-27-3466514",
+   "posted_at": "2026-11-23T13:47:17+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Acemagic ‎RX16 - Intel Core Ultra X7 358H, Intel Arc B390, RAM 24 Go LPDDR5 7467Mhz, SSD 1 To PCIe 4.0, Windows 11",
+   "price_raw": "999€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/acemagic-rx16-intel-core-ultra-x7-358h-laptop-24gb-ram-1tb-ssd-3466501",
+   "posted_at": "2026-11-23T13:36:00+00:00"
+  },
+  {
+   "title": "PC Portable 14,2\" Apple MacBook Pro - puce M6, SSD 1 To, 32 Go Ram",
+   "price_raw": "2 539€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-142-pouces-avec-puce-m6-ssd-de-1-to-3466461",
+   "posted_at": "2026-11-23T13:10:54+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1949,
-  "models_with_reference": 75
+  "models_with_reference": 77
  }
 }
