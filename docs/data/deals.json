@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T09:38:00Z",
+ "generated_at": "2026-11-24T10:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-24T09:38:00.684733+00:00"
+   "items": 343,
+   "last_ok": "2026-11-24T10:08:00.623947+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-24T09:38:00.684733+00:00"
+   "items": 381,
+   "last_ok": "2026-11-24T10:08:00.623947+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-24T09:38:00.684733+00:00"
+   "items": 76,
+   "last_ok": "2026-11-24T10:08:00.623947+00:00"
   }
  },
  "watchlist": [
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuydUnIvRNUNmST0R3lQ8WjY9U9z2%2FZQQZEJvZp2GVEC6p7%2BpI4ELqn%2FYBIjMlaB5hxc6NXuEFyR9KuNgyrFhiqRJbJ4hMBMUz%2FzzZoSI5vptxDvtLTz9vQMnnaNjmeQArPwffombK67wxQmU4HX%2B%2B%2Bz",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzPYS8W8pcw7fGMNNI9voc9NUhfku47wa4ANNdrC5lCY7LF0Y1iorlhXvD5Za1LsFcDVnFHOrr38JUBeXArk%2FH0QODGamFhi%2BTYw%2BAPUv%2F8VuqOQNwVFUuzofoKLj2aRqimxgWvaII9hV5xkvG%2FBw1M",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -415,6 +415,23 @@
    "posted_at": "2026-11-18T09:57:21+00:00"
   },
   {
+   "title": "Nanya NT32GA72D4NFX3K-JR 32Go DDR4 3200MHz 2Rx4 ECC RDIMM Mémoire Serveur",
+   "model": "RAM:DDR4-32Go-3200",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 199.99,
+   "shipping_eur": 1.0,
+   "effective_eur": 200.99,
+   "median_eur": 248.56,
+   "discount_pct": 19.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · adimes-oem (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137958434635?_skw=ddr4&hash=item201ef6a74b:g:SfsAAeSw49lrBV5s",
+   "posted_at": "2026-11-24T09:53:42+00:00"
+  },
+  {
    "title": "Écran PC gaming incurvé 34\" HKC V3419US - UWQHD (3440 x 1440), VA 1500R, 120 Hz, 1 ms, HDR400, FreeSync",
    "model": "MON:34-UWQHD-120Hz",
    "category": "MON",
@@ -519,6 +536,41 @@
  ],
  "unclassified": [
   {
+   "title": "PC de Bureau Apple Mac Studio - Puce M5 Max, RAM 36 Go, SSD 512 Go, Argent",
+   "price_raw": "2 699€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-apple-mac-studio-m5-max-cpu-18-coeurs-36-go-ram-ssd-512-go-argent-3467499",
+   "posted_at": "2026-11-24T09:38:50+00:00"
+  },
+  {
+   "title": "Kit 32 Go (2x16 Go) DDR4 SO-DIMM Samnsung PC4-3200AA",
+   "price_raw": "125.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147695448835?_skw=ddr4&hash=item226355b303:g:aRUAAeSwQXdrACJJ",
+   "posted_at": "2026-11-24T09:50:29+00:00"
+  },
+  {
+   "title": "Carte mère Dell Latitude 5289 2-en-1 i5-7300U 8 Go LA-E111P",
+   "price_raw": "41.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800959990519?_skw=carte+m%C3%A8re&hash=itemba7cef8af7:g:XtoAAeSwUD9rBWAk",
+   "posted_at": "2026-11-24T10:01:26+00:00"
+  },
+  {
+   "title": "Kit clavier et souris sans fil 2,4 GHz récepteur USB disposition allemande...",
+   "price_raw": "24.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960238103033?_skw=clavier&hash=itemdf92a6a9f9:g:KHIAAeSwM-prBVwD",
+   "posted_at": "2026-11-24T09:42:25+00:00"
+  },
+  {
+   "title": "Kit clavier et souris sans fil 2,4 GHz récepteur USB disposition espagnole...",
+   "price_raw": "24.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960238103111?_skw=clavier&hash=itemdf92a6aa47:g:KIEAAeSwqJFrBVwG",
+   "posted_at": "2026-11-24T09:42:28+00:00"
+  },
+  {
    "title": "Kit clavier et souris sans fil 2,4 GHz récepteur USB disposition française...",
    "price_raw": "24.90 EUR",
    "source": "ebay",
@@ -594,20 +646,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117227637601?_skw=boitier+pc&hash=item1b4b4fcb61:g:VToAAeSwB1xqRQ~Z",
    "posted_at": "2026-06-02T06:53:16+00:00"
-  },
-  {
-   "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
-   "price_raw": "48.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vziqPyuRZ4NN%2F271YbqdumyC%2Bz2A0rAWCnKQJs4yIS2BLL6JCJVVb7s3og0gb5%2B92EN%2FozONNlXuri2Rtb%2BYYTQPTeCm5npoAqLVFyKeDrpLc6m2Bh2jyg5pav%2BBt2PeDUYF2Fh%2B8e0pFyjNRkpnGsd",
-   "posted_at": "2026-02-09T14:19:11+00:00"
-  },
-  {
-   "title": "Trust Gaming GXT 867 Acira Clavier mécanique 60 % pour joueurs",
-   "price_raw": "17.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840159140311?_skw=clavier&hash=itemc39d6319d7:g:6WoAAeSwRQVrBE7c",
-   "posted_at": "2026-11-23T15:22:40+00:00"
   },
   {
    "title": "Mini PC NiPoGi E3B - Ryzen 7 7736U, RAM 24 Go 5500Mhz, SSD 512 Go, Windows 11 (Via Remise au Panier - Vendeur Tiers)",
@@ -846,31 +884,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/137956003322?_skw=carte+graphique&hash=item201ed18dfa:g:EO0AAeSw98NrBFeb",
    "posted_at": "2026-11-23T15:26:17+00:00"
-  },
-  {
-   "title": "SODIMM DDR5 SK hynix PC5-4800B HMCG8ME6SA4092N AA",
-   "price_raw": "213.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960234628273?_skw=ddr5&hash=itemdf9271a4b1:g:vv8AAeSw2bNrBFC5",
-   "posted_at": "2026-11-23T14:46:51+00:00"
-  },
-  {
-   "title": "Souris Ergo Verticale Ugreen - Bluetooth et dongle, multi device switch, 4000 DPI (Vendeur Tiers)",
-   "price_raw": "19,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-ergo-verticale-ugreen-bluetooth-et-dongle-multi-device-switch-4000-dpi-3466580",
-   "posted_at": "2026-11-23T14:29:08+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Acer Aspire Go 16 AG16-71P - i9-13900H, 32 Go DDR5, 1 To SSD, Windows 11",
-   "price_raw": "1 066,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
-   "posted_at": "2026-11-23T14:14:14+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1907,
-  "models_with_reference": 75
+  "listings_seen": 1914,
+  "models_with_reference": 77
  }
 }
