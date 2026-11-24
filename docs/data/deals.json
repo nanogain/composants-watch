@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T14:38:00Z",
+ "generated_at": "2026-11-24T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-24T14:38:00.678056+00:00"
+   "items": 343,
+   "last_ok": "2026-11-24T15:08:00.677815+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-24T14:38:00.678056+00:00"
+   "items": 383,
+   "last_ok": "2026-11-24T15:08:00.677815+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-24T14:38:00.678056+00:00"
+   "last_ok": "2026-11-24T15:08:00.677815+00:00"
   }
  },
  "watchlist": [
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B87OArBfooI977JOEDt6yOgoseHo432ImtG1jgMRxaM5YXTipVIw17%2B50hcW%2B54GPtN885OW0dDNuxC5xv5BE64P3rHDa5PJYeVp0fVzjRyjN9rtC8qIbQQCtZFWNjkuH%2F3dngldiHc0a4ZMisY1C2Gm4I8LG7Crcv%2B0EvrFLXl7Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BRKlJuYnP1ncykldIs54Byosg2FP9F1u1bIRHrZQRvzyK8yY9T2nbDBkm4hHYjtjmVFnLo14yXEPdfgka0tRihie8HUgKZ3rjRJ2qF7nSYaCMJd6cHjPIj9drNv1o%2B3T8iz%2BL%2FxMq2hNd4du%2Bjy6WSFKUqCaEzAlARMVopfyoaIg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxuCSWHzTJz8JQ5cQmHCezFeTucJH8mGQk8LSdT5aPmGwpTRiFcsJgcmkLyWnUbloG1%2Bn34JaRnAd3Q14dZonAoQIX1lDETsey9zA%2BUByBbzD2rXzkcEwfuIXiqiM8ut4Seahtg2phGvSQaUgzTV92l",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux3rE2VBRLGwdWIPHhFdlySaOMCFL8reGRmPtRnsxHTKrUEeuRiO6cNC3N%2B4NAtW6MJg73umyQl4qbQPBva3QxfHNJVcyHt%2Bq79PAG4Dln3A18OjHtJDZRjgS1bPzutysJv9kEh7KKk476HLK8LPaUM",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -364,6 +364,23 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
+   "title": "Mémoire RAM Lenovo 8 Go DDR4 3200 MHz SO-DIMM – Neuve",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 45.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 45.0,
+   "median_eur": 57.79,
+   "discount_pct": 22.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · pc-reco (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/128214299898?_skw=ddr4&hash=item1dda2af4fa:g:7BoAAeSwQa5rBaNU",
+   "posted_at": "2026-11-24T14:51:28+00:00"
+  },
+  {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -466,23 +483,6 @@
    "posted_at": "2026-11-23T13:10:07+00:00"
   },
   {
-   "title": "8Go RAM Samsung DDR4-3200 M471A1G44CB0-CWE PC4-25600 1.2v 260Pin CL22 SODIMM PC",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 52.69,
-   "shipping_eur": 0.0,
-   "effective_eur": 52.69,
-   "median_eur": 62.89,
-   "discount_pct": 16.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docamania_fr (99,0 %, 621 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198312875383?_skw=ddr4&hash=item2e2c5e5577:g:KSsAAeSwVnNp7i7G",
-   "posted_at": "2026-04-26T15:28:12+00:00"
-  },
-  {
    "title": "Western Digital PC SN520 SSD interne 512 Go M.2 2280 NVMe SDAPNUW-512G-1006",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -535,6 +535,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC portable Apple MacBook Neo 13'' CPU 6 GPU 5 8 Go - 256 Go Indigo (via 160 euro sur la carte) - La Ville Du Bois (91)",
+   "price_raw": "639,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/macbook-neo-13-cpu-6-gpu-5-8-go-256-go-rose-poudre-mhfh4fna-apple-via-160-euro-sur-la-carte-3467850",
+   "posted_at": "2026-11-24T14:42:52+00:00"
+  },
   {
    "title": "Boîtier SSD M.2 Orico - NVMe/SATA (Vendeur Tiers)",
    "price_raw": "23,14€",
@@ -725,6 +732,13 @@
    "posted_at": "2026-06-02T06:53:16+00:00"
   },
   {
+   "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
+   "price_raw": "48.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vzEEPzTKQi7Yv2lFE17kXbtRAr%2F3tixPftJFs3%2FXPXlrh082zixc5tBARnzKDJe9n4e81lt4quM5rwPFwcrjT0%2FzInecQV%2BtV43o5hyYap9zhvtzHwoUKLifh6FMoD0wjEoYRKndjbXWXyJ0nx6QmmN",
+   "posted_at": "2026-02-09T14:19:11+00:00"
+  },
+  {
    "title": "Mini PC NiPoGi E3B - Ryzen 7 7736U, RAM 24 Go 5500Mhz, SSD 512 Go, Windows 11 (Via Remise au Panier - Vendeur Tiers)",
    "price_raw": "505,39€",
    "source": "dealabs",
@@ -744,6 +758,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/xps-13-ordinateur-portable-intel-core-5-320-16gb-ram-512gb-ssd-3467156",
    "posted_at": "2026-11-23T23:46:10+00:00"
+  },
+  {
+   "title": "GIGABYTE GA-Z170X-UD3",
+   "price_raw": "99.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293117?_skw=carte+m%C3%A8re&hash=itemdf928b0bfd:g:yMgAAeSwoy5rBMOZ",
+   "posted_at": "2026-11-23T23:43:58+00:00"
   },
   {
    "title": "Imprimante Laser Brother HL-L1242W Monochrome A4 compacte (via coupon)",
@@ -771,13 +792,6 @@
    "price_raw": "69.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236047484?_skw=carte+m%C3%A8re&hash=itemdf92874c7c:g:UUwAAeSwRExrBJLx",
-   "posted_at": "2026-11-23T22:10:33+00:00"
-  },
-  {
-   "title": "ASUS STRIX Z270H GAMING",
-   "price_raw": "139.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236047462?_skw=carte+m%C3%A8re&hash=itemdf92874c66:g:dHUAAeSw9klrBK4Q",
    "posted_at": "2026-11-23T22:10:33+00:00"
   },
   {
@@ -870,20 +884,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/thinkpad-p14s-gen-5-amd-32-go-1to-processeur-amd-ryzen-7-pro-8840hs-3466852",
    "posted_at": "2026-11-23T18:17:02+00:00"
-  },
-  {
-   "title": "Souris sans fil gaming Cherry XTRFY M64, 2,4 GHz - Bleue",
-   "price_raw": "19,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-gaming-cherry-xtrfy-m64-24-ghz-bleue-3466838",
-   "posted_at": "2026-11-23T18:07:11+00:00"
-  },
-  {
-   "title": "Écran PC 26.5” MSI MPG 271QR QD-OLED X50 WQHD",
-   "price_raw": "567,43€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-mpg-271qr-qd-oled-x50-ecran-gaming-265-wqhd-3466834",
-   "posted_at": "2026-11-23T18:03:35+00:00"
   }
  ],
  "stats": {
