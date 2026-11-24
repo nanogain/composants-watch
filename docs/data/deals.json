@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T11:38:00Z",
+ "generated_at": "2026-11-24T12:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-24T11:38:00.677272+00:00"
+   "last_ok": "2026-11-24T12:08:00.627789+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-24T11:38:00.677272+00:00"
+   "items": 382,
+   "last_ok": "2026-11-24T12:08:00.627789+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 50,
-   "last_ok": "2026-11-24T11:38:00.677272+00:00"
+   "items": 80,
+   "last_ok": "2026-11-24T12:08:00.627789+00:00"
   }
  },
  "watchlist": [
@@ -160,6 +160,23 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FOtEIyYTxmhQZG64wNj5RuDmkESJQWzZDPo76XHz%2BWYJ3pGSf%2FO98oLMGtt4n5qYlhPA3wIQ9W2wqMAb9AfTvf8b4DGOjcVT%2Bi%2Fx%2Fvbfez%2FwYy4lSfvWvXPjrKBT%2B6iwbH%2Fv50fW0%2F3LO6SKqy4NYyKhIRZWXwQRRMNUQHLQCH0g%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -173,8 +190,25 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyRtCYoxelRera6ef5%2FcTSS%2BPRSFhYQeua9%2BR7it6RqM4dxBfxrzceA%2FpNcIeDM1D4uPc5PGIIs29m%2F7NE%2FgtGMYiYiyWmgBeJgEK1v%2Bm6Cwj3%2B2khKJejKwPrOvOxh4VvGBX1o2rmyS1qAbuxY68Wn",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzCKpCH73j3j%2BQOuC%2FYm%2Fb1m4yEPOmPF0%2BqPJMct7RgVfwYZdgpQIqU00Ky%2FiwYb7l45qoFYWpMrw4EXIlEPAgANFUlFsJL%2BHmOZXO6UE9UddrdjHfvfTX1Tg%2BdJ4tmuLLqmBz1MAnLHxRdtsVBScrv",
    "posted_at": "2026-08-14T16:59:44+00:00"
+  },
+  {
+   "title": "OCZ Trion 150 SSD interne 120 Go 2,5\" SATA III",
+   "model": "SSD:SATA-120Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 12.9,
+   "shipping_eur": 3.9,
+   "effective_eur": 16.8,
+   "median_eur": 26.0,
+   "discount_pct": 35.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,6 %, 239 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
+   "posted_at": "2026-11-24T11:41:43+00:00"
   },
   {
    "title": "Western Digital WD Blue SN570 SSD interne 500 Go NVMe M.2",
@@ -262,23 +296,6 @@
    "posted_at": "2026-11-19T10:05:39+00:00"
   },
   {
-   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 10.5,
-   "shipping_eur": 3.78,
-   "effective_eur": 14.28,
-   "median_eur": 19.29,
-   "discount_pct": 26.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 239 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
-   "posted_at": "2026-11-11T18:03:48+00:00"
-  },
-  {
    "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
    "model": "RAM:DDR5-32Go-5600",
    "category": "RAM",
@@ -294,6 +311,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117412302291?_skw=ddr5&hash=item1b56518dd3:g:akUAAeSwridpwzMR",
    "posted_at": "2026-09-14T15:20:30+00:00"
+  },
+  {
+   "title": "SanDisk SSD interne 128 Go 2,5\" SATA III S.M.A.R.T. TRIM NCQ SDSSDP-128G",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 10.5,
+   "shipping_eur": 3.78,
+   "effective_eur": 14.28,
+   "median_eur": 18.8,
+   "discount_pct": 24.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fastseller59 (99,6 %, 239 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
+   "posted_at": "2026-11-11T18:03:48+00:00"
   },
   {
    "title": "MSI B360M MORTAR",
@@ -330,23 +364,6 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.99,
-   "discount_pct": 21.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -375,7 +392,7 @@
    "discount_pct": 20.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
+   "merchant": "eBay · juuju7782 (100,0 %, 542 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194313277?_skw=ssd&hash=item3739e1fe3d:g:bZAAAeSw1kBrAB-J",
    "posted_at": "2026-11-20T10:28:23+00:00"
@@ -392,7 +409,7 @@
    "discount_pct": 20.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
+   "merchant": "eBay · juuju7782 (100,0 %, 542 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
    "posted_at": "2026-11-20T10:13:01+00:00"
@@ -447,23 +464,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-incurve-34-hkc-v3419us-uwqhd-3440-x-1440-va-1500r-120-hz-1-ms-hdr400-freesync-3466459",
    "posted_at": "2026-11-23T13:10:07+00:00"
-  },
-  {
-   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 79.74,
-   "shipping_eur": 2.99,
-   "effective_eur": 82.73,
-   "median_eur": 98.94,
-   "discount_pct": 16.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docazmicro_8 (100,0 %, 533 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
-   "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
    "title": "8Go RAM Samsung DDR4-3200 M471A1G44CB0-CWE PC4-25600 1.2v 260Pin CL22 SODIMM PC",
@@ -536,6 +536,41 @@
  ],
  "unclassified": [
   {
+   "title": "Boitier PC Cooler Master MasterFrame 500 - 2 ventilateurs de 200mm pré installé, ARGB",
+   "price_raw": "90,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-cooler-master-masterframe-500-2-ventilateurs-de-200mm-pre-installe-argb-3467663",
+   "posted_at": "2026-11-24T12:07:22+00:00"
+  },
+  {
+   "title": "Tablette Samsung Galaxy Tab S10+ - Villebon-sur-Yvette (91)",
+   "price_raw": "643,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/samsung-tablette-galaxy-tab-s10-3467643",
+   "posted_at": "2026-11-24T11:42:16+00:00"
+  },
+  {
+   "title": "ADATA SU630 SSD interne 480,1 Go 2,5\" SATA III S.M.A.R.T. TRIM",
+   "price_raw": "46.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206724489400?_skw=ssd&hash=item3021bd60b8:g:S-MAAeSw6hxrBXkF",
+   "posted_at": "2026-11-24T11:47:43+00:00"
+  },
+  {
+   "title": "Blackview Table 16 Triple Écran 15,3\" IPS pour PC Portable 4 Écrans 65W 100%sRGB",
+   "price_raw": "399.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900117625867?_skw=%C3%A9cran+pc&hash=itemd19330fc0b:g:TRMAAeSwq1NrBXpn",
+   "posted_at": "2026-11-24T11:52:04+00:00"
+  },
+  {
+   "title": "Autocollants de Clavier Allemand Toutes Les Touches Pour Noir PC Portable",
+   "price_raw": "9.07 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/271305673250?_skw=clavier&hash=item3f2b140a22:g:BuAAAOSw3KFWco~m",
+   "posted_at": "2013-10-25T02:03:10+00:00"
+  },
+  {
    "title": "Boitier PC Asus Tuf Gaming Gt502 Plus Midi - blanc",
    "price_raw": "126,99€",
    "source": "dealabs",
@@ -597,13 +632,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960238103033?_skw=clavier&hash=itemdf92a6a9f9:g:KHIAAeSwM-prBVwD",
    "posted_at": "2026-11-24T09:42:25+00:00"
-  },
-  {
-   "title": "Kit clavier et souris sans fil 2,4 GHz récepteur USB disposition espagnole...",
-   "price_raw": "24.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960238103111?_skw=clavier&hash=itemdf92a6aa47:g:KIEAAeSwqJFrBVwG",
-   "posted_at": "2026-11-24T09:42:28+00:00"
   },
   {
    "title": "Kit clavier et souris sans fil 2,4 GHz récepteur USB disposition française...",
@@ -686,7 +714,7 @@
    "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
    "price_raw": "48.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vxIfPvAYkXVY8yYys%2BDBNayn8LKRoZmmRsHlOoHLDaOAlzDwUjK49UKmgGVuurKnqpc%2Fea2xrbnLjVd7rUMDoNyFfDGjUpvqhdqxOOEP%2B%2B4clkGAR9HN01uyRRcSZtJgaG3Fi%2FsCfJip6YQb2JojP2a",
+   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vyU2VxJU8YhyOq4pqWn9%2FahUqBAFAaX1xemiGlih2iuXFwQORdc2dYEmhHuyp1T90n0iutTuC%2BVpx%2BLl1A6slrGa2foYdN32uFMmoI9PzgiJbWSU4r6Ne%2FIhudiafNpgsvUT8VovWilGCJPOaPggSAi",
    "posted_at": "2026-02-09T14:19:11+00:00"
   },
   {
@@ -856,38 +884,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-mpg-271qr-qd-oled-x50-ecran-gaming-265-wqhd-3466834",
    "posted_at": "2026-11-23T18:03:35+00:00"
-  },
-  {
-   "title": "PC Portable 14\" ASUS Vivobook 14 - Core 5 320, 8 Go RAM, 256 Go SSD, Windows 11",
-   "price_raw": "499,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-vivobook-14-x1404-3466828",
-   "posted_at": "2026-11-23T17:59:36+00:00"
-  },
-  {
-   "title": "PC portable Lenovo Legion Pro 5 16IRX10 - i9, 32 Go RAM, 1 To SSD + Casque H410 + Sac à dos GB900 + Souris M600s (Via Coupon)",
-   "price_raw": "2 429€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-lenovo-legion-pro-5-16irx10-core-i9-32-go-1-to-casque-h410-sac-a-dos-gb900-souris-m600s-via-coupon-3466817",
-   "posted_at": "2026-11-23T17:51:21+00:00"
-  },
-  {
-   "title": "Sync Box Philips Hue Play HDMI 4K",
-   "price_raw": "134,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/philips-hue-play-hdmi-sync-box-4k-3466765",
-   "posted_at": "2026-11-23T17:19:25+00:00"
-  },
-  {
-   "title": "Lot de 2 Prises Connectées Zigbee Sonoff S60ZBTPF avec Suivi Énergétique & Répéteur",
-   "price_raw": "21,28€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-2-prises-connectees-zigbee-sonoff-s60zbtpf-avec-suivi-energetique-repeteur-3466763",
-   "posted_at": "2026-11-23T16:59:30+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1908,
-  "models_with_reference": 77
+  "listings_seen": 1916,
+  "models_with_reference": 78
  }
 }
