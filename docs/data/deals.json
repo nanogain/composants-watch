@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T04:08:00Z",
+ "generated_at": "2026-11-24T04:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 350,
-   "last_ok": "2026-11-24T04:08:00.677414+00:00"
+   "items": 349,
+   "last_ok": "2026-11-24T04:38:00.676851+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 383,
-   "last_ok": "2026-11-24T04:08:00.677414+00:00"
+   "items": 380,
+   "last_ok": "2026-11-24T04:38:00.676851+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-24T04:08:00.677414+00:00"
+   "last_ok": "2026-11-24T04:38:00.676851+00:00"
   }
  },
  "watchlist": [
@@ -65,8 +65,8 @@
    "price_eur": 140.17,
    "shipping_eur": null,
    "effective_eur": 140.17,
-   "median_eur": 304.99,
-   "discount_pct": 54.0,
+   "median_eur": 309.99,
+   "discount_pct": 54.8,
    "target_hit": false,
    "suspect": false,
    "merchant": "Amazon.de",
@@ -82,8 +82,8 @@
    "price_eur": 164.99,
    "shipping_eur": null,
    "effective_eur": 164.99,
-   "median_eur": 304.99,
-   "discount_pct": 45.9,
+   "median_eur": 309.99,
+   "discount_pct": 46.8,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -107,6 +107,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-280hz-3462779",
    "posted_at": "2026-11-20T06:31:50+00:00"
+  },
+  {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
   },
   {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
@@ -143,6 +160,23 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8gx5jWfFmGixzwOZ0w3eyolbaKvpvyxdw7kjWh76Fv6YNFQnvUwpVDSDEKzI0lUwRb%2FK9wm%2FHMaTWBArhH%2Bg4g81SbcnvAecJSk4aYK6cKsyG85Iapmr9okSjmIoR3sXYZeEpAzOs%2BObsLP5MkHMAUaucJXKMdUEc9fAO5o2s2tQ%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -156,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz97lYR%2FLit%2FNPPkoZFco%2FzGkIMEPgnIH07HoYLl0sVZ%2Bk7l7th1IqQTfeQ8P8vc%2FBUwAqCeQfW24TtObS6vHo5j%2Bxk7hsKi3E4SlKknImBMEvBVPaxsy8g4S7H3%2F7xZauLnQCMIxYwW40YCAfnS7W3",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwYZqU25uTq2o4AaKxCaf0mnMEjHKVPWQ550cODzQ%2FxnVvXTebdh1fpqDfS10122bzBUUsN7ikpQb%2FOFMpS8x4%2B%2FZ8%2FhwkAzXSnP1V15R1IKHqOCnRZAxmm4LMsEL58BZIcBtwPf2dyp6BN3IZaGxYw",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -222,7 +256,7 @@
    "discount_pct": 26.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 237 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 238 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206692684282?_skw=ssd&hash=item301fd811fa:g:oJMAAeSwYkpq9j4L",
    "posted_at": "2026-11-11T18:03:48+00:00"
@@ -260,6 +294,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236293125?_skw=carte+m%C3%A8re&hash=itemdf928b0c05:g:GzUAAeSw~oZrBMUt",
    "posted_at": "2026-11-23T23:43:58+00:00"
+  },
+  {
+   "title": "Gigabyte | Carte mère B360 HD3P Rev 1.0 | Socket Intel LGA1151 avec IO Shield",
+   "model": "MB:B360",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 79.99,
+   "shipping_eur": 19.99,
+   "effective_eur": 99.98,
+   "median_eur": 127.99,
+   "discount_pct": 21.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · ram-koenig (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/188359925849?_skw=carte+m%C3%A8re&hash=item2bdb206059:g:OoUAAeSwAGZq0kIM",
+   "posted_at": "2026-05-07T23:19:31+00:00"
   },
   {
    "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
@@ -485,17 +536,24 @@
  ],
  "unclassified": [
   {
+   "title": "[0-761345-92003-2] ANTEC Boîtier VSK 2000-U3 2 x USB 3.0 pour PC Micro ATX",
+   "price_raw": "79.60 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117227637601?_skw=boitier+pc&hash=item1b4b4fcb61:g:VToAAeSwB1xqRQ~Z",
+   "posted_at": "2026-06-02T06:53:16+00:00"
+  },
+  {
    "title": "Carte graphique AMD Radeon HD 6750M 512MB pour iMac 21″ A1311 (2011)",
    "price_raw": "42.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366643706890?_skw=carte+graphique&hash=item555daafc0a:g:zNcAAeSwS8tql81t&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kTyhxTYj6Wmk3RvkIv%2BJMBS2id5HF68w7n6fEo8yd1TsnPo%2BjUe3rHWxY%2BOqIrxa6nt%2BXJOH8qaY7Pc1zBqXCnG6vyZ%2BOXnAykeNkyYfSX3in6QhTQRZFhvEPoJu49a4Rp08Q%2FozTKPWJqDyTNJNbeAIXPX9Wjz%2BBRIpny2Vd6h%2BmPYJ%2FFSgiqjd6RnwN3fbYCkoImZCFzBs%2FcTAYI1BCfEBoKUG794pq%2FnDRG1Pbi%2B0%2FldHsDmvGHYCWpJqnkdthkPdUTufRbA0QKfL%2BADoccuVmDvwOomXAlQQCj6C3Evw%3D%3D",
+   "url": "https://www.ebay.fr/itm/366643706890?_skw=carte+graphique&hash=item555daafc0a:g:zNcAAeSwS8tql81t&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kTyhxTYj6Wmk3RvkIv%2BJMBS2id5HF68w7n6fEo8yd1TsnPo%2BjUe3rHWxY%2BOqIrxa6nt%2BXJOH8qaY7Pc1zBqXCnG6vyZ%2BOXnAykeNkyYfSX3in6QhTQRZFhvEPoJu49a4R1s1u7sYd8t9%2FMWl6oobAsKuU0M7%2BgCRAO3llX5tXwoYNLWbeUGP5icEAh1vhLHtzp74WIDXeNSW2p4AGNrE75FZFU25JmmRt%2BXdMfEoea%2BQmuPVKj77i%2B3BJqfKYRCKwVEQSL0wqaNGMaZ93H0e0X8KcNgUCFOIW56NnQTZP6Vw%3D%3D",
    "posted_at": "2026-09-02T07:24:20+00:00"
   },
   {
    "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
    "price_raw": "48.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vwnQlFTIrYAKavpX8jTfoNh5JsTCcjF5a5zWgTS3bAuFZCSUNpe7HT6MaC7EbU9DuDH6FdSj2YF6b3rLOpNN2--Eu9KNozVtb%2BSUr0dMpoe8A2VeHist%2Fyaqg%2BMNxgyLCuEgxX0Zt%2BX6tl1%2FKLUeUng",
+   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vyaiw8%2Bn4gzAc9ey%2BHTAadeY3ejwuFUZKKO3KoyH22Ez%2FeA9HlovD4eJAIbiFUJHI9tBlCsdm0RkG17bo4oST%2BNYte0HY0Iw89GsL49V6idHD4ox%2BnN3QOa1ANwaIX2ls15oRo27BWStOD6aQ4CqTuY",
    "posted_at": "2026-02-09T14:19:11+00:00"
   },
   {
@@ -590,20 +648,6 @@
    "posted_at": "2026-11-23T22:10:33+00:00"
   },
   {
-   "title": "ASUS STRIX Z270H GAMING",
-   "price_raw": "139.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236047462?_skw=carte+m%C3%A8re&hash=itemdf92874c66:g:dHUAAeSw9klrBK4Q",
-   "posted_at": "2026-11-23T22:10:33+00:00"
-  },
-  {
-   "title": "ASUS B85-PRO GAMER",
-   "price_raw": "99.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236047486?_skw=carte+m%C3%A8re&hash=itemdf92874c7e:g:bh8AAeSwBQprBJai",
-   "posted_at": "2026-11-23T22:10:33+00:00"
-  },
-  {
    "title": "Corsair K100 RGB Clavier mécanique AZERTY",
    "price_raw": "94.30 EUR",
    "source": "ebay",
@@ -625,25 +669,11 @@
    "posted_at": "2026-11-23T21:16:03+00:00"
   },
   {
-   "title": "RAM serveur Dell 8 Go DDR4 SDRAM RDIMM ECC Enregistré PC4-2400T M393A2K40BB1",
-   "price_raw": "51.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287753638697?_skw=ddr4&hash=item42ff741329:g:OaEAAeSwaMxrBKss",
-   "posted_at": "2026-11-23T21:14:28+00:00"
-  },
-  {
    "title": "PC Portable 14\" Asus ProArt P14 - H7407BA-SM250X, OLED 120Hz, Ecran tactile, Nvidia RTX Spark N1X, 128 Go RAM, 1 To SSD, Blanc",
    "price_raw": "5 519,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-proart-p14-h7407ba-sm250x-14-oled-120hz-ecran-tactile-nvidia-rtx-spark-n1x-128-go-ram-1-to-ssd-blanc-3467009",
    "posted_at": "2026-11-23T20:45:17+00:00"
-  },
-  {
-   "title": "SK hynix 16 Go (2x8 Go) DDR4 PC4-3200AA SO-DIMM 260p HMA81GS6DJR8N-XN",
-   "price_raw": "59.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/900115850825?_skw=ddr4&hash=itemd19315e649:g:GEkAAeSw4o5rBJxV",
-   "posted_at": "2026-11-23T20:05:14+00:00"
   },
   {
    "title": "PC Portable 14\" MSI Prestige 14 AI+ D3MG-420FRN - OLED, Ultra 7 355, 32 Go RAM, 512 Go SSD, Windows 11",
@@ -772,13 +802,6 @@
    "posted_at": "2026-11-23T16:50:27+00:00"
   },
   {
-   "title": "Kingston 8 Go DDR4 SO-DIMM 260 broches PC4-2400T 9995624-033 A00G",
-   "price_raw": "31.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206722970690?_skw=ddr4&hash=item3021a63442:g:DdQAAeSwbpVrBGyI",
-   "posted_at": "2026-11-23T16:42:25+00:00"
-  },
-  {
    "title": "Kit de Ram Kingston Technology Fury Beast - 8x2 Go",
    "price_raw": "375€",
    "source": "dealabs",
@@ -833,10 +856,38 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
    "posted_at": "2026-11-23T14:14:14+00:00"
+  },
+  {
+   "title": "Ecran PC 27\" Gigabyte GO27Q24G",
+   "price_raw": "327,26€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-gigabyte-go27q24g-27-3466514",
+   "posted_at": "2026-11-23T13:47:17+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Acemagic ‎RX16 - Intel Core Ultra X7 358H, Intel Arc B390, RAM 24 Go LPDDR5 7467Mhz, SSD 1 To PCIe 4.0, Windows 11",
+   "price_raw": "999€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/acemagic-rx16-intel-core-ultra-x7-358h-laptop-24gb-ram-1tb-ssd-3466501",
+   "posted_at": "2026-11-23T13:36:00+00:00"
+  },
+  {
+   "title": "PC Portable 14,2\" Apple MacBook Pro - puce M6, SSD 1 To, 32 Go Ram",
+   "price_raw": "2 539€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-142-pouces-avec-puce-m6-ssd-de-1-to-3466461",
+   "posted_at": "2026-11-23T13:10:54+00:00"
+  },
+  {
+   "title": "Sélection de Mini PC Geekom En Promotion. Ex : Geekom A5 2027 - Ryzen 7 7730U, 500 Go SSD, 16 Go DDR4 (vendeur tiers)",
+   "price_raw": "521,55€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/selection-de-mini-pc-geekom-en-promotion-ex-geekom-a5-2027-ryzen-7-7730u-500-go-ssd-16-go-ddr4-evolutive-3466449",
+   "posted_at": "2026-11-23T12:58:44+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1941,
-  "models_with_reference": 74
+  "listings_seen": 1935,
+  "models_with_reference": 75
  }
 }
