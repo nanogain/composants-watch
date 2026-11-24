@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T03:08:00Z",
+ "generated_at": "2026-11-24T03:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 350,
-   "last_ok": "2026-11-24T03:08:00.621301+00:00"
+   "last_ok": "2026-11-24T03:38:00.622444+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 382,
-   "last_ok": "2026-11-24T03:08:00.621301+00:00"
+   "items": 381,
+   "last_ok": "2026-11-24T03:38:00.622444+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-24T03:08:00.621301+00:00"
+   "items": 79,
+   "last_ok": "2026-11-24T03:38:00.622444+00:00"
   }
  },
  "watchlist": [
@@ -40,23 +40,6 @@
   }
  ],
  "opportunities": [
-  {
-   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 43.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 43.99,
-   "median_eur": 135.0,
-   "discount_pct": 67.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
-   "posted_at": "2024-01-03T08:24:17+00:00"
-  },
   {
    "title": "NVIDIA GeForce RTX 5060 8Go",
    "model": "GPU:RTX 5060",
@@ -126,6 +109,23 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -173,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B3flmF%2BMUfusws2VarQ05boQf0yZn%2BiVliyQsdbGDdRTLOd7be4PJGYHMCEzPj8ZoUoOq2hFG6%2FZOZyjTtV9DSs%2Fbpk5paNif2wja%2BdsWp9a1F%2Bes6nGtXH2P0DPK%2B4D1%2FrEPRk7XdI9dYwcV1koqZoHjqRFH9cGjFSbrtyKsT9w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9n1TazGvKuAP2TzmVsNmK6ijaso00eWHApNNDfvLj3EH5HIuiTN%2BduH2eX%2B24VMqYrZLUpdJ0ayy3ZRhErx%2B4VSiv%2BANRrYU8Yb4fSpcFvX18EQrfPmSxvqIDyKW9wrXJ1i3turvKQaWTOzClqz7tbKDd6fyvtsbk1tZtZoVZGcg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyjprgSME18FA9dwld9Ut1w%2F1PkDtGzX3jS0%2F0PEa4Uptrj95Ph7iu%2FTQkSISB5r5%2FWarObo1tkOMyeDg760148HTESvBUGlv6ScUx%2BWHo2DHNFjOyQbUUKjkC3yYNmW%2FmD79%2FxfvwDjINL5oHPwUQU",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxtD5IEv4Gh1QeiYPC5a7RKWtI9ObVeJDJeXSnjelN0OGof%2B2TpKIRXIHv5%2FR1QquWQIWMjxbBCqjZrxaHFn1xC8ogk1ZQWL7OIj%2FLKoNRkGQYJEc%2BKZifri2J9Z0dioRK3wra9hQVepgRdcrgaRsYq",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -294,23 +294,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236293125?_skw=carte+m%C3%A8re&hash=itemdf928b0c05:g:GzUAAeSw~oZrBMUt",
    "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.99,
-   "discount_pct": 21.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -519,7 +502,7 @@
    "title": "ROCCAT  Vulcan II Mini Air - Noir ISO-FR - Clavier Gaming 65% Sans fil RGB - TBE",
    "price_raw": "80.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257749235558?_skw=clavier&hash=item3c030d3766:g:uTEAAeSwFkVqtCBz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k3GspcLYUrP30o1pYDaul28HnslfHhReCNVY1JFxxqfKF8CUFp0dfWjicBwOFeBUv6iH%2F6jIM2svJkgayLBe%2FJs0dh3tFaNbJSXbhg6byNre6oJt0FZYMzu6PlADp7%2Bhlm0qqgIn1HaXEXWoRDrnrt7N3hAEf%2Brbo%2BpYg6MpuMnFiKuzlPMO23FkWCirkPkB0Y8FpnB56%2Br9WX1epYOPBi23LFUx4Nh9%2Br24t28XBzDj0pXgN3YIGpfFmStmhacdrxb%2FgMJOB9Y3NPLlzPdF222%2B3XmVOFjrkbnE5alHx3lQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/257749235558?_skw=clavier&hash=item3c030d3766:g:uTEAAeSwFkVqtCBz&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k3GspcLYUrP30o1pYDaul28HnslfHhReCNVY1JFxxqfKF8CUFp0dfWjicBwOFeBUv6iH%2F6jIM2svJkgayLBe%2FJs0dh3tFaNbJSXbhg6byNre6oJt0FZYMzu6PlADp7%2BhkbxHT78U0Z7iBFMiJYTv%2Fm4gUf6Igb7ddwTO2jMrIoHhbiSqRUDesRFYTghiZE3XAnb03PIHKppGBKLh489gAVuIYXItV5%2FM2ZEdVviiJMd6Hd6dFWtbFp2fH0Yww67LUievOInIAamdwb2NiNUMPCkipR%2B0%2Bj9nSkKMQOyrjY8g%3D%3D",
    "posted_at": "2026-09-17T22:00:15+00:00"
   },
   {
@@ -817,6 +800,13 @@
    "posted_at": "2026-11-23T13:02:32+00:00"
   },
   {
+   "title": "Dynatron L25-1 Water Cooling Système de refroidissement à l'eau pour PC AMD",
+   "price_raw": "151.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237201599013?_skw=watercooling&hash=item373a512a25:g:ACgAAeSwVsBrBGNB",
+   "posted_at": "2026-11-23T16:00:56+00:00"
+  },
+  {
    "title": "Carte Graphique ASUS Radeon R9 280X DirectCU II TOP 3GB GDDR5  HDMI DVI DP",
    "price_raw": "42.30 EUR",
    "source": "ebay",
@@ -843,17 +833,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
    "posted_at": "2026-11-23T14:14:14+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" Gigabyte GO27Q24G",
-   "price_raw": "327,26€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-gigabyte-go27q24g-27-3466514",
-   "posted_at": "2026-11-23T13:47:17+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1942,
+  "listings_seen": 1939,
   "models_with_reference": 77
  }
 }
