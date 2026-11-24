@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T05:38:00Z",
+ "generated_at": "2026-11-24T06:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 349,
-   "last_ok": "2026-11-24T05:38:00.626467+00:00"
+   "last_ok": "2026-11-24T06:08:00.677602+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-24T05:38:00.626467+00:00"
+   "items": 381,
+   "last_ok": "2026-11-24T06:08:00.677602+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-24T05:38:00.626467+00:00"
+   "last_ok": "2026-11-24T06:08:00.677602+00:00"
   }
  },
  "watchlist": [
@@ -160,6 +160,23 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Fxbhp5%2FqaW%2Fi5TedYh5TrrPQmhu2%2BjalyM%2F6%2BoyBba17whVV0jpV2292KuhfjoDAhAwsgDn6WKOvYNAHqJAGgpaHpcU8FATFb%2FRyqY2BDZqn%2FxIdqmqWq7I6pEdGPv10JN0dU8kNydjTANi6uO1uuCPCJ4HBmYV5Z5ivuxJJYYQA%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz4UEEEWplNzhpMFhjkDrE%2BKnX5%2FQ5yGo4c6mk%2Fm6iqCmWuQrE3VqO7Yi5mJrc%2BbRk%2FUxF1MyKCYD3SRUZoDQy9vixKL63wFIqQOnzmpFy8HGAh9sHijuQU0l2AcLV6fg2f%2BSttRi6nZ2H1v7ALV35%2B",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzdKQgsrRq%2B5aGwyUZcJOWEimDbwtmwPvuqyZri1Uz9kLdOXak%2BMTVuw1ayTl7z711UUA81Z86rEQbcly3GXwqIArg9OufTGqkXstGzXY76qeGHC%2BZOHYI%2B6rZL8tOhbNZ4HyBjWmqPwB4m1eo56bsD",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -209,6 +226,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206717554516?_skw=ddr4&hash=item3021538f54:g:R48AAeSwv~hrAY82",
    "posted_at": "2026-11-21T12:32:46+00:00"
+  },
+  {
+   "title": "Samsung 850 EVO 2 To SSD 2,5\" SATA III MS-75E2T0 - Occasion testé",
+   "model": "SSD:SATA-2To",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 145.26,
+   "shipping_eur": 3.0,
+   "effective_eur": 148.26,
+   "median_eur": 206.3,
+   "discount_pct": 28.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · loumii (98,8 %, 98 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407331296196?_skw=ssd&hash=item5ed6d653c4:g:LNEAAeSwplVq50uZ",
+   "posted_at": "2026-11-01T14:29:53+00:00"
   },
   {
    "title": "SSD interne NVMe M.2 Netac NV3000 1 To - PCIe 3.0 x4, jusqu'à 3500 Mo/s",
@@ -279,38 +313,55 @@
    "posted_at": "2026-11-23T23:43:58+00:00"
   },
   {
-   "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
-   "model": "SSD:SATA-500Go",
+   "title": "SK hynix SC401 512 Go SSD 2,5\" SATA III 7mm - Occasion testé",
+   "model": "SSD:SATA-512Go",
    "category": "SSD",
    "condition": "used",
-   "price_eur": 47.4,
+   "price_eur": 42.3,
    "shipping_eur": 3.0,
-   "effective_eur": 50.4,
-   "median_eur": 63.89,
-   "discount_pct": 21.1,
+   "effective_eur": 45.3,
+   "median_eur": 59.0,
+   "discount_pct": 23.2,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
+   "merchant": "eBay · loumii (98,8 %, 98 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194313277?_skw=ssd&hash=item3739e1fe3d:g:bZAAAeSw1kBrAB-J",
-   "posted_at": "2026-11-20T10:28:23+00:00"
+   "url": "https://www.ebay.fr/itm/407379980331?_skw=ssd&hash=item5ed9bd302b:g:KzwAAeSwqqFq50xE",
+   "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
-   "title": "Samsung 860 EVO 500Go 2,5\" SATA III SSD Interne (MZ-76E500) Testé et formaté",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
+   "title": "Gigabyte | Carte mère B360 HD3P Rev 1.0 | Socket Intel LGA1151 avec IO Shield",
+   "model": "MB:B360",
+   "category": "MB",
    "condition": "used",
-   "price_eur": 47.4,
-   "shipping_eur": 3.0,
-   "effective_eur": 50.4,
-   "median_eur": 63.89,
-   "discount_pct": 21.1,
+   "price_eur": 79.99,
+   "shipping_eur": 19.99,
+   "effective_eur": 99.98,
+   "median_eur": 127.99,
+   "discount_pct": 21.9,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
+   "merchant": "eBay · ram-koenig (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
-   "posted_at": "2026-11-20T10:13:01+00:00"
+   "url": "https://www.ebay.fr/itm/188359925849?_skw=carte+m%C3%A8re&hash=item2bdb206059:g:OoUAAeSwAGZq0kIM",
+   "posted_at": "2026-05-07T23:19:31+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 499.99,
+   "discount_pct": 21.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -328,6 +379,40 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-25-pny-1-to-ssd7cs900-1tb-rb-3463577",
    "posted_at": "2026-11-20T16:45:49+00:00"
+  },
+  {
+   "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.4,
+   "shipping_eur": 3.0,
+   "effective_eur": 50.4,
+   "median_eur": 63.0,
+   "discount_pct": 20.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237194313277?_skw=ssd&hash=item3739e1fe3d:g:bZAAAeSw1kBrAB-J",
+   "posted_at": "2026-11-20T10:28:23+00:00"
+  },
+  {
+   "title": "Samsung 860 EVO 500Go 2,5\" SATA III SSD Interne (MZ-76E500) Testé et formaté",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.4,
+   "shipping_eur": 3.0,
+   "effective_eur": 50.4,
+   "median_eur": 63.0,
+   "discount_pct": 20.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · juuju7782 (100,0 %, 541 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
+   "posted_at": "2026-11-20T10:13:01+00:00"
   },
   {
    "title": "Carte mère Gigabyte B850 EAGLE WIFI6E",
@@ -432,23 +517,6 @@
    "posted_at": "2026-11-21T15:52:56+00:00"
   },
   {
-   "title": "MSI B360M GAMING PLUS",
-   "model": "MB:B360",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 99.0,
-   "shipping_eur": 8.99,
-   "effective_eur": 107.99,
-   "median_eur": 127.99,
-   "discount_pct": 15.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · celercards (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236293106?_skw=carte+m%C3%A8re&hash=itemdf928b0bf2:g:uzIAAeSwyFxrBMTl",
-   "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
    "title": "Gigabyte B360M AORUS PRO",
    "model": "MB:B360",
    "category": "MB",
@@ -499,13 +567,6 @@
    "posted_at": "2026-06-02T06:53:16+00:00"
   },
   {
-   "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
-   "price_raw": "48.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vy%2BvIDFv7blAGcHUpb5THbl9Mbzc6Rp6iENrBnQR%2Bd1y0MkNbW%2BpvQT6ClF%2FYTeE1qy1EYSx9Tk5vABv%2FCp75OjDGQtU29Lg1dV5ADOnKyDKK2LLWuOBCIQ%2BuDsN0eCKbV6ted78PWwtTWfaFNWIYlY",
-   "posted_at": "2026-02-09T14:19:11+00:00"
-  },
-  {
    "title": "Trust Gaming GXT 867 Acira Clavier mécanique 60 % pour joueurs",
    "price_raw": "17.98 EUR",
    "source": "ebay",
@@ -552,13 +613,6 @@
    "price_raw": "79.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236293124?_skw=carte+m%C3%A8re&hash=itemdf928b0c04:g:~MkAAeSwowZrBMLS",
-   "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
-   "title": "GIGABYTE GA-Z170X-UD3",
-   "price_raw": "99.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236293117?_skw=carte+m%C3%A8re&hash=itemdf928b0bfd:g:yMgAAeSwoy5rBMOZ",
    "posted_at": "2026-11-23T23:43:58+00:00"
   },
   {
@@ -833,10 +887,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/logitech-casa-pop-up-desk-3466420",
    "posted_at": "2026-11-23T12:40:49+00:00"
+  },
+  {
+   "title": "Processeur Intel Core 2 Quad Q9650 3.00GHz / 12M / 1333 - Socket 775",
+   "price_raw": "47.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267851779798?_skw=processeur&hash=item3e5d35ced6:g:aE0AAeSwv85rBDNi",
+   "posted_at": "2026-11-23T12:37:42+00:00"
+  },
+  {
+   "title": "Imprimante multifonctions jet d'encre Epson XP-3200",
+   "price_raw": "49,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonctions-jet-dencre-xp-3200-epson-3466385",
+   "posted_at": "2026-11-23T11:56:09+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1925,
-  "models_with_reference": 75
+  "models_with_reference": 76
  }
 }
