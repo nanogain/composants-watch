@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T02:08:00Z",
+ "generated_at": "2026-11-24T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 349,
-   "last_ok": "2026-11-24T02:08:00.660272+00:00"
+   "items": 350,
+   "last_ok": "2026-11-24T02:38:00.669744+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-24T02:08:00.660272+00:00"
+   "items": 380,
+   "last_ok": "2026-11-24T02:38:00.669744+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-24T02:08:00.660272+00:00"
+   "items": 54,
+   "last_ok": "2026-11-24T02:38:00.669744+00:00"
   }
  },
  "watchlist": [
@@ -41,21 +41,21 @@
  ],
  "opportunities": [
   {
-   "title": "Fanxiang interne SSD SATA III 2,5\" 6Gb/s Disque dur 1To 2To 4To HARD DISK Lot",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
+   "title": "NVIDIA GeForce RTX 5060 8Go",
+   "model": "GPU:RTX 5060",
+   "category": "GPU",
    "condition": "new",
-   "price_eur": 43.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 43.99,
-   "median_eur": 135.0,
-   "discount_pct": 67.4,
+   "price_eur": 398.0,
+   "shipping_eur": null,
+   "effective_eur": 398.0,
+   "median_eur": 897.49,
+   "discount_pct": 55.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141122976?_skw=ssd&hash=item44f362eda0:g:7x8AAOSwsIVljNHM",
-   "posted_at": "2024-01-03T08:24:17+00:00"
+   "merchant": "Lenovo",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nvidia-geforce-rtx-5060-8go-3467173",
+   "posted_at": "2026-11-24T02:17:35+00:00"
   },
   {
    "title": "Écran PC 27\" Lenovo Legion 27QD-10 - 27 Inch QHD WLED Gaming Monitor, 2560 x 1440, 16:9, 240Hz",
@@ -109,6 +109,23 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -156,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BpUPka99aJmGayeJoTenVk4hKxJlYOjeLBhDCwd%2B2E61r55x3m%2FlbaOEaHmyjyAcqQQCM%2FdUdZYIjGyaRmZ9FXrJWxc3eirIuUcwg0I3EXcAtqHXiUAkeAr5tdEFVAdLfIahkJ2gLTD%2FqBIdV5d2EcyMJv3ahH6QzhDq%2B1nhiGPQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FKvzHJsy2Dq%2Bwx3E8h6xTKNLVeRwAnnYIisX38lR9WL5BI1peLwhruUuIC00DiFia2wGEwjR2ZH5eLMkf9dyFSq1Kt2IC7CRYB0Dsyht1fPxzo7WWFOfuZF0DRRHHJ9KoVfH4mqdwmFKGQc0kAifdsWc1NxqhroJcZAOo78cietQ%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuw1bFoMlXt8tKI2KAcEW0V4mp7jy7tBzgChdcsD7TMNFC1MFnQoDig5B4mtoV9a18GDBF45eqxlmbE4tF5Csq6h9aienetHPyEhJhEw2KYy0HI9M8kcpai5sYQjJSWYXIcssOJ%2By1IQ1eoiv57eginF",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyAa2VhePvyc5vTCjidQf%2BojXESZIg47rs9BQQ1SIv5yuDl%2FkBsdJmgtZLjo5JgEkJ1ODBtj8fA3v0OCVNoqYCEZjPDU%2B9C%2Bb9buZgxvFbqEX9rd7JMSh1gic36WUzTX8WfxxQ3fYTGJmQyxjAlQ9Qw",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -277,23 +294,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236293125?_skw=carte+m%C3%A8re&hash=itemdf928b0c05:g:GzUAAeSw~oZrBMUt",
    "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.99,
-   "discount_pct": 21.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -485,6 +485,13 @@
  ],
  "unclassified": [
   {
+   "title": "NiPoGi E3B Mini PC Ryzen 7 7736U, 24 Go RAM / 512 Go SSD à 531,99€ au lieu de 559,99€",
+   "price_raw": "531,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nipogi-e3b-mini-pc-ryzen-7-7736u-24-go-ram-512-go-ssd-a-53199eur-au-lieu-de-55999eur-3467172",
+   "posted_at": "2026-11-24T02:13:10+00:00"
+  },
+  {
    "title": "Processeur Intel Pentium Gold G6400 (2x 4.00GHz) CPU Sockel LGA 1200",
    "price_raw": "28.90 EUR",
    "source": "ebay",
@@ -531,13 +538,6 @@
    "price_raw": "99.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236293117?_skw=carte+m%C3%A8re&hash=itemdf928b0bfd:g:yMgAAeSwoy5rBMOZ",
-   "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
-   "title": "MSI Z170A G45 GAMING",
-   "price_raw": "99.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236293114?_skw=carte+m%C3%A8re&hash=itemdf928b0bfa:g:RM4AAeSwTC9rBMcU",
    "posted_at": "2026-11-23T23:43:58+00:00"
   },
   {
@@ -616,6 +616,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-proart-p14-h7407ba-sm250x-14-oled-120hz-ecran-tactile-nvidia-rtx-spark-n1x-128-go-ram-1-to-ssd-blanc-3467009",
    "posted_at": "2026-11-23T20:45:17+00:00"
+  },
+  {
+   "title": "SK hynix 16 Go (2x8 Go) DDR4 PC4-3200AA SO-DIMM 260p HMA81GS6DJR8N-XN",
+   "price_raw": "59.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900115850825?_skw=ddr4&hash=itemd19315e649:g:GEkAAeSw4o5rBJxV",
+   "posted_at": "2026-11-23T20:05:14+00:00"
   },
   {
    "title": "PC Portable 14\" MSI Prestige 14 AI+ D3MG-420FRN - OLED, Ultra 7 355, 32 Go RAM, 512 Go SSD, Windows 11",
@@ -826,17 +833,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/acemagic-rx16-intel-core-ultra-x7-358h-laptop-24gb-ram-1tb-ssd-3466501",
    "posted_at": "2026-11-23T13:36:00+00:00"
-  },
-  {
-   "title": "PC Portable 14,2\" Apple MacBook Pro - puce M6, SSD 1 To, 32 Go Ram",
-   "price_raw": "2 539€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-142-pouces-avec-puce-m6-ssd-de-1-to-3466461",
-   "posted_at": "2026-11-23T13:10:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1949,
+  "listings_seen": 1948,
   "models_with_reference": 77
  }
 }
