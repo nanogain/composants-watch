@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T10:38:00Z",
+ "generated_at": "2026-11-24T11:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 342,
-   "last_ok": "2026-11-24T10:38:00.675883+00:00"
+   "items": 344,
+   "last_ok": "2026-11-24T11:08:00.682298+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 384,
-   "last_ok": "2026-11-24T10:38:00.675883+00:00"
+   "items": 385,
+   "last_ok": "2026-11-24T11:08:00.682298+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-24T10:38:00.675883+00:00"
+   "last_ok": "2026-11-24T11:08:00.682298+00:00"
   }
  },
  "watchlist": [
@@ -126,6 +126,23 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -173,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwktIQ0p54mdCBCKQPDNWCBKttyqH3csqjUDtZPOKIcZTk6Pk4dgeKW5CjhCS76V%2BYSwm2%2BXZ%2FTJ%2FEErsAOSQgZ2LJun1GIxzfsH7EURqP1r0WlYbsWF8RM6DXRdmEO8EEGMc%2B7eM0sIFyFJ9MiIKGc",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwGukm%2F5wObYVRXq7HMoeMCGMpLVtntC2vuYgXEzPx3B3IJS%2FDVxODH8reJRyJ7s6bkdic3xV1uP8Zn7SQ43cKAmGobUwpcMtb0uLGEePwWrBjZbNBvw9J0cFyA%2BLVtqhfvbULcp7WQDPvVhddcaLka",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -536,6 +553,20 @@
  ],
  "unclassified": [
   {
+   "title": "SSD externe portable Lenovo PS6S - 1 To",
+   "price_raw": "139,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-externe-1tb-lenovo-ps6s-3467583",
+   "posted_at": "2026-11-24T10:45:22+00:00"
+  },
+  {
+   "title": "Tablette graphique 15,4\" XP-Pen Artist 15.6 Pro V2 - Stylet X3 Pro 16K (Vendeur tiers)",
+   "price_raw": "263,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-graphique-xp-pen-artist-156-pro-v2-ecran-154-stylet-x3-pro-16k-3467577",
+   "posted_at": "2026-11-24T10:38:37+00:00"
+  },
+  {
    "title": "Souris sans fil Logitech G PRO X SUPERLIGHT 2 - Blanc",
    "price_raw": "69,66€",
    "source": "dealabs",
@@ -870,24 +901,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/samsung-galaxy-tab-s11-128go-paiement-paypaloffre-reserve-aux-etudiants-3466451",
    "posted_at": "2026-11-23T13:02:32+00:00"
-  },
-  {
-   "title": "Dynatron L25-1 Water Cooling Système de refroidissement à l'eau pour PC AMD",
-   "price_raw": "151.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237201599013?_skw=watercooling&hash=item373a512a25:g:ACgAAeSwVsBrBGNB",
-   "posted_at": "2026-11-23T16:00:56+00:00"
-  },
-  {
-   "title": "Carte Graphique ASUS Radeon R9 280X DirectCU II TOP 3GB GDDR5  HDMI DVI DP",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137956003322?_skw=carte+graphique&hash=item201ed18dfa:g:EO0AAeSw98NrBFeb",
-   "posted_at": "2026-11-23T15:26:17+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1913,
-  "models_with_reference": 77
+  "listings_seen": 1911,
+  "models_with_reference": 76
  }
 }
