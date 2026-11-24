@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T07:08:00Z",
+ "generated_at": "2026-11-24T07:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 346,
-   "last_ok": "2026-11-24T07:08:00.677911+00:00"
+   "items": 345,
+   "last_ok": "2026-11-24T07:38:00.623374+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 380,
-   "last_ok": "2026-11-24T07:08:00.677911+00:00"
+   "last_ok": "2026-11-24T07:38:00.623374+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-24T07:08:00.677911+00:00"
+   "items": 59,
+   "last_ok": "2026-11-24T07:38:00.623374+00:00"
   }
  },
  "watchlist": [
@@ -126,23 +126,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -190,7 +173,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwpPEGXvsixP7kaLrDTLbLVFW4Txi6Em9VIU5XcDaIOzUDlNm0FoFa8QGr1Evk5J42oqNTGZc5s%2F6VDDOScPj%2Bm7PJLOfqzgH8O2XuMDhfYZqybaJSied4Vo45r4zG7CgxdA69uJwomMe%2BtxU8AoUsE",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuygcP%2BLpUn9QNkEKkUkjGngWp1g0gSlyZMtM15wHR3al%2BPsZDCBIkLb%2FegrBx9bZdhBBpt%2BB5dZl2kA67byhjFh8OzkZjTnoA2qW04imCqrvSN5blIby3UgfmPIRyRD6OwFu0iIjEi9whhP9PqVLDHP",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -553,6 +536,20 @@
  ],
  "unclassified": [
   {
+   "title": "Apple MacBook Air 13\" 512 Go SSD 32 Go",
+   "price_raw": "1 639€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-air-13-512-go-ssd-32-go-3467297",
+   "posted_at": "2026-11-24T07:28:12+00:00"
+  },
+  {
+   "title": "Étui clavier Logitech Combo Touch pour iPad 10e génération - clavier AZERTY FR rétroéclairé détachable, trackpad, Smart Connector",
+   "price_raw": "80,66€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/etui-clavier-logitech-combo-touch-pour-ipad-10e-generation-clavier-azerty-fr-retroeclaire-detachable-trackpad-smart-connector-3467277",
+   "posted_at": "2026-11-24T07:15:34+00:00"
+  },
+  {
    "title": "Version UE du smartphone vivo V70 Lite 5G 6 Go + 256 Go LPDDR4X UFS 3.1, OriginOS 6, batterie de 6 500 mAh, processeur MTK Dimensity 7400",
    "price_raw": "315,76€",
    "source": "dealabs",
@@ -605,7 +602,7 @@
    "title": "Processeur CPU Intel Xeon E3-1245 V2 SR0P9 3.40Ghz LGA1155 Quad Core Ivy Bridge",
    "price_raw": "48.50 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vxGgyb01%2Bqy5FrdksArBgd5Bif088nApDzc91GY3RiKFvitmh6GBTkM4vdw%2BhimOs%2BCiG4ZsMezMWecpeOimFGSRLVN%2FAcsRQ1AbWfPwKGtV0jKwkBoCRxjMMbazwkwR6JQl%2FK1%2BrYxPC8jlETQd%2Fpq",
+   "url": "https://www.ebay.fr/itm/147145282296?_skw=processeur&hash=item22428ad2f8:g:zX8AAeSwCvVq7NAq&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kqM5qlpxwHrduMtkkr9aRjVwCRFuETp0KHWikSnBadtB%2BuYykx1UWO8F0%2BbRIPb9fxeaBCxYSZULQUnyBu7zB%2FYElhXakIYPZl25tQV3JqRkIUYbiiAvBNU3QtSbpQ2vxQu4auMC1XqebrdrD0rnDqzA4bH9jIpudKEAGO6LgvvNd2JaGiNewYdr4EHhtJfoE1NgniX%2B0hVl8IeDpWPeExq3rbqz778l0FWgiTt0IlmIRMQJyCdd%2BKEKmQLhOzaiZxP4f1Qzq%2B%2Fyhpc58ImRge",
    "posted_at": "2026-02-09T14:19:11+00:00"
   },
   {
@@ -644,20 +641,6 @@
    "posted_at": "2026-11-23T23:43:58+00:00"
   },
   {
-   "title": "GIGABYTE G1.Sniper B7",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236293112?_skw=carte+m%C3%A8re&hash=itemdf928b0bf8:g:CPwAAeSwim5rBL70",
-   "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
-   "title": "GIGABYTE G1.Sniper B7",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236293124?_skw=carte+m%C3%A8re&hash=itemdf928b0c04:g:~MkAAeSwowZrBMLS",
-   "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
    "title": "Imprimante Laser Brother HL-L1242W Monochrome A4 compacte (via coupon)",
    "price_raw": "98,91€",
    "source": "dealabs",
@@ -684,13 +667,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236047484?_skw=carte+m%C3%A8re&hash=itemdf92874c7c:g:UUwAAeSwRExrBJLx",
    "posted_at": "2026-11-23T22:10:33+00:00"
-  },
-  {
-   "title": "Corsair K100 RGB Clavier mécanique AZERTY",
-   "price_raw": "94.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206723448797?_skw=clavier&hash=item3021ad7fdd:g:C6IAAeSwCchrBLtn",
-   "posted_at": "2026-11-23T22:20:38+00:00"
   },
   {
    "title": "Boitier PC Corsair Air 5400 LX-R RGB iCUE LINK",
@@ -901,10 +877,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-gigabyte-go27q24g-27-3466514",
    "posted_at": "2026-11-23T13:47:17+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Acemagic ‎RX16 - Intel Core Ultra X7 358H, Intel Arc B390, RAM 24 Go LPDDR5 7467Mhz, SSD 1 To PCIe 4.0, Windows 11",
+   "price_raw": "999€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/acemagic-rx16-intel-core-ultra-x7-358h-laptop-24gb-ram-1tb-ssd-3466501",
+   "posted_at": "2026-11-23T13:36:00+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1922,
+  "listings_seen": 1921,
   "models_with_reference": 75
  }
 }
