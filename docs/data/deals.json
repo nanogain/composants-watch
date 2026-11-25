@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T09:08:00Z",
+ "generated_at": "2026-11-25T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-25T09:08:00.624388+00:00"
+   "last_ok": "2026-11-25T09:38:00.850391+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-25T09:08:00.624388+00:00"
+   "items": 377,
+   "last_ok": "2026-11-25T09:38:00.850391+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 77,
-   "last_ok": "2026-11-25T09:08:00.624388+00:00"
+   "items": 80,
+   "last_ok": "2026-11-25T09:38:00.850391+00:00"
   }
  },
  "watchlist": [
@@ -96,11 +96,11 @@
    "model": "MB:B850",
    "category": "MB",
    "condition": "new",
-   "price_eur": 77.99,
+   "price_eur": 74.09,
    "shipping_eur": null,
-   "effective_eur": 77.99,
+   "effective_eur": 74.09,
    "median_eur": 164.49,
-   "discount_pct": 52.6,
+   "discount_pct": 55.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -177,6 +177,23 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
+   "title": "boitier alimentation PC  EDEN 500W",
+   "model": "PSU:500W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.79,
+   "shipping_eur": 6.9,
+   "effective_eur": 17.69,
+   "median_eur": 30.98,
+   "discount_pct": 42.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanfan67370 (100,0 %, 1 002 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/178530181411?_skw=alimentation+pc&hash=item29913a6123:g:3ywAAeSwj3xojf~b",
+   "posted_at": "2026-09-26T13:49:06+00:00"
+  },
+  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -207,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9TJ%2FD%2FGrDage%2By7E5UXCjZuHtNMqxzd2IDprJqecLmwrTc4nCKzcu6wmAjlCO0z3bn0Ho1ZI7C5gJU8bD9jto8sC3TmkJZQ2Y5XlbhCoKZZgm9m59GQeIXaV0evnlCQSQESck3GlaC3bfxAAvjkI2iQIBvocyFcqn2ikIH8bpDSw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FcLjM4znvPbB0C%2BCuCx7sa%2B6omv2bLHziFSM8fTfl1%2BAa5XioCuGUMX%2FCLc9IMvvBE8ApgU19O%2FfIGmBevA6XWFhp391ww4606u4XosHaJUx649iAsrCPG7JqGvszKIp0jpeSpALI0q0aHqHE4orwNCZu0IY%2BZbQRE2EUmEaUukg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -224,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwSqmA35jYfsUahI5zUKikXdYQ%2FjSRJVpB4PHn9SqzWZaKGAkzOkN1Xpf5PKlhjecxBwNZVbEyFBHjwdrDe%2BJ2qoWLFeGOHoTg9mD1ttFPSnDdjJ4l3hJvQUXFVbhHs7Doh03kgspo60DejhC6WyFaL",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz23fldNxXy4Y5ohse6%2FgBGeZw8mETmt6tMYvglDBYcxXQN24%2FGtg5AwiWMIgkve0XlcVHMJ%2Ffu6n8ezoAzcW2CTXe9wrjavZthPikHgk23kG9TF%2BhNeXDIOXYhJ14ZwfmtC1AasdD4Bgii5NHck64F",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -341,9 +358,9 @@
    "discount_pct": 26.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · topdeal-market (100,0 %, 142 avis)",
+   "merchant": "eBay · topdeal-market (100,0 %, 143 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRh2IQJjDzo2BBonzf7MB0g5iJVEWkVXouE5pr8GWIDvQute4OcLgVhczMwW3smopHBlD8aSDmAmVXVjXdw3FiOS7j5ud0c9TaaFtAO9CnRZcwMiIAJgAjfOKh1OG1%2Bp795Ed86m7klqJnTrE9geqq2p",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjQr1IbYPSUtrhtCBW4iAgbvkCG2m%2FxKVZWZnEoxoaUfxJjwxFwrFx0X8ZwBUf6NAaqmMZmCiKox3xlV5FICcXlgBd8GVMuCY2e2S0GZ2Im5MSo3FvAi9J0TxjvHjwN6n7N8%2B7fv6RnEzjxaRv5xr5o",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -379,23 +396,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-pny-cs1030-m2-nvme-pcie-250go-2-pour-89eur-3465433",
    "posted_at": "2026-11-22T16:19:39+00:00"
-  },
-  {
-   "title": "JUHOR RAM DDR5 2x16 (32GO) 6000Mhz CL38?*",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 371.7,
-   "shipping_eur": null,
-   "effective_eur": 371.7,
-   "median_eur": 499.99,
-   "discount_pct": 25.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/juhor-ram-ddr5-2x16-32go-6000mhz-cl38-3468628",
-   "posted_at": "2026-11-25T09:02:29+00:00"
   },
   {
    "title": "Kingston NV2 SSD interne 500 Go M.2 NVMe PCI Express SNV2S/500G",
@@ -447,6 +447,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/407379980331?_skw=ssd&hash=item5ed9bd302b:g:KzwAAeSwqqFq50xE",
    "posted_at": "2026-11-21T20:54:35+00:00"
+  },
+  {
+   "title": "Kit mémoire RAM Juhor DDR5 - 32Go (2x16), 6000Mhz, CL38 (Via Paiement Paypal)",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 384.7,
+   "shipping_eur": null,
+   "effective_eur": 384.7,
+   "median_eur": 499.99,
+   "discount_pct": 23.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/juhor-ram-ddr5-2x16-32go-6000mhz-cl38-3468628",
+   "posted_at": "2026-11-25T09:02:29+00:00"
   },
   {
    "title": "Carte Mère MSI B760M Gaming Plus Wifi Micro-ATX, LGA 1700",
@@ -655,6 +672,13 @@
  ],
  "unclassified": [
   {
+   "title": "mini-tour Thermaltake The Tower 200 Boîtier PC vert racing 2 ventilateurs",
+   "price_raw": "98.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267854163421?_skw=boitier+pc&hash=item3e5d5a2ddd:g:tsEAAeSwkIVrBqlU",
+   "posted_at": "2026-11-25T09:24:33+00:00"
+  },
+  {
    "title": "Imprimante Multifonction HP Smart Tank 655 – Wi-Fi et Bluetooth, Réservoir d’encre, Couleurs",
    "price_raw": "114,99€",
    "source": "dealabs",
@@ -735,7 +759,7 @@
    "title": "Écran PC Fujitsu L22T-7 LED 21.5 Pouces Full HD Haut-parleurs DVI VGA Reconditio",
    "price_raw": "79.35 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860175630817?_skw=%C3%A9cran+pc&hash=itemc8467681e1:g:IbwAAeSw6eRrBo6O&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mRbJs6hYxr92yojwulwCQiS5aZGzILWdeJcJgMHDPdQnObNpPoKEFRwSPFx%2FKfQflTNLfosYRWiSbBaL9d4lOOyja623HH5kVeFbnL9%2FxD96aHOB8ft7d3riS3hDWzQ%2B3QHQB8xOkOtJ4UkVO97eFI1%2FRxeJb26wAr6mdIrjtzuxKWvf0lQ2OCAVG37aNgdSfjrkq4Ob8XX6WXhBfm4ooy4K7n7FdF5J%2BV0tRxWx4nruTAV9ks2YQKtgrOnbaLHvWo%2FuaiZrzGS9mfybaPHcpZmUmTcZRKhd6M%2BEc7zgS6ng%3D%3D",
+   "url": "https://www.ebay.fr/itm/860175630817?_skw=%C3%A9cran+pc&hash=itemc8467681e1:g:IbwAAeSw6eRrBo6O",
    "posted_at": "2026-11-25T07:17:06+00:00"
   },
   {
@@ -938,7 +962,7 @@
    "title": "Boîtier Dell Dimension E521 vide ventilateur connectique réparation PC rétro OEM",
    "price_raw": "39.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287755404502?_skw=boitier+pc&hash=item42ff8f04d6:g:FzcAAeSw~5lrBY78&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpbMP1jbfi1kD3cbGffpHiCNuHlGHNJoEYKGklW00GHPF0dReEz%2BLtRuT0Y%2Bt0GE5nxLy5Ifg%2FxGSmGNqgj92KeXiT9V6Kcl2BqS7kIGxQaBjsSnAfljrecYT9QcimZsGYhYrk7BKjcbiaOIowPIflOf8ZiMdCSYQTa8Uwfs6DogeKiF7QlmDA9cZ7MaKUSqjINmYsQqyQTu3ZLxNdXYz0kkf8KRgdsMRKMiSZmdBbs7GkRev3cgEO%2FcB6A1emmDQ2ukL4c5pzRfj8%2BM4OspiFztqon1vvhmix9C6gNFiGpg%3D%3D",
+   "url": "https://www.ebay.fr/itm/287755404502?_skw=boitier+pc&hash=item42ff8f04d6:g:FzcAAeSw~5lrBY78&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpbMP1jbfi1kD3cbGffpHiCNuHlGHNJoEYKGklW00GHPF0dReEz%2BLtRuT0Y%2Bt0GE5nxLy5Ifg%2FxGSmGNqgj92KeXiT9V6Kcl2BqS7kIGxQaBjsSnAfljrecYT9QcimZsGD%2Fpc2idypqsWN0aAfTbWtaJEK8jH9ISDdv%2BjoR76qRfEId2GvH%2FU0AVJQbnfP0C81HwhJMJPGD9WalKZw9A1eUtts6dH2PH3orGTgwao8c9oOsxbcKyna%2BqdwPrfOHueKjvfAeKzjvKT3A604CcFxkxQNQuIPzxoH8vkZp6VxwQ%3D%3D",
    "posted_at": "2026-11-24T13:21:32+00:00"
   },
   {
@@ -996,17 +1020,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-graphique-xp-pen-artist-156-pro-v2-ecran-154-stylet-x3-pro-16k-3467577",
    "posted_at": "2026-11-24T10:38:37+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech G PRO X SUPERLIGHT 2 - Blanc",
-   "price_raw": "69,66€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/logitech-g-pro-x-superlight-2-souris-gaming-sans-fil-blanc-3467554",
-   "posted_at": "2026-11-24T10:20:32+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1898,
+  "listings_seen": 1901,
   "models_with_reference": 76
  }
 }
