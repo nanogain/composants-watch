@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T15:38:00Z",
+ "generated_at": "2026-11-25T16:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-25T15:38:00.673899+00:00"
+   "items": 340,
+   "last_ok": "2026-11-25T16:08:00.657138+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 373,
-   "last_ok": "2026-11-25T15:38:00.673899+00:00"
+   "items": 374,
+   "last_ok": "2026-11-25T16:08:00.657138+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 66,
-   "last_ok": "2026-11-25T15:38:00.673899+00:00"
+   "items": 77,
+   "last_ok": "2026-11-25T16:08:00.657138+00:00"
   }
  },
  "watchlist": [
@@ -92,6 +92,23 @@
    "posted_at": "2026-11-25T08:54:08+00:00"
   },
   {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 74.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 74.99,
+   "median_eur": 149.99,
+   "discount_pct": 50.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (100,0 %, 146 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB",
+   "posted_at": "2026-11-24T20:50:45+00:00"
+  },
+  {
    "title": "SSD  PNY CS500 / 250Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -143,23 +160,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "boitier alimentation PC  EDEN 500W",
-   "model": "PSU:500W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.79,
-   "shipping_eur": 6.9,
-   "effective_eur": 17.69,
-   "median_eur": 30.98,
-   "discount_pct": 42.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanfan67370 (100,0 %, 1 002 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/178530181411?_skw=alimentation+pc&hash=item29913a6123:g:3ywAAeSwj3xojf~b",
-   "posted_at": "2026-09-26T13:49:06+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9SdjTW4P9GaMbBTyPUD1cHxFLkO%2Bj7jsQAI05kRaIEba3QpPTDdVKkaA9EtFyplCgrzrRmdOOn2WprlWfytHclrY8I9h7zm31PpnfhpDm42MtShGr%2FSu03jurI1hWwhv1ypXLhxRGdXwRbOpB81YX0n12qaJ4n0KEH8FpcjZ%2BR3w%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FQ2zuD4Yb%2B8uawrvqaORBBWlMcKmDU7E5Z1aSEsbl4LJ8wHTUS55WVY3nXHWEJVrhjjtLegSRlOPe28M5tVk61jzDyII3s8AAv6dLTCBEwNTbqoYNGpjewY5GfX58Is%2BhzhR3Yx5a1H3X5UKa2gVVZi0Li0yoFAPrmwzsrXLad0Q%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux8hK74Zsz1K1LB2XrOwLVN24JhvjrUgLEwJxiisHmwS%2F9xVmBUOYRnYvcFnTdVlD8q80azFfAoqAWi4gB3n26G%2FfY8fKGkXLD3HcZva%2FJL%2BoRLTm2RAsuvJqwTtHRqPnB3m5eMb5EPNNvBPs4F%2FF9T",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwgsJD0EGY4HMJtczsPDmAvzA2YKRRn4BI%2BG9QiuGT1TN5oL3%2FHc4LzpUAEWcz73r0VecGyexVJ2lIzEzyt2m4nEDnuy6vIIcMWzTwT5OvJpxR9Kt7v9eRvWOg1WhurYogJ9axt1WBibNJZ2KxDvIQR",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 249 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724462342?_skw=ssd&hash=item3021bcf706:g:MoQAAeSwUfdrBXVW",
+   "url": "https://www.ebay.fr/itm/206724462342?_skw=ssd&hash=item3021bcf706:g:MoQAAeSwUfdrBXVW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nZP7CFW9iGAR%2BK2kWlIm3yh6kF9LiHgUPI1F1b5mGWNgAS7smV7XDptp%2BxhkGA8MrwEzKDgYUkN3c2qUmIkhdpy81aS%2FI2TPxdGWy22JHp3leoZLxJm52a%2F41i2G79%2F8miF2RYCe47%2FNuf5i2jR6rGlrx2c3ySffV8yCQIFYsgSdDv53jF3R7IzexHY80ccJ2iZWuEVVr6pzeLoik7uoKWNJxn0IzZpXywed0pVXGuGx%2FroxY2mfNRVMfrEV2Gu%2F5WGZ7p7fgdhgWaxgtY2Qtw",
    "posted_at": "2026-11-24T11:32:03+00:00"
   },
   {
@@ -320,31 +320,14 @@
    "price_eur": 145.26,
    "shipping_eur": 3.0,
    "effective_eur": 148.26,
-   "median_eur": 206.3,
-   "discount_pct": 28.1,
+   "median_eur": 207.5,
+   "discount_pct": 28.5,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · loumii (98,8 %, 98 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/407331296196?_skw=ssd&hash=item5ed6d653c4:g:LNEAAeSwplVq50uZ",
    "posted_at": "2026-11-01T14:29:53+00:00"
-  },
-  {
-   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 109.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 109.99,
-   "median_eur": 149.99,
-   "discount_pct": 26.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · topdeal-market (100,0 %, 146 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgNwQYo78G8JY%2Fr6sLl%2BWHcdWuFPx%2B8eILMWK9NCD0NB33Rv669s%2FkXnaWoN4Lzaz8ypzd23TAnenblMlev%2Fj8L8D%2FBxKtUTmqn4aTVAMhw%2FyWXhwNWdG%2F9vQY%2BYDFa5zFCdh80H2kHYX72y2ppbCgw",
-   "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
@@ -362,23 +345,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-pny-cs1030-m2-nvme-pcie-250go-2-pour-89eur-3465433",
    "posted_at": "2026-11-22T16:19:39+00:00"
-  },
-  {
-   "title": "Kingston NV2 SSD interne 500 Go M.2 NVMe PCI Express SNV2S/500G",
-   "model": "SSD:NVMe-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 60.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 60.0,
-   "median_eur": 79.78,
-   "discount_pct": 24.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · lamaletale (100,0 %, 532 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117534347291?_skw=ssd&hash=item1b5d97d01b:g:GJIAAeSwKehrAbx4",
-   "posted_at": "2026-11-21T15:45:59+00:00"
   },
   {
    "title": "MSI B360M MORTAR",
@@ -445,7 +411,7 @@
    "suspect": false,
    "merchant": "eBay · rimk122 (100,0 %, 129 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840164784058?_skw=ssd&hash=itemc39db937ba:g:S~sAAeSw8-hrBtEr",
+   "url": "https://www.ebay.fr/itm/840164784058?_skw=ssd&hash=itemc39db937ba:g:S~sAAeSw8-hrBtEr&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kGYYzY0PXuP7khz%2F03RM%2FCtwhwXKODRQRGpe3MDaZoZoJlJdozKCTgGenXQGv8n4f4WlAUYj800UXb1SkdB5wieDTFcfbdhoJgflzI6GuROA08IHfL1PxK%2Bqw3UKiYuETA4DV2ur36J8WyCeSEc40AuXWRXzP7bzRGQ9VHxDo60yDFtqSBZmw7H6zD3MjJzN8EqOPINBP%2Bg2yVRvXps1bRHQzMDbRLYC%2FJzfOoCHMBiNY3SNBMtVrp2LQgkI2nMikLwdV7VOUFdZpyg2J2LbpF",
    "posted_at": "2026-11-25T12:16:28+00:00"
   },
   {
@@ -534,21 +500,21 @@
    "posted_at": "2026-11-18T09:57:21+00:00"
   },
   {
-   "title": "SSD M.2 NVMe PCIe 3.0 1To 2To 3500 Mo/s 2280 3D NAND Disque Dur Interne PC Neuf",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
+   "title": "Kit mémoire RAM Netac Shadow III DDR4 16 Go (2x8 Go) - 3200 Mhz, XMP 2.0, dissipateur aluminium",
+   "model": "RAM:DDR4-16Go-3200",
+   "category": "RAM",
    "condition": "new",
-   "price_eur": 122.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 122.99,
-   "median_eur": 149.99,
-   "discount_pct": 18.0,
+   "price_eur": 71.39,
+   "shipping_eur": null,
+   "effective_eur": 71.39,
+   "median_eur": 87.99,
+   "discount_pct": 18.9,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · mazkar55 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137956127354?_skw=ssd&hash=item201ed3727a:g:Tu4AAeSwq-BrBGVt&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nqQIpqCikli25aQCQrWSei9mbeSvo%2BK1WOqLbCxzy8VsQD6lbccNjbRgHnSRLztQJ5Sc4lN9pcWdn9EuTvbffcMx4PjVbuhygT%2BTe3toWZRQ77pwien03oRSD3e76WYfuu7Axl8P7C45%2B%2BG2G68zd7vDIopJy%2B3wRcMzf93XjfnJUwr6BkxjjsqE%2Ft26Wrwa%2FgXzakNoeHAeOIB4kC90HScfdiQZLSK1NhouXK1u4Cia7udRXCqReSZFT6dG--F2yHFxQX%2BK341qCOsIS6eiNGNDpgqbCYxr4%2BlOu3jcYLrg%3D%3D",
-   "posted_at": "2026-11-23T16:10:19+00:00"
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kit-memoire-ram-netac-shadow-iii-ddr4-16-go-2x8-go-ou-32-go-2x16-go-3200-ou-3600-mhz-xmp-20-dissipateur-aluminium-3468669",
+   "posted_at": "2026-11-25T15:32:50+00:00"
   },
   {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
@@ -638,6 +604,55 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 15,6\" Acer Aspire Lite 15 - Full HD IPS, Ryzen 5 3500U, RAM 8Go, 256Go SSD, 45 Wh, Sans OS",
+   "price_raw": "359,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-full-hd-ips-ryzen-5-3500u-ram-8go-256go-ssd-45-wh-sans-os-3469168",
+   "posted_at": "2026-11-25T15:53:27+00:00"
+  },
+  {
+   "title": "ADATA DDR5 - Kit - 16 Go : 2 x 8 Go - DIMM 288-PIN",
+   "price_raw": "447.83 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227631880523?_skw=ddr5&hash=item34ffead94b:g:f~IAAeSwgZJrBrSw",
+   "posted_at": "2026-11-25T15:38:58+00:00"
+  },
+  {
+   "title": "Disque SSD 128Go - MacBook Air A1465/A1466 (2013-2017) et MacBook Pro A1502/A139",
+   "price_raw": "14.90 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206339481985?_skw=ssd&hash=item300acaa181:g:QyYAAeSwyv9rBtsU",
+   "posted_at": "2026-06-11T16:08:59+00:00"
+  },
+  {
+   "title": "Carte mère Gigabyte GA-B75M-D3H LGA1155 B75 DDR3 HDMI USB 3.0 + I/O Shield",
+   "price_raw": "35.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257871811793?_skw=carte+m%C3%A8re&hash=item3c0a5b94d1:g:o7sAAeSwHtlrBwA-",
+   "posted_at": "2026-11-25T16:01:01+00:00"
+  },
+  {
+   "title": "Lot de 2 châssis/boîtiers PC ouverts en métal gris, cadres nus ordinateur",
+   "price_raw": "52.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227631880593?_skw=boitier+pc&hash=item34ffead991:g:yrMAAeSwN~NrBv-t",
+   "posted_at": "2026-11-25T15:39:07+00:00"
+  },
+  {
+   "title": "Micro-tour Jonsbo D33 Wood Boîtier PC noir, bois",
+   "price_raw": "126.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336916423061?_skw=boitier+pc&hash=item4e71c8a195:g:xxEAAeSwIAprBwNH",
+   "posted_at": "2026-11-25T15:48:13+00:00"
+  },
+  {
+   "title": "mini-tour Lian Li O11 Dynamic Mini V2 Boîtier PC, Boîtier, Boîtier gaming noir",
+   "price_raw": "121.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336916425990?_skw=boitier+pc&hash=item4e71c8ad06:g:6lMAAeSwQslrBwSr",
+   "posted_at": "2026-11-25T15:54:15+00:00"
+  },
+  {
    "title": "Liseuse électronique magnétique Xteink X4 Classic V2 – Écran E-Ink 4,3”, 16 Go, Wi-Fi, Bluetooth, 68 g, Blanc ou Noir",
    "price_raw": "51,58€",
    "source": "dealabs",
@@ -653,17 +668,10 @@
   },
   {
    "title": "Barrette mémoire SK Hynix 16GB 1Rx8 PC5-5600B DDR5 ECC UDIMM HMCG78AGBEA081N",
-   "price_raw": "399.00 EUR",
+   "price_raw": "499.00 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/860176731653?_skw=ddr5&hash=itemc846874e05:g:7g4AAeSwFD1rBv9t",
    "posted_at": "2026-11-25T15:29:13+00:00"
-  },
-  {
-   "title": "Acer Predator GM6 SSD interne NVMe PCIe Gen4x4 M.2 2280 jusqu'à 6300 Mo/s",
-   "price_raw": "161.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860176717910?_skw=ssd&hash=itemc846871856:g:5Z8AAeSwB3RrBv16",
-   "posted_at": "2026-11-25T15:24:33+00:00"
   },
   {
    "title": "PC Portable Ninkear u9 pro - Ultra 9 185H, 24Go de Ram, SSD 1 To (ninkear.com)",
@@ -694,13 +702,6 @@
    "posted_at": "2026-11-25T14:30:41+00:00"
   },
   {
-   "title": "Crucial X9 Disque SSD externe portatif 1 To jusqu’à 1050 Mo/s",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227631745115?_skw=ssd&hash=item34ffe8c85b:g:4woAAeSweFhrBubY",
-   "posted_at": "2026-11-25T13:52:11+00:00"
-  },
-  {
    "title": "Imprimante UV eufyMake E1 - eufymake.com",
    "price_raw": "1 799€",
    "source": "dealabs",
@@ -720,6 +721,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-hp-envy-6120-multifonction-a4-couleur-10-ppm-wi-fi-3468910",
    "posted_at": "2026-11-25T12:38:48+00:00"
+  },
+  {
+   "title": "Timetec DDR4 8 Go 2666 MHz SODIMM PC4-21300 RAM portable non-ECC",
+   "price_raw": "202.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880151971571?_skw=ddr4&hash=itemcced2546f3:g:RLwAAeSwTaVrBtmV",
+   "posted_at": "2026-11-25T12:51:34+00:00"
   },
   {
    "title": "Ecran de PC HP 22KD monitor 21.5\" LED",
@@ -748,13 +756,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/hp-smart-tank-7007-imprimante-avec-reservoir-blanche-3468883",
    "posted_at": "2026-11-25T12:12:57+00:00"
-  },
-  {
-   "title": "Fanxiang S500 Pro SSD NVMe M.2 256Go 512Go 1To 2To PCIe 3.0 Interne PC Portable",
-   "price_raw": "79.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174414632?_skw=ssd&hash=itemc84663f328:g:fe8AAeSwiOVrBfn7&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbF%2FP2tzLG9EqHTMIgrWFlx%2BYmPD48PEb2SubM8SfgeukhhC9Oxi4x%2BXA04dkZSUMog0b5Qt%2FHIei8%2BgfZgdBMZt%2F3eHB2irMagnEmym5aXhtmmlSuehk67xpDJR0U35af8h6DA%2FdD%2FQPcN%2BSlJWE2EvdvCMqfO6MwrMLLg%2Fk%2FlnRB%2Fq7bURt2XA8vAhyjbznUBJ4pxg5qcmOJpkfDihf9ECNgoqfsUaYeE4TOv3SE%2B0q%2BHQDBj%2F3rq5PZOvp61rii9hc7rMDiYPqPIEB7Ooig",
-   "posted_at": "2026-11-24T21:02:57+00:00"
   },
   {
    "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
@@ -848,18 +849,18 @@
    "posted_at": "2026-11-25T08:42:27+00:00"
   },
   {
+   "title": "Barrette mémoire Samsung 8Go 1Rx16 PC4-3200AA SC0-11 DDR4 SDRAM",
+   "price_raw": "29.81 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287017925443?_skw=ddr4&hash=item42d399fb43:g:~tcAAeSwNhtpQ7zj",
+   "posted_at": "2025-12-18T08:36:22+00:00"
+  },
+  {
    "title": "PC Portable 15,6\" Acemagic ‎LX15 Pro - AMD Ryzen 7 7730U, 16Go RAM LPDDR4, 512Go SSD",
    "price_raw": "469€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/acemagic-lx15-pro-amd-ryzen-7-7730u-laptop-16go-lpddr4-512go-ssd-3468557",
    "posted_at": "2026-11-25T08:05:43+00:00"
-  },
-  {
-   "title": "Carte Graphique PNY NVIDIA Quadro 2000 D - 1GB GDDR5 PCIe x16 (VCQ2000D-T)",
-   "price_raw": "21.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227556510022?_skw=carte+graphique&hash=item34fb6cc946:g:pl8AAeSwJS9qxgth",
-   "posted_at": "2026-10-07T09:19:49+00:00"
   },
   {
    "title": "Reconditionné : Disque dur NAS Sata Seagate Exos - 16 TB (datablocks.dev)",
@@ -918,11 +919,11 @@
    "posted_at": "2026-11-25T05:26:49+00:00"
   },
   {
-   "title": "carte graphique ATI Radeon 9200LE (référence constructeur R92LE",
-   "price_raw": "24.62 EUR",
+   "title": "ECRAN PC HP P174 MONITOR ",
+   "price_raw": "20.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366693914950?_skw=carte+graphique&hash=item5560a91946:g:DqMAAeSw6p5quAzr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nmBi3whP7JHMGZwjIeL%2BGZw94At8uMlJt2ojWaERwpsPl%2BpJ%2BtMlrXmLn7OQeZBOSujhub7XrPvwjSchGe22cUf1kkZzgOFgddDX7hF1tcADU4fKKXOiehKn7GqoIbww4DM4ewbC%2BfmEnarcnymY1iLaMPqbEBU03rGqb6krNpnP1JPUw5EKCHXCvcVzbHn9vov5FAY%2FCdNsfjf%2FwiXhiOp9yexJ5nA4BbePBmJDNElV5souKG87HX6nmTL1zAO5zF95MpN3jJ6NTt47RVfM6sJUSANSh%2FwvBkGPxJ6gQUdQ%3D%3D",
-   "posted_at": "2026-09-26T18:33:52+00:00"
+   "url": "https://www.ebay.fr/itm/226795559647?_skw=%C3%A9cran+pc&hash=item34ce119adf:g:JrwAAOSwHLVoQAPq",
+   "posted_at": "2025-06-04T09:20:17+00:00"
   },
   {
    "title": "Carte Mère Jetway J-911AF PGA 370 Slot 1 MMX",
@@ -951,45 +952,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/beyerdynamic-dt770-pro-x-lb-black-edition-3468386",
    "posted_at": "2026-11-25T00:12:37+00:00"
-  },
-  {
-   "title": "Ecran PC 32\" LG 32U701SB-B - 4K UHD, HDR10",
-   "price_raw": "228,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-lg-smart-monitor-va-32-4k-uhd-hdr10-webos-3468328",
-   "posted_at": "2026-11-24T22:22:31+00:00"
-  },
-  {
-   "title": "[Prime] Souris Superlight X6 Attack Shark 49g avec Station (Vendeur Tiers)",
-   "price_raw": "41,24€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/attack-shark-x6-souris-superlight-49-g-avec-station-3468322",
-   "posted_at": "2026-11-24T22:17:20+00:00"
-  },
-  {
-   "title": "PC de bureau Black aqua - Ryzen 5 5600, 16 Go Ram, RTX 5060 Ti 8 Go",
-   "price_raw": "1 049€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-gamer-black-aqua-rtx-5060-ti-8go-ryzen-5-5600-16go-ddr4-3468307",
-   "posted_at": "2026-11-24T22:04:00+00:00"
-  },
-  {
-   "title": "Tapis de Souris SteelSeries QCK + - 450 x 400 x 2 mm",
-   "price_raw": "7,37€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/steelseries-tapis-de-souris-qck-3468295",
-   "posted_at": "2026-11-24T21:50:26+00:00"
-  },
-  {
-   "title": "Mini PC Firebat R3, Ryzen 5 7430U, 16 Go de LPDDR4, SSD 512 Go, WiFi6 & BT 5.2, Windows 11",
-   "price_raw": "294,22€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-firebat-r3-ryzen-5-7430u-16-go-de-lpddr4-ssd-512-go-wifi6-bt-52-windows-11-3468287",
-   "posted_at": "2026-11-24T21:43:12+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1928,
-  "models_with_reference": 78
+  "listings_seen": 1935,
+  "models_with_reference": 76
  }
 }
