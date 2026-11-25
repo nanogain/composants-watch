@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T16:38:00Z",
+ "generated_at": "2026-11-25T17:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-25T16:38:00.632306+00:00"
+   "items": 338,
+   "last_ok": "2026-11-25T17:08:00.672162+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-25T16:38:00.632306+00:00"
+   "items": 375,
+   "last_ok": "2026-11-25T17:08:00.672162+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 71,
-   "last_ok": "2026-11-25T16:38:00.632306+00:00"
+   "items": 80,
+   "last_ok": "2026-11-25T17:08:00.672162+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (100,0 %, 146 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgpp05npCCJd3YMiZVtwIdnUU%2FJqyFNsvUkOWc0aq4QZ3swVPkcL2uaMbwMHVYEsZGDIprxCf6yzCcPET47iiuXywx%2F5rtGKEOL8O%2FtU77KDl%2BG1K4QOJ0vSFVixfvpVr4zx1zaLCr4OnV24C6DzgZS",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -160,6 +160,40 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
+   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 83.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 83.99,
+   "median_eur": 149.99,
+   "discount_pct": 44.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanxiang-brand-store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
+   "posted_at": "2024-01-03T08:31:08+00:00"
+  },
+  {
+   "title": "boitier alimentation PC  EDEN 500W",
+   "model": "PSU:500W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.79,
+   "shipping_eur": 6.9,
+   "effective_eur": 17.69,
+   "median_eur": 30.98,
+   "discount_pct": 42.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanfan67370 (100,0 %, 1 002 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/178530181411?_skw=alimentation+pc&hash=item29913a6123:g:3ywAAeSwj3xojf~b",
+   "posted_at": "2026-09-26T13:49:06+00:00"
+  },
+  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -190,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8HtryZNlw2Pi2%2B4tIhAm7uhkuibIbcUBvFZitmlHGD1mca--EujuqiNeb5Dj7%2BgshvBf8VXIRrjiw9HKRGac1K3iet10xloUQDweHSuRjPCENKpxb92UJYW7dTCtc%2FkqJ3w%2Bg%2BmRrUx5mLqdAE0fgnmb9gKpAFOJSpTQcK1sVC%2BQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bc%2BjRCIvFP7q4We7sAaTlU2sKj%2BZQZV7tcCQ8C5vPFlgRyPclgSI2I9%2BiOBcGFsU0j1Eb9qGGrj4ruBGPbdAXaqOnDOaxuKb%2Fi555kyE3nvXRZPWaUcl14Z8We2OxGpTp7wtu19tGRyHpUnAyL1WCc%2Fr%2FN8F3nFim2yu9dFghA5A%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwBJ3GXbYZqk9xXzhBTM%2FQ3SY%2F5Wkfi32PACI62waRFa0OQ%2FHVN4NG2GkVmT7LinTreUF66L%2BIfdsYWEzmwqZEuqc3nyT1Dai9gZPxBn5n%2BEhmdruRSaZnzA9zZ1UvmtprXtRXY44cM5vS9Fm%2F0sX%2Bv",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux%2BnvBq%2Bk%2FGzC%2BrBIYFNrlxSsT7pnPHSpcBFEKqR8MR8F%2BvvFllqUcAFjUpgWXgnI%2BvMbV%2BDQSu81MPtSsSsZyHXqhOYVD1ckA7KjkVyjZ7ANKkLOL0iTcOTJYZ3jfFjLvDy2KYDZJvtl2egHPk7jus",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -241,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 249 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724462342?_skw=ssd&hash=item3021bcf706:g:MoQAAeSwUfdrBXVW&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nZP7CFW9iGAR%2BK2kWlIm3yh6kF9LiHgUPI1F1b5mGWNgAS7smV7XDptp%2BxhkGA8MrwEzKDgYUkN3c2qUmIkhdpy81aS%2FI2TPxdGWy22JHp3leoZLxJm52a%2F41i2G79%2F8nvcJHX9HDqrpvAm6e5V62ICGONdrLV56ZZIwUQ8Pi5UGIKGb38MNCvPWeWhAHrs6YpjZN8MdtLDZbahKimlPOUym6I%2BCWOYyjdTKB%2B2XkLdO1njApmGVMPWsNxnJgLQV40QnlJGKgPppPOp2qguhMJ",
+   "url": "https://www.ebay.fr/itm/206724462342?_skw=ssd&hash=item3021bcf706:g:MoQAAeSwUfdrBXVW",
    "posted_at": "2026-11-24T11:32:03+00:00"
   },
   {
@@ -428,7 +462,7 @@
    "suspect": false,
    "merchant": "eBay · rimk122 (100,0 %, 129 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840164784058?_skw=ssd&hash=itemc39db937ba:g:S~sAAeSw8-hrBtEr",
+   "url": "https://www.ebay.fr/itm/840164784058?_skw=ssd&hash=itemc39db937ba:g:S~sAAeSw8-hrBtEr&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kGYYzY0PXuP7khz%2F03RM%2FCtwhwXKODRQRGpe3MDaZoZoJlJdozKCTgGenXQGv8n4f4WlAUYj800UXb1SkdB5wieDTFcfbdhoJgflzI6GuROA08IHfL1PxK%2Bqw3UKiYuESQ0oZRZoTTvSA5dx7hEXJubZUNLfz3qb%2B4w%2FauQpjarmdk0ctsfCW5984xxt8s8YoYVbWtyl%2F1Idd8Jq56YV9eof6Y6mGUYBOCqgBGA0uYF%2FLKzCXVRlnqGN3%2BGKhpIvzgeB316zdBn%2BA0LcQ6izDX",
    "posted_at": "2026-11-25T12:16:28+00:00"
   },
   {
@@ -568,6 +602,23 @@
    "posted_at": "2026-11-23T13:10:07+00:00"
   },
   {
+   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 79.74,
+   "shipping_eur": 2.99,
+   "effective_eur": 82.73,
+   "median_eur": 98.94,
+   "discount_pct": 16.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · docazmicro_8 (100,0 %, 534 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
+   "posted_at": "2026-11-14T10:28:06+00:00"
+  },
+  {
    "title": "Ecran PC 27\" HKC G27H2DPro - QHD, 200Hz, Dalle IPS, 1ms (Vendeur tiers)",
    "model": "MON:27-QHD-200Hz",
    "category": "MON",
@@ -621,6 +672,13 @@
  ],
  "unclassified": [
   {
+   "title": "PC portable 16'' MSI Crosshair E8WGXK-001FR - QHD+ 240Hz, AMD Ryzen9, 16Go RAM, 1To SSD, RTX5070 12Go VRAM",
+   "price_raw": "1 999,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-msi-crosshair-16-qhd-240hz-amd-ryzen9-16go-ram-1to-ssd-rtx5070-12go-vram-3469219",
+   "posted_at": "2026-11-25T16:40:35+00:00"
+  },
+  {
    "title": "Serveur NAS 2 Baies Ugreen NASync DH2300 - 4 Go RAM, Sortie HDMI 4K@60Hz, LAN 1 GbE, Connexion NFC, Sans Disque (Vendeur Tiers)",
    "price_raw": "179,99€",
    "source": "dealabs",
@@ -656,13 +714,6 @@
    "posted_at": "2026-06-11T16:08:59+00:00"
   },
   {
-   "title": "Carte mère Gigabyte GA-B75M-D3H LGA1155 B75 DDR3 HDMI USB 3.0 + I/O Shield",
-   "price_raw": "35.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257871811793?_skw=carte+m%C3%A8re&hash=item3c0a5b94d1:g:o7sAAeSwHtlrBwA-",
-   "posted_at": "2026-11-25T16:01:01+00:00"
-  },
-  {
    "title": "Lot de 2 châssis/boîtiers PC ouverts en métal gris, cadres nus ordinateur",
    "price_raw": "52.70 EUR",
    "source": "ebay",
@@ -691,13 +742,6 @@
    "posted_at": "2026-11-25T15:10:57+00:00"
   },
   {
-   "title": "Barrette mémoire SK Hynix 16GB 1Rx8 PC5-5600B DDR5 ECC UDIMM HMCG78AGBEA081N",
-   "price_raw": "499.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860176731653?_skw=ddr5&hash=itemc846874e05:g:7g4AAeSwFD1rBv9t",
-   "posted_at": "2026-11-25T15:29:13+00:00"
-  },
-  {
    "title": "PC Portable Ninkear u9 pro - Ultra 9 185H, 24Go de Ram, SSD 1 To (ninkear.com)",
    "price_raw": "829€",
    "source": "dealabs",
@@ -710,13 +754,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apm-cable-ethernet-cat-7-20m-rj45-reseau-10gbps-600mhz-blinde-sftp-cordon-internet-tres-haut-debit-3469072",
    "posted_at": "2026-11-25T14:39:37+00:00"
-  },
-  {
-   "title": "RAM DDR3 4 Go DIMM non ECC pour ordinateur de bureau (Objet N°Y142)",
-   "price_raw": "4.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920183729211?_skw=ddr4&hash=itemd63f396c3b:g:LA4AAeSwe3trBvUS",
-   "posted_at": "2026-11-25T14:50:55+00:00"
   },
   {
    "title": "Moniteur Interphone Urmet Miro Couleur - blanc, 1750/16 (Vendeur Tiers)",
@@ -782,18 +819,18 @@
    "posted_at": "2026-11-25T12:12:57+00:00"
   },
   {
+   "title": "Fanxiang S500 Pro SSD NVMe M.2 256Go 512Go 1To 2To PCIe 3.0 Interne PC Portable",
+   "price_raw": "79.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174414632?_skw=ssd&hash=itemc84663f328:g:fe8AAeSwiOVrBfn7&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbF%2FP2tzLG9EqHTMIgrWFlx%2BYmPD48PEb2SubM8SfgeukhhC9Oxi4x%2BXA04dkZSUMog0b5Qt%2FHIei8%2BgfZgdBMZt%2F3eHB2irMagnEmym5aXhtmmlSuehk67xpDJR0U35Zxe1fJBr1I8wmQoqjUEk%2FZL6pbm37w%2FZB22hPBs37V%2FrbJ%2BHJR7eXyQsVtIsYLOJK2yfbEJPTmc8Z4Vs7NM9hD%2F7nzvWIFRx9j9G8XggPwE3QKuiK7VAB2BtbjMN50%2Fz%2BdDCWF0HRN%2BLSMhBWnQqDl",
+   "posted_at": "2026-11-24T21:02:57+00:00"
+  },
+  {
    "title": "Trust Ody II Clavier sans Fil AZERTY Français Silencieux RF 2.4GHz Noir",
    "price_raw": "22.53 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/147697167502?_skw=clavier&hash=item22636fec8e:g:~awAAeSwiV5rBtGZ",
    "posted_at": "2026-11-25T12:16:43+00:00"
-  },
-  {
-   "title": "OMOTON Clavier sans Fil AZERTY Rétroéclairé 2,4 GHz Silencieux",
-   "price_raw": "51.65 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/147697162398?_skw=clavier&hash=item22636fd89e:g:VYIAAeSwJxVrBtFC",
-   "posted_at": "2026-11-25T12:15:11+00:00"
   },
   {
    "title": "Mini PC NiPoGi AMD Ryzen 5 7530U 16 Go RAM 1 To SSD Windows 11 PRO E3B Noir (Vendeur tiers)",
@@ -880,6 +917,13 @@
    "posted_at": "2026-11-25T08:05:43+00:00"
   },
   {
+   "title": "Carte Graphique PNY NVIDIA Quadro 2000 D - 1GB GDDR5 PCIe x16 (VCQ2000D-T)",
+   "price_raw": "21.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/227556510022?_skw=carte+graphique&hash=item34fb6cc946:g:pl8AAeSwJS9qxgth",
+   "posted_at": "2026-10-07T09:19:49+00:00"
+  },
+  {
    "title": "Reconditionné : Disque dur NAS Sata Seagate Exos - 16 TB (datablocks.dev)",
    "price_raw": "505,78€",
    "source": "dealabs",
@@ -939,7 +983,7 @@
    "title": "carte graphique ATI Radeon 9200LE (référence constructeur R92LE",
    "price_raw": "24.62 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366693914950?_skw=carte+graphique&hash=item5560a91946:g:DqMAAeSw6p5quAzr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nmBi3whP7JHMGZwjIeL%2BGZw94At8uMlJt2ojWaERwpsPl%2BpJ%2BtMlrXmLn7OQeZBOSujhub7XrPvwjSchGe22cUf1kkZzgOFgddDX7hF1tcADU4fKKXOiehKn7GqoIbww5GwpEmMqe%2B5krS3XxSZjQOXvDkz2j8aBNTwUPN380qqYwXsGQ7cS1u%2BmOQCNsoNZ0QuuUBhS6IW3gqKniwfoLBkAQpPSaqkXeWfZWscz6GLYzskPGlclv8b3%2FNmIsVwV0CvuxHd9smsV0FPUaPQq5vcUFEE4gqh2fZYiKaTiNDiw%3D%3D",
+   "url": "https://www.ebay.fr/itm/366693914950?_skw=carte+graphique&hash=item5560a91946:g:DqMAAeSw6p5quAzr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nmBi3whP7JHMGZwjIeL%2BGZw94At8uMlJt2ojWaERwpsPl%2BpJ%2BtMlrXmLn7OQeZBOSujhub7XrPvwjSchGe22cUf1kkZzgOFgddDX7hF1tcADU4fKKXOiehKn7GqoIbww6fHrJjvzoBvDUF3SyQKTeGKzAbvdm2zeNohg0Ja0U%2BEfzo%2FG%2FsVdMNf4gUGbokGrebD4KWbxHWW4lWdIgwfIMPutwGlMSaiawN1I7tXLB89bGrtoAsdbAGRWrxx7CU2g0P85tvMXBkSGdkgtWlChdpm7ZQrSPxG%2BT47KZt6Q%2FzsQ%3D%3D",
    "posted_at": "2026-09-26T18:33:52+00:00"
   },
   {
@@ -969,10 +1013,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mini-pc-firebat-a6-ryzen-7-7735hs-radeon-680m-16-go-lpddr5-ssd-512-go-wifi-6-bt-52-windows-11-pro-vendeur-tiers-3468390",
    "posted_at": "2026-11-25T00:28:10+00:00"
+  },
+  {
+   "title": "Vasque filaire Beyerdynamic DT770 Pro X LB Black Edition",
+   "price_raw": "159€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/beyerdynamic-dt770-pro-x-lb-black-edition-3468386",
+   "posted_at": "2026-11-25T00:12:37+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1938,
-  "models_with_reference": 79
+  "listings_seen": 1935,
+  "models_with_reference": 80
  }
 }
