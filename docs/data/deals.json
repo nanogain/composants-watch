@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T00:38:00Z",
+ "generated_at": "2026-11-25T01:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-25T00:38:00.686909+00:00"
+   "items": 346,
+   "last_ok": "2026-11-25T01:08:00.679629+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 369,
-   "last_ok": "2026-11-25T00:38:00.686909+00:00"
+   "items": 366,
+   "last_ok": "2026-11-25T01:08:00.679629+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-25T00:38:00.686909+00:00"
+   "items": 37,
+   "last_ok": "2026-11-25T01:08:00.679629+00:00"
   }
  },
  "watchlist": [
@@ -109,23 +109,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -143,23 +126,6 @@
    "posted_at": "2026-11-18T18:28:36+00:00"
   },
   {
-   "title": "Alimentation PC ATX HK380-12GP S2 280w",
-   "model": "PSU:280W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.8,
-   "shipping_eur": 5.6,
-   "effective_eur": 16.4,
-   "median_eur": 26.89,
-   "discount_pct": 39.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9mPmhDLU0mXfgx0iql9DbehzUnhA%2B4CLpoZS329ajrjbZb56pmFKmxt9HH2Rws0NrVz4XoiZy7m%2BQW82PM3OF7Jjm9WdbjXPn5xI83IHQSn9fT9%2BVLpb8Xz4e%2FZa5ktzSvTmrwzF0fk7ZIaJsznzbuijzevD6%2FULVYprUDpks1pw%3D%3D",
-   "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -173,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzKj1F0LGWDbjb2TUeQkMbp0vLCMS5MBXlrEMAO%2FEIsSvB7JCdogg0GJb1MPExxEhay4TmzP73urxybcce9iA9OGQ7qxSPPszMj8zlCfas7R%2FThoWNZGT3zhrq6w6tdkWDum3KmN1Pv1RLWJkILSxAC",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzn1D1GKOtGf3ihPe20f7zGqpS%2BwrckHCKWCFkoyUf4hkKMkU4Ejnas%2FvQZErRY%2FXBzHfjSTkA43vzLqALtB5%2BuSe0AiYO7tKogySHnXpf2pk1JMy42m2gFOYCFKfre2QQL2z%2F4YKpyfnm7O8Mb%2BlCY",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -553,6 +519,13 @@
  ],
  "unclassified": [
   {
+   "title": "Carte graphique ASUS AGP-V7100 GeForce2 MX400 32 Mo SDR AGP 128bit",
+   "price_raw": "20.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/198822568634?_skw=carte+graphique&hash=item2e4abfa2ba:g:N-8AAeSw-UNrBjL~",
+   "posted_at": "2026-11-25T01:04:19+00:00"
+  },
+  {
    "title": "Mini PC Firebat A6 : Ryzen 7 7735HS, Radeon 680M, 16 Go LPDDR5, SSD 512 Go, Wifi 6 & BT 5.2, Windows 11 Pro (vendeur tiers)",
    "price_raw": "429€",
    "source": "dealabs",
@@ -572,27 +545,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237205035808?_skw=processeur&hash=item373a859b20:g:A-sAAOSwIxVkYl7j",
    "posted_at": "2026-11-24T23:16:57+00:00"
-  },
-  {
-   "title": "Intel Xeon E3-1220V5 4X 3.00GHz Socket 1151 4 Cœurs Processeur Max. 3.50GHz",
-   "price_raw": "11.24 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237205035828?_skw=processeur&hash=item373a859b34:g:uk0AAOSwsFpm0dB~",
-   "posted_at": "2026-11-24T23:16:58+00:00"
-  },
-  {
-   "title": "Processeur Dual-Core Intel Pentium G620 2x 2,60GHz Socket 1155",
-   "price_raw": "12.96 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237205035733?_skw=processeur&hash=item373a859ad5:g:g3sAAOSwFJFi2k-u",
-   "posted_at": "2026-11-24T23:16:55+00:00"
-  },
-  {
-   "title": "Processeur Dual-Core Intel Pentium G2130 2x 3.20GHz Socket 1155",
-   "price_raw": "7.21 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237205037473?_skw=processeur&hash=item373a85a1a1:g:JpwAAOSw9P9hPzzG",
-   "posted_at": "2026-11-24T23:18:31+00:00"
   },
   {
    "title": "Ecran PC 32\" LG 32U701SB-B - 4K UHD, HDR10",
@@ -644,17 +596,10 @@
    "posted_at": "2026-11-24T21:33:08+00:00"
   },
   {
-   "title": "Carte graphique AMD Radeon Pro WX 3200 - 4 Go - GDDR5",
-   "price_raw": "105.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/126941157053?_skw=carte+graphique&hash=item1d8e4856bd:g:KXQAAOSwKqRnr2FC",
-   "posted_at": "2025-02-14T15:30:58+00:00"
-  },
-  {
    "title": "Samsung RAM 8 Go DDR4 ECC Registered PC4-2133P DIMM 288 broches M393A1G40DB0",
    "price_raw": "19.89 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206664152492?_skw=ddr4&hash=item301e24b5ac:g:~r4AAeSwzjFq5QCk&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lM7TIcZacuQnQl%2FrXFUOv2QjKWadFzMx6wQMft8ROVSR%2Frn%2Bk7EnRj%2FBy0mP%2F0v2dtBq8gd1Vs79yn9162FnwzmepOSmZ8I3x%2Bf7h8xpYi1GhdxZN3fn8BGJEBGE8f969lZLgi%2BEm1RoUdrGwdAzdP%2Fjm1SG8mbPcPjdIOOpbI1uGAm905zS8XWBfNgFgTeMSwZyNbjAscbHkgk9%2BUtDvpwuTQUbHXyFoi%2FSGfH%2Bos%2B%2FnCkCqcbdYyE%2FyP6syVBLhZUC0bk9gFHACLkfV6v6N%2B",
+   "url": "https://www.ebay.fr/itm/206664152492?_skw=ddr4&hash=item301e24b5ac:g:~r4AAeSwzjFq5QCk",
    "posted_at": "2026-10-30T20:42:14+00:00"
   },
   {
@@ -901,10 +846,31 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-aoc-oled-3467111",
    "posted_at": "2026-11-23T22:46:37+00:00"
+  },
+  {
+   "title": "Boitier PC Corsair Air 5400 LX-R RGB iCUE LINK",
+   "price_raw": "202,48€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/corsair-air-5400-lx-r-rgb-icue-link-3467057",
+   "posted_at": "2026-11-23T21:32:29+00:00"
+  },
+  {
+   "title": "Tablette 11\" Apple iPad Pro Wi-Fi 2025 (M5) 256 Go - Noir Sidéral",
+   "price_raw": "1 089€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-ipad-pro-11-wi-fi-2025-m5-256go-noir-sideral-3467046",
+   "posted_at": "2026-11-23T21:16:03+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Asus ProArt P14 - H7407BA-SM250X, OLED 120Hz, Ecran tactile, Nvidia RTX Spark N1X, 128 Go RAM, 1 To SSD, Blanc",
+   "price_raw": "5 519,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-asus-proart-p14-h7407ba-sm250x-14-oled-120hz-ecran-tactile-nvidia-rtx-spark-n1x-128-go-ram-1-to-ssd-blanc-3467009",
+   "posted_at": "2026-11-23T20:45:17+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1886,
-  "models_with_reference": 76
+  "listings_seen": 1889,
+  "models_with_reference": 77
  }
 }
