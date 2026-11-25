@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T17:08:00Z",
+ "generated_at": "2026-11-25T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-25T17:08:00.672162+00:00"
+   "items": 337,
+   "last_ok": "2026-11-25T17:38:00.632054+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 375,
-   "last_ok": "2026-11-25T17:08:00.672162+00:00"
+   "last_ok": "2026-11-25T17:38:00.632054+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-25T17:08:00.672162+00:00"
+   "items": 72,
+   "last_ok": "2026-11-25T17:38:00.632054+00:00"
   }
  },
  "watchlist": [
@@ -92,23 +92,6 @@
    "posted_at": "2026-11-24T02:17:35+00:00"
   },
   {
-   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 74.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 74.99,
-   "median_eur": 149.99,
-   "discount_pct": 50.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · topdeal-market (100,0 %, 146 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgpp05npCCJd3YMiZVtwIdnUU%2FJqyFNsvUkOWc0aq4QZ3swVPkcL2uaMbwMHVYEsZGDIprxCf6yzCcPET47iiuXywx%2F5rtGKEOL8O%2FtU77KDl%2BG1K4QOJ0vSFVixfvpVr4zx1zaLCr4OnV24C6DzgZS",
-   "posted_at": "2026-11-24T20:50:45+00:00"
-  },
-  {
    "title": "SSD  PNY CS500 / 250Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -160,40 +143,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "Fanxiang 3500Mo/s Disque Dur Interne SSD M.2 NVMe 1To 2To 4To PCIe 3.0 pour PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 83.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 83.99,
-   "median_eur": 149.99,
-   "discount_pct": 44.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanxiang-brand-store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/296141132047?_skw=ssd&hash=item44f363110f:g:YBYAAOSwexplfWoG",
-   "posted_at": "2024-01-03T08:31:08+00:00"
-  },
-  {
-   "title": "boitier alimentation PC  EDEN 500W",
-   "model": "PSU:500W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.79,
-   "shipping_eur": 6.9,
-   "effective_eur": 17.69,
-   "median_eur": 30.98,
-   "discount_pct": 42.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanfan67370 (100,0 %, 1 002 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/178530181411?_skw=alimentation+pc&hash=item29913a6123:g:3ywAAeSwj3xojf~b",
-   "posted_at": "2026-09-26T13:49:06+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -211,6 +160,23 @@
    "posted_at": "2026-11-18T18:28:36+00:00"
   },
   {
+   "title": "SSD SAMSUNG 870 EVO – 500 Go – SATA III – 2,5” - Occasion Testé",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 34.46,
+   "shipping_eur": 2.78,
+   "effective_eur": 37.24,
+   "median_eur": 62.27,
+   "discount_pct": 40.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · matthieu2278 (100,0 %, 100 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137962297787?_skw=ssd&hash=item201f3199bb:g:pjEAAeSw7IRrBxko",
+   "posted_at": "2026-11-25T17:22:34+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -224,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2Bc%2BjRCIvFP7q4We7sAaTlU2sKj%2BZQZV7tcCQ8C5vPFlgRyPclgSI2I9%2BiOBcGFsU0j1Eb9qGGrj4ruBGPbdAXaqOnDOaxuKb%2Fi555kyE3nvXRZPWaUcl14Z8We2OxGpTp7wtu19tGRyHpUnAyL1WCc%2Fr%2FN8F3nFim2yu9dFghA5A%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B9ZQIvqpgE6IzVNiAAClSybBgYgX5fO8rDtoZYby4b1Kzvu%2BpNA8W5n6aMt0wEGNXKI%2FLD5MKmPYp3Cuha921CagzarF%2FnjeDK3YmXlspz0trulztR1nWiE8A%2BpG7%2FbuoGmSD9Zx4HpVyTlMs4MQ1O5gVqXT8aegOacFpyGoD%2BBw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -241,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux%2BnvBq%2Bk%2FGzC%2BrBIYFNrlxSsT7pnPHSpcBFEKqR8MR8F%2BvvFllqUcAFjUpgWXgnI%2BvMbV%2BDQSu81MPtSsSsZyHXqhOYVD1ckA7KjkVyjZ7ANKkLOL0iTcOTJYZ3jfFjLvDy2KYDZJvtl2egHPk7jus",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwiVZL0TOuE8tWEwtImHkrtgj6Kksp7JYtHbkQtbe9er2XsYb%2B618mw73w1ck%2B%2BwFMHex4EiD3DoY1Erk6l6y5SvO9FNn8HJW8K2LVs5w9J4wM5vVyoF7DnvlVBYeWqY8Yx2i07wn2DjchYVAYcdWAg",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -260,23 +226,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
    "posted_at": "2026-11-24T11:41:43+00:00"
-  },
-  {
-   "title": "Western Digital WD Blue SN570 SSD interne 500 Go NVMe M.2",
-   "model": "SSD:NVMe-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 48.0,
-   "shipping_eur": 3.9,
-   "effective_eur": 51.9,
-   "median_eur": 79.78,
-   "discount_pct": 34.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 249 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724462342?_skw=ssd&hash=item3021bcf706:g:MoQAAeSwUfdrBXVW",
-   "posted_at": "2026-11-24T11:32:03+00:00"
   },
   {
    "title": "[Prime] Kit Mémoire RAM Netac Shadow S XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (Vendeur Tiers)",
@@ -364,6 +313,40 @@
    "posted_at": "2026-11-01T14:29:53+00:00"
   },
   {
+   "title": "Kingston NV2 SSD interne 500 Go M.2 NVMe PCI Express SNV2S/500G",
+   "model": "SSD:NVMe-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 60.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 60.0,
+   "median_eur": 82.77,
+   "discount_pct": 27.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · lamaletale (100,0 %, 532 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117534347291?_skw=ssd&hash=item1b5d97d01b:g:GJIAAeSwKehrAbx4",
+   "posted_at": "2026-11-21T15:45:59+00:00"
+  },
+  {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 109.99,
+   "median_eur": 149.99,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (100,0 %, 146 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjfvcRU%2B5zD4JlSiwoG2VU8Q4KqOPdBl%2Bj6y4lIwCMqZn--whbFFYX46DrJqBTjmWl6cu0fkOSV3xJ2wdKz5QLTliJyBRaI1PnY5BEOCFB5g8gNSlPkZ48coNx56YfdA3M6%2Ftxs1N5kI%2BglLNvWbn2a",
+   "posted_at": "2026-11-24T20:50:45+00:00"
+  },
+  {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -379,23 +362,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-pny-cs1030-m2-nvme-pcie-250go-2-pour-89eur-3465433",
    "posted_at": "2026-11-22T16:19:39+00:00"
-  },
-  {
-   "title": "Kingston NV2 SSD interne 500 Go M.2 NVMe PCI Express SNV2S/500G",
-   "model": "SSD:NVMe-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 60.0,
-   "shipping_eur": 0.0,
-   "effective_eur": 60.0,
-   "median_eur": 79.78,
-   "discount_pct": 24.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · lamaletale (100,0 %, 532 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117534347291?_skw=ssd&hash=item1b5d97d01b:g:GJIAAeSwKehrAbx4",
-   "posted_at": "2026-11-21T15:45:59+00:00"
   },
   {
    "title": "MSI B360M MORTAR",
@@ -432,6 +398,23 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
+   "title": "SSD CRUCIAL MX500 – 500 Go – SATA III – 2,5” - Occasion Testé",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 45.22,
+   "shipping_eur": 2.78,
+   "effective_eur": 48.0,
+   "median_eur": 62.27,
+   "discount_pct": 22.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · matthieu2278 (100,0 %, 100 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137962299534?_skw=ssd&hash=item201f31a08e:g:7WEAAeSwd1FrBxmT",
+   "posted_at": "2026-11-25T17:24:11+00:00"
+  },
+  {
    "title": "Carte Mère MSI B760M Gaming Plus Wifi Micro-ATX, LGA 1700",
    "model": "MB:B760",
    "category": "MB",
@@ -462,7 +445,7 @@
    "suspect": false,
    "merchant": "eBay · rimk122 (100,0 %, 129 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840164784058?_skw=ssd&hash=itemc39db937ba:g:S~sAAeSw8-hrBtEr&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kGYYzY0PXuP7khz%2F03RM%2FCtwhwXKODRQRGpe3MDaZoZoJlJdozKCTgGenXQGv8n4f4WlAUYj800UXb1SkdB5wieDTFcfbdhoJgflzI6GuROA08IHfL1PxK%2Bqw3UKiYuESQ0oZRZoTTvSA5dx7hEXJubZUNLfz3qb%2B4w%2FauQpjarmdk0ctsfCW5984xxt8s8YoYVbWtyl%2F1Idd8Jq56YV9eof6Y6mGUYBOCqgBGA0uYF%2FLKzCXVRlnqGN3%2BGKhpIvzgeB316zdBn%2BA0LcQ6izDX",
+   "url": "https://www.ebay.fr/itm/840164784058?_skw=ssd&hash=itemc39db937ba:g:S~sAAeSw8-hrBtEr",
    "posted_at": "2026-11-25T12:16:28+00:00"
   },
   {
@@ -517,40 +500,6 @@
    "posted_at": "2026-11-21T20:27:57+00:00"
   },
   {
-   "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 47.4,
-   "shipping_eur": 3.0,
-   "effective_eur": 50.4,
-   "median_eur": 62.89,
-   "discount_pct": 19.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 542 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194313277?_skw=ssd&hash=item3739e1fe3d:g:bZAAAeSw1kBrAB-J",
-   "posted_at": "2026-11-20T10:28:23+00:00"
-  },
-  {
-   "title": "Samsung 860 EVO 500Go 2,5\" SATA III SSD Interne (MZ-76E500) Testé et formaté",
-   "model": "SSD:SATA-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 47.4,
-   "shipping_eur": 3.0,
-   "effective_eur": 50.4,
-   "median_eur": 62.89,
-   "discount_pct": 19.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · juuju7782 (100,0 %, 542 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
-   "posted_at": "2026-11-20T10:13:01+00:00"
-  },
-  {
    "title": "PNY SSD 1 TO CS 900",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -566,6 +515,40 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206710102743?_skw=ssd&hash=item3020e1dad7:g:uO0AAeSwrnxp1M0c",
    "posted_at": "2026-11-18T09:57:21+00:00"
+  },
+  {
+   "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.4,
+   "shipping_eur": 3.0,
+   "effective_eur": 50.4,
+   "median_eur": 62.27,
+   "discount_pct": 19.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · juuju7782 (100,0 %, 542 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237194313277?_skw=ssd&hash=item3739e1fe3d:g:bZAAAeSw1kBrAB-J",
+   "posted_at": "2026-11-20T10:28:23+00:00"
+  },
+  {
+   "title": "Samsung 860 EVO 500Go 2,5\" SATA III SSD Interne (MZ-76E500) Testé et formaté",
+   "model": "SSD:SATA-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.4,
+   "shipping_eur": 3.0,
+   "effective_eur": 50.4,
+   "median_eur": 62.27,
+   "discount_pct": 19.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · juuju7782 (100,0 %, 542 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
+   "posted_at": "2026-11-20T10:13:01+00:00"
   },
   {
    "title": "Kit mémoire RAM Netac Shadow III DDR4 16 Go (2x8 Go) - 3200 Mhz, XMP 2.0, dissipateur aluminium",
@@ -585,6 +568,23 @@
    "posted_at": "2026-11-25T15:32:50+00:00"
   },
   {
+   "title": "SSD SAMSUNG 850 PRO – 512 Go – SATA III – 2,5” - Occasion testé",
+   "model": "SSD:SATA-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 46.25,
+   "shipping_eur": 2.78,
+   "effective_eur": 49.03,
+   "median_eur": 59.0,
+   "discount_pct": 16.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · matthieu2278 (100,0 %, 100 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137962295922?_skw=ssd&hash=item201f319272:g:qDQAAeSwNPZrBxiP",
+   "posted_at": "2026-11-25T17:20:32+00:00"
+  },
+  {
    "title": "Écran PC gaming incurvé 34\" HKC V3419US - UWQHD (3440 x 1440), VA 1500R, 120 Hz, 1 ms, HDR400, FreeSync",
    "model": "MON:34-UWQHD-120Hz",
    "category": "MON",
@@ -600,23 +600,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-incurve-34-hkc-v3419us-uwqhd-3440-x-1440-va-1500r-120-hz-1-ms-hdr400-freesync-3466459",
    "posted_at": "2026-11-23T13:10:07+00:00"
-  },
-  {
-   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 79.74,
-   "shipping_eur": 2.99,
-   "effective_eur": 82.73,
-   "median_eur": 98.94,
-   "discount_pct": 16.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docazmicro_8 (100,0 %, 534 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
-   "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
    "title": "Ecran PC 27\" HKC G27H2DPro - QHD, 200Hz, Dalle IPS, 1ms (Vendeur tiers)",
@@ -672,6 +655,41 @@
  ],
  "unclassified": [
   {
+   "title": "128Go Micron 4x 32 Go DDR4 RDIMM ECC PC4-2400T 288  MTA36ASF4G72PZ-2G3B1IK",
+   "price_raw": "414.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920184169774?_skw=ddr4&hash=itemd63f40252e:g:obkAAeSwvlRrBxYc",
+   "posted_at": "2026-11-25T17:14:35+00:00"
+  },
+  {
+   "title": "Samsung 16 Go DDR4 SO-DIMM PC4-3200AA 260 broches Non-ECC M471A2K43EB1-CWE",
+   "price_raw": "59.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920184189908?_skw=ddr4&hash=itemd63f4073d4:g:6tIAAeSweptrBxkd",
+   "posted_at": "2026-11-25T17:23:01+00:00"
+  },
+  {
+   "title": "Micron 64 Go (4x16 Go) DDR4 RDIMM ECC PC4-3200AA 288 MTA18ASF2G72PDZ",
+   "price_raw": "215.01 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920184197182?_skw=ddr4&hash=itemd63f40903e:g:scoAAeSwGelrBxmI",
+   "posted_at": "2026-11-25T17:27:02+00:00"
+  },
+  {
+   "title": "SK hynix 64 Go (4x16 Go) DDR4 RDIMM PC4-2133P 288 broches HMA42GR7AFR4N-TF",
+   "price_raw": "199.98 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920184158451?_skw=ddr4&hash=itemd63f3ff8f3:g:h~QAAeSwJvtrBxSw",
+   "posted_at": "2026-11-25T17:06:44+00:00"
+  },
+  {
+   "title": "Samsung 64Go (4x16 Go) DDR4 RDIMM ECC PC4-2133P 288 M393A2G40EB1",
+   "price_raw": "199.97 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920184183020?_skw=ddr4&hash=itemd63f4058ec:g:5ocAAeSwQ4VrBxiK",
+   "posted_at": "2026-11-25T17:21:17+00:00"
+  },
+  {
    "title": "PC portable 16'' MSI Crosshair E8WGXK-001FR - QHD+ 240Hz, AMD Ryzen9, 16Go RAM, 1To SSD, RTX5070 12Go VRAM",
    "price_raw": "1 999,99€",
    "source": "dealabs",
@@ -693,13 +711,6 @@
    "posted_at": "2026-11-25T16:25:36+00:00"
   },
   {
-   "title": "Carte mere GIGABYTE GA-880GM-UD2H REV 1.3 SOCKET AM3",
-   "price_raw": "48.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/227631939505?_skw=carte+m%C3%A8re&hash=item34ffebbfb1:g:v5sAAOSwyW5jrgDv",
-   "posted_at": "2026-11-25T16:21:26+00:00"
-  },
-  {
    "title": "PC Portable 15,6\" Acer Aspire Lite 15 - Full HD IPS, Ryzen 5 3500U, RAM 8Go, 256Go SSD, 45 Wh, Sans OS",
    "price_raw": "359,99€",
    "source": "dealabs",
@@ -719,13 +730,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/227631880593?_skw=boitier+pc&hash=item34ffead991:g:yrMAAeSwN~NrBv-t",
    "posted_at": "2026-11-25T15:39:07+00:00"
-  },
-  {
-   "title": "Micro-tour Jonsbo D33 Wood Boîtier PC noir, bois",
-   "price_raw": "126.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336916423061?_skw=boitier+pc&hash=item4e71c8a195:g:xxEAAeSwIAprBwNH",
-   "posted_at": "2026-11-25T15:48:13+00:00"
   },
   {
    "title": "Liseuse électronique magnétique Xteink X4 Classic V2 – Écran E-Ink 4,3”, 16 Go, Wi-Fi, Bluetooth, 68 g, Blanc ou Noir",
@@ -822,7 +826,7 @@
    "title": "Fanxiang S500 Pro SSD NVMe M.2 256Go 512Go 1To 2To PCIe 3.0 Interne PC Portable",
    "price_raw": "79.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174414632?_skw=ssd&hash=itemc84663f328:g:fe8AAeSwiOVrBfn7&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbF%2FP2tzLG9EqHTMIgrWFlx%2BYmPD48PEb2SubM8SfgeukhhC9Oxi4x%2BXA04dkZSUMog0b5Qt%2FHIei8%2BgfZgdBMZt%2F3eHB2irMagnEmym5aXhtmmlSuehk67xpDJR0U35Zxe1fJBr1I8wmQoqjUEk%2FZL6pbm37w%2FZB22hPBs37V%2FrbJ%2BHJR7eXyQsVtIsYLOJK2yfbEJPTmc8Z4Vs7NM9hD%2F7nzvWIFRx9j9G8XggPwE3QKuiK7VAB2BtbjMN50%2Fz%2BdDCWF0HRN%2BLSMhBWnQqDl",
+   "url": "https://www.ebay.fr/itm/860174414632?_skw=ssd&hash=itemc84663f328:g:fe8AAeSwiOVrBfn7&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbF%2FP2tzLG9EqHTMIgrWFlx%2BYmPD48PEb2SubM8SfgeukhhC9Oxi4x%2BXA04dkZSUMog0b5Qt%2FHIei8%2BgfZgdBMZt%2F3eHB2irMagnEmym5aXhtmmlSuehk67xpDJR0U35ZVVwOxc2TSn0v%2FarTtxREAQogGvae6MW1PqvieqObeYsLe5SIMQEjwZ3jmrkWrI%2FxG3yF7jdkM%2Fdqrt%2FXhaDHFCMsNJGKlCyUzsYVQpGm4BDsVGUBzQZ1XsORSH77s8s6VkHQWBiav%2Bteef%2FsVQj4U",
    "posted_at": "2026-11-24T21:02:57+00:00"
   },
   {
@@ -980,13 +984,6 @@
    "posted_at": "2026-11-25T05:26:49+00:00"
   },
   {
-   "title": "carte graphique ATI Radeon 9200LE (référence constructeur R92LE",
-   "price_raw": "24.62 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366693914950?_skw=carte+graphique&hash=item5560a91946:g:DqMAAeSw6p5quAzr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nmBi3whP7JHMGZwjIeL%2BGZw94At8uMlJt2ojWaERwpsPl%2BpJ%2BtMlrXmLn7OQeZBOSujhub7XrPvwjSchGe22cUf1kkZzgOFgddDX7hF1tcADU4fKKXOiehKn7GqoIbww6fHrJjvzoBvDUF3SyQKTeGKzAbvdm2zeNohg0Ja0U%2BEfzo%2FG%2FsVdMNf4gUGbokGrebD4KWbxHWW4lWdIgwfIMPutwGlMSaiawN1I7tXLB89bGrtoAsdbAGRWrxx7CU2g0P85tvMXBkSGdkgtWlChdpm7ZQrSPxG%2BT47KZt6Q%2FzsQ%3D%3D",
-   "posted_at": "2026-09-26T18:33:52+00:00"
-  },
-  {
    "title": "ECRAN PC HP P174 MONITOR ",
    "price_raw": "20.00 EUR",
    "source": "ebay",
@@ -1006,24 +1003,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/880109303749?_skw=%C3%A9cran+pc&hash=itemccea9a37c5:g:11MAAeSwUipq9dPR",
    "posted_at": "2026-11-12T15:04:59+00:00"
-  },
-  {
-   "title": "Mini PC Firebat A6 : Ryzen 7 7735HS, Radeon 680M, 16 Go LPDDR5, SSD 512 Go, Wifi 6 & BT 5.2, Windows 11 Pro (vendeur tiers)",
-   "price_raw": "429€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-firebat-a6-ryzen-7-7735hs-radeon-680m-16-go-lpddr5-ssd-512-go-wifi-6-bt-52-windows-11-pro-vendeur-tiers-3468390",
-   "posted_at": "2026-11-25T00:28:10+00:00"
-  },
-  {
-   "title": "Vasque filaire Beyerdynamic DT770 Pro X LB Black Edition",
-   "price_raw": "159€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/beyerdynamic-dt770-pro-x-lb-black-edition-3468386",
-   "posted_at": "2026-11-25T00:12:37+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1935,
-  "models_with_reference": 80
+  "listings_seen": 1942,
+  "models_with_reference": 79
  }
 }
