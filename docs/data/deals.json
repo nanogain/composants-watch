@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T02:38:00Z",
+ "generated_at": "2026-11-25T03:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-25T02:38:00.673924+00:00"
+   "last_ok": "2026-11-25T03:08:00.629236+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-25T02:38:00.673924+00:00"
+   "items": 370,
+   "last_ok": "2026-11-25T03:08:00.629236+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-25T02:38:00.673924+00:00"
+   "items": 63,
+   "last_ok": "2026-11-25T03:08:00.629236+00:00"
   }
  },
  "watchlist": [
@@ -139,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8HwdrTAspr2%2BI0XtASWb2dCEODa%2F2Uh2OntYbhcWDSFmMsIc8rYFR62PZ8n%2BFF8A2ex7iv2sCM51vTZUU5EM4vwPBP6EuDkEtd4r34PV%2FKm%2FCwRthKzGwbMPM5X1mnvuI%2BF2R67Q7CBTUsQUASpL7DHKqxgmkcSjOyXBe%2FGIYRPA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9DBRYbsY3c61z8XjHqFTijdP4vCohHjqA%2BlKT%2FA82OAzWs0IwUyiWl79NtrEbBTgGpv%2B50%2BjkeJMeoUHnRzD85t67FqZzTklztJqAQw8LrB1gr2BEM30j5zKBQSHx9--erwG0wjZmQaCCOditXEV%2FKH0Vj45thEqNUG0CulJkHkg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -156,7 +156,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzlLFzHlnz3hUsSVHztr8lTqCQ9VcQS6GzPJ2M5BwdIF%2BKDzkvrHZbzClkbi6WYKhdfD%2FykjlyxZdHIELYjMhGLBxzEoWKPUebShKJU7hkXjaiyzabMhBSbTkBdEiCsJD5FnPpibr760bnTfMcFRiXB",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzYaXDVv13ZP9%2BB4arHf7prtIPQ48OQW0wpUqMsfy8j3YiqCeRGML49AR2HrN7DOVKnDBha7JOed9DrjcBLQYQkN9fRVk3P647qKl0CxfgKMv%2FOAKkd5a5htseVI61nYVE4QOXd3ZxqwwrRc2YntJSQ",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -330,23 +330,6 @@
    "posted_at": "2026-11-24T14:51:28+00:00"
   },
   {
-   "title": "Gigabyte | Carte mère B360 HD3P Rev 1.0 | Socket Intel LGA1151 avec IO Shield",
-   "model": "MB:B360",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 79.99,
-   "shipping_eur": 19.99,
-   "effective_eur": 99.98,
-   "median_eur": 127.99,
-   "discount_pct": 21.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · ram-koenig (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/188359925849?_skw=carte+m%C3%A8re&hash=item2bdb206059:g:OoUAAeSwAGZq0kIM",
-   "posted_at": "2026-05-07T23:19:31+00:00"
-  },
-  {
    "title": "Carte Mère MSI B760M Gaming Plus Wifi Micro-ATX, LGA 1700",
    "model": "MB:B760",
    "category": "MB",
@@ -500,23 +483,6 @@
    "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
-   "title": "Kingston moduł pamięci RAM 8 Go DDR5 5600 MT/s do komputera stacjonarnego",
-   "model": "RAM:DDR5-8Go-5600",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 197.48,
-   "shipping_eur": 6.0,
-   "effective_eur": 203.48,
-   "median_eur": 239.75,
-   "discount_pct": 15.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · blackdragondistribution (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407384376614?_skw=ddr5&hash=item5eda004526:g:YGIAAeSwB~5q9QCM",
-   "posted_at": "2026-11-24T00:02:39+00:00"
-  },
-  {
    "title": "SSD M.2 2280 Acer Predator GM6 512 Go PCIe Gen4x4 NVMe 2.0 (vendeur tiers)",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -595,13 +561,6 @@
    "posted_at": "2026-11-24T23:16:57+00:00"
   },
   {
-   "title": "Intel Xeon E3-1220V5 4X 3.00GHz Socket 1151 4 Cœurs Processeur Max. 3.50GHz",
-   "price_raw": "11.24 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237205035828?_skw=processeur&hash=item373a859b34:g:uk0AAOSwsFpm0dB~",
-   "posted_at": "2026-11-24T23:16:58+00:00"
-  },
-  {
    "title": "Ecran PC 32\" LG 32U701SB-B - 4K UHD, HDR10",
    "price_raw": "228,99€",
    "source": "dealabs",
@@ -614,13 +573,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/attack-shark-x6-souris-superlight-49-g-avec-station-3468322",
    "posted_at": "2026-11-24T22:17:20+00:00"
-  },
-  {
-   "title": "PC Boîtier ATX E-ATX Tour Midi Gaming Mesh Verre Trempé Noir Sans Ventilateur",
-   "price_raw": "57.62 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168884894407?_skw=boitier+pc&hash=item275252fac7:g:rBYAAeSwqDxqtlTY",
-   "posted_at": "2026-11-24T22:18:34+00:00"
   },
   {
    "title": "PC de bureau Black aqua - Ryzen 5 5600, 16 Go Ram, RTX 5060 Ti 8 Go",
@@ -770,13 +722,6 @@
    "posted_at": "2026-11-24T11:42:16+00:00"
   },
   {
-   "title": "Autocollants de Clavier Allemand Toutes Les Touches Pour Noir PC Portable",
-   "price_raw": "9.07 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/271305673250?_skw=clavier&hash=item3f2b140a22:g:BuAAAOSw3KFWco~m",
-   "posted_at": "2013-10-25T02:03:10+00:00"
-  },
-  {
    "title": "Boitier PC Asus Tuf Gaming Gt502 Plus Midi - blanc",
    "price_raw": "126,99€",
    "source": "dealabs",
@@ -901,10 +846,31 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/xps-13-ordinateur-portable-intel-core-5-320-16gb-ram-512gb-ssd-3467156",
    "posted_at": "2026-11-23T23:46:10+00:00"
+  },
+  {
+   "title": "Ecran PC 27\" AOC Q27G4ZDRAD - 240Hz QD-OLED Dalle, 0.03ms GtG, HDR10, G-Sync Compatible",
+   "price_raw": "319€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-aoc-oled-3467111",
+   "posted_at": "2026-11-23T22:46:37+00:00"
+  },
+  {
+   "title": "Boitier PC Corsair Air 5400 LX-R RGB iCUE LINK",
+   "price_raw": "202,48€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/corsair-air-5400-lx-r-rgb-icue-link-3467057",
+   "posted_at": "2026-11-23T21:32:29+00:00"
+  },
+  {
+   "title": "Tablette 11\" Apple iPad Pro Wi-Fi 2025 (M5) 256 Go - Noir Sidéral",
+   "price_raw": "1 089€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-ipad-pro-11-wi-fi-2025-m5-256go-noir-sideral-3467046",
+   "posted_at": "2026-11-23T21:16:03+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1891,
-  "models_with_reference": 78
+  "models_with_reference": 76
  }
 }
