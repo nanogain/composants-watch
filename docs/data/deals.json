@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T09:38:00Z",
+ "generated_at": "2026-11-25T10:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-25T09:38:00.850391+00:00"
+   "last_ok": "2026-11-25T10:08:00.673679+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-25T09:38:00.850391+00:00"
+   "items": 378,
+   "last_ok": "2026-11-25T10:08:00.673679+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-25T09:38:00.850391+00:00"
+   "last_ok": "2026-11-25T10:08:00.673679+00:00"
   }
  },
  "watchlist": [
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FcLjM4znvPbB0C%2BCuCx7sa%2B6omv2bLHziFSM8fTfl1%2BAa5XioCuGUMX%2FCLc9IMvvBE8ApgU19O%2FfIGmBevA6XWFhp391ww4606u4XosHaJUx649iAsrCPG7JqGvszKIp0jpeSpALI0q0aHqHE4orwNCZu0IY%2BZbQRE2EUmEaUukg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FXE84Rkui7cR%2FXC1knOL5N5P5qsINoVIRmRwWh3ZbvPJyzz8%2BnOnmRM2uPM3ObiCPGNCWNDp76r2LmhPl0WNW0pgKw0OuVHNnSrZZHxXvJnCa9PwMSFAG25oTDM93OlgFJ9Tqq0f5o1Zn0LqG52mMn6xXPIG3AGEWNd00vMMs1PA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz23fldNxXy4Y5ohse6%2FgBGeZw8mETmt6tMYvglDBYcxXQN24%2FGtg5AwiWMIgkve0XlcVHMJ%2Ffu6n8ezoAzcW2CTXe9wrjavZthPikHgk23kG9TF%2BhNeXDIOXYhJ14ZwfmtC1AasdD4Bgii5NHck64F",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz7ZDhJzu6GeILDvly2WengLSR4o6HMztnwyZw3nu49GFqy95bABxcH8EXlZJV64lMWRH1T%2Bpu%2FwTwG9AANAahoPeESHIzzmto%2FCSZjDUnK%2Fq9P%2BKt0p0JkKFiV58gAZ3x5%2FX0KGLvDv0ME7C94Wdem",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -358,9 +358,9 @@
    "discount_pct": 26.7,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · topdeal-market (100,0 %, 143 avis)",
+   "merchant": "eBay · topdeal-market (100,0 %, 144 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjQr1IbYPSUtrhtCBW4iAgbvkCG2m%2FxKVZWZnEoxoaUfxJjwxFwrFx0X8ZwBUf6NAaqmMZmCiKox3xlV5FICcXlgBd8GVMuCY2e2S0GZ2Im5MSo3FvAi9J0TxjvHjwN6n7N8%2B7fv6RnEzjxaRv5xr5o",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRhO%2FU2ApgbCbEH0rm0%2F48In0D8zL9ni6luYOOLUOW8%2BpUqD3tx3DOFUj3buYebnnCOJhhYkNYHdqAE4GMVGnHGuoBcYQcC16CutstnNfuUJH0MPfDC9iGyJBw%2FBVewae%2FTP1FAzZhoeFUkrbdAS%2BA7z",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -456,8 +456,8 @@
    "price_eur": 384.7,
    "shipping_eur": null,
    "effective_eur": 384.7,
-   "median_eur": 499.99,
-   "discount_pct": 23.1,
+   "median_eur": 499.5,
+   "discount_pct": 23.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
@@ -568,6 +568,23 @@
    "posted_at": "2026-11-18T09:57:21+00:00"
   },
   {
+   "title": "JUHOR RAM DDR5 32GO (2x16) 6000Mhz CL38?",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 404.7,
+   "shipping_eur": null,
+   "effective_eur": 404.7,
+   "median_eur": 499.5,
+   "discount_pct": 19.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/juhor-ram-ddr5-32go-2x16-6000mhz-cl38-3468700",
+   "posted_at": "2026-11-25T10:03:29+00:00"
+  },
+  {
    "title": "Écran PC gaming incurvé 34\" HKC V3419US - UWQHD (3440 x 1440), VA 1500R, 120 Hz, 1 ms, HDR400, FreeSync",
    "model": "MON:34-UWQHD-120Hz",
    "category": "MON",
@@ -672,13 +689,6 @@
  ],
  "unclassified": [
   {
-   "title": "mini-tour Thermaltake The Tower 200 Boîtier PC vert racing 2 ventilateurs",
-   "price_raw": "98.98 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267854163421?_skw=boitier+pc&hash=item3e5d5a2ddd:g:tsEAAeSwkIVrBqlU",
-   "posted_at": "2026-11-25T09:24:33+00:00"
-  },
-  {
    "title": "Imprimante Multifonction HP Smart Tank 655 – Wi-Fi et Bluetooth, Réservoir d’encre, Couleurs",
    "price_raw": "114,99€",
    "source": "dealabs",
@@ -759,7 +769,7 @@
    "title": "Écran PC Fujitsu L22T-7 LED 21.5 Pouces Full HD Haut-parleurs DVI VGA Reconditio",
    "price_raw": "79.35 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860175630817?_skw=%C3%A9cran+pc&hash=itemc8467681e1:g:IbwAAeSw6eRrBo6O",
+   "url": "https://www.ebay.fr/itm/860175630817?_skw=%C3%A9cran+pc&hash=itemc8467681e1:g:IbwAAeSw6eRrBo6O&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mRbJs6hYxr92yojwulwCQiS5aZGzILWdeJcJgMHDPdQnObNpPoKEFRwSPFx%2FKfQflTNLfosYRWiSbBaL9d4lOOyja623HH5kVeFbnL9%2FxD96aHOB8ft7d3riS3hDWzQ%2B3s2nrEnF9%2Ba2rHMwcHNikdm0vjTQ39vvH9MjX8GCFyu3%2B9O%2BKDVlls2niJyjn3S9%2Bp3nj1sRtssZD9ED%2B14Fx3ARPb5y7Tl7cQsgROSxbYUSsMJTZJMmNMBq%2B9eRTN8iTyRq%2FVNW9ldzmEkvRuoXhyOP%2FX7c8PIvWVDw9oJUJbaQ%3D%3D",
    "posted_at": "2026-11-25T07:17:06+00:00"
   },
   {
@@ -962,7 +972,7 @@
    "title": "Boîtier Dell Dimension E521 vide ventilateur connectique réparation PC rétro OEM",
    "price_raw": "39.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287755404502?_skw=boitier+pc&hash=item42ff8f04d6:g:FzcAAeSw~5lrBY78&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpbMP1jbfi1kD3cbGffpHiCNuHlGHNJoEYKGklW00GHPF0dReEz%2BLtRuT0Y%2Bt0GE5nxLy5Ifg%2FxGSmGNqgj92KeXiT9V6Kcl2BqS7kIGxQaBjsSnAfljrecYT9QcimZsGD%2Fpc2idypqsWN0aAfTbWtaJEK8jH9ISDdv%2BjoR76qRfEId2GvH%2FU0AVJQbnfP0C81HwhJMJPGD9WalKZw9A1eUtts6dH2PH3orGTgwao8c9oOsxbcKyna%2BqdwPrfOHueKjvfAeKzjvKT3A604CcFxkxQNQuIPzxoH8vkZp6VxwQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287755404502?_skw=boitier+pc&hash=item42ff8f04d6:g:FzcAAeSw~5lrBY78&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mpbMP1jbfi1kD3cbGffpHiCNuHlGHNJoEYKGklW00GHPF0dReEz%2BLtRuT0Y%2Bt0GE5nxLy5Ifg%2FxGSmGNqgj92KeXiT9V6Kcl2BqS7kIGxQaBjsSnAfljrecYT9QcimZsHFd22UwCV6Tvfxn0d1fX%2BSSsoNjUTtkAEHHfpB0oFRHVgYq4JCc2g2YPNgO1mqTd8%2F7iZvhKVZXzctSeTY%2B4w%2F8%2FZlKGZbcjVZzDSneMo28Oj5swj0WS%2FAVN%2B7MrG7RgexaLlOOcthGZjlbSsaXfs8dJSJHjN2pBpQxoP9iZUdQQ%3D%3D",
    "posted_at": "2026-11-24T13:21:32+00:00"
   },
   {
@@ -1020,10 +1030,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-graphique-xp-pen-artist-156-pro-v2-ecran-154-stylet-x3-pro-16k-3467577",
    "posted_at": "2026-11-24T10:38:37+00:00"
+  },
+  {
+   "title": "Souris sans fil Logitech G PRO X SUPERLIGHT 2 - Blanc",
+   "price_raw": "69,66€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/logitech-g-pro-x-superlight-2-souris-gaming-sans-fil-blanc-3467554",
+   "posted_at": "2026-11-24T10:20:32+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1901,
-  "models_with_reference": 76
+  "listings_seen": 1900,
+  "models_with_reference": 75
  }
 }
