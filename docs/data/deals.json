@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T19:08:00Z",
+ "generated_at": "2026-11-26T19:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-26T19:08:00.674634+00:00"
+   "items": 346,
+   "last_ok": "2026-11-26T19:38:00.674946+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 377,
-   "last_ok": "2026-11-26T19:08:00.674634+00:00"
+   "items": 375,
+   "last_ok": "2026-11-26T19:38:00.674946+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-26T19:08:00.674634+00:00"
+   "last_ok": "2026-11-26T19:38:00.674946+00:00"
   }
  },
  "watchlist": [
@@ -194,6 +194,23 @@
    "posted_at": "2026-11-26T16:10:00+00:00"
   },
   {
+   "title": "ASRock Rack B450D4U-V1LQ5 - AMD B450 - DDR4 Ram - BTO Carte Mère Socket AM4",
+   "model": "MB:B450",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 42.6,
+   "shipping_eur": 0.0,
+   "effective_eur": 42.6,
+   "median_eur": 72.88,
+   "discount_pct": 41.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · alpha38 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:UQMAAeSwdj1rAEJI",
+   "posted_at": "2026-11-22T22:16:21+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -207,8 +224,25 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8aQU7vfmc%2BsOWZtfUtKKibzOxrmOmqO6JqBOQUla%2B9sXOdy5pxcK9yr7OYkJVzINub5zajV6IacpillZ4iDidaH8BTCMBbvbBLmrCbi5%2Fl6QwX0w7q7svPjtggdKZF2tZsSo9lmKGYBg9JyDRbrFFyHIlR2G7vnyB%2FnS9wWXCTwg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FzhJEYayGlr7c6USIQUotcbhho47xAtJTjdM7dXOVnZqeVEjeHxZfHhcpgXMOcUteItl2PVasexA1vSVpHv%2FP7KweyL3B8OcaEw0wb7w9D7gsgYG5kzSi%2BBt70u3S%2B2CPKDVFCwGwcKZ3CmI3s23G9CnOdY8wgi0WBsfLoHvpS1w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tanzen_store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwM%2BVgMZ2Rn1Y6WjgAzGRVsNF%2FLthXypS5CP2e4P%2BOlq84dSUZFEtNGFOFw9ryaSNHjoTbtBK%2BOEOMupGE6RoqDy37HVpacsFq%2B6hwdv1DU8R5EMYwXZxY4MxoVGHE2tZj35xwCVgfc2qI%2Be%2B3a5gv%2B",
+   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -377,7 +411,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (99,3 %, 151 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRiArrs3bECs%2FRGjECemwprXMEYYuVARk8p%2BHV2EMh5CgsfbD3NoeKKdS5ibED0PV4KkkWT%2Fi8zPXLmJWQw0VWsPHIT%2By5JDQK3oyGYTS5wIA%2FSuDmq%2F9btA0ej5JHqAfQRoBbVx6yMC%2F7eWS%2FJXzqgj",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRicRFgnKTSbMrr3nV0UC1TW4bJ7KXiVIFptHdxIcDiuOdcQJbFApoWTZgH7VPPlj81b%2F3lu5CWkUF87MujRaBIWDPdEAcKCiY0ps6zhJ5a3Ia3TVyoKIXc1%2FnW92sTIeUM9Azd8NU6tCvVxysmHUT%2BC",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -568,6 +602,23 @@
    "posted_at": "2026-11-20T10:13:01+00:00"
   },
   {
+   "title": "Samsung PM9A1 SSD interne 512 Go M.2 2280 NVMe PCIe MZVL2512HCJQ-00BD7",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 47.5,
+   "shipping_eur": 0.0,
+   "effective_eur": 47.5,
+   "median_eur": 57.77,
+   "discount_pct": 17.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · lamaletale (100,0 %, 533 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117543822972?_skw=ssd&hash=item1b5e28667c:g:OxwAAeSwAGtrCISW",
+   "posted_at": "2026-11-26T19:15:32+00:00"
+  },
+  {
    "title": "Écran PC gaming incurvé 34\" HKC V3419US - UWQHD (3440 x 1440), VA 1500R, 120 Hz, 1 ms, HDR400, FreeSync",
    "model": "MON:34-UWQHD-120Hz",
    "category": "MON",
@@ -672,6 +723,34 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 16\" Gigabyte Aorus Master 8XJJ4FRE64SH - OLED, Ryzen 9 8940HX, 32GO, 5070 Ti (+220€ sur le compte adhérent)",
+   "price_raw": "2 299,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-gigabyte-aorus-master-oled-ryzen-9-8940hx-32go-5070-ti-3470756",
+   "posted_at": "2026-11-26T19:25:09+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Acer Aspire 14 AI - Ryzen AI, 16 Go RAM, 512 Go SSD",
+   "price_raw": "699€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/acer-aspire-14-ai-pc-portable-14-ryzen-ai-16gb-512gb-3470733",
+   "posted_at": "2026-11-26T19:06:25+00:00"
+  },
+  {
+   "title": "Kingston DDR5 RAM 8 Go 5600 MT/s DIMM CL46 Non-ECC 1,1 V",
+   "price_raw": "197.48 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407391287298?_skw=ddr5&hash=item5eda69b802:g:tR4AAeSwys9rCIPV",
+   "posted_at": "2026-11-26T19:09:04+00:00"
+  },
+  {
+   "title": "Kingston DDR5 RAM 16GB 5600MT/s DIMM CL46 Non-ECC 1,1V",
+   "price_raw": "365.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407391303598?_skw=ddr5&hash=item5eda69f7ae:g:VGkAAeSwyw1rCIbe",
+   "posted_at": "2026-11-26T19:22:02+00:00"
+  },
+  {
    "title": "Souris gaming sans fil Sony Inzone Mouse-A - 48,4 g, 8000 Hz, capteur 30K DPI, 90 h d'autonomie",
    "price_raw": "99€",
    "source": "dealabs",
@@ -686,17 +765,10 @@
    "posted_at": "2026-11-26T18:38:29+00:00"
   },
   {
-   "title": "KINGSTON DDR5 8 Go 5600 MT/s CL46 DIMM",
-   "price_raw": "268.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880155041790?_skw=ddr5&hash=itemcced541ffe:g:RCQAAeSwnMJrCH3p",
-   "posted_at": "2026-11-26T18:43:54+00:00"
-  },
-  {
    "title": "Écran pc incurvé Samsung C27f396fhu",
    "price_raw": "261.39 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVcZGcz6g%2Bw%2Bv5QQlRzFOnFEJ8V70WTD%2FcDEmj%2BvDVHoXxZ8LQ%2Fh7t9sLCeN%2FmsD8XMXI1UoObxBVTs6qy5Hsqf78tQiXl6Bh%2B5b5dqBdpQxI%2BixPWNLxiJ4CwRzbaJXjmGUPFLu8tdeRoyexbcWhYN4SD0IIOo1rYbtkVy0rqpnfw%3D%3D",
+   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVeqaC8wcmX2ojOMJUF1%2F1hx94uBkJeSWbpeL7MYeFTY%2BBTJC5WdKBU9J4n4Ltuqc8p7I2vcyXd4O5IqqeqnkbsWARAKXXeVBDU3gJV11VLRMSlzdr21RCiLBYFUwL6r2K1yk1mzcz5XPCidYyZ%2Bx%2FziZXz96nRO3lK5rbdiCx4hTA%3D%3D",
    "posted_at": "2026-11-26T18:35:10+00:00"
   },
   {
@@ -768,13 +840,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-fixe-gamer-flowup-ryzen-5-5600-radeon-rx-9060-xt-16go-ram-500go-ssd-wifi-win-11-via-230eur-fidelite-3470572",
    "posted_at": "2026-11-26T17:12:37+00:00"
-  },
-  {
-   "title": "Carte mère Gigabyte GA-z68ma-d2h-b3 +processeur intel pentium g620",
-   "price_raw": "31.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117543677892?_skw=carte+m%C3%A8re&hash=item1b5e262fc4:g:RbYAAeSwsF5rCGvK",
-   "posted_at": "2026-11-26T17:30:18+00:00"
   },
   {
    "title": "PC de bureau BlackCyber - Ryzen 7 5700X, RTX 5060 8 Go, 16 Go RAM DDR4, 512 Go SSD",
@@ -878,7 +943,7 @@
    "title": "Alimentation PSU ordinateur DELL 180w pour format SFF OptiPlex 3040/5040/7040",
    "price_raw": "24.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH3slJ6BhB38G9ZBmq%2BbB2Iw1O0eIET0IWAeDoBVH1CIaJefvQQv4rjiahe8KXc%2FkSZkC1iNli%2Bgs%2F5726ws%2FCJX4YWafV%2Bta6hg9YaDp7opWz%2B%2FW0WW16WnqVkyW%2FoYiMU2KmVFSLRlbiOWEE18UlS%2BzGtL2j1qTxvPrCqqTenb5w%3D%3D",
+   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH1rFAlsx3tiRuVs70WVYXVVN2XuFL3vfJMrZTh1LIhZs%2BqZMcWKxN3Noitk5SYQ7if0lwfrPJTQLBXlqhieciGdlzvWc2ztiDZLzKmqQLqKyX8%2BCwcFEEzt6Mgz4uYD8X%2FW0iJ%2BthzkNwDhdthH9R0Q48yJyYq7ls3I1VC4Num55g%3D%3D",
    "posted_at": "2026-10-13T12:25:13+00:00"
   },
   {
@@ -962,7 +1027,7 @@
    "title": "RAM DDR5 Micron 8GB 1RX16 PC5-4800B Pour Pc Portable",
    "price_raw": "79.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3iR%2BiT%2BKuRpM%2BU3%2ByQ0MOcErbroh4c%2Fg80SCdwsN9lGiTMKPd72Wu9fJ0iqSCe5ZIgkXvg%2BSy62Ks4%2Bpe7yPkzyrPJINflec9Obl4yLL26zr%2F5Wrj%2Fm2erjGNU7QBv8r%2BX0%2FbWdFpCY%2B4tf22EYNqm5",
+   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3gL0%2BEoMpbAK5DeeZiurwpHcjbjWbEQKDOK%2FRaFDOKxkKiojILo%2Fgm%2F0KohnIjdMq4Qso6N4IoUTlfHjjgVGvooEtteyaF2JQ%2BHzSm%2BAy8jP0wDSUaiTMb0ZI3iYHOQFWJZN%2BMhxeiKnwM%2FE7VIb8f8",
    "posted_at": "2026-11-23T10:24:28+00:00"
   },
   {
@@ -1006,24 +1071,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336918142270?_skw=ddr5&hash=item4e71e2dd3e:g:4eYAAeSwS6FrCESU",
    "posted_at": "2026-11-26T14:39:14+00:00"
-  },
-  {
-   "title": "Kingston Fury™ Beast RGB DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C30 - AMD EXPO - No",
-   "price_raw": "548.55 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142295?_skw=ddr5&hash=item4e71e2dd57:g:ODgAAeSwBfJrCESZ",
-   "posted_at": "2026-11-26T14:39:15+00:00"
-  },
-  {
-   "title": "Be Quiet! Silent Loop 3 420 mm - Watercooling",
-   "price_raw": "171.91 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142465?_skw=watercooling&hash=item4e71e2de01:g:8hEAAeSwGQNrCESg",
-   "posted_at": "2026-11-26T14:39:24+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1993,
-  "models_with_reference": 79
+  "listings_seen": 1988,
+  "models_with_reference": 80
  }
 }
