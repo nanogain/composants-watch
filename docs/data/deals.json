@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T15:08:00Z",
+ "generated_at": "2026-11-26T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-26T15:08:00.680967+00:00"
+   "items": 339,
+   "last_ok": "2026-11-26T15:38:00.674612+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 401,
-   "last_ok": "2026-11-26T15:08:00.680967+00:00"
+   "items": 393,
+   "last_ok": "2026-11-26T15:38:00.674612+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-26T15:08:00.680967+00:00"
+   "last_ok": "2026-11-26T15:38:00.674612+00:00"
   }
  },
  "watchlist": [
@@ -190,7 +190,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8qXT2l2DGO3dyK3bpUoMdGmZvzTg8VpbqPhvYW%2FOXTHP42aMePC5d9sfE6xIlaHP9rUltFG%2FGjl5F3tOItAZak0Chs6AcCtcUpxTi%2FJkNP49zwCzUG%2FGiNiJ7uXaGUSux6%2BHxgsrBlyxQIBPgIQPqx2DXZ8Ky6ty5O7XB82qi1Pg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FONE0xn7xvrws%2Bf3%2FdgR3wKGYGqs8Z2aIIUBfC7by0OPT1L5HR3wwLBtYu9fIr3dQNZz4aH5%2Bp3EZ55e%2BJe2Sed8umfrhxfykLe2e9RRnLeBW3kAFETygmLEgKZuO5Iz1mPtFiY39Sj4o0w379oASIrTLuCp1JCwVZXb3d%2FOJwPA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 258 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKVdnjIcs%2BpauxfsR5QV2j16v3qKujKjlrucfijsoJR1HNlDasp54%2FwmtuiZnIfTmmmoUyQcL1maS09uA8EteRGxmyWvvZjItfk%2B6KNaFX5cI1gdFwvetdBrtPHwJA%2Bvlt61zLCLip7OUsO1e7eSTv2K",
+   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKULsF%2BcWMgz3uANP3nvFRxID9HiW9fOyjXP4EEMCpd5Y6uY3pTKFQc4IeWBhYb9IChFWE%2FQqwaw0R7rLzGweCjnKWJGiA8MKCodqAZGdurPazdqE0uRE8x8r%2BjsD9nyQwIoiHHN%2FWF5izujf%2Bk1vY%2Fu",
    "posted_at": "2026-11-24T11:41:43+00:00"
   },
   {
@@ -226,6 +226,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-1-to-25-sata-iii-6gbs-ahci-3d-nand-qlc-3468677",
    "posted_at": "2026-11-25T14:59:36+00:00"
+  },
+  {
+   "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
+   "model": "RAM:DDR5-32Go-5600",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 469.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 469.99,
+   "median_eur": 686.75,
+   "discount_pct": 31.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · retro-flo (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117412302291?_skw=ddr5&hash=item1b56518dd3:g:akUAAeSwridpwzMR",
+   "posted_at": "2026-09-14T15:20:30+00:00"
   },
   {
    "title": "Samsung 850 EVO 2 To SSD 2,5\" SATA III MS-75E2T0 - Occasion testé",
@@ -292,7 +309,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (99,3 %, 151 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRj8WMuZ6QVBmnCWG3yJkZ5AsE7igN9hvpaF%2Bxi6LIZLk8tJVBbx%2Fb3L9oG4OJnnQPwS5RFy%2BNG1qikqXLYOLbtfIhNvaTu%2BHDCceWCuIGKSrssX8gp10wWC%2FktE67ELHUkKzX4D9DdxXrXKZAr9uMAs",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRi3WO8on%2B%2B9dxauqQ4PGBRRYWrWTpNh4LjEPjatNJhJK9Jfc3O6HOSWQi2VOKW%2FeVO30aaw1eYAfUsk1Fds3nMa8lOgBSdnb2CK8%2BufD%2BkKNFG0Knherzxp7qjuhM%2Fp%2B75EUo81v2t0u22Xx%2BZWhvxF",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -311,6 +328,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-pny-cs1030-m2-nvme-pcie-250go-2-pour-89eur-3465433",
    "posted_at": "2026-11-22T16:19:39+00:00"
+  },
+  {
+   "title": "MSI B360M MORTAR",
+   "model": "MB:B360",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 89.0,
+   "shipping_eur": 8.99,
+   "effective_eur": 97.99,
+   "median_eur": 127.99,
+   "discount_pct": 23.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · celercards (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960236293125?_skw=carte+m%C3%A8re&hash=itemdf928b0c05:g:GzUAAeSw~oZrBMUt",
+   "posted_at": "2026-11-23T23:43:58+00:00"
   },
   {
    "title": "SK hynix SC401 512 Go SSD 2,5\" SATA III 7mm - Occasion testé",
@@ -553,6 +587,62 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 16\" Gamer Asus TUF Gaming F16 TUF607 - WUXGA IPS 144 Hz,, Intel Core 5 210H, 16 Go RAM, 512 Go SSD, RTX 4050 6 Go 140W, Sans OS",
+   "price_raw": "774,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-gamer-asus-tuf-gaming-f16-tuf607-wuxga-ips-144-hz-intel-core-5-210h-16-go-ram-512-go-ssd-rtx-4050-6-go-140w-sans-os-3470303",
+   "posted_at": "2026-11-26T15:31:24+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Gigabyte - A16 CTHH3FR893SD, FHD+, RTX 5060, i5-13420H, RAM 16Go, SSD 512Go, Sans Windows",
+   "price_raw": "949,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-gigabyte-sans-windows-gaming-a16-cvhh3fr893sd-16-fhd-rtx-5060-i5-13420h-ram-16go-ssd-512go-3470407",
+   "posted_at": "2026-11-26T15:29:04+00:00"
+  },
+  {
+   "title": "PC Portable gaming 15.1\" Lenovo Legion 5 15IRX10 - OLED 165Hz (2560x1600), i7-13650HX, RAM 16 Go, SSD 512 Go, RTX 5070 115W, Sans OS",
+   "price_raw": "1 524,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-151-lenovo-legion-5-15irx10-oled-165hz-2560x1600-i7-13650hx-ram-16-go-ssd-512-go-rtx-5070-115w-sans-os-3470381",
+   "posted_at": "2026-11-26T15:09:41+00:00"
+  },
+  {
+   "title": "Barette Ram 16GO DDR4 RAMAXEL 3200AA non ECC",
+   "price_raw": "94.30 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920187788126?_skw=ddr4&hash=itemd63f775b5e:g:n-EAAeSwNARrCFCT",
+   "posted_at": "2026-11-26T15:33:56+00:00"
+  },
+  {
+   "title": "Barette kingston server premier KSM26RD8/16 HDI 2666V ECC CL19",
+   "price_raw": "155.66 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920187748691?_skw=ddr4&hash=itemd63f76c153:g:hgsAAeSwS8prCExb",
+   "posted_at": "2026-11-26T15:18:32+00:00"
+  },
+  {
+   "title": "RAM DDR5 Micron 8GB 1RX16 PC5-4800B Pour Pc Portable",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3jEcZUOn%2BW%2BT5ImcRUl0nhJqeCB%2FaRoZMEjcsxHnev%2Fw4SRX4oRSlDgLdUqRSmr4tBOX00vSjFblIXlLh7oV4AvhA%2BGMUfjKYBUou%2BWBhwrm99NF2gUif2yUzhXTqCQMbhHlaRHA%2FvXQI2WMrzjVCWe",
+   "posted_at": "2026-11-23T10:24:28+00:00"
+  },
+  {
+   "title": "TECURS Clavier sans Fil Ergonomique AZERTY Français 2,4 GHz Gris Rechargeable",
+   "price_raw": "68.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920187788841?_skw=clavier&hash=itemd63f775e29:g:MBsAAeSwe-9rCFF0",
+   "posted_at": "2026-11-26T15:34:23+00:00"
+  },
+  {
+   "title": "Stream Dock Console Streaming Clavier Programmable LCD Gaming OBS YouTube",
+   "price_raw": "35.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/900123730002?_skw=clavier&hash=itemd1938e2052:g:LakAAeSwuANrCEzm",
+   "posted_at": "2026-11-26T15:15:05+00:00"
+  },
+  {
    "title": "Lot de 2 Écrans PC gaming 27\" AOC 27G50F - FHD, Dalle IPS, 180Hz, 0.5ms, HDR10, Compatible G-Sync",
    "price_raw": "159,99€",
    "source": "dealabs",
@@ -616,20 +706,6 @@
    "posted_at": "2026-11-26T14:39:41+00:00"
   },
   {
-   "title": "G.Skill Trident Z5 RGB DDR5 - 48 Go (2 x 24 Go) - 7200 MT/s - C36 - Silver",
-   "price_raw": "4234.72 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142294?_skw=ddr5&hash=item4e71e2dd56:g:LgUAAeSwxURrCESY",
-   "posted_at": "2026-11-26T14:39:15+00:00"
-  },
-  {
-   "title": "G.Skill Flare X5 DDR5 - 48 Go (2 x 24 Go) - AMD EXPO - 6000 MT/s - C30 - Noir",
-   "price_raw": "1901.06 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918143097?_skw=ddr5&hash=item4e71e2e079:g:rfoAAeSwi01rCETG",
-   "posted_at": "2026-11-26T14:40:01+00:00"
-  },
-  {
    "title": "G.Skill Ripjaws M5 RGB DDR5 - 48 Go (2 x 24 Go) - 6000 MT/s - C30 - Black",
    "price_raw": "1860.97 EUR",
    "source": "ebay",
@@ -644,109 +720,11 @@
    "posted_at": "2026-11-26T14:38:35+00:00"
   },
   {
-   "title": "G.Skill Flare X5 DDR5 - 32 Go (2 x 16 Go) - AMD EXPO - 6400 MT/s - C32 - Noir",
-   "price_raw": "1754.41 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142798?_skw=ddr5&hash=item4e71e2df4e:g:lV4AAeSwUJJrCESz",
-   "posted_at": "2026-11-26T14:39:44+00:00"
-  },
-  {
    "title": "G.Skill Trident Z5 Neo RGB DDR5 - 48 Go (2 x 24 Go) - 8000 MT/s - C40 - Black",
    "price_raw": "1877.85 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336918142347?_skw=ddr5&hash=item4e71e2dd8b:g:R4cAAeSwkIVrCESb",
    "posted_at": "2026-11-26T14:39:18+00:00"
-  },
-  {
-   "title": "G.Skill Trident Z5 RGB DDR5 - 48 Go (2 x 24 Go) - 6800 MT/s - C34 - Black",
-   "price_raw": "4234.72 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918141428?_skw=ddr5&hash=item4e71e2d9f4:g:likAAeSwpH5rCERl",
-   "posted_at": "2026-11-26T14:38:25+00:00"
-  },
-  {
-   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 8000 MT/s - C38 - White",
-   "price_raw": "1936.93 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918141629?_skw=ddr5&hash=item4e71e2dabd:g:xWsAAeSwBPVrCERx",
-   "posted_at": "2026-11-26T14:38:37+00:00"
-  },
-  {
-   "title": "G.Skill Ripjaws M5 RGB DDR5 - 64 Go (2 x 32 Go) - 6000 MT/s - C30 - Black",
-   "price_raw": "2158.48 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142621?_skw=ddr5&hash=item4e71e2de9d:g:0voAAeSwHQtrCESr",
-   "posted_at": "2026-11-26T14:39:33+00:00"
-  },
-  {
-   "title": "G.Skill Flare X5 DDR5 - 48 Go (2 x 24 Go) - AMD EXPO - 5200 MT/s - C40 - Noir",
-   "price_raw": "1721.71 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142933?_skw=ddr5&hash=item4e71e2dfd5:g:MlcAAeSwiV5rCES8",
-   "posted_at": "2026-11-26T14:39:52+00:00"
-  },
-  {
-   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 48 Go (2 x 24 Go) - 6400 MT/s - C32 -White",
-   "price_raw": "1918.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918141684?_skw=ddr5&hash=item4e71e2daf4:g:nF4AAeSw0ahrCER1",
-   "posted_at": "2026-11-26T14:38:40+00:00"
-  },
-  {
-   "title": "G.Skill Trident Z5 RGB DDR5 - 64 Go (2 x 32 Go) - 6800 MT/s - C34 - Black",
-   "price_raw": "3521.54 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918141699?_skw=ddr5&hash=item4e71e2db03:g:KMoAAeSwNARrCER4",
-   "posted_at": "2026-11-26T14:38:42+00:00"
-  },
-  {
-   "title": "G.Skill Trident Z5 RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C32 - Black",
-   "price_raw": "1298.65 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142409?_skw=ddr5&hash=item4e71e2ddc9:g:5RMAAeSwd3ZrCESe",
-   "posted_at": "2026-11-26T14:39:22+00:00"
-  },
-  {
-   "title": "G.Skill Aegis 5 DDR5 - 64 Go (2 x 32 Go) - 5600 MT/s - C36",
-   "price_raw": "1673.18 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142257?_skw=ddr5&hash=item4e71e2dd31:g:PnMAAeSwS8prCESV",
-   "posted_at": "2026-11-26T14:39:13+00:00"
-  },
-  {
-   "title": "G.Skill Aegis 5 DDR5 - 32 Go (1 x 32 Go) - 6000 MT/s - C36",
-   "price_raw": "785.92 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918141849?_skw=ddr5&hash=item4e71e2db99:g:oPcAAeSwAg9rCER7",
-   "posted_at": "2026-11-26T14:38:47+00:00"
-  },
-  {
-   "title": "G.Skill Aegis 5 DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C36",
-   "price_raw": "813.35 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142351?_skw=ddr5&hash=item4e71e2dd8f:g:Pf4AAeSwrqFrCESa",
-   "posted_at": "2026-11-26T14:39:18+00:00"
-  },
-  {
-   "title": "G.Skill Aegis 5 DDR5 - 32 Go (2 x 16 Go) - 5200 MT/s - C40",
-   "price_raw": "849.22 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142739?_skw=ddr5&hash=item4e71e2df13:g:OqYAAeSwtLBrCESw",
-   "posted_at": "2026-11-26T14:39:40+00:00"
-  },
-  {
-   "title": "Corsair Vengeance® DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s C28 - AMD EXPO - Gris",
-   "price_raw": "797.53 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142916?_skw=ddr5&hash=item4e71e2dfc4:g:xQQAAeSwmnNrCES7",
-   "posted_at": "2026-11-26T14:39:51+00:00"
-  },
-  {
-   "title": "G.Skill Aegis 5 DDR5 - 64 Go (2 x 32 Go) - 6000 MT/s - C36",
-   "price_raw": "1552.91 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918143034?_skw=ddr5&hash=item4e71e2e03a:g:taEAAeSwnPBrCETB",
-   "posted_at": "2026-11-26T14:39:57+00:00"
   },
   {
    "title": "Be Quiet! Silent Loop 3 420 mm - Watercooling",
@@ -850,7 +828,7 @@
    "title": "Processeur Intel Xeon E5-2697 v2 2,7 GHz 12 cœurs LGA 2011 SR19H",
    "price_raw": "84.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287647701341?_skw=processeur&hash=item42f923995d:g:G9YAAeSwJyBqz3J~&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7msofhrSKM2dgOKTggsX4KWkQfO8adTRD1Gw22J0dA1%2BZQSQ0tekVJmYivZnYYKWeT44Vgp%2F9kA2a2XlqF9lmh3wPDxhVK32BZTAg%2BqxPjd5zHGKj8tMGmiKTFSUz%2BL2EDROWTwNbBPSxYBwCgzLABqEz%2B1Eq37%2Bvx6brtjk7PZ6zb9vAMj14%2FmglpkHAWuZupqCdK9oizYoG%2BncYI3v1YSzyVNh3b6RzYgFFhaJY9CTZbqutrhdjJ9Sqy1JM7FHE6mQHIbQco1us11YcAJfBoS",
+   "url": "https://www.ebay.fr/itm/287647701341?_skw=processeur&hash=item42f923995d:g:G9YAAeSwJyBqz3J~&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7msofhrSKM2dgOKTggsX4KWkQfO8adTRD1Gw22J0dA1%2BZQSQ0tekVJmYivZnYYKWeT44Vgp%2F9kA2a2XlqF9lmh3wPDxhVK32BZTAg%2BqxPjd5zHGKj8tMGmiKTFSUz%2BL2ECS181rK1iuTreg1Sp5GAqANXXN8Q9UW1Km%2BYnK2dubGKfitlEc9igXs8yFRSbfBJ6IoeEdr%2BOreOsg2DGADR%2BCxjMaei2tJbW1D8xf5Fexu6JSNZFcT8lPGUY2pxttecUb6ky%2FqAUDxqU%2BqGB%2Blkzy",
    "posted_at": "2026-10-14T12:16:19+00:00"
   },
   {
@@ -901,10 +879,66 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-gamer-monte-flowup-blazeforce-ryzen-7-5700x-rtx-5060-8-go-32-go-ram-ddr4-ssd-1-to-via-flowup-3470125",
    "posted_at": "2026-11-26T11:42:54+00:00"
+  },
+  {
+   "title": "Dashcam Voiture Avant/Arrière BOTSLAB G300H Plus 4K + 1080p - Double capteur Sony STARVIS 2, Wi-Fi 5,8 GHz, GPS intégré (vendeur tiers)",
+   "price_raw": "94,75€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/dashcam-voiture-avantarriere-botslab-g300h-plus-4k-1080p-double-capteur-sony-starvis-2-wi-fi-58-ghz-gps-integre-3470026",
+   "posted_at": "2026-11-26T11:25:21+00:00"
+  },
+  {
+   "title": "NVIDIA carte graphique GEFORCE GTX 1070 Ti FOUNDERS EDITION",
+   "price_raw": "104.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206728446579?_skw=carte+graphique&hash=item3021f9c273:g:HlkAAeSw3Uxq8HMT",
+   "posted_at": "2026-11-26T11:23:28+00:00"
+  },
+  {
+   "title": "Keycap Princesse Mononoké – La gardienne de la forêt sur votre clavier",
+   "price_raw": "15.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117543124522?_skw=clavier&hash=item1b5e1dbe2a:g:OskAAeSwkIVrCAzO",
+   "posted_at": "2026-11-26T10:42:36+00:00"
+  },
+  {
+   "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
+   "price_raw": "1 089€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-avec-puce-apple-m6-argent-processeur-12-coeurs-et-carte-graphique-12-coeurs-16-go-de-memoire-partagee-512-go-3469982",
+   "posted_at": "2026-11-26T09:49:10+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Samsung Galaxy Book 5 Pro - AMOLED WQXGA 120Hz Tactile, Intel Core Ultra AI 5 226V, RAM 16Go, SSD 512Go, Intel Arc 130V, W11",
+   "price_raw": "855,42€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-samsung-galaxy-book-5-pro-amoled-wqxga-120hz-tactile-intel-core-ultra-ai-5-226v-ram-16go-ssd-512go-intel-arc-130v-w11-3469976",
+   "posted_at": "2026-11-26T09:44:02+00:00"
+  },
+  {
+   "title": "Processeur de modélisation Soran Dual Stomp Pedal Lite",
+   "price_raw": "58€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/processeur-de-modelisation-soran-dual-stomp-pedal-lite-3469916",
+   "posted_at": "2026-11-26T09:08:03+00:00"
+  },
+  {
+   "title": "Routeur ROG Strix GS-BE7200 - Blanc Sans Fil Wifi 7",
+   "price_raw": "138,83€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/rog-strix-gs-be7200-blanc-routeur-sans-fil-wifi-7-3469944",
+   "posted_at": "2026-11-26T09:21:54+00:00"
+  },
+  {
+   "title": "Liseuse Onyx Boox Go Color 7 - Gen II",
+   "price_raw": "229€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/onyx-boox-go-color-7-gen-ii-3469891",
+   "posted_at": "2026-11-26T08:46:47+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1960,
-  "models_with_reference": 77
+  "listings_seen": 1967,
+  "models_with_reference": 80
  }
 }
