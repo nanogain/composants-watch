@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T17:38:00Z",
+ "generated_at": "2026-11-26T18:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-26T17:38:00.678906+00:00"
+   "items": 345,
+   "last_ok": "2026-11-26T18:08:00.619758+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-26T17:38:00.678906+00:00"
+   "items": 378,
+   "last_ok": "2026-11-26T18:08:00.619758+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-26T17:38:00.678906+00:00"
+   "last_ok": "2026-11-26T18:08:00.619758+00:00"
   }
  },
  "watchlist": [
@@ -207,8 +207,42 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8C9J06QRJgXCJsJidx0OXR8AF%2FxQam1MP2zOHFkgnslcDvBL0qbULR6DClLt%2BK21CE2JYztxDBkvEG51%2FoAJbq9gym4XXvNBk4Cy5h%2Fsbc1h%2Fru5PTuWvx%2FwFGpmheTB6f84ed2sDSf0ihgyO3Gz%2FLa5Ohbw2AhtuqCtFAGmr6KA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9C%2BNaQPuBd9IyAIz2VnKGFh80IfFLMsKL3Tfjwi3%2Bcx%2B4hJBn%2Ft3yOTqdz4xS2ZHlPcX1W7iF3PF6a5BOrLBUviopz2t9F4ozBOQ%2FBGewrg0vG4fmaBOid59WuTEZYaegy9PdUSHjcFrelH1HmF75cgLaKT3HPRPFVX2gCNp3SlA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tanzen_store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyn0riaR%2B1JlJ3cfdnBdR1pybNqTilb9J41mUP5SRqdAiub2arcbvfU2NC4U8krEdIvI8EapxtDkxKehj%2BGh9bSr93qv79IV22ZT1nvRKcAYsdBT5VZ1vQvYeui0N%2BUhzcdpZNpejiYQEmFSz8te%2BWs",
+   "posted_at": "2026-08-14T16:59:44+00:00"
+  },
+  {
+   "title": "SSD interne 2.5\" PNY CS900 - 2 To",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 189.98,
+   "shipping_eur": null,
+   "effective_eur": 189.98,
+   "median_eur": 295.35,
+   "discount_pct": 35.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-25-2to-pny-cs900-sata-3470638",
+   "posted_at": "2026-11-26T17:57:49+00:00"
   },
   {
    "title": "OCZ Trion 150 SSD interne 120 Go 2,5\" SATA III",
@@ -345,23 +379,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/sandisk-ssd-1to-amazon-belgique-3470471",
    "posted_at": "2026-11-26T16:11:56+00:00"
-  },
-  {
-   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 109.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 109.99,
-   "median_eur": 149.99,
-   "discount_pct": 26.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · topdeal-market (99,3 %, 151 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRh%2FDtowU0%2Fey1FNgj7CoaCssqXG%2BQRAwky%2B62YK8f8XbdMBTJjY2FxHCkF38mHGATJyYQXebTNmIeRCP6TY1gX%2Fi0czdbFFRTa3yQKfP%2FP8FVVehdyM0mQN11jz%2BXimlPbx2DfLyeBLCLG025NhEvTv",
-   "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
@@ -517,23 +534,6 @@
    "posted_at": "2026-11-20T10:13:01+00:00"
   },
   {
-   "title": "RAM Corsair Vengeance LPX 32 Go (2x16 Go) DDR4 3200 MHz CL16",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 187.9,
-   "shipping_eur": 4.5,
-   "effective_eur": 192.4,
-   "median_eur": 233.45,
-   "discount_pct": 17.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · nexus1979 (100,0 %, 115 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/128217924408?_skw=ddr4&hash=item1dda624338:g:2-AAAeSwuNdrCB20",
-   "posted_at": "2026-11-26T11:24:45+00:00"
-  },
-  {
    "title": "SSD SAMSUNG 850 PRO – 512 Go – SATA III – 2,5” - Occasion testé",
    "model": "SSD:SATA-512Go",
    "category": "SSD",
@@ -637,6 +637,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Imprimante multifonctions Brother MFC-L2835DW - Laser Noir et Blanc - WiFi et Ethernet (Toner inclus)",
+   "price_raw": "199,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonctions-brother-mfc-l2835dw-laser-noir-et-blanc-wifi-et-ethernet-toner-inclus-3470629",
+   "posted_at": "2026-11-26T17:53:19+00:00"
+  },
+  {
+   "title": "Carte mère MotherBoard ordinateur pc HP ProDesk 400 G4 SFF 911985 TPM2.0 WinPro",
+   "price_raw": "29.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206728981219?_skw=carte+m%C3%A8re&hash=item302201eae3:g:TlcAAeSwctlrCHAC",
+   "posted_at": "2026-11-26T17:48:12+00:00"
+  },
+  {
+   "title": "Bloc Alimentation pc  Antec 400 continuous power model hcg-400",
+   "price_raw": "23.58 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/117543698158?_skw=alimentation+pc&hash=item1b5e267eee:g:3tEAAeSwPGhrCG3y",
+   "posted_at": "2026-11-26T17:39:13+00:00"
+  },
+  {
+   "title": "Alimentation PSU ordinateur SFF HP ProDesk 400 G4 /600 G3 / 280 G2 - 180w",
+   "price_raw": "22.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206728986820?_skw=alimentation+pc&hash=item30220200c4:g:Z3oAAeSw-FFrCHEH",
+   "posted_at": "2026-11-26T17:53:19+00:00"
+  },
   {
    "title": "Tablette Apple iPad A16 (2025) - 128 Go, Bleu ou Argent (via 99,80€ fidélité)",
    "price_raw": "399,20€",
@@ -774,7 +802,7 @@
    "title": "Alimentation PSU ordinateur DELL 180w pour format SFF OptiPlex 3040/5040/7040",
    "price_raw": "24.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH10RFVKIRQMafkOAbrCcdRjravpeGN2Kt%2B4nFKuoE3K%2BxVDDqgrkExS44GA9gP4RVhcUS4M15Oldc9M0HGnq0vMR6kbkN28bIQFuEMYg9tEcXbmzCWLewXjNqG7bJajXloaX4Z07LRARga76cRDl7TBet7fjryB9LiPR5g8ECAKEA%3D%3D",
+   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH2W0OkOKXUISeIms2xNHEG5TXMo3dc6IcLqmJaCoxWHIFkbwxL6Ttv2u2WlKtWPFVHl4%2Byv0OnznRFdiQ1frBUdua67RavFX4GEempoDqLKapztV6pqAukKZ0GeBiYjrgxOZrfAszWHiWR8LyTQ0DsqwU3bpwwM1Vj6zUh55nopIg%3D%3D",
    "posted_at": "2026-10-13T12:25:13+00:00"
   },
   {
@@ -865,7 +893,7 @@
    "title": "RAM DDR5 Micron 8GB 1RX16 PC5-4800B Pour Pc Portable",
    "price_raw": "79.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3hl8eutU4X0YiCZTXV9oFz2iqkS4SOWdD0X8N5OzLS0QqpadvUoQ7Nu2X8RcV4MCVbPLMN%2BEDrnjvYGR5lKN%2BOxyBwpNqDcOcj0IXP4GeveB9fBKce%2FCVEyiYEl88gP6YZjdDSfaZt0oYF5hGGcO2%2FT",
+   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3gyFsouq%2Bbkz1kgys4PJcGVFLPwBxaFrmdLq%2Bv9XpRdzHBsEXn0%2BT%2BsZzjZezX0nxiR2IQxDV5DOwovyyv8eZjLVtkblqfuSQfUWpfj0c8Dr797kc35M7uQ2Ay7h3jN2DW%2BRXcFZ9Ux%2BNxop%2BVkrk2P",
    "posted_at": "2026-11-23T10:24:28+00:00"
   },
   {
@@ -958,38 +986,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336918143061?_skw=watercooling&hash=item4e71e2e055:g:8sQAAeSw8K5rCETC",
    "posted_at": "2026-11-26T14:39:58+00:00"
-  },
-  {
-   "title": "Pc Portable 18\" Gigabyte A18 PRO DXJG3FRBC4SH - IPS WQXGA 165 Hz, Intel Core 7 240H, 32 Go Ram; 1 To SSD, RTX 5070 Ti, W11 (Vendeur Darty)",
-   "price_raw": "1 974,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-18-gigabyte-a18-pro-dxjg3frbc4sh-ips-wqxga-165-hz-intel-core-7-240h-32-go-ram-1-to-ssd-rtx-5070-ti-w11-vendeur-darty-3470327",
-   "posted_at": "2026-11-26T14:35:18+00:00"
-  },
-  {
-   "title": "Sélection d'article en promotion. Ex : Souris sans fil VXE R1, Blanc",
-   "price_raw": "34,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/black-friday-sur-maxesport-exemple-vxe-r1-wireless-blanc-a-3490eur-3470322",
-   "posted_at": "2026-11-26T14:33:12+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" Msi MAG 274QP X24 - QD-OLED, 240 Hz, 0.03 ms",
-   "price_raw": "299,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-msi-mag-274qp-qd-oled-x24-3470304",
-   "posted_at": "2026-11-26T14:22:45+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Msi Gaming Stealth16 AI A2HWGG-098FR - OLED 240 Hz, Ultra 9, 32 Go RAM, 1 To SSD, RTX 5070, Anthracite",
-   "price_raw": "2 199,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-gaming-stealth16-ai-a2hwgg-098fr-16-oled-240-hz-intel-core-ultra-9-32-go-ram-1-to-ssd-nvidia-geforce-rtx-5070-anthracite-3470287",
-   "posted_at": "2026-11-26T14:14:12+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1983,
-  "models_with_reference": 79
+  "listings_seen": 1989,
+  "models_with_reference": 78
  }
 }
