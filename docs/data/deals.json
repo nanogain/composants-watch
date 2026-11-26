@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T08:38:00Z",
+ "generated_at": "2026-11-26T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 344,
-   "last_ok": "2026-11-26T08:38:00.676116+00:00"
+   "last_ok": "2026-11-26T09:08:00.622735+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 385,
-   "last_ok": "2026-11-26T08:38:00.676116+00:00"
+   "items": 386,
+   "last_ok": "2026-11-26T09:08:00.622735+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-26T08:38:00.676116+00:00"
+   "last_ok": "2026-11-26T09:08:00.622735+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-25T06:36:15+00:00"
   },
   {
-   "title": "Accessoires circuit graphique pour Carte graphique GeForce RTX 5060 8Go 3 DP + 1 HDMI GDDR7",
-   "model": "GPU:RTX 5060",
-   "category": "GPU",
-   "condition": "new",
-   "price_eur": 398.0,
-   "shipping_eur": null,
-   "effective_eur": 398.0,
-   "median_eur": 869.99,
-   "discount_pct": 54.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Lenovo",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nvidia-geforce-rtx-5060-8go-3467173",
-   "posted_at": "2026-11-24T02:17:35+00:00"
-  },
-  {
    "title": "Carte Mère COLORFUL BATTLE-AX B850M-T WIFI V14 (Micro-ATX, WiFi 6E, DDR5, etc)",
    "model": "MB:B850",
    "category": "MB",
@@ -124,6 +107,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-pouces-aoc-q27g42ze-qhd-fast-ips-240-hz-260-hz-oc-03-ms-3469743",
    "posted_at": "2026-11-26T07:39:01+00:00"
+  },
+  {
+   "title": "Accessoires circuit graphique pour Carte graphique GeForce RTX 5060 8Go 3 DP + 1 HDMI GDDR7",
+   "model": "GPU:RTX 5060",
+   "category": "GPU",
+   "condition": "new",
+   "price_eur": 398.0,
+   "shipping_eur": null,
+   "effective_eur": 398.0,
+   "median_eur": 772.63,
+   "discount_pct": 48.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Lenovo",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nvidia-geforce-rtx-5060-8go-3467173",
+   "posted_at": "2026-11-24T02:17:35+00:00"
   },
   {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
@@ -194,6 +194,23 @@
    "posted_at": "2026-11-18T18:28:36+00:00"
   },
   {
+   "title": "Carte graphique NVIDIA GeForce RTX 5060 OC MSI Ventus 2X 8 Go *NEUVE ET FACTURE*",
+   "model": "GPU:RTX 5060",
+   "category": "GPU",
+   "condition": "new",
+   "price_eur": 449.99,
+   "shipping_eur": 9.99,
+   "effective_eur": 459.98,
+   "median_eur": 772.63,
+   "discount_pct": 40.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · esmedeb (100,0 %, 438 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/287760010217?_skw=carte+graphique&hash=item42ffd54be9:g:n1EAAeSwABVrB~Ls",
+   "posted_at": "2026-11-26T08:59:41+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -207,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2F4xNebuanL7ahZ%2B08ikuAyWTe0UlfrRjTiVUPIwaa6KFphx4%2Fq%2F8R900k2JSp8xQk8jTp6SBBboM%2FjQZ0cWKqIjTkV2RbXRqqqUHJcSYEs2JFMIGfzeTz68%2FLLUzZ34Di1SonpibmkxS743PzvPUyn0uei5ILDllxZ1bC36GI8kw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8Chi%2FddHmxsK8nHrm6UyXAMwgvm6BNSWXCDTmj%2FngRRzpyRbS869Gy%2FssRvf8AUlTRVpG3aRS0MCj7L6mxO9OZX7KjCEmApJD1tVxS2Wtfulh%2FUmrLQx8ve%2FA8x%2Bk%2F4VY4GqVK8uT%2Bc8YpHlLeM4KPsiNNHvvd9HaYhoYvau8%2Baw%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -224,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwLEcxmNiUrZv7Cw4lYr5P79%2BgPMScJQSFs1BVQXaPdNQYleU0ltltePtAV3ps1Una7NXI3JKdQN59%2Bp8uSqbLXEqX6pqK7nPMPL4WggMnizSBuP%2FO66eQ%2FRLtl0Jt6rSocJ7YwGm44AqdgIvtk9%2Bby",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuynziF1BXRvxUY7uZPKHhXyNCps0HZDQLZAh%2B2uzqkcXQY1lfDTfF4uK5AoQ9SOu38MO1qXhCBJXCDnDVSG29y3N7KvNHfUtYm6K9r0lMAHG6gKkThQzX%2FRfLQ3Q4qFY%2FK2uNmVwYVqakOCyZOz7FYz",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -241,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 257 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKXJNL%2FJqyIyL70WZ156lE5zlhdQMhdG9O3jFB9LVmvN1UsV0Uil1fJgOBdDWYYtiaQ3l1FwH3HJ0J8ukCDVaJGHcGgzG7U1cawe8RLwIR2b13FkatqBbnqCpcK0AEseEhu8ba6Ka0AnqWurfC8%2FMMfX",
+   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKWmNXxtFKANgwO3SVRbFQ1Em%2Fry9Y5w9F62NY2YakOb%2BcrZCWV9Lu3POHk%2BzQAHco%2BXeuPfFkuohwGgDudTWv7pb0Pd3rg94kiKcUPI2AgHUA3puNBaQSe9rdWUnbcoJa%2FPkn%2FHtlN3ZOPnbIVPb0Iu",
    "posted_at": "2026-11-24T11:41:43+00:00"
   },
   {
@@ -619,23 +636,6 @@
    "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
-   "title": "Ecran PC 27\" HKC G27H2DPro - QHD, 200Hz, Dalle IPS, 1ms (Vendeur tiers)",
-   "model": "MON:27-QHD-200Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 108.79,
-   "shipping_eur": null,
-   "effective_eur": 108.79,
-   "median_eur": 128.99,
-   "discount_pct": 15.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-g27h2dpro-qhd-200hz-dalle-ips-1ms-vendeur-tiers-3461406",
-   "posted_at": "2026-11-19T08:39:19+00:00"
-  },
-  {
    "title": "SSD M.2 2280 Acer Predator GM6 512 Go PCIe Gen4x4 NVMe 2.0 (vendeur tiers)",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -671,6 +671,20 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 15.6\" Acer Aspire Lite 15 AL15-47P-R439 (FHD, Ryzen 3 5400U, RAM 8 Go, SSD 512 Go, Windows 11) + Sac à dos & Souris sans fil",
+   "price_raw": "387,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-al15-47p-r439-fhd-ryzen-3-5400u-ram-8-go-ssd-512-go-windows-11-sac-a-dos-souris-sans-fil-3469901",
+   "posted_at": "2026-11-26T08:55:48+00:00"
+  },
+  {
+   "title": "Kingston 8GB 1Rx8 PC4-2400T Desktop RAM DDR4 2400Mhz",
+   "price_raw": "29.82 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/307302548724?_skw=ddr4&hash=item478ca8c4f4:g:kLMAAeSwnPBrB~DN",
+   "posted_at": "2026-11-26T08:41:24+00:00"
+  },
   {
    "title": "PC portable 14\" Asus 90NB19K1-M00AJ0 - WUXGA OLED (1920 x 1200), Snapdragon X X1-26-100, 16Go RAM, 256Go SSD, 50 Wh, Win 11",
    "price_raw": "674,44€",
@@ -826,6 +840,13 @@
    "posted_at": "2025-10-23T04:15:17+00:00"
   },
   {
+   "title": "Mémoire Ram Serveur Ordinateur DDR2/3/4 1-16Go 667/800/1333/1600/2400/2666/PC3,4",
+   "price_raw": "29.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/374365314289?_skw=ddr4&hash=item5729e95cf1:g:ZpgAAOSwby5jemUd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k9EfGKaVqboMOSgkpMm3z27%2B%2FOeihq84tAfWbqdio8trlkwbB3K%2FIulFU7S1hnTeDJMXweBeu3VOUFnSAAsyEFbcRS%2BZ9OihOgy9noBjAOfL5%2BmDyeK7Amk2VGINLK%2FLSqL%2Bnl6xp1jZDHw%2Ff74kArVqpsr%2BiHZzSql0lbW3zBN%2FPaK1kG9bPy7c93IS46FYKrNjv7SHzhZmXJH2PC47Ot2V6j0QdhKKnfv5Blxlpg6h4D4LKtHE2Qm%2BCDkrhzBMZbwHs7EaRjTjwmMydk%2BaGV",
+   "posted_at": "2022-11-20T18:01:59+00:00"
+  },
+  {
    "title": "be quiet! Ventirad CPU Shadow Rock Slim 160W Ultra Silencieux BK010",
    "price_raw": "52.38 EUR",
    "source": "ebay",
@@ -836,7 +857,7 @@
    "title": "Remplace carte graphique Radeon 4850 Apple iMac 11,1 27\" 2009 A1312 - 661-5315",
    "price_raw": "199.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858562?_skw=carte+graphique&hash=item5e7996e742:g:9b8AAOSwMSNn~ilT&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lNbItaA1MsJwVvXqshpnRaxh%2FdEV9Trx%2FdHTIrbYOQ%2BaiPeW70B%2BdEJ3J9u11gsfMa6VasqqdUxvubaAfCtgeNsFaL3BCqUqqrgo52KVR%2B6AOnzozuOP3rT4Bx6dlLQmHo5j4HXu8PEQFiDnyEtx7WhQPevyFUZoGXkErs9reMEMi05cBZTk4oJU4hyI6ieOU0GOHxxsHqzHfXuD2RAW7Buvh7AgAkEE4scllG%2BRkneAt4lDS1dSOvZ%2FvdZCmS2rNtadysRKLuSkrONH8dCzLILA9J6mSXXlzFLaAsjMQXHg%3D%3D",
+   "url": "https://www.ebay.fr/itm/405766858562?_skw=carte+graphique&hash=item5e7996e742:g:9b8AAOSwMSNn~ilT&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lNbItaA1MsJwVvXqshpnRaxh%2FdEV9Trx%2FdHTIrbYOQ%2BaiPeW70B%2BdEJ3J9u11gsfMa6VasqqdUxvubaAfCtgeNsFaL3BCqUqqrgo52KVR%2B6AOnzozuOP3rT4Bx6dlLQmHKv5uyt2Nh2Ddojau8IPSHr2npBwy59pvIYoWgYDi8AhAPnvNtB0qzeSsKK7Yh3FR7GUepF2gpJIdXUL2v4yI2RQiBJcFeLOex0wQTKM1V%2FdKLojQcOLPuFhbkivZgUZhBKSJMhAjBqVQjrmgXkvgY8IW4BVxOa4%2By0NeIBcheMw%3D%3D",
    "posted_at": "2025-04-15T09:15:08+00:00"
   },
   {
@@ -906,7 +927,7 @@
    "title": "Carte mère ASRock H81M-HDS R2.0 neuve Micro-ATX Intel H81 LGA 1150 DDR3 HDMI",
    "price_raw": "30.86 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800966685318?_skw=carte+m%C3%A8re&hash=itemba7d55b286:g:U5cAAeSwCStrB1Xl&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m00WGhFgTo%2FWQhw3FnnZMao5M2lVZy4rYZnpx1tAXZdzIw2CLaMjY4YhVGR55svLDGIjCau5zRskWt8CpvGByGA%2FsjVksfMi51ILVGQFKORdC6UMewLObhYDKcitaNjzFlqwHHJMQMMTJt%2FbtYG42eLsRrncUDcbVF7Kbg9kFXvzLFbGjzOMYCDRaZO6yk58fHP0qBwMHROSXloQovi%2FzPwtKJfMzpCrq6uxCb0eOrfSYkZa5U7CuBpPnacDo4AJCwvCocip37FaBC5k8Vj7MH2QCH5pKKzFl2Nt%2BnlhTSEQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800966685318?_skw=carte+m%C3%A8re&hash=itemba7d55b286:g:U5cAAeSwCStrB1Xl&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m00WGhFgTo%2FWQhw3FnnZMao5M2lVZy4rYZnpx1tAXZdzIw2CLaMjY4YhVGR55svLDGIjCau5zRskWt8CpvGByGA%2FsjVksfMi51ILVGQFKORdC6UMewLObhYDKcitaNjzFfzTgyca0vlmMhTMbXS6cxvlsx4VClRhesxMMgoF9KGHX0MNqW8gqQfiCh%2BLwspkWOBrKqEXi8xRbBaff2xRz0QZr6bWHps2Wdcstghwg0J7qD134I6%2BSswQ4W2CyKP5CbdfvaX7ELftrHPvf7%2FIAHFzEOMGzSsSQbjSzPnxdJlw%3D%3D",
    "posted_at": "2026-11-25T21:44:00+00:00"
   },
   {
@@ -920,7 +941,7 @@
    "title": "KTC H24F8 Moniteur Gaming 23.8 Pouces IPS 190Hz 1ms FHD HDR10 Écran PC VESA EU",
    "price_raw": "127.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860177409585?_skw=%C3%A9cran+pc&hash=itemc84691a631:g:1vsAAeSwNARrB1Vu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k5Fjaj5sh9Yd9hXKlx1Sk9pm4lGCwHvF891MNgTIPSDrcnebI9zD36TLLr5eBWRO0mkl26vOYI26eA4lTbcS1sjThwPo9q7eoRc%2Fnl9QFglssRhxCZdMXVAZ6MEXFp1w2P5wosaGUUTOwUUC3r4dn%2FDTKScpKys9fob%2F%2Bjgq8jvHKsQRU0if9z00XEyTO0DHo0LnQ7B1XF18gdXS6iVMf3M9rA761HMtxtwkpfrIa8tCfViU%2BwMt1Du7XB%2Fo82iGEQIIVGrG8QhlkhJz7nigG2sQaPzzPXWj5C4aWrQbEA%2FQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/860177409585?_skw=%C3%A9cran+pc&hash=itemc84691a631:g:1vsAAeSwNARrB1Vu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k5Fjaj5sh9Yd9hXKlx1Sk9pm4lGCwHvF891MNgTIPSDrcnebI9zD36TLLr5eBWRO0mkl26vOYI26eA4lTbcS1sjThwPo9q7eoRc%2Fnl9QFglssRhxCZdMXVAZ6MEXFp1w2gmWLtXkKnXkunm4OYg1AG6doKWNI7W0%2BfyOJpPvJ%2BPOjRirqxNntG2M43uFjaQXZy3LtSAo4ZWJidqDwCPdSQaVzpsI7ZVS1uJAiiv8ldrjfR%2BajuA0ZO5ISE9uO7FCoJK%2F9YMN%2F7nPzEgYZCWRtkDQOZlcBtuTq1QqVCnwKo3A%3D%3D",
    "posted_at": "2026-11-25T21:41:08+00:00"
   },
   {
@@ -969,7 +990,7 @@
    "title": "Carte mère pour HP ProBook 650 G2 / INTEL CORE i5-6200U / ddr4",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/376177202338?_skw=carte+m%C3%A8re&hash=item5795e894a2:g:DK4AAOSwbuFoARtq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k69ZcV6erPQEF0U%2BxUqwNJlHLlvvoLLopjXD%2BYp8FI%2FEcAg6OZOw716RxHQ2OyMWznuTO6iVbIYUBBAtvl1pgOmbodqIN0YdpVDyjvPEgfTmo8yc9UxkQ3aTKktG%2FutIeASUO66qqNYJ1wYe08dwYphpODGXJltT0FSAw2Wih4tnxKsbMZNj4slsDh7NlfxY4jXU%2BvDLauReY%2FuVLsFrrzX8rMKBkmDzDPSRgFzTWXEjj5562f0LwEWXivtPGFbTMDzqO787r4FJ3iNqpncViXTtwRjmKc5PmAAjsLwvPJKg%3D%3D",
+   "url": "https://www.ebay.fr/itm/376177202338?_skw=carte+m%C3%A8re&hash=item5795e894a2:g:DK4AAOSwbuFoARtq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k69ZcV6erPQEF0U%2BxUqwNJlHLlvvoLLopjXD%2BYp8FI%2FEcAg6OZOw716RxHQ2OyMWznuTO6iVbIYUBBAtvl1pgOmbodqIN0YdpVDyjvPEgfTmo8yc9UxkQ3aTKktG%2FutIfJWmgAoVp%2BJ7FFPlCVUSyhG67Qa%2Fe9k1mYzTSW%2B%2BVv2hpSdkDLHimCU5Ttlo7Qvi0vhlCtnb2Y92wSi9wM4vnH8Dzdi%2BlpOAmZuJ1gFIBTOswQvBVtRgLFbuoE2yX38JuCtW6xQ0ACURDrcGKyaWT4%2BHDRcnk12fUDWOXVuKYV7w%3D%3D",
    "posted_at": "2025-04-17T15:17:22+00:00"
   },
   {
@@ -987,13 +1008,6 @@
    "posted_at": "2026-11-25T19:30:43+00:00"
   },
   {
-   "title": "[Adhérents Fnac] PC Portable Gamer 16\" MSI Crosshair 16 Max HX - QHD+ 240Hz, Core Ultra 7, RTX 5070, 16 Go, 512 Go - Troyes (10)",
-   "price_raw": "1 350,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/jusqua-20h-ce-soir-fnac-soiree-adherents-exemple-msi-crosshair-3469289",
-   "posted_at": "2026-11-25T18:47:38+00:00"
-  },
-  {
    "title": "Câble Ethernet Ugreen - 5m, Cat 8 Plat 40Gbps (Vendeur Tiers)",
    "price_raw": "9,77€",
    "source": "dealabs",
@@ -1006,24 +1020,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/840165592457?_skw=ddr4&hash=itemc39dc58d89:g:c4wAAeSwDBNq51ly",
    "posted_at": "2026-11-25T19:01:56+00:00"
-  },
-  {
-   "title": "SK hynix DDR5 SO-DIMM 16 Go (2x8 Go) PC5-5600B HMCG66AGBSA095N AA",
-   "price_raw": "125.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880152527410?_skw=ddr5&hash=itemcced2dc232:g:ONIAAeSwbZ1q-a~x",
-   "posted_at": "2026-11-25T18:07:10+00:00"
-  },
-  {
-   "title": "PC portable 16'' MSI Crosshair E8WGXK-001FR - QHD+ 240Hz, AMD Ryzen9, 16Go RAM, 1To SSD, RTX5070 12Go VRAM",
-   "price_raw": "1 999,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-msi-crosshair-16-qhd-240hz-amd-ryzen9-16go-ram-1to-ssd-rtx5070-12go-vram-3469219",
-   "posted_at": "2026-11-25T16:40:35+00:00"
   }
  ],
  "stats": {
   "listings_seen": 1907,
-  "models_with_reference": 77
+  "models_with_reference": 78
  }
 }
