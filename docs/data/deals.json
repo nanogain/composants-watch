@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T07:38:00Z",
+ "generated_at": "2026-11-26T08:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-26T07:38:00.618825+00:00"
+   "items": 343,
+   "last_ok": "2026-11-26T08:08:00.630173+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 382,
-   "last_ok": "2026-11-26T07:38:00.618825+00:00"
+   "last_ok": "2026-11-26T08:08:00.630173+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-26T07:38:00.618825+00:00"
+   "items": 72,
+   "last_ok": "2026-11-26T08:08:00.630173+00:00"
   }
  },
  "watchlist": [
@@ -41,6 +41,23 @@
  ],
  "opportunities": [
   {
+   "title": "Ssd nvme 4to pcie 4.0",
+   "model": "SSD:NVMe-4To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 133.88,
+   "shipping_eur": null,
+   "effective_eur": 133.88,
+   "median_eur": 441.92,
+   "discount_pct": 69.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-nvme-4to-pcie-40-3469792",
+   "posted_at": "2026-11-26T07:47:15+00:00"
+  },
+  {
    "title": "Écran PC 27” Lenovo Legion 27Q-18 - QHD, IPS, 240 Hz, 1 ms, pied réglable",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -48,8 +65,8 @@
    "price_eur": 129.0,
    "shipping_eur": null,
    "effective_eur": 129.0,
-   "median_eur": 304.99,
-   "discount_pct": 57.7,
+   "median_eur": 299.99,
+   "discount_pct": 57.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "Lenovo",
@@ -92,6 +109,23 @@
    "posted_at": "2026-11-25T08:54:08+00:00"
   },
   {
+   "title": "Écran PC gaming 27\" AOC Q27G42ZE - QHD Fast IPS, 240 Hz (260 Hz OC), 0,3 ms",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 149.98,
+   "shipping_eur": null,
+   "effective_eur": 149.98,
+   "median_eur": 299.99,
+   "discount_pct": 50.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Electro Dépôt",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-pouces-aoc-q27g42ze-qhd-fast-ips-240-hz-260-hz-oc-03-ms-3469743",
+   "posted_at": "2026-11-26T07:39:01+00:00"
+  },
+  {
    "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -105,7 +139,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (100,0 %, 151 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRj2hSK4sIkjXpNYWX7ICVvQPbymxyfCt%2B1PX%2Bpl7TQe3ENerQnkYt31Y4DUBejzRQmRs1U%2B0CcmAK7kOExEXWebHJYVAyn1HgbbPt3APHVdua2UkXUUpqY1bwdb1qT2RKi4RUsNqYecZKUOD9wEe8N2",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRiYiV%2FpBJZPGCje1cU9t5%2BgMcT3e0gcqu2VwSRaehF5lqJ%2FXKiHkyJBdfTV5DhLawJ5lpPKXlEtcCjKxmFr2NH7PT0DHEO1XiDK5s6oFM5PypSjVbAm70DpZ%2BJQ1SKR0gNGvGQA0EkO5hkV3%2BP3avT%2B",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -116,8 +150,8 @@
    "price_eur": 164.99,
    "shipping_eur": null,
    "effective_eur": 164.99,
-   "median_eur": 304.99,
-   "discount_pct": 45.9,
+   "median_eur": 299.99,
+   "discount_pct": 45.0,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -190,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9rg6BM%2FSldfKl9%2FxQnrlQbaJGQXQ%2Fz7Td%2BsCeZkOzu1LoczqZOO4jLgIm69Ibkcm3nu7EOmLwnZyrWZqvGdk9PZyT3gnBH0qKIX1ckxC3bfMisG6fELxlITSDVKox0UeupIc%2B9SdCKWwbTYixQJirVFedG%2Fi63z%2BN2yLADeNR1ag%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8qTieDuorlik1avwqN7WHMZelAhq6WCrATrq3u%2FSVkIHcrUk89cFZz9m%2B%2FnvizgscHWNJtcxnkvApbQmJSKNM6af69cp78ixHaBBsxiQ0DzZo5uzF1kGgokbkjPUoJ0Q%2BFTxrYadS9IQP9B%2FaA3aI7iml%2BkuhpKamFF%2F9hsmYy2w%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzGPuBJVk668AaDbZTmAURz0VE4macNcQXOipcPAJF2IX72aiun3j00pTWzOpeTclxCyXtG%2FEVTR6ctSaZNvKZ76pvpBuVkOTBeB5ZhB59DwMzzM7%2F2ga4VUOAzNPFQ5lyWmR47O4Wp4vLLRp9ceenT",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxFB%2BgU5DKC%2Boo7UB%2FKL761eKvjgdtgpYaZ8TSvG3Cppa68DSHnHmPlt08d7puITdABjpw4v4Kz3llZT8JrniBh7HZmOl5vxcDv5V1QV0tAHfri9pX2BTs%2BD8zSJhnq%2BLHrjBu1%2BBHZFPcNmLdAz8vK",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -224,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 257 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKVMserNfxl5TY2Vdvbia4a4fdrVqdoEyCmzHAGmzAC6oq94nx62DCLGgaWhLm139reUcARuzsSZshU1v%2FYZzEb1yd5%2FPWVPG%2F1Nu6miw9piqmYR3qTfNS120BtFsnCopRWbnctw0YE6if2yYwehiRR5",
+   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKVLK2Q8MFH8L43N5ftsB5XoDPIr6XJ%2F3vS96EFpe76DWK9HPQ1aeRctbeitpBQM9S6txD9Eo%2BBF0SBrV7dT0xxJK3Gqi4%2BfmQP1xVVTisJaxnmoMcMLGGq04Xe%2FWm%2FseSs4QKJXck1lyd%2FXOfkrv7fs",
    "posted_at": "2026-11-24T11:41:43+00:00"
   },
   {
@@ -655,7 +689,35 @@
  ],
  "unclassified": [
   {
-   "title": "(Adherents Fnac+ / Cagnottage 10%) PC portable Gaming MSI Raider 16 HX QHD 240Hz 32Go 5070ti",
+   "title": "PC portable 16\" Lenovo Ideapad 83K2009WFR - WUXGA (1920 x 1200) IPS, Core i7-13620H, 16Go RAM, 512Go SSD, 50 Wh, Win 11",
+   "price_raw": "657,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-lenovo-83k2009wfr-wuxga-1920-x-1200-ips-core-i7-13620h-16go-ram-512go-ssd-50-wh-win-11-3469819",
+   "posted_at": "2026-11-26T08:01:37+00:00"
+  },
+  {
+   "title": "PC portable 16\" Acer Aspire 16 AI A16-61M-R4H0 - FHD OLED, AI 5 330, 16Go RAM, 512Go SSD, 61 Wh, Win 11",
+   "price_raw": "630,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-acer-aspire-16-ai-a16-61m-r4h0-fhd-oled-ai-5-330-16go-ram-512go-ssd-61-wh-win-11-3469813",
+   "posted_at": "2026-11-26T07:57:00+00:00"
+  },
+  {
+   "title": "Coffret 4K Intégrale Harry Potter - 8 films",
+   "price_raw": "61,93€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/coffret-4k-integrale-harry-potter-8-films-3469807",
+   "posted_at": "2026-11-26T07:54:20+00:00"
+  },
+  {
+   "title": "10% de réduction dès 400€ d'achat sur les PC portables, PC de bureau, Tablettes (hors PC gaming et Apple), Imprimantes et consommables",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/10-de-reduction-des-400eur-dachat-sur-les-pc-portables-pc-de-bureau-tablettes-hors-pc-gaming-et-apple-imprimantes-et-consommables-3469802",
+   "posted_at": "2026-11-26T07:50:56+00:00"
+  },
+  {
+   "title": "[Adhérents Fnac+] PC portable Gaming MSI Raider 16 HX QHD 240Hz 32 Go 5070ti",
    "price_raw": "2 069,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/adherents-fnac-cagnottage-10-pc-portable-gaming-msi-raider-16-hx-qhd-240hz-32go-5070ti-3469761",
@@ -739,6 +801,13 @@
    "posted_at": "2026-11-25T04:18:26+00:00"
   },
   {
+   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
+   "price_raw": "79.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
+   "posted_at": "2026-11-16T17:51:34+00:00"
+  },
+  {
    "title": "Mars Gaming MCZ Boîtier PC Gaming MicroATXMiniITX Compact avec 2 Ventilat",
    "price_raw": "54.06 EUR",
    "source": "ebay",
@@ -756,7 +825,7 @@
    "title": "Remplace carte graphique Radeon 4850 Apple iMac 11,1 27\" 2009 A1312 - 661-5315",
    "price_raw": "199.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858562?_skw=carte+graphique&hash=item5e7996e742:g:9b8AAOSwMSNn~ilT&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lNbItaA1MsJwVvXqshpnRaxh%2FdEV9Trx%2FdHTIrbYOQ%2BaiPeW70B%2BdEJ3J9u11gsfMa6VasqqdUxvubaAfCtgeNsFaL3BCqUqqrgo52KVR%2B6AOnzozuOP3rT4Bx6dlLQmEKEr7vmmJlAzyQO0%2BO0drD%2FKQIThsups58PLNKMIaVy85oILiozAikIN2fzxO%2F4VJgurv3QSEtEx1pkZfOGhAJWKd6FUBp9qYNQc6dmdwBvM9o3DaRQ%2BZiALEw2aW6qAidiavIE%2F6ZzKaU5JfDm8Gp3ONxsX4b%2BihwII0aCwriTg%3D%3D",
+   "url": "https://www.ebay.fr/itm/405766858562?_skw=carte+graphique&hash=item5e7996e742:g:9b8AAOSwMSNn~ilT&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lNbItaA1MsJwVvXqshpnRaxh%2FdEV9Trx%2FdHTIrbYOQ%2BaiPeW70B%2BdEJ3J9u11gsfMa6VasqqdUxvubaAfCtgeNsFaL3BCqUqqrgo52KVR%2B6AOnzozuOP3rT4Bx6dlLQmEFpYR24xZt57svIku9Z5QBkq9%2BBENrBay8NwvOaihNfTNnwFTZZF2cDhmmODx%2F4SuXH4r6Tg89rHakg0A6eq43xyW3CkGyf7Sd6dREXKUaw3UweY6uNJOdHRhkjksT3wwk3uNsYUDcKUBi7XOLFRKgMdC3Mz9leoBSni8f6pLILA%3D%3D",
    "posted_at": "2025-04-15T09:15:08+00:00"
   },
   {
@@ -767,25 +836,11 @@
    "posted_at": "2024-10-07T20:12:06+00:00"
   },
   {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
-  },
-  {
    "title": "Logitech Clavier sans fil AZERTY FR gris pavé numérique touches multimédia",
    "price_raw": "32.70 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/840033688508?_skw=clavier&hash=itemc395e8dbbc:g:s7gAAeSw6nxq1K~t",
    "posted_at": "2026-10-18T11:41:35+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" Msi MAG 274QP QD-OLED X24",
-   "price_raw": "299,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-msi-mag-274qp-qd-oled-x24-3469625",
-   "posted_at": "2026-11-26T00:38:09+00:00"
   },
   {
    "title": "[Prime] Souris Gaming Sans Fil Pulsar Gaming Gears ZywOo The Chosen - Medium, Blanc (Vendeur Tiers)",
@@ -833,7 +888,7 @@
    "title": "Carte mère ASRock H81M-HDS R2.0 neuve Micro-ATX Intel H81 LGA 1150 DDR3 HDMI",
    "price_raw": "30.86 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800966685318?_skw=carte+m%C3%A8re&hash=itemba7d55b286:g:U5cAAeSwCStrB1Xl&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m00WGhFgTo%2FWQhw3FnnZMao5M2lVZy4rYZnpx1tAXZdzIw2CLaMjY4YhVGR55svLDGIjCau5zRskWt8CpvGByGA%2FsjVksfMi51ILVGQFKORdC6UMewLObhYDKcitaNjzF6l93rh3BkU6PbHYkFTuZD95a0xT9MaJtp%2BhJgtIAAXh6fxIGfdmCg%2BUsaHENruoq4Dve3nlEJy8OeBuMwRkW2u8%2BcxkOmKqYpK1ZQFN8rq12bzqsJmOKOFSkb4iTg9pSrLWgY8HZY5ee%2BbWHWwZfN%2BbxWWalgPIWfiP8A%2F2XXdg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800966685318?_skw=carte+m%C3%A8re&hash=itemba7d55b286:g:U5cAAeSwCStrB1Xl&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m00WGhFgTo%2FWQhw3FnnZMao5M2lVZy4rYZnpx1tAXZdzIw2CLaMjY4YhVGR55svLDGIjCau5zRskWt8CpvGByGA%2FsjVksfMi51ILVGQFKORdC6UMewLObhYDKcitaNjzE1aDhsAS3gJoizMcDSlIbIEBn4bqENjcWC8nHK6RRvzmjwPeqHcwDBhvORxdCI21JWjFoGNUslPeTFQiiB24TQCRL75z7YrPcq7hm%2B6s61JMzGQBiVVCV0dfar6ZpIrlkNJ4GfMX3jFEnH7aJeJFVY5F4HCfLEpRaOCuWD%2BO1jcA%3D%3D",
    "posted_at": "2026-11-25T21:44:00+00:00"
   },
   {
@@ -847,7 +902,7 @@
    "title": "KTC H24F8 Moniteur Gaming 23.8 Pouces IPS 190Hz 1ms FHD HDR10 Écran PC VESA EU",
    "price_raw": "127.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860177409585?_skw=%C3%A9cran+pc&hash=itemc84691a631:g:1vsAAeSwNARrB1Vu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k5Fjaj5sh9Yd9hXKlx1Sk9pm4lGCwHvF891MNgTIPSDrcnebI9zD36TLLr5eBWRO0mkl26vOYI26eA4lTbcS1sjThwPo9q7eoRc%2Fnl9QFglssRhxCZdMXVAZ6MEXFp1w2tHeyboP0i9toqhyPcKKiXHxDXasicPHvmCiZdR592Oj3ayBF4b23AdFAQCUAgHaL7lbGsfwGqWeVTjINJKLB2z8YADjsi3IAiWX9GPsKqmcaXwSKmbyWJmBCS%2Bb%2FN0d0j3rH2AjG7RVstdaTpmWvE7g3USt8CCYO1cSsezvtX5A%3D%3D",
+   "url": "https://www.ebay.fr/itm/860177409585?_skw=%C3%A9cran+pc&hash=itemc84691a631:g:1vsAAeSwNARrB1Vu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k5Fjaj5sh9Yd9hXKlx1Sk9pm4lGCwHvF891MNgTIPSDrcnebI9zD36TLLr5eBWRO0mkl26vOYI26eA4lTbcS1sjThwPo9q7eoRc%2Fnl9QFglssRhxCZdMXVAZ6MEXFp1w06XD%2FkejnDsmKc3Q%2BLhdpDwOct4wTK8wlwnuaUoS0Rr7tRkrUih3t4m02TzwtnlJptFNhD67HA0pLjmuYf2xddiQG%2FNSyylNiDCe9dBybmnhnhMe%2FOJeRaQfu5QAkWUyKDcuCxQlNcVIUyrBslRIdBCl80obDcLsm%2FZTxGfbBzHw%3D%3D",
    "posted_at": "2026-11-25T21:41:08+00:00"
   },
   {
@@ -896,15 +951,8 @@
    "title": "Carte mère pour HP ProBook 650 G2 / INTEL CORE i5-6200U / ddr4",
    "price_raw": "69.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/376177202338?_skw=carte+m%C3%A8re&hash=item5795e894a2:g:DK4AAOSwbuFoARtq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k69ZcV6erPQEF0U%2BxUqwNJlHLlvvoLLopjXD%2BYp8FI%2FEcAg6OZOw716RxHQ2OyMWznuTO6iVbIYUBBAtvl1pgOmbodqIN0YdpVDyjvPEgfTmo8yc9UxkQ3aTKktG%2FutIdA1xpM35zPxTgc61d7lO%2F%2BuQNKnp%2BXYE1hwLwbdw2HL%2BOJ9gtlzumOckPlexA%2FZLF7vMKwtGlfITBIgqcAUqD9VCRAsXk6ExmmisKymUmde9JVW02L0ZebY%2FBHBHHC4%2BmiOqTVkWm7pJAtq%2BAZQZ8gH8%2Bh13TBnyLvP%2F4Yamv%2FGQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/376177202338?_skw=carte+m%C3%A8re&hash=item5795e894a2:g:DK4AAOSwbuFoARtq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k69ZcV6erPQEF0U%2BxUqwNJlHLlvvoLLopjXD%2BYp8FI%2FEcAg6OZOw716RxHQ2OyMWznuTO6iVbIYUBBAtvl1pgOmbodqIN0YdpVDyjvPEgfTmo8yc9UxkQ3aTKktG%2FutIcJ3cila1I8Iv9HUFnFecaqBYwvECJ9tMu%2FeFNPIRFtx7bodEz4WPHNx1FU0bEx5GC%2FHcCLqvjiS0OY%2F0ePNAe66wz%2BclcBWrK24J7uD0h9o676I2gvK5xAKGzmkWmPrAhS5hXrjtJsh%2Fx57Ra41KPNiZ%2FIQTNZw%2Ft7qWAHpZb73g%3D%3D",
    "posted_at": "2025-04-17T15:17:22+00:00"
-  },
-  {
-   "title": "Mémoire Patriot Viper Venom DDR5 16 Go (1 x 16 Go) 6 000 MT/s",
-   "price_raw": "395.03 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880151196859?_skw=ddr5&hash=itemcced1974bb:g:dMAAAeSwIaJq5I-2",
-   "posted_at": "2026-11-25T05:50:41+00:00"
   },
   {
    "title": "Ecran PC 31.5\" Gigabyte MO32U2 - QD-OLED, 4K",
@@ -973,7 +1021,7 @@
    "title": "Disque SSD 128Go - MacBook Air A1465/A1466 (2013-2017) et MacBook Pro A1502/A139",
    "price_raw": "14.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206339481985?_skw=ssd&hash=item300acaa181:g:N7YAAeSwJQlrB-Al",
+   "url": "https://www.ebay.fr/itm/206339481985?_skw=ssd&hash=item300acaa181:g:V6sAAeSwRZ9rB-Rw",
    "posted_at": "2026-06-11T16:08:59+00:00"
   },
   {
@@ -989,24 +1037,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-ninkear-u9-pro-3469086",
    "posted_at": "2026-11-25T15:00:14+00:00"
-  },
-  {
-   "title": "Câble Ethernet Cat 7 APM - 20M, RJ45 Réseau 10Gbps 600MHz, Blindé S/FTP, Cordon Internet Très Haut débit",
-   "price_raw": "7,86€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apm-cable-ethernet-cat-7-20m-rj45-reseau-10gbps-600mhz-blinde-sftp-cordon-internet-tres-haut-debit-3469072",
-   "posted_at": "2026-11-25T14:39:37+00:00"
-  },
-  {
-   "title": "Moniteur Interphone Urmet Miro Couleur - blanc, 1750/16 (Vendeur Tiers)",
-   "price_raw": "179€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/moniteur-interphone-urmet-miro-couleur-mains-libres-blanc-175016-3469059",
-   "posted_at": "2026-11-25T14:30:41+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1908,
+  "listings_seen": 1910,
   "models_with_reference": 77
  }
 }
