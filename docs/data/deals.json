@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T18:38:00Z",
+ "generated_at": "2026-11-26T19:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 345,
-   "last_ok": "2026-11-26T18:38:00.627620+00:00"
+   "items": 344,
+   "last_ok": "2026-11-26T19:08:00.674634+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-26T18:38:00.627620+00:00"
+   "items": 377,
+   "last_ok": "2026-11-26T19:08:00.674634+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 78,
-   "last_ok": "2026-11-26T18:38:00.627620+00:00"
+   "items": 80,
+   "last_ok": "2026-11-26T19:08:00.674634+00:00"
   }
  },
  "watchlist": [
@@ -207,25 +207,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8FgZwUcIcREPsOEaJLsmFOTKqWibe3yasU5MImn8n7%2FhBQBJk%2B5%2FUg0YLt%2BgBzm2lKKQy%2FdmJKED0II7zE7wXYYHMIxhaA7iqUWA14bvywbMvvjbvrJBAz84uPChyzgeyz4%2BG9xsRGoLlgaIBEZxSSSyTWObwSRctMpw3Ic%2FpWdA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8aQU7vfmc%2BsOWZtfUtKKibzOxrmOmqO6JqBOQUla%2B9sXOdy5pxcK9yr7OYkJVzINub5zajV6IacpillZ4iDidaH8BTCMBbvbBLmrCbi5%2Fl6QwX0w7q7svPjtggdKZF2tZsSo9lmKGYBg9JyDRbrFFyHIlR2G7vnyB%2FnS9wWXCTwg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
-   "model": "RAM:DDR4-16Go-2933",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 79.95,
-   "shipping_eur": 3.9,
-   "effective_eur": 83.85,
-   "median_eur": 135.75,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tanzen_store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux6CPyoEAL%2BDwFDxcyZcy72dDt%2F8RD4yA%2B8oXd4FqEVGwWHeAGqVe3Oc2QP574Dyxc2ydkTrwg%2BGhox5%2FKVgopfVHHh6luysam7%2BX8tWUTE2nMNNBaVfGeLUAUUYgNEN%2BnBXZRCDyxxM9j8WnW8GOJB",
-   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -256,7 +239,7 @@
    "discount_pct": 35.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 258 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 259 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
    "posted_at": "2026-11-24T11:41:43+00:00"
@@ -394,7 +377,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (99,3 %, 151 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRiKpz7Gs79%2FWoFqElaZeRIv26AWwauVXh7GEpNcOD5JxSnrpYCupB5yDM2Oj3%2FNemJdixKaOFQ22qmUnI5rqvJzVc8V2l8eY3TUiqZaoT06b6WqksbMw1%2FGlkoVQjkUAGNNxKPzHr5vFpr6rJJHXgfr",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRiArrs3bECs%2FRGjECemwprXMEYYuVARk8p%2BHV2EMh5CgsfbD3NoeKKdS5ibED0PV4KkkWT%2Fi8zPXLmJWQw0VWsPHIT%2By5JDQK3oyGYTS5wIA%2FSuDmq%2F9btA0ej5JHqAfQRoBbVx6yMC%2F7eWS%2FJXzqgj",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -415,6 +398,23 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
+   "title": "SSD 512gb SK hynix 2.5\" sata 3",
+   "model": "SSD:SATA-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 44.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 44.0,
+   "median_eur": 57.59,
+   "discount_pct": 23.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · go35700 (100,0 %, 87 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267855446219?_skw=ssd&hash=item3e5d6dc0cb:g:Ki8AAeSwGQNrCHv-",
+   "posted_at": "2026-11-26T18:40:22+00:00"
+  },
+  {
    "title": "MSI B360M MORTAR",
    "model": "MB:B360",
    "category": "MB",
@@ -430,23 +430,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960236293125?_skw=carte+m%C3%A8re&hash=itemdf928b0c05:g:GzUAAeSw~oZrBMUt",
    "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
-   "title": "SK hynix SC401 512 Go SSD 2,5\" SATA III 7mm - Occasion testé",
-   "model": "SSD:SATA-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 42.3,
-   "shipping_eur": 3.0,
-   "effective_eur": 45.3,
-   "median_eur": 59.0,
-   "discount_pct": 23.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · loumii (98,8 %, 98 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407379980331?_skw=ssd&hash=item5ed9bd302b:g:KzwAAeSwqqFq50xE",
-   "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
    "title": "Mémoire RAM Juhor 32Go DDR5 (2X16) 6000Mhz cl38 (352,26€ via Paypal)",
@@ -481,6 +464,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-msi-b760m-gaming-plus-wifi-micro-atx-lga-1700-3468017",
    "posted_at": "2026-11-24T17:43:18+00:00"
+  },
+  {
+   "title": "SK hynix SC401 512 Go SSD 2,5\" SATA III 7mm - Occasion testé",
+   "model": "SSD:SATA-512Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 42.3,
+   "shipping_eur": 3.0,
+   "effective_eur": 45.3,
+   "median_eur": 57.59,
+   "discount_pct": 21.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · loumii (98,8 %, 98 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407379980331?_skw=ssd&hash=item5ed9bd302b:g:KzwAAeSwqqFq50xE",
+   "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -568,23 +568,6 @@
    "posted_at": "2026-11-20T10:13:01+00:00"
   },
   {
-   "title": "SSD SAMSUNG 850 PRO – 512 Go – SATA III – 2,5” - Occasion testé",
-   "model": "SSD:SATA-512Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 46.25,
-   "shipping_eur": 2.78,
-   "effective_eur": 49.03,
-   "median_eur": 59.0,
-   "discount_pct": 16.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · matthieu2278 (100,0 %, 100 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137962295922?_skw=ssd&hash=item201f319272:g:qDQAAeSwNPZrBxiP",
-   "posted_at": "2026-11-25T17:20:32+00:00"
-  },
-  {
    "title": "Écran PC gaming incurvé 34\" HKC V3419US - UWQHD (3440 x 1440), VA 1500R, 120 Hz, 1 ms, HDR400, FreeSync",
    "model": "MON:34-UWQHD-120Hz",
    "category": "MON",
@@ -636,6 +619,23 @@
    "posted_at": "2026-11-21T20:27:57+00:00"
   },
   {
+   "title": "Transcend 112S 512 Go SSD M.2 3D NAND NVMe PCIe 3.0",
+   "model": "SSD:NVMe-512Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 85.0,
+   "shipping_eur": 0.0,
+   "effective_eur": 85.0,
+   "median_eur": 464.08,
+   "discount_pct": 81.7,
+   "target_hit": false,
+   "suspect": true,
+   "merchant": "eBay · jeanphif1 (100,0 %, 236 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327478846120?_skw=ssd&hash=item4c3f42a2a8:g:0MEAAeSw8-hrCHoy",
+   "posted_at": "2026-11-26T18:35:46+00:00"
+  },
+  {
    "title": "SSD M.2 2280 Acer Predator GM6 512 Go PCIe Gen4x4 NVMe 2.0 (vendeur tiers)",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
@@ -643,8 +643,8 @@
    "price_eur": 89.99,
    "shipping_eur": null,
    "effective_eur": 89.99,
-   "median_eur": 549.99,
-   "discount_pct": 83.6,
+   "median_eur": 464.08,
+   "discount_pct": 80.6,
    "target_hit": false,
    "suspect": true,
    "merchant": "Amazon",
@@ -660,8 +660,8 @@
    "price_eur": 89.99,
    "shipping_eur": null,
    "effective_eur": 89.99,
-   "median_eur": 549.99,
-   "discount_pct": 83.6,
+   "median_eur": 464.08,
+   "discount_pct": 80.6,
    "target_hit": false,
    "suspect": true,
    "merchant": "Amazon",
@@ -671,6 +671,34 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "Souris gaming sans fil Sony Inzone Mouse-A - 48,4 g, 8000 Hz, capteur 30K DPI, 90 h d'autonomie",
+   "price_raw": "99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-sony-inzone-mouse-a-484-g-8000-hz-capteur-30k-dpi-90-h-dautonomie-3470729",
+   "posted_at": "2026-11-26T19:02:38+00:00"
+  },
+  {
+   "title": "Ventilateurs PC Corsair RS120-R ARGB 120mm PWM +5 ARGB Inversée",
+   "price_raw": "30,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/corsair-rs120-r-argb-120mm-pwm-5-argb-inversee-ventilateurs-3470701",
+   "posted_at": "2026-11-26T18:38:29+00:00"
+  },
+  {
+   "title": "KINGSTON DDR5 8 Go 5600 MT/s CL46 DIMM",
+   "price_raw": "268.50 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/880155041790?_skw=ddr5&hash=itemcced541ffe:g:RCQAAeSwnMJrCH3p",
+   "posted_at": "2026-11-26T18:43:54+00:00"
+  },
+  {
+   "title": "Écran pc incurvé Samsung C27f396fhu",
+   "price_raw": "261.39 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVcZGcz6g%2Bw%2Bv5QQlRzFOnFEJ8V70WTD%2FcDEmj%2BvDVHoXxZ8LQ%2Fh7t9sLCeN%2FmsD8XMXI1UoObxBVTs6qy5Hsqf78tQiXl6Bh%2B5b5dqBdpQxI%2BixPWNLxiJ4CwRzbaJXjmGUPFLu8tdeRoyexbcWhYN4SD0IIOo1rYbtkVy0rqpnfw%3D%3D",
+   "posted_at": "2026-11-26T18:35:10+00:00"
+  },
   {
    "title": "Serveur de stockage Nas Ugreen NASync DH2300",
    "price_raw": "179,99€",
@@ -687,9 +715,9 @@
   },
   {
    "title": "Kingston FURY Beast RGB DDR4 16 Go (2 × 8 Go) 3200 MT/s CL16 DIMM",
-   "price_raw": "270.08 EUR",
+   "price_raw": "244.64 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407391205270?_skw=ddr4&hash=item5eda687796:g:r7cAAeSw8T9rCHft",
+   "url": "https://www.ebay.fr/itm/407391205270?_skw=ddr4&hash=item5eda687796:g:waMAAeSwfPJq9xBI",
    "posted_at": "2026-11-26T18:18:16+00:00"
   },
   {
@@ -850,7 +878,7 @@
    "title": "Alimentation PSU ordinateur DELL 180w pour format SFF OptiPlex 3040/5040/7040",
    "price_raw": "24.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH0ZHTWHVnK4FhspmClYeKLNfHd8wNtuWyauf8icN5uandqDENAi3rlp5ryea6xB9bCUW4vgS1K2YqmTrTUbmwLZuaV61lBXggHFeTBjM4HRtujD8tRgt5kSwqQWbGN%2FKa58ym%2FMropiAhAriPv6T9s14Adl1h%2F5YD9NtzPPoP9VnA%3D%3D",
+   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH3slJ6BhB38G9ZBmq%2BbB2Iw1O0eIET0IWAeDoBVH1CIaJefvQQv4rjiahe8KXc%2FkSZkC1iNli%2Bgs%2F5726ws%2FCJX4YWafV%2Bta6hg9YaDp7opWz%2B%2FW0WW16WnqVkyW%2FoYiMU2KmVFSLRlbiOWEE18UlS%2BzGtL2j1qTxvPrCqqTenb5w%3D%3D",
    "posted_at": "2026-10-13T12:25:13+00:00"
   },
   {
@@ -931,17 +959,10 @@
    "posted_at": "2026-11-26T15:33:56+00:00"
   },
   {
-   "title": "Barette kingston server premier KSM26RD8/16 HDI 2666V ECC CL19",
-   "price_raw": "155.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920187748691?_skw=ddr4&hash=itemd63f76c153:g:hgsAAeSwS8prCExb",
-   "posted_at": "2026-11-26T15:18:32+00:00"
-  },
-  {
    "title": "RAM DDR5 Micron 8GB 1RX16 PC5-4800B Pour Pc Portable",
    "price_raw": "79.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3gXIxJsJ2AEDlmHuAbXwVWYuxaHRy0EsS4Db4yiBpb4%2Fpjivc5xrX7MmShWA9%2FImA4ZOtt%2FgHrJ7QXMslbOZrdcZiB2%2Fsu%2Bln4gKfheJmTaDOxhVBpWYiHjRGid0EWW8D6StlvwIxLOPZQb2qdrMIqz",
+   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3iR%2BiT%2BKuRpM%2BU3%2ByQ0MOcErbroh4c%2Fg80SCdwsN9lGiTMKPd72Wu9fJ0iqSCe5ZIgkXvg%2BSy62Ks4%2Bpe7yPkzyrPJINflec9Obl4yLL26zr%2F5Wrj%2Fm2erjGNU7QBv8r%2BX0%2FbWdFpCY%2B4tf22EYNqm5",
    "posted_at": "2026-11-23T10:24:28+00:00"
   },
   {
@@ -999,31 +1020,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336918142465?_skw=watercooling&hash=item4e71e2de01:g:8hEAAeSwGQNrCESg",
    "posted_at": "2026-11-26T14:39:24+00:00"
-  },
-  {
-   "title": "Be Quiet! Light Loop 240 mm - Watercooling",
-   "price_raw": "133.93 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142360?_skw=watercooling&hash=item4e71e2dd98:g:mO0AAeSwlUBrCESe",
-   "posted_at": "2026-11-26T14:39:19+00:00"
-  },
-  {
-   "title": "Be Quiet! Silent Loop 3 360 mm - Watercooling",
-   "price_raw": "159.25 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918143166?_skw=watercooling&hash=item4e71e2e0be:g:85AAAeSwGQNrCETL",
-   "posted_at": "2026-11-26T14:40:06+00:00"
-  },
-  {
-   "title": "Be Quiet! Light Loop 360 mm - Watercooling",
-   "price_raw": "148.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918143820?_skw=watercooling&hash=item4e71e2e34c:g:O9EAAeSw61FrCETk",
-   "posted_at": "2026-11-26T14:40:31+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1989,
-  "models_with_reference": 78
+  "listings_seen": 1993,
+  "models_with_reference": 79
  }
 }
