@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T16:08:00Z",
+ "generated_at": "2026-11-26T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 341,
-   "last_ok": "2026-11-26T16:08:00.826242+00:00"
+   "items": 343,
+   "last_ok": "2026-11-26T16:38:00.651021+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 387,
-   "last_ok": "2026-11-26T16:08:00.826242+00:00"
+   "items": 383,
+   "last_ok": "2026-11-26T16:38:00.651021+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-26T16:08:00.826242+00:00"
+   "items": 24,
+   "last_ok": "2026-11-26T16:38:00.651021+00:00"
   }
  },
  "watchlist": [
@@ -177,6 +177,23 @@
    "posted_at": "2026-11-18T18:28:36+00:00"
   },
   {
+   "title": "ASUS TUF B450-PLUS GAMING carte mère ATX Socket AM4 NON TESTÉ",
+   "model": "MB:B450",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 42.3,
+   "shipping_eur": 0.0,
+   "effective_eur": 42.3,
+   "median_eur": 72.88,
+   "discount_pct": 42.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · lesvraisbonplans (98,3 %, 388 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860179625912?_skw=carte+m%C3%A8re&hash=itemc846b377b8:g:CfYAAeSwfn9rCFl1",
+   "posted_at": "2026-11-26T16:10:00+00:00"
+  },
+  {
    "title": "Alimentation PC ATX HK380-12GP S2 280w",
    "model": "PSU:280W",
    "category": "PSU",
@@ -190,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FDtqBxUM9NqJhH8gUC1nX7ZdyKSMryW0GZyU1oPa6M9%2Fl03Xo1lbhPObK2QJohP7G8VxO6V4nN0%2Fz%2B8IuDwAlUeTFbOxLspe63xi7Oi%2FelQLvVerhleLWbeumOZM4ikylWA%2BvIVKgmdKCzUDh9tDG2fz0FIXKHcj%2FlTqHnYvtCPg%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2B%2FdzJbmphsAm62gY4vlGwCvTeq4Yt4M9n5zColyY6U5KpYCB38HBO0PziUhXgtgsCdIzDQpwVHNfCdtPXiunS5HbTLStfTHwM8NelzicBIE3uLXpLrHFYeA2KwSQB974vkRnuBll0iqPCx48qrcdVbFqfHpLlU9OuLPqTkyrWBRA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -207,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwkx21uRG1EXDqHTGwl72tUIVSGPYvI9ol%2FwvnpBxkMc4JMTcAcoZEEQ3oaHuu3alJs1vk3nB18uaF8k9DK4U81M0f8LRixwtdsZ97%2Fl8SmaNRw8Tw8%2B31dP0BzuN3JkaofpSvDHYWUQ751sk3ZpY2l",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzBJ%2FjNeQN5%2BNpXk2ZFsp2idklUhLIr4CI8nYKM8fhIDjTaPsbYHE1mGgvRrDYDYgC3sjTrGntYtHJPEiGzqR99t7%2Bls6YFLDMeXuI%2BXRb9OOdrNK8KDaWgHPFCuUuSTyV3Fxg83ciflOjpb5QhrSG9",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -224,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 258 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKWGWO8TOraKNcAgDixyF8TIs74CD%2BszoiMax0zceuDTzJNvShMDkCxWPLGZcgcyslJ1z4uZVI%2FGX9u%2FIiFS9cPzJLtx%2B7HgnFCQXNcOYuUOVsvmuCvqwR%2Bi63XUWwRXU6Uuf5nWAO2ookjwouVicM0N",
+   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKX%2FbE0C%2B2axU1I3FE0QZyeYqLgf3q7kLV5kSiJXJWEtrvY2YP47Fjiz6uCCzY7aaKbCjMmXFVj9vgXyQBxvEjhX1jcGVkSH01FK6%2FcGYQORtqdzGCowO6FQ%2FgLdS64MNqR%2BwU1MntKSovmA%2FnCmFt8I",
    "posted_at": "2026-11-24T11:41:43+00:00"
   },
   {
@@ -330,6 +347,23 @@
    "posted_at": "2026-11-26T15:49:52+00:00"
   },
   {
+   "title": "SSD 1 To Sandisk (Frontaliers Belgique)",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.99,
+   "shipping_eur": null,
+   "effective_eur": 109.99,
+   "median_eur": 149.99,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/sandisk-ssd-1to-amazon-belgique-3470471",
+   "posted_at": "2026-11-26T16:11:56+00:00"
+  },
+  {
    "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -343,7 +377,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (99,3 %, 151 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjOFOMpnHqA8Mss2qnXXOgvEOeuSKnTbrgwXJIkRpccRCgSIT%2BIRVLtR251wYqa0ll17F6elNmXmQgWEa2FPrjoFfvWmPX4nZFk%2BdluXoZYUiRkp35afUzvfIFIzxY8cJdzElb%2FoGIVBRocZYpgg%2F%2Bw",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRhRWwqyLFnVx%2FRlHHLlBfrXaHUPQ2TEphSA1%2Ff9o54eeTdd0ewZkqX5qQCljlahlS%2BeSegnqDVUQGpBrspt%2Fe%2FXIg1r5O9XFBr3dynTOsMZiDCzxs8j3VkIKcappa%2F9wj%2FQmplPx46hD00HIi%2BzbP6G",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -621,6 +655,69 @@
  ],
  "unclassified": [
   {
+   "title": "Serveur de stockage Nas Ugreen DXP2800 - 2 Baies 3,5\" + 2 Slots SSD NVME, N100, 8 Go Ram (Extensible), RJ45 2.5GbE",
+   "price_raw": "308,92€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/serveur-de-stockage-nas-ugreen-dxp2800-2-baies-35-2-slots-ssd-nvme-n100-8-go-ram-extensible-rj45-25gbe-3470472",
+   "posted_at": "2026-11-26T16:10:06+00:00"
+  },
+  {
+   "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - Windows 11, FHD, Ryzen 3 30, RAM 16 Go, SSD 512 Go",
+   "price_raw": "424,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-15amn8-windows-11-fhd-ryzen-3-30-ram-16-go-ssd-512-go-azerty-3470513",
+   "posted_at": "2026-11-26T16:36:16+00:00"
+  },
+  {
+   "title": "PC portable Gamer 15,1\" Lenovo Legion5 15IRX10 - WQXGA (2560 x 1600) OLED 165 Hz, i7-13650HX, RTX 5060 115W, 16Go / 512Go + Souris sans fil",
+   "price_raw": "1 274,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-151-lenovo-legion5-15irx10-wqxga-2560-x-1600-oled-165-hz-i7-13650hx-rtx-5060-115w-16go-512go-souris-sans-fil-3470514",
+   "posted_at": "2026-11-26T16:33:59+00:00"
+  },
+  {
+   "title": "PC portable 16\" Asus VivoBook 16 X1607 - WUXGA IPS (1920 x 1200), Snapdragon X X1-26-100, 8Go RAM, 256Go SSD, 50 Wh, Win 11",
+   "price_raw": "374,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-asus-vivobook-16-x1607-wuxga-ips-1920-x-1200-snapdragon-x-x1-26-100-8go-ram-256go-ssd-50-wh-win-11-3470505",
+   "posted_at": "2026-11-26T16:27:59+00:00"
+  },
+  {
+   "title": "PC portable 16\" HP OmniBook 3 16-by0041nfx - WUXGA IPS (1920 x 1200), Ryzen 5, 8Go RAM, 256Go SSD, 41 Wh, Win 11",
+   "price_raw": "374,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-hp-omnibook-3-16-by0041nfx-d91qseaabf-wuxga-ips-1920-x-1200-ryzen-5-8go-ram-256go-ssd-41-wh-win-11-3470499",
+   "posted_at": "2026-11-26T16:25:20+00:00"
+  },
+  {
+   "title": "Pack tablette Lenovo Idea Tab Plus 12,1\" - Écran 2,5K 90 Hz, Dimensity 6400, 6 Go RAM, 128 Go + stylet et clavier Folio",
+   "price_raw": "274,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pack-tablette-lenovo-idea-tab-plus-121-ecran-25k-90-hz-dimensity-6400-6-go-ram-128-go-stylet-et-clavier-folio-3470484",
+   "posted_at": "2026-11-26T16:17:16+00:00"
+  },
+  {
+   "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - Full HD TN, Ryzen 3 30, RAM 16 Go, SSD 512 Go, 47 Wh, Sans OS",
+   "price_raw": "374,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-15amn8-full-hd-tn-ryzen-3-30-ram-16-go-ssd-512-go-47-wh-sans-os-3470481",
+   "posted_at": "2026-11-26T16:16:18+00:00"
+  },
+  {
+   "title": "PC Portable 15,6\" Gamer HP Victus 15-fa2046nf - Full HD IPS 144Hz, i5-14500HX, 16 Go RAM, 512 Go SSD, RTX 3050, 70 Wh, Sans OS",
+   "price_raw": "674,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-gamer-hp-victus-15-fa2046nf-full-hd-ips-144hz-i5-14500hx-16-go-ram-512-go-ssd-rtx-3050-70-wh-sans-os-3469180",
+   "posted_at": "2026-11-26T16:08:37+00:00"
+  },
+  {
+   "title": "Alimentation PSU ordinateur DELL 180w pour format SFF OptiPlex 3040/5040/7040",
+   "price_raw": "24.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH2h5eadbH6ulFlAnSfMfQr44TvgVafKatpcRtPBkRbAr4hpPdP5troHKkNpZvCJt9qnNLCJwSF5ng43iKXEL5AQp0ltqMnXvCyjPARxmUx601a3ZbtqltBbeCXVzrdJlQCdB5c2r5VwtgW%2FGpWsyGNOIatosXMrF40GmYERNnnwrg%3D%3D",
+   "posted_at": "2026-10-13T12:25:13+00:00"
+  },
+  {
    "title": "Apple MacBook Air 13,6\" M5 (2026) - 16 Go RAM, SSD 512 Go, CPU 10 cœurs, GPU 8 cœurs, écran Liquid Retina, Wi-Fi 7",
    "price_raw": "1 174€",
    "source": "dealabs",
@@ -635,7 +732,7 @@
    "posted_at": "2026-11-26T15:57:35+00:00"
   },
   {
-   "title": "Imprimante 3D Bambu Lab P1S (Vendeur tiers)",
+   "title": "Imprimante 3D Bambu Lab P1S - sans AMS (Vendeur tiers)",
    "price_raw": "374€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-bambu-lab-p1s-combo-avec-ams-vendeur-tiers-3470442",
@@ -685,7 +782,7 @@
   },
   {
    "title": "PC Portable 16\" Gigabyte - A16 CTHH3FR893SD, FHD+, RTX 5060, i5-13420H, RAM 16Go, SSD 512Go, Sans Windows",
-   "price_raw": "949,99€",
+   "price_raw": "924,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-gigabyte-sans-windows-gaming-a16-cvhh3fr893sd-16-fhd-rtx-5060-i5-13420h-ram-16go-ssd-512go-3470407",
    "posted_at": "2026-11-26T15:29:04+00:00"
@@ -715,7 +812,7 @@
    "title": "RAM DDR5 Micron 8GB 1RX16 PC5-4800B Pour Pc Portable",
    "price_raw": "79.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3jrbqMoqBSAHVUuVmYZtMISiPvkVB4%2FostlMZTE6qTSMkPg9%2BSJ4rjzmi41ymZWWm6iOJgdrAoIJ7Va4C0MW8sFiwPuNTNAtWujhLa6xNHqUmotxDlNgb9UeO7Xe8Ovw8OdZVuuWnahjStkiWhEbGLp",
+   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3gmDVhhTMDd6i3Ar%2FcPPuYOpFapk3VP7Lpowl0lgOYQu9CHQwcHPprUmCIIjjG8SahllpCk0alwm%2Fk%2FRYgZO5ivwpeVtbpRjMo3YxcUDTtVxXwh0kpLDLEVS1afsRZ4YtA%2Bi8APLW5%2Bhe2B2bJ9RlGL",
    "posted_at": "2026-11-23T10:24:28+00:00"
   },
   {
@@ -876,7 +973,7 @@
    "title": "Processeur Intel Xeon E5-2697 v2 2,7 GHz 12 cœurs LGA 2011 SR19H",
    "price_raw": "84.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287647701341?_skw=processeur&hash=item42f923995d:g:G9YAAeSwJyBqz3J~&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7msofhrSKM2dgOKTggsX4KWkQfO8adTRD1Gw22J0dA1%2BZQSQ0tekVJmYivZnYYKWeT44Vgp%2F9kA2a2XlqF9lmh3wPDxhVK32BZTAg%2BqxPjd5zHGKj8tMGmiKTFSUz%2BL2EAxfw1xWBwCNvHOLzuFjdMqk3emGtVF5UHVAQZNaxx%2FbHnmgHjepU52UotuMZRwwoJBhideANXfZp%2Bt8OyXgV6k3BSDDUvE2cQdg4rifKFPVsxtQC%2FBPARKiKQ1Wtx7fkgK60UAqKVYsQ3cUnDIVdaN",
+   "url": "https://www.ebay.fr/itm/287647701341?_skw=processeur&hash=item42f923995d:g:G9YAAeSwJyBqz3J~&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7msofhrSKM2dgOKTggsX4KWkQfO8adTRD1Gw22J0dA1%2BZQSQ0tekVJmYivZnYYKWeT44Vgp%2F9kA2a2XlqF9lmh3wPDxhVK32BZTAg%2BqxPjd5zHGKj8tMGmiKTFSUz%2BL2EBFF7jie72oCBqUvsAK4lEKBAfKoXrtDueTb65QiLQTC9pNxncHbG3YOfnyNWDHafZyWfNfEdXzLOQkgih5cyWsT%2BMH0rdDnT2qq7PVSyS849pJYS2aPF0CtsxOtS35drfsms0F2E7b3Y0u1KBXCxYe",
    "posted_at": "2026-10-14T12:16:19+00:00"
   },
   {
@@ -906,73 +1003,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-acer-predator-x27x1bmiippruzx-673-cm-265-4k-uhd-qd-oled-hdmi-displayport-3470159",
    "posted_at": "2026-11-26T12:47:48+00:00"
-  },
-  {
-   "title": "Tablette 11,5\" Honor Pad x9a - 6Go Ram, 128 Go",
-   "price_raw": "152,09€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/honor-pad-x9a-6go-ram-128go-3470176",
-   "posted_at": "2026-11-26T12:40:55+00:00"
-  },
-  {
-   "title": "PC Portable 17,3\" HP OmniBook X Next Gen AI 17-DE0005NFX - Core Ultra 5 325, Intel Graphics, RAM 16 Go, SSD 512 Go, Full HD, Windows 11",
-   "price_raw": "900,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/hp-omnibook-x-next-gen-ai-17-de0005nfx-173-full-hd-ecran-tactile-copilotpc-intel-core-ultra-5-16-go-ram-512-go-ssd-argent-glacier-3470062",
-   "posted_at": "2026-11-26T10:53:21+00:00"
-  },
-  {
-   "title": "PC de bureau FlowUP BlazeForce - Ryzen 7 5700X, RTX 5060 8 Go, 32 Go RAM DDR4, SSD 1 To",
-   "price_raw": "1 057,75€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-gamer-monte-flowup-blazeforce-ryzen-7-5700x-rtx-5060-8-go-32-go-ram-ddr4-ssd-1-to-via-flowup-3470125",
-   "posted_at": "2026-11-26T11:42:54+00:00"
-  },
-  {
-   "title": "Dashcam Voiture Avant/Arrière BOTSLAB G300H Plus 4K + 1080p - Double capteur Sony STARVIS 2, Wi-Fi 5,8 GHz, GPS intégré (vendeur tiers)",
-   "price_raw": "94,75€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/dashcam-voiture-avantarriere-botslab-g300h-plus-4k-1080p-double-capteur-sony-starvis-2-wi-fi-58-ghz-gps-integre-3470026",
-   "posted_at": "2026-11-26T11:25:21+00:00"
-  },
-  {
-   "title": "NVIDIA carte graphique GEFORCE GTX 1070 Ti FOUNDERS EDITION",
-   "price_raw": "104.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206728446579?_skw=carte+graphique&hash=item3021f9c273:g:HlkAAeSw3Uxq8HMT",
-   "posted_at": "2026-11-26T11:23:28+00:00"
-  },
-  {
-   "title": "Keycap Princesse Mononoké – La gardienne de la forêt sur votre clavier",
-   "price_raw": "15.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117543124522?_skw=clavier&hash=item1b5e1dbe2a:g:OskAAeSwkIVrCAzO",
-   "posted_at": "2026-11-26T10:42:36+00:00"
-  },
-  {
-   "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
-   "price_raw": "1 089€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-avec-puce-apple-m6-argent-processeur-12-coeurs-et-carte-graphique-12-coeurs-16-go-de-memoire-partagee-512-go-3469982",
-   "posted_at": "2026-11-26T09:49:10+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Samsung Galaxy Book 5 Pro - AMOLED WQXGA 120Hz Tactile, Intel Core Ultra AI 5 226V, RAM 16Go, SSD 512Go, Intel Arc 130V, W11",
-   "price_raw": "855,42€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-samsung-galaxy-book-5-pro-amoled-wqxga-120hz-tactile-intel-core-ultra-ai-5-226v-ram-16go-ssd-512go-intel-arc-130v-w11-3469976",
-   "posted_at": "2026-11-26T09:44:02+00:00"
-  },
-  {
-   "title": "Processeur de modélisation Soran Dual Stomp Pedal Lite",
-   "price_raw": "58€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/processeur-de-modelisation-soran-dual-stomp-pedal-lite-3469916",
-   "posted_at": "2026-11-26T09:08:03+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1971,
+  "listings_seen": 1981,
   "models_with_reference": 82
  }
 }
