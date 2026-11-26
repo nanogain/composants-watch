@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T18:08:00Z",
+ "generated_at": "2026-11-26T18:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 345,
-   "last_ok": "2026-11-26T18:08:00.619758+00:00"
+   "last_ok": "2026-11-26T18:38:00.627620+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 378,
-   "last_ok": "2026-11-26T18:08:00.619758+00:00"
+   "last_ok": "2026-11-26T18:38:00.627620+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-26T18:08:00.619758+00:00"
+   "items": 78,
+   "last_ok": "2026-11-26T18:38:00.627620+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9C%2BNaQPuBd9IyAIz2VnKGFh80IfFLMsKL3Tfjwi3%2Bcx%2B4hJBn%2Ft3yOTqdz4xS2ZHlPcX1W7iF3PF6a5BOrLBUviopz2t9F4ozBOQ%2FBGewrg0vG4fmaBOid59WuTEZYaegy9PdUSHjcFrelH1HmF75cgLaKT3HPRPFVX2gCNp3SlA%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8FgZwUcIcREPsOEaJLsmFOTKqWibe3yasU5MImn8n7%2FhBQBJk%2B5%2FUg0YLt%2BgBzm2lKKQy%2FdmJKED0II7zE7wXYYHMIxhaA7iqUWA14bvywbMvvjbvrJBAz84uPChyzgeyz4%2BG9xsRGoLlgaIBEZxSSSyTWObwSRctMpw3Ic%2FpWdA%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyn0riaR%2B1JlJ3cfdnBdR1pybNqTilb9J41mUP5SRqdAiub2arcbvfU2NC4U8krEdIvI8EapxtDkxKehj%2BGh9bSr93qv79IV22ZT1nvRKcAYsdBT5VZ1vQvYeui0N%2BUhzcdpZNpejiYQEmFSz8te%2BWs",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux6CPyoEAL%2BDwFDxcyZcy72dDt%2F8RD4yA%2B8oXd4FqEVGwWHeAGqVe3Oc2QP574Dyxc2ydkTrwg%2BGhox5%2FKVgopfVHHh6luysam7%2BX8tWUTE2nMNNBaVfGeLUAUUYgNEN%2BnBXZRCDyxxM9j8WnW8GOJB",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -381,6 +381,23 @@
    "posted_at": "2026-11-26T16:11:56+00:00"
   },
   {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 109.99,
+   "median_eur": 149.99,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (99,3 %, 151 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRiKpz7Gs79%2FWoFqElaZeRIv26AWwauVXh7GEpNcOD5JxSnrpYCupB5yDM2Oj3%2FNemJdixKaOFQ22qmUnI5rqvJzVc8V2l8eY3TUiqZaoT06b6WqksbMw1%2FGlkoVQjkUAGNNxKPzHr5vFpr6rJJHXgfr",
+   "posted_at": "2026-11-24T20:50:45+00:00"
+  },
+  {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -498,6 +515,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/198685861034?_skw=ddr4&hash=item2e4299a4aa:g:ndQAAeSw5RdqiLPG",
    "posted_at": "2026-10-03T18:54:25+00:00"
+  },
+  {
+   "title": "SSD interne 2,5\" PNY CS900 - 500 Go",
+   "model": "SSD:NVMe-500Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 59.99,
+   "shipping_eur": null,
+   "effective_eur": 59.99,
+   "median_eur": 75.0,
+   "discount_pct": 20.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-25-500gb-pny-cs900-sata-3470650",
+   "posted_at": "2026-11-26T18:06:42+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -638,18 +672,32 @@
  ],
  "unclassified": [
   {
+   "title": "Serveur de stockage Nas Ugreen NASync DH2300",
+   "price_raw": "179,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/nas-ugreen-nasync-dh2300-3470666",
+   "posted_at": "2026-11-26T18:15:02+00:00"
+  },
+  {
+   "title": "Mini PC Apple Mac mini M6 - 16 Go RAM, 256 Go SSD, GPU 12 coeurs, macOS 27 Golden Gate",
+   "price_raw": "835,97€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-with-apple-m6-chip-silver-12-core-cpu-and-12-core-gpu-16gb-shared-memory-256gb-3470649",
+   "posted_at": "2026-11-26T18:11:48+00:00"
+  },
+  {
+   "title": "Kingston FURY Beast RGB DDR4 16 Go (2 × 8 Go) 3200 MT/s CL16 DIMM",
+   "price_raw": "270.08 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407391205270?_skw=ddr4&hash=item5eda687796:g:r7cAAeSw8T9rCHft",
+   "posted_at": "2026-11-26T18:18:16+00:00"
+  },
+  {
    "title": "Imprimante multifonctions Brother MFC-L2835DW - Laser Noir et Blanc - WiFi et Ethernet (Toner inclus)",
    "price_raw": "199,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonctions-brother-mfc-l2835dw-laser-noir-et-blanc-wifi-et-ethernet-toner-inclus-3470629",
    "posted_at": "2026-11-26T17:53:19+00:00"
-  },
-  {
-   "title": "Carte mère MotherBoard ordinateur pc HP ProDesk 400 G4 SFF 911985 TPM2.0 WinPro",
-   "price_raw": "29.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206728981219?_skw=carte+m%C3%A8re&hash=item302201eae3:g:TlcAAeSwctlrCHAC",
-   "posted_at": "2026-11-26T17:48:12+00:00"
   },
   {
    "title": "Bloc Alimentation pc  Antec 400 continuous power model hcg-400",
@@ -802,7 +850,7 @@
    "title": "Alimentation PSU ordinateur DELL 180w pour format SFF OptiPlex 3040/5040/7040",
    "price_raw": "24.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH2W0OkOKXUISeIms2xNHEG5TXMo3dc6IcLqmJaCoxWHIFkbwxL6Ttv2u2WlKtWPFVHl4%2Byv0OnznRFdiQ1frBUdua67RavFX4GEempoDqLKapztV6pqAukKZ0GeBiYjrgxOZrfAszWHiWR8LyTQ0DsqwU3bpwwM1Vj6zUh55nopIg%3D%3D",
+   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH0ZHTWHVnK4FhspmClYeKLNfHd8wNtuWyauf8icN5uandqDENAi3rlp5ryea6xB9bCUW4vgS1K2YqmTrTUbmwLZuaV61lBXggHFeTBjM4HRtujD8tRgt5kSwqQWbGN%2FKa58ym%2FMropiAhAriPv6T9s14Adl1h%2F5YD9NtzPPoP9VnA%3D%3D",
    "posted_at": "2026-10-13T12:25:13+00:00"
   },
   {
@@ -893,7 +941,7 @@
    "title": "RAM DDR5 Micron 8GB 1RX16 PC5-4800B Pour Pc Portable",
    "price_raw": "79.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3gyFsouq%2Bbkz1kgys4PJcGVFLPwBxaFrmdLq%2Bv9XpRdzHBsEXn0%2BT%2BsZzjZezX0nxiR2IQxDV5DOwovyyv8eZjLVtkblqfuSQfUWpfj0c8Dr797kc35M7uQ2Ay7h3jN2DW%2BRXcFZ9Ux%2BNxop%2BVkrk2P",
+   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3gXIxJsJ2AEDlmHuAbXwVWYuxaHRy0EsS4Db4yiBpb4%2Fpjivc5xrX7MmShWA9%2FImA4ZOtt%2FgHrJ7QXMslbOZrdcZiB2%2Fsu%2Bln4gKfheJmTaDOxhVBpWYiHjRGid0EWW8D6StlvwIxLOPZQb2qdrMIqz",
    "posted_at": "2026-11-23T10:24:28+00:00"
   },
   {
@@ -972,20 +1020,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/336918143820?_skw=watercooling&hash=item4e71e2e34c:g:O9EAAeSw61FrCETk",
    "posted_at": "2026-11-26T14:40:31+00:00"
-  },
-  {
-   "title": "Be Quiet! Silent Loop 3 240 mm - Watercooling",
-   "price_raw": "137.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918143567?_skw=watercooling&hash=item4e71e2e24f:g:vfgAAeSwdIJrCETW",
-   "posted_at": "2026-11-26T14:40:18+00:00"
-  },
-  {
-   "title": "Be Quiet! Light Loop 240 mm White - Watercooling",
-   "price_raw": "140.26 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918143061?_skw=watercooling&hash=item4e71e2e055:g:8sQAAeSw8K5rCETC",
-   "posted_at": "2026-11-26T14:39:58+00:00"
   }
  ],
  "stats": {
