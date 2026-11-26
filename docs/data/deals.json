@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T20:08:00Z",
+ "generated_at": "2026-11-26T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 347,
-   "last_ok": "2026-11-26T20:08:00.677040+00:00"
+   "items": 345,
+   "last_ok": "2026-11-26T20:38:00.627391+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 384,
-   "last_ok": "2026-11-26T20:08:00.677040+00:00"
+   "items": 370,
+   "last_ok": "2026-11-26T20:38:00.627391+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-26T20:08:00.677040+00:00"
+   "items": 34,
+   "last_ok": "2026-11-26T20:38:00.627391+00:00"
   }
  },
  "watchlist": [
@@ -211,6 +211,23 @@
    "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FuWeRfaGXLuRRRs5VDUHdQpoWuzFP%2BHjXD67jTgnF6TCIPc9DPZpzmOXN9vpCt1cLdrTzETLAox7e3032any4eyD6ULIVoCKFliIgcJcFB17jZp9hpVQJzKxCZPcZ83AySwF2bQAIooa558rENMiMrrdXT28IZV%2FQDp75mUxZezw%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -224,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxQNP0DboY9fU%2BvpmQkHkOz5PkJtodWoRkHqMmIWt0tzABicx%2FPIM9rnggYOwLCLNbS97GQgz7%2Bx8y942ovfhyg6dN0MSdPcJMfDyWvXj7SovC6QLM8CZkEWqwn65oGn40h7cGfVsKhAYm5agFcd9dp",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzQsTVx9htMv30ui%2BupZ1etg0S9A1R4QAloulQ6Q%2BjvA6GZzDb1Qu7mnJ6HW62O%2FRNhhBuFP5UWLTqdn%2FbJDLLC%2Bhsk39%2FRy4GxdRjAJU%2BwpUP3sljx9IavV4H%2BzVINxWThitcf3bASfSkPixhrEEPb",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -394,7 +411,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (100,0 %, 152 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRhMIzLszje874azlJOgYds5aBrxxX6XVrbV6TWf6bejLwsJf4diDEMAh6EhaVmjqlgf8E7NpnsipDeng%2B0DDXDJ4cYzQZD0lRdlduKhjq8FhPM1l0d8bPoNY70ytzDtStEuJoBelfaFK3v0OMnRMOrS",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRhINhSZixI%2FXvfB%2FkdsfToKSYPalmsSqml%2Fn9nie%2FL85xNzQ%2BJ5MROxtkm4SdcvUbQ0Wgu8gAB700fsXfH4drP1YfdUXu7RUp3TU4hxCvRg22JKO%2BaZ7z3rtvdWcHPeVE7fFW2%2BhmEc1JABvokLIri0",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -432,23 +449,6 @@
    "posted_at": "2026-11-26T18:40:22+00:00"
   },
   {
-   "title": "MSI B360M MORTAR",
-   "model": "MB:B360",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 89.0,
-   "shipping_eur": 8.99,
-   "effective_eur": 97.99,
-   "median_eur": 127.99,
-   "discount_pct": 23.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · celercards (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960236293125?_skw=carte+m%C3%A8re&hash=itemdf928b0c05:g:GzUAAeSw~oZrBMUt",
-   "posted_at": "2026-11-23T23:43:58+00:00"
-  },
-  {
    "title": "Mémoire RAM Juhor 32Go DDR5 (2X16) 6000Mhz cl38 (352,26€ via Paypal)",
    "model": "RAM:DDR5-32Go-6000",
    "category": "RAM",
@@ -481,23 +481,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-msi-b760m-gaming-plus-wifi-micro-atx-lga-1700-3468017",
    "posted_at": "2026-11-24T17:43:18+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 499.0,
-   "discount_pct": 21.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SK hynix SC401 512 Go SSD 2,5\" SATA III 7mm - Occasion testé",
@@ -723,6 +706,27 @@
  ],
  "unclassified": [
   {
+   "title": "Jouet Table de Mixage DJ Mix - Clavier de Synthé et Disque Noir",
+   "price_raw": "24,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/jouet-table-de-mixage-dj-mix-clavier-de-synthe-et-disque-noir-3470853",
+   "posted_at": "2026-11-26T20:28:37+00:00"
+  },
+  {
+   "title": "Écran PC 34\" MSI MAG 341CQP - QD-OLED, X28 UltraWide Quad HD, 280Hz, incurvé",
+   "price_raw": "693,22€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-msi-mag-341cqp-qd-oled-x28-34-ultrawide-quad-hd-280hz-qd-oled-incurve-reglable-3470845",
+   "posted_at": "2026-11-26T20:22:14+00:00"
+  },
+  {
+   "title": "Keypad Gaming Filaire Razer Nostromo (RZ07-0049) Clavier Une Main MMO / FPS",
+   "price_raw": "39.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137965523319?_skw=clavier&hash=item201f62d177:g:y-AAAeSwuY5rCJEj",
+   "posted_at": "2026-11-26T20:08:15+00:00"
+  },
+  {
    "title": "Logitech G G502 X PLUS, Souris gaming sans fil",
    "price_raw": "79,99€",
    "source": "dealabs",
@@ -756,13 +760,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/switch-tp-link-tl-sg108-m2-25-gigabit-8-ports-boitier-metal-silencieux-sans-ventilateur-plug-play-3470785",
    "posted_at": "2026-11-26T19:44:53+00:00"
-  },
-  {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
   },
   {
    "title": "PC Portable 16\" Gigabyte Aorus Master 8XJJ4FRE64SH - OLED, Ryzen 9 8940HX, 32GO, 5070 Ti (+220€ sur le compte adhérent)",
@@ -810,7 +807,7 @@
    "title": "Écran pc incurvé Samsung C27f396fhu",
    "price_raw": "261.39 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVfPN2SUCYqLLvhX0S%2F1h5ov9%2FLdmi4oaSq7Y3wjFoKUOYN0PrjUamvHd5DjEzaNAvwU5ehllR%2FtEtZs3t4BwxcLdo046IyGO2VEzZ54arDeRK0pCKEwlc%2BYfK8GjOu7OccdMYHbOyRdcUwtCuPkgrEpiEU5vRyTdUPnK3L4uGJ4pw%3D%3D",
+   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVc67dBnE2THzw%2FkDyj67I8UtjQV7hD%2BFHLuy73HrTe2r4iCVHQBv6nJgESyN%2BUK40N6J9KXSpkANTLIRRHiNZwv5x3VRjrHOgIHAu2PI8jQ%2BZNyS36pWB%2BWUXB45XbBpXHC5WnLXPdWx5NM%2FxZKpaBqRHab0XzLaQR9E1hEbvRoZA%3D%3D",
    "posted_at": "2026-11-26T18:35:10+00:00"
   },
   {
@@ -826,13 +823,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-mac-mini-with-apple-m6-chip-silver-12-core-cpu-and-12-core-gpu-16gb-shared-memory-256gb-3470649",
    "posted_at": "2026-11-26T18:11:48+00:00"
-  },
-  {
-   "title": "Kingston FURY Beast RGB DDR4 16 Go (2 × 8 Go) 3200 MT/s CL16 DIMM",
-   "price_raw": "244.64 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407391205270?_skw=ddr4&hash=item5eda687796:g:waMAAeSwfPJq9xBI",
-   "posted_at": "2026-11-26T18:18:16+00:00"
   },
   {
    "title": "Imprimante multifonctions Brother MFC-L2835DW - Laser Noir et Blanc - WiFi et Ethernet (Toner inclus)",
@@ -985,7 +975,7 @@
    "title": "Alimentation PSU ordinateur DELL 180w pour format SFF OptiPlex 3040/5040/7040",
    "price_raw": "24.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH1UToEFYz8lzXLjSYQs5KZM4XYTAQrWnVLpsBp3%2Fpo3io9VigPxX1yrDImb%2Bsdf1KYzMVe29QbdTJF1q5P8vJb5CpsvvITKDcd7P11T7bC9jv5staQC%2B7NTBddHaE227BUplyv19qKqFa5XNIDOZy9NTX6xIQNaXBdGLoe8shcltQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/267812529278?_skw=alimentation+pc&hash=item3e5adee47e:g:2R4AAeSwdENqziLh&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nQfpuAcOJHQnyHTBoxJguKKyfDF9jrxt6OHilnUcspOEEZzyyIzqFyLus4Na%2FbRgPNOUtrnqw%2FdtiN40mG6cOWnidj%2Fq%2Bj2IWaNqgoPh7rs0FdFgF%2F7nXd1Z9BydxATH3n7nv3CKxXikup3Wts3AOXfZ978twxozPXLCU3cZ2KvApochH%2FQBttDEJkdvhC%2FjKnfCfoz2Gyhnt7%2FdsTsND2%2BwO2t%2FDOAd5nZ3RQQhblBENltNK4bIpsE2PazXSf9n13tjWXxFziYEHve8MvLt2uC7GG2zYZWqV7rzuQ8KhG0Q%3D%3D",
    "posted_at": "2026-10-13T12:25:13+00:00"
   },
   {
@@ -1059,22 +1049,15 @@
    "posted_at": "2026-11-26T15:09:41+00:00"
   },
   {
-   "title": "Barette Ram 16GO DDR4 RAMAXEL 3200AA non ECC",
-   "price_raw": "94.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920187788126?_skw=ddr4&hash=itemd63f775b5e:g:n-EAAeSwNARrCFCT",
-   "posted_at": "2026-11-26T15:33:56+00:00"
-  },
-  {
    "title": "RAM DDR5 Micron 8GB 1RX16 PC5-4800B Pour Pc Portable",
    "price_raw": "79.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3hN57q7eG1xtliDughZWkkVWdQQosqpieN6S3bCB57XqfVfwztq8ZviS5LduCu0IkA5MssZh%2FZEA7iOkIRW0FWQ2MGAGLOFYV4x2UWOFVzm9F8xjcDTXDslhtUcNKAwevcAoU9ri6zgPWO3vQkuhPmS",
+   "url": "https://www.ebay.fr/itm/860169891572?_skw=ddr5&hash=itemc8461eeef4:g:O~MAAeSwFXVrBBPf&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7m0%2BZQEBN9%2FS6M5lL6arOQPjknxazHjGG%2BG5mGFjgPEls%2BntxVA9AkR%2BX883E1bKMh%2Fk4DseijD5MO1alXk%2FS7BMx5tS7A97%2BH1FEus%2F35QhoC2MW0Rx6LWD13yy%2BOj%2F3jBXgCH6QSKl0LFkUv6Puix3gwrkm8DaRNRAC9iQGLiPGHKHfHe4A8iW7IUHVt6zeQstEky%2FudUq2zaC8l2HbCMsrrkMz1SwNiiW3J--XxOCy0iWsFR%2F6CP6HxCvLT6GV29Nu6nYibeMEp%2B7WNbhg5x",
    "posted_at": "2026-11-23T10:24:28+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1990,
-  "models_with_reference": 81
+  "listings_seen": 1981,
+  "models_with_reference": 82
  }
 }
