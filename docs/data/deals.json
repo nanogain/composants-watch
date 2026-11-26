@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T14:38:00Z",
+ "generated_at": "2026-11-26T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 341,
-   "last_ok": "2026-11-26T14:38:00.669453+00:00"
+   "items": 338,
+   "last_ok": "2026-11-26T15:08:00.680967+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 383,
-   "last_ok": "2026-11-26T14:38:00.669453+00:00"
+   "items": 401,
+   "last_ok": "2026-11-26T15:08:00.680967+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-26T14:38:00.669453+00:00"
+   "last_ok": "2026-11-26T15:08:00.680967+00:00"
   }
  },
  "watchlist": [
@@ -109,6 +109,23 @@
    "posted_at": "2026-11-24T02:17:35+00:00"
   },
   {
+   "title": "[Prime] Kit Mémoire RAM Netac Shadow S XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (Vendeur Tiers)",
+   "model": "RAM:DDR4-32Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 206.98,
+   "shipping_eur": null,
+   "effective_eur": 206.98,
+   "median_eur": 382.91,
+   "discount_pct": 45.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kit-memoire-ram-netac-shadow-s-xmp-20-ddr4-32-go-2-x-16-go-3200-mhz-cl16-20-20-40-135-v-3463083",
+   "posted_at": "2026-11-20T10:09:37+00:00"
+  },
+  {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
    "model": "MON:27-QHD-240Hz",
    "category": "MON",
@@ -173,25 +190,8 @@
    "suspect": false,
    "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B9Q%2BuEHaP8roa%2Flhgln1gU4g6TZaAtNMns09bd2uPqetyZVokCGAJVxdJTS1XH9FIsUp1lVxcHmOGcwMVcpPPj9GhS9mCuLPVU%2BgcekFSdlaDjett4AHXEnMUoatKRffCSq4u1Hm%2FwiQaR3LYSH%2FjJ1kJxFChnZ8Ku2358zTJ0Shw%3D%3D",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B8qXT2l2DGO3dyK3bpUoMdGmZvzTg8VpbqPhvYW%2FOXTHP42aMePC5d9sfE6xIlaHP9rUltFG%2FGjl5F3tOItAZak0Chs6AcCtcUpxTi%2FJkNP49zwCzUG%2FGiNiJ7uXaGUSux6%2BHxgsrBlyxQIBPgIQPqx2DXZ8Ky6ty5O7XB82qi1Pg%3D%3D",
    "posted_at": "2025-03-08T16:56:06+00:00"
-  },
-  {
-   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
-   "model": "RAM:DDR4-16Go-2933",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 79.95,
-   "shipping_eur": 3.9,
-   "effective_eur": 83.85,
-   "median_eur": 135.75,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tanzen_store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxjVEBr4XLxFWwMtXmBNjoy688iAax5Tha0v7f5vZHoYtfBKHKDcvEnzmv0JS8S4Fko3ZYxHzBUvVifOJcHs94P0sj0JZ8TdnyMQ%2B1xk43O1ARi0FtdrA%2BYdAldfERWUofnxTiCNYFrOwZnSer8bOWC",
-   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "OCZ Trion 150 SSD interne 120 Go 2,5\" SATA III",
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · fastseller59 (99,6 %, 258 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKVTSx49fkxnTYSbiaL7XIjCpIn7qMtN4NMwv8la1%2BevAXPZl8rEZJbuJq%2F4TyTofdrjPPQxHRWqEDKZu3WMl4rpHK5z%2BOu6dCe1kjCDeymyO%2FGLw48jpnACqzo2NcXF2tpsymJQUR4rIHfYqOLQdInw",
+   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kdED5oMlg8dDn3jomJLR9%2BZDsM2aDCTHpcU%2Bgy4GLglnARWuOrv2GDw6x1tvhlM0hsIVL9t3fHhLOGdmb%2FaN4aKHCP5SVHREbfLa10IOc4jZOuWv%2BCEkvfUJiYgM2KzKVdnjIcs%2BpauxfsR5QV2j16v3qKujKjlrucfijsoJR1HNlDasp54%2FwmtuiZnIfTmmmoUyQcL1maS09uA8EteRGxmyWvvZjItfk%2B6KNaFX5cI1gdFwvetdBrtPHwJA%2Bvlt61zLCLip7OUsO1e7eSTv2K",
    "posted_at": "2026-11-24T11:41:43+00:00"
   },
   {
@@ -226,40 +226,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-1-to-25-sata-iii-6gbs-ahci-3d-nand-qlc-3468677",
    "posted_at": "2026-11-25T14:59:36+00:00"
-  },
-  {
-   "title": "[Prime] Kit Mémoire RAM Netac Shadow S XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (Vendeur Tiers)",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 206.98,
-   "shipping_eur": null,
-   "effective_eur": 206.98,
-   "median_eur": 316.16,
-   "discount_pct": 34.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kit-memoire-ram-netac-shadow-s-xmp-20-ddr4-32-go-2-x-16-go-3200-mhz-cl16-20-20-40-135-v-3463083",
-   "posted_at": "2026-11-20T10:09:37+00:00"
-  },
-  {
-   "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
-   "model": "RAM:DDR5-32Go-5600",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 469.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 469.99,
-   "median_eur": 686.75,
-   "discount_pct": 31.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · retro-flo (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117412302291?_skw=ddr5&hash=item1b56518dd3:g:akUAAeSwridpwzMR",
-   "posted_at": "2026-09-14T15:20:30+00:00"
   },
   {
    "title": "Samsung 850 EVO 2 To SSD 2,5\" SATA III MS-75E2T0 - Occasion testé",
@@ -311,6 +277,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-plat-dual-mode-moniteur-ips-4k-uhd-160hz-fhd-320hz-haut-parleur-integre-mprt-1ms-hdr-400-srgb-126-3469503",
    "posted_at": "2026-11-25T20:51:17+00:00"
+  },
+  {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 109.99,
+   "median_eur": 149.99,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (99,3 %, 151 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRj8WMuZ6QVBmnCWG3yJkZ5AsE7igN9hvpaF%2Bxi6LIZLk8tJVBbx%2Fb3L9oG4OJnnQPwS5RFy%2BNG1qikqXLYOLbtfIhNvaTu%2BHDCceWCuIGKSrssX8gp10wWC%2FktE67ELHUkKzX4D9DdxXrXKZAr9uMAs",
+   "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
@@ -570,8 +553,246 @@
  ],
  "unclassified": [
   {
+   "title": "Lot de 2 Écrans PC gaming 27\" AOC 27G50F - FHD, Dalle IPS, 180Hz, 0.5ms, HDR10, Compatible G-Sync",
+   "price_raw": "159,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecrans-pc-gaming-27-aoc-27g50f-fhd-dalle-ips-180hz-05ms-hdr10-compatible-g-sync-3470369",
+   "posted_at": "2026-11-26T15:02:04+00:00"
+  },
+  {
+   "title": "PC Portable 15,6\" Acer Aspire Lite 15 - FHD IPS, Ryzen 7 5825U, 16 Go RAM, 512Go SSD, 58 Wh, sans OS",
+   "price_raw": "499,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-fhd-ips-ryzen-7-5825u-16-go-ram-512go-ssd-58-wh-sans-os-3470314",
+   "posted_at": "2026-11-26T14:59:20+00:00"
+  },
+  {
+   "title": "Boîtier PC Gaming MSI MAG PANO M100L PZ WHITE - 44 × 23,5 × 40,5 cm, Panneau en Verre Trempé, Blanc",
+   "price_raw": "46,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/boitier-pc-gaming-msi-mag-pano-m100l-pz-white-44-235-405-cm-panneau-en-verre-trempe-blanc-3470349",
+   "posted_at": "2026-11-26T14:51:57+00:00"
+  },
+  {
+   "title": "G.Skill Aegis 5 DDR5 - 16 Go (1 x 16 Go) - 5600 MT/s - C36",
+   "price_raw": "438.83 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142270?_skw=ddr5&hash=item4e71e2dd3e:g:4eYAAeSwS6FrCESU",
+   "posted_at": "2026-11-26T14:39:14+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 8000 MT/s - C38 - Black",
+   "price_raw": "1962.25 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918141549?_skw=ddr5&hash=item4e71e2da6d:g:oK4AAeSwbDlrCERq",
+   "posted_at": "2026-11-26T14:38:30+00:00"
+  },
+  {
+   "title": "Kingston Fury™ Beast RGB DDR5 - 16 Go (2 x 8 Go) - 6000 MT/s C30 - AMD EXPO - No",
+   "price_raw": "548.55 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142295?_skw=ddr5&hash=item4e71e2dd57:g:ODgAAeSwBfJrCESZ",
+   "posted_at": "2026-11-26T14:39:15+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 6400 MT/s - C30 - White",
+   "price_raw": "1857.80 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142467?_skw=ddr5&hash=item4e71e2de03:g:z8YAAeSwlvNrCESh",
+   "posted_at": "2026-11-26T14:39:24+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 RGB DDR5 - 32 Go (2 x 16 Go) - 8000 MT/s - C38 - Black",
+   "price_raw": "1922.16 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918141995?_skw=ddr5&hash=item4e71e2dc2b:g:vd4AAeSwsHJrCESE",
+   "posted_at": "2026-11-26T14:38:58+00:00"
+  },
+  {
+   "title": "G.Skill Ripjaws M5 RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C30 - White",
+   "price_raw": "1754.41 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142759?_skw=ddr5&hash=item4e71e2df27:g:OIAAAeSwRvlrCESy",
+   "posted_at": "2026-11-26T14:39:41+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 RGB DDR5 - 48 Go (2 x 24 Go) - 7200 MT/s - C36 - Silver",
+   "price_raw": "4234.72 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142294?_skw=ddr5&hash=item4e71e2dd56:g:LgUAAeSwxURrCESY",
+   "posted_at": "2026-11-26T14:39:15+00:00"
+  },
+  {
+   "title": "G.Skill Flare X5 DDR5 - 48 Go (2 x 24 Go) - AMD EXPO - 6000 MT/s - C30 - Noir",
+   "price_raw": "1901.06 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918143097?_skw=ddr5&hash=item4e71e2e079:g:rfoAAeSwi01rCETG",
+   "posted_at": "2026-11-26T14:40:01+00:00"
+  },
+  {
+   "title": "G.Skill Ripjaws M5 RGB DDR5 - 48 Go (2 x 24 Go) - 6000 MT/s - C30 - Black",
+   "price_raw": "1860.97 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142692?_skw=ddr5&hash=item4e71e2dee4:g:3xUAAeSwYQ1rCESw",
+   "posted_at": "2026-11-26T14:39:37+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 RGB DDR5 - 32 Go (2 x 16 Go) - 7600 MT/s - C36 - Black",
+   "price_raw": "1653.13 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918141620?_skw=ddr5&hash=item4e71e2dab4:g:S6sAAeSwzNlrCERy",
+   "posted_at": "2026-11-26T14:38:35+00:00"
+  },
+  {
+   "title": "G.Skill Flare X5 DDR5 - 32 Go (2 x 16 Go) - AMD EXPO - 6400 MT/s - C32 - Noir",
+   "price_raw": "1754.41 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142798?_skw=ddr5&hash=item4e71e2df4e:g:lV4AAeSwUJJrCESz",
+   "posted_at": "2026-11-26T14:39:44+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 48 Go (2 x 24 Go) - 8000 MT/s - C40 - Black",
+   "price_raw": "1877.85 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142347?_skw=ddr5&hash=item4e71e2dd8b:g:R4cAAeSwkIVrCESb",
+   "posted_at": "2026-11-26T14:39:18+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 RGB DDR5 - 48 Go (2 x 24 Go) - 6800 MT/s - C34 - Black",
+   "price_raw": "4234.72 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918141428?_skw=ddr5&hash=item4e71e2d9f4:g:likAAeSwpH5rCERl",
+   "posted_at": "2026-11-26T14:38:25+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 8000 MT/s - C38 - White",
+   "price_raw": "1936.93 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918141629?_skw=ddr5&hash=item4e71e2dabd:g:xWsAAeSwBPVrCERx",
+   "posted_at": "2026-11-26T14:38:37+00:00"
+  },
+  {
+   "title": "G.Skill Ripjaws M5 RGB DDR5 - 64 Go (2 x 32 Go) - 6000 MT/s - C30 - Black",
+   "price_raw": "2158.48 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142621?_skw=ddr5&hash=item4e71e2de9d:g:0voAAeSwHQtrCESr",
+   "posted_at": "2026-11-26T14:39:33+00:00"
+  },
+  {
+   "title": "G.Skill Flare X5 DDR5 - 48 Go (2 x 24 Go) - AMD EXPO - 5200 MT/s - C40 - Noir",
+   "price_raw": "1721.71 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142933?_skw=ddr5&hash=item4e71e2dfd5:g:MlcAAeSwiV5rCES8",
+   "posted_at": "2026-11-26T14:39:52+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 48 Go (2 x 24 Go) - 6400 MT/s - C32 -White",
+   "price_raw": "1918.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918141684?_skw=ddr5&hash=item4e71e2daf4:g:nF4AAeSw0ahrCER1",
+   "posted_at": "2026-11-26T14:38:40+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 RGB DDR5 - 64 Go (2 x 32 Go) - 6800 MT/s - C34 - Black",
+   "price_raw": "3521.54 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918141699?_skw=ddr5&hash=item4e71e2db03:g:KMoAAeSwNARrCER4",
+   "posted_at": "2026-11-26T14:38:42+00:00"
+  },
+  {
+   "title": "G.Skill Trident Z5 RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C32 - Black",
+   "price_raw": "1298.65 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142409?_skw=ddr5&hash=item4e71e2ddc9:g:5RMAAeSwd3ZrCESe",
+   "posted_at": "2026-11-26T14:39:22+00:00"
+  },
+  {
+   "title": "G.Skill Aegis 5 DDR5 - 64 Go (2 x 32 Go) - 5600 MT/s - C36",
+   "price_raw": "1673.18 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142257?_skw=ddr5&hash=item4e71e2dd31:g:PnMAAeSwS8prCESV",
+   "posted_at": "2026-11-26T14:39:13+00:00"
+  },
+  {
+   "title": "G.Skill Aegis 5 DDR5 - 32 Go (1 x 32 Go) - 6000 MT/s - C36",
+   "price_raw": "785.92 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918141849?_skw=ddr5&hash=item4e71e2db99:g:oPcAAeSwAg9rCER7",
+   "posted_at": "2026-11-26T14:38:47+00:00"
+  },
+  {
+   "title": "G.Skill Aegis 5 DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C36",
+   "price_raw": "813.35 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142351?_skw=ddr5&hash=item4e71e2dd8f:g:Pf4AAeSwrqFrCESa",
+   "posted_at": "2026-11-26T14:39:18+00:00"
+  },
+  {
+   "title": "G.Skill Aegis 5 DDR5 - 32 Go (2 x 16 Go) - 5200 MT/s - C40",
+   "price_raw": "849.22 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142739?_skw=ddr5&hash=item4e71e2df13:g:OqYAAeSwtLBrCESw",
+   "posted_at": "2026-11-26T14:39:40+00:00"
+  },
+  {
+   "title": "Corsair Vengeance® DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s C28 - AMD EXPO - Gris",
+   "price_raw": "797.53 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142916?_skw=ddr5&hash=item4e71e2dfc4:g:xQQAAeSwmnNrCES7",
+   "posted_at": "2026-11-26T14:39:51+00:00"
+  },
+  {
+   "title": "G.Skill Aegis 5 DDR5 - 64 Go (2 x 32 Go) - 6000 MT/s - C36",
+   "price_raw": "1552.91 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918143034?_skw=ddr5&hash=item4e71e2e03a:g:taEAAeSwnPBrCETB",
+   "posted_at": "2026-11-26T14:39:57+00:00"
+  },
+  {
+   "title": "Be Quiet! Silent Loop 3 420 mm - Watercooling",
+   "price_raw": "171.91 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142465?_skw=watercooling&hash=item4e71e2de01:g:8hEAAeSwGQNrCESg",
+   "posted_at": "2026-11-26T14:39:24+00:00"
+  },
+  {
+   "title": "Be Quiet! Light Loop 240 mm - Watercooling",
+   "price_raw": "133.93 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918142360?_skw=watercooling&hash=item4e71e2dd98:g:mO0AAeSwlUBrCESe",
+   "posted_at": "2026-11-26T14:39:19+00:00"
+  },
+  {
+   "title": "Be Quiet! Silent Loop 3 360 mm - Watercooling",
+   "price_raw": "159.25 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918143166?_skw=watercooling&hash=item4e71e2e0be:g:85AAAeSwGQNrCETL",
+   "posted_at": "2026-11-26T14:40:06+00:00"
+  },
+  {
+   "title": "Be Quiet! Light Loop 360 mm - Watercooling",
+   "price_raw": "148.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918143820?_skw=watercooling&hash=item4e71e2e34c:g:O9EAAeSw61FrCETk",
+   "posted_at": "2026-11-26T14:40:31+00:00"
+  },
+  {
+   "title": "Be Quiet! Silent Loop 3 240 mm - Watercooling",
+   "price_raw": "137.10 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918143567?_skw=watercooling&hash=item4e71e2e24f:g:vfgAAeSwdIJrCETW",
+   "posted_at": "2026-11-26T14:40:18+00:00"
+  },
+  {
+   "title": "Be Quiet! Light Loop 240 mm White - Watercooling",
+   "price_raw": "140.26 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336918143061?_skw=watercooling&hash=item4e71e2e055:g:8sQAAeSw8K5rCETC",
+   "posted_at": "2026-11-26T14:39:58+00:00"
+  },
+  {
    "title": "Pc Portable 18\" Gigabyte A18 PRO DXJG3FRBC4SH - IPS WQXGA 165 Hz, Intel Core 7 240H, 32 Go Ram; 1 To SSD, RTX 5070 Ti, W11 (Vendeur Darty)",
-   "price_raw": "1 999,99€",
+   "price_raw": "1 989,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-18-gigabyte-a18-pro-dxjg3frbc4sh-ips-wqxga-165-hz-intel-core-7-240h-32-go-ram-1-to-ssd-rtx-5070-ti-w11-vendeur-darty-3470327",
    "posted_at": "2026-11-26T14:35:18+00:00"
@@ -629,7 +850,7 @@
    "title": "Processeur Intel Xeon E5-2697 v2 2,7 GHz 12 cœurs LGA 2011 SR19H",
    "price_raw": "84.90 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287647701341?_skw=processeur&hash=item42f923995d:g:G9YAAeSwJyBqz3J~&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7msofhrSKM2dgOKTggsX4KWkQfO8adTRD1Gw22J0dA1%2BZQSQ0tekVJmYivZnYYKWeT44Vgp%2F9kA2a2XlqF9lmh3wPDxhVK32BZTAg%2BqxPjd5zHGKj8tMGmiKTFSUz%2BL2ED77Wup9oykdmdOM6OsSx%2F5Q2AbE6XpmfdNitrswRSBHgrMKLTBC6neB0oL%2FQ9wk%2F9QpsO%2Figb2qsJx90BJ2OpEeHPhrrMf66qEgyCz0jqt%2FnTQUhCwspRVHNhj1v%2BotUYER74WrDWbnCEuQXnh3H3V",
+   "url": "https://www.ebay.fr/itm/287647701341?_skw=processeur&hash=item42f923995d:g:G9YAAeSwJyBqz3J~&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7msofhrSKM2dgOKTggsX4KWkQfO8adTRD1Gw22J0dA1%2BZQSQ0tekVJmYivZnYYKWeT44Vgp%2F9kA2a2XlqF9lmh3wPDxhVK32BZTAg%2BqxPjd5zHGKj8tMGmiKTFSUz%2BL2EDROWTwNbBPSxYBwCgzLABqEz%2B1Eq37%2Bvx6brtjk7PZ6zb9vAMj14%2FmglpkHAWuZupqCdK9oizYoG%2BncYI3v1YSzyVNh3b6RzYgFFhaJY9CTZbqutrhdjJ9Sqy1JM7FHE6mQHIbQco1us11YcAJfBoS",
    "posted_at": "2026-10-14T12:16:19+00:00"
   },
   {
@@ -675,253 +896,15 @@
    "posted_at": "2026-11-26T10:53:21+00:00"
   },
   {
-   "title": "Pamięć RAM Kingston DDR4 32 Go 3200 MT/s CL22 Non-ECC DIMM 2Rx8",
-   "price_raw": "558.10 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407390515760?_skw=ddr4&hash=item5eda5df230:g:0O8AAeSwjOZq9Jfj",
-   "posted_at": "2026-11-26T12:35:44+00:00"
-  },
-  {
    "title": "PC de bureau FlowUP BlazeForce - Ryzen 7 5700X, RTX 5060 8 Go, 32 Go RAM DDR4, SSD 1 To",
    "price_raw": "1 057,75€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-gamer-monte-flowup-blazeforce-ryzen-7-5700x-rtx-5060-8-go-32-go-ram-ddr4-ssd-1-to-via-flowup-3470125",
    "posted_at": "2026-11-26T11:42:54+00:00"
-  },
-  {
-   "title": "Kingston FURY Beast RGB 32GB (2x16GB) 5600MT/s DDR5",
-   "price_raw": "243,43€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kingston-fury-beast-rgb-32gb-2x16gb-5600mts-ddr5-3470115",
-   "posted_at": "2026-11-26T11:34:44+00:00"
-  },
-  {
-   "title": "Dashcam Voiture Avant/Arrière BOTSLAB G300H Plus 4K + 1080p - Double capteur Sony STARVIS 2, Wi-Fi 5,8 GHz, GPS intégré (vendeur tiers)",
-   "price_raw": "94,75€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/dashcam-voiture-avantarriere-botslab-g300h-plus-4k-1080p-double-capteur-sony-starvis-2-wi-fi-58-ghz-gps-integre-3470026",
-   "posted_at": "2026-11-26T11:25:21+00:00"
-  },
-  {
-   "title": "NVIDIA carte graphique GEFORCE GTX 1070 Ti FOUNDERS EDITION",
-   "price_raw": "104.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206728446579?_skw=carte+graphique&hash=item3021f9c273:g:HlkAAeSw3Uxq8HMT",
-   "posted_at": "2026-11-26T11:23:28+00:00"
-  },
-  {
-   "title": "Keycap Princesse Mononoké – La gardienne de la forêt sur votre clavier",
-   "price_raw": "15.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117543124522?_skw=clavier&hash=item1b5e1dbe2a:g:OskAAeSwkIVrCAzO",
-   "posted_at": "2026-11-26T10:42:36+00:00"
-  },
-  {
-   "title": "Mini PC Apple Mac Mini avec puce Apple M6 - Argent, Processeur 12 cœurs et carte graphique 12 cœurs, 16 Go de mémoire partagée, 512 Go",
-   "price_raw": "1 089€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-apple-mac-mini-avec-puce-apple-m6-argent-processeur-12-coeurs-et-carte-graphique-12-coeurs-16-go-de-memoire-partagee-512-go-3469982",
-   "posted_at": "2026-11-26T09:49:10+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Samsung Galaxy Book 5 Pro - AMOLED WQXGA 120Hz Tactile, Intel Core Ultra AI 5 226V, RAM 16Go, SSD 512Go, Intel Arc 130V, W11",
-   "price_raw": "855,42€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-samsung-galaxy-book-5-pro-amoled-wqxga-120hz-tactile-intel-core-ultra-ai-5-226v-ram-16go-ssd-512go-intel-arc-130v-w11-3469976",
-   "posted_at": "2026-11-26T09:44:02+00:00"
-  },
-  {
-   "title": "Processeur de modélisation Soran Dual Stomp Pedal Lite",
-   "price_raw": "58€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/processeur-de-modelisation-soran-dual-stomp-pedal-lite-3469916",
-   "posted_at": "2026-11-26T09:08:03+00:00"
-  },
-  {
-   "title": "Routeur ROG Strix GS-BE7200 - Blanc Sans Fil Wifi 7",
-   "price_raw": "138,83€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/rog-strix-gs-be7200-blanc-routeur-sans-fil-wifi-7-3469944",
-   "posted_at": "2026-11-26T09:21:54+00:00"
-  },
-  {
-   "title": "Liseuse Onyx Boox Go Color 7 - Gen II",
-   "price_raw": "229€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/onyx-boox-go-color-7-gen-ii-3469891",
-   "posted_at": "2026-11-26T08:46:47+00:00"
-  },
-  {
-   "title": "Carte graphique MSI GeForce GTX 1060 3 Go GDDR5",
-   "price_raw": "47.49 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287760036006?_skw=carte+graphique&hash=item42ffd5b0a6:g:qAsAAeSwhaRrB~cn",
-   "posted_at": "2026-11-26T09:11:45+00:00"
-  },
-  {
-   "title": "PC Portable 15.6\" Acer Aspire Lite 15 AL15-47P-R439 (FHD, Ryzen 3 5400U, RAM 8 Go, SSD 512 Go, Windows 11) + Sac à dos & Souris sans fil",
-   "price_raw": "387,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-aspire-lite-15-al15-47p-r439-fhd-ryzen-3-5400u-ram-8-go-ssd-512-go-windows-11-sac-a-dos-souris-sans-fil-3469901",
-   "posted_at": "2026-11-26T08:55:48+00:00"
-  },
-  {
-   "title": "PC portable 14\" Asus 90NB19K1-M00AJ0 - WUXGA OLED (1920 x 1200), Snapdragon X X1-26-100, 16Go RAM, 256Go SSD, 50 Wh, Win 11",
-   "price_raw": "674,44€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-asus-90nb19k1-m00aj0-wuxga-oled-tactile-1920-x-1200-snapdragon-x-x1-26-100-16go-ram-256go-ssd-50-wh-win-11-3469876",
-   "posted_at": "2026-11-26T08:32:12+00:00"
-  },
-  {
-   "title": "OS NAS Unraid : -20 % sur la licence Starter (39,20 $ HT), -25 % sur Unleashed (81,75 $ HT) + 50 % sur une 2e licence",
-   "price_raw": "37,16€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/os-nas-unraid-20-sur-la-licence-starter-3920-ht-25-sur-unleashed-8175-ht-50-sur-une-2e-licence-3469868",
-   "posted_at": "2026-11-26T08:26:00+00:00"
-  },
-  {
-   "title": "PC portable 16\" Asus Vivobook S16 S1652DA-MB048W - WUXGA IPS (1920 x 1200), Ryzen 5 3501U, 16Go RAM, 256Go SSD, 50 Wh, Win 11",
-   "price_raw": "540,44€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-asus-vivobook-s16-s1652da-mb048w-wuxga-ips-1920-x-1200-ryzen-5-3501u-16go-ram-256go-ssd-50-wh-win-11-3469830",
-   "posted_at": "2026-11-26T08:08:21+00:00"
-  },
-  {
-   "title": "PC portable 16\" Lenovo Ideapad 83K2009WFR - WUXGA (1920 x 1200) IPS, Core i7-13620H, 16Go RAM, 512Go SSD, 50 Wh, Win 11",
-   "price_raw": "657,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-lenovo-83k2009wfr-wuxga-1920-x-1200-ips-core-i7-13620h-16go-ram-512go-ssd-50-wh-win-11-3469819",
-   "posted_at": "2026-11-26T08:01:37+00:00"
-  },
-  {
-   "title": "PC portable 16\" Acer Aspire 16 AI A16-61M-R4H0 - FHD OLED, AI 5 330, 16Go RAM, 512Go SSD, 61 Wh, Win 11",
-   "price_raw": "630,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-acer-aspire-16-ai-a16-61m-r4h0-fhd-oled-ai-5-330-16go-ram-512go-ssd-61-wh-win-11-3469813",
-   "posted_at": "2026-11-26T07:57:00+00:00"
-  },
-  {
-   "title": "10% de réduction dès 400€ d'achat sur les PC portables, PC de bureau, Tablettes (hors PC gaming et Apple), Imprimantes et consommables",
-   "price_raw": "",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/10-de-reduction-des-400eur-dachat-sur-les-pc-portables-pc-de-bureau-tablettes-hors-pc-gaming-et-apple-imprimantes-et-consommables-3469802",
-   "posted_at": "2026-11-26T07:50:56+00:00"
-  },
-  {
-   "title": "Lot de 3 Mesh TP-Link Deco XE75 - WLAN Set",
-   "price_raw": "247,62€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tp-link-deco-xe75-mesh-wlan-set-3-pack-3469736",
-   "posted_at": "2026-11-26T07:03:29+00:00"
-  },
-  {
-   "title": "Refroidissement PC Be Quiet! Dark Rock Pro 5",
-   "price_raw": "74,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/be-quiet-dark-rock-pro-5-3469691",
-   "posted_at": "2026-11-26T06:47:34+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech M330 Silent Plus - Récepteur Nano USB 2,4GHz, Capteur Optique 1000ppp, Pile 2 Ans, Bleu",
-   "price_raw": "12,58€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-m330-silent-plus-recepteur-nano-usb-24ghz-capteur-optique-1000-ppp-pile-2-anspcmacportablechromebook-bleu-3469685",
-   "posted_at": "2026-11-26T06:43:04+00:00"
-  },
-  {
-   "title": "Samsung M425R2GA3PB0-CWM0D 16GB 1Rx8 PC5-5600B DDR5 SODIMM Laptop Memory RAM  b",
-   "price_raw": "155.66 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267854974332?_skw=ddr5&hash=item3e5d668d7c:g:joQAAeSwCmBp17mH",
-   "posted_at": "2026-11-26T06:44:39+00:00"
-  },
-  {
-   "title": "PC portable 18,5\" FHD Acemagic, AMD Ryzen 5 7430U, 16 Go RAM, 512 Go SSD, Win 11 Pro (Vendeurs Tiers)",
-   "price_raw": "484,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acemagic-pc-portable-gamer-185fhd-amd-ryzen-5-7430u6c12tjusqua-43ghzordinateur-portable-16go-ram-512go-ssd-win-11pro-3469688",
-   "posted_at": "2026-11-26T06:10:30+00:00"
-  },
-  {
-   "title": "Tablette 11\" Xiaomi Redmi Pad 2, 4 Go + 128 Go, Gris graphite, batterie 9 000 mAh",
-   "price_raw": "181,42€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/xiaomi-redmi-pad-2-4-go-128-go-gris-graphite-ecran-11-pouces-25k-batterie-9-000-mah-3469673",
-   "posted_at": "2026-11-26T05:36:11+00:00"
-  },
-  {
-   "title": "Refroidissement PC Corsair Nautilus 360 RS LCD - Socket Intel & AMD, Noir",
-   "price_raw": "88,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/corsair-nautilus-360-rs-lcd-noir-3469659",
-   "posted_at": "2026-11-26T06:03:27+00:00"
-  },
-  {
-   "title": "Imprimante Photo Kodak Dock Plus 4PASS (10x15cm) + Paquet avec 50 Feuilles (Vendeurs Tiers)",
-   "price_raw": "109,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kodak-dock-plus-imprimante-photo-10x15cm-avec-dock-50-feuilles-3469667",
-   "posted_at": "2026-11-26T05:22:22+00:00"
-  },
-  {
-   "title": "INTEL Core I5-650 / 2x 3,2 - 3,46 GHz / LGA 1156 / Processeur Dual Core",
-   "price_raw": "12.12 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168885380887?_skw=processeur&hash=item27525a6717:g:NbEAAOSwIvRnXLYj",
-   "posted_at": "2026-11-25T04:18:26+00:00"
-  },
-  {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
-  },
-  {
-   "title": "Mars Gaming MCZ Boîtier PC Gaming MicroATXMiniITX Compact avec 2 Ventilat",
-   "price_raw": "54.06 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132746793?_skw=boitier+pc&hash=item5a9a1e8029:g:prgAAeSwcVRo-U7y",
-   "posted_at": "2025-10-23T04:15:17+00:00"
-  },
-  {
-   "title": "be quiet! Ventirad CPU Shadow Rock Slim 160W Ultra Silencieux BK010",
-   "price_raw": "52.38 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117540632755?_skw=ventirad&hash=item1b5df7b8b3:g:lYEAAeSwbr9qjpS2",
-   "posted_at": "2026-11-24T22:23:37+00:00"
-  },
-  {
-   "title": "Remplace carte graphique Radeon 4850 Apple iMac 11,1 27\" 2009 A1312 - 661-5315",
-   "price_raw": "199.90 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/405766858562?_skw=carte+graphique&hash=item5e7996e742:g:9b8AAOSwMSNn~ilT&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lNbItaA1MsJwVvXqshpnRaxh%2FdEV9Trx%2FdHTIrbYOQ%2BaiPeW70B%2BdEJ3J9u11gsfMa6VasqqdUxvubaAfCtgeNsFaL3BCqUqqrgo52KVR%2B6AOnzozuOP3rT4Bx6dlLQmFC75Rpfcqyws0Z3WAyXcOwv702r7RRDn0WN99l7roMgDaOVS%2FoY2EcKDY67jntD19zzKjbJ2%2BlvXFN2F7v%2BZcpKt4LQzr2hodES21AEZyYxUAeTrXlxeoIbkZwPujHCxJncRUyFYPRCVamclnnzfmFhqBDUbIofVLgw%2BlFKUkEag%3D%3D",
-   "posted_at": "2025-04-15T09:15:08+00:00"
-  },
-  {
-   "title": "Corsair Dominator Titanium RGB DDR5 - 32 Go (2 x 16 Go) - 7000 MT/s C34 - Intel",
-   "price_raw": "914.63 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335608495591?_skw=ddr5&hash=item4e23d33de7:g:0HwAAeSwuvtrCCAI",
-   "posted_at": "2024-10-07T20:12:06+00:00"
-  },
-  {
-   "title": "[Prime] Souris Gaming Sans Fil Pulsar Gaming Gears ZywOo The Chosen - Medium, Blanc (Vendeur Tiers)",
-   "price_raw": "80,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-pulsar-gaming-gears-zywoo-the-chosen-medium-blanc-3469607",
-   "posted_at": "2026-11-25T23:50:23+00:00"
-  },
-  {
-   "title": "Répéteur Wi-Fi Double Bande Tenda A18 (AC1200) - Débit jusqu'à 1200 Mbps (2,4 & 5 GHz), Port Ethernet, Mode Point d'Accès",
-   "price_raw": "23,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/repeteur-wi-fi-double-bande-tenda-a18-ac1200-debit-jusqua-1200-mbps-24-5-ghz-port-ethernet-mode-point-dacces-3469565",
-   "posted_at": "2026-11-25T22:19:06+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1911,
-  "models_with_reference": 81
+  "listings_seen": 1960,
+  "models_with_reference": 77
  }
 }
