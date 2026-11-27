@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T00:38:00Z",
+ "generated_at": "2026-11-27T01:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 335,
-   "last_ok": "2026-11-27T00:38:00.625127+00:00"
+   "items": 337,
+   "last_ok": "2026-11-27T01:08:00.623492+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 382,
-   "last_ok": "2026-11-27T00:38:00.625127+00:00"
+   "items": 381,
+   "last_ok": "2026-11-27T01:08:00.623492+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 51,
-   "last_ok": "2026-11-27T00:38:00.625127+00:00"
+   "items": 80,
+   "last_ok": "2026-11-27T01:08:00.623492+00:00"
   }
  },
  "watchlist": [
@@ -177,6 +177,23 @@
    "posted_at": "2026-11-26T21:11:46+00:00"
   },
   {
+   "title": "boitier alimentation PC  EDEN 500W",
+   "model": "PSU:500W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.79,
+   "shipping_eur": 6.9,
+   "effective_eur": 17.69,
+   "median_eur": 30.98,
+   "discount_pct": 42.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · fanfan67370 (100,0 %, 1 002 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/178530181411?_skw=alimentation+pc&hash=item29913a6123:g:3ywAAeSwj3xojf~b",
+   "posted_at": "2026-09-26T13:49:06+00:00"
+  },
+  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -211,23 +228,6 @@
    "posted_at": "2026-11-26T16:10:00+00:00"
   },
   {
-   "title": "ASRock Rack B450D4U-V1LQ5 - AMD B450 - DDR4 Ram - BTO Carte Mère Socket AM4",
-   "model": "MB:B450",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 42.6,
-   "shipping_eur": 0.0,
-   "effective_eur": 42.6,
-   "median_eur": 72.88,
-   "discount_pct": 41.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · alpha38 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:UQMAAeSwdj1rAEJI",
-   "posted_at": "2026-11-22T22:16:21+00:00"
-  },
-  {
    "title": "SSD interne CUSU - 1 To, SATA 3",
    "model": "SSD:SATA-1To",
    "category": "SSD",
@@ -243,6 +243,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-sata-cusu-1tb-3471112",
    "posted_at": "2026-11-26T23:39:59+00:00"
+  },
+  {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2BQukZlhidnXk9eSePtlgJYHlFS2ArSzcLS6CURL4%2ByWZhticxFBcQyhtmQmqi1jijZEyIR5U5gWtshK22z1O9frKW10l4Q3Q1JKrwlzzKeqHZKaV8x7j5bZftBRcFBTszyta1ELGEoK3yMNbVkn7hC1qxR5qhvdyXik1kzBp70Zw%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
   },
   {
    "title": "SK hynix PVC10 512 Go SSD interne M.2 NVMe PCIe Gen4 x4 0M0JFT",
@@ -275,7 +292,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwRFfA9edjd763FZgTJtQ%2FWo9h2WEWx4DY20GOS4IkUj1Asb%2BHO2Qv8oCKZYFy9Jbk%2BOAxyw09vgb%2FVSs7lLEZm1to9ZTVJ0tVk3Wzs5VTvL7q0qHWvJaOMSSiiVwjnOgp6359dAbFb8T%2FNLkQqWpnc",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwJYqCbth%2BefB%2B0X%2Bl4ZtFYU3Ma7irCetEbLTU3eWmsp4gtbJQf5UoDABLrWs3m0YtPZR07a38KiFYcjgeVXgyUjGW%2F2BPhbFofKEmljcojvwMeog%2B22%2FiriaZiLIxuzYJVUz2YtxW5dUIXpJtdXNtf",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -462,7 +479,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (100,0 %, 153 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjoq8MwTILarlo%2F9ahASYtQ5wHbR%2BhcAH%2BWVSJRqGSxB%2BK1DOQsJT6Ds1ZBH9d4R2UzhLQJpHD%2F9fo1s8nK4VpvsHTOs614IMSmKAsECqTdcgYTva6VFmTfZ1EXjQaWQCQLOB9SFnhcIrUtEH78hi5T",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRiV3hjWT%2B6eNXD%2FkfCEI%2BRKGu2p4ibGCLdEk%2FSK%2BlYwRzZqDbsWf7J2%2BwulZ73BZWM54LRUBjs7cZoVAXLoAdh4VwFIQ3kNcMgya%2F7KCLGRG8KfPvrLAr1l80PfhH2Us1NjSnDMGAhdWLMc0Ovx5Npw",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -515,23 +532,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267855446219?_skw=ssd&hash=item3e5d6dc0cb:g:Ki8AAeSwGQNrCHv-",
    "posted_at": "2026-11-26T18:40:22+00:00"
-  },
-  {
-   "title": "[Via PayPal] Processeur AMD Ryzen 7 7800X3D - 8 Cœurs / 16 Threads, jusqu’à 5 GHz, 96 Mo Cache 3D V-Cache, Socket AM5, sans ventilateur",
-   "model": "CPU:Ryzen 7 7800X3D",
-   "category": "CPU",
-   "condition": "new",
-   "price_eur": 181.41,
-   "shipping_eur": null,
-   "effective_eur": 181.41,
-   "median_eur": 232.5,
-   "discount_pct": 22.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-96-mo-cache-3d-v-cache-socket-am5-sans-ventilateur-3468702",
-   "posted_at": "2026-11-25T10:12:35+00:00"
   },
   {
    "title": "Carte Mère MSI B760M Gaming Plus Wifi Micro-ATX, LGA 1700",
@@ -774,6 +774,34 @@
  ],
  "unclassified": [
   {
+   "title": "Apple MacBook Pro 14,2 pouces avec puce M6, SSD de 1 To ; Argent",
+   "price_raw": "2 098€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-142-pouces-avec-puce-m6-ssd-de-1-to-argent-3471181",
+   "posted_at": "2026-11-27T00:59:21+00:00"
+  },
+  {
+   "title": "Ecran PC 27\" Iiyama ProLite XB2796QSC-B1 - QHD, USB-C 65 W, Noir",
+   "price_raw": "114,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-iiyama-prolite-xb2796qsc-b1-qhd-usb-c-65-w-noir-3471173",
+   "posted_at": "2026-11-27T00:50:11+00:00"
+  },
+  {
+   "title": "Tablette 11\" Apple iPad Air - M4, 128 Go",
+   "price_raw": "709€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-11-pouces-m4-ecran-liquid-retina-128-go-cameras-avantarriere-12-mp-wifi-7-avec-apple-n1-bleu-3471168",
+   "posted_at": "2026-11-27T00:40:17+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Asus ROG 18 - Ryzen 9 9955HX, 32 Go Ram, 1 To SSD, GeForce RTX 5070 Ti",
+   "price_raw": "2 499,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/asus-rog-18-9950hx-1to-32go-5070ti-igraal-30-2500eur-1750eur-3471159",
+   "posted_at": "2026-11-27T00:37:43+00:00"
+  },
+  {
    "title": "Imprimante 3D Bambulab p1s combo",
    "price_raw": "469€",
    "source": "dealabs",
@@ -931,7 +959,7 @@
    "title": "Carte Mère HP Joshua H61 LGA1155 + i5-3350P + 8Go DDR3 + Ventirad",
    "price_raw": "51.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHrv3kv3IG%2FKjW7CPzkjoNpimyD0XAMMu5fYoCvV2KAty6y4xciO5TRD8sMamYyFdg%2BVubGz%2FBM3IsqCo1yDG%2FGhjFxKOgebg50BJFPUE6AadlZsGZMl8isgdn6u3OS7LuXMGtQeODexNt1gAXIhNWx%2FTw4YclqVrz%2BoYYaJnjWllw%3D%3D",
+   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHo74vnCdfGVpOpEEDYrARsuDhA1cCvybPpslwkRN7aAevjO06H1IEmIlinpKrRVTFJEdqJ97WW4JGMRII56QCES9OszSHzO%2F4y0ls8zvyep88VEoa%2FiI8BEPpkQAetG%2FGStKkE4QXvEP%2B8HbLF2zPePNHo8%2B3fpsNJyaOmoW2ETww%3D%3D",
    "posted_at": "2026-11-26T16:39:42+00:00"
   },
   {
@@ -1015,7 +1043,7 @@
    "title": "Écran pc incurvé Samsung C27f396fhu",
    "price_raw": "261.39 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVc2RqQobrwemR9Grw9HhyU3DJz1FCBQafCC0pYyfNJz80x1kTLmMVNwTV3%2FlimmUYMBuw9dvvAhJ5861GwRU62ad5B0hwz9ekTdkOMvaQ0hM9zQVVoNIZ1b5a9MH9%2BqECRV6fWEe6DywzfpbhD2z7LZFVggcVX3Huw4Pyxjau2azQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVeo43gZx%2BZ5eqrAncORU9zcCGc6rV5bLtgiKRvK4hko8CwsIdPXNJ6lTkYHtUU5m5n9X1Ao4uIcIwLM3Ftvm%2Fv5b5yNEZT%2BCALYchZ7rErfsw4sfn83m31KBftYa8glKmruPJrEeLe0pTNaR5l6EENHMzuXBq7JdFwysqBCAXt%2BEw%3D%3D",
    "posted_at": "2026-11-26T18:35:10+00:00"
   },
   {
@@ -1038,13 +1066,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117543698158?_skw=alimentation+pc&hash=item1b5e267eee:g:3tEAAeSwPGhrCG3y",
    "posted_at": "2026-11-26T17:39:13+00:00"
-  },
-  {
-   "title": "Alimentation PSU ordinateur SFF HP ProDesk 400 G4 /600 G3 / 280 G2 - 180w",
-   "price_raw": "22.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206728986820?_skw=alimentation+pc&hash=item30220200c4:g:Z3oAAeSw-FFrCHEH",
-   "posted_at": "2026-11-26T17:53:19+00:00"
   },
   {
    "title": "Tablette Apple iPad A16 (2025) - 128 Go, Bleu ou Argent (via 99,80€ fidélité)",
@@ -1101,31 +1122,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-fixe-apple-mac-mini-avec-puce-apple-m6-argent-cpu-12-coeurs-et-gpu-12-coeurs-16-go-memoire-unifiee-256-go-via-209eur-fidelite-3470543",
    "posted_at": "2026-11-26T16:53:58+00:00"
-  },
-  {
-   "title": "Samsung 16 Go DDR4 RDIMM enregistré PC4-2400T 288 broches M393A2K43BB1-CRC",
-   "price_raw": "52.77 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/377679199334?_skw=ddr4&hash=item57ef6f3c66:g:6EoAAeSwyw1rCGE2",
-   "posted_at": "2026-11-26T16:42:42+00:00"
-  },
-  {
-   "title": "Intel DX79TO Carte Mère ATX LGA2011 8x DDR3 Slots Multi-GPU",
-   "price_raw": "59.65 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168880495920?_skw=carte+m%C3%A8re&hash=item27520fdd30:g:4T0AAeSw~bxqdl6L",
-   "posted_at": "2026-11-22T22:16:13+00:00"
-  },
-  {
-   "title": "Serveur de stockage Nas Ugreen DXP2800 - 2 Baies 3,5\" + 2 Slots SSD NVME, N100, 8 Go Ram (Extensible), RJ45 2.5GbE (Vendeur Darty)",
-   "price_raw": "304,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/serveur-de-stockage-nas-ugreen-dxp2800-2-baies-35-2-slots-ssd-nvme-n100-8-go-ram-extensible-rj45-25gbe-3470472",
-   "posted_at": "2026-11-26T16:10:06+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2017,
-  "models_with_reference": 83
+  "listings_seen": 2014,
+  "models_with_reference": 84
  }
 }
