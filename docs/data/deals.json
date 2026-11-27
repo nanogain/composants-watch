@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T05:38:00Z",
+ "generated_at": "2026-11-27T06:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 336,
-   "last_ok": "2026-11-27T05:38:00.682510+00:00"
+   "items": 339,
+   "last_ok": "2026-11-27T06:08:00.681634+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 394,
-   "last_ok": "2026-11-27T05:38:00.682510+00:00"
+   "items": 396,
+   "last_ok": "2026-11-27T06:08:00.681634+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T05:38:00.682510+00:00"
+   "last_ok": "2026-11-27T06:08:00.681634+00:00"
   }
  },
  "watchlist": [
@@ -122,7 +122,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (100,0 %, 154 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjLrJ9CNmf4jmUhcRB%2FBPNY1RHVq9RqxCd0NdOOtsTd4fhy%2BP1I5bD2%2FcyaJ1XfZeSIVeWNsLEsOFUU%2B4merjd6pPNoy2F9wLgaXLlXzj8wOsESSVFKbRswzVIkyGheVroh15xXA265oTTGCaqh%2FaRP",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgAykS0RhxvHaxmOp1IoKoN6QsQ8ekhpPNskJZ7V6UooERSu2LB17Nf%2BVkCEsOUHSPIUKQESrgu3QK8rv8g1HvR%2BplIpSx0AUCox%2BWd3Oy7Lv4pdycKkpd9djBoxkYSHxay7Qv1Vwytg8fpMvOJYP%2FO",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -258,25 +258,8 @@
    "suspect": false,
    "merchant": "eBay · alpha38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mB2dsRIh12XRxw6a9%2Fv%2FgMR3FBhK%2FqOF%2BdRmEMZtnLCuG9TkXE8R8PKIbc2VMxh7nLKugpihWKJT78oredUHIs1FS9TESjWpGZEWaJdFwm8mgbR6dEtHbJJrwiyDxqfkZKyoJdAZhrQcKe80IRIBaKBQ5qnid1G3kU0X9x7UJ17RHnWyudOrDctaDHfreEwvVNQ8OFag4yoqeIDPC3ny2hW3CwApZC6sDdNGZuhZtS6mTHrTp5FgvWngt4BSb0rJIHpZkup%2B1BnciU3hz%2BAuekbMkPOEuW6JZHQ6kE7XHsdw%3D%3D",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW",
    "posted_at": "2026-11-22T22:16:21+00:00"
-  },
-  {
-   "title": "SSD interne CUSU - 1 To, SATA 3",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 78.39,
-   "shipping_eur": null,
-   "effective_eur": 78.39,
-   "median_eur": 129.99,
-   "discount_pct": 39.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-sata-cusu-1tb-3471112",
-   "posted_at": "2026-11-26T23:39:59+00:00"
   },
   {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
@@ -292,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzlh5K3sLezTmQHntzUzPIwtdGyB%2FCAXxT8sH5VwoQmrpbFkZ74uMDh74ZopqWZ%2BA6xPqtKxxo53WyqT3yC55SDc7iyEIrnJRON3L%2BrJ7fbU7pBM0J3H8ZH3Pi0iCwuJ5dk7IEhWhMpgLXz%2FDG%2FByLr",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyXXvScLxGxBKd2uPY439kkmG4nujwKA%2FilzlHmNcNhH19%2Bxrip8b1RCJs5kqRRA6IfDXTJG1jyqM4%2BlK9c2N3NCMIEvcQonkXOO9RKBumt2eW7orOs2ct5jckIpglxlgsLMiwbUkLspHG1g%2FsFtYpr",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -330,21 +313,21 @@
    "posted_at": "2026-11-26T17:57:49+00:00"
   },
   {
-   "title": "SSD interne Netac 1 To 2.5\" - SATA III 6Gb/s, AHCI, 3D NAND, QLC",
+   "title": "SSD interne CUSU - 1 To, SATA 3",
    "model": "SSD:SATA-1To",
    "category": "SSD",
    "condition": "new",
-   "price_eur": 87.99,
+   "price_eur": 78.39,
    "shipping_eur": null,
-   "effective_eur": 87.99,
-   "median_eur": 129.99,
-   "discount_pct": 32.3,
+   "effective_eur": 78.39,
+   "median_eur": 117.24,
+   "discount_pct": 33.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "AliExpress",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-1-to-25-sata-iii-6gbs-ahci-3d-nand-qlc-3468677",
-   "posted_at": "2026-11-25T14:59:36+00:00"
+   "url": "https://www.dealabs.com/bons-plans/ssd-sata-cusu-1tb-3471112",
+   "posted_at": "2026-11-26T23:39:59+00:00"
   },
   {
    "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
@@ -464,6 +447,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/920157609561?_skw=ddr4&hash=itemd63daade59:g:edoAAeSwwqVq~foO",
    "posted_at": "2026-11-18T19:21:08+00:00"
+  },
+  {
+   "title": "SSD interne Netac 1 To 2.5\" - SATA III 6Gb/s, AHCI, 3D NAND, QLC",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 87.99,
+   "shipping_eur": null,
+   "effective_eur": 87.99,
+   "median_eur": 117.24,
+   "discount_pct": 24.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-1-to-25-sata-iii-6gbs-ahci-3d-nand-qlc-3468677",
+   "posted_at": "2026-11-25T14:59:36+00:00"
   },
   {
    "title": "SSD 512gb SK hynix 2.5\" sata 3",
@@ -774,6 +774,41 @@
  ],
  "unclassified": [
   {
+   "title": "Souris sans fil Logitech MX Vertical - Ergonomique (via 40€ fidélité)",
+   "price_raw": "39,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-vertical-ergonomique-via-40eur-fidelite-3471286",
+   "posted_at": "2026-11-27T06:01:52+00:00"
+  },
+  {
+   "title": "20% de réduction dès 199€ d’achat sur les imprimantes et scanners (Fnac & Darty)",
+   "price_raw": "",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/20-de-reduction-des-199eur-dachat-sur-les-imprimantes-et-scanners-fnac-darty-3470198",
+   "posted_at": "2026-11-27T06:00:00+00:00"
+  },
+  {
+   "title": "Souris sans fil Logitech MX Master 3S (via 47,50€ cagnottés)",
+   "price_raw": "47,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-master-3s-via-4750eur-cagnottes-3471279",
+   "posted_at": "2026-11-27T05:55:57+00:00"
+  },
+  {
+   "title": "MX Master 4 + Étui de transport MX",
+   "price_raw": "94,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mx-master-4-etui-de-transport-mx-3471261",
+   "posted_at": "2026-11-27T05:38:33+00:00"
+  },
+  {
+   "title": "8GB RAM SO-DIMM - SKHynix - Laptop - 1RX16 PC4-3200AA-SC0-13 MTA8ATF1G64HZ-3G2FA",
+   "price_raw": "31.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/398368615312?_skw=ddr4&hash=item5cc09eab90:g:prwAAeSweLVqnoEO",
+   "posted_at": "2026-09-07T09:17:38+00:00"
+  },
+  {
    "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C28 - White",
    "price_raw": "1012.75 EUR",
    "source": "ebay",
@@ -900,13 +935,6 @@
    "posted_at": "2026-11-26T23:18:35+00:00"
   },
   {
-   "title": "Tablette OnePlus Pad Go 2 - 12.1\", 8/128Go, Wi-Fi, batterie 10050 mAh, Dimensity 7300-Ultra",
-   "price_raw": "180,33€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-oneplus-pad-go-2-121-8128go-wi-fi-batterie-10050-mah-dimensity-7300-ultra-3468979",
-   "posted_at": "2026-11-26T23:10:04+00:00"
-  },
-  {
    "title": "Mini PC GMKtec K12 Barebone - Ryzen 7 H 255, Radeon 780M, Oculink, 3 Slots M.2 Nvme, 2 x 2,5 GbE, Wifi 6E & BT5.2",
    "price_raw": "203,39€",
    "source": "dealabs",
@@ -1008,7 +1036,7 @@
    "title": "Carte Mère HP Joshua H61 LGA1155 + i5-3350P + 8Go DDR3 + Ventirad",
    "price_raw": "51.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHo3RgSQLBAHCI%2F4NbhHu9qbeyjN1qbNPADJ03yN%2FqrWQ12Sh%2F3t3NtO6HeL379sDLrWZWiH0D%2Fx6Bga2GE7o9U9VkJG%2FK3i7J8UZhDna%2B7Fu7A2LupMe8jYQ5bs1aH64cTf8J3wPh0yUg6x82y8xuTWTPYjaN8e5z4NEVb4zQSQ1A%3D%3D",
+   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHoE6Y5s6QKMaMB7pccrPPdkVPwfW2c5p%2FRgowuNk2yf6LWV1l%2FMIqC1ZqfdUV8nSUyx2mqYmG8QCNZ0wuFpIs89FsAsRqyOtmqSSiXzPLwb3gzPICGVpwit3EyrEb%2BnlCfQJrtnLe0wTCUQ%2F6YvhgSC5nR55CHn%2FmIXaBNRinZO6Q%3D%3D",
    "posted_at": "2026-11-26T16:39:42+00:00"
   },
   {
@@ -1054,13 +1082,6 @@
    "posted_at": "2026-11-26T19:44:53+00:00"
   },
   {
-   "title": "RAM Serveur 16Go DDR4 ECC REG RDIMM HPE SK Hynix Samsung Micron PC4 - Au choix",
-   "price_raw": "79.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880123610406?_skw=ddr4&hash=itemcceb748526:g:XswAAeSwJUFq-0Cb",
-   "posted_at": "2026-11-16T17:51:34+00:00"
-  },
-  {
    "title": "PC Portable 14\" Acer Aspire 14 AI - Ryzen AI, 16 Go RAM, 512 Go SSD",
    "price_raw": "699€",
    "source": "dealabs",
@@ -1099,33 +1120,12 @@
    "title": "Écran pc incurvé Samsung C27f396fhu",
    "price_raw": "261.39 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVc6ajat3tex7YOdOFJtQ5GO5pBgvCXJZZvr0ie51kJyYJ2delkh6P2MF8Hv5oZuUAGywT4muSl%2FFyA2n1LrrUmESkTAvgELfluC%2BIHzhu3IdvBpsY1JnSAXRMrwh10tP6Hai774UqUArGvDoSwtFqG0aByPKf2TRG%2Fo78iJ5KxGtQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVeIsuWBPqkhl66nFUNlKKViWaxWoZ9JVvu6OqItLGutEsOT6P1IjhPQCpA172bmnTYRMwC0flXrk%2FGb%2BN9Id00M6b8Q7hkPIIH3Vs4AGFlSKaVBY9SHpTkOJY%2BubSH4B9aGVhbJxV6FKQYgCStRngujSczjf1k8t%2Bs95UP8fwmFxQ%3D%3D",
    "posted_at": "2026-11-26T18:35:10+00:00"
-  },
-  {
-   "title": "Serveur de stockage Nas Ugreen NASync DH2300",
-   "price_raw": "179,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/nas-ugreen-nasync-dh2300-3470666",
-   "posted_at": "2026-11-26T18:15:02+00:00"
-  },
-  {
-   "title": "Imprimante multifonctions Brother MFC-L2835DW - Laser Noir et Blanc - WiFi et Ethernet (Toner inclus)",
-   "price_raw": "199,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonctions-brother-mfc-l2835dw-laser-noir-et-blanc-wifi-et-ethernet-toner-inclus-3470629",
-   "posted_at": "2026-11-26T17:53:19+00:00"
-  },
-  {
-   "title": "Bloc Alimentation pc  Antec 400 continuous power model hcg-400",
-   "price_raw": "23.58 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/117543698158?_skw=alimentation+pc&hash=item1b5e267eee:g:3tEAAeSwPGhrCG3y",
-   "posted_at": "2026-11-26T17:39:13+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2006,
+  "listings_seen": 2010,
   "models_with_reference": 88
  }
 }
