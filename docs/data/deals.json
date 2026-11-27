@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T08:38:00Z",
+ "generated_at": "2026-11-27T09:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 344,
-   "last_ok": "2026-11-27T08:38:00.619591+00:00"
+   "items": 346,
+   "last_ok": "2026-11-27T09:08:00.623921+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-27T08:38:00.619591+00:00"
+   "items": 397,
+   "last_ok": "2026-11-27T09:08:00.623921+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T08:38:00.619591+00:00"
+   "last_ok": "2026-11-27T09:08:00.623921+00:00"
   }
  },
  "watchlist": [
@@ -75,23 +75,6 @@
    "posted_at": "2026-11-25T06:36:15+00:00"
   },
   {
-   "title": "SSD NVMe M.2 2280 PCIe 3.0 x4 128Go 256Go 512Go 1To 2To Disque Dur Interne Neuf",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 66.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 66.99,
-   "median_eur": 149.99,
-   "discount_pct": 55.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · mazkar55 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBQGpY5qwwnwCKWxSiRTeWKckR4D6sq1KwF2TPXBD9X9Jh85UWws74Wd%2FLmqe8INBwoJ1iE4S4OjOja9f67TrD97BkQ6OLXsyDzOF8xIqf7NGb3ycq%2BMyTu4Y0IgaohRtCT50WAEkj1vAm8MGwDXMxicmjUjDDIritCMP%2FoUyTwSGJ4G7HQM3f%2Fww%2B9AngQ3Nkc9sgaVzc17IDxvVJSVgtjzcGO3Z0ciaZ62sbefZIoNBzNdlbYFXtps8JvWpsrw3L",
-   "posted_at": "2026-11-19T18:54:22+00:00"
-  },
-  {
    "title": "Carte Mère COLORFUL BATTLE-AX B850M-T WIFI V14 (Micro-ATX, WiFi 6E, DDR5, etc)",
    "model": "MB:B850",
    "category": "MB",
@@ -141,6 +124,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-pouces-aoc-q27g42ze-qhd-fast-ips-240-hz-260-hz-oc-03-ms-3469743",
    "posted_at": "2026-11-26T07:39:01+00:00"
+  },
+  {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 74.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 74.99,
+   "median_eur": 149.99,
+   "discount_pct": 50.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (100,0 %, 155 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRj3NAtegF1MZxiZbsYF2IJJRsYnyAcy%2Fd4re2t6VFWpyvIWwHveEUtW73iHF%2F2cJ1wrFq4qLGTHqymK2MTuJwqpasV%2Bs3YTWnJNW8et8PgB%2BBqnobq4IuRegTnP5ddLMveHolcqD0mEQ2b8tss179et",
+   "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
    "title": "Accessoires circuit graphique pour Carte graphique GeForce RTX 5060 8Go 3 DP + 1 HDMI GDDR7",
@@ -258,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · alpha38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mB2dsRIh12XRxw6a9%2Fv%2FgMR3FBhK%2FqOF%2BdRmEMZtnLCuG9TkXE8R8PKIbc2VMxh7nLKugpihWKJT78oredUHIs1FS9TESjWpGZEWaJdFwm8mgbR6dEtHbJJrwiyDxqfkYTEQDvx9HDK%2FlsYnRd3BUM5loNs2rEVGx4AC5WASQoiadiJg1UtT4PM%2F5fd10qU3hlok6SwdiuqPETrJb5YPWZlbgl0l3Z%2BVGFVXlGICjMhlCWaKxIRTDllfEjogjvns2OOXKOtHpHEMCMtkxrVvK%2FPYv18Sg5kgeMt3pcP5iPmw%3D%3D",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mB2dsRIh12XRxw6a9%2Fv%2FgMR3FBhK%2FqOF%2BdRmEMZtnLCuG9TkXE8R8PKIbc2VMxh7nLKugpihWKJT78oredUHIs1FS9TESjWpGZEWaJdFwm8mgbR6dEtHbJJrwiyDxqfkayuxbQtOVm8vi0PTHEYc%2BQhZKwS7yIBhVI0RqWDawtYGNrz4pjgdP4LDL%2FNzqZNhWphny8oC5iFof%2Fg8PfLj1Loybdyz4H0BG3Vn08U8KTy0BoIEnjhBI3p1z6Hr%2BFltrQE9BhLvs%2BZFaUJnfFcVzOYWwmrDCv5fCaHu1HkdI5SQ%3D%3D",
    "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
@@ -275,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyqHdFlYYy82W6gU8G7ykaRRP4U%2BwZmfN4FnszqWzelO8pq04mLLDRgJ7PB26gMGJRM23yAS11km74r1JsFdFQA8lrsk6wWf6zIVa1lppYOqatm5rLNTwRRhxUr88yFrYwmCegQ6cpHTwrcTtQvjusv",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwhgcxr09fx7bn3662uH7tn7mIa4r78OiuXp2Pi3z4kJQto%2FrV5HwcwHOp%2Fz7hUpx%2BcOw5Yet0JjvNKduMNDMidFZ3qJZKrG7PVh5LIiBUyD0Y02Nt0K4XOMWgq5Av8MK2c7oztXEs9r2ZG6vWnhpyO",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -303,8 +303,8 @@
    "price_eur": 189.98,
    "shipping_eur": null,
    "effective_eur": 189.98,
-   "median_eur": 289.99,
-   "discount_pct": 34.5,
+   "median_eur": 292.67,
+   "discount_pct": 35.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "Cdiscount",
@@ -330,23 +330,6 @@
    "posted_at": "2026-11-27T06:18:25+00:00"
   },
   {
-   "title": "SSD interne CUSU - 1 To, SATA 3",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 78.39,
-   "shipping_eur": null,
-   "effective_eur": 78.39,
-   "median_eur": 117.24,
-   "discount_pct": 33.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-sata-cusu-1tb-3471112",
-   "posted_at": "2026-11-26T23:39:59+00:00"
-  },
-  {
    "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
    "model": "RAM:DDR5-32Go-5600",
    "category": "RAM",
@@ -362,6 +345,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117412302291?_skw=ddr5&hash=item1b56518dd3:g:akUAAeSwridpwzMR",
    "posted_at": "2026-09-14T15:20:30+00:00"
+  },
+  {
+   "title": "SSD interne CUSU - 1 To, SATA 3",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 78.39,
+   "shipping_eur": null,
+   "effective_eur": 78.39,
+   "median_eur": 112.24,
+   "discount_pct": 30.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-sata-cusu-1tb-3471112",
+   "posted_at": "2026-11-26T23:39:59+00:00"
   },
   {
    "title": "Samsung 850 EVO 2 To SSD 2,5\" SATA III MS-75E2T0 - Occasion testé",
@@ -432,23 +432,6 @@
    "posted_at": "2026-11-26T16:11:56+00:00"
   },
   {
-   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 109.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 109.99,
-   "median_eur": 149.99,
-   "discount_pct": 26.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · topdeal-market (100,0 %, 155 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjKcFQB%2FfS%2FMfTwDTE4rT4eGf917F4NiXseohyInV83r3rLDJ5%2FprMFiFsy961QS%2BJBe83pKKps9UkPqAb3tU0b4ykt4ReiymYatlZGteXc%2BPx1mCAlPern0mtHyxEksmYS4jJ4rnOrjwV%2BhSdeztZn",
-   "posted_at": "2026-11-24T20:50:45+00:00"
-  },
-  {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -466,6 +449,23 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
+   "title": "Kingston A400 240Go 2,5” SSD Interne (SA400S37/240G) - CrystalDisk +80%",
+   "model": "SSD:NVMe-240Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 19.99,
+   "shipping_eur": 2.78,
+   "effective_eur": 22.77,
+   "median_eur": 30.7,
+   "discount_pct": 25.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · francehardware (100,0 %, 70 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800968437136?_skw=ssd&hash=itemba7d706d90:g:rnMAAeSwINxqcLKz",
+   "posted_at": "2026-11-26T08:21:47+00:00"
+  },
+  {
    "title": "RAM Micron 16 Go DDR4-2666 ECC RDIMM MTA18ASF2G72PDZ-2G6D1RI (Objet N°Y131)",
    "model": "RAM:DDR4-16Go-2666",
    "category": "RAM",
@@ -481,23 +481,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/920157609561?_skw=ddr4&hash=itemd63daade59:g:edoAAeSwwqVq~foO",
    "posted_at": "2026-11-18T19:21:08+00:00"
-  },
-  {
-   "title": "SSD interne Netac 1 To 2.5\" - SATA III 6Gb/s, AHCI, 3D NAND, QLC",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 87.99,
-   "shipping_eur": null,
-   "effective_eur": 87.99,
-   "median_eur": 117.24,
-   "discount_pct": 24.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-1-to-25-sata-iii-6gbs-ahci-3d-nand-qlc-3468677",
-   "posted_at": "2026-11-25T14:59:36+00:00"
   },
   {
    "title": "SSD 512gb SK hynix 2.5\" sata 3",
@@ -551,6 +534,23 @@
    "posted_at": "2026-11-27T02:05:34+00:00"
   },
   {
+   "title": "SSD interne Netac 1 To 2.5\" - SATA III 6Gb/s, AHCI, 3D NAND, QLC",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 87.99,
+   "shipping_eur": null,
+   "effective_eur": 87.99,
+   "median_eur": 112.24,
+   "discount_pct": 21.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-netac-1-to-25-sata-iii-6gbs-ahci-3d-nand-qlc-3468677",
+   "posted_at": "2026-11-25T14:59:36+00:00"
+  },
+  {
    "title": "SK hynix SC401 512 Go SSD 2,5\" SATA III 7mm - Occasion testé",
    "model": "SSD:SATA-512Go",
    "category": "SSD",
@@ -583,6 +583,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-25-pny-1-to-ssd7cs900-1tb-rb-3463577",
    "posted_at": "2026-11-20T16:45:49+00:00"
+  },
+  {
+   "title": "Carte mère Lenovo ThinkCentre M700 IH110MS 01AJ167 LGA1151 DDR4 Intel H110",
+   "model": "MB:H110",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 31.14,
+   "shipping_eur": 6.99,
+   "effective_eur": 38.13,
+   "median_eur": 47.95,
+   "discount_pct": 20.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · infocaze (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs",
+   "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
    "title": "[The Corner] Écran PC 32\" Samsung Odyssey OLED G7 G73SH - 4K 165Hz / FHD 330Hz (Dual Mode), 0.03ms, True Black 400 (via paypal)",
@@ -825,6 +842,62 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable Gamer ASUS Gaming V16 : Win 11 - 16\" WUXGA - RTX 4050 6Go - Intel Core 5 210H - RAM 16Go - 512Go SSD",
+   "price_raw": "859,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-asus-gaming-v16-win-11-16-wuxga-rtx-4050-6go-intel-core-5-210h-ram-16go-512go-ssd-3471693",
+   "posted_at": "2026-11-27T09:00:03+00:00"
+  },
+  {
+   "title": "Imprimante multifonction Epson EcoTank ET-2920 - jet d’encre, 5760 x 1440 dpi, Wi‑Fi, réservoir rechargeable, AirPrint (via ODR 20€",
+   "price_raw": "149,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2920-jet-dencre-5760-x-1440-dpi-wifi-reservoir-rechargeable-airprint-via-odr-20eur-3471401",
+   "posted_at": "2026-11-27T09:00:01+00:00"
+  },
+  {
+   "title": "Imprimante multifonction HP Smart Tank 7306",
+   "price_raw": "199,90€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-hp-3471684",
+   "posted_at": "2026-11-27T08:58:01+00:00"
+  },
+  {
+   "title": "PC portable Gamer 15,1\" Lenovo Legion5 15IRX10 - WQXGA (2560 x 1600) OLED 165 Hz, i7-13650HX, RTX 5060 115W, 16Go / 512Go, Sans OS",
+   "price_raw": "1 174,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-151-lenovo-legion5-15irx10-wqxga-2560-x-1600-oled-165-hz-i7-13650hx-rtx-5060-115w-16go-512go-souris-sans-fil-3471681",
+   "posted_at": "2026-11-27T08:56:23+00:00"
+  },
+  {
+   "title": "Canon SELPHY CP1500 blanche + 2 x Canon RP-108 feuilles + ruban x2",
+   "price_raw": "139€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/canon-selphy-cp1500-blanche-2-x-canon-rp-108-feuilles-ruban-x2-3471674",
+   "posted_at": "2026-11-27T08:53:07+00:00"
+  },
+  {
+   "title": "Mini PC Soyo Y5 Air - Intel Core i5 4ème génération, 8 Go de RAM, 128 Go de SSD, Windows 11 Pro",
+   "price_raw": "78,86€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-air-intel-core-i5-4eme-generation-8-go-de-ram-128-go-de-ssd-windows-11-pro-3471661",
+   "posted_at": "2026-11-27T08:46:53+00:00"
+  },
+  {
+   "title": "PC Portable 14\" HP OmniBook 3 14-hu0011nfx - OLED, Intel Core 3, RAM 8 Go, SSD 256 Go, Windows 11 (+ 30€ cagnottés)",
+   "price_raw": "378,39€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-hp-omnibook-3-14-hu0011nfx-oled-intel-core-3-ram-8-go-ssd-256-go-windows-11-30eur-cagnottes-3471646",
+   "posted_at": "2026-11-27T08:42:31+00:00"
+  },
+  {
+   "title": "Imprimante multifonction Epson EcoTank ET-2951 Noir (via ODR 40€)",
+   "price_raw": "144,28€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2951-noir-via-reduction-de-20-au-panier-et-odr-de-40-eur-3471633",
+   "posted_at": "2026-11-27T08:38:20+00:00"
+  },
+  {
    "title": "[Via Paypal] PC portable 16.1\" CHUWI CoreBook Plus - Intel Core i5-12450H, 16 Go DDR4, SSD 512 Go, châssis métal, QWERTY",
    "price_raw": "303,65€",
    "source": "dealabs",
@@ -832,7 +905,7 @@
    "posted_at": "2026-11-27T08:19:05+00:00"
   },
   {
-   "title": "[Via Paypal] Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2",
+   "title": "Mini PC CHUWI Aubox AMD Ryzen7 8745HS avec Oculink - DDR5, sans RAM, sans ROM, sans OS, WiFi 6, BT 5.2 (via Paypal)",
    "price_raw": "234,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/via-paypal-mini-pc-chuwi-aubox-amd-ryzen7-8745hs-avec-oculink-ddr5-sans-ram-sans-rom-sans-os-wifi-6-bt-52-3471574",
@@ -853,14 +926,7 @@
    "posted_at": "2026-11-27T08:34:25+00:00"
   },
   {
-   "title": "KTC Écran PC Gamer Incurvé 32 Pouces",
-   "price_raw": "159,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ktc-ecran-pc-gamer-incurve-32-pouces-3471605",
-   "posted_at": "2026-11-27T08:27:53+00:00"
-  },
-  {
-   "title": "[Via Paypal] Tablette Xiaomi Pad 8 - 8 Go 256 Go",
+   "title": "Tablette 11,2\" Xiaomi Pad 8 - 8 Go, 256 Go (Via paiement paypal)",
    "price_raw": "333,06€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/via-paypal-tablette-xiaomi-pad-8-8-go-256-go-3471596",
@@ -888,7 +954,7 @@
    "posted_at": "2026-11-27T08:13:57+00:00"
   },
   {
-   "title": "Tablette Android HONOR Pad X9a 11,5 pouces 6 Go + 128 Go",
+   "title": "Tablette 11,5\" Android Honor Pad X9a - 6+128 Go",
    "price_raw": "113,68€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-android-honor-pad-x9a-115-pouces-6-go-128-go-3471561",
@@ -902,7 +968,7 @@
    "posted_at": "2026-11-27T08:10:21+00:00"
   },
   {
-   "title": "Ordinateur Portable Ninkear A15 15.6 Pouces Écran FHD IPS AMD Ryzen 5 5500U 16Go RAM 512Go SSD (Via Paypal)",
+   "title": "PC Portable 15,6\" Ninkear A15 - Écran FHD, IPS, AMD Ryzen 5 5500U, 16 Go RAM, 512 Go SSD (Via paiement Paypal)",
    "price_raw": "284,72€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ordinateur-portable-ninkear-a15-156-pouces-ecran-fhd-ips-amd-ryzen-5-5500u-16go-ram-512go-ssd-via-paypal-3471549",
@@ -923,7 +989,7 @@
    "posted_at": "2026-11-27T07:56:04+00:00"
   },
   {
-   "title": "Ventilateur PC ARCTIC P12 (5 Pièces) - 120 mm, 1800 rpm, 56,3 cfm, 95,7 m³/h",
+   "title": "Ventilateur PC ARCTIC P12 (5 Pièces) - 120 mm, 1800 rpm, 56,3 cfm, 95,7 m³/h (vendeur tiers)",
    "price_raw": "20,45€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ventilateur-pc-arctic-p12-5-pieces-120-mm-1800-rpm-563-cfm-957-m3h-3471508",
@@ -1124,59 +1190,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/unidays-pc-portable-omen-16-3471209",
    "posted_at": "2026-11-27T02:05:11+00:00"
-  },
-  {
-   "title": "Mini PC IA Olares One - Ultra 9 275HX, RTX 5090 Mobile 24 Go, 96 Go DDR5, SSD 2 To (via lien vidéo)",
-   "price_raw": "4 090,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-ia-olares-one-ultra-9-275hx-rtx-5090-mobile-24-go-96-go-ddr5-ssd-2-to-via-lien-video-3471199",
-   "posted_at": "2026-11-27T01:33:43+00:00"
-  },
-  {
-   "title": "Mémoire SO-DIMM DDR4 - 8 Go - 2666v",
-   "price_raw": "26.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/168823142081?_skw=ddr4&hash=item274ea4b6c1:g:A-8AAeSwQPhq4m7f",
-   "posted_at": "2026-10-28T21:56:14+00:00"
-  },
-  {
-   "title": "PC Portable 14,2\" Apple MacBook Pro - Puce M6, RAM 16 Go, SSD 1 To, Argent ou Noir",
-   "price_raw": "2 098€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-142-pouces-avec-puce-m6-ssd-de-1-to-argent-3471181",
-   "posted_at": "2026-11-27T00:59:21+00:00"
-  },
-  {
-   "title": "Ecran PC 27\" Iiyama ProLite XB2796QSC-B1 - QHD, USB-C 65 W, Noir",
-   "price_raw": "114,69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-iiyama-prolite-xb2796qsc-b1-qhd-usb-c-65-w-noir-3471173",
-   "posted_at": "2026-11-27T00:50:11+00:00"
-  },
-  {
-   "title": "Tablette 11\" Apple iPad Air - M4, 128 Go",
-   "price_raw": "709€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-11-pouces-m4-ecran-liquid-retina-128-go-cameras-avantarriere-12-mp-wifi-7-avec-apple-n1-bleu-3471168",
-   "posted_at": "2026-11-27T00:40:17+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Asus ROG 18 - Ryzen 9 9955HX, 32 Go Ram, 1 To SSD, GeForce RTX 5070 Ti",
-   "price_raw": "2 499,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/asus-rog-18-9950hx-1to-32go-5070ti-igraal-30-2500eur-1750eur-3471159",
-   "posted_at": "2026-11-27T00:37:43+00:00"
-  },
-  {
-   "title": "Imprimante 3D Bambulab p1s combo",
-   "price_raw": "469€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/bambulab-p1s-combo-3471156",
-   "posted_at": "2026-11-27T00:23:11+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2040,
-  "models_with_reference": 87
+  "listings_seen": 2048,
+  "models_with_reference": 89
  }
 }
