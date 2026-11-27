@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T20:38:00Z",
+ "generated_at": "2026-11-27T21:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-27T20:38:00.623364+00:00"
+   "items": 339,
+   "last_ok": "2026-11-27T21:08:00.670806+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-27T20:38:00.623364+00:00"
+   "items": 376,
+   "last_ok": "2026-11-27T21:08:00.670806+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T20:38:00.623364+00:00"
+   "last_ok": "2026-11-27T21:08:00.670806+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwdss%2BmyNT5U4oBJsjdx9IJFcaJlff7PKDcELvTL2eo6e82v8jcZgEovFncY9QMfJJZL0yUFkZr%2BrJOyQ3o5Pwlk%2F6C3ZGm5%2B3hFtR6Vf9gn3thJuiRfbDla6iZsdar%2BABU%2B%2BHxeiueAaoNOqxDv%2FNV",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwS8vqCOHyx%2FgeowszWflzgSzx5uznwmkJnh9ZmPi%2BwUX22zQ%2B4s3%2Bf%2FMPlQKvgRkeoj08WtMG1JKZkwuJVAH7xRZG2JBUsyRMeJSlDkNTcvYkRA6jE25Sdte7DKlBN%2Fnq03sirjIf77O2KUSKTHqLt",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · bonoitec-france (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7EGFAjY7zRe%2BDlpY7v6qNe45NGwMWvx80ZbL5K1l2qZdtQsoxih%2F8a%2Bg3p1NJWVzKnibHwmd3G2BBU0AT7a7HGxpHoRGg%2BGchee0A3fe0Ozs%2BzDEOk4mzSviDB32GOVWd%2BzKEDs%2B%2Bfw09qdOVx%2FwO5d",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7HbywgVZu66pDXQkycx1DEEdIJDlRcqvU8dAtmX%2Fg2UzLqd0wqPEq7dk86QafeIsyQMiISCcuZdkCzd41GpYIZT18Ugz0owwUINlPrGAqcWNlQPohyJ2o3%2FiG1wJNKlIQH48XlLP8UpDpTbdAm%2BrYBG",
    "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
@@ -345,23 +345,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-plat-dual-mode-moniteur-ips-4k-uhd-160hz-fhd-320hz-haut-parleur-integre-mprt-1ms-hdr-400-srgb-126-3469503",
    "posted_at": "2026-11-25T20:51:17+00:00"
-  },
-  {
-   "title": "SSD NVMe 1 To Crucial P310 – Format M.2 2230 PCIe Gen4 (Neuf sous boîte)",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 104.7,
-   "shipping_eur": 5.0,
-   "effective_eur": 109.7,
-   "median_eur": 149.99,
-   "discount_pct": 26.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · seraz82 (100,0 %, 1 105 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880154712606?_skw=ssd&hash=itemcced4f1a1e:g:SZIAAeSwAGtrCFTC",
-   "posted_at": "2026-11-26T15:49:52+00:00"
   },
   {
    "title": "SSD 1 To Sandisk (Frontaliers Belgique)",
@@ -723,6 +706,27 @@
  ],
  "unclassified": [
   {
+   "title": "Routeur Huawei WiFi Mesh X3 Pro Suite - WiFi 7 BE3600 + Répéteur, Mesh",
+   "price_raw": "186,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/huawei-wifi-mesh-x3-pro-suite-routeur-wifi-7-be3600-repeteur-mesh-3473048",
+   "posted_at": "2026-11-27T20:52:59+00:00"
+  },
+  {
+   "title": "Tablette tactile 11\" Samsung Galaxy Tab A11+ - 128 Go (+20€ sur le compte adhérent)",
+   "price_raw": "225,09€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-samsung-galaxy-tab-a11-11-128-go-gris-3473010",
+   "posted_at": "2026-11-27T20:02:30+00:00"
+  },
+  {
+   "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
+   "price_raw": "71.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb",
+   "posted_at": "2026-11-27T20:43:03+00:00"
+  },
+  {
    "title": "Kit standard Routeur Starlink V4 Lite 2026 - Blanc et Gris",
    "price_raw": "249,99€",
    "source": "dealabs",
@@ -863,13 +867,6 @@
    "posted_at": "2026-11-27T17:37:29+00:00"
   },
   {
-   "title": "Intel Pentium II Slot 1 SECC – Processeur Vintage Rétro PC ",
-   "price_raw": "30.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840170583779?_skw=processeur&hash=itemc39e11b6e3:g:5VIAAeSwUJJrCbfU",
-   "posted_at": "2026-11-27T17:05:04+00:00"
-  },
-  {
    "title": "GoPro Hero 11 Black I Mini Actioncam",
    "price_raw": "139€",
    "source": "dealabs",
@@ -882,13 +879,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pack-logitech-souris-sans-fil-lift-ergo-clavier-sans-fil-signature-k650-ergo-tapis-de-souris-studio-serie-graphite-70-x-30-cm-3472679",
    "posted_at": "2026-11-27T16:55:34+00:00"
-  },
-  {
-   "title": "Pack LOGITECH G - Souris gamer sans fil G502 X Plus + Tapis de souris gamer G840",
-   "price_raw": "59,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-logitech-g-souris-gamer-sans-fil-g502-x-plus-tapis-de-souris-gamer-g840-3472690",
-   "posted_at": "2026-11-27T16:54:21+00:00"
   },
   {
    "title": "Souris Sans Fil Logitech Signature M650 L",
@@ -912,8 +902,8 @@
    "posted_at": "2026-11-27T16:01:43+00:00"
   },
   {
-   "title": "Tablette 11\" Samsung Galaxy Tab A11 - 64Go",
-   "price_raw": "119€",
+   "title": "Tablette 8.7\" Samsung Galaxy Tab A11 - 64 Go",
+   "price_raw": "117,05€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-samsung-a11-3472646",
    "posted_at": "2026-11-27T15:58:36+00:00"
@@ -1064,17 +1054,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/parallels-desktop-mac-achat-unique-3472337",
    "posted_at": "2026-11-27T13:15:35+00:00"
-  },
-  {
-   "title": "Lot de 8 kg de filaments pour imprimante 3D SUNLU PETG - 1,75 mm, Différents coloris",
-   "price_raw": "66,88€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lot-de-8-kg-de-filaments-pour-imprimante-3d-sunlu-petg-175-mm-differents-coloris-3472329",
-   "posted_at": "2026-11-27T13:11:53+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2033,
-  "models_with_reference": 89
+  "listings_seen": 2034,
+  "models_with_reference": 88
  }
 }
