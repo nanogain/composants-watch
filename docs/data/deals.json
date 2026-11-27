@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T15:08:00Z",
+ "generated_at": "2026-11-27T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 341,
-   "last_ok": "2026-11-27T15:08:00.622376+00:00"
+   "items": 342,
+   "last_ok": "2026-11-27T15:38:00.676678+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 377,
-   "last_ok": "2026-11-27T15:08:00.622376+00:00"
+   "last_ok": "2026-11-27T15:38:00.676678+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T15:08:00.622376+00:00"
+   "last_ok": "2026-11-27T15:38:00.676678+00:00"
   }
  },
  "watchlist": [
@@ -99,8 +99,8 @@
    "price_eur": 74.09,
    "shipping_eur": null,
    "effective_eur": 74.09,
-   "median_eur": 157.99,
-   "discount_pct": 53.1,
+   "median_eur": 157.14,
+   "discount_pct": 52.9,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -224,25 +224,8 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzi4nTHR9Xyl4%2Ft%2BtwsodUZW4tvMSoIPdJtjdfVJaISgKGPAfD%2FD6WCXzhQyFtz7Z9Sv7gtskxI9AB9eh6NToQZyzBf050x3cmQQY1AlAEF3fX9Y%2Bqrdt3aWTy19G5Si89xwc9TNd2fXJOcO%2Bi1LQhk",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyMGjjtutlrXXcFV6F0ChK87Usechon8%2FaLjV0MauV4dn175axj86Bf9qmYQklWUwWcsuP%2BJub3Ld79mNlpX0ARVO3eHp2XANrAGbPG%2BOqH%2F2CQTWtb1fNnABIaVlpi3GoZ7ggmtZmTikurijkj98Ed",
    "posted_at": "2026-08-14T16:59:44+00:00"
-  },
-  {
-   "title": "OCZ Trion 150 SSD interne 120 Go 2,5\" SATA III",
-   "model": "SSD:SATA-120Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 12.9,
-   "shipping_eur": 3.9,
-   "effective_eur": 16.8,
-   "median_eur": 26.0,
-   "discount_pct": 35.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 268 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
-   "posted_at": "2026-11-24T11:41:43+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -500,6 +483,40 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 497.95,
+   "discount_pct": 21.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
+  },
+  {
+   "title": "SSD SAMSUNG 870 EVO – 250 Go – SATA III – 2,5” - Occasion Testé",
+   "model": "SSD:SATA-250Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 28.73,
+   "shipping_eur": 2.78,
+   "effective_eur": 31.51,
+   "median_eur": 39.88,
+   "discount_pct": 21.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · matthieu2278 (100,0 %, 101 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137967783260?_skw=ssd&hash=item201f854d5c:g:1e8AAeSw8k1rCZ04",
+   "posted_at": "2026-11-27T15:10:24+00:00"
+  },
+  {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -566,23 +583,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/digiera-1tb-nvme-m2-pcie-gen4-3471234",
    "posted_at": "2026-11-27T04:24:07+00:00"
-  },
-  {
-   "title": "Crucial P1 SSD interne M.2 2280 NVMe PCIe 500 Go CT500P1SSD8",
-   "model": "SSD:NVMe-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 63.65,
-   "shipping_eur": 2.78,
-   "effective_eur": 66.43,
-   "median_eur": 82.77,
-   "discount_pct": 19.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · boiteachiner (100,0 %, 234 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327454930674?_skw=ssd&hash=item4c3dd5b6f2:g:SqoAAeSwy59q9513",
-   "posted_at": "2026-11-13T23:31:02+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -653,40 +653,6 @@
    "posted_at": "2026-11-23T13:10:07+00:00"
   },
   {
-   "title": "Carte mère Gigabyte B850 EAGLE WIFI6E",
-   "model": "MB:B850",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 131.76,
-   "shipping_eur": null,
-   "effective_eur": 131.76,
-   "median_eur": 157.99,
-   "discount_pct": 16.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Cdiscount",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
-   "posted_at": "2026-11-21T20:27:57+00:00"
-  },
-  {
-   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 79.74,
-   "shipping_eur": 2.99,
-   "effective_eur": 82.73,
-   "median_eur": 98.94,
-   "discount_pct": 16.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docazmicro_8 (100,0 %, 534 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
-   "posted_at": "2026-11-14T10:28:06+00:00"
-  },
-  {
    "title": "[TheCorner] Écran PC 32\" Samsung Odyssey OLED G7 G73SH - 4K 165Hz, FHD 330Hz Dual Mode, 0.03ms, True Black 400 (Via Paiement Paypal)",
    "model": "MON:32-UHD-165Hz",
    "category": "MON",
@@ -702,6 +668,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/the-corner-ecran-pc-32-samsung-odyssey-oled-g7-g73sh-4k-165hz-fhd-330hz-dual-mode-003ms-true-black-400-via-paypal-3472206",
    "posted_at": "2026-11-27T12:19:23+00:00"
+  },
+  {
+   "title": "Carte mère Gigabyte B850 EAGLE WIFI6E",
+   "model": "MB:B850",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 131.76,
+   "shipping_eur": null,
+   "effective_eur": 131.76,
+   "median_eur": 157.14,
+   "discount_pct": 16.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
+   "posted_at": "2026-11-21T20:27:57+00:00"
   },
   {
    "title": "Ecran PC incurvé 32\" AOC - 32'', QHD, 180Hz, Dalle Fast VA, 0,5ms, CQ32G4VE",
@@ -773,6 +756,48 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 14\" Samsung Galaxy Book 6 Pro 14 - Intel Core Ultra X7 385H",
+   "price_raw": "1 574€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-samsung-galaxy-book-6-pro-14-intel-core-ultra-x7-385h-3472599",
+   "posted_at": "2026-11-27T15:35:03+00:00"
+  },
+  {
+   "title": "Souris Ergonomique Verticale sans fil Logitech Lift - Bluetooth ou Récepteur USB Logi Bolt, 4 Boutons + tapis souris Studio Series",
+   "price_raw": "39,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-ergonomique-verticale-sans-fil-logitech-lift-bluetooth-ou-recepteur-usb-logi-bolt-4-boutons-tapis-souris-studio-series-3472596",
+   "posted_at": "2026-11-27T15:31:56+00:00"
+  },
+  {
+   "title": "PC Portable Gamer 15,6\" Acer Nitro ANV15-52-99UF - 144 Hz, Intel Core 9 270H, 1 To de SSD - 32 Go de RAM, RTX 5060, Win 11, Azertt",
+   "price_raw": "1 799,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/gamer-acer-nitro-3472580",
+   "posted_at": "2026-11-27T15:26:05+00:00"
+  },
+  {
+   "title": "Disque Dur Seagate IronWolf 4To - ST4000VN006 (Vendeur Tiers)",
+   "price_raw": "161,84€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/seagate-ironwolf-4to-st4000vn006-disque-dur-35-3472577",
+   "posted_at": "2026-11-27T15:20:33+00:00"
+  },
+  {
+   "title": "Station de charge Anker Prime - 14-en-1, 160W, Double écran 4K (Vendeur Tiers)",
+   "price_raw": "128,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/station-de-charge-anker-prime-14-en-1-160w-double-ecran-4k-3472558",
+   "posted_at": "2026-11-27T15:11:48+00:00"
+  },
+  {
+   "title": "Kingston 4 Go DDR4 SDRAM SO-DIMM PC4-2666V RAM ACR32D4S2S1KA-4",
+   "price_raw": "18.29 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960246336150?_skw=ddr4&hash=itemdf93244a96:g:UpUAAeSwC2RrCZzI",
+   "posted_at": "2026-11-27T15:08:58+00:00"
+  },
   {
    "title": "PC Portable 15,6'' Lenovo IdeaPad Slim 3 15AMN8 - Full HD IPS, Ryzen 5 40, RAM 16 Go, SSD 512 Go, 47 Wh, Sans OS",
    "price_raw": "424,99€",
@@ -882,7 +907,7 @@
    "title": "Carte PC Graphique GIGABYTE  GV-RX13P256D-RH - Vintage - Collection",
    "price_raw": "20.43 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407393131731?_skw=carte+graphique&hash=item5eda85dcd3:g:dT0AAOSwNHdmc-xM",
+   "url": "https://www.ebay.fr/itm/407393131731?_skw=carte+graphique&hash=item5eda85dcd3:g:dT0AAOSwNHdmc-xM&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l03ElnAOYrgW7Gd3LYONw%2FXaaqxt5V6OjDB4aMHZXkqoi0shOtG2HvqVB9KrpG7UKepoYpMpXpUIMIFlQePlSdtZUuM7baKzr7437zEmiT0cQB6kvmChocLYt%2BJOsVExX%2FzrtE131k5LZZVMEgU5jl0O9DYYHvorA4%2FQj9s7bBvecpCSUR%2BBKVi1XBd1VhVBDdEZudu9Tu7DNqj9aegptwULCCqpzwmbGdA0MW7K4i9%2BGxPK%2BETw8TqnIesquTd9wRy0SlhJyoLGQCV0RQ%2B%2FzG7dJyG0TqxoNDwjIMUNjtpg%3D%3D",
    "posted_at": "2026-11-27T13:30:22+00:00"
   },
   {
@@ -1078,54 +1103,12 @@
    "title": "Processeur Intel Celeron G3900 2,80 GHz LGA 1151 SR2HV Dual Core HD Graphics 510",
    "price_raw": "10.12 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287762528054?_skw=processeur&hash=item42fffbb736:g:6SEAAeSwcPprCVG~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lPo6NMyE08hev3Pf4nSFMBRk1PSYPKP9ycKOCF0UuGUKjShntgAdLHpXjM2qbQepEI7Ccb8onlZGBFIb1CiIfmpYqZygPpsZZ1r9QExfIaR4thg6mKPyOUwjJMpXGH%2FCmf%2B6j0xyif5l1CnJjBDYIahMSuf5Mbl1y4Ut5tBnuDfm6f3L5ZXeTcAu%2BDXdg38DAlgBIoYhL7O25s62tPJz0lfxFpW68MTaCM5TMfLnpSulXmEzUHPA%2FTB1MgeLcYj4lSBC%2BIeBn%2FrWZIR02bYJ7LB78XbGwDJXcUB4lqwQcxEQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287762528054?_skw=processeur&hash=item42fffbb736:g:6SEAAeSwcPprCVG~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lPo6NMyE08hev3Pf4nSFMBRk1PSYPKP9ycKOCF0UuGUKjShntgAdLHpXjM2qbQepEI7Ccb8onlZGBFIb1CiIfmpYqZygPpsZZ1r9QExfIaR4thg6mKPyOUwjJMpXGH%2FClM2G2O7glP0YLOQIDqXpw57FteFB4yTzvCC1FfBrc9Ur6NGSU%2FNkVYLpDglvTLsQz88UAMM%2FgkafSOJrJ881mtEehiTDwIdY7PaiWN6vanrxuWiUUTqTIE%2F9NkNFvKFZL9tPTNDof76xc1EoLeYU6vsRV%2BI%2Frx15dtfAZ4AkEHHw%3D%3D",
    "posted_at": "2026-11-27T09:47:55+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Apple Macbook Pro - Liquid Retina XDR, M6, CPU 12 coeurs, GPU 12 coeurs, 32 Go RAM, SSD 1 To, Noir sidéral",
-   "price_raw": "2 538€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ordinateur-apple-macbook-pro-14-liquid-retina-xdr-m6-cpu-12-coeurs-gpu-12-coeurs-32-go-ram-ssd-1-to-noir-sideral-3471805",
-   "posted_at": "2026-11-27T09:37:15+00:00"
-  },
-  {
-   "title": "Tablette 11\" Apple iPad Air M4 Wi-Fi - RAM 12 Go, 128 Go, Bleu, Beige, Noir ou Violet",
-   "price_raw": "669,58€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-11-ipad-air-m4-liquid-retina-display-128gb-12mp-frontrear-camera-wifi-7-with-apple-n1-touch-id-all-day-battery-blue-3471801",
-   "posted_at": "2026-11-27T09:35:30+00:00"
-  },
-  {
-   "title": "Imprimante Scanner Canon MegaTank G650 WIFI, AirPrint",
-   "price_raw": "160,28€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-scanner-canon-megatank-g650-wifi-airprint-3471790",
-   "posted_at": "2026-11-27T09:32:03+00:00"
-  },
-  {
-   "title": "[Via Paypal] Imprimante 3D ANYCUBIC Kobra 4 + 20kg de filament PLA - 260x260x260mm, 600mm/s, Wi-Fi, auto-leveling, caméra 720p",
-   "price_raw": "269,69€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-anycubic-kobra-4-20kg-de-filament-pla-260x260x260mm-600mms-wi-fi-auto-leveling-camera-720p-3471780",
-   "posted_at": "2026-11-27T09:28:10+00:00"
-  },
-  {
-   "title": "PC de bureau PcCom Ready - AMD Ryzen 5 5600XT, 16 Go, 1 To SSD, RTX 5060 Ti, Windows 11",
-   "price_raw": "1 172,78€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-pccom-ready-amd-ryzen-5-5600xt-16gb-1tb-ssd-rtx-5060-ti-windows-11-3471763",
-   "posted_at": "2026-11-27T09:24:42+00:00"
-  },
-  {
-   "title": "[Adhérents Club+] PC Portable 13\" Apple MacBook Air M5 - 24 Go RAM, 1 To Go SSD (+32,98€ cagnottés)",
-   "price_raw": "1 649€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-13-apple-macbook-air-m5-24-go-ram-1-to-go-ssd-3298eur-cagnottes-3471757",
-   "posted_at": "2026-11-27T09:22:27+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2041,
-  "models_with_reference": 89
+  "listings_seen": 2044,
+  "models_with_reference": 91
  }
 }
