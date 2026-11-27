@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T09:08:00Z",
+ "generated_at": "2026-11-27T09:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-27T09:08:00.623921+00:00"
+   "last_ok": "2026-11-27T09:38:00.662880+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 397,
-   "last_ok": "2026-11-27T09:08:00.623921+00:00"
+   "items": 391,
+   "last_ok": "2026-11-27T09:38:00.662880+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T09:08:00.623921+00:00"
+   "last_ok": "2026-11-27T09:38:00.662880+00:00"
   }
  },
  "watchlist": [
@@ -75,6 +75,23 @@
    "posted_at": "2026-11-25T06:36:15+00:00"
   },
   {
+   "title": "SSD NVMe M.2 2280 PCIe 3.0 x4 128Go 256Go 512Go 1To 2To Disque Dur Interne Neuf",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 66.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 66.99,
+   "median_eur": 149.99,
+   "discount_pct": 55.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · mazkar55 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBQGpY5qwwnwCKWxSiRTeWKckR4D6sq1KwF2TPXBD9X9Jh85UWws74Wd%2FLmqe8INBwoJ1iE4S4OjOja9f67TrD97BkQ6OLXsyDzOF8xIqf7NHM7GUbHLTIa4M7dlf0Rkg6XkEVwC%2B5zxeB8oZQBzmnncVUft7QaX4utVNjlbyyb8hzS5FeTMfZyqq%2Fn6uKvBywXQNp%2Bolf%2F71DluV9hfH9Xsj%2FVJcERNvNqlEKCfPMxmmexhwX8x05YIjeJvs8a8IO",
+   "posted_at": "2026-11-19T18:54:22+00:00"
+  },
+  {
    "title": "Carte Mère COLORFUL BATTLE-AX B850M-T WIFI V14 (Micro-ATX, WiFi 6E, DDR5, etc)",
    "model": "MB:B850",
    "category": "MB",
@@ -124,23 +141,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-pouces-aoc-q27g42ze-qhd-fast-ips-240-hz-260-hz-oc-03-ms-3469743",
    "posted_at": "2026-11-26T07:39:01+00:00"
-  },
-  {
-   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 74.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 74.99,
-   "median_eur": 149.99,
-   "discount_pct": 50.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · topdeal-market (100,0 %, 155 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRj3NAtegF1MZxiZbsYF2IJJRsYnyAcy%2Fd4re2t6VFWpyvIWwHveEUtW73iHF%2F2cJ1wrFq4qLGTHqymK2MTuJwqpasV%2Bs3YTWnJNW8et8PgB%2BBqnobq4IuRegTnP5ddLMveHolcqD0mEQ2b8tss179et",
-   "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
    "title": "Accessoires circuit graphique pour Carte graphique GeForce RTX 5060 8Go 3 DP + 1 HDMI GDDR7",
@@ -228,23 +228,6 @@
    "posted_at": "2026-11-18T18:28:36+00:00"
   },
   {
-   "title": "ASUS TUF B450-PLUS GAMING carte mère ATX Socket AM4 NON TESTÉ",
-   "model": "MB:B450",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 42.3,
-   "shipping_eur": 0.0,
-   "effective_eur": 42.3,
-   "median_eur": 72.88,
-   "discount_pct": 42.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · lesvraisbonplans (98,3 %, 388 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860179625912?_skw=carte+m%C3%A8re&hash=itemc846b377b8:g:CfYAAeSwfn9rCFl1",
-   "posted_at": "2026-11-26T16:10:00+00:00"
-  },
-  {
    "title": "ASRock Rack B450D4U-V1LQ5 - AMD B450 - DDR4 Ram - BTO Carte Mère Socket AM4",
    "model": "MB:B450",
    "category": "MB",
@@ -258,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · alpha38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mB2dsRIh12XRxw6a9%2Fv%2FgMR3FBhK%2FqOF%2BdRmEMZtnLCuG9TkXE8R8PKIbc2VMxh7nLKugpihWKJT78oredUHIs1FS9TESjWpGZEWaJdFwm8mgbR6dEtHbJJrwiyDxqfkayuxbQtOVm8vi0PTHEYc%2BQhZKwS7yIBhVI0RqWDawtYGNrz4pjgdP4LDL%2FNzqZNhWphny8oC5iFof%2Fg8PfLj1Loybdyz4H0BG3Vn08U8KTy0BoIEnjhBI3p1z6Hr%2BFltrQE9BhLvs%2BZFaUJnfFcVzOYWwmrDCv5fCaHu1HkdI5SQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW",
    "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
@@ -275,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwhgcxr09fx7bn3662uH7tn7mIa4r78OiuXp2Pi3z4kJQto%2FrV5HwcwHOp%2Fz7hUpx%2BcOw5Yet0JjvNKduMNDMidFZ3qJZKrG7PVh5LIiBUyD0Y02Nt0K4XOMWgq5Av8MK2c7oztXEs9r2ZG6vWnhpyO",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyGVjEoztkQDrKzoMVNndMFOsf8%2BIq%2BpPGgduZPfJZfaGWBuxGNBd0KL7XZpjskO45IfQRVl9gyaEeJOq4AZF6Up4TAUPA8kHzyxFRdBd6DdUJZOXWjW%2FqApkhsl8dU%2BKeMUe842lhAgvW23wn1fjym",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -290,7 +273,7 @@
    "discount_pct": 35.4,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · fastseller59 (99,6 %, 264 avis)",
+   "merchant": "eBay · fastseller59 (99,6 %, 266 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
    "posted_at": "2026-11-24T11:41:43+00:00"
@@ -432,6 +415,23 @@
    "posted_at": "2026-11-26T16:11:56+00:00"
   },
   {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 109.99,
+   "median_eur": 149.99,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (100,0 %, 155 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRju%2FTGTCVKtHTvtaQ5pEzNLPS4th7WTDbfmWOPT9xyiBes%2BzzXPCZFoFkSMBIrQeWu2HsBSOtbxbUtzStqCyDYgH1hC8jRGFeM87l7IpvBuCxW00w%2BPO1zbtDXApcbuBvLnN%2FdyvvsxTdjYr2oYdgwK",
+   "posted_at": "2026-11-24T20:50:45+00:00"
+  },
+  {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -447,23 +447,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-pny-cs1030-m2-nvme-pcie-250go-2-pour-89eur-3465433",
    "posted_at": "2026-11-22T16:19:39+00:00"
-  },
-  {
-   "title": "Kingston A400 240Go 2,5” SSD Interne (SA400S37/240G) - CrystalDisk +80%",
-   "model": "SSD:NVMe-240Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 19.99,
-   "shipping_eur": 2.78,
-   "effective_eur": 22.77,
-   "median_eur": 30.7,
-   "discount_pct": 25.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · francehardware (100,0 %, 70 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800968437136?_skw=ssd&hash=itemba7d706d90:g:rnMAAeSwINxqcLKz",
-   "posted_at": "2026-11-26T08:21:47+00:00"
   },
   {
    "title": "RAM Micron 16 Go DDR4-2666 ECC RDIMM MTA18ASF2G72PDZ-2G6D1RI (Objet N°Y131)",
@@ -598,7 +581,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr4QSNdvynA05yTDUwa0ecFzcFOqsW%2BbUDTwnBo%2F2RbiLlh95nQIkSghlRPjpsOHbb8BqC%2BJwgZgGGh8zrK%2Fe2SX6%2B9bCVdos%2BHc9v7bDBtkmvIYaqWZsTPOHWCkTrbKDIPfBJdbfojsD91thkqgd4pCsnTA2Ny9dWuefm6R9yCc%2BA%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -789,15 +772,32 @@
    "posted_at": "2026-11-21T20:27:57+00:00"
   },
   {
+   "title": "Ecran PC incurvé 32\" AOC - 32'', QHD, 180Hz, Dalle Fast VA, 0,5ms, CQ32G4VE",
+   "model": "MON:32-QHD-180Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 139.99,
+   "shipping_eur": null,
+   "effective_eur": 139.99,
+   "median_eur": 165.31,
+   "discount_pct": 15.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-gamer-aoc-32-qhd-180hz-dalle-fast-va-05ms-cq32g4ve-3471791",
+   "posted_at": "2026-11-27T09:32:06+00:00"
+  },
+  {
    "title": "Transcend 112S 512 Go SSD M.2 3D NAND NVMe PCIe 3.0",
    "model": "SSD:NVMe-512Go",
    "category": "SSD",
    "condition": "new",
-   "price_eur": 85.0,
+   "price_eur": 75.0,
    "shipping_eur": 0.0,
-   "effective_eur": 85.0,
+   "effective_eur": 75.0,
    "median_eur": 464.08,
-   "discount_pct": 81.7,
+   "discount_pct": 83.8,
    "target_hit": false,
    "suspect": true,
    "merchant": "eBay · jeanphif1 (100,0 %, 236 avis)",
@@ -842,7 +842,63 @@
  ],
  "unclassified": [
   {
-   "title": "PC Portable Gamer ASUS Gaming V16 : Win 11 - 16\" WUXGA - RTX 4050 6Go - Intel Core 5 210H - RAM 16Go - 512Go SSD",
+   "title": "Ordinateur Apple MACBOOK Pro 14\" Liquid Retina XDR M6 CPU 12 coeurs / GPU 12 coeurs 32 Go RAM SSD 1 To Noir sidéral",
+   "price_raw": "2 487,24€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ordinateur-apple-macbook-pro-14-liquid-retina-xdr-m6-cpu-12-coeurs-gpu-12-coeurs-32-go-ram-ssd-1-to-noir-sideral-3471805",
+   "posted_at": "2026-11-27T09:37:15+00:00"
+  },
+  {
+   "title": "Apple 11\" iPad Air (M4): Liquid Retina Display, 128GB, 12MP Front/Rear Camera, WiFi 7 with Apple N1, Touch ID, All Day Battery - Blue",
+   "price_raw": "664€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-11-ipad-air-m4-liquid-retina-display-128gb-12mp-frontrear-camera-wifi-7-with-apple-n1-touch-id-all-day-battery-blue-3471801",
+   "posted_at": "2026-11-27T09:35:30+00:00"
+  },
+  {
+   "title": "Imprimante Scanner Canon MegaTank G650 WIFI, AirPrint",
+   "price_raw": "160,28€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-scanner-canon-megatank-g650-wifi-airprint-3471790",
+   "posted_at": "2026-11-27T09:32:03+00:00"
+  },
+  {
+   "title": "Imprimante 3D ANYCUBIC Kobra 4 + 20kg de filament PLA - 260x260x260mm, 600mm/s, Wi-Fi, auto-leveling, caméra 720p",
+   "price_raw": "269,69€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-3d-anycubic-kobra-4-20kg-de-filament-pla-260x260x260mm-600mms-wi-fi-auto-leveling-camera-720p-3471780",
+   "posted_at": "2026-11-27T09:28:10+00:00"
+  },
+  {
+   "title": "PC de bureau PcCom Ready - AMD Ryzen 5 5600XT, 16 Go, 1 To SSD, RTX 5060 Ti, Windows 11",
+   "price_raw": "1 172,78€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-pccom-ready-amd-ryzen-5-5600xt-16gb-1tb-ssd-rtx-5060-ti-windows-11-3471763",
+   "posted_at": "2026-11-27T09:24:42+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Gigabyte Aorus Master 16 - AMD Ryzen 9 8940HX, RTX 5070 Ti, RAM 32 Go DDR5, SSD 1 To, OLED, 240Hz, Windows 11",
+   "price_raw": "2 299,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-gigabyte-aorus-master-16-rtx-5070-ti-32-go-ram-1-to-ryzen-9-oled-249hz-3471762",
+   "posted_at": "2026-11-27T09:24:22+00:00"
+  },
+  {
+   "title": "[Adhérents Club+] PC Portable 13\" Apple MacBook Air M5 - 24 Go RAM, 1 To Go SSD (+32,98€ cagnottés)",
+   "price_raw": "1 649€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-13-apple-macbook-air-m5-24-go-ram-1-to-go-ssd-3298eur-cagnottes-3471757",
+   "posted_at": "2026-11-27T09:22:27+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Hybride HP - OmniBook X Flip 14 Tactile, OLED, Intel Core Ultra 5, 16 Go RAM, SSD 512 Go, Sans Chargeur",
+   "price_raw": "810,09€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/hp-omnibook-x-flip-14-3471726",
+   "posted_at": "2026-11-27T09:15:46+00:00"
+  },
+  {
+   "title": "PC Portable 16\" Gamer Asus Gaming V16 : Win 11 - WUXGA, RTX 4050 6 Go, Intel Core 5 210H, RAM 16 Go, 512 Go SSD",
    "price_raw": "859,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-asus-gaming-v16-win-11-16-wuxga-rtx-4050-6go-intel-core-5-210h-ram-16go-512go-ssd-3471693",
@@ -870,7 +926,7 @@
    "posted_at": "2026-11-27T08:56:23+00:00"
   },
   {
-   "title": "Canon SELPHY CP1500 blanche + 2 x Canon RP-108 feuilles + ruban x2",
+   "title": "Imprimante Canon Selphy CP1500 - Blanc, avec 2 Canon RP-108 Feuilles & Ruban",
    "price_raw": "139€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/canon-selphy-cp1500-blanche-2-x-canon-rp-108-feuilles-ruban-x2-3471674",
@@ -1134,66 +1190,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/20-de-reduction-des-199eur-dachat-sur-les-imprimantes-et-scanners-fnac-darty-3470198",
    "posted_at": "2026-11-27T06:00:00+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech MX Master 3S (via 47,50€ cagnottés)",
-   "price_raw": "47,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-master-3s-via-4750eur-cagnottes-3471279",
-   "posted_at": "2026-11-27T05:55:57+00:00"
-  },
-  {
-   "title": "Souris Sans Fil Logitech MX Master 4 + Étui de transport MX (à activer dans le panier)",
-   "price_raw": "94,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mx-master-4-etui-de-transport-mx-3471261",
-   "posted_at": "2026-11-27T05:38:33+00:00"
-  },
-  {
-   "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C28 - White",
-   "price_raw": "1012.75 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336918142363?_skw=ddr5&hash=item4e71e2dd9b:g:zEYAAeSwEkVrCESa",
-   "posted_at": "2026-11-26T14:39:19+00:00"
-  },
-  {
-   "title": "Barrette RAM SK hynix 4 Go DDR4 2400T UDIMM (non-ECC) - HMA851U6AFR6N-UH N0 AC",
-   "price_raw": "19.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389703316726?_skw=ddr4&hash=item5abc20b4f6:g:DnwAAeSwCDZqBZi4",
-   "posted_at": "2026-03-05T16:12:05+00:00"
-  },
-  {
-   "title": "Carte mere GIGABYTE GA-A55M-S2HP REV 1.0 socket FM1",
-   "price_raw": "23.60 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/226011758011?_skw=carte+m%C3%A8re&hash=item349f59bdbb:g:tNEAAOSwt01l1Khc",
-   "posted_at": "2024-02-20T13:16:00+00:00"
-  },
-  {
-   "title": "Refroidissement PC Kit Watercooling NZXT Kraken Elite 240 - Refroidisseur CPU AIO 240mm, LCD, Noir",
-   "price_raw": "89,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kit-watercooling-nzxt-kraken-elite-240-refroidisseur-cpu-aio-240mm-lcd-noir-3471241",
-   "posted_at": "2026-11-27T04:30:13+00:00"
-  },
-  {
-   "title": "Kingston 8GB 1Rx8 DDR4 PC4-2666V SO-DIMM RAM Laptop 9995624-060.A00G",
-   "price_raw": "29.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960025428849?_skw=ddr4&hash=itemdf85f98371:g:zZ8AAeSwVExq-2nj",
-   "posted_at": "2026-10-06T14:02:26+00:00"
-  },
-  {
-   "title": "[UNIDAYS] PC Portable Omen 16' - Ryzen AI 7 350, RTX 5070, 24go Ram, SSD 1to",
-   "price_raw": "1 709,05€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/unidays-pc-portable-omen-16-3471209",
-   "posted_at": "2026-11-27T02:05:11+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2048,
+  "listings_seen": 2058,
   "models_with_reference": 89
  }
 }
