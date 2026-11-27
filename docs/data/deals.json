@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T00:08:00Z",
+ "generated_at": "2026-11-27T00:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 334,
-   "last_ok": "2026-11-27T00:08:00.682467+00:00"
+   "items": 335,
+   "last_ok": "2026-11-27T00:38:00.625127+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-27T00:08:00.682467+00:00"
+   "items": 382,
+   "last_ok": "2026-11-27T00:38:00.625127+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-27T00:08:00.682467+00:00"
+   "items": 51,
+   "last_ok": "2026-11-27T00:38:00.625127+00:00"
   }
  },
  "watchlist": [
@@ -177,23 +177,6 @@
    "posted_at": "2026-11-26T21:11:46+00:00"
   },
   {
-   "title": "boitier alimentation PC  EDEN 500W",
-   "model": "PSU:500W",
-   "category": "PSU",
-   "condition": "used",
-   "price_eur": 10.79,
-   "shipping_eur": 6.9,
-   "effective_eur": 17.69,
-   "median_eur": 30.98,
-   "discount_pct": 42.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · fanfan67370 (100,0 %, 1 002 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/178530181411?_skw=alimentation+pc&hash=item29913a6123:g:3ywAAeSwj3xojf~b",
-   "posted_at": "2026-09-26T13:49:06+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -277,6 +260,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/307303667050?_skw=ssd&hash=item478cb9d56a:g:z-oAAeSw0~5rCLWr",
    "posted_at": "2026-11-26T22:42:28+00:00"
+  },
+  {
+   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
+   "model": "RAM:DDR4-16Go-2933",
+   "category": "RAM",
+   "condition": "used",
+   "price_eur": 79.95,
+   "shipping_eur": 3.9,
+   "effective_eur": 83.85,
+   "median_eur": 135.75,
+   "discount_pct": 38.2,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · tanzen_store (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwRFfA9edjd763FZgTJtQ%2FWo9h2WEWx4DY20GOS4IkUj1Asb%2BHO2Qv8oCKZYFy9Jbk%2BOAxyw09vgb%2FVSs7lLEZm1to9ZTVJ0tVk3Wzs5VTvL7q0qHWvJaOMSSiiVwjnOgp6359dAbFb8T%2FNLkQqWpnc",
+   "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
    "title": "Disque SSD interne Netac M.2 NVMe PCIe Gen4x4 2To",
@@ -462,7 +462,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (100,0 %, 153 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgEVmzQP9qSmPDqsf9i3PVM96--JWM8p8UH33xolNVSotBGKErHYG0u3dLaq90uq3yB7Og95%2BCUyYrxKF4JqulYXU1WJ2l5vOMNxRdACa2VDhuIgNbyIxRo8KYEfnPP8%2F3NalcvvVYgycp1P9SKcjwG",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjoq8MwTILarlo%2F9ahASYtQ5wHbR%2BhcAH%2BWVSJRqGSxB%2BK1DOQsJT6Ds1ZBH9d4R2UzhLQJpHD%2F9fo1s8nK4VpvsHTOs614IMSmKAsECqTdcgYTva6VFmTfZ1EXjQaWQCQLOB9SFnhcIrUtEH78hi5T",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -774,6 +774,13 @@
  ],
  "unclassified": [
   {
+   "title": "Imprimante 3D Bambulab p1s combo",
+   "price_raw": "469€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/bambulab-p1s-combo-3471156",
+   "posted_at": "2026-11-27T00:23:11+00:00"
+  },
+  {
    "title": "Souris sans fil Logitech MX Master 4 - noir",
    "price_raw": "81,67€",
    "source": "dealabs",
@@ -924,7 +931,7 @@
    "title": "Carte Mère HP Joshua H61 LGA1155 + i5-3350P + 8Go DDR3 + Ventirad",
    "price_raw": "51.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHqKxeDCiqMwSXL737hfKVnkVEMeA7fNlpnUFg0CT3oolZ%2FgqqBG5alF47a9Vc%2F19evIbuJwxXRHHP1sbmgOaPLKnFQlLcc%2F%2BBkcwo%2FdXK%2Bo%2FV45SVW2JT6XaAvy0Rxig6jc%2BjSEmODNtMS09CMA1RrfkxK0deylv3jciS3Slm7SMw%3D%3D",
+   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHrv3kv3IG%2FKjW7CPzkjoNpimyD0XAMMu5fYoCvV2KAty6y4xciO5TRD8sMamYyFdg%2BVubGz%2FBM3IsqCo1yDG%2FGhjFxKOgebg50BJFPUE6AadlZsGZMl8isgdn6u3OS7LuXMGtQeODexNt1gAXIhNWx%2FTw4YclqVrz%2BoYYaJnjWllw%3D%3D",
    "posted_at": "2026-11-26T16:39:42+00:00"
   },
   {
@@ -1008,7 +1015,7 @@
    "title": "Écran pc incurvé Samsung C27f396fhu",
    "price_raw": "261.39 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVezW%2Fuj7CtLhNouD0j0NlT3kQIADiTSTRbO51GUcBqmiORmpWwQaKXa9D21MFDGdPfKP7q9%2BlAhFRGUaW2mIw7N4rKKg3zkjwnUPALZEE7SbcWdA%2Ftnezlw6r9RPLxtslhNknBlbbFpP8Xnvg75ajm4QDr6KMEMNhXmplsNz%2FV1bQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVc2RqQobrwemR9Grw9HhyU3DJz1FCBQafCC0pYyfNJz80x1kTLmMVNwTV3%2FlimmUYMBuw9dvvAhJ5861GwRU62ad5B0hwz9ekTdkOMvaQ0hM9zQVVoNIZ1b5a9MH9%2BqECRV6fWEe6DywzfpbhD2z7LZFVggcVX3Huw4Pyxjau2azQ%3D%3D",
    "posted_at": "2026-11-26T18:35:10+00:00"
   },
   {
@@ -1031,6 +1038,13 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117543698158?_skw=alimentation+pc&hash=item1b5e267eee:g:3tEAAeSwPGhrCG3y",
    "posted_at": "2026-11-26T17:39:13+00:00"
+  },
+  {
+   "title": "Alimentation PSU ordinateur SFF HP ProDesk 400 G4 /600 G3 / 280 G2 - 180w",
+   "price_raw": "22.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206728986820?_skw=alimentation+pc&hash=item30220200c4:g:Z3oAAeSw-FFrCHEH",
+   "posted_at": "2026-11-26T17:53:19+00:00"
   },
   {
    "title": "Tablette Apple iPad A16 (2025) - 128 Go, Bleu ou Argent (via 99,80€ fidélité)",
@@ -1103,29 +1117,15 @@
    "posted_at": "2026-11-22T22:16:13+00:00"
   },
   {
-   "title": "Serveur de stockage Nas Ugreen DXP2800 - 2 Baies 3,5\" + 2 Slots SSD NVME, N100, 8 Go Ram (Extensible), RJ45 2.5GbE",
-   "price_raw": "308,92€",
+   "title": "Serveur de stockage Nas Ugreen DXP2800 - 2 Baies 3,5\" + 2 Slots SSD NVME, N100, 8 Go Ram (Extensible), RJ45 2.5GbE (Vendeur Darty)",
+   "price_raw": "304,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/serveur-de-stockage-nas-ugreen-dxp2800-2-baies-35-2-slots-ssd-nvme-n100-8-go-ram-extensible-rj45-25gbe-3470472",
    "posted_at": "2026-11-26T16:10:06+00:00"
-  },
-  {
-   "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - Windows 11, FHD, Ryzen 3 30, RAM 16 Go, SSD 512 Go",
-   "price_raw": "424,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-15amn8-windows-11-fhd-ryzen-3-30-ram-16-go-ssd-512-go-azerty-3470513",
-   "posted_at": "2026-11-26T16:36:16+00:00"
-  },
-  {
-   "title": "PC portable Gamer 15,1\" Lenovo Legion5 15IRX10 - WQXGA (2560 x 1600) OLED 165 Hz, i7-13650HX, RTX 5060 115W, 16Go / 512Go + Souris sans fil",
-   "price_raw": "1 274,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-151-lenovo-legion5-15irx10-wqxga-2560-x-1600-oled-165-hz-i7-13650hx-rtx-5060-115w-16go-512go-souris-sans-fil-3470514",
-   "posted_at": "2026-11-26T16:33:59+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2014,
-  "models_with_reference": 84
+  "listings_seen": 2017,
+  "models_with_reference": 83
  }
 }
