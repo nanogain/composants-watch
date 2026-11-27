@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T06:38:00Z",
+ "generated_at": "2026-11-27T07:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-27T06:38:00.638612+00:00"
+   "items": 342,
+   "last_ok": "2026-11-27T07:08:00.623164+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 395,
-   "last_ok": "2026-11-27T06:38:00.638612+00:00"
+   "items": 393,
+   "last_ok": "2026-11-27T07:08:00.623164+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 30,
-   "last_ok": "2026-11-27T06:38:00.638612+00:00"
+   "items": 80,
+   "last_ok": "2026-11-27T07:08:00.623164+00:00"
   }
  },
  "watchlist": [
@@ -40,6 +40,23 @@
   }
  ],
  "opportunities": [
+  {
+   "title": "Écran PC gamer 27\" Acer KG273UW2bmiippx - WQHD IPS (2560 x 1440), 240 Hz, 1 ms, HDR10, FreeSync Premium",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 119.99,
+   "shipping_eur": null,
+   "effective_eur": 119.99,
+   "median_eur": 299.99,
+   "discount_pct": 60.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-27-acer-kg273uw2bmiippx-wqhd-ips-2560-x-1440-240-hz-1-ms-hdr10-freesync-premium-3471388",
+   "posted_at": "2026-11-27T06:59:04+00:00"
+  },
   {
    "title": "Écran PC 27” Lenovo Legion 27Q-18 - QHD, IPS, 240 Hz, 1 ms, pied réglable",
    "model": "MON:27-QHD-240Hz",
@@ -71,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · mazkar55 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBQGpY5qwwnwCKWxSiRTeWKckR4D6sq1KwF2TPXBD9X9Jh85UWws74Wd%2FLmqe8INBwoJ1iE4S4OjOja9f67TrD97BkQ6OLXsyDzOF8xIqf7NE8go6pLvgVCjSR%2FBs1PE3K49oIy%2BhOPv2onYkhF30NQpz14nJPQpJ3cdeEoGaW7F1br0C0atBToZmvPqyu2vTQ%2F8SU1QP0mGzw5VWqTOT9cSe7VgilB9TizeGYURETOnvGrBJUdcDLs2dW8Tc1W09w",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBQGpY5qwwnwCKWxSiRTeWKckR4D6sq1KwF2TPXBD9X9Jh85UWws74Wd%2FLmqe8INBwoJ1iE4S4OjOja9f67TrD97BkQ6OLXsyDzOF8xIqf7NFA%2B3wuSP3aeIjutlc%2Bsv6X9rfvw7ojVpG1jLiircR%2FFqzMt02K0EFx9WTTBTGsyRA5XyaUpsQKfX%2B%2FmxUqOLFpEVt4Pb%2FtabKPrm02bFF1JbxmFdvVfDpOXiR6iH1MvN0dHZl3MHTaTPuFnjhoVI%2FT",
    "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
@@ -241,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · alpha38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mB2dsRIh12XRxw6a9%2Fv%2FgMR3FBhK%2FqOF%2BdRmEMZtnLCuG9TkXE8R8PKIbc2VMxh7nLKugpihWKJT78oredUHIs1FS9TESjWpGZEWaJdFwm8mgbR6dEtHbJJrwiyDxqfkbHLimA%2BDM5Qh9C1pLgEaEqlZMW79J%2BRPMa5MF64CcIU25TGpFj%2BGKClCyVS50HGnjgdDEwHLVYbTYK%2B9dWrIQHJ1kQQPQuxK2%2FSN%2B3kZfwFoYt2wWz7%2FZEBorbeuNy7fPw%2FgrVgTXfoI68cS7%2Fy7WsZXaBVvPEevPLt2wi3MEmLA%3D%3D",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mB2dsRIh12XRxw6a9%2Fv%2FgMR3FBhK%2FqOF%2BdRmEMZtnLCuG9TkXE8R8PKIbc2VMxh7nLKugpihWKJT78oredUHIs1FS9TESjWpGZEWaJdFwm8mgbR6dEtHbJJrwiyDxqfkYzUsZgFsyE4aVpa90jm4Z8Y7wP6%2BrZCjORgldUVLJUhIcqUthI60TZMKvkhO7Pzq88uG3Ja7ddICo2tNLbOv%2FrKqxsafB3N1XYlPeB5T1F5u8iRtdihWDHaLTBB8wkhnQsAeU%2F8QOfN1GG44crIbM3EkVZr74el%2FktkKR%2FCGc66A%3D%3D",
    "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
@@ -258,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxvppsy3rokvaGMxA3AqmK0MZiyKXhCF6wNgIT8be%2B6Q6ye3JV%2BUHVn0lQETnj9VGvea4KXvgIn2jGORZ7xot5HYUNTeiABnXgoppG6cCI9i5hTsFSo%2BO%2BLaQvoZlm%2FLAbxgNlyFyIGqSCidsl7LMoB",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwJIZ4Smgw1hOHw7huBy0US0FBblCXux%2F3uFyFeiKBGaUQqe2mDKhjsZ73h4S4KO2%2FdtHcTARLoS%2BNYNVhmCaNZQ%2F5u3zqniyv9S%2FkEHGwCjsTu1gyBX31I8tbLOUSs3amoNKh2ihOV82klDyaYoC2X",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -428,7 +445,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (100,0 %, 155 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgvrvbORfuaj7JskOsXX8d1h4cQI4IaOV%2FdKws8m1rgEImBiT2BFhnu%2FCNYRQNhVQZF8RP91DnPSxwAbAmlbVyAV8pRNGUtSY6gzmML6%2FcXEhHk3W3su%2FasB6WDIZdp%2BpsKLBWnBwVB7%2B1xdA4H559d",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRh8Dv2tsiAGFuyqRc1exiQX%2BscqVjifJMvsZMqXJscmJ3uOWvRKaoTah%2Bns6IkJiHcAN9qptSRO1EC%2Bhnns2FzRAzU1%2BUXB1AOLTrPJwdZ%2FtIHmuyfdeeGoNbuov3BUSgwvpdKKyXSy%2FIvTA9Dq%2FtT%2F",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -600,6 +617,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/198685861034?_skw=ddr4&hash=item2e4299a4aa:g:ndQAAeSw5RdqiLPG",
    "posted_at": "2026-10-03T18:54:25+00:00"
+  },
+  {
+   "title": "Disque dur NVMe M.2 PCIe Gen4 DigiEra - 1TB, 5100MB/s (vendeur tiers)",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 119.97,
+   "shipping_eur": null,
+   "effective_eur": 119.97,
+   "median_eur": 149.99,
+   "discount_pct": 20.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon.de",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/digiera-1tb-nvme-m2-pcie-gen4-3471234",
+   "posted_at": "2026-11-27T04:24:07+00:00"
   },
   {
    "title": "SSD interne 2,5\" PNY CS900 - 500 Go",
@@ -791,6 +825,62 @@
  ],
  "unclassified": [
   {
+   "title": "Refroidissement liquide CPU Tcomas LE200 360 Blanc – Watercooling AIO 360mm, Pompe ARGB carrée",
+   "price_raw": "85,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/refroidissement-liquide-cpu-tcomas-le200-360-blanc-watercooling-aio-360mm-pompe-argb-carree-3471406",
+   "posted_at": "2026-11-27T07:03:32+00:00"
+  },
+  {
+   "title": "Imprimante multifonction - EPSON - EcoTank ET-2864 - A4 - Wi-Fi - Réservoirs d'encre rechargeables - Jusqu'à 3 ans d'encre inclus",
+   "price_raw": "139,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2864-a4-wi-fi-reservoirs-dencre-rechargeables-jusqua-3-ans-dencre-inclus-3471403",
+   "posted_at": "2026-11-27T07:02:45+00:00"
+  },
+  {
+   "title": "Souris sans fil Logitech M185 - 2.4 GHz, avec Mini Récepteur USB, 1000 PPP",
+   "price_raw": "7,80€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-m185-24-ghz-avec-mini-recepteur-usb-1000-ppp-3471398",
+   "posted_at": "2026-11-27T07:01:40+00:00"
+  },
+  {
+   "title": "Souris sans fil Corsair Sabre v2 Pro Ultralight - 33000 DPI, 8000Hz, Blanc, 36g, 70h batterie",
+   "price_raw": "50,20€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-corsair-sabre-v2-pro-ultralight-33000-dpi-8000hz-blanc-36g-70h-batterie-3471385",
+   "posted_at": "2026-11-27T06:57:31+00:00"
+  },
+  {
+   "title": "Souris sans fil Logitech MX Anywhere 3S - capteur 8K DPI, Bluetooth, MagSpeed, jusqu’à 70 jours d’autonomie, USB-C",
+   "price_raw": "49,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-anywhere-3s-capteur-8k-dpi-bluetooth-magspeed-jusqua-70-jours-dautonomie-usb-c-3471364",
+   "posted_at": "2026-11-27T06:45:49+00:00"
+  },
+  {
+   "title": "Apple iPad Air 13 2025 WLAN uniquement, 13\", 128 Go, Lumière stellaire",
+   "price_raw": "779€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-ipad-air-13-2025-wlan-uniquement-13-128-go-lumiere-stellaire-3471358",
+   "posted_at": "2026-11-27T06:43:57+00:00"
+  },
+  {
+   "title": "Brother HL-L3220CWE",
+   "price_raw": "199,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/brother-hl-l3220cwe-3471354",
+   "posted_at": "2026-11-27T06:42:09+00:00"
+  },
+  {
+   "title": "Souris sans fil ergonomique verticale Logitech Lift - 4000 DPI, 6 Boutons",
+   "price_raw": "34,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-ergonomique-verticale-logitech-lift-4000-dpi-6-boutons-3471352",
+   "posted_at": "2026-11-27T06:41:49+00:00"
+  },
+  {
    "title": "[Via Paypal] Mini PC FIREBAT R3 - Ryzen 5 7430U (6C/12T), 16 Go LPDDR4, SSD 512 Go, WiFi 6, triple affichage 4K, Windows 11",
    "price_raw": "247,06€",
    "source": "dealabs",
@@ -861,18 +951,18 @@
    "posted_at": "2024-02-20T13:16:00+00:00"
   },
   {
+   "title": "Refroidissement PC Kit Watercooling NZXT Kraken Elite 240 - Refroidisseur CPU AIO 240mm, LCD, Noir",
+   "price_raw": "89,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/kit-watercooling-nzxt-kraken-elite-240-refroidisseur-cpu-aio-240mm-lcd-noir-3471241",
+   "posted_at": "2026-11-27T04:30:13+00:00"
+  },
+  {
    "title": "Kingston 8GB 1Rx8 DDR4 PC4-2666V SO-DIMM RAM Laptop 9995624-060.A00G",
    "price_raw": "29.99 EUR",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960025428849?_skw=ddr4&hash=itemdf85f98371:g:zZ8AAeSwVExq-2nj",
    "posted_at": "2026-10-06T14:02:26+00:00"
-  },
-  {
-   "title": "écran Pc Koorui 27in 235Hz IPS QHD",
-   "price_raw": "136,48€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/koorui-27in-235hz-ips-qhd-3471219",
-   "posted_at": "2026-11-27T03:06:03+00:00"
   },
   {
    "title": "[UNIDAYS] PC Portable Omen 16' - Ryzen AI 7 350, RTX 5070, 24go Ram, SSD 1to",
@@ -1032,7 +1122,7 @@
    "title": "MSI G275L E14 Écran PC Gamer Moniteur Gaming 27 Pouces FHD 144Hz IPS 1ms HDMI EU",
    "price_raw": "149.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860180289162?_skw=%C3%A9cran+pc&hash=itemc846bd968a:g:GXUAAeSw0uVrCKkr",
+   "url": "https://www.ebay.fr/itm/860180289162?_skw=%C3%A9cran+pc&hash=itemc846bd968a:g:GXUAAeSw0uVrCKkr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kMr6YS6JnCn0eyuqL8tdV5jZeKT9S0Et54DLC4%2BZ3zwcv9t8OEiK6frelReBRTLFvGozdRm0FZ%2FeIyjJF0Nlsk%2FR2JWoT%2FMTBuuJTkGFDZM8dDxEiB%2B%2BluF9GNBDkD%2BuYDoJ9rRN0zEi%2FMikFPBinAaRJbnFl5tp1xkzEFSQoniH1M43896EMGgcZriaU2kHfUZfKZZpplDM8F--hWJzdUmKISEXs2X4YDnGOB67fEvFnexLmEO7GxyQoGM%2Fp%2FJlAjyrP5muowt9Sk63sQqXhbSiV0M7B0PAw5tsYQYZCSRQ%3D%3D",
    "posted_at": "2026-11-26T21:50:52+00:00"
   },
   {
@@ -1060,7 +1150,7 @@
    "title": "Carte Mère HP Joshua H61 LGA1155 + i5-3350P + 8Go DDR3 + Ventirad",
    "price_raw": "51.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHreZrS9GSA3%2BnC9jz14HQotnbA6ekgVCB32d9J5GBUKoSsCT5eH7iPnIOCKiBjP4W%2Ftai%2Bh2Avf6N1VN0YsaK0wmhHdw4YgSvruMh3sEPEFnr88cFb2O8JrJvuYwh5p8FZkAFNBDICeyv2yoXvrd6QDBhbBp4bt4NvNIWOL1ZeRtA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHqH847aNOltZ0EcRHyNX5KpTorzbJzafVlChtM3J--71fbrSPUH%2FF2n3UH8orcNBYEs%2B%2BC%2FXR%2B3duhK320yiQW9A9kKRZMuJt4hI8CpFip1C65jKPBB4EZH7z1%2FCdfl%2B7CGmrG5fWTfcCnKzGA0iRlaaR0N1zzyrJht2or1rx9Taw%3D%3D",
    "posted_at": "2026-11-26T16:39:42+00:00"
   },
   {
@@ -1083,66 +1173,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-13-apple-macbook-air-m5-16-go-ram-512-go-ssd-via-110eur-en-cheques-cadeaux-fnac-3470807",
    "posted_at": "2026-11-26T19:58:14+00:00"
-  },
-  {
-   "title": "[Adherent] Pc Portable 18\" Gigabyte A18 PRO DXJG3FRBC4SH - IPS WQXGA 165 Hz, I7 240H, 32 Go Ram; 1 To SSD, RTX 5070 Ti (+190€ sur le compte)",
-   "price_raw": "1 999,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherent-pc-portable-18-gigabyte-a18-pro-dxjg3frbc4sh-ips-wqxga-165-hz-i7-240h-32-go-ram-1-to-ssd-rtx-5070-ti-190-sur-le-compte-3470793",
-   "posted_at": "2026-11-26T19:49:33+00:00"
-  },
-  {
-   "title": "Kamado: Barbecue charbon de bois, grill et fumoir, céramique Ø57cm avec roues, tablettes et housse",
-   "price_raw": "503,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kamado-barbecue-charbon-de-bois-grill-et-fumoir-ceramique-o57cm-avec-roues-tablettes-et-housse-3470792",
-   "posted_at": "2026-11-26T19:49:17+00:00"
-  },
-  {
-   "title": "Switch TP-Link TL-SG108-M2 - 2.5 Gigabit, 8 Ports, Boitier Métal, Silencieux, sans Ventilateur, Plug & Play",
-   "price_raw": "55,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/switch-tp-link-tl-sg108-m2-25-gigabit-8-ports-boitier-metal-silencieux-sans-ventilateur-plug-play-3470785",
-   "posted_at": "2026-11-26T19:44:53+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Acer Aspire 14 AI - Ryzen AI, 16 Go RAM, 512 Go SSD",
-   "price_raw": "699€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/acer-aspire-14-ai-pc-portable-14-ryzen-ai-16gb-512gb-3470733",
-   "posted_at": "2026-11-26T19:06:25+00:00"
-  },
-  {
-   "title": "Kingston DDR5 RAM 8 Go 5600 MT/s DIMM CL46 Non-ECC 1,1 V",
-   "price_raw": "197.48 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407391287298?_skw=ddr5&hash=item5eda69b802:g:tR4AAeSwys9rCIPV",
-   "posted_at": "2026-11-26T19:09:04+00:00"
-  },
-  {
-   "title": "Souris gaming sans fil Sony Inzone Mouse-A - 48,4 g, 8000 Hz, capteur 30K DPI, 90 h d'autonomie",
-   "price_raw": "99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-sony-inzone-mouse-a-484-g-8000-hz-capteur-30k-dpi-90-h-dautonomie-3470729",
-   "posted_at": "2026-11-26T19:02:38+00:00"
-  },
-  {
-   "title": "Ventilateurs PC Corsair RS120-R ARGB 120mm PWM +5 ARGB Inversée",
-   "price_raw": "30,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/corsair-rs120-r-argb-120mm-pwm-5-argb-inversee-ventilateurs-3470701",
-   "posted_at": "2026-11-26T18:38:29+00:00"
-  },
-  {
-   "title": "KINGSTON DDR5 8 Go 5600 MT/s CL46 DIMM",
-   "price_raw": "268.50 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880155041790?_skw=ddr5&hash=itemcced541ffe:g:RCQAAeSwnMJrCH3p",
-   "posted_at": "2026-11-26T18:43:54+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2017,
-  "models_with_reference": 89
+  "listings_seen": 2024,
+  "models_with_reference": 88
  }
 }
