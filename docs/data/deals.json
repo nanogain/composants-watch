@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T13:08:00Z",
+ "generated_at": "2026-11-27T13:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 338,
-   "last_ok": "2026-11-27T13:08:00.678490+00:00"
+   "items": 337,
+   "last_ok": "2026-11-27T13:38:00.676602+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 386,
-   "last_ok": "2026-11-27T13:08:00.678490+00:00"
+   "items": 380,
+   "last_ok": "2026-11-27T13:38:00.676602+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T13:08:00.678490+00:00"
+   "last_ok": "2026-11-27T13:38:00.676602+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwFtcInPZnX8Myvt9R42vwIkSARrXwuxO%2B0e4%2BmgZ4WPE1MYiY3nxA4JvmHOx60MWYz5Y1J1W1hKH%2FqjiapqJjMEhXbfbWaoyxw2jJpII%2BAdCYCoukohmAOQdPXhHf%2FvH3O5p%2BBYh2gnc4dCPHt1Svf",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzJnQF1Rv2mmeDghsYmYfqfTE%2Fi42y9tiiYmJiH5qluvgkFx8BX8uCZjMbFYs0qGLeGtYG1yvCtj%2Fks43CSniqFwn%2BNAA9DQiECKwN7fGFT4VqHE6JN97D3LIB8us0X7r%2FDEljSGUSt6acYZG5rC3t0",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -481,23 +481,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/407379980331?_skw=ssd&hash=item5ed9bd302b:g:KzwAAeSwqqFq50xE",
    "posted_at": "2026-11-21T20:54:35+00:00"
-  },
-  {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 496.9,
-   "discount_pct": 21.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -774,6 +757,55 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 13″ Apple MacBook Neo 2026 - Puce A18 Pro : Écran Liquid Retina, Mémoire Unifiée 8 Go, SSD 256 Go",
+   "price_raw": "699€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/macbook-neo-silver-8go-256gb-3472363",
+   "posted_at": "2026-11-27T13:25:54+00:00"
+  },
+  {
+   "title": "Écran PC 26,5\" MSI QD-OLED MAG 274QP - X24",
+   "price_raw": "299,95€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-oled-msi-3472354",
+   "posted_at": "2026-11-27T13:23:25+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Apple MacBook Pro - Puce M5 Pro, RAM 48 Go, SSD 1 To, Écran PROLED XDR, Noir ou Blanc",
+   "price_raw": "3 789,58€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-14-ecran-proled-xdr-1-to-ssd-48-go-ram-puce-m5-pro-18-coeurs-3472344",
+   "posted_at": "2026-11-27T13:19:25+00:00"
+  },
+  {
+   "title": "Licence Parallels Desktop pour Mac - Édition Standard, dématérialisé (parallels.com)",
+   "price_raw": "142,49€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/parallels-desktop-mac-achat-unique-3472337",
+   "posted_at": "2026-11-27T13:15:35+00:00"
+  },
+  {
+   "title": "Lot de 8 kg de filaments pour imprimante 3D SUNLU PETG - 1,75 mm, Différents coloris",
+   "price_raw": "66,88€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lot-de-8-kg-de-filaments-pour-imprimante-3d-sunlu-petg-175-mm-differents-coloris-3472329",
+   "posted_at": "2026-11-27T13:11:53+00:00"
+  },
+  {
+   "title": "Carte PC Graphique GIGABYTE  GV-RX13P256D-RH - Vintage - Collection",
+   "price_raw": "20.43 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407393131731?_skw=carte+graphique&hash=item5eda85dcd3:g:dT0AAOSwNHdmc-xM",
+   "posted_at": "2026-11-27T13:30:22+00:00"
+  },
+  {
+   "title": "Carte Graphique Nvidia GEFORCE2 MX200 32MB + TV",
+   "price_raw": "15.08 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/407393131725?_skw=carte+graphique&hash=item5eda85dccd:g:-tsAAOSwYeBmcxJu",
+   "posted_at": "2026-11-27T13:30:22+00:00"
+  },
+  {
    "title": "PC portable 15,6\" Acer Chromebook 315 - Full HD TN (1920 x 1080), MediaTek Kompanio 540, 4Go RAM, 128Go eMMC, 45 Wh, ChromeOS",
    "price_raw": "159,99€",
    "source": "dealabs",
@@ -1015,7 +1047,7 @@
    "title": "Processeur Intel Celeron G3900 2,80 GHz LGA 1151 SR2HV Dual Core HD Graphics 510",
    "price_raw": "10.12 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287762528054?_skw=processeur&hash=item42fffbb736:g:6SEAAeSwcPprCVG~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lPo6NMyE08hev3Pf4nSFMBRk1PSYPKP9ycKOCF0UuGUKjShntgAdLHpXjM2qbQepEI7Ccb8onlZGBFIb1CiIfmpYqZygPpsZZ1r9QExfIaR4thg6mKPyOUwjJMpXGH%2FClrs2BelHFAAbFQ3NuRnbHTolOSIZWS7qbYB3ZQ46l7WDHCLxYK82rFGBTJTKkJPRhIn36%2Bbw59T16oHh89lPL5GpmyCcpt6OxJ7RssLexvid7Nx%2FH6rYUsfCDsoNf9%2BbAkKIsd0DVS7BwBlQoblnCCwtPds7iircEW%2F7%2FLBgfcxQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/287762528054?_skw=processeur&hash=item42fffbb736:g:6SEAAeSwcPprCVG~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lPo6NMyE08hev3Pf4nSFMBRk1PSYPKP9ycKOCF0UuGUKjShntgAdLHpXjM2qbQepEI7Ccb8onlZGBFIb1CiIfmpYqZygPpsZZ1r9QExfIaR4thg6mKPyOUwjJMpXGH%2FCkvctExUJ2jLYA%2BgqQdg5Yc%2FQsFdN2G16J3lcH5FA1qPsFKcwULfJAtAXHKgPfHZEdI412G7rmBj%2BqYjf9O8cGSQkD1Yl%2BqJDp4rjwpSyIebXA3dnYxynrNWXvEE4KFRRM%2BIdXOAtXg%2B0gE5xhK7OWE6rcN8zzA2hcGNXmoZlEgTA%3D%3D",
    "posted_at": "2026-11-27T09:47:55+00:00"
   },
   {
@@ -1054,25 +1086,11 @@
    "posted_at": "2026-11-27T09:24:42+00:00"
   },
   {
-   "title": "PC Portable 16\" Gigabyte Aorus Master 16 - AMD Ryzen 9 8940HX, RTX 5070 Ti, RAM 32 Go DDR5, SSD 1 To, OLED, 240Hz, Windows 11",
-   "price_raw": "2 299,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-gaming-gigabyte-aorus-master-16-rtx-5070-ti-32-go-ram-1-to-ryzen-9-oled-249hz-3471762",
-   "posted_at": "2026-11-27T09:24:22+00:00"
-  },
-  {
    "title": "[Adhérents Club+] PC Portable 13\" Apple MacBook Air M5 - 24 Go RAM, 1 To Go SSD (+32,98€ cagnottés)",
    "price_raw": "1 649€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-13-apple-macbook-air-m5-24-go-ram-1-to-go-ssd-3298eur-cagnottes-3471757",
    "posted_at": "2026-11-27T09:22:27+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Hybride HP - OmniBook X Flip 14 Tactile, OLED, Intel Core Ultra 5, 16 Go RAM, SSD 512 Go, Sans Chargeur",
-   "price_raw": "810,09€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/hp-omnibook-x-flip-14-3471726",
-   "posted_at": "2026-11-27T09:15:46+00:00"
   },
   {
    "title": "PC Portable 16\" Gamer Asus Gaming V16 : Win 11 - WUXGA, RTX 4050 6 Go, Intel Core 5 210H, RAM 16 Go, 512 Go SSD",
@@ -1087,45 +1105,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2920-jet-dencre-5760-x-1440-dpi-wifi-reservoir-rechargeable-airprint-via-odr-20eur-3471401",
    "posted_at": "2026-11-27T09:00:01+00:00"
-  },
-  {
-   "title": "PC portable Gamer 15,1\" Lenovo Legion5 15IRX10 - WQXGA (2560 x 1600) OLED 165 Hz, i7-13650HX, RTX 5060 115W, 16Go / 512Go, Sans OS",
-   "price_raw": "1 174,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-151-lenovo-legion5-15irx10-wqxga-2560-x-1600-oled-165-hz-i7-13650hx-rtx-5060-115w-16go-512go-souris-sans-fil-3471681",
-   "posted_at": "2026-11-27T08:56:23+00:00"
-  },
-  {
-   "title": "Imprimante Canon Selphy CP1500 - Blanc, avec 2 Canon RP-108 Feuilles & Ruban",
-   "price_raw": "139€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/canon-selphy-cp1500-blanche-2-x-canon-rp-108-feuilles-ruban-x2-3471674",
-   "posted_at": "2026-11-27T08:53:07+00:00"
-  },
-  {
-   "title": "Mini PC Soyo Y5 Air - Intel Core i5 4ème génération, 8 Go de RAM, 128 Go de SSD, Windows 11 Pro",
-   "price_raw": "78,86€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-y5-air-intel-core-i5-4eme-generation-8-go-de-ram-128-go-de-ssd-windows-11-pro-3471661",
-   "posted_at": "2026-11-27T08:46:53+00:00"
-  },
-  {
-   "title": "PC Portable 14\" HP OmniBook 3 14-hu0011nfx - OLED, Intel Core 3, RAM 8 Go, SSD 256 Go, Windows 11 (+ 30€ cagnottés)",
-   "price_raw": "378,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-hp-omnibook-3-14-hu0011nfx-oled-intel-core-3-ram-8-go-ssd-256-go-windows-11-30eur-cagnottes-3471646",
-   "posted_at": "2026-11-27T08:42:31+00:00"
-  },
-  {
-   "title": "Imprimante multifonction Epson EcoTank ET-2951 Noir (via ODR 40€)",
-   "price_raw": "144,28€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2951-noir-via-reduction-de-20-au-panier-et-odr-de-40-eur-3471633",
-   "posted_at": "2026-11-27T08:38:20+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2052,
+  "listings_seen": 2050,
   "models_with_reference": 90
  }
 }
