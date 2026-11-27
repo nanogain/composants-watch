@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T13:38:00Z",
+ "generated_at": "2026-11-27T14:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-27T13:38:00.676602+00:00"
+   "items": 340,
+   "last_ok": "2026-11-27T14:08:00.634953+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 380,
-   "last_ok": "2026-11-27T13:38:00.676602+00:00"
+   "last_ok": "2026-11-27T14:08:00.634953+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T13:38:00.676602+00:00"
+   "last_ok": "2026-11-27T14:08:00.634953+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzJnQF1Rv2mmeDghsYmYfqfTE%2Fi42y9tiiYmJiH5qluvgkFx8BX8uCZjMbFYs0qGLeGtYG1yvCtj%2Fks43CSniqFwn%2BNAA9DQiECKwN7fGFT4VqHE6JN97D3LIB8us0X7r%2FDEljSGUSt6acYZG5rC3t0",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuypjHE2Kw4%2BsFHMX7ceK3XMVRIV44akvh2Semc79tUaeKUA9mS9iQXjJG%2FufpXEpNucvLyFeTqyw4sUBG4iz84sgi2xIN6Jgn0G7%2FZ3IqvK8lJsnEisYZFrJW1KPgiWg79qoLhDNPFSQjukpHKIhYoV",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -551,23 +551,6 @@
    "posted_at": "2026-11-27T04:24:07+00:00"
   },
   {
-   "title": "Crucial P1 SSD interne M.2 2280 NVMe PCIe 500 Go CT500P1SSD8",
-   "model": "SSD:NVMe-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 63.65,
-   "shipping_eur": 2.78,
-   "effective_eur": 66.43,
-   "median_eur": 82.77,
-   "discount_pct": 19.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · boiteachiner (100,0 %, 234 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327454930674?_skw=ssd&hash=item4c3dd5b6f2:g:SqoAAeSwy59q9513",
-   "posted_at": "2026-11-13T23:31:02+00:00"
-  },
-  {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
    "model": "SSD:SATA-500Go",
    "category": "SSD",
@@ -651,23 +634,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
    "posted_at": "2026-11-21T20:27:57+00:00"
-  },
-  {
-   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 79.74,
-   "shipping_eur": 2.99,
-   "effective_eur": 82.73,
-   "median_eur": 98.94,
-   "discount_pct": 16.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docazmicro_8 (100,0 %, 534 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
-   "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
    "title": "[TheCorner] Écran PC 32\" Samsung Odyssey OLED G7 G73SH - 4K 165Hz, FHD 330Hz Dual Mode, 0.03ms, True Black 400 (Via Paiement Paypal)",
@@ -756,6 +722,55 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 14\" Macbook Pro - M5, 16Go/1To, Noir",
+   "price_raw": "1 899€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/macbook-pro-14-pouces-m5-16go1to-noir-3472440",
+   "posted_at": "2026-11-27T14:01:28+00:00"
+  },
+  {
+   "title": "Refroidissement PC MSI MAG Coreliquid E360 ARGB Watercooling - Kit for Intel & AMD CPU",
+   "price_raw": "74,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-mag-coreliquid-e360-argb-watercooling-kit-for-intel-amd-cpu-3472408",
+   "posted_at": "2026-11-27T13:50:24+00:00"
+  },
+  {
+   "title": "Souris gamer sans fil Logitech G PRO X2 Superstrike Lightspeed - capteur HERO 2 44000 DPI, 61 g, 8000 Hz, 90 h, Eclipse lunaire",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gamer-sans-fil-logitech-g-pro-x2-superstrike-lightspeed-capteur-hero-2-44000-dpi-61-g-8000-hz-90-h-eclipse-lunaire-3472396",
+   "posted_at": "2026-11-27T13:42:38+00:00"
+  },
+  {
+   "title": "Tablette 10,1\" CHUWI Hi10 X2 - écran FHD, double cœur i3-10100Y, LPDDR3 8 Go de RAM, 256 Go de ROM",
+   "price_raw": "183,36€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-chuwi-hi10-x2-ecran-fhd-101-pouces-3472395",
+   "posted_at": "2026-11-27T13:41:25+00:00"
+  },
+  {
+   "title": "Tablette Lenovo Idea Tab Plus 12,1\" 2,5K 90 Hz - Dimensity 6400, 8 Go RAM, 256 Go, stylet et coque Folio",
+   "price_raw": "224,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-lenovo-idea-tab-plus-121-25k-90-hz-dimensity-6400-8-go-ram-256-go-stylet-et-coque-folio-3472392",
+   "posted_at": "2026-11-27T13:38:29+00:00"
+  },
+  {
+   "title": "Carte mère HP H-IG41-uATX - E5500 2.8GHz - 4Go DDR3 + IO Shield",
+   "price_raw": "80.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327480207085?_skw=carte+m%C3%A8re&hash=item4c3f5766ed:g:3EUAAeSwGxxrCYc4",
+   "posted_at": "2026-11-27T13:37:49+00:00"
+  },
+  {
+   "title": "Tacens Anima AC6500 Boîtier PC Micro ATX Compact Refroidissement par Mailles",
+   "price_raw": "50.92 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132742976?_skw=boitier+pc&hash=item5a9a1e7140:g:aIMAAeSwnnho-UTC",
+   "posted_at": "2025-10-23T04:13:55+00:00"
+  },
   {
    "title": "PC Portable 13″ Apple MacBook Neo 2026 - Puce A18 Pro : Écran Liquid Retina, Mémoire Unifiée 8 Go, SSD 256 Go",
    "price_raw": "699€",
@@ -1009,20 +1024,6 @@
    "posted_at": "2026-11-27T09:59:20+00:00"
   },
   {
-   "title": "[Adhérents FNAC] Tablette 13\" Lenovo Idea Tab Pro Gen 2 - 3.5K, RAM 8 Go, 128 Go + Stylet inclus (dont 30€ crédité sur la carte de fidélité)",
-   "price_raw": "294,09€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-fnac-tablette-13-lenovo-idea-tab-pro-gen-2-35k-ram-8-go-128-go-stylet-inclus-dont-30eur-credite-sur-la-carte-de-fidelite-3471852",
-   "posted_at": "2026-11-27T09:51:16+00:00"
-  },
-  {
-   "title": "PC Portable 15\" Alienware 15 - Intel Core 7 240H, RTX 5050, 16Go de Ram, SSD 512Go",
-   "price_raw": "969€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-15-alienware-15-intel-core-7-240h-rtx-5050-16go-de-ram-ssd-512go-3471834",
-   "posted_at": "2026-11-27T09:44:56+00:00"
-  },
-  {
    "title": "PC Portable 15,6\" Ninkear Ybook15 - AMD Ryzen 3 3250U, RAM 16 Go, SSD 512 Go, Ecran Tactile IPS, FHD, 360°, Windows 11",
    "price_raw": "240,89€",
    "source": "dealabs",
@@ -1037,17 +1038,10 @@
    "posted_at": "2026-11-27T09:40:50+00:00"
   },
   {
-   "title": "PC Portable 14\" Apple MacBook Pro - Puce M5 Pro, RAM 24 Go, SSD 1 To (+260€ cagnotté pour les Fnac+)",
-   "price_raw": "2 439€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-14-1-to-ssd-24-go-m5-pro-15-c-16-c-via-260eur-en-bons-dachat-3471768",
-   "posted_at": "2026-11-27T09:25:50+00:00"
-  },
-  {
    "title": "Processeur Intel Celeron G3900 2,80 GHz LGA 1151 SR2HV Dual Core HD Graphics 510",
    "price_raw": "10.12 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287762528054?_skw=processeur&hash=item42fffbb736:g:6SEAAeSwcPprCVG~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lPo6NMyE08hev3Pf4nSFMBRk1PSYPKP9ycKOCF0UuGUKjShntgAdLHpXjM2qbQepEI7Ccb8onlZGBFIb1CiIfmpYqZygPpsZZ1r9QExfIaR4thg6mKPyOUwjJMpXGH%2FCkvctExUJ2jLYA%2BgqQdg5Yc%2FQsFdN2G16J3lcH5FA1qPsFKcwULfJAtAXHKgPfHZEdI412G7rmBj%2BqYjf9O8cGSQkD1Yl%2BqJDp4rjwpSyIebXA3dnYxynrNWXvEE4KFRRM%2BIdXOAtXg%2B0gE5xhK7OWE6rcN8zzA2hcGNXmoZlEgTA%3D%3D",
+   "url": "https://www.ebay.fr/itm/287762528054?_skw=processeur&hash=item42fffbb736:g:6SEAAeSwcPprCVG~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lPo6NMyE08hev3Pf4nSFMBRk1PSYPKP9ycKOCF0UuGUKjShntgAdLHpXjM2qbQepEI7Ccb8onlZGBFIb1CiIfmpYqZygPpsZZ1r9QExfIaR4thg6mKPyOUwjJMpXGH%2FClgCTQavLV9i806CatCOxBtAudwTbKsemoECFN0grzhQ29Fagqz7KA7NqZLyJU2tWltma5LePCxHJWhhjGquuEIRF51bFDJCdpIqwcwDnw%2BxEnp582i5wme9xhgbaQEbXiIs%2BsfCgSHgCQUkSUHsj0Kj95bMvAagwCouDnqZBsCOg%3D%3D",
    "posted_at": "2026-11-27T09:47:55+00:00"
   },
   {
@@ -1077,38 +1071,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-anycubic-kobra-4-20kg-de-filament-pla-260x260x260mm-600mms-wi-fi-auto-leveling-camera-720p-3471780",
    "posted_at": "2026-11-27T09:28:10+00:00"
-  },
-  {
-   "title": "PC de bureau PcCom Ready - AMD Ryzen 5 5600XT, 16 Go, 1 To SSD, RTX 5060 Ti, Windows 11",
-   "price_raw": "1 172,78€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-pccom-ready-amd-ryzen-5-5600xt-16gb-1tb-ssd-rtx-5060-ti-windows-11-3471763",
-   "posted_at": "2026-11-27T09:24:42+00:00"
-  },
-  {
-   "title": "[Adhérents Club+] PC Portable 13\" Apple MacBook Air M5 - 24 Go RAM, 1 To Go SSD (+32,98€ cagnottés)",
-   "price_raw": "1 649€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-13-apple-macbook-air-m5-24-go-ram-1-to-go-ssd-3298eur-cagnottes-3471757",
-   "posted_at": "2026-11-27T09:22:27+00:00"
-  },
-  {
-   "title": "PC Portable 16\" Gamer Asus Gaming V16 : Win 11 - WUXGA, RTX 4050 6 Go, Intel Core 5 210H, RAM 16 Go, 512 Go SSD",
-   "price_raw": "859,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-asus-gaming-v16-win-11-16-wuxga-rtx-4050-6go-intel-core-5-210h-ram-16go-512go-ssd-3471693",
-   "posted_at": "2026-11-27T09:00:03+00:00"
-  },
-  {
-   "title": "Imprimante multifonction Epson EcoTank ET-2920 - jet d’encre, 5760 x 1440 dpi, Wi‑Fi, réservoir rechargeable, AirPrint (via ODR 20€",
-   "price_raw": "149,90€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2920-jet-dencre-5760-x-1440-dpi-wifi-reservoir-rechargeable-airprint-via-odr-20eur-3471401",
-   "posted_at": "2026-11-27T09:00:01+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2050,
-  "models_with_reference": 90
+  "listings_seen": 2048,
+  "models_with_reference": 88
  }
 }
