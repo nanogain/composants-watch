@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T14:38:00Z",
+ "generated_at": "2026-11-27T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 341,
-   "last_ok": "2026-11-27T14:38:00.626272+00:00"
+   "last_ok": "2026-11-27T15:08:00.622376+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 381,
-   "last_ok": "2026-11-27T14:38:00.626272+00:00"
+   "items": 377,
+   "last_ok": "2026-11-27T15:08:00.622376+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T14:38:00.626272+00:00"
+   "last_ok": "2026-11-27T15:08:00.622376+00:00"
   }
  },
  "watchlist": [
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-27-lenovo-legion-27q-18-qhd-ips-240-hz-1-ms-pied-reglable-129-eur-3468453",
    "posted_at": "2026-11-25T06:36:15+00:00"
+  },
+  {
+   "title": "Ecran PC 27\" Lenovo Legion 27Q-10 - QHD, IPS, 240Hz",
+   "model": "MON:27-QHD-240Hz",
+   "category": "MON",
+   "condition": "new",
+   "price_eur": 129.99,
+   "shipping_eur": null,
+   "effective_eur": 129.99,
+   "median_eur": 299.99,
+   "discount_pct": 56.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lenovo-legion-27q-10-27-pouces-qhd-ips-240hz-3472506",
+   "posted_at": "2026-11-27T14:44:07+00:00"
   },
   {
    "title": "Carte Mère COLORFUL BATTLE-AX B850M-T WIFI V14 (Micro-ATX, WiFi 6E, DDR5, etc)",
@@ -207,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzyPTarOfbWbgNgGjlKWEQVx%2FX3fAqMTviZ36JleaTs4NPO29PeZ0p%2FuSEC51bWbTfDdbgxcEpyL42fJghUZAC5thgP17EcicICzCv8Zkl%2BQFKADwJyXhdtaw3202rfrmCX8JsgTR6JR4L9tfvHugQ2",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzi4nTHR9Xyl4%2Ft%2BtwsodUZW4tvMSoIPdJtjdfVJaISgKGPAfD%2FD6WCXzhQyFtz7Z9Sv7gtskxI9AB9eh6NToQZyzBf050x3cmQQY1AlAEF3fX9Y%2Bqrdt3aWTy19G5Si89xwc9TNd2fXJOcO%2Bi1LQhk",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -483,23 +500,6 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 496.9,
-   "discount_pct": 21.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
    "model": "SSD:NVMe-1To",
    "category": "SSD",
@@ -566,6 +566,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/digiera-1tb-nvme-m2-pcie-gen4-3471234",
    "posted_at": "2026-11-27T04:24:07+00:00"
+  },
+  {
+   "title": "Crucial P1 SSD interne M.2 2280 NVMe PCIe 500 Go CT500P1SSD8",
+   "model": "SSD:NVMe-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 63.65,
+   "shipping_eur": 2.78,
+   "effective_eur": 66.43,
+   "median_eur": 82.77,
+   "discount_pct": 19.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · boiteachiner (100,0 %, 234 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327454930674?_skw=ssd&hash=item4c3dd5b6f2:g:SqoAAeSwy59q9513",
+   "posted_at": "2026-11-13T23:31:02+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -651,6 +668,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
    "posted_at": "2026-11-21T20:27:57+00:00"
+  },
+  {
+   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 79.74,
+   "shipping_eur": 2.99,
+   "effective_eur": 82.73,
+   "median_eur": 98.94,
+   "discount_pct": 16.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · docazmicro_8 (100,0 %, 534 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
+   "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
    "title": "[TheCorner] Écran PC 32\" Samsung Odyssey OLED G7 G73SH - 4K 165Hz, FHD 330Hz Dual Mode, 0.03ms, True Black 400 (Via Paiement Paypal)",
@@ -739,6 +773,13 @@
   }
  ],
  "unclassified": [
+  {
+   "title": "PC Portable 15,6'' Lenovo IdeaPad Slim 3 15AMN8 - Full HD IPS, Ryzen 5 40, RAM 16 Go, SSD 512 Go, 47 Wh, Sans OS",
+   "price_raw": "424,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-15amn8-full-hd-ips-ryzen-5-40-ram-16-go-ssd-512-go-47-wh-sans-os-3472531",
+   "posted_at": "2026-11-27T14:57:51+00:00"
+  },
   {
    "title": "PC Portable 15\" Acer Aspire Go AG15 72P 53DQ - Intel Core 5 120U, 16 Go de RAM DDR4, 512 Go de SSD",
    "price_raw": "599,99€",
@@ -915,13 +956,6 @@
    "posted_at": "2026-11-27T11:56:37+00:00"
   },
   {
-   "title": "Carte mère ASUS P7H55/USB3 - i7 870 2.93GHz - DDR3 + IO Shield",
-   "price_raw": "50.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327480072239?_skw=carte+m%C3%A8re&hash=item4c3f55582f:g:TPoAAeSwOGlrCW-z",
-   "posted_at": "2026-11-27T11:57:31+00:00"
-  },
-  {
    "title": "PC Portable 13\" Apple Macbook Air - Puce M5, 16 Go RAM, 512 Go SSD - Rosny Sous Bois (93)",
    "price_raw": "967,99€",
    "source": "dealabs",
@@ -976,13 +1010,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lot-de-2-ecrans-pc-gaming-238-aoc-24g50f-full-hd-ips-180hz-05-ms-hdr-compatible-g-sync-3472040",
    "posted_at": "2026-11-27T10:53:12+00:00"
-  },
-  {
-   "title": "Tablettes Black Friday - Exemple : Pack Galaxy Tab S10 FE wifi 128 Go Anthracite + Etui",
-   "price_raw": "439€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/boulanger-les-meilleures-offres-tablettes-black-friday-3471939",
-   "posted_at": "2026-11-27T10:18:02+00:00"
   },
   {
    "title": "Imprimante 3D, FDM à boîtier fermé avec chambre QIDIxJOYBUY Q2 Combo",
@@ -1051,7 +1078,7 @@
    "title": "Processeur Intel Celeron G3900 2,80 GHz LGA 1151 SR2HV Dual Core HD Graphics 510",
    "price_raw": "10.12 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/287762528054?_skw=processeur&hash=item42fffbb736:g:6SEAAeSwcPprCVG~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lPo6NMyE08hev3Pf4nSFMBRk1PSYPKP9ycKOCF0UuGUKjShntgAdLHpXjM2qbQepEI7Ccb8onlZGBFIb1CiIfmpYqZygPpsZZ1r9QExfIaR4thg6mKPyOUwjJMpXGH%2FCmNFDIO6szbJDz0DIaNpOeMjenJwHrIQmZKK6LhWZ6CU%2FgVxcn2gMGjYI%2BGIAAKlfZsr2bAUb%2FTe95%2FXLuXvOpUVYevjYmufaUORqgjtPSZJgEIbq2qnGM4CrEw9XEQBmgQBZaxsQdZF15UqS5AHloQUlsQb9XZcc3zgblk%2BBck9Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/287762528054?_skw=processeur&hash=item42fffbb736:g:6SEAAeSwcPprCVG~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lPo6NMyE08hev3Pf4nSFMBRk1PSYPKP9ycKOCF0UuGUKjShntgAdLHpXjM2qbQepEI7Ccb8onlZGBFIb1CiIfmpYqZygPpsZZ1r9QExfIaR4thg6mKPyOUwjJMpXGH%2FCmf%2B6j0xyif5l1CnJjBDYIahMSuf5Mbl1y4Ut5tBnuDfm6f3L5ZXeTcAu%2BDXdg38DAlgBIoYhL7O25s62tPJz0lfxFpW68MTaCM5TMfLnpSulXmEzUHPA%2FTB1MgeLcYj4lSBC%2BIeBn%2FrWZIR02bYJ7LB78XbGwDJXcUB4lqwQcxEQ%3D%3D",
    "posted_at": "2026-11-27T09:47:55+00:00"
   },
   {
@@ -1088,10 +1115,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-pccom-ready-amd-ryzen-5-5600xt-16gb-1tb-ssd-rtx-5060-ti-windows-11-3471763",
    "posted_at": "2026-11-27T09:24:42+00:00"
+  },
+  {
+   "title": "[Adhérents Club+] PC Portable 13\" Apple MacBook Air M5 - 24 Go RAM, 1 To Go SSD (+32,98€ cagnottés)",
+   "price_raw": "1 649€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/adherents-pc-portable-13-apple-macbook-air-m5-24-go-ram-1-to-go-ssd-3298eur-cagnottes-3471757",
+   "posted_at": "2026-11-27T09:22:27+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2049,
+  "listings_seen": 2041,
   "models_with_reference": 89
  }
 }
