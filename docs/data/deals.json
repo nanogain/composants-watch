@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T06:08:00Z",
+ "generated_at": "2026-11-27T06:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-27T06:08:00.681634+00:00"
+   "items": 338,
+   "last_ok": "2026-11-27T06:38:00.638612+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 396,
-   "last_ok": "2026-11-27T06:08:00.681634+00:00"
+   "items": 395,
+   "last_ok": "2026-11-27T06:38:00.638612+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-27T06:08:00.681634+00:00"
+   "items": 30,
+   "last_ok": "2026-11-27T06:38:00.638612+00:00"
   }
  },
  "watchlist": [
@@ -56,6 +56,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-27-lenovo-legion-27q-18-qhd-ips-240-hz-1-ms-pied-reglable-129-eur-3468453",
    "posted_at": "2026-11-25T06:36:15+00:00"
+  },
+  {
+   "title": "SSD NVMe M.2 2280 PCIe 3.0 x4 128Go 256Go 512Go 1To 2To Disque Dur Interne Neuf",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 66.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 66.99,
+   "median_eur": 149.99,
+   "discount_pct": 55.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · mazkar55 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBQGpY5qwwnwCKWxSiRTeWKckR4D6sq1KwF2TPXBD9X9Jh85UWws74Wd%2FLmqe8INBwoJ1iE4S4OjOja9f67TrD97BkQ6OLXsyDzOF8xIqf7NE8go6pLvgVCjSR%2FBs1PE3K49oIy%2BhOPv2onYkhF30NQpz14nJPQpJ3cdeEoGaW7F1br0C0atBToZmvPqyu2vTQ%2F8SU1QP0mGzw5VWqTOT9cSe7VgilB9TizeGYURETOnvGrBJUdcDLs2dW8Tc1W09w",
+   "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
    "title": "Carte Mère COLORFUL BATTLE-AX B850M-T WIFI V14 (Micro-ATX, WiFi 6E, DDR5, etc)",
@@ -109,23 +126,6 @@
    "posted_at": "2026-11-26T07:39:01+00:00"
   },
   {
-   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 74.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 74.99,
-   "median_eur": 149.99,
-   "discount_pct": 50.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · topdeal-market (100,0 %, 154 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgAykS0RhxvHaxmOp1IoKoN6QsQ8ekhpPNskJZ7V6UooERSu2LB17Nf%2BVkCEsOUHSPIUKQESrgu3QK8rv8g1HvR%2BplIpSx0AUCox%2BWd3Oy7Lv4pdycKkpd9djBoxkYSHxay7Qv1Vwytg8fpMvOJYP%2FO",
-   "posted_at": "2026-11-24T20:50:45+00:00"
-  },
-  {
    "title": "Accessoires circuit graphique pour Carte graphique GeForce RTX 5060 8Go 3 DP + 1 HDMI GDDR7",
    "model": "GPU:RTX 5060",
    "category": "GPU",
@@ -175,23 +175,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-27-ktc-h27e6s-qhd-fast-ips-240-hz-1-ms-hdr400-freesync-g-sync-compatible-reglable-en-hauteur-3463295",
    "posted_at": "2026-11-20T12:59:50+00:00"
-  },
-  {
-   "title": "Écran PC incurvé 27\" Amzfast 280Hz QHD, AMZG27C1Q Pro (Vendeurs Tiers)",
-   "model": "MON:27-QHD-280Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 199.49,
-   "shipping_eur": null,
-   "effective_eur": 199.49,
-   "median_eur": 359.95,
-   "discount_pct": 44.6,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-280hz-3462779",
-   "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
    "title": "boitier alimentation PC  EDEN 500W",
@@ -258,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · alpha38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mB2dsRIh12XRxw6a9%2Fv%2FgMR3FBhK%2FqOF%2BdRmEMZtnLCuG9TkXE8R8PKIbc2VMxh7nLKugpihWKJT78oredUHIs1FS9TESjWpGZEWaJdFwm8mgbR6dEtHbJJrwiyDxqfkbHLimA%2BDM5Qh9C1pLgEaEqlZMW79J%2BRPMa5MF64CcIU25TGpFj%2BGKClCyVS50HGnjgdDEwHLVYbTYK%2B9dWrIQHJ1kQQPQuxK2%2FSN%2B3kZfwFoYt2wWz7%2FZEBorbeuNy7fPw%2FgrVgTXfoI68cS7%2Fy7WsZXaBVvPEevPLt2wi3MEmLA%3D%3D",
    "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
@@ -275,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuyXXvScLxGxBKd2uPY439kkmG4nujwKA%2FilzlHmNcNhH19%2Bxrip8b1RCJs5kqRRA6IfDXTJG1jyqM4%2BlK9c2N3NCMIEvcQonkXOO9RKBumt2eW7orOs2ct5jckIpglxlgsLMiwbUkLspHG1g%2FsFtYpr",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxvppsy3rokvaGMxA3AqmK0MZiyKXhCF6wNgIT8be%2B6Q6ye3JV%2BUHVn0lQETnj9VGvea4KXvgIn2jGORZ7xot5HYUNTeiABnXgoppG6cCI9i5hTsFSo%2BO%2BLaQvoZlm%2FLAbxgNlyFyIGqSCidsl7LMoB",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -311,6 +294,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-25-2to-pny-cs900-sata-3470638",
    "posted_at": "2026-11-26T17:57:49+00:00"
+  },
+  {
+   "title": "SSD interne NVMe M.2 Netac NV3000 1 To - PCIe 3.0 x4, jusqu'à 3500 Mo/s",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 99.96,
+   "shipping_eur": null,
+   "effective_eur": 99.96,
+   "median_eur": 149.99,
+   "discount_pct": 33.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ssd-interne-nvme-m2-netac-nv3000-1-to-pcie-30-x4-jusqua-3500-mos-3471307",
+   "posted_at": "2026-11-27T06:18:25+00:00"
   },
   {
    "title": "SSD interne CUSU - 1 To, SATA 3",
@@ -415,6 +415,23 @@
    "posted_at": "2026-11-26T16:11:56+00:00"
   },
   {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 109.99,
+   "median_eur": 149.99,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (100,0 %, 155 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgvrvbORfuaj7JskOsXX8d1h4cQI4IaOV%2FdKws8m1rgEImBiT2BFhnu%2FCNYRQNhVQZF8RP91DnPSxwAbAmlbVyAV8pRNGUtSY6gzmML6%2FcXEhHk3W3su%2FasB6WDIZdp%2BpsKLBWnBwVB7%2B1xdA4H559d",
+   "posted_at": "2026-11-24T20:50:45+00:00"
+  },
+  {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -500,7 +517,7 @@
    "posted_at": "2026-11-24T17:43:18+00:00"
   },
   {
-   "title": "[The Corner] Écran PC incurvé 49\" Samsung Odyssey G9 G91F (LS49FG910EUXEN) - Dual QHD, 144Hz, 0.03ms, FreeSync (via Paypal)",
+   "title": "[TheCorner] Ecran PC Incurvé 49\" Samsung Odyssey G9 G91F LS49FG910EUXEN - Dual QHD, 144Hz, 0,03ms, FreeSync (Via Paiement Paypal)",
    "model": "MON:49-DQHD-144Hz",
    "category": "MON",
    "condition": "new",
@@ -774,6 +791,27 @@
  ],
  "unclassified": [
   {
+   "title": "[Via Paypal] Mini PC FIREBAT R3 - Ryzen 5 7430U (6C/12T), 16 Go LPDDR4, SSD 512 Go, WiFi 6, triple affichage 4K, Windows 11",
+   "price_raw": "247,06€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/via-paypal-mini-pc-firebat-r3-ryzen-5-7430u-6c12t-16-go-lpddr4-ssd-512-go-wifi-6-triple-affichage-4k-windows-11-3471327",
+   "posted_at": "2026-11-27T06:27:39+00:00"
+  },
+  {
+   "title": "Smartphone 6,8\" realme 16 Pro Plus 5G - 8GB RAM, 256GB, Écran AMOLED incurvé, 144 Hz, batterie (Via Paypal)",
+   "price_raw": "267,09€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/realmi-16-pro-plus-via-paypal-3471190",
+   "posted_at": "2026-11-27T06:22:44+00:00"
+  },
+  {
+   "title": "PC portable 16\" LG gram Pro 16 (2026) - OLED mat, Core Ultra X7 358H, Arc B390, 32 Go RAM, 512 Go SSD, 1,2 kg (clavier espagnol)",
+   "price_raw": "1 726,61€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-16-lg-gram-pro-16-2026-oled-mat-core-ultra-x7-358h-arc-b390-32-go-ram-512-go-ssd-12-kg-clavier-espagnol-3471226",
+   "posted_at": "2026-11-27T06:08:57+00:00"
+  },
+  {
    "title": "Souris sans fil Logitech MX Vertical - Ergonomique (via 40€ fidélité)",
    "price_raw": "39,99€",
    "source": "dealabs",
@@ -800,13 +838,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/mx-master-4-etui-de-transport-mx-3471261",
    "posted_at": "2026-11-27T05:38:33+00:00"
-  },
-  {
-   "title": "8GB RAM SO-DIMM - SKHynix - Laptop - 1RX16 PC4-3200AA-SC0-13 MTA8ATF1G64HZ-3G2FA",
-   "price_raw": "31.99 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/398368615312?_skw=ddr4&hash=item5cc09eab90:g:prwAAeSweLVqnoEO",
-   "posted_at": "2026-09-07T09:17:38+00:00"
   },
   {
    "title": "G.Skill Trident Z5 Neo RGB DDR5 - 32 Go (2 x 16 Go) - 6000 MT/s - C28 - White",
@@ -851,13 +882,6 @@
    "posted_at": "2026-11-27T02:05:11+00:00"
   },
   {
-   "title": "Processeur AMD 9800X3D (33€ via PayPal)",
-   "price_raw": "273,94€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3471188",
-   "posted_at": "2026-11-27T01:11:05+00:00"
-  },
-  {
    "title": "Mini PC IA Olares One - Ultra 9 275HX, RTX 5090 Mobile 24 Go, 96 Go DDR5, SSD 2 To (via lien vidéo)",
    "price_raw": "4 090,95€",
    "source": "dealabs",
@@ -872,7 +896,7 @@
    "posted_at": "2026-10-28T21:56:14+00:00"
   },
   {
-   "title": "Apple MacBook Pro 14,2 pouces avec puce M6, SSD de 1 To ; Argent",
+   "title": "PC Portable 14,2\" Apple MacBook Pro - Puce M6, RAM 16 Go, SSD 1 To, Argent ou Noir",
    "price_raw": "2 098€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-142-pouces-avec-puce-m6-ssd-de-1-to-argent-3471181",
@@ -1036,7 +1060,7 @@
    "title": "Carte Mère HP Joshua H61 LGA1155 + i5-3350P + 8Go DDR3 + Ventirad",
    "price_raw": "51.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHoE6Y5s6QKMaMB7pccrPPdkVPwfW2c5p%2FRgowuNk2yf6LWV1l%2FMIqC1ZqfdUV8nSUyx2mqYmG8QCNZ0wuFpIs89FsAsRqyOtmqSSiXzPLwb3gzPICGVpwit3EyrEb%2BnlCfQJrtnLe0wTCUQ%2F6YvhgSC5nR55CHn%2FmIXaBNRinZO6Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHreZrS9GSA3%2BnC9jz14HQotnbA6ekgVCB32d9J5GBUKoSsCT5eH7iPnIOCKiBjP4W%2Ftai%2Bh2Avf6N1VN0YsaK0wmhHdw4YgSvruMh3sEPEFnr88cFb2O8JrJvuYwh5p8FZkAFNBDICeyv2yoXvrd6QDBhbBp4bt4NvNIWOL1ZeRtA%3D%3D",
    "posted_at": "2026-11-26T16:39:42+00:00"
   },
   {
@@ -1115,17 +1139,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/880155041790?_skw=ddr5&hash=itemcced541ffe:g:RCQAAeSwnMJrCH3p",
    "posted_at": "2026-11-26T18:43:54+00:00"
-  },
-  {
-   "title": "Écran pc incurvé Samsung C27f396fhu",
-   "price_raw": "261.39 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVeIsuWBPqkhl66nFUNlKKViWaxWoZ9JVvu6OqItLGutEsOT6P1IjhPQCpA172bmnTYRMwC0flXrk%2FGb%2BN9Id00M6b8Q7hkPIIH3Vs4AGFlSKaVBY9SHpTkOJY%2BubSH4B9aGVhbJxV6FKQYgCStRngujSczjf1k8t%2Bs95UP8fwmFxQ%3D%3D",
-   "posted_at": "2026-11-26T18:35:10+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2010,
-  "models_with_reference": 88
+  "listings_seen": 2017,
+  "models_with_reference": 89
  }
 }
