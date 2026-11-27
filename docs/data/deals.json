@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T10:08:00Z",
+ "generated_at": "2026-11-27T10:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 346,
-   "last_ok": "2026-11-27T10:08:00.667421+00:00"
+   "last_ok": "2026-11-27T10:38:00.681554+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 391,
-   "last_ok": "2026-11-27T10:08:00.667421+00:00"
+   "items": 387,
+   "last_ok": "2026-11-27T10:38:00.681554+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T10:08:00.667421+00:00"
+   "last_ok": "2026-11-27T10:38:00.681554+00:00"
   }
  },
  "watchlist": [
@@ -88,7 +88,7 @@
    "suspect": false,
    "merchant": "eBay · mazkar55 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBQGpY5qwwnwCKWxSiRTeWKckR4D6sq1KwF2TPXBD9X9Jh85UWws74Wd%2FLmqe8INBwoJ1iE4S4OjOja9f67TrD97BkQ6OLXsyDzOF8xIqf7NHfCq2OKHkj6QZ7TWbnDit32OUmb0Dizj2hZPv9V2DgZ2wobuxMZV6qVDBM87bwRYqMPyLqqH4DRIn1Zfg3o%2F7B6huXC5YI0CZe9n93ZU72Z2%2B6pJgEYPkRA21h7aMNdpXauSqUR2NweiN%2Fu5JwO3ZT",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBQGpY5qwwnwCKWxSiRTeWKckR4D6sq1KwF2TPXBD9X9Jh85UWws74Wd%2FLmqe8INBwoJ1iE4S4OjOja9f67TrD97BkQ6OLXsyDzOF8xIqf7NGYWtSGKLFDvhH3%2Fqx%2FqDNGoVhSWbZcUJa%2FAv1X43yK161oEvo5VZPx49h0RkD1VRZSOLBrGmubJtPWyb%2FfkUR2IsAU2Xm2rHrxCy9MSYRCvhys%2FocqWp%2BJ3dlsP54aAOEsh9bq5NrK8%2BDkP%2FtsKNmG",
    "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
@@ -99,8 +99,8 @@
    "price_eur": 74.09,
    "shipping_eur": null,
    "effective_eur": 74.09,
-   "median_eur": 157.14,
-   "discount_pct": 52.9,
+   "median_eur": 157.99,
+   "discount_pct": 53.1,
    "target_hit": false,
    "suspect": false,
    "merchant": "JoyBuy",
@@ -158,23 +158,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/nvidia-geforce-rtx-5060-8go-3467173",
    "posted_at": "2026-11-24T02:17:35+00:00"
-  },
-  {
-   "title": "[Prime] Kit Mémoire RAM Netac Shadow S XMP 2.0 - DDR4, 32 Go (2 x 16 Go), 3200 MHz, CL16-20-20-40 1,35 V (Vendeur Tiers)",
-   "model": "RAM:DDR4-32Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 206.98,
-   "shipping_eur": null,
-   "effective_eur": 206.98,
-   "median_eur": 382.91,
-   "discount_pct": 45.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/kit-memoire-ram-netac-shadow-s-xmp-20-ddr4-32-go-2-x-16-go-3200-mhz-cl16-20-20-40-135-v-3463083",
-   "posted_at": "2026-11-20T10:09:37+00:00"
   },
   {
    "title": "Écran PC gaming 27\" KTC H27E6S - QHD, Fast IPS, 240 Hz (OC 275Hz), 1 ms, HDR400, FreeSync & G-Sync Compatible, Réglable en hauteur",
@@ -241,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · alpha38 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mB2dsRIh12XRxw6a9%2Fv%2FgMR3FBhK%2FqOF%2BdRmEMZtnLCuG9TkXE8R8PKIbc2VMxh7nLKugpihWKJT78oredUHIs1FS9TESjWpGZEWaJdFwm8mgbR6dEtHbJJrwiyDxqfkZlTD1whs0PuY893FmPAamhpnX%2Fk8Ua9JdC46OLeGW6GUbUg76rQ5F6bTlzp5OFfngQsosXBfrOS3NfXElp4cQ0BTxZQz4YsaIA%2BjJI8TOj8ecFunsO2wUep9EAV9qdcSKNgiuj7%2Fldx5r1eUx%2B7E4zLeMkQcyVcNF56l0DNrJWZA%3D%3D",
    "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
@@ -258,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuz4HkJh0H06h%2FbbuF2Y0x4kKfV3ysmg1QSxbQL2Hll52H2NixE7sW9dWR0f44UJThn0c%2BAWgNr3BqvuXjoEeOmE7U8rpc%2BIyYR%2FX5jin6ueW6glu5vfaz%2FLS%2FOmFP6UG%2FjLA7m%2BXJ5suSUUAFT6eeHj",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxTnGc%2BDQGSdo9GxaHwh4HgC%2B7%2BYti5Iw1SKK8jZh%2F%2BPLKGvFR8tovcIFDswUq03IdSpjGMiOSQhemvwWnEX5OSzisEFTYMO3k3%2FhPkz4hy9rZJM0UzSJcQKEuZcIWG%2FcU6OAlV4Y2pC2EzZzec38C8",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -415,6 +398,23 @@
    "posted_at": "2026-11-26T16:11:56+00:00"
   },
   {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 109.99,
+   "median_eur": 149.99,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (100,0 %, 155 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRjxkzbkuZaail4e3T5lG5UojgySNMZ9ugjOCM5mITe4%2B%2BzJmR9sNJ6S31oRBHL%2Ffqp4v5KzXd1O9scx3mHbQ4OCh9%2BMTp1jy0rnXijpp9JECiWyqLhcqPYTg3GxgQ92MmGqpHZC%2BsJlXxjrYHW%2Bp9JB",
+   "posted_at": "2026-11-24T20:50:45+00:00"
+  },
+  {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -564,25 +564,8 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr7UKUleIP5ojSwPo7Lsq9LqCQlu8tCbgIibG4GB3OJ3UbWvbDoXyAys9CoqH5PrL2BMl1F5RlqAWlrPp125GM2RaFwg3EevsJ%2F11Nz5x9JjKHzD0oHYlxxeZO7Gp43TgEnEO7lq2vS26h4FXDfVWdeFtEujED0XrCsu2kZakH9F3Q%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr5BwjYKPFc0Zu%2F5zKFhwm9x6BycAuWBOeZIavXFufi8YdNRdl64pYo%2FWY8B%2BW6bAs12q%2FiPl4aFueUcaIbTQKYvwF0TtfDIzraYmMz8yqzlZRzuR0%2FzaqIDS8i8wkUaem5Non0vVABMoJN9sx6iJK3ZzXRd92Ff5zRmOhtwvY1FBQ%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
-  },
-  {
-   "title": "[The Corner] Écran PC 32\" Samsung Odyssey OLED G7 G73SH - 4K 165Hz / FHD 330Hz (Dual Mode), 0.03ms, True Black 400 (via paypal)",
-   "model": "MON:32-UHD-165Hz",
-   "category": "MON",
-   "condition": "new",
-   "price_eur": 474.07,
-   "shipping_eur": null,
-   "effective_eur": 474.07,
-   "median_eur": 594.05,
-   "discount_pct": 20.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Samsung",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/the-corner-ecran-pc-32-samsung-odyssey-oled-g7-g73sh-4k-165hz-1080p-330hz-dual-mode-003ms-true-black-400-via-paypal-3471215",
-   "posted_at": "2026-11-27T02:53:22+00:00"
   },
   {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
@@ -721,6 +704,23 @@
    "posted_at": "2026-11-23T13:10:07+00:00"
   },
   {
+   "title": "Carte mère Gigabyte B850 EAGLE WIFI6E",
+   "model": "MB:B850",
+   "category": "MB",
+   "condition": "new",
+   "price_eur": 131.76,
+   "shipping_eur": null,
+   "effective_eur": 131.76,
+   "median_eur": 157.99,
+   "discount_pct": 16.6,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Cdiscount",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
+   "posted_at": "2026-11-21T20:27:57+00:00"
+  },
+  {
    "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
    "model": "SSD:SATA-1To",
    "category": "SSD",
@@ -736,23 +736,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
    "posted_at": "2026-11-14T10:28:06+00:00"
-  },
-  {
-   "title": "Carte mère Gigabyte B850 EAGLE WIFI6E",
-   "model": "MB:B850",
-   "category": "MB",
-   "condition": "new",
-   "price_eur": 131.76,
-   "shipping_eur": null,
-   "effective_eur": 131.76,
-   "median_eur": 157.14,
-   "discount_pct": 16.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Cdiscount",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
-   "posted_at": "2026-11-21T20:27:57+00:00"
   },
   {
    "title": "Ecran PC incurvé 32\" AOC - 32'', QHD, 180Hz, Dalle Fast VA, 0,5ms, CQ32G4VE",
@@ -825,7 +808,42 @@
  ],
  "unclassified": [
   {
-   "title": "Souris filaire Logitech G502 Hero - 5 600 PPP, RVB, poids ajustable, 11 boutons programmables, mémoire intégrée, PC/Mac",
+   "title": "Apple - iPad 11 Wi-Fi 128 Go Argent",
+   "price_raw": "372,65€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/apple-ipad-11-wi-fi-128-go-argent-3471998",
+   "posted_at": "2026-11-27T10:36:05+00:00"
+  },
+  {
+   "title": "Pc portable 14\" Apple MacBook Pro 14 - Puce M6, 16 Go RAM, 1 To SSD Noir Sidéral (+200€ fidélité pour les adhérents)",
+   "price_raw": "2 099€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-14-apple-macbook-pro-14-puce-m6-16-go-ram-1-to-ssd-noir-sideral-200eur-fidelite-pour-les-adherents-3471994",
+   "posted_at": "2026-11-27T10:35:10+00:00"
+  },
+  {
+   "title": "QIDIxJOYBUY Q2 Combo Imprimante 3D, FDM à boîtier fermé avec chambre...",
+   "price_raw": "549€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/qidixjoybuy-q2-combo-imprimante-3d-fdm-a-boitier-ferme-avec-chambre-3471955",
+   "posted_at": "2026-11-27T10:22:59+00:00"
+  },
+  {
+   "title": "[Adhérents] Pack Tablette 10,9\" Samsung Galaxy Tab S10 FE + Book Cover Keyboard - 128 Go, Anthracite (+ 40€ en CC)",
+   "price_raw": "404,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/adherents-pack-tablette-109-samsung-galaxy-tab-s10-fe-book-cover-keyboard-128-go-anthracite-40eur-en-cc-3471951",
+   "posted_at": "2026-11-27T10:22:24+00:00"
+  },
+  {
+   "title": "[Adhérents] Pack Tablette 12,1'' Lenovo Idea Tab Plus ZAG7 + Clavier Magnétique Folio + Stylet Tab - 128 Go, Gris Luna (+ 20€ en CC)",
+   "price_raw": "269,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/adherents-pack-tablette-121-lenovo-idea-tab-plus-zag7-clavier-magnetique-folio-stylet-tab-128-go-gris-luna-20eur-en-cc-3471934",
+   "posted_at": "2026-11-27T10:17:08+00:00"
+  },
+  {
+   "title": "Souris filaire Logitech G502 Hero - 5600 PPP, RVB, Poids Ajustable, 11 Boutons Programmables, Mémoire Intégrée, pour PC & Mac",
    "price_raw": "27,88€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-filaire-logitech-g502-hero-5-600-ppp-rvb-poids-ajustable-11-boutons-programmables-memoire-integree-pcmac-3471901",
@@ -839,7 +857,7 @@
    "posted_at": "2026-11-27T10:00:00+00:00"
   },
   {
-   "title": "UGREEN FineCam 4K Webcam Trépied – 4K@30FPS / 1080P@60FPS, Autofocus CDAF, Double micro antibruit",
+   "title": "Webcam + Trépied UGREEN FineCam 4K - 30FPS, 1080P@60FPS, Autofocus CDAF, Double micro antibruit (Vendeur Tiers)",
    "price_raw": "38,39€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ugreen-finecam-4k-webcam-trepied-4k-at-30fps-1080p-at-60fps-autofocus-cdaf-double-micro-antibruit-3471874",
@@ -923,7 +941,7 @@
    "posted_at": "2026-11-27T09:32:03+00:00"
   },
   {
-   "title": "Imprimante 3D ANYCUBIC Kobra 4 + 20kg de filament PLA - 260x260x260mm, 600mm/s, Wi-Fi, auto-leveling, caméra 720p",
+   "title": "[Via Paypal] Imprimante 3D ANYCUBIC Kobra 4 + 20kg de filament PLA - 260x260x260mm, 600mm/s, Wi-Fi, auto-leveling, caméra 720p",
    "price_raw": "269,69€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-anycubic-kobra-4-20kg-de-filament-pla-260x260x260mm-600mms-wi-fi-auto-leveling-camera-720p-3471780",
@@ -1138,45 +1156,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/stylet-baseus-compatible-ipad-3471446",
    "posted_at": "2026-11-27T07:18:19+00:00"
-  },
-  {
-   "title": "[Via Paypal] Imprimante 3D Flashforge AD5X - 220x220x220mm, multicolore, 300mm/s, buse 300°C, nivellement auto",
-   "price_raw": "230,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/via-paypal-imprimante-3d-flashforge-ad5x-220x220x220mm-multicolore-300mms-buse-300c-nivellement-auto-3471436",
-   "posted_at": "2026-11-27T07:15:50+00:00"
-  },
-  {
-   "title": "Tablette 12,1\" Honor Pad 10 Wi-Fi - RAM 8 Go, 256 Go, Version Européenne",
-   "price_raw": "167,21€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/honor-pad-10-version-europeenne-8go256go-3471435",
-   "posted_at": "2026-11-27T07:15:46+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Lenovo Yoga Slim 7 14AKP10, AMD Ryzen AI 5 330, RAM 16 Go, SSD 512 Go, Win11, souris + smartphone Motorola G06 128 Go offert",
-   "price_raw": "849,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pack-ordinateur-yoga-smartphone-offert-3471299",
-   "posted_at": "2026-11-27T07:09:38+00:00"
-  },
-  {
-   "title": "PC Portable 14\" HP OmniBook 3 Next Gen AI 14-HZ0036NFX - Snapdragon X X1-26-100, RAM 8 Go, SSD 512 Go, OLED (+30€ cagnotté pour les Fnac+)",
-   "price_raw": "378,39€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-hp-omnibook-3-next-gen-ai-14-hz0036nfx-14-oled-snapdragon-x-3471384",
-   "posted_at": "2026-11-27T06:56:57+00:00"
-  },
-  {
-   "title": "Imprimante multifonction - EPSON - EcoTank ET-2864 - A4 - Wi-Fi - Réservoirs d'encre rechargeables - Jusqu'à 3 ans d'encre inclus",
-   "price_raw": "139,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2864-a4-wi-fi-reservoirs-dencre-rechargeables-jusqua-3-ans-dencre-inclus-3471403",
-   "posted_at": "2026-11-27T07:02:45+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2066,
-  "models_with_reference": 89
+  "listings_seen": 2067,
+  "models_with_reference": 90
  }
 }
