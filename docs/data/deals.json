@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T23:08:00Z",
+ "generated_at": "2026-11-27T23:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-27T23:08:00.622564+00:00"
+   "items": 340,
+   "last_ok": "2026-11-27T23:38:00.626743+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 383,
-   "last_ok": "2026-11-27T23:08:00.622564+00:00"
+   "items": 382,
+   "last_ok": "2026-11-27T23:38:00.626743+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T23:08:00.622564+00:00"
+   "last_ok": "2026-11-27T23:38:00.626743+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxpS%2FU9Lqqy0eSzhjDWZfyHUgY3V6QguAJRoEgUXbAgYNOQZolnQKWNctgZnoQHWpLfch0vwlmTmtVy4bvk2TDxWUpak6xLq9HdReTGleDigCqy89jd4h37vOlIGkPvw1SvQGACp6RdQpAYu%2BEmD4X6",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuypRUmIsE3zJu8KTenSYm5cWVIgXYc8AASmhPvOgF5ry9ZcpzU5u4awAwuu6RKU1nX2H%2FDPQf19r%2BO77YXRESVwXcb76DR3XPLfWF%2Fsafxq%2FDeSj094FCEiGIYILrIkvaz1gloHUw%2Fl1yIIIctaCDr7",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · bonoitec-france (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7EelYPdbbwY0fgGVixJVv24HK%2F%2BK4%2FXNMWOJQ8SyDfjwdNI0VKG5X56qqDXBFYTHFR0CkdSOVPsxLeyTUmadmFpGXhBw5lXPSlo4n%2FEvNAFjWurvpoj4RbF0Hnb6GMpNFSCAGB6uUdrJsg5l9o28g7a",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7EL3wrbx7qOrb0NQx5VzW27Ax%2BTuezQ8thHl5XPUBl1jGlToX3zRa1saJJxQl53chL9ovLRDr6n0SVMo%2BnI5iZ9ahDjrKfPCunkcSwNlzW6zZeWYJIPo1a6X9t4Lyb4USwqye3PHy%2FbZXl70aya2cBq",
    "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
@@ -347,23 +347,6 @@
    "posted_at": "2026-11-26T16:11:56+00:00"
   },
   {
-   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 109.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 109.99,
-   "median_eur": 149.99,
-   "discount_pct": 26.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · topdeal-market (100,0 %, 156 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRgxfLlyu7iMGUvqij3fwt86AL1IURVNtKWqF9GcOd%2FBzicSgIcilO6k8MjX4ht84cTer%2FNJh0ADNJy%2FvYhgwdwD97vdxKf8ePPMpQNrIaZiDjQ3VSSRLMyx0yRf%2FERnjNxqpmvySqB71rd2lgjDUFhV",
-   "posted_at": "2026-11-24T20:50:45+00:00"
-  },
-  {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
    "model": "SSD:NVMe-250Go",
    "category": "SSD",
@@ -409,7 +392,7 @@
    "discount_pct": 23.6,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · go35700 (100,0 %, 87 avis)",
+   "merchant": "eBay · go35700 (100,0 %, 88 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/267855446219?_skw=ssd&hash=item3e5d6dc0cb:g:Ki8AAeSwGQNrCHv-",
    "posted_at": "2026-11-26T18:40:22+00:00"
@@ -479,7 +462,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr4niNOaCMEBLrpLoi6Go2Fo0mmAz6zEgzB26ET0I82xKxSTjB%2BHkjf%2BiS%2Bg54CO6BhpTAbGTbLWpNjVIR%2B3mzPQjxvJK0%2Bvb8jpDV2BVfavfpqH3XKgVeFtLR%2ByJWS8PH6KniYPhNhcJmcF27U8l%2FeAN2HyaEikID1BFlQfC6lOhQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr7We5DLjheXOZK6eWvfFaa4AUOl3Qir4AsrzTXoFtS8QqhFRrlNYUSKhZlEja3acziIioJdu0Fy3Tbv%2BI%2BjJH3%2BEprN2XHvG1a2M7y2zt9PcPs6t5%2FPEu%2Faj%2BhJ0Wci16CAQ3lS05Krz9R%2FpyZe0m77H5C8l%2Fvqs5SEkFvTH51Bug%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -706,7 +689,14 @@
  ],
  "unclassified": [
   {
-   "title": "Tablette Lenovo Idea Tab Pro Gen 2 – 13\" 3,5K 144 Hz, Snapdragon 8s Gen 4, 8/128 Go + stylet Tab Pen Plus",
+   "title": "Souris Gaming Filaire Asus ROG Gladius III - 19000 DPI, Noir",
+   "price_raw": "49,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gaming-filaire-asus-rog-gladius-iii-19-000-dpi-noir-3473208",
+   "posted_at": "2026-11-27T23:29:06+00:00"
+  },
+  {
+   "title": "Tablette 13\" Lenovo Idea Tab Pro Gen 2 - 3,5K 144 Hz, Snapdragon 8s Gen 4, 8, 128 Go + stylet Tab Pen Plus (Vendeur Darty)",
    "price_raw": "334,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-lenovo-idea-tab-pro-gen-2-13-35k-144-hz-snapdragon-8s-gen-4-8128-go-stylet-tab-pen-plus-3473188",
@@ -718,13 +708,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tp-link-wifi-7-deco-be25-x-3-frontaliers-belges-3473182",
    "posted_at": "2026-11-27T23:00:19+00:00"
-  },
-  {
-   "title": "Carte Mère Lenovo ThinkPad L412 FRU:75Y4002 Mainboard DDR3 SDRAM",
-   "price_raw": "30.13 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267856607679?_skw=carte+m%C3%A8re&hash=item3e5d7f79bf:g:b~EAAeSw8uNqv2Wy",
-   "posted_at": "2026-11-27T22:54:26+00:00"
   },
   {
    "title": "Station d’accueil magnétique Orico USB-C – Hub 8-en-1, 10 Gbit/s, boîtier SSD M.2 2230 NVMe (vendeur tiers)",
@@ -786,7 +769,7 @@
    "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
    "price_raw": "71.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR5E1UT9pVGefnu23Eke4c%2BHZeuy7zEFaE7ZDtqmhz9KPDIwOwwC0viAcgp3GGuiiUdM7jcbBiII9wgH9Ab%2BKiLNVpXJ2f6QLyHAT5YmjVS7m2z8bAks%2BGkZS7%2FtHbTTQkxXvTQoPAF70elAiFhZxhrerkgZqwYOrldyQjTEvb9P9w%3D%3D",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR45BVhl%2B1qalC%2B3Sq8QFLLLR9hddAXTQd63bWOxDGNzHoOV9eOBjrSEd%2FSWEZSmPzsUVcvurmXOqJA6kz38g4XcjR4LW%2FrD3VnInlf9ouFC8K8LvppDHq3pIDZyPUABPXVo4z9JC9SnKr6iwwFGfYU5qHOkiDvw%2BcCnsjRhv6inXA%3D%3D",
    "posted_at": "2026-11-27T20:43:03+00:00"
   },
   {
@@ -816,13 +799,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-m5-16-go-ram-512-go-ssd-via-242eur-cagnottes-avec-la-carte-club-carrefour-ecully-69-3473023",
    "posted_at": "2026-11-27T20:10:06+00:00"
-  },
-  {
-   "title": "Tablette 11\" Xiaomi POCO Pad X1 - 3.2K 144Hz, Snapdragon 7+ Gen 3, RAM 8 Go, 512 Go, WiFi 6E, 8850mAh / 45W, Noire (via paiement Paypal)",
-   "price_raw": "184,51€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-11-xiaomi-poco-pad-x1-32k-144hz-snapdragon-7-gen-3-ram-8-go-512-go-wifi-6e-8850mah-45w-noire-via-paiement-paypal-3472985",
-   "posted_at": "2026-11-27T19:37:06+00:00"
   },
   {
    "title": "Boitier PC Corsair Frame 4500X RS-R ARGB - Blanc",
@@ -872,13 +848,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/198829399933?_skw=ddr4&hash=item2e4b27df7d:g:hXAAAeSwMsVrCavU",
    "posted_at": "2026-11-27T18:49:58+00:00"
-  },
-  {
-   "title": "Memoire pour pc portable Sodimm DDR4 16Gb Samsung ",
-   "price_raw": "42.30 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/198829400443?_skw=ddr4&hash=item2e4b27e17b:g:gAcAAeSwkjlrCa87",
-   "posted_at": "2026-11-27T18:50:44+00:00"
   },
   {
    "title": "Souris sans fil Logitech MX Master 3S - Graphite",
@@ -1054,10 +1023,24 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/macbook-pro-14-pouces-m5-16go1to-noir-3472440",
    "posted_at": "2026-11-27T14:01:28+00:00"
+  },
+  {
+   "title": "Refroidissement PC MSI MAG Coreliquid E360 ARGB Watercooling - Kit for Intel & AMD CPU",
+   "price_raw": "74,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-mag-coreliquid-e360-argb-watercooling-kit-for-intel-amd-cpu-3472408",
+   "posted_at": "2026-11-27T13:50:24+00:00"
+  },
+  {
+   "title": "Souris gamer sans fil Logitech G PRO X2 Superstrike Lightspeed - capteur HERO 2 44000 DPI, 61 g, 8000 Hz, 90 h, Eclipse lunaire",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gamer-sans-fil-logitech-g-pro-x2-superstrike-lightspeed-capteur-hero-2-44000-dpi-61-g-8000-hz-90-h-eclipse-lunaire-3472396",
+   "posted_at": "2026-11-27T13:42:38+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2034,
+  "listings_seen": 2030,
   "models_with_reference": 89
  }
 }
