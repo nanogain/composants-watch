@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T02:08:00Z",
+ "generated_at": "2026-11-27T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 340,
-   "last_ok": "2026-11-27T02:08:00.622128+00:00"
+   "last_ok": "2026-11-27T02:38:00.665262+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 382,
-   "last_ok": "2026-11-27T02:08:00.622128+00:00"
+   "items": 383,
+   "last_ok": "2026-11-27T02:38:00.665262+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 69,
-   "last_ok": "2026-11-27T02:08:00.622128+00:00"
+   "items": 78,
+   "last_ok": "2026-11-27T02:38:00.665262+00:00"
   }
  },
  "watchlist": [
@@ -73,6 +73,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b850m-t-wifi-v14-micro-atx-wifi-6e-ddr5-etc-3468620",
    "posted_at": "2026-11-25T08:54:08+00:00"
+  },
+  {
+   "title": "Mémoire Lexar SODIMM DDR4 RAM 8 Go 3200 MHz (Frontaliers Belgique)",
+   "model": "RAM:DDR4-8Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 44.0,
+   "shipping_eur": null,
+   "effective_eur": 44.0,
+   "median_eur": 91.4,
+   "discount_pct": 51.9,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon.com.be",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lexar-sodimm-ddr4-ram-8-go-3200-mhz-memoire-pour-ordinateur-portable-sodimm-260-pin-so-dimm-memoire-ram-memoire-haute-performance-3470921",
+   "posted_at": "2026-11-26T21:11:46+00:00"
   },
   {
    "title": "Écran PC gaming 27\" AOC Q27G42ZE - QHD Fast IPS, 240 Hz (260 Hz OC), 0,3 ms",
@@ -160,23 +177,6 @@
    "posted_at": "2026-11-20T06:31:50+00:00"
   },
   {
-   "title": "Mémoire Lexar SODIMM DDR4 RAM 8 Go 3200 MHz (Frontaliers Belgique)",
-   "model": "RAM:DDR4-8Go-3200",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 44.0,
-   "shipping_eur": null,
-   "effective_eur": 44.0,
-   "median_eur": 77.15,
-   "discount_pct": 43.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "Amazon.com.be",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lexar-sodimm-ddr4-ram-8-go-3200-mhz-memoire-pour-ordinateur-portable-sodimm-260-pin-so-dimm-memoire-ram-memoire-haute-performance-3470921",
-   "posted_at": "2026-11-26T21:11:46+00:00"
-  },
-  {
    "title": "ASUS B150M-C Carte Mère Intel B150 LGA 1151 DDR4 mATX Skylake Kaby Lake",
    "model": "MB:B150",
    "category": "MB",
@@ -211,6 +211,23 @@
    "posted_at": "2026-11-26T16:10:00+00:00"
   },
   {
+   "title": "ASRock Rack B450D4U-V1LQ5 - AMD B450 - DDR4 Ram - BTO Carte Mère Socket AM4",
+   "model": "MB:B450",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 42.6,
+   "shipping_eur": 0.0,
+   "effective_eur": 42.6,
+   "median_eur": 72.88,
+   "discount_pct": 41.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · alpha38 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:UQMAAeSwdj1rAEJI",
+   "posted_at": "2026-11-22T22:16:21+00:00"
+  },
+  {
    "title": "SSD interne CUSU - 1 To, SATA 3",
    "model": "SSD:SATA-1To",
    "category": "SSD",
@@ -241,25 +258,8 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzNR5UPg4G2nihY8J9meuU5nmlU6iJ8kLXRDWtcmkZeqhMQ2kUawaUzYEfHrnY9QsJY8%2FKktGY8BJ75FfCRE0jxZ136pIh2YauhVoQLiiDOorY6UY2iVqz8AAx9QBp5DuB9sFhX0PAnPFP1uUwbXULv",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxi%2FXZyZSOybpi7dA%2Bp5naV66cukh%2Bm9bQAl9cLWKCCOtkIO0hYnx2eCJAhaBP6nARkEmVlk%2Fw96VDduWsp95kyzDK0XnZqMPk%2FhmVj2kKOgiSd6pkGBCfJiAfAFC4r1yJAoZQU%2F9CktLi0VPPVeGJC",
    "posted_at": "2026-08-14T16:59:44+00:00"
-  },
-  {
-   "title": "Disque SSD interne Netac M.2 NVMe PCIe Gen4x4 2To",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 182.99,
-   "shipping_eur": null,
-   "effective_eur": 182.99,
-   "median_eur": 292.67,
-   "discount_pct": 37.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-m2-nvme-pcie-gen4x4-2to-3471050",
-   "posted_at": "2026-11-26T23:07:04+00:00"
   },
   {
    "title": "OCZ Trion 150 SSD interne 120 Go 2,5\" SATA III",
@@ -328,23 +328,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/117412302291?_skw=ddr5&hash=item1b56518dd3:g:akUAAeSwridpwzMR",
    "posted_at": "2026-09-14T15:20:30+00:00"
-  },
-  {
-   "title": "Kit mémoire Ram DDR5 Juhor 32 Go (2x16 Go) - 6000 MHz",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 352.26,
-   "shipping_eur": null,
-   "effective_eur": 352.26,
-   "median_eur": 497.95,
-   "discount_pct": 29.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/juhor-ram-ddr5-16-go-6000-mhz-32-go-16-go-x-2-3471034",
-   "posted_at": "2026-11-26T23:01:17+00:00"
   },
   {
    "title": "Samsung 850 EVO 2 To SSD 2,5\" SATA III MS-75E2T0 - Occasion testé",
@@ -428,7 +411,7 @@
    "suspect": false,
    "merchant": "eBay · topdeal-market (100,0 %, 154 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRhzRv0Jjxpr%2BxMblBUZvXc%2BcxkpKPyemp%2FncShp%2FgrXS5Pa2oK1FbO0vLOOqFnXugoX9bXDJA7roMV8FZ%2BNis1xJH9YtCujhR%2FBRkgfwqFZUEosr1PGoscVxR8V6bkuxEvzMKsfaKV%2FBxAB2QLLPKRx",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRhgGvGOJsa8nRXYAwAlHpThnYeIb8W0dsCfZ3ZhIOz9oQqwqaYNrxJCEHXh6XRldSee7WCv82MVhLT84yEh9kVn0LzD0zpydjSVy3Ch4nd0PTp0x8PpAg%2FaX3cL2B45GOwy4SlO46nBB8zaTTUFwSdy",
    "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
@@ -447,6 +430,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-interne-pny-cs1030-m2-nvme-pcie-250go-2-pour-89eur-3465433",
    "posted_at": "2026-11-22T16:19:39+00:00"
+  },
+  {
+   "title": "Kingston A400 240Go 2,5” SSD Interne (SA400S37/240G) - CrystalDisk +80%",
+   "model": "SSD:NVMe-240Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 19.99,
+   "shipping_eur": 2.78,
+   "effective_eur": 22.77,
+   "median_eur": 30.7,
+   "discount_pct": 25.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · francehardware (100,0 %, 70 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800968437136?_skw=ssd&hash=itemba7d706d90:g:rnMAAeSwINxqcLKz",
+   "posted_at": "2026-11-26T08:21:47+00:00"
   },
   {
    "title": "RAM Micron 16 Go DDR4-2666 ECC RDIMM MTA18ASF2G72PDZ-2G6D1RI (Objet N°Y131)",
@@ -483,7 +483,7 @@
    "posted_at": "2026-11-26T18:40:22+00:00"
   },
   {
-   "title": "[The Corner] Écran PC incurvé 49\" Samsung Odyssey OLED G9 G91F (LS49FG910EUXEN) - Dual QHD, 144Hz, 0.03ms, FreeSync (via Paypal)",
+   "title": "[The Corner] Écran PC incurvé 49\" Samsung Odyssey G9 G91F (LS49FG910EUXEN) - Dual QHD, 144Hz, 0.03ms, FreeSync (via Paypal)",
    "model": "MON:49-DQHD-144Hz",
    "category": "MON",
    "condition": "new",
@@ -532,6 +532,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/407379980331?_skw=ssd&hash=item5ed9bd302b:g:KzwAAeSwqqFq50xE",
    "posted_at": "2026-11-21T20:54:35+00:00"
+  },
+  {
+   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
+   "model": "RAM:DDR5-32Go-6000",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 389.99,
+   "shipping_eur": 1.99,
+   "effective_eur": 391.98,
+   "median_eur": 497.95,
+   "discount_pct": 21.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · dr.click_34 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
+   "posted_at": "2026-10-14T12:03:59+00:00"
   },
   {
    "title": "SSD interne 2,5 PNY CS900 - 1 To",
@@ -723,7 +740,7 @@
  ],
  "unclassified": [
   {
-   "title": "[UNIDAYS] PC Portable Omen 16",
+   "title": "[UNIDAYS] PC Portable Omen 16' - Ryzen AI 7 350, RTX 5070, 24go Ram, SSD 1to",
    "price_raw": "1 709,05€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/unidays-pc-portable-omen-16-3471209",
@@ -901,7 +918,7 @@
    "title": "MSI G275L E14 Écran PC Gamer Moniteur Gaming 27 Pouces FHD 144Hz IPS 1ms HDMI EU",
    "price_raw": "149.99 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/860180289162?_skw=%C3%A9cran+pc&hash=itemc846bd968a:g:GXUAAeSw0uVrCKkr",
+   "url": "https://www.ebay.fr/itm/860180289162?_skw=%C3%A9cran+pc&hash=itemc846bd968a:g:GXUAAeSw0uVrCKkr&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kMr6YS6JnCn0eyuqL8tdV5jZeKT9S0Et54DLC4%2BZ3zwcv9t8OEiK6frelReBRTLFvGozdRm0FZ%2FeIyjJF0Nlsk%2FR2JWoT%2FMTBuuJTkGFDZM8dDxEiB%2B%2BluF9GNBDkD%2BubYyk%2Fb8RyH%2BTMTxtqwqk0l2e%2BJPjARWxhXduhl4rRVMyck1XIjLMRXvQ8pWbdhQdqlS%2Ff7HS1vAs0Vv7wAaks2OFIz%2FfMq6Ug09GguZRmk8H1Vgq7ai3YhSrJ61J%2Fn9OfUydibAQMSLC3Dg9tgoXqXdLLu9iOIyFle5hYaglWbBg%3D%3D",
    "posted_at": "2026-11-26T21:50:52+00:00"
   },
   {
@@ -936,7 +953,7 @@
    "title": "Carte Mère HP Joshua H61 LGA1155 + i5-3350P + 8Go DDR3 + Ventirad",
    "price_raw": "51.66 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHo7cGh15iruGUbUt%2B7DNMCc9pgnPvKdh%2FX7UEyWYbgEXSERIJpQrfe0G1bTbKdwCPhn9%2Fo1MYGj%2BONw27fQY9D48fmGk%2Bcszr5P14pf5eQS0g1Alt4ncLWjk9qShTtrOssYEdTf6RUt0QAR3wOOk8mxovInc7uWTW%2FlK3HmzFNNmQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/800970024728?_skw=carte+m%C3%A8re&hash=itemba7d88a718:g:ZhQAAeSwpo1rCF~L&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lCxwvuFk9UfeIJ6siFW6%2Fc%2FR9qGIfGRFhMszVpWnjm%2B2BfbR073yywLYCTN4%2FDbuT25Xu51%2F%2B%2BEUi38%2FXOC7iGUTY7ERBmaaD0bq9H4TC5qV%2BvaJBmjVqTAdTHM2EwHHpA1TB%2FAmyo8Xb4cDgEiPyxbBWge0SIkNkKVMkWhvG4JQCN3gmC7GFjzWkCTEo8Ek6O%2BiCbRyk6GIDRKGm3RUpdVyxmoPcum%2BpR%2BU0M870bST3tzDdfuSZNCzpE%2BM0H%2FAkeAMNXRbLER%2Fdg6gS1jyNbcZjS2zGXLCOHr7hN9fJDtA%3D%3D",
    "posted_at": "2026-11-26T16:39:42+00:00"
   },
   {
@@ -1027,7 +1044,7 @@
    "title": "Écran pc incurvé Samsung C27f396fhu",
    "price_raw": "261.39 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVf4umCeJcRoU6j3EPEjWmpi1z6f0vo%2FKuqqem09yzOJteVShHPUatRc5Oi0i6fpcem%2B47ZD2nd0W4sZV2CWCzus4wvSozjDFI57FO0Sh528MWAuParHMYD%2BHKVgEtUO%2BqEVxGpHeSLLRlfliPpjT6ISrt8fdbk%2F9Y4w6WMOZ6AHVA%3D%3D",
+   "url": "https://www.ebay.fr/itm/237209664105?_skw=%C3%A9cran+pc&hash=item373acc3a69:g:y64AAeSwa6xrCHvi&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mEmBq8VXdXOPg9b1TTFHfek91Wg03DobJbZjHXYRPfQzcPbqU85q8GVVn4TpenAF5RTgbxN72bXCG%2FICpaOUfEpG4Qunnoaw2Mb34rUPnxACGimgRfO0qWQNpsGxs2QVew8DIE1bYin%2B6ML9FlG4L%2F3hElfZRyoFlDX%2BkyVIJTeckC4OmJPHVZkcc2lsK57tvUTomxhPmmtbOeu3SInJEsa9lYQ1KnL4rzKQBsTvWL65%2Bg59%2BAx4izYf86qQ4XmBuGw9DzrghRQbKuZjtbaXldsh%2BlXuOIVZ2bj3MnwhG8BA%3D%3D",
    "posted_at": "2026-11-26T18:35:10+00:00"
   },
   {
@@ -1074,7 +1091,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2011,
+  "listings_seen": 2010,
   "models_with_reference": 83
  }
 }
