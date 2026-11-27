@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T20:08:00Z",
+ "generated_at": "2026-11-27T20:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 337,
-   "last_ok": "2026-11-27T20:08:00.668391+00:00"
+   "items": 338,
+   "last_ok": "2026-11-27T20:38:00.623364+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 379,
-   "last_ok": "2026-11-27T20:08:00.668391+00:00"
+   "items": 378,
+   "last_ok": "2026-11-27T20:38:00.623364+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T20:08:00.668391+00:00"
+   "last_ok": "2026-11-27T20:38:00.623364+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxwP%2FhoQFOSRsi0s8K%2BWsMR47o6ZDLURrTlF2piLAUZ4kuGJf4BX2TErHxtsujpVcsVqAyFU9hv3WJkqKgOvciJep6y0CdqbUi5YrodDaD0AI1B7B1esbyggI2WxW26kFvx%2BjtCOcA5ozJx9tqKMlr6",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwdss%2BmyNT5U4oBJsjdx9IJFcaJlff7PKDcELvTL2eo6e82v8jcZgEovFncY9QMfJJZL0yUFkZr%2BrJOyQ3o5Pwlk%2F6C3ZGm5%2B3hFtR6Vf9gn3thJuiRfbDla6iZsdar%2BABU%2B%2BHxeiueAaoNOqxDv%2FNV",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -226,6 +226,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
    "posted_at": "2026-11-24T11:41:43+00:00"
+  },
+  {
+   "title": "disque dur SSD Interne,  2,5\" SATA III 6Gb/s SSD 128Go | 256Go | 512Go pour Pc",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 25.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 25.9,
+   "median_eur": 39.9,
+   "discount_pct": 35.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bonoitec-france (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7EGFAjY7zRe%2BDlpY7v6qNe45NGwMWvx80ZbL5K1l2qZdtQsoxih%2F8a%2Bg3p1NJWVzKnibHwmd3G2BBU0AT7a7HGxpHoRGg%2BGchee0A3fe0Ozs%2BzDEOk4mzSviDB32GOVWd%2BzKEDs%2B%2Bfw09qdOVx%2FwO5d",
+   "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -381,6 +398,23 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
+   "title": "Intenso TOP 1 To SSD interne M.2 SATA III 550/500 MB/s P/N 3832450",
+   "model": "SSD:SATA-1To",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 68.49,
+   "shipping_eur": 2.78,
+   "effective_eur": 71.27,
+   "median_eur": 96.1,
+   "discount_pct": 25.8,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · sophie56550 (100,0 %, 50 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/920192153727?_skw=ssd&hash=itemd63fb9f87f:g:Sc8AAeSwca1rCegS",
+   "posted_at": "2026-11-27T20:30:46+00:00"
+  },
+  {
    "title": "SSD 512gb SK hynix 2.5\" sata 3",
    "model": "SSD:SATA-512Go",
    "category": "SSD",
@@ -449,38 +483,21 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
-   "title": "G.SKILL Ripjaws S5 DDR5 6000 CL36 16 ou 32 Go RAM PC Neuve",
-   "model": "RAM:DDR5-32Go-6000",
-   "category": "RAM",
-   "condition": "new",
-   "price_eur": 389.99,
-   "shipping_eur": 1.99,
-   "effective_eur": 391.98,
-   "median_eur": 497.95,
-   "discount_pct": 21.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · dr.click_34 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366733566271?_skw=ddr5&hash=item556306213f:g:jVcAAeSwG2Vqz25G",
-   "posted_at": "2026-10-14T12:03:59+00:00"
-  },
-  {
-   "title": "SSD interne 2,5\" PNY CS900 - 500 Go",
-   "model": "SSD:NVMe-500Go",
+   "title": "SSD SAMSUNG 870 EVO – 250 Go – SATA III – 2,5” - Occasion Testé",
+   "model": "SSD:SATA-250Go",
    "category": "SSD",
-   "condition": "new",
-   "price_eur": 59.99,
-   "shipping_eur": null,
-   "effective_eur": 59.99,
-   "median_eur": 75.5,
-   "discount_pct": 20.5,
+   "condition": "used",
+   "price_eur": 28.73,
+   "shipping_eur": 2.78,
+   "effective_eur": 31.51,
+   "median_eur": 39.88,
+   "discount_pct": 21.0,
    "target_hit": false,
    "suspect": false,
-   "merchant": "Cdiscount",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/ssd-interne-25-500gb-pny-cs900-sata-3470650",
-   "posted_at": "2026-11-26T18:06:42+00:00"
+   "merchant": "eBay · matthieu2278 (100,0 %, 101 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137967783260?_skw=ssd&hash=item201f854d5c:g:1e8AAeSw8k1rCZ04",
+   "posted_at": "2026-11-27T15:10:24+00:00"
   },
   {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
@@ -583,23 +600,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-hkc-b2742a-uhd-3840-x-2160-60hz-dalle-ips-usb-c-65-w-5-ms-3472365",
    "posted_at": "2026-11-27T13:26:13+00:00"
-  },
-  {
-   "title": "SSD  1 to LDLC F7 PLUS 3D 2.5’’ SSD SATA – 960 GB 100%",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 79.74,
-   "shipping_eur": 2.99,
-   "effective_eur": 82.73,
-   "median_eur": 98.94,
-   "discount_pct": 16.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · docazmicro_8 (100,0 %, 534 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920142059488?_skw=ssd&hash=itemd63cbd97e0:g:JZQAAeSwRSVq-DaQ",
-   "posted_at": "2026-11-14T10:28:06+00:00"
   },
   {
    "title": "[TheCorner] Écran PC 32\" Samsung Odyssey OLED G7 G73SH - 4K 165Hz, FHD 330Hz Dual Mode, 0.03ms, True Black 400 (Via Paiement Paypal)",
@@ -723,6 +723,34 @@
  ],
  "unclassified": [
   {
+   "title": "Kit standard Routeur Starlink V4 Lite 2026 - Blanc et Gris",
+   "price_raw": "249,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/routeur-starlink-kit-standard-v4-lite-2026-blanc-et-gris-3473039",
+   "posted_at": "2026-11-27T20:35:10+00:00"
+  },
+  {
+   "title": "PC Portable 15\" Lenovo Legion 5a Gen 11 - AMD Ryzen 7 253, 16 Go Ram, 512 Go SSD, RTX 5070 (Sans OS)",
+   "price_raw": "1 957,12€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/configuration-legion-5a-gen-11-amd-ryzen-7-253-rtx-5070-16-g-ram-et-512-ssd-3473032",
+   "posted_at": "2026-11-27T20:19:51+00:00"
+  },
+  {
+   "title": "PC Portable 14\" Ninkear S14 - Écran IPS 2.2K, AMD Ryzen 5 6600H, 16Go RAM LPDDR5, 512Go SSD (via Paypal)",
+   "price_raw": "385,80€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ninkear-s14-leger-ordinateur-portable-14-pouces-ecran-ips-22k-amd-ryzen-5-6600h-16go-ram-lpddr5-512go-ssd-3473015",
+   "posted_at": "2026-11-27T20:15:25+00:00"
+  },
+  {
+   "title": "PC Portable 13,6\" Apple MacBook Air M5 - 16 Go RAM, 512 Go SSD (Via 242€ cagnottés sur la carte) - Écully (69)",
+   "price_raw": "967,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-m5-16-go-ram-512-go-ssd-via-242eur-cagnottes-avec-la-carte-club-carrefour-ecully-69-3473023",
+   "posted_at": "2026-11-27T20:10:06+00:00"
+  },
+  {
    "title": "Tablette 11\" Xiaomi POCO Pad X1 - 3.2K 144Hz, Snapdragon 7+ Gen 3, RAM 8 Go, 512 Go, WiFi 6E, 8850mAh / 45W, Noire (via paiement Paypal)",
    "price_raw": "184,51€",
    "source": "dealabs",
@@ -749,13 +777,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/880157558490?_skw=ddr4&hash=itemcced7a86da:g:1PMAAeSw78xrCdkf",
    "posted_at": "2026-11-27T19:26:58+00:00"
-  },
-  {
-   "title": "SanDisk Creator Phone SSD externe 2 To USB-C MagSafe bleu 1000/950 Mo/s",
-   "price_raw": "156.70 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920191972026?_skw=ssd&hash=itemd63fb732ba:g:gXQAAeSwEkVrCdZN",
-   "posted_at": "2026-11-27T19:14:53+00:00"
   },
   {
    "title": "PC Portable 15.3\" Lenovo Legion 5 15AHP11 - WQXGA OLED 165Hz, Ryzen 7 250, 32 Go de RAM, 512 Go de SSD, RTX 5060, clavier Espagnol",
@@ -1050,31 +1071,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lot-de-8-kg-de-filaments-pour-imprimante-3d-sunlu-petg-175-mm-differents-coloris-3472329",
    "posted_at": "2026-11-27T13:11:53+00:00"
-  },
-  {
-   "title": "Carte PC Graphique GIGABYTE  GV-RX13P256D-RH - Vintage - Collection",
-   "price_raw": "20.43 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/407393131731?_skw=carte+graphique&hash=item5eda85dcd3:g:dT0AAOSwNHdmc-xM&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l03ElnAOYrgW7Gd3LYONw%2FXaaqxt5V6OjDB4aMHZXkqoi0shOtG2HvqVB9KrpG7UKepoYpMpXpUIMIFlQePlSdtZUuM7baKzr7437zEmiT0cQB6kvmChocLYt%2BJOsVExXoNeV9DLXa%2BAmu2pNN9X0tKsyUWpRTDNd802yYSj7fursGeD%2FVeF6i3kLYQ7AaYfQb9LqAL6iDXa7vKDMSploA9wJZtHcKcZugwxCJR0d3fBhXKMM1tLyko1aRpZyft%2F2bFdekBLkAXp9%2B66OeJGLStcUOdk6j%2Ftq6KhsklyOjtw%3D%3D",
-   "posted_at": "2026-11-27T13:30:22+00:00"
-  },
-  {
-   "title": "PC portable 15,6\" Acer Chromebook 315 - Full HD TN (1920 x 1080), MediaTek Kompanio 540, 4Go RAM, 128Go eMMC, 45 Wh, ChromeOS",
-   "price_raw": "159,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-acer-chromebook-315-full-hd-tn-1920-x-1080-mediatek-kompanio-540-4go-ram-128go-emmc-45-wh-chromeos-3472317",
-   "posted_at": "2026-11-27T13:05:42+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Lenovo Chromebook Notebook - 4Go RAM, 64Go UFS 2.2, MediaTek Kompanio 540",
-   "price_raw": "179,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/un-ordinateur-portable-lenovo-3472306",
-   "posted_at": "2026-11-27T13:00:27+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2032,
+  "listings_seen": 2033,
   "models_with_reference": 89
  }
 }
