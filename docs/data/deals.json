@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T21:08:00Z",
+ "generated_at": "2026-11-27T21:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-27T21:08:00.670806+00:00"
+   "last_ok": "2026-11-27T21:38:00.681535+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 376,
-   "last_ok": "2026-11-27T21:08:00.670806+00:00"
+   "items": 379,
+   "last_ok": "2026-11-27T21:38:00.681535+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T21:08:00.670806+00:00"
+   "last_ok": "2026-11-27T21:38:00.681535+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwS8vqCOHyx%2FgeowszWflzgSzx5uznwmkJnh9ZmPi%2BwUX22zQ%2B4s3%2Bf%2FMPlQKvgRkeoj08WtMG1JKZkwuJVAH7xRZG2JBUsyRMeJSlDkNTcvYkRA6jE25Sdte7DKlBN%2Fnq03sirjIf77O2KUSKTHqLt",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwdDAyIgoBgwZ1eit4DVdmR8bFxyXElU%2B7k2I7kb1yKhQSDtm8yns7pxrIYayy8slu6OnxoYsENbVLkELd0bqu7GWmkUgggjhoKmyHn2a1ryyrt%2FIcflQEjfsuilWQx4P%2Fg8xooc1sJ4HI38CnqpC1j",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -226,23 +226,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
    "posted_at": "2026-11-24T11:41:43+00:00"
-  },
-  {
-   "title": "disque dur SSD Interne,  2,5\" SATA III 6Gb/s SSD 128Go | 256Go | 512Go pour Pc",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 25.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 25.9,
-   "median_eur": 39.9,
-   "discount_pct": 35.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bonoitec-france (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7HbywgVZu66pDXQkycx1DEEdIJDlRcqvU8dAtmX%2Fg2UzLqd0wqPEq7dk86QafeIsyQMiISCcuZdkCzd41GpYIZT18Ugz0owwUINlPrGAqcWNlQPohyJ2o3%2FiG1wJNKlIQH48XlLP8UpDpTbdAm%2BrYBG",
-   "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -466,21 +449,21 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
-   "title": "SSD SAMSUNG 870 EVO – 250 Go – SATA III – 2,5” - Occasion Testé",
-   "model": "SSD:SATA-250Go",
-   "category": "SSD",
+   "title": "Carte mère Lenovo ThinkCentre M700 IH110MS 01AJ167 LGA1151 DDR4 Intel H110",
+   "model": "MB:H110",
+   "category": "MB",
    "condition": "used",
-   "price_eur": 28.73,
-   "shipping_eur": 2.78,
-   "effective_eur": 31.51,
-   "median_eur": 39.88,
-   "discount_pct": 21.0,
+   "price_eur": 31.14,
+   "shipping_eur": 6.99,
+   "effective_eur": 38.13,
+   "median_eur": 47.95,
+   "discount_pct": 20.5,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · matthieu2278 (100,0 %, 101 avis)",
+   "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137967783260?_skw=ssd&hash=item201f854d5c:g:1e8AAeSw8k1rCZ04",
-   "posted_at": "2026-11-27T15:10:24+00:00"
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr5uBt0L054xInG%2BPQQ%2B%2Flj2%2F1g6NO12Ov5jDgSqowPRelkIg3%2FkLE%2Bhs4Ajbff5xmhlj5DazhMtxw6%2FyPOQkbVFRYxIjBQ15b4s95B23FhjSr8W63LX0eDtabmBcNRwnwRvMFr33U%2BD2deU6lSN0gbJYxjIWmgRrBF120vKrUYqMg%3D%3D",
+   "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
@@ -515,6 +498,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/digiera-1tb-nvme-m2-pcie-gen4-3471234",
    "posted_at": "2026-11-27T04:24:07+00:00"
+  },
+  {
+   "title": "Crucial P1 SSD interne M.2 2280 NVMe PCIe 500 Go CT500P1SSD8",
+   "model": "SSD:NVMe-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 63.65,
+   "shipping_eur": 2.78,
+   "effective_eur": 66.43,
+   "median_eur": 82.77,
+   "discount_pct": 19.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · boiteachiner (100,0 %, 234 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327454930674?_skw=ssd&hash=item4c3dd5b6f2:g:SqoAAeSwy59q9513",
+   "posted_at": "2026-11-13T23:31:02+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -706,6 +706,13 @@
  ],
  "unclassified": [
   {
+   "title": "Be Quiet! Dark Rock Pro 5 - Ventirad Processeur",
+   "price_raw": "113.89 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/335608688835?_skw=ventirad&hash=item4e23d630c3:g:v1kAAeSwerdrCfGd",
+   "posted_at": "2024-10-07T23:27:38+00:00"
+  },
+  {
    "title": "Routeur Huawei WiFi Mesh X3 Pro Suite - WiFi 7 BE3600 + Répéteur, Mesh",
    "price_raw": "186,99€",
    "source": "dealabs",
@@ -723,7 +730,7 @@
    "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
    "price_raw": "71.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR6gjWwsCMhXwvUlWo%2BaUhFq4X7g74Fbevv8E%2FfTgk1h9tNwEaxWA%2FQCWSzXh70%2Blt08%2Fs%2F0XFexogneBbmVsuZjZ45%2FFhZkFo42tRAdS9FfzXNsc2frkG6CcMK%2F0dNyb9trE8Vi7NFi6ywW10FFftX1Icp2Cn43IfD%2B3n6n1EPtlQ%3D%3D",
    "posted_at": "2026-11-27T20:43:03+00:00"
   },
   {
@@ -1047,17 +1054,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-14-ecran-proled-xdr-1-to-ssd-48-go-ram-puce-m5-pro-18-coeurs-3472344",
    "posted_at": "2026-11-27T13:19:25+00:00"
-  },
-  {
-   "title": "Licence Parallels Desktop pour Mac - Édition Standard, dématérialisé (parallels.com)",
-   "price_raw": "142,49€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/parallels-desktop-mac-achat-unique-3472337",
-   "posted_at": "2026-11-27T13:15:35+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2034,
-  "models_with_reference": 88
+  "listings_seen": 2035,
+  "models_with_reference": 86
  }
 }
