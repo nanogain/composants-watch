@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T15:08:00Z",
+ "generated_at": "2026-11-28T15:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 336,
-   "last_ok": "2026-11-28T15:08:00.682792+00:00"
+   "items": 333,
+   "last_ok": "2026-11-28T15:38:00.714255+00:00"
   },
   "reddit": {
    "status": "down",
@@ -15,12 +15,12 @@
   "ebay": {
    "status": "ok",
    "items": 384,
-   "last_ok": "2026-11-28T15:08:00.682792+00:00"
+   "last_ok": "2026-11-28T15:38:00.714255+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-28T15:08:00.682792+00:00"
+   "last_ok": "2026-11-28T15:38:00.714255+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · mazkar55 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba6wL6QyUF5%2BX0rY8xAFpXFGl7M433C%2FTaKDHmQWSUENX%2B6abVV0Kga%2BCmY7Hszo60bQBRhT7Q697PvG4EWLKh%2BzGvPQFTZUpca4iWrEXqTVLNHVgdXh1jehH1iIl82JNEN6ga9FBE7CVwVlhHbBa4Rv",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba6%2BM1TO8fvjcqX%2BhsoWobIF7jFbIsPTOd%2Bo4ixMr%2FqwIEQrzVjGcRhHKFKU7SuuitatuY6zHtAZPvTF2hpLMnI9YYuGwjuLzA4IlmqHgzInaK2wPnl7aVDnHnPSwpq5wev2K4QAabXuCSqCR%2FVEdqhh",
    "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
@@ -243,6 +243,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
    "posted_at": "2026-11-24T11:41:43+00:00"
+  },
+  {
+   "title": "Kit mémoire RAM Corsair Vengeance Black RGB LED Pro DDR4 3200MHz 2x16 Go (CMW32GX4M2E3200C16)",
+   "model": "RAM:DDR4-32Go-3200",
+   "category": "RAM",
+   "condition": "new",
+   "price_eur": 259.99,
+   "shipping_eur": null,
+   "effective_eur": 259.99,
+   "median_eur": 382.91,
+   "discount_pct": 32.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Amazon",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/corsair-vengeance-black-rgb-led-pro-ddr4-3200mhz-2x16-go-cmw32gx4m2e3200c16-3473801",
+   "posted_at": "2026-11-28T15:08:15+00:00"
   },
   {
    "title": "Mémoire RAM ADATA Premier 5600 Mhz 1 x 32GB DDR5 AD5U560032G-S DIMM- NEUF",
@@ -415,21 +432,21 @@
    "posted_at": "2026-11-27T20:30:46+00:00"
   },
   {
-   "title": "SSD M.2 2To PCIe 4.0 NVMe 7200Mo/s PS5 Compatible 2TB 3D NAND Interne Disque Dur",
-   "model": "SSD:NVMe-2To",
+   "title": "Kingston A400 240Go 2,5” SSD Interne (SA400S37/240G) - CrystalDisk +80%",
+   "model": "SSD:NVMe-240Go",
    "category": "SSD",
-   "condition": "new",
-   "price_eur": 215.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 215.99,
-   "median_eur": 289.62,
-   "discount_pct": 25.4,
+   "condition": "used",
+   "price_eur": 19.99,
+   "shipping_eur": 2.78,
+   "effective_eur": 22.77,
+   "median_eur": 30.7,
+   "discount_pct": 25.8,
    "target_hit": false,
    "suspect": false,
-   "merchant": "eBay · mazkar55 (pro)",
+   "merchant": "eBay · francehardware (100,0 %, 70 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137963202238?_skw=ssd&hash=item201f3f66be:g:RG8AAeSwhCZrB3ux&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7me3hm7kekzCoShSqUkcCLoeRfWMuUB77e7bqjg24jOe8Kz0c1s9VNA571wrZ3dWEf4VePmHXcLyVgq4YhyfH1YfGk2prgn%2FpBoAi7%2FFZP40a1hTsqDay%2BPTBlN%2FQ3mUToREVEz102b9YgZhhVd1AH2IyNV3dY4Daa1y37gDOB2m4%2FnJktwB8pClbYplisq%2FZWD8YGKULpqdvdglFtSqH9zdKi4c3oR0M%2BiSL0S7kAJ%2BkwAcZS%2BqeLUpvsuZE%2FmtMb5LvHwMVap60D7Gfy1WU7Y6HIYxDGulJNPjR9eP6BHaw%3D%3D",
-   "posted_at": "2026-11-26T00:22:05+00:00"
+   "url": "https://www.ebay.fr/itm/800968437136?_skw=ssd&hash=itemba7d706d90:g:rnMAAeSwINxqcLKz",
+   "posted_at": "2026-11-26T08:21:47+00:00"
   },
   {
    "title": "SSD interne Sata 3 Cusu - 1 To",
@@ -479,7 +496,7 @@
    "suspect": false,
    "merchant": "eBay · machodam95 (100,0 %, 686 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960249906722?_skw=ssd&hash=itemdf935ac622:g:YhcAAeSwsHJrCuQR",
+   "url": "https://www.ebay.fr/itm/960249906722?_skw=ssd&hash=itemdf935ac622:g:YhcAAeSwsHJrCuQR&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGGfkboMjVJmp7%2FBPzQlqo2EHRdrBjaoWTmLKfChcGGoHvIqDk1SIeOe426RGiY9H5fYct8RFzQ9TGlgmD3kwuqceQLdAy8%2FvlP%2BNSPDZmCS2BkwtHXxp2q6DIk6jZFYjL40oYzE42L06iwvsGxB7U%2BeIAJqLtVjkM4zg3ZJl2XcYdmS7pUMzy%2BB3ufI%2FLuUeHvPxxZylbOc5OitkYMt00vwd9ua22CvZz1N10lJO0X5KR6r4eSvKPLjj696asm8hdldkxY2CR0bf1v%2FYrf8%2B3",
    "posted_at": "2026-11-28T14:34:50+00:00"
   },
   {
@@ -530,7 +547,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr56nNitDsJGIZr5kZyDezLZquekRCnt5Sd0O9UEgAnHPUtIV1mvlUOwlb028BRqBwfpCFMDgWaUiwHPHAI3vHx7LpR873ZR8DpGzqOeKd%2B06Ae7RdIpOwpzo0bDJfQXylBAp%2FC2Jz8MG7KraXxgak5uRYhbzpyGVZx98e7M%2B0A9AQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr44KKNnLYIm4ZBgaXcqXAz0phzW8PuknWV0vWohXqPoG8L4VOvpILBfEMPJO8fPnXAQkGHM7HHRrD9SJTUhz7mevZuojSFdoyMJJ2ctyEHYZOhOrQEQLJJVyR8rEH4rQRUYxRgdknLzEqyiAE%2FM5U%2FMmISrMdQOBmeJwR4N4rU9ZQ%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -723,6 +740,34 @@
  ],
  "unclassified": [
   {
+   "title": "Ventilateur PC AG 620 Deepcool 120 mm - Noir",
+   "price_raw": "28,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ag-620-deepcool-3473824",
+   "posted_at": "2026-11-28T15:32:13+00:00"
+  },
+  {
+   "title": "Carte d’acquisition interne Elgato 4K Pro",
+   "price_raw": "209,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/elgato-4k-pro-60fps-3473798",
+   "posted_at": "2026-11-28T15:13:38+00:00"
+  },
+  {
+   "title": "PC Portable 15,6'' Lenovo IdeaPad Slim 3 FHD AMD Ryzen 5 40 8/256 Go SSD Windows 11, Azerty",
+   "price_raw": "399,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/lenovo-ideapad-slim-3-pc-portable-r5-8go-256go-sans-chargeur-3473803",
+   "posted_at": "2026-11-28T15:09:20+00:00"
+  },
+  {
+   "title": "Apple A1314 - Clavier sans fil d'occasion",
+   "price_raw": "55.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/336920999380?_skw=clavier&hash=item4e720e75d4:g:Wr0AAeSwDJNrCvNA",
+   "posted_at": "2026-11-28T15:28:57+00:00"
+  },
+  {
    "title": "Kit de Watercooling MSI Mag Coreliquid A13 360mm",
    "price_raw": "64,99€",
    "source": "dealabs",
@@ -782,7 +827,7 @@
    "title": "Micron RAM 8 Go DDR4  PC4-2400T  ECC Unbuffered (UDIMM) - MTA9ASF1G72AZ-2G3B1ZG",
    "price_raw": "26.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSk%2BWHUkRFrJH0yojTXYvZbg2hNfYgnpzjREXYji9p1RrPiVrrxfrUZ2TUKQOa7JtkfyxjSyMNzvLWAUNcAYOnqGslCTXwLYTE9ncdpjxkXW%2BHe%2FgiSVfaTCsOw0owjvfaLyDqIldfJ9kO8kV83fR%2B1q",
+   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSm90zQL2XTRY3g5iAnoW9FJSksEcLd8gcPe6WeDyR--yFygRFkupQbyP90Fxg0cXyHqdGBVmhHeyt%2FS0CEniJWAcOnbeVTSstlNRrrKTsTbOchlfdlJ0PrIz3ztqKIthnPAxMQeZxTzLaoP3WO6sOuW",
    "posted_at": "2026-11-28T13:47:46+00:00"
   },
   {
@@ -814,10 +859,17 @@
    "posted_at": "2026-11-28T13:06:56+00:00"
   },
   {
+   "title": "Mémoire Ram Serveur Ordinateur DDR2/3/4 1-16Go 667/800/1333/1600/2400/2666/PC3,4",
+   "price_raw": "74.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/374365314289?_skw=ddr4&hash=item5729e95cf1:g:ZpgAAOSwby5jemUd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k9EfGKaVqboMOSgkpMm3z27%2B%2FOeihq84tAfWbqdio8trlkwbB3K%2FIulFU7S1hnTeDJMXweBeu3VOUFnSAAsyEFbcRS%2BZ9OihOgy9noBjAOfL5%2BmDyeK7Amk2VGINLK%2FLSzd%2BFPMTY4%2BrAANcOsWyw%2BESN7ugVMIbye8LvAhXXNZKyT0K2%2BNRxkWS3YBAa82nA0jAw4bfWlxOOzlyd19JRxUsZu4FpxgO22%2FCUeBevJpBUkOUNc1Viw%2B%2Bddc3GJbZHrh6YUS%2BVXx8iLIt9cwr%2BY",
+   "posted_at": "2022-11-20T18:01:59+00:00"
+  },
+  {
    "title": "Logitech G915 X LIGHTSPEED TKL clavier gamer illuminé AZERTY FR sans fil noir",
    "price_raw": "99.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206732402495?_skw=clavier&hash=item3022361f3f:g:ynkAAeSwsqZrCsGP",
+   "url": "https://www.ebay.fr/itm/206732402495?_skw=clavier&hash=item3022361f3f:g:ynkAAeSwsqZrCsGP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRL97d4Ocmeir%2FrdPfscnJuEDMC6MYyS4rAPPu8BZKeNEiIjzjvGbsj66JdGC634RdWsnSIp3T9D1W2HGUR1Dnrey4%2FiI6T3aaf%2Bny8EEIFUCJCwtgaB7qo%2BBlJdgSKpoROY0if2qqjKyrp1HDsXxxhxKuaFUJcSNV9oeiiSPj%2BHc30UoSPnULpUBAlh0usAe19jojzyy5soHrltapfSHiANPkX%2BFIgkpYpKJPi8QAOHUqlEHrd7w%2FfZ%2FlCvrM1hWzAVSymJOKZu9IX5FPykkrubA3LY%2F1cDsdGKYZxO75Jg%3D%3D",
    "posted_at": "2026-11-28T11:57:27+00:00"
   },
   {
@@ -929,7 +981,7 @@
    "title": "GIGABYTE Carte graphique gv-n6700c-2gb-rev-1.0",
    "price_raw": "56.86 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nY94WFJVG25Cg%2BV19CpilIrW22wVjCcfby75D5KmsDmD%2BtarA9n11zfeYtFizdoL6dUC5j6IMXYIgOHriomHRemopjz919nv6c2qbGotM%2BL%2B8EwtoFE%2Fjjkk%2Fdp07QKPiSrd6F5GrLaw%2B8ZMnoo8XIj7tpG6Q4SOggXopCGRr8bmg%3D%3D",
+   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nbniZDGMsm9V54%2FvWHjTehsf%2FoFI%2BunJchIxBW8FbGlx%2Bl7ikGCrKDQxyCpaMRoqweBC3mj0J5yCkvZ0IuV9ifeigGEvtM3ifaBAasy65QmfQ6gfEn3BLFhkYUmy4Zbi8qPJdEHtZ48d%2F5Rj4JP4VS1FqzjA%2FhyEkzv7A6KsMlZ7Q%3D%3D",
    "posted_at": "2026-06-04T12:48:52+00:00"
   },
   {
@@ -982,6 +1034,13 @@
    "posted_at": "2026-11-28T07:45:43+00:00"
   },
   {
+   "title": "Boîtier aluminium eleUniverse 2W02 pour Raspberry Pi Zero 2 W",
+   "price_raw": "19.99 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/820408370742?_skw=boitier+pc&hash=itembf04264636:g:8FwAAeSwLSdrCoet",
+   "posted_at": "2026-11-28T07:50:15+00:00"
+  },
+  {
    "title": "Tablette 10\" Android 15 - Avec 30 Go RAM + 2 To ROM Ext, Widevine L1 (Vendeur Tiers)",
    "price_raw": "99,99€",
    "source": "dealabs",
@@ -1029,52 +1088,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/asus-265-oled-rog-strix-xg27aqdmesz-3473141",
    "posted_at": "2026-11-27T22:16:15+00:00"
-  },
-  {
-   "title": "Tacens Anima ACX Boîtier PC Micro ATX Façade en Aluminium Brossé Ventilateu",
-   "price_raw": "39.09 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/389132743455?_skw=boitier+pc&hash=item5a9a1e731f:g:3uIAAeSwaTpo-UTx",
-   "posted_at": "2025-10-23T04:14:03+00:00"
-  },
-  {
-   "title": "CORSAIR VENGEANCE RGB DDR5 16 Go 5200MT/s CL40 - XMP / EXPO",
-   "price_raw": "199.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336920122062?_skw=ddr5&hash=item4e720112ce:g:A2UAAeSwJ1ZrCfdz",
-   "posted_at": "2026-11-27T21:49:11+00:00"
-  },
-  {
-   "title": "Be Quiet! Dark Rock Pro 5 - Ventirad Processeur",
-   "price_raw": "113.89 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335608688835?_skw=ventirad&hash=item4e23d630c3:g:UhgAAeSwvlRrCtLh",
-   "posted_at": "2024-10-07T23:27:38+00:00"
-  },
-  {
-   "title": "Routeur Huawei WiFi Mesh X3 Pro Suite - WiFi 7 BE3600 + Répéteur, Mesh",
-   "price_raw": "186,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/huawei-wifi-mesh-x3-pro-suite-routeur-wifi-7-be3600-repeteur-mesh-3473048",
-   "posted_at": "2026-11-27T20:52:59+00:00"
-  },
-  {
-   "title": "Tablette tactile 11\" Samsung Galaxy Tab A11+ - 128 Go (+20€ sur le compte adhérent)",
-   "price_raw": "225,09€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-samsung-galaxy-tab-a11-11-128-go-gris-3473010",
-   "posted_at": "2026-11-27T20:02:30+00:00"
-  },
-  {
-   "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
-   "price_raw": "71.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR6spRIGX3qFxZmQ5EOs5gYQ3hzbIC4z5XsV5iUuVP9FZPlH%2FHTXXYHWowqtJcjkUkkyCMjEBqJmbhjEzTWxStThAR0jOIxPs5mXW0L3lm1cdsEkyTLzYk6WibDrCIY0Ik3gki9G2Id4%2BreFIMywi1j7Kc7zsUE1gPsD9vmdBpSpLw%3D%3D",
-   "posted_at": "2026-11-27T20:43:03+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2004,
-  "models_with_reference": 92
+  "listings_seen": 2007,
+  "models_with_reference": 89
  }
 }
