@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T03:08:00Z",
+ "generated_at": "2026-11-28T03:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-28T03:08:00.689521+00:00"
+   "last_ok": "2026-11-28T03:38:00.639670+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 393,
-   "last_ok": "2026-11-28T03:08:00.689521+00:00"
+   "items": 387,
+   "last_ok": "2026-11-28T03:38:00.639670+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 80,
-   "last_ok": "2026-11-28T03:08:00.689521+00:00"
+   "items": 71,
+   "last_ok": "2026-11-28T03:38:00.639670+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · mazkar55 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba44jE2kVBsD7UVf3YXuEDUf0lz2Kq4vrxkuPjICK%2BMT3kd2wJ6sqPOg1T6PkFs%2BJpGDDW69CEi7LhmVa4AEpkeNkVrCGWg6edIE8RB7wJbuFCS0iML0x%2BEEu2d9gCE6bbxFhBkHLAFW7G6E9oGOyOyB",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba7NByiJVPFN1x6oFbHpB4sjojerUu5Jg7An%2FwJxFLYYCQcKE75q3Ybw5N4M8QVPMh7ecHJ5MfAZzIlna0G1xmUUnmajT6oHjwjuuiUJl--PfJClgbLHTdB8OTIXI3VkZWcaeQ9xz7Rjqaxwlh7DgQqp",
    "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzcdkELNKg6ZF2LSQ3m7AWODcDKu7YDPUnw8gc3KGTLebI68nh0SP4AY2Ye3rsOoYZd0TGlshqXEwk5320I3QWAc70r6%2Fhstaww14p7Slzq3UeEzS%2BkmeTqE0lPRuglQE1oaFItL75UC5exEMmXEqdw",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxjvMePIPp8%2FkVa3R%2FnPtCIw4SBRqHNmB%2FtGR%2BXEa3fRd4qDj5miAwxQmfsRSX0ljpJWWG%2FTtHNaKZ5MwyAvi7hhvw3XDdyhnWvD0F8n26FouCwJOHCkhtFQPAMaGsn64iuu75BdCsPggCHghsJOp%2FJ",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -447,23 +447,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/137967783260?_skw=ssd&hash=item201f854d5c:g:1e8AAeSw8k1rCZ04",
    "posted_at": "2026-11-27T15:10:24+00:00"
-  },
-  {
-   "title": "Carte mère Lenovo ThinkCentre M700 IH110MS 01AJ167 LGA1151 DDR4 Intel H110",
-   "model": "MB:H110",
-   "category": "MB",
-   "condition": "used",
-   "price_eur": 31.14,
-   "shipping_eur": 6.99,
-   "effective_eur": 38.13,
-   "median_eur": 47.95,
-   "discount_pct": 20.5,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · infocaze (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr7PFDkZ1plDaDRZ7a105hyGM8%2B1jrYN1Xv%2FmaVLemaoU8kiomz34e7GuOcKCFKjwIRNaxrJa6TUie2nYvCSOXavcPuiLfrT5oYHKR9fSQCeTe0O0Oio3LDmU4KnAS1MWvdknC0Nibailcrl0olVciuxAOgznYgeAvW8YP1bLcKymg%3D%3D",
-   "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
@@ -769,6 +752,13 @@
    "posted_at": "2026-11-27T22:11:58+00:00"
   },
   {
+   "title": "Tacens Anima ACX Boîtier PC Micro ATX Façade en Aluminium Brossé Ventilateu",
+   "price_raw": "39.09 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132743455?_skw=boitier+pc&hash=item5a9a1e731f:g:3uIAAeSwaTpo-UTx",
+   "posted_at": "2025-10-23T04:14:03+00:00"
+  },
+  {
    "title": "CORSAIR VENGEANCE RGB DDR5 16 Go 5200MT/s CL40 - XMP / EXPO",
    "price_raw": "199.00 EUR",
    "source": "ebay",
@@ -800,7 +790,7 @@
    "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
    "price_raw": "71.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR5Q4GKMEGjgGoomBbVQUMoFBUAHB9xZgzO2DPZaBdYz%2BDaR%2FXrmhGrz8puOSu%2Bv5Bl0nXZ7XCoMUe8VtudnNSveUAi4TRV0yCXSP7AfsVswXWI1HawJtZGFjSQVFu4LK4FKlqld56LrB9KMQMp3xrQ1MpIHtJ8LAxCmGtj81iz3DA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR5Pvt95x9LII9lSl4qi3GhCi3gKzFGqWzHtckTFbTpqzS9Ru4uASzh1JW6TP%2B9sMOp6JwJhqvggIx3F%2BZ9loaQgHzdD1IbzN%2FHzVtFDhjLFilLZ3HgXPSJ7jKDCnMz%2FUPh%2F%2B5giRgUyBqn4PnR8UVFKg6hfJq%2FHH0ZMPQ9bxjZ8eg%3D%3D",
    "posted_at": "2026-11-27T20:43:03+00:00"
   },
   {
@@ -830,13 +820,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2861-3472962",
    "posted_at": "2026-11-27T19:17:36+00:00"
-  },
-  {
-   "title": "8 Go DDR4 2666 MHz Micron RAM Barrette de mémoire PC Fixe",
-   "price_raw": "44.38 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880157558490?_skw=ddr4&hash=itemcced7a86da:g:1PMAAeSw78xrCdkf",
-   "posted_at": "2026-11-27T19:26:58+00:00"
   },
   {
    "title": "PC Portable 15.3\" Lenovo Legion 5 15AHP11 - WQXGA OLED 165Hz, Ryzen 7 250, 32 Go de RAM, 512 Go de SSD, RTX 5060, clavier Espagnol",
@@ -1057,7 +1040,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 2010,
-  "models_with_reference": 90
+  "listings_seen": 2008,
+  "models_with_reference": 92
  }
 }
