@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T01:08:00Z",
+ "generated_at": "2026-11-28T01:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-28T01:08:00.678125+00:00"
+   "last_ok": "2026-11-28T01:38:00.629710+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 383,
-   "last_ok": "2026-11-28T01:08:00.678125+00:00"
+   "items": 382,
+   "last_ok": "2026-11-28T01:38:00.629710+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-28T01:08:00.678125+00:00"
+   "last_ok": "2026-11-28T01:38:00.629710+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuwrVlfFrcjxoQGwjKTrk%2BRAF3taWmGZ34TqX1COO65Rmr2T2Ow%2B5oGLonmDX7%2FQGZtXAjKJTpezJ02rZ2AuYABufPikRPMSrqaIuQGGsMDiMU3P6BQePLPdIm1%2FraTg1wFDok4%2FRecqStlrlWpXHH7t",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjux3VlI0e5SZj39LAye4g1IbzOo%2FTeRpI%2BldjGz92aKvMoev0x6QICf8ZcM7xtbyQB9vGazhaqwaJzeXhyBcXEdjauMqxiYziGDzzZJppdpkXTP797PPCazjrvNkBAxonFDIkAI1qRrBUM66HNctWt4z",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -241,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · bonoitec-france (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7GQ9MhLV%2BzEmv%2FUJh%2FHmOEuqhma%2F5MQojW1Ovf%2BuYNILiloklMdFzJhU5nLlxz29byUgzeMBxFpQciZYjTziK0aUMHDAlLbiDKGsLCKX5MxYskt42XjmoP%2BumELGI03VwNuCpcTfcx2UYRA0TLRkw2%2F",
    "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
@@ -345,6 +345,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/sandisk-ssd-1to-amazon-belgique-3470471",
    "posted_at": "2026-11-26T16:11:56+00:00"
+  },
+  {
+   "title": "Netac NV3000 SSD NVMe M.2 2280 1To 500Go 250Go PCIe 3.0 3500Mo/s Interne PC",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 109.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 109.99,
+   "median_eur": 149.99,
+   "discount_pct": 26.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · topdeal-market (100,0 %, 156 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/860174401372?_skw=ssd&hash=itemc84663bf5c:g:9SAAAeSwmnNrBfbB&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7n3jDN6788qVRv7bPuEfdc%2BzgWh%2BY3eN8%2BB8Xt9L7JGlzjQbtMgfHvby02KDEvuAruobyGckGWkULU24Dz95kIsfqL64%2BQL3arNpYcTCjBgv3Xeb1FqyVNLQx6uA9jZJRh8tTiEYzJFOFMVE%2FCRFH1UdHZ8Q7qA2MxpjUfjarJpf6h%2FvYDRvhzggZ2F4AxMU%2FaZ%2BH%2F%2BLXHUeAl%2BApg3oL4EpywTY3jaeLyKex%2BcJXfiHMgAs5diwX6fVJP1Bn0lDLlPnRwGyHXJ2fL8iijamP5a",
+   "posted_at": "2026-11-24T20:50:45+00:00"
   },
   {
    "title": "SSD Interne PNY CS1030 M.2 NVMe PCIe - 250 Go",
@@ -479,7 +496,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr6r9xih531mm5p57L4eUxSPdgFhYyGUWbpTng%2FyLN%2Bp1JzL392eIgqLFLWAbZ9QMwkgYVlWb8z1YSS20SP06ZlYqmhILNNJAVYgMNSPUZN%2BpN7QkBYO0vTCXEY2D5gTPjNm2ThKzrZlJ0qyijUkB6hOCvUHSvl8J7M5Hieuvo9RBQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr4z1oi8TwUCM4SK5iux5HvxZJowY9cQG7r%2FLhmo7DTTuu8cbewL4%2FdkoQktWEWkFIP9jUfceOqspA0ygAUCVDFIl70EPkNbs01PuB%2BCFQdb96ySWRS4yiAZbalV68Du2Q9A2IDqH3lG670kAyfYMWGyFxSDj%2Bh3xaKlknFILFnXKA%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -783,6 +800,13 @@
    "posted_at": "2026-11-27T22:11:58+00:00"
   },
   {
+   "title": "Tacens Anima ACX Boîtier PC Micro ATX Façade en Aluminium Brossé Ventilateu",
+   "price_raw": "39.09 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/389132743455?_skw=boitier+pc&hash=item5a9a1e731f:g:3uIAAeSwaTpo-UTx",
+   "posted_at": "2025-10-23T04:14:03+00:00"
+  },
+  {
    "title": "CORSAIR VENGEANCE RGB DDR5 16 Go 5200MT/s CL40 - XMP / EXPO",
    "price_raw": "199.00 EUR",
    "source": "ebay",
@@ -814,7 +838,7 @@
    "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
    "price_raw": "71.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR5OhLhugIA9aaSz--oQogBpcOPjpg%2BmePJ0UkCEHdinuS8QZfPpk14Y2ycMjFRPJu%2FgDbjevaqqnar11PpYMDmQd4EQLYmF5rT3cP8rRKFPvR53rto3VunFdP4bTeZoUMwZo8mxtzKCaZNAULdmW1H%2Bj%2B8i15X3N0Pqas8IQiFN6g%3D%3D",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR6bziH39ZvNtCuJA85vnwJx%2Fr82SCxQLuST%2FhQYVEuAWXvNy%2B%2BVXMpGAtoTfRQAbHyNpQnrK2H412mwhC8y2KAfr3o16K0HpxlodFGY5nt0fYOWkiIfM%2BVpnqM2sT1snQr71HDes5PvdkXpuOm8rm%2FOfpnfeZDR0fMptHNYfErsAg%3D%3D",
    "posted_at": "2026-11-27T20:43:03+00:00"
   },
   {
@@ -844,13 +868,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2861-3472962",
    "posted_at": "2026-11-27T19:17:36+00:00"
-  },
-  {
-   "title": "8 Go DDR4 2666 MHz Micron RAM Barrette de mémoire PC Fixe",
-   "price_raw": "44.38 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880157558490?_skw=ddr4&hash=itemcced7a86da:g:1PMAAeSw78xrCdkf",
-   "posted_at": "2026-11-27T19:26:58+00:00"
   },
   {
    "title": "PC Portable 15.3\" Lenovo Legion 5 15AHP11 - WQXGA OLED 165Hz, Ryzen 7 250, 32 Go de RAM, 512 Go de SSD, RTX 5060, clavier Espagnol",
@@ -935,13 +952,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-signature-m650-l-3472731",
    "posted_at": "2026-11-27T16:50:20+00:00"
-  },
-  {
-   "title": "Lot 16 Go RAM PC portable (2x8 Go) Samsung DDR4 3200 MHz SO-DIMM M471A1G44AB0-CW",
-   "price_raw": "66.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/840170552074?_skw=ddr4&hash=itemc39e113b0a:g:7H0AAeSwu8NrCbWw",
-   "posted_at": "2026-11-27T16:55:58+00:00"
   },
   {
    "title": "Souris Gaming Sans Fil Logitech G502 X PLUS LIGHTSPEED - HERO 25K, 13 commandes, RGB, USB-C, 106 g",
@@ -1054,10 +1064,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/msi-mag-coreliquid-e360-argb-watercooling-kit-for-intel-amd-cpu-3472408",
    "posted_at": "2026-11-27T13:50:24+00:00"
+  },
+  {
+   "title": "Souris gamer sans fil Logitech G PRO X2 Superstrike Lightspeed - capteur HERO 2 44000 DPI, 61 g, 8000 Hz, 90 h, Eclipse lunaire",
+   "price_raw": "99,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/souris-gamer-sans-fil-logitech-g-pro-x2-superstrike-lightspeed-capteur-hero-2-44000-dpi-61-g-8000-hz-90-h-eclipse-lunaire-3472396",
+   "posted_at": "2026-11-27T13:42:38+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2020,
-  "models_with_reference": 89
+  "listings_seen": 2015,
+  "models_with_reference": 90
  }
 }
