@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T14:38:00Z",
+ "generated_at": "2026-11-28T15:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 336,
-   "last_ok": "2026-11-28T14:38:00.622400+00:00"
+   "last_ok": "2026-11-28T15:08:00.682792+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 383,
-   "last_ok": "2026-11-28T14:38:00.622400+00:00"
+   "items": 384,
+   "last_ok": "2026-11-28T15:08:00.682792+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 79,
-   "last_ok": "2026-11-28T14:38:00.622400+00:00"
+   "items": 80,
+   "last_ok": "2026-11-28T15:08:00.682792+00:00"
   }
  },
  "watchlist": [
@@ -90,6 +90,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-legion-27q-10-27-pouces-qhd-ips-240hz-3472506",
    "posted_at": "2026-11-27T14:44:07+00:00"
+  },
+  {
+   "title": "SSD NVMe M.2 2280 PCIe 3.0 x4 128Go 256Go 512Go 1To 2To Disque Dur Interne Neuf",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 66.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 66.99,
+   "median_eur": 149.99,
+   "discount_pct": 55.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · mazkar55 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba6wL6QyUF5%2BX0rY8xAFpXFGl7M433C%2FTaKDHmQWSUENX%2B6abVV0Kga%2BCmY7Hszo60bQBRhT7Q697PvG4EWLKh%2BzGvPQFTZUpca4iWrEXqTVLNHVgdXh1jehH1iIl82JNEN6ga9FBE7CVwVlhHbBa4Rv",
+   "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
    "title": "Carte Mère COLORFUL BATTLE-AX B850M-T WIFI V14 (Micro-ATX, WiFi 6E, DDR5, etc)",
@@ -192,40 +209,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW",
    "posted_at": "2026-11-22T22:16:21+00:00"
-  },
-  {
-   "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
-   "model": "RAM:DDR4-16Go-2933",
-   "category": "RAM",
-   "condition": "used",
-   "price_eur": 79.95,
-   "shipping_eur": 3.9,
-   "effective_eur": 83.85,
-   "median_eur": 135.75,
-   "discount_pct": 38.2,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · tanzen_store (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzBTR6AIGkE817ncsHARmhbPcU8CrWTYbhNt%2Fx7dJyF4U5NQG0XgymX%2FJi7fKT10FMyMJch0ARjBIIhJg1xYi7RY9AgBOrkxwhP%2FH%2FzcdPrk%2Br2mpYMvy0E%2F7W9pKXf3iUeQVFtgD%2BtrIhdBqjuY32K",
-   "posted_at": "2026-08-14T16:59:44+00:00"
-  },
-  {
-   "title": "disque dur SSD Interne,  2,5\" SATA III 6Gb/s SSD 128Go | 256Go | 512Go pour Pc",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 25.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 25.9,
-   "median_eur": 39.9,
-   "discount_pct": 35.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bonoitec-france (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7GMkddgZOW%2Br2COahioOlrRK0Kd08FqnYMeXp%2FknCB7IdtmXnGr8pzzW5xJCrWs5IJW0C1o4a86U4xNPdko6TWD99HdPCgH%2BUoC5E942QIJ5oP3ktuFi6BbLm6d%2BUAx%2BpdythjWie5iD8TKRHtoQJF%2B",
-   "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -432,6 +415,23 @@
    "posted_at": "2026-11-27T20:30:46+00:00"
   },
   {
+   "title": "SSD M.2 2To PCIe 4.0 NVMe 7200Mo/s PS5 Compatible 2TB 3D NAND Interne Disque Dur",
+   "model": "SSD:NVMe-2To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 215.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 215.99,
+   "median_eur": 289.62,
+   "discount_pct": 25.4,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · mazkar55 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137963202238?_skw=ssd&hash=item201f3f66be:g:RG8AAeSwhCZrB3ux&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7me3hm7kekzCoShSqUkcCLoeRfWMuUB77e7bqjg24jOe8Kz0c1s9VNA571wrZ3dWEf4VePmHXcLyVgq4YhyfH1YfGk2prgn%2FpBoAi7%2FFZP40a1hTsqDay%2BPTBlN%2FQ3mUToREVEz102b9YgZhhVd1AH2IyNV3dY4Daa1y37gDOB2m4%2FnJktwB8pClbYplisq%2FZWD8YGKULpqdvdglFtSqH9zdKi4c3oR0M%2BiSL0S7kAJ%2BkwAcZS%2BqeLUpvsuZE%2FmtMb5LvHwMVap60D7Gfy1WU7Y6HIYxDGulJNPjR9eP6BHaw%3D%3D",
+   "posted_at": "2026-11-26T00:22:05+00:00"
+  },
+  {
    "title": "SSD interne Sata 3 Cusu - 1 To",
    "model": "SSD:SATA-1To",
    "category": "SSD",
@@ -530,7 +530,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr48bbj%2BhBTMwaUnU76JDBsjTJF5cDDLWXSxsFuYcGRUksmDjwIgHoHnvWI1SVLocdP5cXTbkMxRJhmsjlF7xu5uVjBCV%2FNx2bIOxDK8WTlnVVnW6N2EzSXBR0IUuIjKymN7%2FL5knJYhoDlddWU%2B0JsCcftl9gBof5OoXYV39lpLOA%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr56nNitDsJGIZr5kZyDezLZquekRCnt5Sd0O9UEgAnHPUtIV1mvlUOwlb028BRqBwfpCFMDgWaUiwHPHAI3vHx7LpR873ZR8DpGzqOeKd%2B06Ae7RdIpOwpzo0bDJfQXylBAp%2FC2Jz8MG7KraXxgak5uRYhbzpyGVZx98e7M%2B0A9AQ%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -583,23 +583,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
    "posted_at": "2026-11-20T10:13:01+00:00"
-  },
-  {
-   "title": "SSD M.2 NVMe PCIe 3.0 1To 2To 3500 Mo/s 2280 3D NAND Disque Dur Interne PC Neuf",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 122.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 122.99,
-   "median_eur": 149.99,
-   "discount_pct": 18.0,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · mazkar55 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137956127354?_skw=ssd&hash=item201ed3727a:g:Tu4AAeSwq-BrBGVt&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nqQIpqCikli25aQCQrWSei29nqupAhIz9C2Bwzh1Vp7vEvAXfwEL8QDfm%2BkZ8T97LQhH4UEGvnA44uxsW%2F3M1Im2pRpfe7RfDRXuZGlmT%2BFjZT9bg7QF1QNZamVlyUJXPOtBQQ3%2B5shez5JeEl6cRpPto8E9LBhIsmUtTmcRBkByCv%2Fm2Fite8O58saPmLScnIIRu%2FbZmt57g8rtY9E8fN1FgbyfvuBhHUsAi9C7LJUIxoY2IvlDLJ2Cj25uilZqS%2FcBg7rNljW25A3KcUhxFJIWkYHQPbwskVEqfL4S%2Fklg%3D%3D",
-   "posted_at": "2026-11-23T16:10:19+00:00"
   },
   {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
@@ -740,11 +723,18 @@
  ],
  "unclassified": [
   {
-   "title": "Lenovo Legion 24-1r | Ecran Gaming | 24 Pouces | FHD | IPS | 280Hz | 0.5ms",
-   "price_raw": "89,99€",
+   "title": "Kit de Watercooling MSI Mag Coreliquid A13 360mm",
+   "price_raw": "64,99€",
    "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lenovo-legion-24-1r-ecran-gaming-24-pouces-fhd-ips-280hz-05ms-3473777",
-   "posted_at": "2026-11-28T14:33:44+00:00"
+   "url": "https://www.dealabs.com/bons-plans/msi-mag-coreliquid-a13-360-argb-watercooling-kit-for-intel-amd-cpu-3473790",
+   "posted_at": "2026-11-28T14:56:26+00:00"
+  },
+  {
+   "title": "CRUCIAL Mémoire RAM DDR4 - KIT 64GO (2 x 32GO)",
+   "price_raw": "465.70 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137970503908?_skw=ddr4&hash=item201faed0e4:g:qZkAAeSwz-1rCumk",
+   "posted_at": "2026-11-28T14:56:35+00:00"
   },
   {
    "title": "PC Portable 15,6\" Dell D15265 - FHD, AMD Ryzen 5 130, Windows 11 Home, Ram 8 Go extensible, SSD 512 Go, AZERTY, Sans Chargeur",
@@ -792,7 +782,7 @@
    "title": "Micron RAM 8 Go DDR4  PC4-2400T  ECC Unbuffered (UDIMM) - MTA9ASF1G72AZ-2G3B1ZG",
    "price_raw": "26.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSmtc%2Fuul7EiWZPrtr5l6%2BWsmoBaD4q%2FKrCXdzGTMrBVMajOGSYvVGTt%2Ft9lQS9km1ae9kdtjVNWEb1ABj9v06R3n6vMlYsYAyDqWEBb7kKAt3yPxKK2fidHn%2BnAXpy2GJROgu2Vh47ITEXreOoP%2FJMJ",
+   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSk%2BWHUkRFrJH0yojTXYvZbg2hNfYgnpzjREXYji9p1RrPiVrrxfrUZ2TUKQOa7JtkfyxjSyMNzvLWAUNcAYOnqGslCTXwLYTE9ncdpjxkXW%2BHe%2FgiSVfaTCsOw0owjvfaLyDqIldfJ9kO8kV83fR%2B1q",
    "posted_at": "2026-11-28T13:47:46+00:00"
   },
   {
@@ -824,13 +814,6 @@
    "posted_at": "2026-11-28T13:06:56+00:00"
   },
   {
-   "title": "Mémoire Ram Serveur Ordinateur DDR2/3/4 1-16Go 667/800/1333/1600/2400/2666/PC3,4",
-   "price_raw": "74.95 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/374365314289?_skw=ddr4&hash=item5729e95cf1:g:ZpgAAOSwby5jemUd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k9EfGKaVqboMOSgkpMm3z27%2B%2FOeihq84tAfWbqdio8trlkwbB3K%2FIulFU7S1hnTeDJMXweBeu3VOUFnSAAsyEFbcRS%2BZ9OihOgy9noBjAOfL5%2BmDyeK7Amk2VGINLK%2FLReW8LmTWSwvllPvoin04OiiUp1%2FIdIRhY8Btq6st2bZ%2F253HB9jJsSiU3kqFfw%2Bf4hSADGzGIIHBxOZUGma3M5E2YnVHmPX40Rw1i87ZIOtA%2F1V9%2BMa7mb1M6QspbMogRCoUv8qQQS1%2FsWFXeR4Qvo",
-   "posted_at": "2022-11-20T18:01:59+00:00"
-  },
-  {
    "title": "Logitech G915 X LIGHTSPEED TKL clavier gamer illuminé AZERTY FR sans fil noir",
    "price_raw": "99.00 EUR",
    "source": "ebay",
@@ -843,13 +826,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206732393885?_skw=clavier&hash=item302235fd9d:g:qQ0AAeSwSL5rCr7B",
    "posted_at": "2026-11-28T11:45:18+00:00"
-  },
-  {
-   "title": "Carte mére pc Gigabyte GA-H61M-D2-B3 intel core i3 + 4GB RAM",
-   "price_raw": "42.20 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327481715880?_skw=carte+m%C3%A8re&hash=item4c3f6e6ca8:g:u2cAAeSw5BJrCrYg",
-   "posted_at": "2026-11-28T11:10:30+00:00"
   },
   {
    "title": "PC Portable 15.6\" Samsung Galaxy Book4 - Intel Core i5, 8 Go RAM, 256 Go SSD, AZERTY",
@@ -953,7 +929,7 @@
    "title": "GIGABYTE Carte graphique gv-n6700c-2gb-rev-1.0",
    "price_raw": "56.86 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nYbKkfYg760kP0iTmnEMlmDD4eAK3uG%2BpKsPcfXhEgz8wvthjUU4fJJ9CkiOgdPx3neVYh1uHKCOy7OsnQLxNxVgN6YP1uL4bNYHwL%2Fa%2Bqb0Q9vSXspRYgqvghb8dHsRYYBP1%2FaEhxq9JsaXUzrvFCcRO56zYnOVdU5im918sxt1w%3D%3D",
+   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nY94WFJVG25Cg%2BV19CpilIrW22wVjCcfby75D5KmsDmD%2BtarA9n11zfeYtFizdoL6dUC5j6IMXYIgOHriomHRemopjz919nv6c2qbGotM%2BL%2B8EwtoFE%2Fjjkk%2Fdp07QKPiSrd6F5GrLaw%2B8ZMnoo8XIj7tpG6Q4SOggXopCGRr8bmg%3D%3D",
    "posted_at": "2026-06-04T12:48:52+00:00"
   },
   {
@@ -1088,6 +1064,13 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-tactile-samsung-galaxy-tab-a11-11-128-go-gris-3473010",
    "posted_at": "2026-11-27T20:02:30+00:00"
+  },
+  {
+   "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
+   "price_raw": "71.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR6spRIGX3qFxZmQ5EOs5gYQ3hzbIC4z5XsV5iUuVP9FZPlH%2FHTXXYHWowqtJcjkUkkyCMjEBqJmbhjEzTWxStThAR0jOIxPs5mXW0L3lm1cdsEkyTLzYk6WibDrCIY0Ik3gki9G2Id4%2BreFIMywi1j7Kc7zsUE1gPsD9vmdBpSpLw%3D%3D",
+   "posted_at": "2026-11-27T20:43:03+00:00"
   }
  ],
  "stats": {
