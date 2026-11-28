@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T13:38:00Z",
+ "generated_at": "2026-11-28T14:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-28T13:38:00.649028+00:00"
+   "items": 340,
+   "last_ok": "2026-11-28T14:08:00.679603+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 389,
-   "last_ok": "2026-11-28T13:38:00.649028+00:00"
+   "items": 390,
+   "last_ok": "2026-11-28T14:08:00.679603+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-28T13:38:00.649028+00:00"
+   "last_ok": "2026-11-28T14:08:00.679603+00:00"
   }
  },
  "watchlist": [
@@ -224,8 +224,25 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxy7JEu1MOWsuXb5cmww02iRAY%2BTZnVU6oJGIWBiS8RJZx9ZqyCNv6%2FSiibNkXgsyPIE1sB3E98WHLTtK94RWNmSrtJy5oEr1u2qvAvNK7wg%2F2FP6y4pczKBq%2BmiAPrZvX3y3V9YpJmd9iYM04Vt1hN",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxiwXt%2B4bKtFMA%2BLTzecpZXfk97zJbnBOYku%2BX9qU%2B4rORJSJe5Lmq1qJqSr8L11ltW81olnSr9Z6OWdr06M%2BobGd1VAKXtZJLsUhY7oE1zMZ7p%2B90NXEByxZM492tTmKH09%2FoEfVUp37gPnQH4FdvV",
    "posted_at": "2026-08-14T16:59:44+00:00"
+  },
+  {
+   "title": "SSD NVMe M.2 2280 PCIe 3.0 x4 128Go 256Go 512Go 1To 2To Disque Dur Interne Neuf",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 93.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 93.99,
+   "median_eur": 149.99,
+   "discount_pct": 37.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · mazkar55 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba4%2BZgkGn7NpDLogwqG0QPOyzJjjcf37I5cA752weiaoiKNBxQ2zjQIvncH8boUkd16HmJcOecBCMr%2FpFWSPTz%2F39dhipHEXEil0QmnQTQzAGAEUw8lJwiL0Sn9vWPn7no36PKX1SQIgENhnTzUYjXjs",
+   "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
    "title": "disque dur SSD Interne,  2,5\" SATA III 6Gb/s SSD 128Go | 256Go | 512Go pour Pc",
@@ -241,7 +258,7 @@
    "suspect": false,
    "merchant": "eBay · bonoitec-france (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7GSFR7R7WKnEs3WCBCuKmbwk3gpOo4kXFvgod74CbU6Je2ZC9nAxAbLFuydI7L%2Fnj1oR5XU5D3ngaPrTYEh37A8eUG9HYzp409lY%2BTzusdL7c2OPNvOWwIcNiW%2FVrctWsWJ%2FO0e%2FCJ7DJobyZ3CFAIP",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7Gi%2FwhD1LQGkqiUV2DuBER1NK7111uwVLbemoKYWJ22JfEUH9omiFD8PgSgt84KlYquFfrrfrepSit8kd80evRsG%2FXsZjbl1%2FblCzkYvmuEFQbjEO6egXRlqUhkVh9qDirrrRXLFPVwcJfvPOglUiNi",
    "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
@@ -303,14 +320,31 @@
    "price_eur": 63.41,
    "shipping_eur": 2.78,
    "effective_eur": 66.19,
-   "median_eur": 93.04,
-   "discount_pct": 28.9,
+   "median_eur": 94.3,
+   "discount_pct": 29.8,
    "target_hit": false,
    "suspect": false,
    "merchant": "eBay · hexatresors (99,6 %, 492 avis)",
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960248945026?_skw=ddr4&hash=itemdf934c1982:g:FcwAAeSwWMxrCpNT",
    "posted_at": "2026-11-28T08:40:05+00:00"
+  },
+  {
+   "title": "SSD interne Netac NVMe M2 NV3000 - 1 To",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 105.97,
+   "shipping_eur": null,
+   "effective_eur": 105.97,
+   "median_eur": 149.99,
+   "discount_pct": 29.3,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "AliExpress",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/netac-nvme-ssd-m2-1-to-nv3000-3473704",
+   "posted_at": "2026-11-28T13:10:46+00:00"
   },
   {
    "title": "Samsung 850 EVO 2 To SSD 2,5\" SATA III MS-75E2T0 - Occasion testé",
@@ -362,23 +396,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/amzfast-ecran-pc-gamer-27-pouces-plat-dual-mode-moniteur-ips-4k-uhd-160hz-fhd-320hz-haut-parleur-integre-mprt-1ms-hdr-400-srgb-126-3469503",
    "posted_at": "2026-11-25T20:51:17+00:00"
-  },
-  {
-   "title": "SSD interne Netac NVMe M2 NV3000 - 1 To",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 109.7,
-   "shipping_eur": null,
-   "effective_eur": 109.7,
-   "median_eur": 149.99,
-   "discount_pct": 26.9,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "AliExpress",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/netac-nvme-ssd-m2-1-to-nv3000-3473704",
-   "posted_at": "2026-11-28T13:10:46+00:00"
   },
   {
    "title": "SSD NVMe 1 To Kingston NV3 – M.2 2280 PCIe 4.0 (Sous blister scellé)",
@@ -500,6 +517,23 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
+   "title": "SSD SAMSUNG 870 EVO – 250 Go – SATA III – 2,5” - Occasion Testé",
+   "model": "SSD:SATA-250Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 28.73,
+   "shipping_eur": 2.78,
+   "effective_eur": 31.51,
+   "median_eur": 39.88,
+   "discount_pct": 21.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · matthieu2278 (100,0 %, 102 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137967783260?_skw=ssd&hash=item201f854d5c:g:1e8AAeSw8k1rCZ04",
+   "posted_at": "2026-11-27T15:10:24+00:00"
+  },
+  {
    "title": "Carte mère Lenovo ThinkCentre M700 IH110MS 01AJ167 LGA1151 DDR4 Intel H110",
    "model": "MB:H110",
    "category": "MB",
@@ -513,7 +547,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr687GE7%2BqC7GIgQWI%2Fub1Q6oGzTjvnGTu0utoHvwH7jl2QK7x1HhkR0Bf2WSTzb3uvRKE99DJcAl1Ao4ORQdxYoCu5qkGpmRgGrEjNc%2B9fG0ZAWSCiZW4lv48LBbq%2Fz6WkgjO5W51h8Wtidmvxdjivc266M7jEnPsLirLoQdjIN0g%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr7OKSRmfkl1usLcOrURpLFOmY8NYXw0mG7ba9shR7MiU6hPe5hMI2H4quYXsHlxnY28O9EsNr3s4Cdd7BwRuKgU7zVLDWFMLYm6yJou9Gvp%2FnqDxJaoV3ZQmyX3X7WrZTtWXpRQWMuwgbvT1bMHzatjTVedOngtQHkpDOYmU1deWw%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -581,7 +615,7 @@
    "suspect": false,
    "merchant": "eBay · mazkar55 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137956127354?_skw=ssd&hash=item201ed3727a:g:Tu4AAeSwq-BrBGVt&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nqQIpqCikli25aQCQrWSei29nqupAhIz9C2Bwzh1Vp7vEvAXfwEL8QDfm%2BkZ8T97LQhH4UEGvnA44uxsW%2F3M1Im2pRpfe7RfDRXuZGlmT%2BFjZT9bg7QF1QNZamVlyUJXOnN4t%2FB4UdQFgSNQr6OLziSztMEkaVekiY1LwHYPnpCeR2BhOGPrcshng60u6hXAbUk8njVEFILc3HY%2FM%2B6l4zHey5OO00iUPOENRMTZgU%2F2tkwyeoD2GBlGS5k27jLz%2F0iQMn2lZPxlfD84IFoaH6%2FtnzD4fYmmV90nvS8ycZXQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/137956127354?_skw=ssd&hash=item201ed3727a:g:Tu4AAeSwq-BrBGVt&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nqQIpqCikli25aQCQrWSei29nqupAhIz9C2Bwzh1Vp7vEvAXfwEL8QDfm%2BkZ8T97LQhH4UEGvnA44uxsW%2F3M1Im2pRpfe7RfDRXuZGlmT%2BFjZT9bg7QF1QNZamVlyUJXMfHAdVrlkzQjKAt4RDVxKKDfn1Bqss0rfGl7ZvIYDIjU%2F3pSrCf5oxBCsk7u21P4yIJXHHvyrm7UbYgh0on9ofHvgyr6LnXr6ySGr875Pzfv%2F05H8tjf6n71dTlQaJljYeM%2FFsNuiTyE1v09JQQFP%2FPhUN6SFiBvz%2ByhKbAdeaBw%3D%3D",
    "posted_at": "2026-11-23T16:10:19+00:00"
   },
   {
@@ -740,6 +774,48 @@
  ],
  "unclassified": [
   {
+   "title": "PC Portable 15,6 \" Lenovo IdeaPad Slim 3 15AMN8 - FHD, Ryzen 3 30, RAM 16 Go, SSD 512 Go, AZERTY, Sans OS + Sac à dos",
+   "price_raw": "399,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-15amn8-fhd-ryzen-3-30-ram-16-go-ssd-512-go-azerty-sans-os-sac-a-dos-3473735",
+   "posted_at": "2026-11-28T13:48:36+00:00"
+  },
+  {
+   "title": "Carte Graphique Msi Nvidia GeForce GTX760 2Go HDMI / DVI / Display Port",
+   "price_raw": "16.68 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267857135669?_skw=carte+graphique&hash=item3e5d878835:g:8AsAAeSwMKJrCtt7",
+   "posted_at": "2026-11-28T13:50:20+00:00"
+  },
+  {
+   "title": "carte graphique Nvidia Quadro 2000",
+   "price_raw": "15.61 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267857138693?_skw=carte+graphique&hash=item3e5d879405:g:tmwAAeSwhaRrCty1",
+   "posted_at": "2026-11-28T13:56:04+00:00"
+  },
+  {
+   "title": "Carte graphique sapphire HD 6870",
+   "price_raw": "15.61 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/267857141296?_skw=carte+graphique&hash=item3e5d879e30:g:DCcAAeSwMKJrCt6V",
+   "posted_at": "2026-11-28T14:01:51+00:00"
+  },
+  {
+   "title": "Micron RAM 8 Go DDR4  PC4-2400T  ECC Unbuffered (UDIMM) - MTA9ASF1G72AZ-2G3B1ZG",
+   "price_raw": "26.20 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSmw0J%2Ffk4U13wNZICxTelMAzIMCLb5NHrhNDjKMnt2X1NGbTvC8bZIGuKYtr%2FhJp9ClBQw%2BZ13YhmoeK1FR4%2BSACrAP7srzOHbhTOm%2FxQboH1%2Brwo%2Bn9xqPiV69PPIVBG041RvjCQT1VcYfdPNsqh9q",
+   "posted_at": "2026-11-28T13:47:46+00:00"
+  },
+  {
+   "title": "[LIKE NEW] Crucial DDR5 32GB Kit (2x16GB) - 6000 - CL36",
+   "price_raw": "415.00 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/960249809838?_skw=ddr5&hash=itemdf93594bae:g:D08AAeSw78xrCt25",
+   "posted_at": "2026-11-28T13:58:35+00:00"
+  },
+  {
    "title": "Écran PC 34\" Alienware Penta Tandem Oled Gen 5",
    "price_raw": "762,88€",
    "source": "dealabs",
@@ -764,7 +840,7 @@
    "title": "Mémoire Ram Serveur Ordinateur DDR2/3/4 1-16Go 667/800/1333/1600/2400/2666/PC3,4",
    "price_raw": "74.95 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/374365314289?_skw=ddr4&hash=item5729e95cf1:g:ZpgAAOSwby5jemUd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k9EfGKaVqboMOSgkpMm3z27%2B%2FOeihq84tAfWbqdio8trlkwbB3K%2FIulFU7S1hnTeDJMXweBeu3VOUFnSAAsyEFbcRS%2BZ9OihOgy9noBjAOfL5%2BmDyeK7Amk2VGINLK%2FLT4cbXhtSgluI0jQX1BMBzIAdsRJypVLCbEZxH7ZISrkUQ9NmGSRx0ObTcGEbk15cJB%2BvOP5Kq7ThoQSQwbittTUQ9HCm5ASZh7imnPX9l7ofYSouxfnzsfF109wd1ZHXjQb0eO59DgOXvbQFUoPN3b",
+   "url": "https://www.ebay.fr/itm/374365314289?_skw=ddr4&hash=item5729e95cf1:g:ZpgAAOSwby5jemUd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k9EfGKaVqboMOSgkpMm3z27%2B%2FOeihq84tAfWbqdio8trlkwbB3K%2FIulFU7S1hnTeDJMXweBeu3VOUFnSAAsyEFbcRS%2BZ9OihOgy9noBjAOfL5%2BmDyeK7Amk2VGINLK%2FLQ95mK%2BWozUnmSo%2FPou677UbiGWZ2zY%2FZYtTt0FCdlg9aEWFjDL--3Fj56LIz%2BsV7CDfd5SDHQvtcQwiXq%2F6zC3hMCGURZVjqFCg1yWZIqpkDpdbCogFCsUe9M2wkCTta9BnUr%2BRAJemWvwYNrwOC8A",
    "posted_at": "2022-11-20T18:01:59+00:00"
   },
   {
@@ -890,7 +966,7 @@
    "title": "GIGABYTE Carte graphique gv-n6700c-2gb-rev-1.0",
    "price_raw": "56.86 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nZQ8rqzBgCLpwxXwIbwd45Xv7E7rQfQrRXEV9UlIe3aRljFNJyecyOm%2FJpnPPTttlhWB0nrXbjjVPx4tZS75EYY%2F52E8W5TQDx9LKjM3ic4rxSLdPyKi17q%2BDghvdyM1k4i7WfVesEaPbvzbPsLTabiaBfwvr8aMIzFuXkbriNldg%3D%3D",
+   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nb9uyLwUwikpOu3EMTuoprO03V3RlCi3LUc5rA2vz2YHTsMcHJSnEvYTcU1N9PSYQ7xCmtABByXuoKqyaxzuIX4jVWE2TMZjO3eW03ZusUHvCHMw6aDMgNNj3EOEI56WNNFYvVGdDiMhRE2uGyNGdnRA%2BdTzSnDobjjtZqEzT7W2w%3D%3D",
    "posted_at": "2026-06-04T12:48:52+00:00"
   },
   {
@@ -1030,7 +1106,7 @@
    "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
    "price_raw": "71.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR5lcXGWDqGsMU32eZRv6YyMXtKOx1pm%2B7%2FbLkghAR3Nf3BDggJsx9uuUtep%2B%2FmHNQmLewJnJKI7KOVUG1mxNgaMEqOSfQbNHAS1TqEGLy2cbAGzTkedMqIQjnY7snygs0zhg--CFf56HJF6CnKcxF11MF9LVaUGFH9ry6%2BTvQWajA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR5leeeDBJxHZcVjyaaHHWyudz4sIwbMT%2BRE3votTxT2RTl%2Fedcyk%2B5Uz40mnKkgC5uHJcpIDyqNi%2BeB2AR6x4g6aDYPGqM2ms8Zig1frzGhYPqnFQ0zo08fWqTF6G%2FN9BuUUFO9mtYyp00JRh%2BqRodqTmHoFqU16rjD7tyi544ZLg%3D%3D",
    "posted_at": "2026-11-27T20:43:03+00:00"
   },
   {
@@ -1046,52 +1122,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/configuration-legion-5a-gen-11-amd-ryzen-7-253-rtx-5070-16-g-ram-et-512-ssd-3473032",
    "posted_at": "2026-11-27T20:19:51+00:00"
-  },
-  {
-   "title": "Imprimante Multifonction Epson Ecotank ET-2861",
-   "price_raw": "119,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2861-3472962",
-   "posted_at": "2026-11-27T19:17:36+00:00"
-  },
-  {
-   "title": "PC Portable 15.3\" Lenovo Legion 5 15AHP11 - WQXGA OLED 165Hz, Ryzen 7 250, 32 Go de RAM, 512 Go de SSD, RTX 5060, clavier Espagnol",
-   "price_raw": "1 367,60€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/lenovo-legion-5-15ahp11-32gb-rtx5060-ssd-512gb-3472898",
-   "posted_at": "2026-11-27T18:48:09+00:00"
-  },
-  {
-   "title": "Imprimante jet d'encre EPSON EcoTank ET-2951 (Via 40€ d'ODR)",
-   "price_raw": "139,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/imprimante-jet-dencre-epson-ecotank-et-2951-via-40-euros-odr-3472904",
-   "posted_at": "2026-11-27T18:42:22+00:00"
-  },
-  {
-   "title": "Souris sans fil Logitech MX Master 3S - Graphite",
-   "price_raw": "69,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-master-3s-graphite-3472888",
-   "posted_at": "2026-11-27T18:34:03+00:00"
-  },
-  {
-   "title": "Ecran PC 26.5\" MSI MAG 274QP QD-OLED X24 - WQHD, 400 Nits",
-   "price_raw": "299,95€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-mag-274qp-qd-oled-x24-265-wqhd-gaming-monitor-400-nits-3472872",
-   "posted_at": "2026-11-27T18:26:11+00:00"
-  },
-  {
-   "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, 16 Go RAM, 512 Go, coloris ciel",
-   "price_raw": "1 149€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-16-go-ram-512-go-coloris-ciel-3472846",
-   "posted_at": "2026-11-27T18:01:36+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 1993,
-  "models_with_reference": 91
+  "listings_seen": 2003,
+  "models_with_reference": 93
  }
 }
