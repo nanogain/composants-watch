@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T17:08:00Z",
+ "generated_at": "2026-11-28T17:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 333,
-   "last_ok": "2026-11-28T17:08:00.675725+00:00"
+   "last_ok": "2026-11-28T17:38:00.675115+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 371,
-   "last_ok": "2026-11-28T17:08:00.675725+00:00"
+   "items": 374,
+   "last_ok": "2026-11-28T17:38:00.675115+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-28T17:08:00.675725+00:00"
+   "last_ok": "2026-11-28T17:38:00.675115+00:00"
   }
  },
  "watchlist": [
@@ -90,23 +90,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/lenovo-legion-27q-10-27-pouces-qhd-ips-240hz-3472506",
    "posted_at": "2026-11-27T14:44:07+00:00"
-  },
-  {
-   "title": "SSD NVMe M.2 2280 PCIe 3.0 x4 128Go 256Go 512Go 1To 2To Disque Dur Interne Neuf",
-   "model": "SSD:NVMe-1To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 66.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 66.99,
-   "median_eur": 149.99,
-   "discount_pct": 55.3,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · mazkar55 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba5Ga%2BceI4UokydISBtBsDEZQ20neW%2BgJ6etH7CWi1%2BDv%2BPlFiLblyK4c6jpn5zYkPqcupxxHBtMrvlrJx89HvAZM9q6Lp6XKQ6zFKROdTY6K1VP%2Fkq5y%2B%2BiaLVGP0sY2wi5qlAr3%2BeN6pUFr%2FtRNcFs",
-   "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
    "title": "Carte Mère COLORFUL BATTLE-AX B850M-T WIFI V14 (Micro-ATX, WiFi 6E, DDR5, etc)",
@@ -209,6 +192,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/960231379225?_skw=carte+m%C3%A8re&hash=itemdf92401119:g:vB8AAeSwm~ZrCRJW",
    "posted_at": "2026-11-22T22:16:21+00:00"
+  },
+  {
+   "title": "disque dur SSD Interne,  2,5\" SATA III 6Gb/s SSD 128Go | 256Go | 512Go pour Pc",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 25.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 25.9,
+   "median_eur": 39.9,
+   "discount_pct": 35.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bonoitec-france (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1",
+   "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -360,7 +360,7 @@
    "suspect": false,
    "merchant": "eBay · machodam95 (100,0 %, 686 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960250277851?_skw=ssd&hash=itemdf93606fdb:g:etUAAeSwUJJrCwij&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lyc9SFvEmqq%2FOA5WOCX1qUJ1BPy%2BqD3xvMaLa1u4e08jfr6ojlSrnMjJvb6nfg4GQMlFSHzRk%2FUUVykjPwLiGsp2Jzmys1n1U1OGxcrFhYdXPnw1FH80iB6q55GI4dBqO%2BaDdW12q6LUc2jXKJzvSyA80nQLwgsDaamVAGveicV2OcO0OZ9zlggN5zk66kL1XzXYZ6iJ6YFM9NYMDkwPHB4HcdciCRMlBiY6wNqF3RejzKzehhNg3LJtloo7KPFTc4yQWmyecDZZ5%2Fup%2B%2F%2BwPA",
+   "url": "https://www.ebay.fr/itm/960250277851?_skw=ssd&hash=itemdf93606fdb:g:etUAAeSwUJJrCwij&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7lyc9SFvEmqq%2FOA5WOCX1qUJ1BPy%2BqD3xvMaLa1u4e08jfr6ojlSrnMjJvb6nfg4GQMlFSHzRk%2FUUVykjPwLiGsp2Jzmys1n1U1OGxcrFhYdXPnw1FH80iB6q55GI4dBqOfzuZSy8o0cSd7jKUFEcpY5jjYWOedpU0JXoKvtGZidSHvJrDE3TWYFjzMgu33Ff5CRdHSvWe3uUacfDX24xlvoUz9k8KpyC2WI7S6tdRELzFgCgHay6bnolUbepSm9ZWZkI2FydYkMJR%2BYi6m81eT",
    "posted_at": "2026-11-28T17:03:56+00:00"
   },
   {
@@ -530,7 +530,7 @@
    "suspect": false,
    "merchant": "eBay · machodam95 (100,0 %, 686 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960249906722?_skw=ssd&hash=itemdf935ac622:g:YhcAAeSwsHJrCuQR&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGGfkboMjVJmp7%2FBPzQlqo2EHRdrBjaoWTmLKfChcGGoHvIqDk1SIeOe426RGiY9H5fYct8RFzQ9TGlgmD3kwuqceQLdAy8%2FvlP%2BNSPDZmCS2BkwtHXxp2q6DIk6jZFYiZRbiUjX0BCvp9IPpsDSbW2LCf8zHaBgV%2B3MpAfrFfZDKQ%2BHa16V5Xyxa37bZfj84FcSJUnYAzb1nhhmdjUNsY5Z5AjD7cDrKkfbRcQgPACQ6LOxWGP3k5zx9ZV1ciJyuwVaCH%2B6Ki5gytEUqZvZhk",
+   "url": "https://www.ebay.fr/itm/960249906722?_skw=ssd&hash=itemdf935ac622:g:YhcAAeSwsHJrCuQR&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGGfkboMjVJmp7%2FBPzQlqo2EHRdrBjaoWTmLKfChcGGoHvIqDk1SIeOe426RGiY9H5fYct8RFzQ9TGlgmD3kwuqceQLdAy8%2FvlP%2BNSPDZmCS2BkwtHXxp2q6DIk6jZFYjJBwP6o2BOce5RGgjvbJYHq%2BocS4uZBZYWAFN0Y2MgzPa6uLZ%2F5HJR%2BtB6LOuTfcEvNH0hpy%2F0YyfdvJqtDE4oGckmwSIW0mwYfyUwkNGinuxsU3s0NkLrWOOEUeAHoS5cfFm198NlNCu1Ty42El50",
    "posted_at": "2026-11-28T14:34:50+00:00"
   },
   {
@@ -566,6 +566,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/137967783260?_skw=ssd&hash=item201f854d5c:g:1e8AAeSw8k1rCZ04",
    "posted_at": "2026-11-27T15:10:24+00:00"
+  },
+  {
+   "title": "Carte mère Lenovo ThinkCentre M700 IH110MS 01AJ167 LGA1151 DDR4 Intel H110",
+   "model": "MB:H110",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 31.14,
+   "shipping_eur": 6.99,
+   "effective_eur": 38.13,
+   "median_eur": 47.95,
+   "discount_pct": 20.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · infocaze (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr4ewP0urqfdaqbF4HdW9tK1d9MxLJIvHVlhd%2B%2FmLbijLRAhb9CwMYFwhBqo%2Bg0NjL4ZuXwgENaC6oLZkSzUdG6LT%2FkxB7mgWeQEXijYAT8eyBIlBbzffJbVIZSjiKsFGP2%2BcO%2BbmGj4Y8H711LWRKAbJBsbTuAUcO9wdFWNbhUeeQ%3D%3D",
+   "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
    "title": "Disque dur NVMe M.2 PCIe Gen4 DigiEra - 1TB, 5100MB/s (vendeur tiers)",
@@ -617,6 +634,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/237194296918?_skw=ssd&hash=item3739e1be56:g:P3IAAeSw45trABxZ",
    "posted_at": "2026-11-20T10:13:01+00:00"
+  },
+  {
+   "title": "SSD M.2 NVMe PCIe 3.0 1To 2To 3500 Mo/s 2280 3D NAND Disque Dur Interne PC Neuf",
+   "model": "SSD:NVMe-1To",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 122.99,
+   "shipping_eur": 0.0,
+   "effective_eur": 122.99,
+   "median_eur": 149.99,
+   "discount_pct": 18.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · mazkar55 (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137956127354?_skw=ssd&hash=item201ed3727a:g:Tu4AAeSwq-BrBGVt&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nqQIpqCikli25aQCQrWSei29nqupAhIz9C2Bwzh1Vp7vEvAXfwEL8QDfm%2BkZ8T97LQhH4UEGvnA44uxsW%2F3M1Im2pRpfe7RfDRXuZGlmT%2BFjZT9bg7QF1QNZamVlyUJXOj1L9rfdSLMTJP7DYrSKd45L%2BItxYL%2F7K72T%2FMRaanLsQIPN5hplqJhzmYEwIyuXCCwgXeIklziyrWEOSMnPxehkpEG1JR5Qx14diqGxfYHJEnvJUZcA4z8thApbRshedA8cNucVrdkFvbggU5gavCruIGGZ692WTk3A8%2BrLQ7oA%3D%3D",
+   "posted_at": "2026-11-23T16:10:19+00:00"
   },
   {
    "title": "Kingston KSM24RS8/8HAI/8 8 Go PC4-19200 (DDR4-2400) DIMM Mémoire RAM memoire ECC",
@@ -858,7 +892,7 @@
    "title": "Micron RAM 8 Go DDR4  PC4-2400T  ECC Unbuffered (UDIMM) - MTA9ASF1G72AZ-2G3B1ZG",
    "price_raw": "26.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSkCPZUgeeImBDH0o3RLi44pC62oux0OBta%2FaNMKZFq39N11hbdlZ4Vq%2BeNhnFXQJxfwlZqWaKWR2GrtC7%2FTLby8VQc5xCYZPAvGeHordmdc%2B%2FzxrM3KmtC6x8YfI9k31DFjdSnK4G8WW2aGrsVoR8CU",
+   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSlEPrWyJsEVpj6DBP8UDtSxgZ9KmYYdbgYAGGWGlD9OxG8y7RHOXbj5CWpu1YJIkkVjCne6AJw7OU1xXJEIU2lxsKl7SGcyuDcBpiajhGQbl7eMzvYw%2FZp6ycv%2FPmFIjEF7WIVtYo8PIolQaTSB5zM8",
    "posted_at": "2026-11-28T13:47:46+00:00"
   },
   {
@@ -893,14 +927,14 @@
    "title": "Mémoire Ram Serveur Ordinateur DDR2/3/4 1-16Go 667/800/1333/1600/2400/2666/PC3,4",
    "price_raw": "74.95 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/374365314289?_skw=ddr4&hash=item5729e95cf1:g:ZpgAAOSwby5jemUd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k9EfGKaVqboMOSgkpMm3z27%2B%2FOeihq84tAfWbqdio8trlkwbB3K%2FIulFU7S1hnTeDJMXweBeu3VOUFnSAAsyEFbcRS%2BZ9OihOgy9noBjAOfL5%2BmDyeK7Amk2VGINLK%2FLT9ZUrtblLw17%2BA%2FSUtdbieWFReHtUexmm%2FiobMSbeFE%2Fx%2BTCYml0czLRtey6ZEpCi9NwYrOd%2BLjlK%2BTMFy30uj%2FcykFyr5G0bM%2FT8DqEeGzZTvxH7Nque8f4eK5TYeK6FP56g2nhtFHAzMwCHwa7lf",
+   "url": "https://www.ebay.fr/itm/374365314289?_skw=ddr4&hash=item5729e95cf1:g:ZpgAAOSwby5jemUd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k9EfGKaVqboMOSgkpMm3z27%2B%2FOeihq84tAfWbqdio8trlkwbB3K%2FIulFU7S1hnTeDJMXweBeu3VOUFnSAAsyEFbcRS%2BZ9OihOgy9noBjAOfL5%2BmDyeK7Amk2VGINLK%2FLS9edjUx69%2Fk9%2FRxuX1z%2FZAS0HKeSscX3xlNs0kydZSsPnBTbMF7hVnYlfNLoIKXmV7vUP%2FNAbGeAUM8Cmfz20R2IW1qG7qEuLlUPIMK%2BO2OCroO6k2goctbTqbYxN%2Bit5%2BniKCNNw8Kgh6dMUsYIte",
    "posted_at": "2022-11-20T18:01:59+00:00"
   },
   {
    "title": "Logitech G915 X LIGHTSPEED TKL clavier gamer illuminé AZERTY FR sans fil noir",
    "price_raw": "99.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206732402495?_skw=clavier&hash=item3022361f3f:g:ynkAAeSwsqZrCsGP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRL97d4Ocmeir%2FrdPfscnJuEDMC6MYyS4rAPPu8BZKeNEiIjzjvGbsj66JdGC634RdWsnSIp3T9D1W2HGUR1Dnrey4%2FiI6T3aaf%2Bny8EEIFUCJCwtgaB7qo%2BBlJdgSKpomdgEGCEPT6%2F78UuBUISEeLuv409v0vs1uQecuxMrAw1I3ytEL%2FONRviKANEbO4XTI1FyimyO4Y%2F0FyG%2BEMygfDTEoyibaYBc6%2FC%2F47%2Fq0DrLYE3YN945D3pVKpjbxxzklSJj%2FmJBX%2BwXIkmb2LiZfaBOcxwBXe7SoonwQWTrmxg%3D%3D",
+   "url": "https://www.ebay.fr/itm/206732402495?_skw=clavier&hash=item3022361f3f:g:ynkAAeSwsqZrCsGP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRL97d4Ocmeir%2FrdPfscnJuEDMC6MYyS4rAPPu8BZKeNEiIjzjvGbsj66JdGC634RdWsnSIp3T9D1W2HGUR1Dnrey4%2FiI6T3aaf%2Bny8EEIFUCJCwtgaB7qo%2BBlJdgSKpomxRBxxgKJvR8lL19%2FBdLKKbdlQV%2BuI%2Bl0Lkd8diFF%2Bmno%2BkNpzcMEVAAAPyp%2FKEDPeGqPPkguN34xYtrdH91vTx%2FZ6Ev%2Fa3jsmCOf8%2BuYPfZJYDhs44AElcGY9CdHsrgQnbnxYEXUAF1pYcaMnOAiJ%2FsEw%2BLCBo9%2FTx89ITYA1w%3D%3D",
    "posted_at": "2026-11-28T11:57:27+00:00"
   },
   {
@@ -1005,7 +1039,7 @@
    "title": "GIGABYTE Carte graphique gv-n6700c-2gb-rev-1.0",
    "price_raw": "56.86 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nZZEnnxi1PLcE65AImlyouo%2F0w5DtTB1vybp8EWbdbDVnnYChw5kvnVttgj3BUDcAsaYlX%2B5%2FerhOXdYSuxH21a7hX5gF8b%2BmZEPrcRgabKTwWL%2Fm6ppt1nI60Mg8GUklXkYNBqTWlpfsyMPPpcjacU%2FsVL53FB2QxC%2B8QU0ChVXg%3D%3D",
+   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nadOuYzpzpEGR7huiQ%2FqAzH0nRJcTH4JyMHsQEBQGEKTvVXWxbrHm4zT8R2hAwsy6M%2F6F2Sp%2FY9R7KnOeP45y0v9uNSK2kuR2czlzZ5a1ZJMZbu0uN1DFUXoU9vSPSKtkdwWZdat0i0c0jH%2F2US4Vphb0LP3qn2UtljIXy1%2FNuUMQ%3D%3D",
    "posted_at": "2026-06-04T12:48:52+00:00"
   },
   {
@@ -1108,7 +1142,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1998,
-  "models_with_reference": 87
+  "listings_seen": 1994,
+  "models_with_reference": 89
  }
 }
