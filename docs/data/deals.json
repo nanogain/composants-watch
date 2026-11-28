@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T23:38:00Z",
+ "generated_at": "2026-11-28T00:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 340,
-   "last_ok": "2026-11-27T23:38:00.626743+00:00"
+   "items": 338,
+   "last_ok": "2026-11-28T00:08:00.678755+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 382,
-   "last_ok": "2026-11-27T23:38:00.626743+00:00"
+   "items": 388,
+   "last_ok": "2026-11-28T00:08:00.678755+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-27T23:38:00.626743+00:00"
+   "last_ok": "2026-11-28T00:08:00.678755+00:00"
   }
  },
  "watchlist": [
@@ -207,7 +207,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuypRUmIsE3zJu8KTenSYm5cWVIgXYc8AASmhPvOgF5ry9ZcpzU5u4awAwuu6RKU1nX2H%2FDPQf19r%2BO77YXRESVwXcb76DR3XPLfWF%2Fsafxq%2FDeSj094FCEiGIYILrIkvaz1gloHUw%2Fl1yIIIctaCDr7",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxe%2FrRWpUK8lWeHGd6gPqO3vCn8uuGwZkaNC6JvwVIN6X2RS%2BAg1aNO2I3aqpM98wlKRM6ZRLhPQvdwRHkvxVmJayVf0U6cMuxyMtOfwuhv8sWkteoUkdEakpN6m8LrX0X42Bilpib%2BIMUBQiPTxtjY",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -226,23 +226,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
    "posted_at": "2026-11-24T11:41:43+00:00"
-  },
-  {
-   "title": "disque dur SSD Interne,  2,5\" SATA III 6Gb/s SSD 128Go | 256Go | 512Go pour Pc",
-   "model": "SSD:SATA-128Go",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 25.9,
-   "shipping_eur": 0.0,
-   "effective_eur": 25.9,
-   "median_eur": 39.9,
-   "discount_pct": 35.1,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · bonoitec-france (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7EL3wrbx7qOrb0NQx5VzW27Ax%2BTuezQ8thHl5XPUBl1jGlToX3zRa1saJJxQl53chL9ovLRDr6n0SVMo%2BnI5iZ9ahDjrKfPCunkcSwNlzW6zZeWYJIPo1a6X9t4Lyb4USwqye3PHy%2FbZXl70aya2cBq",
-   "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -449,6 +432,23 @@
    "posted_at": "2026-11-21T20:54:35+00:00"
   },
   {
+   "title": "SSD SAMSUNG 870 EVO – 250 Go – SATA III – 2,5” - Occasion Testé",
+   "model": "SSD:SATA-250Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 28.73,
+   "shipping_eur": 2.78,
+   "effective_eur": 31.51,
+   "median_eur": 39.88,
+   "discount_pct": 21.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · matthieu2278 (100,0 %, 102 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/137967783260?_skw=ssd&hash=item201f854d5c:g:1e8AAeSw8k1rCZ04",
+   "posted_at": "2026-11-27T15:10:24+00:00"
+  },
+  {
    "title": "Carte mère Lenovo ThinkCentre M700 IH110MS 01AJ167 LGA1151 DDR4 Intel H110",
    "model": "MB:H110",
    "category": "MB",
@@ -462,7 +462,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr7We5DLjheXOZK6eWvfFaa4AUOl3Qir4AsrzTXoFtS8QqhFRrlNYUSKhZlEja3acziIioJdu0Fy3Tbv%2BI%2BjJH3%2BEprN2XHvG1a2M7y2zt9PcPs6t5%2FPEu%2Faj%2BhJ0Wci16CAQ3lS05Krz9R%2FpyZe0m77H5C8l%2Fvqs5SEkFvTH51Bug%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr6xCjsEan701QUM3KgxUMCEfGpowZf5JPrS0lU7zzfUw2tXyXfCKy010xhrCPNfT2uQwoZ6AyXcPd9Je6xg%2BR8przYgtY%2BiD3KR2hGGa8AAJFjdRApSBsicnWJBdTvldCRqJugXgI0orAsFm69HAEwju72BDWnWxOFoKPHYGPXLIw%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -498,6 +498,23 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/digiera-1tb-nvme-m2-pcie-gen4-3471234",
    "posted_at": "2026-11-27T04:24:07+00:00"
+  },
+  {
+   "title": "Crucial P1 SSD interne M.2 2280 NVMe PCIe 500 Go CT500P1SSD8",
+   "model": "SSD:NVMe-500Go",
+   "category": "SSD",
+   "condition": "used",
+   "price_eur": 63.65,
+   "shipping_eur": 2.78,
+   "effective_eur": 66.43,
+   "median_eur": 82.77,
+   "discount_pct": 19.7,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · boiteachiner (100,0 %, 234 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/327454930674?_skw=ssd&hash=item4c3dd5b6f2:g:SqoAAeSwy59q9513",
+   "posted_at": "2026-11-13T23:31:02+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -689,6 +706,27 @@
  ],
  "unclassified": [
   {
+   "title": "Écran PC 27\" TCL 27C2A IPS, Mini-LED, 4K, Dual-Mode (gentlemates.com)",
+   "price_raw": "349€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-tcl-27c2a-mini-led-4k-3473221",
+   "posted_at": "2026-11-27T23:49:55+00:00"
+  },
+  {
+   "title": "Intel Xeon E5-4607 6X 2.20GHz Socket 2011 6 Cœurs Processeur CPU",
+   "price_raw": "14.97 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237212436622?_skw=processeur&hash=item373af6888e:g:plcAAOSwXIpgUOOn",
+   "posted_at": "2026-11-27T23:39:25+00:00"
+  },
+  {
+   "title": "Processeur Intel Xeon E5-2620 6X 2.00GHz Socket 2011 6 Cœurs Max. 2.50GHz",
+   "price_raw": "7.21 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/237212436642?_skw=processeur&hash=item373af688a2:g:CxkAAOSwtHxiusq6",
+   "posted_at": "2026-11-27T23:39:25+00:00"
+  },
+  {
    "title": "Souris Gaming Filaire Asus ROG Gladius III - 19000 DPI, Noir",
    "price_raw": "49,99€",
    "source": "dealabs",
@@ -769,7 +807,7 @@
    "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
    "price_raw": "71.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR45BVhl%2B1qalC%2B3Sq8QFLLLR9hddAXTQd63bWOxDGNzHoOV9eOBjrSEd%2FSWEZSmPzsUVcvurmXOqJA6kz38g4XcjR4LW%2FrD3VnInlf9ouFC8K8LvppDHq3pIDZyPUABPXVo4z9JC9SnKr6iwwFGfYU5qHOkiDvw%2BcCnsjRhv6inXA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR5nPeTPPqO8TXIhl8KBpaRKcGfQoUTpOQ6nXFMaKQnu2HFqbzTwQ4B5DgoWu%2F4gAMM3CPF4k9QUUaXvcT5j308uj0S6fdo0dvkAQbr9zHblyww8tveHzxzf7qNEwJmLurGcUo%2FSMZoLrmzlGvD131IJVlOVOGTEG7NgfBOp8xZjJw%3D%3D",
    "posted_at": "2026-11-27T20:43:03+00:00"
   },
   {
@@ -1016,31 +1054,10 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/ssd-externe-samsung-t9-1to-port-usb-c-3472450",
    "posted_at": "2026-11-27T14:10:07+00:00"
-  },
-  {
-   "title": "PC Portable 14\" Macbook Pro - M5, 16Go/1To, Noir",
-   "price_raw": "1 899€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/macbook-pro-14-pouces-m5-16go1to-noir-3472440",
-   "posted_at": "2026-11-27T14:01:28+00:00"
-  },
-  {
-   "title": "Refroidissement PC MSI MAG Coreliquid E360 ARGB Watercooling - Kit for Intel & AMD CPU",
-   "price_raw": "74,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/msi-mag-coreliquid-e360-argb-watercooling-kit-for-intel-amd-cpu-3472408",
-   "posted_at": "2026-11-27T13:50:24+00:00"
-  },
-  {
-   "title": "Souris gamer sans fil Logitech G PRO X2 Superstrike Lightspeed - capteur HERO 2 44000 DPI, 61 g, 8000 Hz, 90 h, Eclipse lunaire",
-   "price_raw": "99,99€",
-   "source": "dealabs",
-   "url": "https://www.dealabs.com/bons-plans/souris-gamer-sans-fil-logitech-g-pro-x2-superstrike-lightspeed-capteur-hero-2-44000-dpi-61-g-8000-hz-90-h-eclipse-lunaire-3472396",
-   "posted_at": "2026-11-27T13:42:38+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2030,
+  "listings_seen": 2026,
   "models_with_reference": 89
  }
 }
