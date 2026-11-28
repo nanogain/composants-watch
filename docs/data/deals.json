@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T06:38:00Z",
+ "generated_at": "2026-11-28T07:08:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 339,
-   "last_ok": "2026-11-28T06:38:00.669028+00:00"
+   "items": 340,
+   "last_ok": "2026-11-28T07:08:00.681834+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 390,
-   "last_ok": "2026-11-28T06:38:00.669028+00:00"
+   "items": 387,
+   "last_ok": "2026-11-28T07:08:00.681834+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-28T06:38:00.669028+00:00"
+   "last_ok": "2026-11-28T07:08:00.681834+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · mazkar55 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba7lQc%2BFw6D7pppIEvFTfBXtvwQenkGTmPq7AbaPvdzLwLFMEG%2FgCQOcjS%2FxPfZ0GprAmXmaH1hDES54AySOPAD7OuOhvBJW2TyoXUz8clYUPIQI4PZXwyiezHbWZu5DIGMA2ZJEh1PzEivataR738Y1",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba6cRNS%2F5HF2bjNhsXupGwcQm7u4UMfLgOWbQpzPjQb4EopZ5T7w3Ew2AS3q7QQ%2B0is0NwcX7pcn1W2muRS9dyFodDCwue7WcuQYkJyOxR8TT1wE%2FYeTBuABGoLjsUqprr0L7bYOQ9gqacfmidstd1br",
    "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
@@ -211,6 +211,23 @@
    "posted_at": "2026-11-22T22:16:21+00:00"
   },
   {
+   "title": "Alimentation PC ATX HK380-12GP S2 280w",
+   "model": "PSU:280W",
+   "category": "PSU",
+   "condition": "used",
+   "price_eur": 10.8,
+   "shipping_eur": 5.6,
+   "effective_eur": 16.4,
+   "median_eur": 26.89,
+   "discount_pct": 39.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · amilthon44 (100,0 %, 718 avis)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/256848787825?_skw=alimentation+pc&hash=item3bcd617971:g:bIMAAeSwyENnzHUm&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kOWb%2FsMViw70DxEbaQ6xui1ILi0j6ZfgCKxbUGBftNz8GNwUlNsxyAkA9HujFdCc4VquhoGH9ZJgfysjCRx28cDw7ehr%2FaUv88YdcBlgb%2FSldQATRraWNkzZltn1WtK%2B%2FV9SpELOxd7mDLH8G%2FcyEJUqCTQoQgNUaT3iNMGzafHy0popwLNsQ3CDM2jqHldzixv7azU6vOiOupFmUR2N5c4UJs%2FeaemMTQHrEODNgnVwAIByEOIzEj2EVIdm1kTmqrmrKLYo9tg1bJFjpcSKEybQue1DZswEIuM37ENZllpQ%3D%3D",
+   "posted_at": "2025-03-08T16:56:06+00:00"
+  },
+  {
    "title": "Mémoire Serveur SK hynix 16Go DDR4 2933MHz ECC  PC4-2933Y - HMA82GR7CJR4N-WM",
    "model": "RAM:DDR4-16Go-2933",
    "category": "RAM",
@@ -224,7 +241,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzVTG9hNet%2BLGm8hM4vjeWm8QSMcVdyoIbIEVH8non98e4Stgn45skeliw1gbTbSlIbf8AU%2FK3YFVvoRIvalGUByCtC8SSV2vSJACyhxEhxv6O0w1IyhcBklYjkj0ubKV1YbgG%2Fh4SaUQIGRuaEoetm",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxKeCNF658h7fzh%2FIuT7p6RRs872HO8rFN0Nj6%2F2WDIWHcjG0YX0LGlgCUhYkaZTkZQlDwiMaITIxD%2FkXtafjZRn07j%2FQiDaWocLBLeNYTbzB9j9QhiEmuHE7SI185wTbw5%2BaOo%2FtMfExjNDG5PvR0Q",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -258,7 +275,7 @@
    "suspect": false,
    "merchant": "eBay · bonoitec-france (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7Hv46Gj00In8XO9q5i%2F4jJez4ZLxUPvCGa09%2BZ%2BoQC2cGZ5GaKkaLHrdPFuNslSjWem8PP2pglMm9H6K7risWrxJVPSomzxIPMa%2BZfgmmbBECMf8xKxDlPEdQUiMdcIogJiaBv3p9JbyUM%2F049YuBHi",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7EGGyzSUhBnV2QxxwqcsiY4MmMsF3ErmagG4aQ4wBd4xuko1vP5f0qfDYrwAc1KSLKyasmAepA6T%2Bv8l5hlmEUu41QBtDqeeNr9Qi9Fbt2QiimjoReZnawB46OtAhewfBVoF4SoFXtNf5fyeFPQnvJv",
    "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
@@ -513,7 +530,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr4YTHy83A7YikITT28pa4CWPIHLxz3JDwflGB2daxk1Gl1Y2Q0tka7Zqt2SMZk40a44MHEV87R3FOtlzrps0B6Zk3NPAq3dwN5xerm6cUXh19Be%2FIUg%2BsCMoSgEZe0tTvQkXZwJ%2BAFxxoyMYb1nAeEkHP3WBgHyfWNwr9vpM6cC9g%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr6gs6NkzdCwFzj6yCO%2BAQEI13GmEJbdiN%2Bog5ojw3DW%2BKoFwK964KEH8vtybnppTn13PZ1x5Xbo0FYcdH7YlWDphnaPQbqI%2FDOOF0jqXn8v8ONRMHwXc4UmeU%2BZ09%2Fp2%2FoknfdCdZkK6XB%2BjxeagFlAOeVocMqTtZMlb6hnqbqQhQ%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -757,7 +774,7 @@
  ],
  "unclassified": [
   {
-   "title": "Tablette 10 Pouces Android 15",
+   "title": "Tablette 10\" Android 15 - Avec 30 Go RAM + 2 To ROM Ext, Widevine L1 (Vendeur Tiers)",
    "price_raw": "99,99€",
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-10-pouces-android-15-3473288",
@@ -865,7 +882,7 @@
    "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
    "price_raw": "71.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR4THaNLuZXZefBX2tRIhmmpCwOWD2hDFZAUhqJGlVLslGM%2B2RuM2%2BKg%2BPiRFnsRdy7bmQL%2BJiS5Xf9PambxMwFnYGtiPqOvu9Z8QpogV4xFOPSybn3OMTlHtIGBQnU0vSJJ0ukZRVlP67TwYwg02qZw4pkxtTaF3IRNNOfFtAiLnA%3D%3D",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR6YmCMOLTQqOF0PepinY81GhBdEHlkD%2BDzOd8AB95xi3g%2FLfmvsF6kiTSlTGkKItE1RzNXuHhUEhrQIdxPhKU%2FQ%2BZ8ryk2xFJAi8DZe1xRVwdPrXF0BAKRuLBiKYEhm5E%2F%2B26RnsTdVxdOO9BpFQkVp5RaNHLlMMJBO2NqTGYLFog%3D%3D",
    "posted_at": "2026-11-27T20:43:03+00:00"
   },
   {
@@ -1108,7 +1125,7 @@
   }
  ],
  "stats": {
-  "listings_seen": 1987,
-  "models_with_reference": 94
+  "listings_seen": 1983,
+  "models_with_reference": 95
  }
 }
