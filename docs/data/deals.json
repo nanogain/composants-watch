@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T16:08:00Z",
+ "generated_at": "2026-11-28T16:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
-   "items": 333,
-   "last_ok": "2026-11-28T16:08:00.667906+00:00"
+   "items": 334,
+   "last_ok": "2026-11-28T16:38:00.624311+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 378,
-   "last_ok": "2026-11-28T16:08:00.667906+00:00"
+   "items": 373,
+   "last_ok": "2026-11-28T16:38:00.624311+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
-   "items": 74,
-   "last_ok": "2026-11-28T16:08:00.667906+00:00"
+   "items": 80,
+   "last_ok": "2026-11-28T16:38:00.624311+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · mazkar55 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba4nBneBO0QQKT5tA%2BwqcEMmDKVTCH3rrbhq%2BkVlDf21UETeEeOJzcj1%2BGs6fM5ZY7xKQjSFzqOWK%2BKHoG%2Ba9rpJfQtkEEoqI3GeUF9DFVFKzN7QEKk8MIG%2BZNTlrcQlqvHUYR0gI3K8OvWf4AoRjI2d",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba6SuOr0kLaj9aQ%2FFjZ3ljW%2BfMLJcksacQV9nIWIjQwvA0ICr7ezdPR2gMWkQeh8FQy8JcR6fSTG7XNy%2Fvv3x%2Bm2uy1EXZNpmA0nFK1N1TDQXiNzsUgC58EMzwjIM8rr1%2BR9%2BOqao1BKByI1rN90maSE",
    "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
@@ -415,6 +415,23 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
+   "title": "Carte graphique Inno3D GeForce RTX 5060 Twin X2 V2 8 Go GDDR7 DLSS 4",
+   "model": "GPU:RTX 5060",
+   "category": "GPU",
+   "condition": "new",
+   "price_eur": 499.99,
+   "shipping_eur": null,
+   "effective_eur": 499.99,
+   "median_eur": 675.27,
+   "discount_pct": 26.0,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "Grosbill",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/carte-graphique-inno3d-geforce-rtx-5060-twin-x2-v2-8-go-gddr7-dlss-4-3473854",
+   "posted_at": "2026-11-28T16:09:31+00:00"
+  },
+  {
    "title": "Intenso TOP 1 To SSD interne M.2 SATA III 550/500 MB/s P/N 3832450",
    "model": "SSD:SATA-1To",
    "category": "SSD",
@@ -447,23 +464,6 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/800968437136?_skw=ssd&hash=itemba7d706d90:g:rnMAAeSwINxqcLKz",
    "posted_at": "2026-11-26T08:21:47+00:00"
-  },
-  {
-   "title": "SSD M.2 2To PCIe 4.0 NVMe 7200Mo/s PS5 Compatible 2TB 3D NAND Interne Disque Dur",
-   "model": "SSD:NVMe-2To",
-   "category": "SSD",
-   "condition": "new",
-   "price_eur": 215.99,
-   "shipping_eur": 0.0,
-   "effective_eur": 215.99,
-   "median_eur": 289.62,
-   "discount_pct": 25.4,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · mazkar55 (pro)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137963202238?_skw=ssd&hash=item201f3f66be:g:RG8AAeSwhCZrB3ux&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7me3hm7kekzCoShSqUkcCLoeRfWMuUB77e7bqjg24jOe8Kz0c1s9VNA571wrZ3dWEf4VePmHXcLyVgq4YhyfH1YfGk2prgn%2FpBoAi7%2FFZP40a1hTsqDay%2BPTBlN%2FQ3mUTr6sIqu5VsjryBLIF%2F93yiY%2BWlDggTSpnAY%2FmlvtQ2yEdlVtL3TeW8%2FE6cqeSYdAvKbXkOoD%2BGFbXpgB5DYEiWtpHhKkC%2FgTWrFSV4Bd1jU3qlqXo9t40XsenPAflbopL3qpoKLVKQ2d2MURbx8XxaRnOTw8JleeNxLNCODgT6dUA%3D%3D",
-   "posted_at": "2026-11-26T00:22:05+00:00"
   },
   {
    "title": "SSD interne Sata 3 Cusu - 1 To",
@@ -513,7 +513,7 @@
    "suspect": false,
    "merchant": "eBay · machodam95 (100,0 %, 686 avis)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/960249906722?_skw=ssd&hash=itemdf935ac622:g:YhcAAeSwsHJrCuQR&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGGfkboMjVJmp7%2FBPzQlqo2EHRdrBjaoWTmLKfChcGGoHvIqDk1SIeOe426RGiY9H5fYct8RFzQ9TGlgmD3kwuqceQLdAy8%2FvlP%2BNSPDZmCS2BkwtHXxp2q6DIk6jZFYiZ6dtBoTvSzVikPB1B6xp3Wg%2Bdngs6QPbJNfl9aRvM7%2F8GNGhT8xh3Zh7yqgf5JYDxhUz8neipn4fqZwVNUWPDX6Qgt%2Bysg9ngTibwNf61jOUyDD1wLPbkgBjCqxKRmDbytfEwScas%2B%2FgS6kUgCeBw",
+   "url": "https://www.ebay.fr/itm/960249906722?_skw=ssd&hash=itemdf935ac622:g:YhcAAeSwsHJrCuQR&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGGfkboMjVJmp7%2FBPzQlqo2EHRdrBjaoWTmLKfChcGGoHvIqDk1SIeOe426RGiY9H5fYct8RFzQ9TGlgmD3kwuqceQLdAy8%2FvlP%2BNSPDZmCS2BkwtHXxp2q6DIk6jZFYhbXSV71XbEA5amagU%2F7b%2FI%2B49iP1ijyOVRVeMjRIG%2Bv3E0J081v1Tp9c2zZkTGWxb2HvMVOQPjEu7i0Ho8M%2F4F%2FAGjTqFH8L%2FOOi8TUI%2BtsZ8E0TpWhb2YAPl6lTGpgpo4sNgFeMm%2BKWaUu0SWXwdD",
    "posted_at": "2026-11-28T14:34:50+00:00"
   },
   {
@@ -549,6 +549,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/137967783260?_skw=ssd&hash=item201f854d5c:g:1e8AAeSw8k1rCZ04",
    "posted_at": "2026-11-27T15:10:24+00:00"
+  },
+  {
+   "title": "Carte mère Lenovo ThinkCentre M700 IH110MS 01AJ167 LGA1151 DDR4 Intel H110",
+   "model": "MB:H110",
+   "category": "MB",
+   "condition": "used",
+   "price_eur": 31.14,
+   "shipping_eur": 6.99,
+   "effective_eur": 38.13,
+   "median_eur": 47.95,
+   "discount_pct": 20.5,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · infocaze (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr7B%2FrPFve3geDlBJqPPmtvL1tccGr5KDdO90IR0hxIFW3i7J0VI97P%2BEl0sjanu33Qpm5g%2FG3jnYgLPGy%2F5bku3xvlVPsjOn%2FGjtxcJmvUN%2FHj2RRLTHLWwDXk5u4zYiJCUzyEiatAMIbz8SuXRUrgxtYndtHM77sxsA6l0g%2FLQUA%3D%3D",
+   "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
    "title": "Disque dur NVMe M.2 PCIe Gen4 DigiEra - 1TB, 5100MB/s (vendeur tiers)",
@@ -740,6 +757,20 @@
  ],
  "unclassified": [
   {
+   "title": "Routeur MSI Radix AXE6600 WiFi 6E tri-bande WLAN jusqu'à 6600 Mbps (6/5/2.4GHz)",
+   "price_raw": "79,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/msi-radix-axe6600-wifi-6e-tri-bande-wlan-jusqua-6600-mbps-6524ghz-ai-qos-mu-mimo-beamforming-wpa3-wanlan-25g-4-x-ports-1g-3473865",
+   "posted_at": "2026-11-28T16:21:31+00:00"
+  },
+  {
+   "title": "Samsung écran PC 22\" LCD blanc FHD 1920x1080 60Hz 2ms HDMI USB",
+   "price_raw": "61.02 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/800977828471?_skw=%C3%A9cran+pc&hash=itemba7dffba77:g:uzcAAeSwdGVrCv1o",
+   "posted_at": "2026-11-28T16:19:02+00:00"
+  },
+  {
    "title": "Ventilateur PC AG 620 Deepcool 120 mm - Noir",
    "price_raw": "28,99€",
    "source": "dealabs",
@@ -810,17 +841,10 @@
    "posted_at": "2026-11-28T13:50:20+00:00"
   },
   {
-   "title": "Carte graphique sapphire HD 6870",
-   "price_raw": "15.61 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/267857141296?_skw=carte+graphique&hash=item3e5d879e30:g:DCcAAeSwMKJrCt6V",
-   "posted_at": "2026-11-28T14:01:51+00:00"
-  },
-  {
    "title": "Micron RAM 8 Go DDR4  PC4-2400T  ECC Unbuffered (UDIMM) - MTA9ASF1G72AZ-2G3B1ZG",
    "price_raw": "26.20 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSmlrIkg0KsUaBJN9a4Qsxyl3wKvTmf2FCtiIDIJpkw7Po%2B3ywUOcUCdnXAoaw5yzROLJjpe1Fm5q9ajwh9RRy%2BZH7kheyR6xkZmwaUaWgjaYZH9T7UC%2BKHeFP3prh83Bu3zQOWBNyDoTND%2FdAJLfG5c",
+   "url": "https://www.ebay.fr/itm/206732621818?_skw=ddr4&hash=item30223977fa:g:Fl0AAeSwgmdrCttP&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7kG1xUFgJK8ZwA45uH408edEPY5rFUKjXN3zRm9awJ34SNtvvMh0dcGXHl%2FSNb7KIKWfvQCnWg1MfEgaGl5CQwzjbhD%2FYZCdmISX%2FKBzh0G4IMTNWeEsyfYFuAWVJXArSkopylEQjxDEddHN1Cp%2B3XS24e3ZsMU9S3hNrQMeXqao1WcO%2F%2BkHwW9uIDmxkl2y9%2FvMbyp8PGlkYKmegTP1GPoWT5rYs5Y2vOqOBtPuZBmi8vrEORUbSG147PRQl1hfJa%2FXFv6JntwnPJ1X66r%2B%2FVy",
    "posted_at": "2026-11-28T13:47:46+00:00"
   },
   {
@@ -852,10 +876,17 @@
    "posted_at": "2026-11-28T13:06:56+00:00"
   },
   {
+   "title": "Mémoire Ram Serveur Ordinateur DDR2/3/4 1-16Go 667/800/1333/1600/2400/2666/PC3,4",
+   "price_raw": "74.95 EUR",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/374365314289?_skw=ddr4&hash=item5729e95cf1:g:ZpgAAOSwby5jemUd&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7k9EfGKaVqboMOSgkpMm3z27%2B%2FOeihq84tAfWbqdio8trlkwbB3K%2FIulFU7S1hnTeDJMXweBeu3VOUFnSAAsyEFbcRS%2BZ9OihOgy9noBjAOfL5%2BmDyeK7Amk2VGINLK%2FLQK%2FKfPOWQMHPm604WZl99qIlFGeR6whSPdVsZfFRPSQM32NBDwer5z0Kt2xsTWbthAb8T19aytvSzur%2FOjuPZH5UNFhV%2F8s2JlA5wwz6NnyJzCC6FYbeNRSTkgN1mYdpeY1NRFsjeDSJr6dfUdbTII",
+   "posted_at": "2022-11-20T18:01:59+00:00"
+  },
+  {
    "title": "Logitech G915 X LIGHTSPEED TKL clavier gamer illuminé AZERTY FR sans fil noir",
    "price_raw": "99.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/206732402495?_skw=clavier&hash=item3022361f3f:g:ynkAAeSwsqZrCsGP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRL97d4Ocmeir%2FrdPfscnJuEDMC6MYyS4rAPPu8BZKeNEiIjzjvGbsj66JdGC634RdWsnSIp3T9D1W2HGUR1Dnrey4%2FiI6T3aaf%2Bny8EEIFUCJCwtgaB7qo%2BBlJdgSKpoZE7xZofa8vA2oO7XuQfh0xpI3oqSQAEtymt9%2FOaHVH%2BTebOS8ZtBM7iXf5K5AjKkcVMNunn7Sxdfq9hdPjy00F2BYAc99WnPPkjUA%2FHRqkwm0idp9YgE3OSEhzSUkjDo4RPdusU7oPzNfV7ZD5qmqnY3DZwMB91QLYil%2BUwoFLg%3D%3D",
+   "url": "https://www.ebay.fr/itm/206732402495?_skw=clavier&hash=item3022361f3f:g:ynkAAeSwsqZrCsGP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kRL97d4Ocmeir%2FrdPfscnJuEDMC6MYyS4rAPPu8BZKeNEiIjzjvGbsj66JdGC634RdWsnSIp3T9D1W2HGUR1Dnrey4%2FiI6T3aaf%2Bny8EEIFUCJCwtgaB7qo%2BBlJdgSKpppRof2VDD60u32Ah3wag7YV9HidnpCcd8GLP6ErUxqOlAv01r61Cpc%2Bjs%2B3dXHZSNybOvQNWtSyarGKG1jJr1m0PD9%2Bfc92RdxYTuNd7YO2JvbRoOXbwd%2FL5ya6xY0SO%2BayAediz1aPYBgJDDfxCuNr73A88zomD5bYmIVRc8VTQ%3D%3D",
    "posted_at": "2026-11-28T11:57:27+00:00"
   },
   {
@@ -960,7 +991,7 @@
    "title": "GIGABYTE Carte graphique gv-n6700c-2gb-rev-1.0",
    "price_raw": "56.86 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9naIIZdyZ97dpKJK5CmZGSmxyyOhzYvcmJ1bKU0brrfIChnKXxqDRTJTGnRzTaAWkWNSgAWBgumvnJOc80T6Mhds5YK1N6k2ibafeDZnQcBLfQSPSRWWxLmZD%2FgikX7R%2BE9qaVNuxAzeWzCrK3oHNgLprxzZfHd%2BXhM0JFje8kKHmQ%3D%3D",
+   "url": "https://www.ebay.fr/itm/366455233433?_skw=carte+graphique&hash=item55526f1b99:g:k3UAAeSwPZdqIXJX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0AWnrYIJMVfcdTdoQprr9eOk4ykPWK5O%2FidEvmzejs9ObkL3oSmTsAa9y1e25RN6xfARpiDo4Ogyd5M066c1kTOg%2B1zyDz8ETRqwWdmJVZDIDO8kxxFAl3Qj%2F93qI9nZXzk6wpchA5JVSxCWif%2BmFZjTRfc9Rn%2FA3drkZM%2BHHJGc0KeB%2BRMYU1XrPR2CxED9sRlIkJucqZRYGGsVeskdm%2F%2Bbd1KmJaNM1NAeavRWZpepJgv94iAsrfvugbaY6H8PXdwPtoVCvsKDK2%2BH9uOALgv4drQaU0rAuPB6lZq5MgQ%3D%3D",
    "posted_at": "2026-06-04T12:48:52+00:00"
   },
   {
@@ -1074,24 +1105,10 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/389132743455?_skw=boitier+pc&hash=item5a9a1e731f:g:3uIAAeSwaTpo-UTx",
    "posted_at": "2025-10-23T04:14:03+00:00"
-  },
-  {
-   "title": "CORSAIR VENGEANCE RGB DDR5 16 Go 5200MT/s CL40 - XMP / EXPO",
-   "price_raw": "199.00 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/336920122062?_skw=ddr5&hash=item4e720112ce:g:A2UAAeSwJ1ZrCfdz",
-   "posted_at": "2026-11-27T21:49:11+00:00"
-  },
-  {
-   "title": "Be Quiet! Dark Rock Pro 5 - Ventirad Processeur",
-   "price_raw": "113.89 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/335608688835?_skw=ventirad&hash=item4e23d630c3:g:UhgAAeSwvlRrCtLh",
-   "posted_at": "2024-10-07T23:27:38+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2000,
-  "models_with_reference": 89
+  "listings_seen": 1999,
+  "models_with_reference": 88
  }
 }
