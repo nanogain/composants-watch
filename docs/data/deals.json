@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T02:08:00Z",
+ "generated_at": "2026-11-28T02:38:00Z",
  "version": 1,
  "sources": {
   "dealabs": {
    "status": "ok",
    "items": 339,
-   "last_ok": "2026-11-28T02:08:00.622866+00:00"
+   "last_ok": "2026-11-28T02:38:00.687930+00:00"
   },
   "reddit": {
    "status": "down",
@@ -14,13 +14,13 @@
   },
   "ebay": {
    "status": "ok",
-   "items": 392,
-   "last_ok": "2026-11-28T02:08:00.622866+00:00"
+   "items": 383,
+   "last_ok": "2026-11-28T02:38:00.687930+00:00"
   },
   "dealabs_verif": {
    "status": "ok",
    "items": 80,
-   "last_ok": "2026-11-28T02:08:00.622866+00:00"
+   "last_ok": "2026-11-28T02:38:00.687930+00:00"
   }
  },
  "watchlist": [
@@ -105,7 +105,7 @@
    "suspect": false,
    "merchant": "eBay · mazkar55 (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba5t8AwKfv3OdmH6GREjF71uYERm5l%2FHg1OWYuZpaH%2FMTJCwE9P37y3OjmXUwO%2F7s7Buqk2uiPSMZWSBgUxA0uLmwT2TIp5FfSnW8ZgpFyN2mZZykhnnTbVxiGRCdw6gWseTGcl%2BibbPWOidb9Eyn%2B%2Bu",
+   "url": "https://www.ebay.fr/itm/137944961751?_skw=ssd&hash=item201e2912d7:g:pBMAAeSwmnJq~0Xh&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7meY7eA%2F8I6Pl1gbReO%2BBPBTwiSeO1Ywzh77PvEagMSM3wHEzLF8vwqwzNAusIc2roiQygnMcjqvd8VQ3ZpdST9uNIJzrbBI9pjkz5pubq12BOzfBJaLBvwu67Ts8ja%2Ba5deirQks%2BqjO%2FBlJGnrILGT7KEzJjI%2BhvbphMjOt5VrOWRYrua%2FHp8jgooEyT3BnMA5R1OuJm4LnX%2B5IO8RK5uxW8S6sB32NFDF3pQAZX0yxQQ7jPBrzmal95Xw4EYRyqs4IdyXF24PGVCKFmd736%2B",
    "posted_at": "2026-11-19T18:54:22+00:00"
   },
   {
@@ -224,7 +224,7 @@
    "suspect": false,
    "merchant": "eBay · tanzen_store (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuxGehEwx%2BVPwLk1nvaZhQvSkalLnFrO2pfi586MkT5tv6NULI93LMdJL1%2FrJKVvY%2FgNPh0%2FQgVB%2FI9B7i2aHMh8Q%2FqlKa8h%2BLvxBmkIympfbLpj7cdXeNWDBJ4MOKbNu6BdNzRBbd0ed8F1LU1T2%2FKZ",
+   "url": "https://www.ebay.fr/itm/257680338654?_skw=ddr4&hash=item3bfef1eede:g:IuwAAeSw-vNq6Fkm&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nbVzS3E2kewoCqMVjC%2BkK9tTzityeSFVd6Z4Rl6CrSFX%2B1jerkSqK4QVTJ9gMohlKWKdNA98qELWqFePjKbkPY%2BI5vkKDXdwJfUtT3YoRsnLqouyXmgxKdcm%2BvIICsjuzU0tZkw%2B5gwlSxDTJyCXP0eaeANzvit1ya8kLN3xX53nO274CiA58pCmnzUi%2FSUIA4HDmXKEo2tCP1BCRhl8MkBsLN6mY8Imyg1MxS37d9Zd73bJaSXlH3p%2Bt3i3GlOgkXKS9uGci4IhZub9Q5GK26",
    "posted_at": "2026-08-14T16:59:44+00:00"
   },
   {
@@ -243,6 +243,23 @@
    "source": "ebay",
    "url": "https://www.ebay.fr/itm/206724481718?_skw=ssd&hash=item3021bd42b6:g:9xoAAeSw1y5rBXep",
    "posted_at": "2026-11-24T11:41:43+00:00"
+  },
+  {
+   "title": "disque dur SSD Interne,  2,5\" SATA III 6Gb/s SSD 128Go | 256Go | 512Go pour Pc",
+   "model": "SSD:SATA-128Go",
+   "category": "SSD",
+   "condition": "new",
+   "price_eur": 25.9,
+   "shipping_eur": 0.0,
+   "effective_eur": 25.9,
+   "median_eur": 39.9,
+   "discount_pct": 35.1,
+   "target_hit": false,
+   "suspect": false,
+   "merchant": "eBay · bonoitec-france (pro)",
+   "source": "ebay",
+   "url": "https://www.ebay.fr/itm/375566480269?_skw=ssd&hash=item577181b38d:g:yaQAAOSwt29m1KL1&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7nGYl5uewTlfcyDsnU05NMTiCWZY0R1LytosgoUO4z9Mkx458kCbpXnwWa0M67dil2KuKjH96a22ByfFsEt1O%2BHsCfPX5g3d%2FmjUOYQP5OpNbQFB%2FOIVXuVasPdISlL%2B7H4GKyKxto6G7%2FpKYrNBkem35ezThyv0vxRFuPVwI7ocbNdxDGmhh5TgXhlL8%2FrDwi7HUg9IV6dp63WR%2F8XjI5XgmpC1NUX%2BK3BMcgSGjAkhx46I2GEHRDmRMrdBCdP0sc7OjNTYtZs0Zrz7pa1uxmf",
+   "posted_at": "2024-08-01T00:18:40+00:00"
   },
   {
    "title": "SSD interne 2.5\" PNY CS900 - 2 To",
@@ -364,23 +381,6 @@
    "posted_at": "2026-11-22T16:19:39+00:00"
   },
   {
-   "title": "Intenso TOP 1 To SSD interne M.2 SATA III 550/500 MB/s P/N 3832450",
-   "model": "SSD:SATA-1To",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 68.49,
-   "shipping_eur": 2.78,
-   "effective_eur": 71.27,
-   "median_eur": 96.1,
-   "discount_pct": 25.8,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · sophie56550 (100,0 %, 50 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/920192153727?_skw=ssd&hash=itemd63fb9f87f:g:Sc8AAeSwca1rCegS",
-   "posted_at": "2026-11-27T20:30:46+00:00"
-  },
-  {
    "title": "SSD 512gb SK hynix 2.5\" sata 3",
    "model": "SSD:SATA-512Go",
    "category": "SSD",
@@ -479,7 +479,7 @@
    "suspect": false,
    "merchant": "eBay · infocaze (pro)",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr6WZTCLHnBa2x58jvpwsfL0Axb93kgmtiVHcVJtGkgbbbR%2BXXYamUXvHS18CMiv3PHrEjHqVqblTpgqavlukXNaPxQgA%2FDD2lHD%2Fhel%2FN2ojY6GFrtE%2F2YXjSl3V5OjgOZ8fFesLxow4O7wLkGp9IJUsFU%2B8b6WqKoUPyj069pRQg%3D%3D",
+   "url": "https://www.ebay.fr/itm/257874838997?_skw=carte+m%C3%A8re&hash=item3c0a89c5d5:g:yhEAAeSwE6xrCULs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIqHUSL4UIrV6QU1gI79rkaPRmi8u5BT6ToKHWnxRPMjTIsDWl7YO5Z1ZqH1rEMJX0g0gBoysGGk%2B%2FVCLedbC5aTtWPbHANbf4W79jk7Twtogp9HzlFeylnddoTuHqUr6vVS9D9p%2Fh%2Bkd%2FUbOq5SyhbFvZ4K4OVx8aEXNruEQegWSyGwAs1Zm6ccNKiJ8fvdG5oqal3rjOqAeIjG9sDippbpXkNp%2Fv8xLTkNs0dgie4dpS610cM0OBEzEATuSp2dU9LgASp%2FnL4zsjH7XL5pL%2BqA6XbLkOY%2FqJj2IU4mV%2FjQ%3D%3D",
    "posted_at": "2026-11-27T08:57:59+00:00"
   },
   {
@@ -515,23 +515,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/digiera-1tb-nvme-m2-pcie-gen4-3471234",
    "posted_at": "2026-11-27T04:24:07+00:00"
-  },
-  {
-   "title": "Crucial P1 SSD interne M.2 2280 NVMe PCIe 500 Go CT500P1SSD8",
-   "model": "SSD:NVMe-500Go",
-   "category": "SSD",
-   "condition": "used",
-   "price_eur": 63.65,
-   "shipping_eur": 2.78,
-   "effective_eur": 66.43,
-   "median_eur": 82.77,
-   "discount_pct": 19.7,
-   "target_hit": false,
-   "suspect": false,
-   "merchant": "eBay · boiteachiner (100,0 %, 234 avis)",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/327454930674?_skw=ssd&hash=item4c3dd5b6f2:g:SqoAAeSwy59q9513",
-   "posted_at": "2026-11-13T23:31:02+00:00"
   },
   {
    "title": "Samsung 870 EVO 500GB 2,5 Zoll SATA III SSD Testés et formatés ",
@@ -824,7 +807,7 @@
    "title": "Ordinateur Rosch RC-HD450-ATXW 4U boîtier rack ATX sans alimentation...",
    "price_raw": "71.00 EUR",
    "source": "ebay",
-   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR5TkCLzMUKMSK6sVD2zsVY%2FfiXPZIHqLBABylTdL%2BQPszSDwcP2bfEKez7DPNiuYh972MnNYoIRNMJlHJ%2BUJm7aGInRvp%2BxVrFGY8FUACHg06tTX5k89Sb5CRcCTrJP6tHJDvfJ9GXy%2FWBP8mwDhvS4I9Gkzn7ABksCOF2DvOadGg%3D%3D",
+   "url": "https://www.ebay.fr/itm/800974817111?_skw=boitier+pc&hash=itemba7dd1c757:g:ZwMAAeSwnbBrCetb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mrEib9sa%2F8vyy54xNT9K2CKWmIeS2VKo5mdEU1hvF%2BTB8FD59Ll34dGzU7xwg1JdnrQhQIOywNzz5iddVZ2rnnuGtl4M7RCRo2rijXnwtWJGqluq162etDk2FWIBbxOR4wcX8nn6NumrnBGBl%2B58aZV8cLJ%2FOKn0kKS2p2ibx4kyBHWfMEHvbNHOkQSKWzuZ5WR3YlOc%2F13dPKOdrR--JO1elAPsJpwEWlvLDAOSGZcO8C%2FFGUtkeqsbYz9qBD7ptlKDDjMWJZpjyHCtTOU7bhVrWwzPiCdL94TG1LNW0YOg%3D%3D",
    "posted_at": "2026-11-27T20:43:03+00:00"
   },
   {
@@ -854,13 +837,6 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/imprimante-multifonction-epson-ecotank-et-2861-3472962",
    "posted_at": "2026-11-27T19:17:36+00:00"
-  },
-  {
-   "title": "8 Go DDR4 2666 MHz Micron RAM Barrette de mémoire PC Fixe",
-   "price_raw": "44.38 EUR",
-   "source": "ebay",
-   "url": "https://www.ebay.fr/itm/880157558490?_skw=ddr4&hash=itemcced7a86da:g:1PMAAeSw78xrCdkf",
-   "posted_at": "2026-11-27T19:26:58+00:00"
   },
   {
    "title": "PC Portable 15.3\" Lenovo Legion 5 15AHP11 - WQXGA OLED 165Hz, Ryzen 7 250, 32 Go de RAM, 512 Go de SSD, RTX 5060, clavier Espagnol",
@@ -1071,10 +1047,17 @@
    "source": "dealabs",
    "url": "https://www.dealabs.com/bons-plans/tablette-chuwi-hi10-x2-ecran-fhd-101-pouces-3472395",
    "posted_at": "2026-11-27T13:41:25+00:00"
+  },
+  {
+   "title": "Tablette Lenovo Idea Tab Plus 12,1\" 2,5K 90 Hz - Dimensity 6400, 8 Go RAM, 256 Go, stylet et coque Folio",
+   "price_raw": "224,99€",
+   "source": "dealabs",
+   "url": "https://www.dealabs.com/bons-plans/tablette-lenovo-idea-tab-plus-121-25k-90-hz-dimensity-6400-8-go-ram-256-go-stylet-et-coque-folio-3472392",
+   "posted_at": "2026-11-27T13:38:29+00:00"
   }
  ],
  "stats": {
-  "listings_seen": 2014,
-  "models_with_reference": 89
+  "listings_seen": 2012,
+  "models_with_reference": 90
  }
 }
